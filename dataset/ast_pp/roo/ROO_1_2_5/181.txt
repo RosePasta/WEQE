@@ -1,0 +1,39 @@
+VARSIG7	serverfailure server failure error
+VARSIG6	response
+VARSIG9	set constraintviolation constraint violation violations
+VARSIG8	ignore
+VARSIG3	proxy
+VARSIG2	placecontroller place controller placecontroller place controller
+VARSIG5	eventbus event bus eventbus event bus
+VARSIG4	acceptsonewidget accepts widget display
+COMMENTS	activity editing record subclasses provide access request fired save clicked instances reusable activity stopped restarted type proxy edited called create request save request context fire save button clicked proxy edited mutable typically call link requestcontext request context edit entityproxy entity proxy link requestcontext request context create callbacks editordriver editor driver stopped midflight warnings maystop defeat ischanged changed check defeat call flight check overridable perform actions editordriver editor driver edit called empty overridable perform actions editordriver editor driver edit called empty overridable perform actions view visible empty type matches proxy type called user cancels saved implementation tells link placecontroller place controller details edited record savedtrue comitted user canceled waiting rpc response waiting response poke setters proxy call editordriver editor driver flush set waiting flag warn disable view
+VARSIG1	applicationrequestfactory application request factory factory
+VARSIG0	entityproxyid entity proxy proxyid proxy
+MTHSIG4	getproxy proxy
+MTHSIG5	start acceptsonewidget accepts widget display eventbus event bus eventbus event bus
+VARSIG11	wait
+MTHSIG6	createfindrequest create find request
+VARSIG10	saved
+MTHSIG7	cancelclicked cancel clicked
+MTHSIG0	abstractproxyeditactivity proxy edit activity entityproxyid entity proxy proxyid proxy applicationrequestfactory application request factory factory placecontroller place controller placecontroller place controller
+MTHSIG1	getview view
+PACKAGE	top level client scaffold place
+MTHSIG2	createproxy create proxy
+MTHSIG3	createsaverequest create save request proxy
+MTHSIG20	iswaiting waiting
+MTHSIG21	setwaiting set waiting wait
+MTHSIG8	maystop
+MTHSIG9	oncancel cancel
+MTHSIG17	getproxyid proxy
+MTHSIG18	changed
+MTHSIG15	executeafterbind execute bind
+MTHSIG16	executedisplayset execute display set
+MTHSIG13	bindtoview bind view
+MTHSIG14	executebeforebind execute bind
+MTHSIG11	saveclicked save clicked
+MTHSIG12	executepostsaveactions execute post save actions
+CLASSES	abstractproxyeditactivity proxy edit activity
+METHODS	abstractproxyeditactivity proxy edit activity getview view createproxy create proxy createsaverequest create save request getproxy proxy start createfindrequest create find request cancelclicked cancel clicked maystop oncancel cancel onstop saveclicked save clicked executepostsaveactions execute post save actions bindtoview bind view executebeforebind execute bind executeafterbind execute bind executedisplayset execute display set getproxyid proxy changed exit iswaiting waiting setwaiting set waiting
+MTHSIG19	exit saved
+MTHSIG10	onstop
+VARIABLES	proxyid proxy factory placecontroller place controller proxy display eventbus event bus response error ignore violations saved wait placecontroller place controller factory proxyid proxy editordriver editor driver proxy display eventbus event bus waiting unsavedchangeswarning unsaved warning request

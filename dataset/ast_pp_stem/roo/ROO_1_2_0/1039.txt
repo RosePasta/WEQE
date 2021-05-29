@@ -1,0 +1,36 @@
+MTHSIG28	testbackonedirectori test directori 
+MTHSIG26	testgetfirstdirectoryofexistingdirectori test directori exist directori 
+MTHSIG27	testgetfirstdirectoryofexistingfil test directori exist file 
+MTHSIG24	testgetinputstreamofinvalidfil test input stream invalid file 
+MTHSIG25	assertfirstdirectori directori path expectedfirstdirectori expect directori 
+MTHSIG22	testgetpath test path 
+MTHSIG23	testgetinputstreamoffileinsubdirectori test input stream file directori 
+COMMENTS	unit test link fileutil file util set invok check set invok set invok check set invok check invok check invok check set invok check 
+VARSIG1	expectedfirstdirectori expect directori 
+VARSIG0	path 
+MTHSIG4	testgetfileseparatorasregex test file separ regex 
+MTHSIG5	testremovetrailingseparatorfromnullpath test remov trail separ path 
+MTHSIG6	testremovetrailingseparatorfromemptypath test remov trail separ empti path 
+MTHSIG7	testremovetrailingseparatorfrompathwithleadingsepar test remov trail separ path lead separ 
+MTHSIG0	testgetsystemdependentpathfromnullarrai test system depend path arrai 
+MTHSIG1	testgetsystemdependentpathfromnoel test system depend path element 
+PACKAGE	springframework roo support util 
+MTHSIG2	testgetsystemdependentpathfromoneel test system depend path element 
+MTHSIG3	testgetsystemdependentpathfrommultipleel test system depend path multipl element 
+MTHSIG20	testremoveleadingandtrailingseparatorsfrompathwithboth test remov lead trail separ path 
+MTHSIG21	testgetfil test file 
+MTHSIG8	testremovetrailingseparatorfrompathwithmultipletrailingsepar test remov trail separ path multipl trail separ 
+MTHSIG9	testensuretrailingseparatorfornullpath test ensur trail separ path 
+MTHSIG17	testremoveleadingandtrailingseparatorsfromnullpath test remov lead trail separ path 
+MTHSIG18	testremoveleadingandtrailingseparatorsfromemptypath test remov lead trail separ empti path 
+MTHSIG15	testgetcanonicalpathforinvalidfil test canon path invalid file 
+MTHSIG16	testgetcanonicalpathforvalidfil test canon path valid file 
+MTHSIG13	testensuretrailingseparatorfrompathwithmultipletrailingsepar test ensur trail separ path multipl trail separ 
+MTHSIG14	testgetcanonicalpathfornullfil test canon path file 
+MTHSIG11	testensuretrailingseparatorforpathwithnotrailingsepar test ensur trail separ path trail separ 
+MTHSIG12	testensuretrailingseparatorforpathwithonetrailingsepar test ensur trail separ path trail separ 
+CLASSES	fileutilstest file util test 
+METHODS	testgetsystemdependentpathfromnullarrai test system depend path arrai testgetsystemdependentpathfromnoel test system depend path element testgetsystemdependentpathfromoneel test system depend path element testgetsystemdependentpathfrommultipleel test system depend path multipl element testgetfileseparatorasregex test file separ regex testremovetrailingseparatorfromnullpath test remov trail separ path testremovetrailingseparatorfromemptypath test remov trail separ empti path testremovetrailingseparatorfrompathwithleadingsepar test remov trail separ path lead separ testremovetrailingseparatorfrompathwithmultipletrailingsepar test remov trail separ path multipl trail separ testensuretrailingseparatorfornullpath test ensur trail separ path testensuretrailingseparatorforemptypath test ensur trail separ empti path testensuretrailingseparatorforpathwithnotrailingsepar test ensur trail separ path trail separ testensuretrailingseparatorforpathwithonetrailingsepar test ensur trail separ path trail separ testensuretrailingseparatorfrompathwithmultipletrailingsepar test ensur trail separ path multipl trail separ testgetcanonicalpathfornullfil test canon path file testgetcanonicalpathforinvalidfil test canon path invalid file testgetcanonicalpathforvalidfil test canon path valid file testremoveleadingandtrailingseparatorsfromnullpath test remov lead trail separ path testremoveleadingandtrailingseparatorsfromemptypath test remov lead trail separ empti path testremoveleadingandtrailingseparatorsfromplainpath test remov lead trail separ plain path testremoveleadingandtrailingseparatorsfrompathwithboth test remov lead trail separ path testgetfil test file testgetpath test path testgetinputstreamoffileinsubdirectori test input stream file directori testgetinputstreamofinvalidfil test input stream invalid file assertfirstdirectori directori testgetfirstdirectoryofexistingdirectori test directori exist directori testgetfirstdirectoryofexistingfil test directori exist file testbackonedirectori test directori 
+MTHSIG19	testremoveleadingandtrailingseparatorsfromplainpath test remov lead trail separ plain path 
+MTHSIG10	testensuretrailingseparatorforemptypath test ensur trail separ empti path 
+VARIABLES	path expectedfirstdirectori expect directori miss file test file expectedpath expect path regex currentdirectori current directori pathel path element path path path path path invalidfil invalid file validfil valid file canonicalpath canon path actualpath actual path path separ path inputstream input stream content firstdirectori directori directori firstdirectori directori 

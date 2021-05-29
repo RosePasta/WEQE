@@ -1,0 +1,18 @@
+VARSIG7	database database
+VARSIG6	displayaddons display add ons
+VARSIG3	view
+VARSIG2	set schema schemas
+VARSIG5	set excludetables exclude tables
+VARSIG4	set includetables include tables
+COMMENTS	retrieves database metadata dbre xml file jdbc connection writes database metadata dbre xml file dbre xml file schema databases support schemas mysql sql reads database metadata cache dbre xml file evictcache evict cache forces eviction database cache attempting retrieval database metadata parsed unavailable reason returns set database link schema schemas displayaddons display add ons display add ons required set schemas retrieves database metadata jdbc connection schemas schema query required view database views retrieved includetables include tables set table names include excludetables exclude tables set table names exlude database metadata connect database schema determines database schemas examples databases schemas mysql sql firebird displayaddons display add ons display add ons required database supports schema runtimeexception runtime exception problem acquiring connection serializes database dbre xml file database database written disk
+CLASSES	dbremodelservice dbre model service
+VARSIG1	displayaddons display add ons
+VARSIG0	evictcache evict cache
+METHODS	getdatabase database getschemas schemas refreshdatabase refresh database supportsschema supports schema writedatabase write database
+MTHSIG4	writedatabase write database database database
+MTHSIG0	getdatabase database evictcache evict cache
+MTHSIG1	getschemas schemas displayaddons display add ons
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	refreshdatabase refresh database set schema schemas view set includetables include tables set excludetables exclude tables
+MTHSIG3	supportsschema supports schema displayaddons display add ons
+VARIABLES	evictcache evict cache displayaddons display add ons schemas view includetables include tables excludetables exclude tables displayaddons display add ons database dbre xml schema required

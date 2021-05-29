@@ -1,0 +1,47 @@
+VARSIG7	methodmetadata metadata findentriesmethod find entries
+VARSIG6	methodmetadata metadata findmethod find
+VARSIG9	metadataservice metadata service metadataservice metadata service
+VARSIG8	methodmetadata metadata persistmethod persist
+VARSIG3	dataondemandannotationvalues data demand annotation values annotationvalues annotation values
+VARSIG2	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG5	methodmetadata metadata identifieraccessor identifier accessor
+VARSIG4	beaninfometadata bean info metadata beaninfometadata bean info metadata
+COMMENTS	metadata link roodataondemand roo data demand findentityentries find entity entries integer integer list entity required persist instance entity create required mandatory methods order discovery guarantee generated consistent manner scm compatibility key mandatory setter invoke argument mutator expressed entities requiring data demand instance fields exist needed lookup dataondemand data demand metadata depend expect field correct rely move field field add hasn adds springframework stereotype component annotation type exists annotation exists created created required springframework stereotype component annotation introduced introduced rnd field user produced demand returns compute required field verify candidate suitable candidate naming clashes subclasses candidate isn util random isn suitable valid candidate don check initializer assume user they candidate let create data field user produced demand returns compute required field type parameters field type verify candidate suitable candidate naming clashes subclasses candidate isn util list theentity entity isn suitable equals verifies type params valid candidate don check initializer assume user they candidate let create getnewtransiententity entity entity returns definition find build locate user defined create modifyentity modify entity entity returns definition find build locate user defined create todo port fully original code base getrandomentity random entity entity returns definition find build locate user defined create getspecificentity specific entity entity returns definition find build locate user defined create init returns definition find build locate user defined create create annotations create body field mutator chances mandatory include field shouldn mutator user include version field generally won provide mutator version cases include sort collection user entities hand include field required marked jsr notnull annotations simple invoke auto boxed auto boxed auto boxed auto boxed auto boxed avoid circular references roo metadata relying decide dealing roo metadata basic assumptions correct physical type identifier link beaninfometadata bean info metadata link roodataondemand roo data demand create empty metadata invalid annotation values link roodataondemand roo data demand metadata invalid
+VARSIG19	metadataidentificationstring metadata identification
+VARSIG1	javatype type aspectname aspect
+VARSIG18	metadataidentificationstring metadata identification
+VARSIG0	identifier
+VARSIG17	path path
+MTHSIG4	getdatafield data field
+VARSIG12	methodmetadata metadata mutator
+MTHSIG5	getnewtransiententitymethod entity
+VARSIG11	javatype type entityneedingcollaborator entity needing collaborator
+MTHSIG6	getmodifymethod modify
+VARSIG10	metadatadependencyregistry metadata dependency registry metadatadependencyregistry metadata dependency registry
+MTHSIG7	getrandompersistententitymethod random persistent entity
+MTHSIG0	dataondemandmetadata data demand metadata identifier javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata dataondemandannotationvalues data demand annotation values annotationvalues annotation values beaninfometadata bean info metadata beaninfometadata bean info metadata methodmetadata metadata identifieraccessor identifier accessor methodmetadata metadata findmethod find methodmetadata metadata findentriesmethod find entries methodmetadata metadata persistmethod persist metadataservice metadata service metadataservice metadata service metadatadependencyregistry metadata dependency registry metadatadependencyregistry metadata dependency registry
+VARSIG16	javatype type javatype type
+MTHSIG1	getcomponentannotation component annotation
+VARSIG15	javatype type entity
+PACKAGE	springframework roo addon dod
+MTHSIG2	iscomponentannotationintroduced component annotation introduced
+VARSIG14	javatype type entity
+MTHSIG3	getrndfield rnd field
+VARSIG13	methodmetadata metadata mutatormethod mutator
+MTHSIG20	isvalid valid metadataidentificationstring metadata identification
+MTHSIG8	getspecificpersistententitymethod specific persistent entity
+MTHSIG9	getinitmethod init
+MTHSIG17	createidentifier create identifier javatype type javatype type path path
+MTHSIG18	getjavatype type metadataidentificationstring metadata identification
+MTHSIG15	tostring
+MTHSIG16	getmetadataidentifertype metadata identifer type
+MTHSIG13	getidentifierforbeaninfometadata identifier bean info metadata
+MTHSIG14	getannotationvalues annotation values
+MTHSIG11	getcollaboratingfieldname collaborating field javatype type entity
+MTHSIG12	getcollaboratingtype collaborating type javatype type entity
+CLASSES	dataondemandmetadata data demand metadata
+METHODS	dataondemandmetadata data demand metadata getcomponentannotation component annotation iscomponentannotationintroduced component annotation introduced getrndfield rnd field getdatafield data field getnewtransiententitymethod entity getmodifymethod modify getrandompersistententitymethod random persistent entity getspecificpersistententitymethod specific persistent entity getinitmethod init mutatordiscovery mutator discovery getcollaboratingfieldname collaborating field getcollaboratingtype collaborating type getidentifierforbeaninfometadata identifier bean info metadata getannotationvalues annotation values tostring getmetadataidentifertype metadata identifer type createidentifier create identifier getjavatype type getpath path isvalid valid
+MTHSIG19	getpath path metadataidentificationstring metadata identification
+VARSIG20	metadataidentificationstring metadata identification
+MTHSIG10	mutatordiscovery mutator discovery
+VARIABLES	identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata annotationvalues annotation values beaninfometadata bean info metadata identifieraccessor identifier accessor findmethod find findentriesmethod find entries persistmethod persist metadataservice metadata service metadatadependencyregistry metadata dependency registry entityneedingcollaborator entity needing collaborator mutator mutatormethod mutator entity entity javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification metadataidentificationstring metadata identification type type annotationvalues annotation values beaninfometadata bean info metadata identifieraccessormethod identifier accessor findmethod find findentriesmethod find entries persistmethod persist mandatorymutators mandatory mutators mutatorarguments mutator arguments requireddataondemandcollaborators required data demand collaborators metadataservice metadata service metadatadependencyregistry metadata dependency registry fieldsaddedtoitd fields collaboratortype collaborator type collaboratingfieldname collaborating field fieldsymbolname field symbol candidate annotations field javatype type javatype type result fieldname field fieldsymbolname field symbol candidate field fieldname field typeparams type params fieldsymbolname field symbol candidate field methodname paramtypes types paramnames names returntype type usermethod user bodybuilder body builder initializer methodname paramtypes types paramnames names returntype type usermethod user bodybuilder body builder methodname paramtypes types paramnames names returntype type usermethod user bodybuilder body builder methodname paramtypes types paramnames names returntype type usermethod user bodybuilder body builder methodname paramtypes types paramnames names returntype type usermethod user annotations attributes bodybuilder body builder datafield data field propertyname property field initializer collaboratingfieldname collaborating field otherprovider provider onetoone othermd tsc

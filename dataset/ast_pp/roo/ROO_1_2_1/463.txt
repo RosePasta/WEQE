@@ -1,0 +1,13 @@
+VARSIG2	tailorconfigurationfactory tailor configuration factory factory
+COMMENTS	implementation link configurationlocator configuration locator activated configuration map configurations dynamically bound felix startup todo unelegant call create
+CLASSES	defaultconfigurationlocator configuration locator
+VARSIG1	
+VARSIG0	tailorconfigurationfactory tailor configuration factory factory
+METHODS	bindconfig bind config getactivetailorconfiguration active tailor configuration getavailableconfigurations configurations setactivetailorconfiguration set active tailor configuration unbindconfig unbind config
+MTHSIG4	unbindconfig unbind config tailorconfigurationfactory tailor configuration factory factory
+MTHSIG0	bindconfig bind config tailorconfigurationfactory tailor configuration factory factory
+MTHSIG1	getactivetailorconfiguration active tailor configuration
+PACKAGE	springframework roo addon tailor service
+MTHSIG2	getavailableconfigurations configurations
+MTHSIG3	setactivetailorconfiguration set active tailor configuration
+VARIABLES	factory factory logger activatedtailorconfigname activated tailor config configurations config config

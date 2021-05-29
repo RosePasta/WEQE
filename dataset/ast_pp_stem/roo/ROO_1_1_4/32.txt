@@ -1,0 +1,155 @@
+MTHSIG28	getaccessor accessor fieldmetadata field metadata field 
+MTHSIG29	getbooleanprimitiveaccessor primit accessor fieldmetadata field metadata field 
+MTHSIG26	hasaccessor accessor fieldmetadata field metadata field 
+MTHSIG27	hasbooleanprimitiveaccessor primit accessor fieldmetadata field metadata field 
+MTHSIG24	hasfield field fieldmetadata field metadata field 
+MTHSIG25	hasfieldinitd field javasymbolnam symbol fieldnam field 
+MTHSIG22	addtobuild add builder fieldmetadata field metadata field 
+MTHSIG23	getuniquefieldnam uniqu field javasymbolnam symbol fieldnam field 
+MTHSIG4	addmanytoonefield add field databas databas tabl tabl 
+VARSIG78	fieldmetadata field metadata itdfield field 
+MTHSIG5	getmanytomanyowningsidefield own side field javasymbolnam symbol fieldnam field tabl jointabl join tabl tabl inversesidet invers side tabl 
+VARSIG77	annotationmetadata annot metadata annotationmetadata annot metadata 
+MTHSIG6	getmanytomanyinversesidefield invers side field javasymbolnam symbol fieldnam field javasymbolnam symbol mappedbyfieldnam map field tabl owningsidet own side tabl 
+VARSIG76	annotationmetadata annot metadata governorannot governor annot 
+MTHSIG7	getonetoonemappedbyfield map field javasymbolnam symbol fieldnam field javatyp type fieldtyp field type javasymbolnam symbol mappedbyfieldnam map field 
+VARSIG75	fieldmetadata field metadata governorfield governor field 
+MTHSIG0	dbremetadata dbre metadata identifi javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata dbmanagedannotationvalu manag annot valu annotationvalu annot valu list fieldmetadata field metadata entityfield entiti field list methodmetadata metadata entitymethod entiti method fieldmetadata field metadata identifierfield identifi field embeddedidentifierhold embed identifi holder embeddedidentifierhold embed identifi holder fieldmetadata field metadata versionfield version field set classorinterfacetypedetail type detail managedent manag entiti databas databas 
+MTHSIG1	addmanytomanyfield add field databas databas tabl tabl 
+MTHSIG2	addonetoonefield add field databas databas tabl tabl 
+MTHSIG3	addonetomanyfield add field databas databas tabl tabl 
+VARSIG79	javasymbolnam symbol fieldnam field 
+MTHSIG20	isversionfield version field javasymbolnam symbol fieldnam field 
+VARSIG70	tablenam tabl 
+MTHSIG21	getfield field javasymbolnam symbol fieldnam field column column tablenam tabl includenonport includ portabl 
+MTHSIG8	getonetooneormanytoonefield field javasymbolnam symbol fieldnam field javatyp type fieldtyp field type set refer refer javatyp type annotationtyp annot type referencedcolumn referenc column 
+VARSIG74	fieldmetadata field metadata field 
+MTHSIG9	excludefieldsintostringannot exclud field annot fieldnam field 
+VARSIG73	javasymbolnam symbol fieldnam field 
+VARSIG72	fieldmetadata field metadata field 
+VARSIG71	includenonport includ portabl 
+MTHSIG39	isautomaticallydelet automat delet 
+MTHSIG37	geterrormsg error msg tablenam tabl 
+MTHSIG38	geterrormsg error msg foreigntablenam foreign tabl tablenam tabl 
+MTHSIG35	getrequiredmutatornam requir mutat fieldmetadata field metadata field 
+MTHSIG36	getinflectorplur inflector plural term 
+MTHSIG33	hasmut mutat fieldmetadata field metadata field 
+MTHSIG34	getmut mutat fieldmetadata field metadata field 
+METHODS	dbremetadata dbre metadata addmanytomanyfield add field addonetoonefield add field addonetomanyfield add field addmanytoonefield add field getmanytomanyowningsidefield own side field getmanytomanyinversesidefield invers side field getonetoonemappedbyfield map field getonetooneormanytoonefield field excludefieldsintostringannot exclud field annot getonetomanymappedbyfield map field getjoincolumnannot join column annot getjoincolumnannot join column annot getjoincolumnsannot join column annot isonetoon addotherfield add field iscompositekeyfield composit kei field iscompositekeycolumn composit kei column isidfield field isembeddedidfield embed field isversionfield version field getfield field addtobuild add builder getuniquefieldnam uniqu field hasfield field hasfieldinitd field hasaccessor accessor hasbooleanprimitiveaccessor primit accessor getaccessor accessor getbooleanprimitiveaccessor primit accessor getaccessor accessor getrequiredaccessornam requir accessor getbooleanprimitiveaccessornam primit accessor hasmut mutat getmut mutat getrequiredmutatornam requir mutat getinflectorplur inflector plural geterrormsg error msg geterrormsg error msg isautomaticallydelet automat delet getmetadataidentifertyp metadata identif type createidentifi creat identifi getjavatyp type getpath path isvalid valid 
+VARSIG67	javasymbolnam symbol fieldnam field 
+VARSIG66	javasymbolnam symbol fieldnam field 
+VARSIG65	javasymbolnam symbol fieldnam field 
+VARSIG64	annotationmetadata annot metadata annot 
+VARSIG69	column column 
+VARSIG68	javasymbolnam symbol fieldnam field 
+MTHSIG31	getrequiredaccessornam requir accessor fieldmetadata field metadata field 
+MTHSIG32	getbooleanprimitiveaccessornam primit accessor fieldmetadata field metadata field 
+MTHSIG30	getaccessor accessor javatyp type fieldtyp field type requiredaccessornam requir accessor methodbodi bodi 
+VARSIG63	fieldmetadata field metadata field 
+VARSIG62	column column 
+VARSIG61	fieldmetadata field metadata field 
+VARSIG60	javasymbolnam symbol fieldnam field 
+COMMENTS	metadata link roodbmanag roo manag creat manag entiti relationship valu singl valu associ associ creat base law primari kei foreign kei law foreign kei column primari kei relationship tabl primari kei foreign kei law foreign kei column repres entir primari kei entir relationship tabl associ creat join tabl detect identifi join tabl tabl primari foreign point entiti tabl column add field valu associ multipl add field singl valu associ entiti multipl add field valu associ multipl add field singl valu associ entiti multipl add remain field column creat represent desir output foreign kei set foreign kei set add uniqu field field store field kei map ad builder ensur field foreign multipl column creat exclud field rootostr roo avoid circular refer roo add map field check exist field roo check exist field roo add uniqu field assum multipl field store field kei map ad builder ensur field foreign multipl column creat add annot field add manytomani annot add jointabl join tabl annot add joincolumn join column attribut nest joincolumn join column annot add inversejoincolumn invers join column attribut nest joincolumn join column annot add attribut jointabl join tabl annot builder add annot field add annot field add annot add joincolumn join column annot add joincolumn join column annot copi exist attribut exclud ignorefield ignor field attribut ensur arrai string add desir field ignor add onetomani annot add annot field add column annot add length attribut string add precis scale attribut numer field add uniqu column applic add notnul applic add jsr tempor annot field add lob clob field applic check exist accessor governor entiti metadata add accessor object field check exist mutat governor entiti metadata comput requir field usabl field check governor field check column annot field governor attribut attribut joincolumn join column gener field check entiti field check field check governor accessor check entiti accessor check governor accessor object field check governor mutat check entiti mutat inflector fail roo don plural 
+VARSIG19	databas databas 
+VARSIG18	foreignkei foreign kei exportedkei export kei 
+VARSIG17	fieldmetadata field metadata field 
+VARSIG12	tabl tabl 
+VARSIG11	databas databas 
+VARSIG99	tablenam tabl 
+VARSIG10	databas databas 
+VARSIG98	foreigntablenam foreign tabl 
+VARSIG97	tablenam tabl 
+VARSIG16	foreignkei foreign kei foreignkei foreign kei 
+VARSIG15	tabl tabl 
+VARSIG14	databas databas 
+VARSIG13	tabl jointabl join tabl 
+VARSIG92	methodmetadata metadata 
+VARSIG91	fieldmetadata field metadata field 
+VARSIG90	fieldmetadata field metadata field 
+VARSIG96	runtimeexcept runtim except 
+VARSIG95	term 
+VARSIG94	fieldmetadata field metadata field 
+VARSIG93	fieldmetadata field metadata field 
+MTHSIG17	iscompositekeycolumn composit kei column column column 
+MTHSIG18	isidfield field javasymbolnam symbol fieldnam field 
+MTHSIG15	addotherfield add field tabl tabl 
+MTHSIG16	iscompositekeyfield composit kei field javasymbolnam symbol fieldnam field 
+MTHSIG13	getjoincolumnsannot join column annot set refer refer javatyp type fieldtyp field type 
+MTHSIG14	isonetoon tabl tabl foreignkei foreign kei foreignkei foreign kei 
+MTHSIG11	getjoincolumnannot join column annot refer refer referencedcolumn referenc column 
+MTHSIG12	getjoincolumnannot join column annot refer refer referencedcolumn referenc column javatyp type fieldtyp field type 
+MTHSIG19	isembeddedidfield embed field javasymbolnam symbol fieldnam field 
+VARSIG89	fieldmetadata field metadata field 
+VARSIG88	methodbodi bodi 
+VARSIG87	requiredaccessornam requir accessor 
+VARSIG86	javatyp type fieldtyp field type 
+VARSIG81	fieldmetadata field metadata field 
+MTHSIG10	getonetomanymappedbyfield map field javasymbolnam symbol fieldnam field javasymbolnam symbol mappedbyfieldnam map field foreigntablenam foreign tabl 
+VARSIG80	fieldmetadatabuild field metadata builder declaredfield declar field 
+VARIABLES	identifi aspectnam aspect governorphysicaltypemetadata governor physic type metadata annotationvalu annot valu entityfield entiti field entitymethod entiti method identifierfield identifi field embeddedidentifierhold embed identifi holder versionfield version field managedent manag entiti databas databas tabl jointabl join tabl databas tabl foreignkei foreign kei field exportedkei export kei databas tabl exportedkei export kei databas tabl foreignkei foreign kei field fieldnam field jointabl join tabl inversesidet invers side tabl refer refer fieldnam field mappedbyfieldnam map field owningsidet own side tabl fieldnam field fieldtyp field type mappedbyfieldnam map field fieldnam field fieldtyp field type refer annotationtyp annot type referencedcolumn referenc column fieldnam field obj fieldnam field mappedbyfieldnam map field foreigntablenam foreign tabl refer referencedcolumn referenc column refer referencedcolumn referenc column fieldtyp field type refer fieldtyp field type refer tabl foreignkei foreign kei tabl column field fieldnam field field column field annot fieldnam field fieldnam field fieldnam field fieldnam field column tablenam tabl includenonport includ portabl field fieldnam field field governorfield governor field governorannot governor annot annotationmetadata annot metadata itdfield field fieldnam field declaredfield declar field field field field field fieldtyp field type requiredaccessornam requir accessor methodbodi bodi field field field field field term tablenam tabl foreigntablenam foreign tabl tablenam tabl javatyp type path metadataidentificationstr metadata identif metadataidentificationstr metadata identif metadataidentificationstr metadata identif type type column join column join column map referenc column annotationvalu annot valu entityfield entiti field entitymethod entiti method identifierfield identifi field embeddedidentifierhold embed identifi holder versionfield version field managedent manag entiti tabl owningsidet own side tabl errmsg err msg iter foreignkei foreign kei foreignkei foreign kei owningsidet own side tabl inversesidet invers side tabl tablecount tabl count fieldsuffix field suffix samet tabl fieldnam field field fieldnam field mappedbyfieldnam map field field uniquefield uniqu field foreigntablenam foreign tabl keysequ kei sequenc fieldsuffix field suffix fieldnam field fieldtyp field type field foreigntablenam foreign tabl foreignt foreign tabl keysequ kei sequenc fieldsuffix field suffix fieldnam field fieldtyp field type mappedbyfieldnam map field field foreigntablenam foreign tabl foreignt foreign tabl keysequ kei sequenc fieldsuffix field suffix fieldnam field mappedbyfieldnam map field refer field uniquefield uniqu field fieldnam field foreigntablenam foreign tabl refer keysequ kei sequenc fieldsuffix field suffix fieldtyp field type field param element physicaltypeidentifi physic type identifi fielddetail field detail annot jointablebuild join tabl builder jointableannotationattribut join tabl annot attribut iter joincolumnarrayvalu join column arrai valu firstkeyrefer kei refer joincolumnbuild join column builder inversejoincolumnarrayvalu invers join column arrai valu lastlastrefer refer joincolumnbuild join column builder fieldbuild field builder param element physicaltypeidentifi physic type identifi fielddetail field detail annot manytomanybuild builder fieldbuild field builder annot onetoonebuild builder fieldbuild field builder annot fieldbuild field builder ptd mutabl tostringtyp type tostringannot annot attribut ignorefield ignor field alreadyad errmsg err msg arrayv arrai val tostringannotationbuild annot builder param element physicaltypeidentifi physic type identifi fielddetail field detail annot onetomanybuild builder fieldbuild field builder joincolumnbuild join column builder arrayvalu arrai valu joincolumnannot join column annot attribut equal primarykeyiter primari kei iter uniquefield uniqu field field columnnam column fieldnam field isidfield field isversionfield version field iscompositekeyfield composit kei field isforeignkei foreign kei hasembeddedidfield embed field nameattribut attribut fieldtyp field type annot columnbuild column builder temporalbuild tempor builder datetimeformatbuild time format builder fieldbuild field builder uniquefield uniqu field uniquefieldnam uniqu field governorfield governor field columnnam column declaredfield declar field requiredaccessornam requir accessor methodbodi bodi fieldnam field methodbodi bodi bodybuild bodi builder methodbuild builder methodnam requiredmutatornam requir mutat requiredmutatornam requir mutat paramtyp type paramnam name bodybuild bodi builder methodbuild builder 
+VARSIG85	fieldmetadata field metadata field 
+VARSIG84	fieldmetadata field metadata field 
+VARSIG83	fieldmetadata field metadata field 
+VARSIG82	methodmetadata metadata 
+VARSIG39	set refer refer 
+VARSIG34	javasymbolnam symbol fieldnam field 
+VARSIG33	tabl owningsidet own side tabl 
+VARSIG32	javasymbolnam symbol mappedbyfieldnam map field 
+VARSIG31	javasymbolnam symbol fieldnam field 
+VARSIG38	javatyp type fieldtyp field type 
+VARSIG37	javasymbolnam symbol fieldnam field 
+PACKAGE	springframework roo addon dbre 
+VARSIG36	javasymbolnam symbol mappedbyfieldnam map field 
+VARSIG35	javatyp type fieldtyp field type 
+VARSIG30	refer refer 
+CLASSES	dbremetadata dbre metadata 
+VARSIG29	refer refer 
+VARSIG28	tabl inversesidet invers side tabl 
+VARSIG23	tabl tabl 
+VARSIG22	databas databas 
+VARSIG21	foreignkei foreign kei exportedkei export kei 
+VARSIG20	tabl tabl 
+VARSIG27	tabl jointabl join tabl 
+VARSIG26	javasymbolnam symbol fieldnam field 
+VARSIG25	fieldmetadata field metadata field 
+VARSIG24	foreignkei foreign kei foreignkei foreign kei 
+VARSIG7	embeddedidentifierhold embed identifi holder embeddedidentifierhold embed identifi holder 
+VARSIG6	fieldmetadata field metadata identifierfield identifi field 
+VARSIG9	set classorinterfacetypedetail type detail managedent manag entiti 
+VARSIG8	fieldmetadata field metadata versionfield version field 
+VARSIG3	dbmanagedannotationvalu manag annot valu annotationvalu annot valu 
+VARSIG2	physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+MTHSIG44	isvalid valid metadataidentificationstr metadata identif 
+VARSIG5	list methodmetadata metadata entitymethod entiti method 
+VARSIG4	list fieldmetadata field metadata entityfield entiti field 
+VARSIG1	javatyp type aspectnam aspect 
+VARSIG0	identifi 
+VARSIG56	foreignkei foreign kei foreignkei foreign kei 
+VARSIG55	tabl tabl 
+VARSIG54	refer refer 
+VARSIG53	javatyp type fieldtyp field type 
+VARSIG59	fieldmetadata field metadata field 
+VARSIG58	column column 
+VARSIG57	tabl tabl 
+VARSIG100	javatyp type javatyp type 
+MTHSIG42	getjavatyp type metadataidentificationstr metadata identif 
+VARSIG101	path path 
+MTHSIG43	getpath path metadataidentificationstr metadata identif 
+VARSIG102	metadataidentificationstr metadata identif 
+MTHSIG40	getmetadataidentifertyp metadata identif type 
+VARSIG103	metadataidentificationstr metadata identif 
+MTHSIG41	createidentifi creat identifi javatyp type javatyp type path path 
+VARSIG104	metadataidentificationstr metadata identif 
+VARSIG52	set refer refer 
+VARSIG51	javatyp type fieldtyp field type 
+VARSIG50	referencedcolumn referenc column 
+VARSIG45	javasymbolnam symbol mappedbyfieldnam map field 
+VARSIG44	javasymbolnam symbol fieldnam field 
+VARSIG43	object obj 
+VARSIG42	fieldnam field 
+VARSIG49	refer refer 
+VARSIG48	referencedcolumn referenc column 
+VARSIG47	refer refer 
+VARSIG46	foreigntablenam foreign tabl 
+VARSIG41	referencedcolumn referenc column 
+VARSIG40	javatyp type annotationtyp annot type 

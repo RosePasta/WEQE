@@ -1,0 +1,13 @@
+VARSIG3	list javasymbolname symbol parameternames parameter names
+VARSIG2	list annotatedjavatype annotated type parameters
+VARSIG5	body
+VARSIG4	list annotationmetadata annotation metadata annotations
+COMMENTS	implementation link constructormetadata constructor metadata
+CLASSES	defaultconstructormetadata constructor metadata
+VARSIG1	modifier
+VARSIG0	declaredbymetadataid declared metadata
+METHODS	defaultconstructormetadata constructor metadata tostring
+MTHSIG0	defaultconstructormetadata constructor metadata declaredbymetadataid declared metadata modifier list annotatedjavatype annotated type parameters list javasymbolname symbol parameternames parameter names list annotationmetadata annotation metadata annotations body
+MTHSIG1	tostring
+PACKAGE	springframework roo classpath details
+VARIABLES	declaredbymetadataid declared metadata modifier parameters parameternames parameter names annotations body tsc

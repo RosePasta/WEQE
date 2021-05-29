@@ -1,0 +1,39 @@
+VARSIG7	foreignschemanam foreign schema 
+VARSIG6	export 
+VARSIG9	keysequ kei sequenc 
+VARSIG8	tabl foreignt foreign tabl 
+VARSIG3	object obj 
+VARSIG2	refer refer 
+VARSIG5	refer refer 
+VARSIG4	column column 
+COMMENTS	repres databas foreign kei foreign kei model link sql databasemetadata databas meta data getimportedkei import link sql databasemetadata databas meta data getexportedkei export method foreign kei import export kei schema foreign tabl target tabl foreign target tabl sequenc number kei tabl foreign tabl foreign kei action perform referenc row delet action perform referenc column refer local remot column 
+VARSIG1	foreigntablenam foreign tabl 
+VARSIG0	 
+MTHSIG4	getforeignt foreign tabl 
+MTHSIG5	getforeigntablenam foreign tabl 
+VARSIG11	cascadeact cascad action onupd updat 
+MTHSIG6	getkeysequ kei sequenc 
+VARSIG10	cascadeact cascad action ondelet delet 
+MTHSIG7	getnam 
+MTHSIG0	foreignkei foreign kei foreigntablenam foreign tabl 
+MTHSIG1	addrefer add refer refer refer 
+PACKAGE	springframework roo addon dbre model 
+MTHSIG2	equal object obj 
+MTHSIG3	getforeignschemanam foreign schema 
+MTHSIG20	setonupd set updat cascadeact cascad action onupd updat 
+MTHSIG21	tostr 
+MTHSIG8	getondelet delet 
+MTHSIG9	getonupd updat 
+MTHSIG17	setforeignt set foreign tabl tabl foreignt foreign tabl 
+MTHSIG18	setkeysequ set kei sequenc keysequ kei sequenc 
+MTHSIG15	setexport set export export 
+MTHSIG16	setforeignschemanam set foreign schema foreignschemanam foreign schema 
+MTHSIG13	haslocalcolumn local column column column 
+MTHSIG14	isexport export 
+MTHSIG11	getrefer refer 
+MTHSIG12	hashcod hash code 
+CLASSES	foreignkei foreign kei 
+METHODS	foreignkei foreign kei addrefer add refer equal getforeignschemanam foreign schema getforeignt foreign tabl getforeigntablenam foreign tabl getkeysequ kei sequenc getnam getondelet delet getonupd updat getreferencecount refer count getrefer refer hashcod hash code haslocalcolumn local column isexport export setexport set export setforeignschemanam set foreign schema setforeignt set foreign tabl setkeysequ set kei sequenc setondelet set delet setonupd set updat tostr 
+MTHSIG19	setondelet set delet cascadeact cascad action ondelet delet 
+MTHSIG10	getreferencecount refer count 
+VARIABLES	foreigntablenam foreign tabl refer obj column refer export foreignschemanam foreign schema foreignt foreign tabl keysequ kei sequenc ondelet delet onupd updat export foreignschemanam foreign schema foreignt foreign tabl foreigntablenam foreign tabl keysequ kei sequenc ondelet delet onupd updat refer prime result 

@@ -1,0 +1,9 @@
+MTHSIG0	assertxmlequals xml equals expectedxml expected xml node actualnode actual node
+VARSIG2	node actualnode actual node
+PACKAGE	springframework roo project
+COMMENTS	convenient superclass xml based junit unit test cases builder xml dom documents asserts xml node expected content expectedlines expected lines expected lines xml required separate platform actualnode actual node actual xml node required assertionerror assertion error equal replace dummy terminator platform specific applied xmlutils xml utils nodetostring node trim trailing whitespace xmlutils xml utils nodetostring node appends extra newline
+CLASSES	xmltestcase xml test
+VARIABLES	expectedxml expected xml actualnode actual node document builder normalisedxml normalised xml actualxml actual xml
+VARSIG1	expectedxml expected xml
+VARSIG0	parserconfigurationexception parser configuration exception
+METHODS	assertxmlequals xml equals

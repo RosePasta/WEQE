@@ -1,0 +1,32 @@
+VARSIG7	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG6	javatype type aspectname aspect
+VARSIG9	classorinterfacetypedetails type details managedentity managed entity
+VARSIG8	itdfilename filename
+VARSIG3	path path
+VARSIG2	javatype type javatype type
+VARSIG5	metadataidentificationstring metadata identification
+VARSIG4	metadataidentificationstring metadata identification
+COMMENTS	link dbremetadata dbre metadata parse annotation expect abort database couldn deserialized occur dbre xml file deleted empty governor type details safely search database managed entities
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+MTHSIG4	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+VARSIG12	memberdetails member details memberdetails member details
+MTHSIG5	getidentifierfield identifier field memberdetails member details memberdetails member details metadataidentificationstring metadata identification
+VARSIG11	metadataidentificationstring metadata identification
+MTHSIG6	getembeddedidentifierholder embedded identifier holder memberdetails member details memberdetails member details metadataidentificationstring metadata identification
+VARSIG10	memberdetails member details memberdetails member details
+MTHSIG7	getversionfield version field memberdetails member details memberdetails member details metadataidentificationstring metadata identification
+MTHSIG0	activate componentcontext component context context
+VARSIG16	metadataidentificationstring metadata identification
+MTHSIG1	deactivate componentcontext component context context
+VARSIG15	memberdetails member details memberdetails member details
+PACKAGE	springframework roo addon dbre
+MTHSIG2	createlocalidentifier create local identifier javatype type javatype type path path
+VARSIG14	fieldmetadata field metadata field
+MTHSIG3	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+VARSIG13	metadataidentificationstring metadata identification
+MTHSIG8	getitduniquenessfilenamesuffix uniqueness filename suffix
+MTHSIG9	getprovidestype type
+CLASSES	dbremetadataproviderimpl dbre metadata provider impl
+METHODS	activate deactivate createlocalidentifier create local identifier getgovernorphysicaltypeidentifier governor physical type identifier getmetadata metadata getidentifierfield identifier field getembeddedidentifierholder embedded identifier holder getversionfield version field getitduniquenessfilenamesuffix uniqueness filename suffix getprovidestype type
+VARIABLES	context context javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename managedentity managed entity memberdetails member details metadataidentificationstring metadata identification memberdetails member details metadataidentificationstring metadata identification field memberdetails member details metadataidentificationstring metadata identification dbremodelservice dbre model service physicaltypemetadataprovider physical type metadata provider typelocationservice type location service javatype type path annotationvalues annotation values database javatype type memberdetails member details persistencememberholdingtypedetails persistence member holding type details entityfields entity fields entitymethods entity methods identifierfield identifier field embeddedidentifierholder embedded identifier holder versionfield version field managedentities managed entities mid identifierfields identifier fields embeddedidfields embedded fields embeddedidentifierfield embedded identifier field identifiermemberdetails identifier member details identifiermemberholdingtypedetails identifier member holding type details identifierfields identifier fields versionfield version field fields

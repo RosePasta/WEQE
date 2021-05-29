@@ -1,0 +1,46 @@
+VARSIG7	version
+VARSIG6	javasymbolname symbol artifactid artifact
+VARSIG9	dependency existing
+VARSIG8	dependency dependency
+VARSIG3	javasymbolname symbol artifactid artifact
+VARSIG2	javapackage groupid group
+VARSIG5	javapackage groupid group
+VARSIG4	version
+COMMENTS	common project operations subclassed project specific operations subclass addition jar dependency pom convenient parties instruct users cli add support projects requiring user manually edit pom xml write add groupid group add required artifactid artifact add required versionid version add required require remove existing jar dependency pom convenient parties instruct users cli remove unwanted dependency projects requiring user manually edit pom xml write add groupid group remove required artifactid artifact remove required versionid version remove required require verifies dependency silently returns removes dependency matches link projectmetadata project metadata getdependenciesexcludingversion dependencies excluding version dependency adds presented dependency dependency add required exists quit delete existing dependencies version add dependency register listener track build dependencies remove dependency listener change tracking addition build plugin pom convenient parties instruct users cli add build capability projects requiring user manually edit pom xml write add groupid group add required artifactid artifact add required versionid version add required require executions execute project built optional remove existing build plugin pom convenient parties instruct users cli remove unwanted build plugin projects requiring user manually edit pom xml write add groupid group remove required artifactid artifact remove required versionid version remove required require verifies build plugin silently returns removes build plugin matches link projectmetadata project metadata getbuildpluginsexcludingversion build plugins excluding version dependency adds presented dependency dependency build plugin add required executions executed project built optional exists quit delete existing dependencies version add dependency
+VARSIG19	version
+VARSIG1	projectmetadataprovider project metadata provider projectmetadataprovider project metadata provider
+VARSIG18	javasymbolname symbol artifactid artifact
+VARSIG0	metadataservice metadata service metadataservice metadata service
+VARSIG17	javapackage groupid group
+MTHSIG4	removedependency remove dependency javapackage groupid group javasymbolname symbol artifactid artifact version
+VARSIG12	dependency
+MTHSIG5	dependencyupdate dependency update dependency dependency
+VARSIG11	dependencylistener dependency listener listener
+MTHSIG6	adddependencylistener add dependency listener dependencylistener dependency listener listener
+VARSIG10	dependencylistener dependency listener listener
+MTHSIG7	removedependencylistener remove dependency listener dependencylistener dependency listener listener
+MTHSIG0	projectoperations project operations metadataservice metadata service metadataservice metadata service projectmetadataprovider project metadata provider projectmetadataprovider project metadata provider
+VARSIG16	projecttype project type projecttype project type
+MTHSIG1	isdependencymodificationallowed dependency modification allowed
+VARSIG15	dependencylistener dependency listener listener
+PACKAGE	springframework roo project
+MTHSIG2	isperformcommandallowed perform command allowed
+VARSIG14	dependency
+MTHSIG3	adddependency add dependency javapackage groupid group javasymbolname symbol artifactid artifact version
+VARSIG13	dependencylistener dependency listener listener
+MTHSIG8	senddependencyadditionnotifications send dependency addition notifications dependency
+MTHSIG9	senddependencyremovalnotifications send dependency removal notifications dependency
+MTHSIG13	buildpluginupdate build plugin update dependency buildplugindependency build plugin dependency execution executions
+MTHSIG11	addplugindependency add plugin dependency javapackage groupid group javasymbolname symbol artifactid artifact version execution executions
+MTHSIG12	removebuildplugin remove build plugin javapackage groupid group javasymbolname symbol artifactid artifact version
+CLASSES	projectoperations project operations
+METHODS	projectoperations project operations isdependencymodificationallowed dependency modification allowed isperformcommandallowed perform command allowed adddependency add dependency removedependency remove dependency dependencyupdate dependency update adddependencylistener add dependency listener removedependencylistener remove dependency listener senddependencyadditionnotifications send dependency addition notifications senddependencyremovalnotifications send dependency removal notifications updateprojecttype update project type addplugindependency add plugin dependency removebuildplugin remove build plugin buildpluginupdate build plugin update
+VARSIG23	version
+VARSIG22	javasymbolname symbol artifactid artifact
+VARSIG21	javapackage groupid group
+VARSIG20	execution executions
+VARSIG26	dependency existing
+VARSIG25	execution executions
+VARSIG24	dependency buildplugindependency build plugin dependency
+MTHSIG10	updateprojecttype update project type projecttype project type projecttype project type
+VARIABLES	metadataservice metadata service projectmetadataprovider project metadata provider groupid group artifactid artifact version groupid group artifactid artifact version dependency existing listener listener listener listener projecttype project type groupid group artifactid artifact version executions groupid group artifactid artifact version buildplugindependency build plugin dependency executions existing metadataservice metadata service projectmetadataprovider project metadata provider listeners dependency dependency projectmetadata project metadata dependency dependency projectmetadata project metadata

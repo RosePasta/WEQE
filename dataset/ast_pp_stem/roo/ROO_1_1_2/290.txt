@@ -1,0 +1,68 @@
+MTHSIG28	getjavatyp type metadataidentificationstr metadata identif 
+MTHSIG29	getpath path metadataidentificationstr metadata identif 
+MTHSIG26	getmetadataidentifertyp metadata identif type 
+MTHSIG27	createidentifi creat identifi javatyp type javatyp type path path 
+MTHSIG24	uncapit term 
+MTHSIG25	tostr 
+MTHSIG22	methodexist exist javasymbolnam symbol methodnam list annotatedjavatyp annot type paramet 
+MTHSIG23	getshortnam javatyp type type 
+MTHSIG4	getshowmethod 
+MTHSIG5	getcreatemethod creat 
+MTHSIG6	getcreateformmethod creat form list javatypemetadatadetail type metadata detail dependenttyp depend type 
+MTHSIG7	getupdatemethod updat 
+VARSIG31	metadataidentificationstr metadata identif 
+MTHSIG0	webscaffoldmetadata web scaffold metadata identifi javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata webscaffoldannotationvalu web scaffold annot valu annotationvalu annot valu list methodmetadata metadata existingmethod exist method sortedmap sort map javatyp type javatypemetadatadetail type metadata detail specialdomaintyp special domain type list javatypemetadatadetail type metadata detail dependenttyp depend type map javasymbolnam symbol datetimeformatdetail time format detail datetyp type set findermetadatadetail finder metadata detail dynamicfindermethod dynam finder method jsonmetadata json metadata jsonmetadata json metadata 
+MTHSIG1	getannotationvalu annot valu 
+PACKAGE	springframework roo addon web mvc control scaffold 
+MTHSIG2	getdeletemethod delet 
+MTHSIG3	getlistmethod list 
+MTHSIG20	getencodeurlpathsegmentmethod encod url path segment 
+MTHSIG21	getdatetimeformathelpermethod time format helper 
+MTHSIG8	getupdateformmethod updat form 
+VARSIG30	metadataidentificationstr metadata identif 
+MTHSIG9	getjsonshowmethod json 
+CLASSES	webscaffoldmetadata web scaffold metadata 
+VARSIG29	metadataidentificationstr metadata identif 
+VARSIG28	path path 
+METHODS	webscaffoldmetadata web scaffold metadata getannotationvalu annot valu getdeletemethod delet getlistmethod list getshowmethod getcreatemethod creat getcreateformmethod creat form getupdatemethod updat getupdateformmethod updat form getjsonshowmethod json getjsoncreatemethod json creat getcreatefromjsonarraymethod creat json arrai getjsonlistmethod json list getjsonupdatemethod json updat getupdatefromjsonarraymethod updat json arrai getjsondeletemethod json delet getfinderjsonmethod finder json getfinderformmethod finder form getfindermethod finder getpopulatemethod popul method getencodeurlpathsegmentmethod encod url path segment getdatetimeformathelpermethod time format helper methodexist exist getshortnam uncapit tostr getmetadataidentifertyp metadata identif type createidentifi creat identifi getjavatyp type getpath path isvalid valid 
+VARSIG23	list annotatedjavatyp annot type paramet 
+VARSIG22	javasymbolnam symbol methodnam 
+VARSIG21	javatyp type type 
+VARSIG20	fieldmetadata field metadata field 
+VARSIG27	javatyp type javatyp type 
+VARSIG26	term 
+VARSIG25	javatyp type type 
+VARSIG24	methodmetadata metadata 
+MTHSIG30	isvalid valid metadataidentificationstr metadata identif 
+VARSIG7	map javasymbolnam symbol datetimeformatdetail time format detail datetyp type 
+VARSIG6	list javatypemetadatadetail type metadata detail dependenttyp depend type 
+VARSIG9	jsonmetadata json metadata jsonmetadata json metadata 
+VARSIG8	set findermetadatadetail finder metadata detail dynamicfindermethod dynam finder method 
+VARSIG3	webscaffoldannotationvalu web scaffold annot valu annotationvalu annot valu 
+VARSIG2	physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+VARSIG5	sortedmap sort map javatyp type javatypemetadatadetail type metadata detail specialdomaintyp special domain type 
+VARSIG4	list methodmetadata metadata existingmethod exist method 
+COMMENTS	metadata link roowebscaffold roo web scaffold check entitymetadata entiti metadata getdynamicfind dynam finder guarante empti list mandatori input miss roo mandatori input miss roo mandatori input miss roo mandatori input miss roo entitymetadata entiti metadata getfindallmethod find mandatori input miss roo ad arrai fieldnam field posit path posit mandatori input miss roo mandatori input miss roo mandatori input miss roo type declar roo need adher javabean bean name convent javabean bean spec 
+VARSIG19	findermetadatadetail finder metadata detail findermetadatadetail finder metadata detail 
+VARSIG1	javatyp type aspectnam aspect 
+VARSIG18	javatyp type javatyp type 
+VARSIG0	identifi 
+VARSIG17	findermetadatadetail finder metadata detail finder 
+VARSIG12	findermetadatadetail finder metadata detail finder 
+VARSIG11	methodmetadata metadata 
+VARSIG10	findermetadatadetail finder metadata detail finder 
+VARSIG16	fieldmetadata field metadata field 
+VARSIG15	findermetadatadetail finder metadata detail finderdetail finder detail 
+VARSIG14	javatypemetadatadetail type metadata detail dependenttyp depend type 
+VARSIG13	list javatypemetadatadetail type metadata detail dependenttyp depend type 
+MTHSIG17	getfinderformmethod finder form findermetadatadetail finder metadata detail finder 
+MTHSIG18	getfindermethod finder findermetadatadetail finder metadata detail findermetadatadetail finder metadata detail 
+MTHSIG15	getjsondeletemethod json delet 
+MTHSIG16	getfinderjsonmethod finder json findermetadatadetail finder metadata detail finderdetail finder detail 
+MTHSIG13	getjsonupdatemethod json updat 
+MTHSIG14	getupdatefromjsonarraymethod updat json arrai 
+MTHSIG11	getcreatefromjsonarraymethod creat json arrai 
+MTHSIG12	getjsonlistmethod json list 
+MTHSIG19	getpopulatemethod popul method 
+MTHSIG10	getjsoncreatemethod json creat 
+VARIABLES	identifi aspectnam aspect governorphysicaltypemetadata governor physic type metadata annotationvalu annot valu existingmethod exist method specialdomaintyp special domain type dependenttyp depend type datetyp type dynamicfindermethod dynam finder method jsonmetadata json metadata finder finder dependenttyp depend type dependenttyp depend type finderdetail finder detail field finder javatyp type findermetadatadetail finder metadata detail field type methodnam paramet type term javatyp type path metadataidentificationstr metadata identif metadataidentificationstr metadata identif metadataidentificationstr metadata identif type type annotationvalu annot valu controllerpath control path entitynam entiti datetyp type jsonmetadata json metadata existingmethod exist method formbackingtyp form back type specialdomaintyp special domain type javatypemetadatahold type metadata holder javatypepersistencemetadatahold type persist metadata holder methodnam typeannot type annot attribut pathvariableannot path variabl annot firstresultattribut result attribut firstresultannot result annot firstresultannot result annot maxresultsattribut max attribut maxresultsannot max annot maxresultannot max result annot paramtyp type paramnam name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder methodbuild builder javatypepersistencemetadatahold type persist metadata holder methodnam firstresultattribut result attribut firstresultannot result annot firstresultannot result annot maxresultsattribut max attribut maxresultsannot max annot maxresultannot max result annot paramtyp type paramnam name requestmappingattribut request map attribut annot plural bodybuild bodi builder methodbuild builder javatypepersistencemetadatahold type persist metadata holder methodnam typeannot type annot attribut pathvariableannot path variabl annot paramtyp type paramnam name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder methodbuild builder javatypepersistencemetadatahold type persist metadata holder methodnam typeannot type annot validannot valid annot noannot annot paramtyp type paramnam name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder methodbuild builder methodnam paramtyp type paramnam name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder listad list listshort list arraylistshort arrai list methodbuild builder javatypepersistencemetadatahold type persist metadata holder methodnam typeannot type annot validannot valid annot noannot annot paramtyp type paramnam name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder methodbuild builder javatypepersistencemetadatahold type persist metadata holder methodnam typeannot type annot attribut pathvariableannot path variabl annot paramtyp type updateformmethod updat form paramnam name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder methodbuild builder tojsonmethodnam json javatypepersistencemetadatahold type persist metadata holder methodnam paramet attribut pathvariableannot path variabl annot paramtyp type jsonshowmethod json paramnam name requestmappingattribut request map attribut requestmap request map annot beanshortnam bean bodybuild bodi builder methodbuild builder fromjsonmethodnam json javatypepersistencemetadatahold type persist metadata holder methodnam paramet requestbodyannot request bodi annot paramtyp type jsoncreatemethod json creat paramnam name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder typeparam type param returntyp type methodbuild builder fromjsonarraymethodnam json arrai javatypepersistencemetadatahold type persist metadata holder methodnam paramet requestbodyannot request bodi annot paramtyp type existingmethod exist paramnam name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder beannam bean param typeparam type param returntyp type methodbuild builder tojsonarraymethodnam json arrai javatypepersistencemetadatahold type persist metadata holder methodnam result requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder entitynam entiti methodbuild builder fromjsonmethodnam json javatypepersistencemetadatahold type persist metadata holder methodnam paramet requestbodyannot request bodi annot paramtyp type jsoncreatemethod json creat paramnam name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder beanshortnam bean typeparam type param returntyp type methodbuild builder fromjsonarraymethodnam json arrai javatypepersistencemetadatahold type persist metadata holder methodnam paramet requestbodyannot request bodi annot paramtyp type existingmethod exist paramnam name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder beannam bean param typeparam type param returntyp type methodbuild builder javatypepersistencemetadatahold type persist metadata holder methodnam typeannot type annot attribut pathvariableannot path variabl annot paramtyp type paramnam name requestmappingattribut request map attribut requestmap request map annot beanshortnam bean bodybuild bodi builder typeparam type param returntyp type methodbuild builder findermethodnam finder annotatedparamtyp annot type paramnam name bodybuild bodi builder methodparam param fieldnam field annot attribut requestparamannot request annot annot existingmethod exist newparamnam name requestmappingattribut request map attribut requestmap request map annot shortbeannam bean methodbuild builder finderformmethodnam finder form paramtyp type paramnam name type bodybuild bodi builder needmodel typemd type javatypepersistencemetadatahold type persist metadata holder paramtypemd type existingmethod exist requestmappingattribut request map attribut arrayvalu arrai valu requestmap request map annot methodbuild builder findermethodnam finder annotatedparamtyp annot type paramnam name bodybuild bodi builder methodparam param datefieldpres field fieldnam field annot attribut requestparamannot request annot datetimeformat time format annot existingmethod exist newparamnam name requestmappingattribut request map attribut requestmap request map annot methodbuild builder method bodybuild bodi builder javatypemd type javatypepersistencemd type persist arrai populatemethodnam popul addreferencedatamethod add refer data annot attribut typeparam type param returntyp type methodbuild builder encodeurlpathseg encod url path segment paramtyp type encodeurlpathsegmentmethod encod url path segment paramnam name bodybuild bodi builder adddatetimeformatpattern add time format pattern paramtyp type adddatetimeformatpatternsmethod add time format pattern paramnam name bodybuild bodi builder entri pattern datetimeformat time format datetimeformatsimpl time format simpl localecontexthold local context holder localecontextholdersimpl local context holder simpl methodbuild builder tsc 

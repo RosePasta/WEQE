@@ -1,0 +1,14 @@
+VARSIG3	respons respons 
+VARSIG2	request request 
+VARSIG5	throwabl except 
+VARSIG4	request request 
+COMMENTS	defaultrequesttransport request transport handl authent failur report link googl gwt sampl gaerequest server gaeauthfilt gae filter gaeauthfailur gae failur filter respond respons unauthor add login url header user log receiv combo post event app handl see fit hand receiv fatal callback googl web binderi requestfactori share receiv post runtim except fatal respons statu unauthor report fatal googl web binderi requestfactori share receiv post runtim except fatal gaeauthfilt gae filter construct login url 
+CLASSES	gaeauthrequesttransport gae request transport 
+VARSIG1	transportreceiv transport receiv receiv 
+VARSIG0	eventbu event bu eventbu event bu 
+METHODS	gaeauthrequesttransport gae request transport createrequestcallback creat request callback createrequestbuild creat request builder 
+MTHSIG0	gaeauthrequesttransport gae request transport eventbu event bu eventbu event bu 
+MTHSIG1	createrequestcallback creat request callback transportreceiv transport receiv receiv 
+PACKAGE	top level segment 
+MTHSIG2	createrequestbuild creat request builder 
+VARIABLES	eventbu event bu receiv request respons request except eventbu event bu supercallback callback statuscod statu code loginurl login url builder 

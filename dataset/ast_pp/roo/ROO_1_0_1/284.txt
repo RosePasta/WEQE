@@ -1,0 +1,23 @@
+VARSIG7	methodtarget target target
+VARSIG6	optioncontext option context
+VARSIG9	existingdata existing data
+VARSIG8	list completions
+VARSIG3	list completions
+VARSIG2	optioncontext option context
+VARSIG5	existingdata existing data
+VARSIG4	requiredtype required type
+COMMENTS	link converter link file
+CLASSES	fileconverter file converter
+VARSIG1	requiredtype required type
+VARSIG0	
+METHODS	convertfromtext convert text getallpossiblevalues values populate supports
+VARSIG12	requiredtype required type
+VARSIG11	file file
+VARSIG10	directorydata directory data
+MTHSIG0	convertfromtext convert text requiredtype required type optioncontext option context
+MTHSIG1	getallpossiblevalues values list completions requiredtype required type existingdata existing data optioncontext option context methodtarget target target
+PACKAGE	springframework roo shell converters
+MTHSIG2	populate list completions existingdata existing data directorydata directory data
+MTHSIG3	supports requiredtype required type optioncontext option context
+VARSIG13	optioncontext option context
+VARIABLES	requiredtype required type optioncontext option context completions requiredtype required type existingdata existing data optioncontext option context target completions existingdata existing data directorydata directory data file requiredtype required type optioncontext option context directorydata directory data directory completion

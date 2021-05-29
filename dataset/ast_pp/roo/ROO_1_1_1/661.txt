@@ -1,0 +1,80 @@
+MTHSIG28	nullsafetostring safe array
+MTHSIG29	nullsafetostring safe array
+MTHSIG26	nullsafetostring safe object array
+MTHSIG27	nullsafetostring safe array
+MTHSIG24	nullsafeclassname safe object obj
+MTHSIG25	nullsafetostring safe object obj
+MTHSIG22	getidentityhexstring identity hex object obj
+MTHSIG23	getdisplaystring display object obj
+VARSIG39	array
+MTHSIG4	addobjecttoarray add object array object array object obj
+VARSIG34	array
+MTHSIG5	toobjectarray object array object source
+VARSIG33	array
+MTHSIG6	nullsafeequals safe equals object object
+VARSIG32	array
+MTHSIG7	nullsafehashcode safe hash code object obj
+VARSIG31	object array
+MTHSIG0	ischeckedexception checked exception throwable
+VARSIG38	array
+MTHSIG1	iscompatiblewiththrowsclause compatible clause throwable declaredexceptions declared exceptions
+VARSIG37	array
+PACKAGE	springframework roo support util
+MTHSIG2	isempty empty object array
+VARSIG36	array
+MTHSIG3	containselement element object array object element
+VARSIG35	array
+MTHSIG20	hashcode hash code lng
+MTHSIG21	identitytostring identity object obj
+MTHSIG8	nullsafehashcode safe hash code object array
+VARSIG30	object obj
+MTHSIG9	nullsafehashcode safe hash code array
+MTHSIG33	nullsafetostring safe array
+MTHSIG34	nullsafetostring safe array
+CLASSES	objectutils object utils
+VARSIG29	object obj
+VARSIG28	object obj
+METHODS	ischeckedexception checked exception iscompatiblewiththrowsclause compatible clause isempty empty containselement element addobjecttoarray add object array toobjectarray object array nullsafeequals safe equals nullsafehashcode safe hash code nullsafehashcode safe hash code nullsafehashcode safe hash code nullsafehashcode safe hash code nullsafehashcode safe hash code nullsafehashcode safe hash code nullsafehashcode safe hash code nullsafehashcode safe hash code nullsafehashcode safe hash code nullsafehashcode safe hash code hashcode hash code hashcode hash code hashcode hash code hashcode hash code identitytostring identity getidentityhexstring identity hex getdisplaystring display nullsafeclassname safe nullsafetostring safe nullsafetostring safe nullsafetostring safe nullsafetostring safe nullsafetostring safe nullsafetostring safe nullsafetostring safe nullsafetostring safe nullsafetostring safe nullsafetostring safe
+VARSIG23	dbl
+VARSIG22	bool
+VARSIG21	array
+VARSIG20	array
+VARSIG27	object obj
+VARSIG26	object obj
+VARSIG25	lng
+VARSIG24	flt
+MTHSIG31	nullsafetostring safe array
+MTHSIG32	nullsafetostring safe array
+MTHSIG30	nullsafetostring safe array
+VARSIG7	object array
+VARSIG6	object arrayele array ele
+VARSIG9	object source
+VARSIG8	object obj
+VARSIG3	object array
+VARSIG2	declaredexceptions declared exceptions
+VARSIG5	object element
+VARSIG4	object array
+COMMENTS	miscellaneous object utility methods internal framework jakarta jakarta commons lang comprehensive suite object utilities commons lang objectutils object utils throwable checked exception runtimeexception runtime exception error throwable check throwable checked exception lang exception lang runtimeexception runtime exception lang error check exception compatible exceptions declared clause exception checked declaredexceptions declared exceptions exceptions declared clause exception compatible array empty length array array check array empty check array element array array check element element check element array append object array returning array consisting input array contents object array array append obj object append array component type convert array primitive array object array primitive wrapper objects source converted empty object array source primitive array object array illegalargumentexception illegal argument exception parameter array convenience methods content based equality hash code handling determine objects equal returning compares arrays arrays equals performing equality check based array elements array reference object compare object compare objects equal util arrays equals hash code object typically link object hashcode hash code object array delegate nullsafehashcode safe hash code methods arrays object returns nullsafehashcode safe hash code object nullsafehashcode safe hash code nullsafehashcode safe hash code nullsafehashcode safe hash code nullsafehashcode safe hash code nullsafehashcode safe hash code nullsafehashcode safe hash code nullsafehashcode safe hash code nullsafehashcode safe hash code hash code based contents array array returns hash code based contents array array returns hash code based contents array array returns hash code based contents array array returns hash code based contents array array returns hash code based contents array array returns hash code based contents array array returns hash code based contents array array returns hash code based contents array array returns link hashcode hash code hashcode hash code link hashcode hash code hashcode hash code link hashcode hash code hashcode hash code link hashcode hash code hashcode hash code convenience methods tostring output representation object object identity obj object object object identity representation empty object hex form object object identity hash code obj object object object identity code hex notation content based representation obj returns empty differs link nullsafetostring safe object returns empty obj object build display display representation obj nullsafetostring safe object determine object returns obj obj object introspect representation object builds representation contents array returns obj obj object build representation representation obj representation contents array representation consists list array array elements enclosed curly braces adjacent elements separated characters comma space returns array array array build representation representation array representation contents array representation consists list array array elements enclosed curly braces adjacent elements separated characters comma space returns array array array build representation representation array representation contents array representation consists list array array elements enclosed curly braces adjacent elements separated characters comma space returns array array array build representation representation array representation contents array representation consists list array array elements enclosed curly braces adjacent elements separated characters comma space returns array array array build representation representation array representation contents array representation consists list array array elements enclosed curly braces adjacent elements separated characters comma space returns array array array build representation representation array representation contents array representation consists list array array elements enclosed curly braces adjacent elements separated characters comma space returns array array array build representation representation array representation contents array representation consists list array array elements enclosed curly braces adjacent elements separated characters comma space returns array array array build representation representation array representation contents array representation consists list array array elements enclosed curly braces adjacent elements separated characters comma space returns array array array build representation representation array representation contents array representation consists list array array elements enclosed curly braces adjacent elements separated characters comma space returns array array array build representation representation array
+VARSIG19	array
+VARSIG1	throwable
+VARSIG18	array
+VARSIG0	throwable
+VARSIG17	array
+VARSIG12	object obj
+VARSIG11	object
+VARSIG10	object
+VARSIG16	array
+VARSIG15	array
+VARSIG14	array
+VARSIG13	object array
+MTHSIG17	hashcode hash code bool
+MTHSIG18	hashcode hash code dbl
+MTHSIG15	nullsafehashcode safe hash code array
+MTHSIG16	nullsafehashcode safe hash code array
+MTHSIG13	nullsafehashcode safe hash code array
+MTHSIG14	nullsafehashcode safe hash code array
+MTHSIG11	nullsafehashcode safe hash code array
+MTHSIG12	nullsafehashcode safe hash code array
+MTHSIG19	hashcode hash code flt
+MTHSIG10	nullsafehashcode safe hash code array
+VARIABLES	declaredexceptions declared exceptions array array element arrayele array ele array obj source obj array array array array array array array array array bool dbl flt lng obj obj obj obj obj array array array array array array array array array initial hash multiplier empty array start array empty array array element separator comptype comp type newarrlength arr length newarr arr length wrappertype wrapper type newarray array hash arraysize array size hash arraysize array size hash arraysize array size hash arraysize array size hash arraysize array size hash arraysize array size hash arraysize array size hash arraysize array size hash arraysize array size bits str length length length length length length length length length

@@ -1,0 +1,15 @@
+VARSIG2	isdefault 
+COMMENTS	unit test link packagingproviderregistryimpl packag provid registri impl fixtur mock object test invok check 
+CLASSES	packagingproviderregistrytest packag provid registri test 
+VARSIG1	 
+VARSIG0	packagingprovid packag provid mockpackagingprovid mock packag provid 
+METHODS	setup set setupmockpackagingprovid set mock packag provid testgetallpackagingprovid test packag provid testgetdefaultpackagingproviderwhenacustomisdefault test packag provid custom testgetdefaultpackagingproviderwhennocustomisdefault test packag provid custom testgetpackagingproviderbyinvalidid test packag provid invalid testgetpackagingproviderbyvalidid test packag provid valid 
+MTHSIG4	testgetdefaultpackagingproviderwhennocustomisdefault test packag provid custom 
+MTHSIG5	testgetpackagingproviderbyinvalidid test packag provid invalid 
+MTHSIG6	testgetpackagingproviderbyvalidid test packag provid valid 
+MTHSIG0	setup set 
+MTHSIG1	setupmockpackagingprovid set mock packag provid packagingprovid packag provid mockpackagingprovid mock packag provid isdefault 
+PACKAGE	springframework roo project packag 
+MTHSIG2	testgetallpackagingprovid test packag provid 
+MTHSIG3	testgetdefaultpackagingproviderwhenacustomisdefault test packag provid custom 
+VARIABLES	mockpackagingprovid mock packag provid isdefault core jar core war custom jar mockcorejarpackag mock core jar packag mockcustomjarpackag mock custom jar packag mockwarpackag mock war packag registri packagingprovid packag provid expectedprovid expect provid 

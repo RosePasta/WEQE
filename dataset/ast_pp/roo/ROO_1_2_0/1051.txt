@@ -1,0 +1,16 @@
+VARSIG7	illegalstateexception illegal exception
+VARSIG6	bundle bundle
+VARSIG3	illegalstateexception illegal exception
+VARSIG2	bundle bundle
+VARSIG5	antpathexpression ant path expression
+VARSIG4	bundlecontext bundle context context
+COMMENTS	utility methods locating resources osgi bundles constants searches bundles context resource context bundles search resourcename resource path resource locate link bundle getentry entry foo txt find foo txt root bundle failure set entries entries search successful resource simply sets urls slow unreliable link osgiutils utils findentriesbypath find entries path bundlecontext bundle context bundle uninstalled ignore returns urls entries bundles urls match ant style path context context bundles search antpathexpression ant path expression pattern matching urls required search can performed set antpathmatcher ant path matcher match sets urls slow unreliable link osgiutils utils findentriesbypattern find entries pattern bundlecontext bundle context bundle uninstalled ignore constructor prevent instantiation
+CLASSES	urlfindingutils url finding utils
+VARSIG1	resourcename resource
+VARSIG0	bundlecontext bundle context context
+METHODS	findurls find urls findmatchingclasspathresources find matching classpath resources urlfindingutils url finding utils
+MTHSIG0	findurls find urls bundlecontext bundle context context resourcename resource
+MTHSIG1	findmatchingclasspathresources find matching classpath resources bundlecontext bundle context context antpathexpression ant path expression
+PACKAGE	springframework roo support osgi
+MTHSIG2	urlfindingutils url finding utils
+VARIABLES	context resourcename resource bundle context antpathexpression ant path expression bundle root path path matcher url enumeration url

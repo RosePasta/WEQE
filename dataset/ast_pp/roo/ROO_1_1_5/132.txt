@@ -1,0 +1,60 @@
+VARSIG39	metadataidentificationstring metadata identification
+MTHSIG4	transformxml transform xml document document
+VARSIG34	gwttype gwt type gwttype gwt type
+MTHSIG5	getrequestmethod request destinationmetadataid destination metadata methodmetadata metadata methodmetadata meta data
+VARSIG33	gwttype gwt type gwttype gwt type
+MTHSIG6	getrequestmethod request destinationmetadataid destination metadata methodmetadata metadata methodmetadata meta data javatype type methodreturntype type
+VARSIG32	javatype type methodreturntype type
+MTHSIG7	getdestinationmetadataid destination metadata gwttype gwt type gwttype gwt type
+VARSIG31	methodmetadata metadata methodmetadata meta data
+MTHSIG0	gwtmetadata gwt metadata identifier classorinterfacetypedetails type details governortypedetails governor type details projectmetadata project metadata projectmetadata project metadata list methodmetadata metadata proxymethods proxy methods list methodmetadata metadata requestmethods request methods methodmetadata metadata findallmethod find methodmetadata metadata findmethod find methodmetadata metadata findentriesmethod find entries methodmetadata metadata countmethod count
+VARSIG38	metadataidentificationstring metadata identification
+MTHSIG1	buildproxy build proxy
+VARSIG37	path path
+PACKAGE	springframework roo addon gwt
+MTHSIG2	buildrequest build request
+VARSIG36	javatype type javatype type
+MTHSIG3	builduixml build xml templatecontents template contents destfile dest file
+VARSIG35	javatype type servertype server type
+MTHSIG8	getdestinationjavatype destination type gwttype gwt type gwttype gwt type
+VARSIG30	destinationmetadataid destination metadata
+MTHSIG9	createadditionalannotation create additional annotation javatype type servertype server type
+CLASSES	gwtmetadata gwt metadata
+VARSIG29	methodmetadata metadata methodmetadata meta data
+VARSIG28	destinationmetadataid destination metadata
+METHODS	gwtmetadata gwt metadata buildproxy build proxy buildrequest build request builduixml build xml transformxml transform xml getrequestmethod request getrequestmethod request getdestinationmetadataid destination metadata getdestinationjavatype destination type createadditionalannotation create additional annotation createannotations create annotations getmetadataidentifiertype metadata identifier type createidentifier create identifier getjavatype type getpath path
+VARSIG23	methodmetadata metadata
+VARSIG22	element element
+VARSIG21	element element
+VARSIG20	fieldname field
+VARSIG27	document document
+VARSIG26	exception
+VARSIG25	element
+VARSIG24	element
+VARSIG7	methodmetadata metadata findentriesmethod find entries
+VARSIG6	methodmetadata metadata findmethod find
+VARSIG9	annotationmetadatabuilder annotation metadata builder annotationbuilder annotation builder
+VARSIG8	methodmetadata metadata countmethod count
+VARSIG3	list methodmetadata metadata proxymethods proxy methods
+VARSIG2	projectmetadata project metadata projectmetadata project metadata
+VARSIG5	methodmetadata metadata findallmethod find
+VARSIG4	list methodmetadata metadata requestmethods request methods
+COMMENTS	metadata gwt proxy proxy physicaltypemetadata physical type meta data representation disk proxy create classorinterfacetypedetailsbuilder type details builder proxy overridden proxy created add proxyforname proxy foo bar foo annotation add annotations don exist target inherit entityproxy entity proxy extension defined service employee behaviour gwttype gwt type mirror producing required mid mirror applicable current governor gwttype gwt type mirror producing required type mirror applicable current governor newly created type annotations list complete roogwtmirroredfrom roo gwt mirrored annotation properly setup
+VARSIG19	fieldname field
+VARSIG1	classorinterfacetypedetails type details governortypedetails governor type details
+VARSIG18	element element
+VARSIG0	identifier
+VARSIG17	element element
+VARSIG12	methodmetadata metadata
+VARSIG11	methodmetadata metadata
+VARSIG10	annotationmetadatabuilder annotation metadata builder existingannotation existing annotation
+VARSIG16	systemid system
+VARSIG15	publicid
+VARSIG14	destfile dest file
+VARSIG13	templatecontents template contents
+MTHSIG13	getjavatype type metadataidentificationstring metadata identification
+MTHSIG14	getpath path metadataidentificationstring metadata identification
+MTHSIG11	getmetadataidentifiertype metadata identifier type
+MTHSIG12	createidentifier create identifier javatype type javatype type path path
+MTHSIG10	createannotations create annotations
+VARIABLES	identifier governortypedetails governor type details projectmetadata project metadata proxymethods proxy methods requestmethods request methods findallmethod find findmethod find findentriesmethod find entries countmethod count annotationbuilder annotation builder existingannotation existing annotation templatecontents template contents destfile dest file publicid systemid system element element fieldname field fieldname field element element document destinationmetadataid destination metadata methodmetadata meta data destinationmetadataid destination metadata methodmetadata meta data methodreturntype type gwttype gwt type gwttype gwt type servertype server type javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification type type governortypedetails governor type details projectmetadata project metadata proxymethods proxy methods requestmethods request methods findallmethod find findmethod find countmethod count findentriesmethod find entries destinationmetadataid destination metadata typedetailsbuilder type details builder typeannotations type annotations exists methods abstractaccessormethodbuilder accessor builder propertyname property abstractmutatormethodbuilder mutator builder destinationmetadataid destination metadata typeannotations type annotations methods extendstypes types typedetailsbuilder type details builder builder templatedocument template document existingdocument existing document existingholdingelement existing holding element templateholdingelement template holding element templateelementmap template element map existingelementmap existing element map elementstoadd elements add elementstoremove elements remove importednode imported node sortedelements sorted elements propertyname property element transformer result source methodreturntypeargs type methodreturntype type proxy methodreturntypeargs type methodreturntype type servertypeattributes server type attributes annotations roogwtmirroredfromconfig roo gwt mirrored config

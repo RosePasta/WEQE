@@ -1,0 +1,53 @@
+MTHSIG4	script file resource linenumbers numbers
+MTHSIG5	executescriptline execute script
+MTHSIG6	executecommand execute command
+MTHSIG7	logcommandifrequired log command required successful
+MTHSIG0	findurls find urls resourcename resource
+MTHSIG1	gethomeasstring
+PACKAGE	springframework roo shell
+MTHSIG2	getexecutionstrategy execution strategy
+MTHSIG3	getparser parser
+MTHSIG20	gethome
+MTHSIG21	flash level level message slot
+MTHSIG8	logcommandtooutput log command output processedline processed
+MTHSIG9	setpromptpath set prompt path path
+CLASSES	abstractshell shell
+METHODS	findurls find urls gethomeasstring getexecutionstrategy execution strategy getparser parser script executescriptline execute script executecommand execute command logcommandifrequired log command required logcommandtooutput log command output setpromptpath set prompt path getexitshellrequest exit shell request inlinecomment inline comment blockcommentbegin block comment blockcommentfinish block comment finish props flashcustom flash custom version versioninfo version info getshellprompt shell prompt gethome flash
+VARSIG23	level level
+VARSIG22	ioexception exception
+VARSIG21	exception ignoreandmoveon ignore move
+VARSIG20	clioption cli option key special version flags extra
+VARSIG25	slot
+VARSIG24	message
+VARSIG7	ioexception exception
+VARSIG6	ioexception exception
+VARSIG9	
+VARSIG8	
+VARSIG3	filenotfoundexception file exception trytheclassloaderinstead loader
+VARSIG2	clioption cli option key linenumbers numbers mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified display numbers executing script linenumbers numbers
+VARSIG5	ioexception exception
+VARSIG4	ioexception exception
+COMMENTS	base link shell implementation constants fields don rename api changed sts instance fields methods find resource classloader handle search system failure handle file simply search abort script processing wrong execute single script overridden classes pre process script lines command attempted wait support simple block comments single pair support inline comments start valid command options http helloworld fail roo support roo convert tab characters whitespace roo processmanager process manager chance close threads osgi framework terminated roo rely execution strategy log throwable root exceptionutils exception utils extractrootcause extract root logger log level fine root getmessage message subclass log execution formed command invoked command completed command returned returned exception note attempted commands formed missing mandatory argument presented command execution attempted cases invoked attempt execute command implementations specially handling script commands indicating command successful implementations behave consistently link abstractshell shell subclasses encouraged simply override link logcommandtooutput log command output override fine tune output logic parsed comments removed successful command successful subclass write logged command form output frees subclasses needing implement logic link logcommandifrequired log command required implementations invoke link getexitshellrequest exit shell request monitor attempts exit shell release resources output log files processedline processed appended type output excluding character logger severe processedline processed base implementation link shell setpromptpath set prompt path designed simple shell implementations advanced implementations support ansi codes override set link shellprompt shell prompt variable path set empty formatted special ansi codes determine bundle version attempt bundle version version manifest separate version obtains directory current shell instance note calls link gethomeasstring subclasses provide directory location environment specific strategies path link gethomeasstring exists refers directory directory returned path link gethomeasstring exists refers file exception thrown path link gethomeasstring exist created directory fails exception thrown directory current shell instance guaranteed exist directory simple implementation link flash level simply displays message logger recommended shell implementations override effective approach
+VARSIG19	
+VARSIG1	clioption cli option key file file locate execute mandatory file resource
+VARSIG18	object property
+VARSIG0	resourcename resource
+VARSIG17	path
+VARSIG12	runtimeexception runtime exception
+VARSIG11	object
+VARSIG10	interruptedexception interrupted exception ignore
+VARSIG16	processedline processed
+VARSIG15	successful
+VARSIG14	
+VARSIG13	exception
+MTHSIG17	version extra
+MTHSIG18	versioninfo version info
+MTHSIG15	
+MTHSIG16	flashcustom flash custom
+MTHSIG13	blockcommentfinish block comment finish
+MTHSIG14	props
+MTHSIG11	inlinecomment inline comment
+MTHSIG12	blockcommentbegin block comment
+MTHSIG19	getshellprompt shell prompt
+MTHSIG10	getexitshellrequest exit shell request
+VARIABLES	resourcename resource resource linenumbers numbers trytheclassloaderinstead loader ignore successful processedline processed path property extra ignoreandmoveon ignore move level message slot slot completionkeys completion shellprompt shell prompt logger inblockcomment block comment exitshellrequest exit shell request started inputstream input stream urls success executionstrategy execution strategy flashedmessage flashed message parseresult parse result lhs result properties data bundleversion bundle version gitcommithash git commit hash jarfile jar file classcontainer container manifestentry manifest entry manifest roohome roo

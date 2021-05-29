@@ -1,0 +1,18 @@
+VARSIG6	logicalpath logical path logicalpath logical path
+VARSIG3	downstreamdependency downstream dependency
+VARSIG2	upstreamdependency upstream dependency
+VARSIG5	logicalpath logical path logicalpath logical path
+VARSIG4	logicalpath logical path logicalpath logical path
+COMMENTS	constants fields monitored processmanager process manager root path root module path blank folder pom doesn belong module
+CLASSES	projectpathmonitoringinitializer project path monitoring initializer
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+METHODS	activate deactivate notify monitorprojectpaths monitor project paths requiresmonitoring requires monitoring monitorpathifexists monitor path exists
+MTHSIG4	requiresmonitoring requires monitoring logicalpath logical path logicalpath logical path
+MTHSIG5	monitorpathifexists monitor path exists logicalpath logical path logicalpath logical path
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo project
+MTHSIG2	notify upstreamdependency upstream dependency downstreamdependency downstream dependency
+MTHSIG3	monitorprojectpaths monitor project paths
+VARIABLES	context context upstreamdependency upstream dependency downstreamdependency downstream dependency logicalpath logical path logicalpath logical path logicalpath logical path monitored operations metadatadependencyregistry metadata dependency registry filemonitorservice file monitor service pathresolver path resolver undomanager undo manager pathsregistered paths registered canonicalpath canonical path directory request

@@ -1,0 +1,10 @@
+MTHSIG0	instance
+MTHSIG1	floatparser parser
+PACKAGE	top level client scaffold
+MTHSIG2	parse charsequence sequence object
+COMMENTS	simple parser wraps link valueof instance renderer
+CLASSES	floatparser parser
+VARIABLES	object instance
+VARSIG1	numberformatexception number format exception
+VARSIG0	charsequence sequence object
+METHODS	instance floatparser parser parse

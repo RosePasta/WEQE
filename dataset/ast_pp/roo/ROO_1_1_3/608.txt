@@ -1,0 +1,38 @@
+VARSIG7	version
+VARSIG6	artifactid artifact
+VARSIG9	artifactid artifact
+VARSIG8	groupid group
+VARSIG3	dependencytype dependency type type
+VARSIG2	version
+VARSIG5	groupid group
+VARSIG4	dependencyscope dependency scope scope
+COMMENTS	simplified immutable representation dependency structured model maven ivy replaced release osgi centric model creates immutable link dependency groupid group group required artifactid artifact artifact required version version required type dependency type required scope dependency scope required convenience constructor producing jar dependency groupid group group required artifactid artifact artifact required version version required convenience constructor producing jar dependency groupid group group required artifactid artifact artifact required version version required exclusions exclusions dependency convenience constructor xml element represents maven dependency parse required test maven format pom attributes supported maven jar reassign pom attributes supported maven parsing exclusions test ivy format todo implement exclusions parser ivy format list exclusions simple description console output
+VARSIG1	artifactid artifact
+VARSIG0	groupid group
+MTHSIG4	getgroupid group
+VARSIG12	element dependency
+MTHSIG5	getartifactid artifact
+VARSIG11	list dependency exclusions
+MTHSIG6	getversionid version
+VARSIG10	version
+MTHSIG7	gettype type
+MTHSIG0	dependency groupid group artifactid artifact version dependencytype dependency type type dependencyscope dependency scope scope
+VARSIG16	dependency
+MTHSIG1	dependency groupid group artifactid artifact version
+VARSIG15	object obj
+PACKAGE	springframework roo project
+MTHSIG2	dependency groupid group artifactid artifact version list dependency exclusions
+VARSIG14	element exclusion
+MTHSIG3	dependency element dependency
+VARSIG13	illegalargumentexception illegal argument exception
+MTHSIG8	getscope scope
+MTHSIG9	getsystempath system path
+MTHSIG15	tostring
+MTHSIG13	compareto compare dependency
+MTHSIG14	getsimpledescription simple description
+MTHSIG11	hashcode hash code
+MTHSIG12	equals object obj
+CLASSES	dependency
+METHODS	dependency dependency dependency dependency getgroupid group getartifactid artifact getversionid version gettype type getscope scope getsystempath system path getexclusions exclusions hashcode hash code equals compareto compare getsimpledescription simple description tostring
+MTHSIG10	getexclusions exclusions
+VARIABLES	groupid group artifactid artifact version type scope groupid group artifactid artifact version groupid group artifactid artifact version exclusions dependency exclusion obj groupid group artifactid artifact version type scope exclusions systempath system path versionelements version elements path exclusionlist exclusion list exclusione exclusion exclusionid exclusion exclusionartifacte exclusion artifact exclusionartifactid exclusion artifact result tsc

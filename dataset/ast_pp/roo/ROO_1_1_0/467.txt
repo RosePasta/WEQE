@@ -1,0 +1,46 @@
+VARSIG7	upstreamdependency upstream dependency
+VARSIG6	downstreamdependency downstream dependency
+VARSIG9	upstreamdependency upstream dependency
+VARSIG8	downstreamdependency downstream dependency
+VARSIG3	downstreamdependency downstream dependency
+VARSIG2	downstreamdependency downstream dependency
+VARSIG5	upstreamdependency upstream dependency
+VARSIG4	deleteupstream delete upstream
+COMMENTS	implementation link metadatadependencyregistry metadata dependency registry implementation thread safe accessed single thread time enforced process manager semantics avoid cost synchronization key upstream dependency list key downstream dependency list maintain upstream keyed map maintain downstream keyed map acquire delete delete maintain upstream keyed map exists maintain downstream keyed map exists simplest outcome relationship exists don variable don care downstream dependencies walk upstream dependency dependency parent dependency graph verifying presence proposed downstream dependency build set representing eventual upstream dependency upstream dependency dependency valid upstreams depend proposed downstream dispatch fine grained instance specific dependencies ensure upstreamdependency upstream dependency downstream that care isvaliddependency valid dependency dispatch coarse grained specific dependencies upstream specific handled specific dispatch previous loop don notify downstream direct instance specific dependency notified previous loop don notify upstream downstream doesn sense notify event condition instance registered receive specific notifications instance caused event fire dispatch general purpose additional listeners
+VARSIG19	upstreamdependency upstream dependency
+VARSIG1	upstreamdependency upstream dependency
+VARSIG18	duration
+VARSIG0	componentcontext component context context
+VARSIG17	message
+MTHSIG4	getdownstream downstream upstreamdependency upstream dependency
+VARSIG12	downstreamdependency downstream dependency
+MTHSIG5	getupstream upstream downstreamdependency downstream dependency
+VARSIG11	set
+MTHSIG6	isvaliddependency valid dependency upstreamdependency upstream dependency downstreamdependency downstream dependency
+VARSIG10	downstreamdependency downstream dependency
+MTHSIG7	buildsetofallupstreamdependencies build set upstream dependencies set downstreamdependency downstream dependency
+MTHSIG0	activate componentcontext component context context
+VARSIG16	currentnotification current notification
+MTHSIG1	registerdependency register dependency upstreamdependency upstream dependency downstreamdependency downstream dependency
+VARSIG15	metadatanotificationlistener metadata notification listener listener
+PACKAGE	springframework roo metadata internal
+MTHSIG2	deregisterdependencies deregister dependencies downstreamdependency downstream dependency
+VARSIG14	metadatanotificationlistener metadata notification listener listener
+MTHSIG3	deregisterdependency deregister dependency upstreamdependency upstream dependency downstreamdependency downstream dependency
+VARSIG13	upstream
+MTHSIG8	addnotificationlistener add notification listener metadatanotificationlistener metadata notification listener listener
+MTHSIG9	removenotificationlistener remove notification listener metadatanotificationlistener metadata notification listener listener
+MTHSIG15	getnotificationcount notification count
+MTHSIG13	settrace set trace trace
+MTHSIG14	gettimings timings
+MTHSIG11	stopcounting counting duration
+MTHSIG12	notifydownstream notify downstream upstreamdependency upstream dependency
+CLASSES	defaultmetadatadependencyregistry metadata dependency registry
+METHODS	activate registerdependency register dependency deregisterdependencies deregister dependencies deregisterdependency deregister dependency getdownstream downstream getupstream upstream isvaliddependency valid dependency buildsetofallupstreamdependencies build set upstream dependencies addnotificationlistener add notification listener removenotificationlistener remove notification listener log stopcounting counting notifydownstream notify downstream settrace set trace gettimings timings getnotificationcount notification count
+VARSIG23	trace
+VARSIG22	metadatanotificationlistener metadata notification listener listener
+VARSIG21	downstream
+VARSIG20	downstream
+VARSIG24	key
+MTHSIG10	log currentnotification current notification message
+VARIABLES	context upstreamdependency upstream dependency downstreamdependency downstream dependency downstreamdependency downstream dependency deleteupstream delete upstream upstreamdependency upstream dependency downstreamdependency downstream dependency upstreamdependency upstream dependency downstreamdependency downstream dependency upstreamdependency upstream dependency downstreamdependency downstream dependency downstreamdependency downstream dependency upstream listener listener currentnotification current notification message duration upstreamdependency upstream dependency downstream downstream listener trace key logger trace level notificationnumber notification number started responsibleclass responsible timings upstreamkeyed upstream keyed downstreamkeyed downstream keyed metadataservice metadata service listeners downstream upstream upstream upstreamtodelete upstream delete downstream upstream downstream upstream downstream allupstreams upstreams upstreams hex existing duration currentnotification current notification notifieddownstreams notified downstreams asclass duration result

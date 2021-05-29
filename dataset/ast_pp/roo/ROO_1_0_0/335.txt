@@ -1,0 +1,48 @@
+VARSIG7	exception
+VARSIG6	document document
+VARSIG9	outputstream output stream outputentry output entry
+VARSIG8	transformer transformer
+VARSIG3	nodelist node list nodes
+VARSIG2	outputstream output stream outputentry output entry
+VARSIG5	outputstream output stream outputentry output entry
+VARSIG4	transformer transformer
+COMMENTS	utilities dom xml usage creates link streamresult stream result wrapping outputentry output entry link outputstreamwriter output stream writer transforms windows endings unix endings windows consistency roo roo templates outputentry output entry streamresult stream result unsupportedencodingexception unsupported encoding exception checks root element find child element matches xpath path expression supplied returns link element exists note xpath path parser namespace aware find element xpath path expression beans http xpathexpression path expression xpathexpression path expression required root parent dom element required element discovered checks root element find child element matches supplied returns link element exists element required root parent dom element required element discovered checks root element find child element matches xpath path expression supplied link element exist returns link element exists note xpath path parser namespace aware find element xpath path expression beans http xpathexpression path expression xpathexpression path expression required root parent dom element required element discovered exception thrown checks root element find child elements match xpath path expression supplied returns link list link element exist note xpath path parser namespace aware find element xpath path expression beans http xpathexpression path expression xpathexpression path expression root parent dom element link list type link element discovered transformer indents entries characters document builder factory setnamespaceaware set namespace aware
+VARSIG19	len
+VARSIG1	document document
+VARSIG18	
+VARSIG0	outputstream output stream outputentry output entry
+VARSIG17	str
+MTHSIG4	createunixstreamresultforentry create unix stream result entry outputstream output stream outputentry output entry
+VARSIG12	outputstream output stream outputentry output entry
+MTHSIG5	findfirstelement find element xpathexpression path expression element root
+VARSIG11	exception
+MTHSIG6	findfirstelementbyname find element element root
+VARSIG10	nodelist node list nodes
+MTHSIG7	findrequiredelement find required element xpathexpression path expression element root
+VARSIG31	parserconfigurationexception parser configuration exception
+MTHSIG0	writexml write xml outputstream output stream outputentry output entry document document
+VARSIG16	
+MTHSIG1	writemalformedxml write malformed xml outputstream output stream outputentry output entry nodelist node list nodes
+VARSIG15	len
+PACKAGE	springframework roo support util
+MTHSIG2	writexml write xml transformer transformer outputstream output stream outputentry output entry document document
+VARSIG14	
+MTHSIG3	writemalformedxml write malformed xml transformer transformer outputstream output stream outputentry output entry nodelist node list nodes
+VARSIG13	cbuf
+MTHSIG8	findelements find elements xpathexpression path expression element root
+VARSIG30	exception
+MTHSIG9	createindentingtransformer create indenting transformer
+CLASSES	xmlutils xml utils
+VARSIG29	xpathexpressionexception path expression exception
+VARSIG28	element root
+METHODS	writexml write xml writemalformedxml write malformed xml writexml write xml writemalformedxml write malformed xml createunixstreamresultforentry create unix stream result entry findfirstelement find element findfirstelementbyname find element findrequiredelement find required element findelements find elements createindentingtransformer create indenting transformer getdocumentbuilder document builder
+VARSIG23	
+VARSIG22	xpathexpressionexception path expression exception
+VARSIG21	element root
+VARSIG20	xpathexpression path expression
+VARSIG27	xpathexpression path expression
+VARSIG26	element root
+VARSIG25	xpathexpression path expression
+VARSIG24	element root
+MTHSIG10	getdocumentbuilder document builder
+VARIABLES	outputentry output entry document outputentry output entry nodes transformer outputentry output entry document transformer outputentry output entry nodes outputentry output entry cbuf len str len xpathexpression path expression root root xpathexpression path expression root xpathexpression path expression root compiledexpressioncache compiled expression cache xpath transformerfactory transformer factory factory writer orig filtered lengthdiff length diff rootelement root element expr element elements nodes expr xformer

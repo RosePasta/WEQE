@@ -1,0 +1,31 @@
+VARSIG7	physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+VARSIG6	javatyp type aspectnam aspect 
+VARSIG9	memberdetail member detail memberdetail member detail 
+VARSIG8	itdfilenam filenam 
+VARSIG3	path path 
+VARSIG2	javatyp type javatyp type 
+VARSIG5	metadataidentificationstr metadata identif 
+VARSIG4	metadataidentificationstr metadata identif 
+COMMENTS	link dbremetadata dbre metadata abort databas couldn deseri occur dbre xml file delet empti governor type detail safe search databas manag entiti 
+VARSIG1	componentcontext compon context context 
+VARSIG0	componentcontext compon context context 
+MTHSIG4	getmetadata metadata metadataidentificationstr metadata identif javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata itdfilenam filenam 
+VARSIG12	metadataidentificationstr metadata identif 
+MTHSIG5	getidentifierfield identifi field memberdetail member detail memberdetail member detail metadataidentificationstr metadata identif 
+VARSIG11	memberdetail member detail memberdetail member detail 
+MTHSIG6	getembeddedidentifierhold embed identifi holder memberdetail member detail memberdetail member detail metadataidentificationstr metadata identif 
+VARSIG10	metadataidentificationstr metadata identif 
+MTHSIG7	getversionfield version field memberdetail member detail memberdetail member detail metadataidentificationstr metadata identif 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	deactiv componentcontext compon context context 
+VARSIG15	metadataidentificationstr metadata identif 
+PACKAGE	springframework roo addon dbre 
+MTHSIG2	createlocalidentifi creat local identifi javatyp type javatyp type path path 
+VARSIG14	memberdetail member detail memberdetail member detail 
+MTHSIG3	getgovernorphysicaltypeidentifi governor physic type identifi metadataidentificationstr metadata identif 
+VARSIG13	fieldmetadata field metadata field 
+MTHSIG8	getitduniquenessfilenamesuffix uniqu filenam suffix 
+MTHSIG9	getprovidestyp type 
+CLASSES	dbremetadataproviderimpl dbre metadata provid impl 
+METHODS	activ deactiv createlocalidentifi creat local identifi getgovernorphysicaltypeidentifi governor physic type identifi getmetadata metadata getidentifierfield identifi field getembeddedidentifierhold embed identifi holder getversionfield version field getitduniquenessfilenamesuffix uniqu filenam suffix getprovidestyp type 
+VARIABLES	context context javatyp type path metadataidentificationstr metadata identif metadataidentificationstr metadata identif aspectnam aspect governorphysicaltypemetadata governor physic type metadata itdfilenam filenam memberdetail member detail metadataidentificationstr metadata identif memberdetail member detail metadataidentificationstr metadata identif field memberdetail member detail metadataidentificationstr metadata identif dbremodelservic dbre model servic typelocationservic type locat servic javatyp type path databas javatyp type memberdetail member detail persistencememberholdingtypedetail persist member hold type detail entityfield entiti field entitymethod entiti method identifierfield identifi field embeddedidentifierhold embed identifi holder versionfield version field managedent manag entiti identifierfield identifi field embeddedidfield embed field embeddedidentifierfield embed identifi field identifiermemberdetail identifi member detail identifiermemberholdingtypedetail identifi member hold type detail identifierfield identifi field versionfield version field field 

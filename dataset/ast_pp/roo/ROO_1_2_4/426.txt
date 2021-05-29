@@ -1,0 +1,31 @@
+VARSIG7	size
+VARSIG6	presentationname presentation
+VARSIG9	pgpkey pgp key
+VARSIG8	description
+VARSIG3	uri
+VARSIG2	bundleversion bundle version
+VARSIG5	version
+VARSIG4	obrurl obr url
+COMMENTS	returns link list link bundleversion bundle version objects ascending version order object smallest version position object highest version position account release types earlier version version versions link list link bundleversion bundle version objects ascending order
+VARSIG1	bundleversion bundle version
+VARSIG0	list bundleversion bundle version versions
+MTHSIG4	getobrurl obr url
+VARSIG12	map commands
+MTHSIG5	getpgpdescriptions pgp descriptions
+VARSIG11	rooversion roo version
+MTHSIG6	getpgpkey pgp key
+VARSIG10	pgpdescriptions pgp descriptions
+MTHSIG7	getpresentationname presentation
+MTHSIG0	orderbyversion order version list bundleversion bundle version versions
+MTHSIG1	bundleversion bundle version uri obrurl obr url version presentationname presentation size description pgpkey pgp key pgpdescriptions pgp descriptions rooversion roo version map commands
+PACKAGE	springframework roo addon roobot client model
+MTHSIG2	getcommands commands
+MTHSIG3	getdescription description
+MTHSIG8	getrooversion roo version
+MTHSIG9	getsize size
+MTHSIG11	geturi uri
+MTHSIG12	getversion version
+CLASSES	bundleversion bundle version
+METHODS	orderbyversion order version bundleversion bundle version getcommands commands getdescription description getobrurl obr url getpgpdescriptions pgp descriptions getpgpkey pgp key getpresentationname presentation getrooversion roo version getsize size getsummary summary geturi uri getversion version
+MTHSIG10	getsummary summary
+VARIABLES	versions uri obrurl obr url version presentationname presentation size description pgpkey pgp key pgpdescriptions pgp descriptions rooversion roo version commands commands description obrurl obr url pgpdescriptions pgp descriptions pgpkey pgp key presentationname presentation rooversion roo version size uri version

@@ -1,0 +1,213 @@
+MTHSIG28	newent entiti javatyp type createabstract creat javatyp type superclass list annotationmetadatabuild annot metadata builder annot 
+MTHSIG29	newidentifi identifi javatyp type identifiertyp identifi type identifierfield identifi field identifiercolumn identifi column 
+MTHSIG26	managegaexml manag gae xml ormprovid orm provid ormprovid orm provid jdbcdatabas jdbc databas jdbcdatabas jdbc databas applicationid applic modulenam modul 
+MTHSIG27	newembeddableclass embedd javatyp type serializ 
+MTHSIG24	managegaebuildcommand manag gae build command addgaesettingstoplugin add gae set plugin document document collect 
+MTHSIG25	managegaeprojectnatur manag gae project natur addgaesettingstoplugin add gae set plugin document document collect 
+MTHSIG22	isjpainstallationposs jpa instal 
+MTHSIG23	ispersistentclassavail persist 
+MTHSIG4	getdatabaseproperti databas properti 
+VARSIG78	providersxpath provid path 
+MTHSIG5	getdatabasepropertiespath databas properti path 
+VARSIG77	databasexpath databas path 
+MTHSIG6	getdbxpath path list jdbcdatabas jdbc databas databas 
+VARSIG76	jdbcdatabas jdbc databas jdbcdatabas jdbc databas 
+MTHSIG7	getdepend depend xpathexpress path express element configur modulenam modul 
+VARSIG75	ormprovid orm provid ormprovid orm provid 
+MTHSIG0	configurejpa configur jpa ormprovid orm provid ormprovid orm provid jdbcdatabas jdbc databas jdbcdatabas jdbc databas jndi applicationid applic hostnam host databasenam databas usernam user password transactionmanag transact manag persistenceunit persist unit modulenam modul 
+MTHSIG1	createpropertyel creat properti element document document 
+MTHSIG2	createrefel creat element document document 
+MTHSIG3	getconnectionstr connect jdbcdatabas jdbc databas jdbcdatabas jdbc databas hostnam host databasenam databas modulenam modul 
+VARSIG79	modulenam modul 
+MTHSIG20	hasdatabaseproperti databas properti 
+VARSIG70	jdbcdatabas jdbc databas jdbcdatabas jdbc databas 
+MTHSIG21	isinstalledinmodul instal modul modulenam modul 
+MTHSIG8	getfilt filter xpathexpress path express element configur 
+VARSIG74	element configur 
+MTHSIG9	getjndipropertiespath jndi properti path 
+VARSIG73	persistenceunit persist unit 
+VARSIG72	transactionmanag transact manag 
+VARSIG71	jndi 
+MTHSIG39	updatejndiproperti updat jndi properti 
+MTHSIG37	updateeclipseplugin updat plugin addgaesettingstoplugin add gae set plugin 
+MTHSIG38	updatefilt updat filter element configur ormprovid orm provid ormprovid orm provid jdbcdatabas jdbc databas jdbcdatabas jdbc databas databasexpath databas path providersxpath provid path modulenam modul 
+MTHSIG35	updatedatanucleusplugin updat data nucleu plugin addtoplugin add plugin 
+MTHSIG36	updatedepend updat depend element configur ormprovid orm provid ormprovid orm provid jdbcdatabas jdbc databas jdbcdatabas jdbc databas databasexpath databas path providersxpath provid path modulenam modul 
+MTHSIG33	updatedatabasedotcomconfigproperti updat databas dot config properti ormprovid orm provid ormprovid orm provid jdbcdatabas jdbc databas jdbcdatabas jdbc databas hostnam host usernam user password persistenceunit persist unit modulenam modul 
+MTHSIG34	updatedatabaseproperti updat databas properti ormprovid orm provid ormprovid orm provid jdbcdatabas jdbc databas jdbcdatabas jdbc databas hostnam host databasenam databas usernam user password modulenam modul 
+METHODS	configurejpa configur jpa createpropertyel creat properti element createrefel creat element getconnectionstr connect getdatabaseproperti databas properti getdatabasepropertiespath databas properti path getdbxpath path getdepend depend getfilt filter getjndipropertiespath jndi properti path getnam getpersistencepathoffocussedmodul persist path focuss modul getplugin plugin getprojectnam project getpropertiesfromdatanucleusconfigur properti data nucleu configur getpropertiespath properti path getproviderxpath provid path getresourc resourc getunwanteddatabas unwant databas getunwantedormprovid unwant orm provid hasdatabaseproperti databas properti isinstalledinmodul instal modul isjpainstallationposs jpa instal ispersistentclassavail persist managegaebuildcommand manag gae build command managegaeprojectnatur manag gae project natur managegaexml manag gae xml newembeddableclass embedd newent entiti newidentifi identifi readproperti read properti updateapplicationcontext updat applic context updatebuildplugin updat build plugin updatedatabasedotcomconfigproperti updat databas dot config properti updatedatabaseproperti updat databas properti updatedatanucleusplugin updat data nucleu plugin updatedepend updat depend updateeclipseplugin updat plugin updatefilt updat filter updatejndiproperti updat jndi properti updatelog updat log updatepersistencexml updat persist xml updatepluginrepositori updat plugin repositori updatepomproperti updat pom properti updaterepositori updat repositori updateresourc updat resourc writeproperti write properti 
+VARSIG67	templatefilenam templat filenam 
+VARSIG66	exist 
+VARSIG65	path 
+VARSIG64	identifiercolumn identifi column 
+VARSIG69	ormprovid orm provid ormprovid orm provid 
+VARSIG68	ioexcept except 
+MTHSIG31	updateapplicationcontext updat applic context ormprovid orm provid ormprovid orm provid jdbcdatabas jdbc databas jdbcdatabas jdbc databas jndi transactionmanag transact manag persistenceunit persist unit 
+MTHSIG32	updatebuildplugin updat build plugin element configur ormprovid orm provid ormprovid orm provid jdbcdatabas jdbc databas jdbcdatabas jdbc databas databasexpath databas path providersxpath provid path modulenam modul 
+MTHSIG30	readproperti read properti path exist templatefilenam templat filenam 
+VARSIG63	identifierfield identifi field 
+VARSIG62	javatyp type identifiertyp identifi type 
+VARSIG61	list annotationmetadatabuild annot metadata builder annot 
+VARSIG60	javatyp type superclass 
+VARSIG99	jdbcdatabas jdbc databas jdbcdatabas jdbc databas 
+VARSIG98	ormprovid orm provid ormprovid orm provid 
+VARSIG97	element configur 
+VARSIG92	databasenam databas 
+VARSIG91	hostnam host 
+VARSIG90	jdbcdatabas jdbc databas jdbcdatabas jdbc databas 
+VARSIG96	addtoplugin add plugin 
+VARSIG95	modulenam modul 
+VARSIG94	password 
+VARSIG93	usernam user 
+MTHSIG17	getresourc resourc xpathexpress path express element configur 
+MTHSIG18	getunwanteddatabas unwant databas jdbcdatabas jdbc databas jdbcdatabas jdbc databas 
+MTHSIG15	getpropertiespath properti path propertiesfil properti file 
+MTHSIG16	getproviderxpath provid path list ormprovid orm provid ormprovid orm provid 
+MTHSIG13	getprojectnam project modulenam modul 
+MTHSIG14	getpropertiesfromdatanucleusconfigur properti data nucleu configur 
+MTHSIG11	getpersistencepathoffocussedmodul persist path focuss modul 
+MTHSIG12	getplugin plugin xpathexpress path express element configur 
+MTHSIG19	getunwantedormprovid unwant orm provid ormprovid orm provid ormprovid orm provid 
+VARSIG89	ormprovid orm provid ormprovid orm provid 
+VARSIG88	modulenam modul 
+VARSIG87	persistenceunit persist unit 
+VARSIG86	password 
+VARSIG81	element pluginel plugin element 
+MTHSIG10	getnam 
+VARSIG80	element pluginel plugin element 
+VARIABLES	kei ormprovid orm provid jdbcdatabas jdbc databas jndi applicationid applic hostnam host databasenam databas usernam user password transactionmanag transact manag persistenceunit persist unit modulenam modul document document jdbcdatabas jdbc databas hostnam host databasenam databas modulenam modul databas xpathexpress path express configur modulenam modul dependencyel depend element xpathexpress path express configur filterel filter element xpathexpress path express configur pluginel plugin element modulenam modul propertyel properti element propertiesfil properti file ormprovid orm provid xpathexpress path express configur resourceel resourc element jdbcdatabas jdbc databas databas ormprovid orm provid modulenam modul addgaesettingstoplugin add gae set plugin document addgaesettingstoplugin add gae set plugin document ormprovid orm provid jdbcdatabas jdbc databas applicationid applic modulenam modul serializ createabstract creat superclass annot identifiertyp identifi type identifierfield identifi field identifiercolumn identifi column path exist templatefilenam templat filenam ormprovid orm provid jdbcdatabas jdbc databas jndi transactionmanag transact manag persistenceunit persist unit configur ormprovid orm provid jdbcdatabas jdbc databas databasexpath databas path providersxpath provid path modulenam modul pluginel plugin element pluginel plugin element ormprovid orm provid jdbcdatabas jdbc databas hostnam host usernam user password persistenceunit persist unit modulenam modul ormprovid orm provid jdbcdatabas jdbc databas hostnam host databasenam databas usernam user password modulenam modul addtoplugin add plugin configur ormprovid orm provid jdbcdatabas jdbc databas databasexpath databas path providersxpath provid path modulenam modul dependencyel depend element dependencyel depend element dependencyel depend element dependencyel depend element addgaesettingstoplugin add gae set plugin configur ormprovid orm provid jdbcdatabas jdbc databas databasexpath databas path providersxpath provid path modulenam modul filter filterel filter element filterel filter element filter ormprovid orm provid ormprovid orm provid jdbcdatabas jdbc databas hostnam host databasenam databas usernam user password persistenceunit persist unit modulenam modul configur ormprovid orm provid jdbcdatabas jdbc databas modulenam modul pluginrepositoryel plugin repositori element pluginrepositoryel plugin repositori element configur ormprovid orm provid jdbcdatabas jdbc databas modulenam modul properti properti configur ormprovid orm provid jdbcdatabas jdbc databas modulenam modul repositoryel repositori element repositoryel repositori element repositoryel repositori element configur ormprovid orm provid jdbcdatabas jdbc databas databasexpath databas path providersxpath provid path modulenam modul resourc resourceel resourc element resourceel resourc element resourc path exist prop serialversionuid serial version uid applic context xml databas driver databas password databas properti file databas url databas usernam persist unit gae persist unit jpa dialect file jstl impl depend logger persist unit persist xml pom xml filemanag file manag pathresolv path resolv projectoper project oper propfileoper prop file oper typelocationservic type locat servic typemanagementservic type manag servic configur databasexpath databas path providersxpath provid path properti properti connectionstr connect dbdelimit delimit builder depend depend filter buildplugin build plugin persistencexmlpath persist xml path document root propertyel properti element properti kei path tmpdir tmp dir builder resourc unwanteddatabas unwant databas unwantedormprovid unwant orm provid resourcespath resourc path root additionalbuildcommandsel addit buildcommand element gaebuildcommandnam gae build command gaebuildcommandel gae build command element nameel element root additionalprojectnaturesel addit projectnatur element gaeprojectnaturenam gae projectnatur gaeprojectnatureel gae projectnatur element appenginepath appengin path appenginepathexist appengin path exist loggingpropertiespath log properti path loggingpropertiespathexist log properti path exist inputstream input stream appengin root applicationel applic element textcont text content templateinputstream templat input stream outputstream output stream declaredbymetadataid declar metadata annot modifi cidbuild cid builder modifi declaredbymetadataid declar metadata cidbuild cid builder superclassclassorinterfacetypedetail superclass type detail declaredbymetadataid declar metadata identifierannot identifi annot cidbuild cid builder prop inputstream input stream contextpath context path appctx app ctx root datasourc data sourc datasourcejndi data sourc jndi validationqueryel valid queri element validationqueri valid queri transactionmanagerel transact manag element aspectjtxmanag aspect manag entitymanagerfactori entiti manag factori requiredplugin requir plugin databaseplugin databas plugin ormplugin orm plugin redundantplugin redund plugin configpath config path configexist config exist connectionstr connect prop haschang chang databasepath databas path databaseexist databas exist jndipath jndi path prop connectionstr connect driver url unam pwd haschang chang pom document root configurationel configur element descriptionofchang descript chang mappingexcludesel map exclud element requireddepend requir depend databasedepend databas depend ormdepend orm depend jpadepend jpa depend springdepend spring depend redundantdepend redund depend pom document changesmessag messag redundantfilt redund filter filter databasefilt databas filter ormfilt orm filter databasepath databas path jndipath jndi path prop log jpath log path log jmutablefil log mutabl file prop outputstream output stream dnkei kei persistencepath persist path inputstream input stream persist root persistenceel persist element persistenceunitel persist unit element provid dialect properti isdbreproject dbre project isdbreprojectordb dbre project dialectkei dialect kei connectionstr connect pluginrepositori plugin repositori databasepluginrepositori databas plugin repositori ormpluginrepositori orm plugin repositori databaseproperti databas properti providerproperti provid properti repositori databaserepositori databas repositori ormrepositori orm repositori jparepositori jpa repositori redundantresourc redund resourc resourc databaseresourc databas resourc ormresourc orm resourc outputstream output stream mutablefil mutabl file 
+VARSIG85	usernam user 
+VARSIG84	hostnam host 
+VARSIG83	jdbcdatabas jdbc databas jdbcdatabas jdbc databas 
+VARSIG82	ormprovid orm provid ormprovid orm provid 
+VARSIG39	element configur 
+VARSIG34	modulenam modul 
+VARSIG33	element pluginel plugin element 
+VARSIG160	ioexcept except 
+VARSIG32	element configur 
+VARSIG31	xpathexpress path express 
+VARSIG38	xpathexpress path express 
+VARSIG37	list ormprovid orm provid ormprovid orm provid 
+PACKAGE	springframework roo addon jpa 
+VARSIG36	propertiesfil properti file 
+VARSIG35	element propertyel properti element 
+VARSIG30	element filterel filter element 
+VARSIG29	element configur 
+VARSIG28	xpathexpress path express 
+VARSIG23	list jdbcdatabas jdbc databas databas 
+VARSIG22	modulenam modul 
+VARSIG21	databasenam databas 
+VARSIG150	databasexpath databas path 
+VARSIG20	hostnam host 
+VARSIG151	providersxpath provid path 
+VARSIG27	element dependencyel depend element 
+VARSIG152	modulenam modul 
+VARSIG26	modulenam modul 
+VARSIG153	resourc resourc 
+VARSIG25	element configur 
+VARSIG154	element resourceel resourc element 
+VARSIG24	xpathexpress path express 
+VARSIG155	element resourceel resourc element 
+VARSIG156	resourc resourc 
+VARSIG157	path 
+VARSIG158	exist 
+VARSIG159	properti prop 
+VARSIG56	javatyp type 
+VARSIG55	ioexcept except 
+VARSIG54	modulenam modul 
+VARSIG53	applicationid applic 
+VARSIG59	createabstract creat 
+VARSIG58	javatyp type 
+VARSIG57	serializ 
+VARSIG52	jdbcdatabas jdbc databas jdbcdatabas jdbc databas 
+VARSIG51	ormprovid orm provid ormprovid orm provid 
+VARSIG50	collect 
+VARSIG45	addgaesettingstoplugin add gae set plugin 
+VARSIG44	modulenam modul 
+VARSIG43	ormprovid orm provid ormprovid orm provid 
+VARSIG42	jdbcdatabas jdbc databas databas 
+VARSIG49	document document 
+VARSIG48	addgaesettingstoplugin add gae set plugin 
+VARSIG47	collect 
+VARSIG46	document document 
+VARSIG41	jdbcdatabas jdbc databas jdbcdatabas jdbc databas 
+VARSIG40	element resourceel resourc element 
+VARSIG120	ormprovid orm provid ormprovid orm provid 
+VARSIG121	jdbcdatabas jdbc databas jdbcdatabas jdbc databas 
+VARSIG122	hostnam host 
+VARSIG123	databasenam databas 
+VARSIG124	usernam user 
+VARSIG125	password 
+VARSIG126	persistenceunit persist unit 
+VARSIG127	modulenam modul 
+VARSIG128	element configur 
+VARSIG129	ormprovid orm provid ormprovid orm provid 
+VARSIG110	jdbcdatabas jdbc databas jdbcdatabas jdbc databas 
+VARSIG111	databasexpath databas path 
+VARSIG112	providersxpath provid path 
+VARSIG113	modulenam modul 
+VARSIG114	filter filter 
+VARSIG115	element filterel filter element 
+VARSIG116	element filterel filter element 
+VARSIG117	filter filter 
+VARSIG118	ormprovid orm provid ormprovid orm provid 
+VARSIG119	ioexcept except 
+COMMENTS	implement link jpaoper jpa oper pars configur xml file xpath path express unwant databas orm provid oracl connect url roo requir properti ignor element unit test path nullotherwis check exist configur abort identifi requir plugin identifi redund plugin don remov requir updat pom databasenam databas exist databas configur exit write databas properti file log messag consol manag mappingexclud map exclud updat pom depend requir databas orm provid remov persist depend configur ormprovid orm provid jdbcdatabas jdbc databas databasexpath databas path providersxpath provid path hard code jpa hibern valid remov redund depend don remov updat pom remov redund filter add requir filter there exist persist config file read addon addon templat file add provid element add properti roo roo roo connect properti file add plugin repositori pom xml add repositori pom xml remov redund resourc add requir resourc 
+VARSIG19	jdbcdatabas jdbc databas jdbcdatabas jdbc databas 
+VARSIG18	document document 
+VARSIG17	 
+VARSIG12	modulenam modul 
+VARSIG11	persistenceunit persist unit 
+VARSIG10	transactionmanag transact manag 
+VARSIG140	element configur 
+VARSIG16	 
+VARSIG141	ormprovid orm provid ormprovid orm provid 
+VARSIG15	document document 
+VARSIG142	jdbcdatabas jdbc databas jdbcdatabas jdbc databas 
+VARSIG14	 
+VARSIG143	modulenam modul 
+VARSIG13	 
+VARSIG144	element repositoryel repositori element 
+VARSIG145	element repositoryel repositori element 
+VARSIG146	element repositoryel repositori element 
+VARSIG147	element configur 
+VARSIG148	ormprovid orm provid ormprovid orm provid 
+VARSIG149	jdbcdatabas jdbc databas jdbcdatabas jdbc databas 
+VARSIG130	jdbcdatabas jdbc databas jdbcdatabas jdbc databas 
+VARSIG131	modulenam modul 
+VARSIG132	element pluginrepositoryel plugin repositori element 
+VARSIG133	element pluginrepositoryel plugin repositori element 
+VARSIG134	element configur 
+VARSIG135	ormprovid orm provid ormprovid orm provid 
+VARSIG136	jdbcdatabas jdbc databas jdbcdatabas jdbc databas 
+VARSIG137	modulenam modul 
+VARSIG138	element properti 
+VARSIG139	element properti 
+CLASSES	jpaoperationsimpl jpa oper impl 
+VARSIG7	databasenam databas 
+VARSIG109	ormprovid orm provid ormprovid orm provid 
+VARSIG6	hostnam host 
+VARSIG9	password 
+VARSIG8	usernam user 
+MTHSIG46	writeproperti write properti path exist properti prop 
+VARSIG3	jdbcdatabas jdbc databas jdbcdatabas jdbc databas 
+VARSIG2	ormprovid orm provid ormprovid orm provid 
+MTHSIG44	updaterepositori updat repositori element configur ormprovid orm provid ormprovid orm provid jdbcdatabas jdbc databas jdbcdatabas jdbc databas modulenam modul 
+VARSIG5	applicationid applic 
+MTHSIG45	updateresourc updat resourc element configur ormprovid orm provid ormprovid orm provid jdbcdatabas jdbc databas jdbcdatabas jdbc databas databasexpath databas path providersxpath provid path modulenam modul 
+VARSIG4	jndi 
+VARSIG1	object 
+VARSIG0	object kei 
+VARSIG100	databasexpath databas path 
+MTHSIG42	updatepluginrepositori updat plugin repositori element configur ormprovid orm provid ormprovid orm provid jdbcdatabas jdbc databas jdbcdatabas jdbc databas modulenam modul 
+VARSIG101	providersxpath provid path 
+MTHSIG43	updatepomproperti updat pom properti element configur ormprovid orm provid ormprovid orm provid jdbcdatabas jdbc databas jdbcdatabas jdbc databas modulenam modul 
+VARSIG102	modulenam modul 
+MTHSIG40	updatelog updat log ormprovid orm provid ormprovid orm provid 
+VARSIG103	element dependencyel depend element 
+MTHSIG41	updatepersistencexml updat persist xml ormprovid orm provid ormprovid orm provid jdbcdatabas jdbc databas jdbcdatabas jdbc databas hostnam host databasenam databas usernam user password persistenceunit persist unit modulenam modul 
+VARSIG104	element dependencyel depend element 
+VARSIG105	element dependencyel depend element 
+VARSIG106	element dependencyel depend element 
+VARSIG107	addgaesettingstoplugin add gae set plugin 
+VARSIG108	element configur 

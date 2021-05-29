@@ -1,0 +1,36 @@
+VARSIG7	javatype type requiredclassorinterface required
+VARSIG6	physicaltypeidentifier physical type identifier
+VARSIG9	locatedtypecallback located type callback callback
+VARSIG8	list javatype type annotationstodetect annotations detect
+VARSIG3	downstreamdependency downstream dependency
+VARSIG2	upstreamdependency upstream dependency
+VARSIG5	path path
+VARSIG4	javatype type javatype type
+COMMENTS	implementation link typelocationservice type location service performance reasons automatically caches queries invalidating cache link physicaltypemetadata physical type metadata notification received change drop cache ptm ptm mdservice upstream list annotations incomingannotations incoming annotations ptm gettypeannotatios type annotatios adding incoming type searches match list javatype type annotationssearchedfor annotations searched cache keyset key set annotationssearchedfor annotations searched oneoftheincomingannotations incoming annotations edit cache element ptm getname list removing incoming type sarches longer match list javatype type annotationssearchedfor annotations searched cache keyset key set cache annotationssarchedfor annotationssarched ptm getname match remove element longer annotaiton incomingtype incoming type ditch roo let work path store cache
+VARSIG19	physicaltypemid physical type mid
+VARSIG1	componentcontext component context context
+VARSIG18	classorinterfacetypedetails type details located
+VARSIG0	componentcontext component context context
+VARSIG17	javatype type annotationstodetect annotations detect
+MTHSIG4	getphysicallocationcanonicalpath physical location canonical path physicaltypeidentifier physical type identifier
+VARSIG12	javatype type annotation
+MTHSIG5	getclassorinterface javatype type requiredclassorinterface required
+VARSIG11	runtimeexception runtime exception
+MTHSIG6	processtypeswithannotation process types annotation list javatype type annotationstodetect annotations detect locatedtypecallback located type callback callback
+VARSIG10	filedetails file details file
+MTHSIG7	findtypeswithannotation find types annotation list javatype type annotationstodetect annotations detect
+MTHSIG0	activate componentcontext component context context
+VARSIG16	javatype type annotationstodetect annotations detect
+MTHSIG1	deactivate componentcontext component context context
+VARSIG15	classorinterfacetypedetails type details located
+PACKAGE	springframework roo classpath
+MTHSIG2	notify upstreamdependency upstream dependency downstreamdependency downstream dependency
+VARSIG14	list javatype type annotationstodetect annotations detect
+MTHSIG3	getphysicallocationcanonicalpath physical location canonical path javatype type javatype type path path
+VARSIG13	locatedphysicaltypemid located physical type mid
+MTHSIG8	findtypeswithannotation find types annotation javatype type annotationstodetect annotations detect
+MTHSIG9	findclassesorinterfacedetailswithannotation find classes details annotation javatype type annotationstodetect annotations detect
+CLASSES	typelocationserviceimpl type location service impl
+METHODS	activate deactivate notify getphysicallocationcanonicalpath physical location canonical path getphysicallocationcanonicalpath physical location canonical path getclassorinterface processtypeswithannotation process types annotation findtypeswithannotation find types annotation findtypeswithannotation find types annotation findclassesorinterfacedetailswithannotation find classes details annotation getclassorinterfacetypedetails type details
+MTHSIG10	getclassorinterfacetypedetails type details physicaltypemid physical type mid
+VARIABLES	context context upstreamdependency upstream dependency downstreamdependency downstream dependency javatype type path physicaltypeidentifier physical type identifier requiredclassorinterface required annotationstodetect annotations detect callback file annotation locatedphysicaltypemid located physical type mid annotationstodetect annotations detect located annotationstodetect annotations detect annotationstodetect annotations detect located physicaltypemid physical type mid filemanager file manager dependencyregistry dependency registry metadataservice metadata service physicaltypemetadataprovider physical type metadata provider projectoperations project operations cache relativepath relative path javatype type path relativepath relative path metadataidentificationstring metadata identification physicaltypemetadata physical type metadata physicaltypedetails physical type details locatedphysicaltypemids located physical type mids pathresolver path resolver srcroot src root antpath ant path entries fullpath full path javatype type path physicaltypemid physical type mid located located types types physicaltypemetadata physical type metadata

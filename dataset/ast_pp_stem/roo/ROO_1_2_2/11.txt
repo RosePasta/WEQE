@@ -1,0 +1,43 @@
+VARSIG7	invalidkeyspecexcept invalid kei spec except 
+VARSIG6	opmod 
+VARSIG9	nosuchalgorithmexcept algorithm except 
+VARSIG8	nosuchpaddingexcept pad except 
+VARSIG3	generalsecurityexcept gener secur except 
+VARSIG2	opmod 
+VARSIG5	encodedentri encod entri 
+VARSIG4	encodedentri encod entri 
+COMMENTS	user user cloud prefer pipe constructor preferencesservic prefer servic servic load prefer requir clear store link cloudcredenti cloud credenti encrypt decrypt input opmod input byte oper requir opmod oper perform link cipher suitabl constant arrai decod encod decrypt prefer set link cloudcredenti cloud credenti encodedentri encod entri encod convert blank set flush prefer persist store prefer flush return store link cloudcredenti cloud credenti set return store credenti url url url match list empti url return email address store credenti list duplic return email address store credenti url cloudcontrollerurl cloud control url url match blank list duplic empti url blank return store password url email address cloudcontrollerurl cloud control url email isn return url store credenti list duplic store credenti store newcredenti credenti credenti store requir valid credenti write exist valid write 
+VARSIG19	email 
+VARSIG1	input 
+VARSIG18	cloudcontrollerurl cloud control url 
+VARSIG0	preferencesservic prefer servic preferencesservic prefer servic 
+VARSIG17	cloudcredenti cloud credenti storedcredenti store credenti 
+MTHSIG4	flush 
+VARSIG12	unsupportedencodingexcept unsupport encod except 
+MTHSIG5	getciph cipher opmod 
+VARSIG11	unsupportedencodingexcept unsupport encod except 
+MTHSIG6	getstoredcredenti store credenti 
+VARSIG10	invalidkeyexcept invalid kei except 
+MTHSIG7	getstoredcredentialsforurl store credenti url url 
+MTHSIG0	cloudprefer cloud prefer preferencesservic prefer servic preferencesservic prefer servic 
+VARSIG16	cloudcontrollerurl cloud control url 
+MTHSIG1	clearstoredlogindetail clear store login detail 
+VARSIG15	cloudcredenti cloud credenti storedcredenti store credenti 
+PACKAGE	springframework roo addon cloud foundri 
+MTHSIG2	crypt input opmod 
+VARSIG14	cloudcredenti cloud credenti cloudcredenti cloud credenti 
+MTHSIG3	decodeloginprefentri decod login pref entri encodedentri encod entri 
+VARSIG13	url 
+MTHSIG8	getstoredemail store email 
+MTHSIG9	getstoredemail store email cloudcontrollerurl cloud control url 
+MTHSIG11	getstoredurl store url 
+MTHSIG12	storecredenti store credenti cloudcredenti cloud credenti newcredenti credenti 
+CLASSES	cloudprefer cloud prefer 
+METHODS	cloudprefer cloud prefer clearstoredlogindetail clear store login detail crypt decodeloginprefentri decod login pref entri flush getciph cipher getstoredcredenti store credenti getstoredcredentialsforurl store credenti url getstoredemail store email getstoredemail store email getstoredpassword store password getstoredurl store url storecredenti store credenti 
+VARSIG23	cloudcredenti cloud credenti storedcredenti store credenti 
+VARSIG22	cloudcredenti cloud credenti newcredenti credenti 
+VARSIG21	cloudcredenti cloud credenti storedcredenti store credenti 
+VARSIG20	cloudcredenti cloud credenti storedcredenti store credenti 
+VARSIG24	unsupportedencodingexcept unsupport encod except 
+MTHSIG10	getstoredpassword store password cloudcontrollerurl cloud control url email 
+VARIABLES	preferencesservic prefer servic input opmod encodedentri encod entri encodedentri encod entri opmod url cloudcredenti cloud credenti storedcredenti store credenti cloudcontrollerurl cloud control url storedcredenti store credenti cloudcontrollerurl cloud control url email storedcredenti store credenti storedcredenti store credenti newcredenti credenti storedcredenti store credenti charset cloud foundri kei delimit delimit regex roo kei prefer cipher set keyspec kei spec keyfactori kei factori skei cipher encodedpref encod pref decryptedpref decrypt pref match storedemail store email storedemail store email storedurl store url entri encodedentri encod entri encryptedentri encrypt entri 

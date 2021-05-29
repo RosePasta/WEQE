@@ -1,0 +1,54 @@
+MTHSIG28	getordinalposition ordinal position
+MTHSIG29	setordinalposition set ordinal position ordinalposition ordinal position
+MTHSIG26	getjavatype type
+MTHSIG27	setjavatype set type javatype type
+MTHSIG24	getdefaultvalue
+MTHSIG25	setdefaultvalue set defaultvalue
+MTHSIG22	getscale scale
+MTHSIG23	setscale set scale scale
+MTHSIG4	getdescription description
+MTHSIG5	setdescription set description description
+MTHSIG6	gettable table
+MTHSIG7	settable set table table table
+MTHSIG0	column
+MTHSIG1	getname
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	getescapedname escaped
+MTHSIG3	setname set
+MTHSIG20	getprecision precision
+MTHSIG21	setprecision set precision precision
+MTHSIG8	isprimarykey primary key
+MTHSIG9	setprimarykey set primary key primarykey primary key
+CLASSES	column
+METHODS	column getname getescapedname escaped setname set getdescription description setdescription set description gettable table settable set table isprimarykey primary key setprimarykey set primary key isrequired required setrequired set required isautoincrement auto increment setautoincrement set auto increment gettypecode type code settypecode set type code gettype type settype set type getlength length setlength set length getprecision precision setprecision set precision getscale scale setscale set scale getdefaultvalue setdefaultvalue set getjavatype type setjavatype set type getordinalposition ordinal position setordinalposition set ordinal position hashcode hash code equals tostring
+MTHSIG31	equals object obj
+MTHSIG32	tostring
+MTHSIG30	hashcode hash code
+VARSIG7	typecode type code
+VARSIG6	autoincrement auto increment
+VARSIG9	length
+VARSIG8	columntype column type type
+VARSIG3	table table
+VARSIG2	description
+VARSIG5	required
+VARSIG4	primarykey primary key
+COMMENTS	represents column database model
+VARSIG1	
+VARSIG0	
+VARSIG12	defaultvalue
+VARSIG11	scale
+VARSIG10	precision
+VARSIG15	object obj
+VARSIG14	ordinalposition ordinal position
+VARSIG13	javatype type
+MTHSIG17	settype set type columntype column type type
+MTHSIG18	getlength length
+MTHSIG15	settypecode set type code typecode type code
+MTHSIG16	gettype type
+MTHSIG13	setautoincrement set auto increment autoincrement auto increment
+MTHSIG14	gettypecode type code
+MTHSIG11	setrequired set required required
+MTHSIG12	isautoincrement auto increment
+MTHSIG19	setlength set length length
+MTHSIG10	isrequired required
+VARIABLES	description table primarykey primary key required autoincrement auto increment typecode type code type length precision scale defaultvalue javatype type ordinalposition ordinal position obj serialversionuid serial version uid description table primarykey primary key required autoincrement auto increment typecode type code type length precision scale defaultvalue javatype type ordinalposition ordinal position prime result

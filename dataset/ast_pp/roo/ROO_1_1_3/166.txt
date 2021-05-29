@@ -1,0 +1,10 @@
+MTHSIG0	instance
+MTHSIG1	charparser parser
+PACKAGE	top level client scaffold
+MTHSIG2	parse charsequence sequence object
+COMMENTS	simple parser character instance renderer
+CLASSES	charparser parser
+VARIABLES	object instance
+VARSIG1	indexoutofboundsexception bounds exception
+VARSIG0	charsequence sequence object
+METHODS	instance charparser parser parse

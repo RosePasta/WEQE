@@ -1,0 +1,11 @@
+MTHSIG4	testloginwithblankpasswordandstoredpassword test login blank password stored password
+MTHSIG5	testloginwithnonblankemailnonblankpasswordandcustomurl test login blank email blank password custom url
+MTHSIG0	setup set
+MTHSIG1	testloginwithblankemailandnostoredemail test login blank email stored email
+PACKAGE	springframework roo addon cloud foundry
+MTHSIG2	testloginwithblankemailandstoredemail test login blank email stored email
+MTHSIG3	testloginwithblankpasswordandnostoredpassword test login blank password stored password
+COMMENTS	unit test link cloudfoundrysessionimpl cloud foundry session impl fixture set invoke check set invoke check set invoke check set invoke check set invoke check
+CLASSES	cloudfoundrysessionimpltest cloud foundry session impl test
+VARIABLES	custom cloud url email password mockappcloudclientfactory mock app cloud client factory mockpreferences mock preferences session mockclient mock client credentials mockclient mock client mockclient mock client credentials mockclient mock client credentials mockclient mock client
+METHODS	setup set testloginwithblankemailandnostoredemail test login blank email stored email testloginwithblankemailandstoredemail test login blank email stored email testloginwithblankpasswordandnostoredpassword test login blank password stored password testloginwithblankpasswordandstoredpassword test login blank password stored password testloginwithnonblankemailnonblankpasswordandcustomurl test login blank email blank password custom url

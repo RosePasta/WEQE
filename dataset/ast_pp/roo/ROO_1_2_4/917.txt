@@ -1,0 +1,38 @@
+VARSIG7	path path
+VARSIG6	relativepath relative path
+VARSIG9	identifier
+VARSIG8	path path
+VARSIG3	path path
+VARSIG2	javatype type javatype type
+VARSIG5	path path
+VARSIG4	javatype type javatype type
+COMMENTS	link pathresolver path resolver implementation subclasses created common build system structures mutex
+VARSIG1	logicalpath logical path path
+VARSIG0	pathresolvingstrategy path resolving strategy strategy
+MTHSIG4	getfocusedpath focused path path path
+VARSIG12	identifier
+MTHSIG5	getfocusedroot focused root path path
+VARSIG11	relativepath relative path
+MTHSIG6	getfriendlyname friendly identifier
+VARSIG10	logicalpath logical path path
+MTHSIG7	getidentifier identifier logicalpath logical path path relativepath relative path
+MTHSIG0	bindpathresolvingstrategy bind path resolving strategy pathresolvingstrategy path resolving strategy strategy
+VARSIG16	pathresolvingstrategy path resolving strategy strategy
+MTHSIG1	getcanonicalpath canonical path logicalpath logical path path javatype type javatype type
+VARSIG15	pathresolvingstrategy path resolving strategy pathresolvingstrategy path resolving strategy
+PACKAGE	springframework roo project
+MTHSIG2	getfocusedcanonicalpath focused canonical path path path javatype type javatype type
+VARSIG14	logicalpath logical path path
+MTHSIG3	getfocusedidentifier focused identifier path path relativepath relative path
+VARSIG13	identifier
+MTHSIG8	getpath path identifier
+MTHSIG9	getpaths paths
+MTHSIG15	unbindpathresolvingstrategy unbind path resolving strategy pathresolvingstrategy path resolving strategy strategy
+MTHSIG13	getsourcepaths source paths
+MTHSIG14	getstrategy strategy
+MTHSIG11	getroot root
+MTHSIG12	getroot root logicalpath logical path path
+CLASSES	delegatepathresolver delegate path resolver
+METHODS	bindpathresolvingstrategy bind path resolving strategy getcanonicalpath canonical path getfocusedcanonicalpath focused canonical path getfocusedidentifier focused identifier getfocusedpath focused path getfocusedroot focused root getfriendlyname friendly getidentifier identifier getpath path getpaths paths getrelativesegment relative segment getroot root getroot root getsourcepaths source paths getstrategy strategy unbindpathresolvingstrategy unbind path resolving strategy
+MTHSIG10	getrelativesegment relative segment identifier
+VARIABLES	strategy path javatype type path javatype type path relativepath relative path path path identifier path relativepath relative path identifier identifier path pathresolvingstrategy path resolving strategy strategy lock pathresolvingstrategies path resolving strategies chosenstrategy chosen strategy

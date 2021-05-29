@@ -1,0 +1,56 @@
+MTHSIG4	builduixml build xml templatecontents template contents destfile dest file
+VARSIG34	metadataidentificationstring metadata identification
+MTHSIG5	getrequestmethod request destinationmetadataid destination metadata methodmetadata metadata methodmetadata meta data
+VARSIG33	path path
+MTHSIG6	getrequestmethod request destinationmetadataid destination metadata methodmetadata metadata methodmetadata meta data javatype type methodreturntype type
+VARSIG32	javatype type javatype type
+MTHSIG7	getdestinationmetadataid destination metadata gwttype gwt type gwttype gwt type
+VARSIG31	javatype type servertype server type
+MTHSIG0	gwtmetadata gwt metadata identifier classorinterfacetypedetails type details governortypedetails governor type details projectmetadata project metadata projectmetadata project metadata list methodmetadata metadata proxymethods proxy methods list methodmetadata metadata requestmethods request methods entitymetadata entity metadata entitymetadata entity metadata
+MTHSIG1	resolveentityinformation resolve entity
+PACKAGE	springframework roo addon gwt
+MTHSIG2	buildproxy build proxy
+MTHSIG3	buildrequest build request
+VARSIG35	metadataidentificationstring metadata identification
+MTHSIG8	getdestinationjavatype destination type gwttype gwt type gwttype gwt type
+VARSIG30	gwttype gwt type gwttype gwt type
+MTHSIG9	createadditionalannotation create additional annotation javatype type servertype server type
+CLASSES	gwtmetadata gwt metadata
+VARSIG29	gwttype gwt type gwttype gwt type
+VARSIG28	javatype type methodreturntype type
+METHODS	gwtmetadata gwt metadata resolveentityinformation resolve entity buildproxy build proxy buildrequest build request builduixml build xml getrequestmethod request getrequestmethod request getdestinationmetadataid destination metadata getdestinationjavatype destination type createadditionalannotation create additional annotation createannotations create annotations getmetadataidentifiertype metadata identifier type createidentifier create identifier getjavatype type getpath path
+VARSIG23	exception
+VARSIG22	element
+VARSIG21	element
+VARSIG20	methodmetadata metadata
+VARSIG27	methodmetadata metadata methodmetadata meta data
+VARSIG26	destinationmetadataid destination metadata
+VARSIG25	methodmetadata metadata methodmetadata meta data
+VARSIG24	destinationmetadataid destination metadata
+VARSIG7	annotationmetadatabuilder annotation metadata builder existingannotation existing annotation
+VARSIG6	annotationmetadatabuilder annotation metadata builder annotationbuilder annotation builder
+VARSIG9	methodmetadata metadata
+VARSIG8	methodmetadata metadata
+VARSIG3	list methodmetadata metadata proxymethods proxy methods
+VARSIG2	projectmetadata project metadata projectmetadata project metadata
+VARSIG5	entitymetadata entity metadata entitymetadata entity metadata
+VARSIG4	list methodmetadata metadata requestmethods request methods
+COMMENTS	metadata gwt lookup special fields lookup find count methods store proxy proxy physicaltypemetadata physical type meta data representation disk proxy create classorinterfacetypedetailsbuilder type details builder proxy overridden proxy created add proxyforname proxy foo bar foo annotation add annotations don exist target inherit entityproxy entity proxy extension defined service employee behaviour gwttype gwt type mirror producing required mid mirror applicable current governor gwttype gwt type mirror producing required type mirror applicable current governor newly created type annotations list complete roogwtmirroredfrom roo gwt mirrored annotation properly setup
+VARSIG19	element element
+VARSIG1	classorinterfacetypedetails type details governortypedetails governor type details
+VARSIG18	element element
+VARSIG0	identifier
+VARSIG17	fieldname field
+VARSIG12	publicid
+VARSIG11	destfile dest file
+VARSIG10	templatecontents template contents
+VARSIG16	fieldname field
+VARSIG15	element element
+VARSIG14	element element
+VARSIG13	systemid system
+MTHSIG13	getjavatype type metadataidentificationstring metadata identification
+MTHSIG14	getpath path metadataidentificationstring metadata identification
+MTHSIG11	getmetadataidentifiertype metadata identifier type
+MTHSIG12	createidentifier create identifier javatype type javatype type path path
+MTHSIG10	createannotations create annotations
+VARIABLES	identifier governortypedetails governor type details projectmetadata project metadata proxymethods proxy methods requestmethods request methods entitymetadata entity metadata annotationbuilder annotation builder existingannotation existing annotation templatecontents template contents destfile dest file publicid systemid system element element fieldname field fieldname field element element destinationmetadataid destination metadata methodmetadata meta data destinationmetadataid destination metadata methodmetadata meta data methodreturntype type gwttype gwt type gwttype gwt type servertype server type javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification type type entitymetadata entity metadata findallmethod find findmethod find countmethod count findentriesmethod find entries proxymethods proxy methods requestmethods request methods governortypedetails governor type details projectmetadata project metadata typename type idfield field versionfield version field versionpropertyname version property destinationmetadataid destination metadata typedetailsbuilder type details builder typeannotations type annotations exists methods methodnames names abstractaccessormethodbuilder accessor builder propertyname property abstractmutatormethodbuilder mutator builder destinationmetadataid destination metadata typeannotations type annotations methods extendstypes types typedetailsbuilder type details builder transformer builder templatedocument template document existingdocument existing document existingholdingelement existing holding element templateholdingelement template holding element templateelementmap template element map existingelementmap existing element map elementstoadd elements add elementstoremove elements remove importednode imported node sortedelements sorted elements propertyname property element result source methodreturntypeargs type methodreturntype type proxy methodreturntypeargs type methodreturntype type servertypeattributes server type attributes annotations roogwtmirroredfromconfig roo gwt mirrored config

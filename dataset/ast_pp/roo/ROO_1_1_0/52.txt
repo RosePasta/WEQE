@@ -1,0 +1,17 @@
+COMMENTS	represents join table valued association multiplicity join table primary foreign pointing entity tables columns table set table set
+CLASSES	jointable join table
+VARSIG1	object obj
+VARSIG0	table table
+METHODS	jointable join table gettable table getowningsidetable owning side table getinversesidetable inverse side table getlocalcolumnreferenceofowningsidetable local column reference owning side table getlocalcolumnreferenceofinversesidetable local column reference inverse side table isowningsidesameasinverseside owning side inverse side hashcode hash code equals tostring
+MTHSIG4	getlocalcolumnreferenceofowningsidetable local column reference owning side table
+MTHSIG5	getlocalcolumnreferenceofinversesidetable local column reference inverse side table
+MTHSIG6	isowningsidesameasinverseside owning side inverse side
+MTHSIG7	hashcode hash code
+MTHSIG0	jointable join table table table
+MTHSIG1	gettable table
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	getowningsidetable owning side table
+MTHSIG3	getinversesidetable inverse side table
+VARIABLES	table obj table owningsidetable owning side table inversesidetable inverse side table foreignkeys foreign prime result
+MTHSIG8	equals object obj
+MTHSIG9	tostring

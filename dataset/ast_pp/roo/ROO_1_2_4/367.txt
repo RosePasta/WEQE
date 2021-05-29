@@ -1,0 +1,22 @@
+MTHSIG15	usexmlconfiguration xml configuration
+MTHSIG13	getauthorizedreadroles authorized read roles
+MTHSIG14	getauthorizeddeleteroles authorized delete roles
+MTHSIG11	usepermissionevaluator permission evaluator
+MTHSIG12	getauthorizedcreateorupdateroles authorized create update roles
+COMMENTS	values link rooservice roo service annotation constructor governorphysicaltypemetadata governor physical type metadata parse required
+CLASSES	serviceannotationvalues service annotation values
+VARSIG0	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+METHODS	serviceannotationvalues service annotation values getcountallmethod count getdeletemethod delete getdomaintypes domain types getfindallmethod find getfindentriesmethod find entries getfindmethod find getsavemethod save getupdatemethod update istransactional transactional requireauthentication require authentication usepermissionevaluator permission evaluator getauthorizedcreateorupdateroles authorized create update roles getauthorizedreadroles authorized read roles getauthorizeddeleteroles authorized delete roles usexmlconfiguration xml configuration
+MTHSIG4	getfindallmethod find
+MTHSIG5	getfindentriesmethod find entries
+MTHSIG6	getfindmethod find
+MTHSIG7	getsavemethod save
+MTHSIG0	serviceannotationvalues service annotation values physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+MTHSIG1	getcountallmethod count
+PACKAGE	springframework roo addon layers service
+MTHSIG2	getdeletemethod delete
+MTHSIG3	getdomaintypes domain types
+MTHSIG10	requireauthentication require authentication
+VARIABLES	governorphysicaltypemetadata governor physical type metadata countallmethod count deletemethod delete domaintypes domain types findallmethod find findentriesmethod find entries findmethod find savemethod save transactional updatemethod update requireauthentication require authentication usepermissionevaluator permission evaluator authorizedcreateorupdateroles authorized create update roles authorizedreadroles authorized read roles authorizeddeleteroles authorized delete roles usexmlconfiguration xml configuration
+MTHSIG8	getupdatemethod update
+MTHSIG9	istransactional transactional

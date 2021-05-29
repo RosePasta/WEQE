@@ -1,0 +1,25 @@
+VARSIG7	pgpkeyid pgp key keyid key
+VARSIG6	pgpkeyid pgp key keyid key
+VARSIG3	inputstream input stream signature
+VARSIG2	inputstream input stream resource
+VARSIG5	automatictrust automatic trust
+VARSIG4	inputstream input stream signature
+COMMENTS	central location pgp key store file verification activities discovered key ids encountered service started user building tab completion commands unmodifiable list key ids empty obtains url human friendly display key properties key server key uploaded keyid key hex encoded key display required url canonical file path key store file exist attempts download key requires internet access complete keyid key hex encoded key download required key exception thrown key unavailable obtains presently trusted user require internet access list elements service automatically trusts auto trust active resource signed presented asc file decision key asc valid link issignatureacceptable signature acceptable inputstream input stream require internet access resource resource presented required signature asc signature presented required signature file verified resource signature acceptable based presentation asc file determine asc valid key produce trusted verify resource signed asc link isresourcesignedbysignature resource signed signature inputstream input stream inputstream input stream practical terms exception wrong signature corrupted returns object asc signature valid key signed trusted requires internet access automatic trust mode add key processing internet access required signature asc signature presented required decision instructs implementation refresh current trusts identify revoked automatically untrusted requires internet access complete download fails key trust retained refreshed outcome refresh request included returned object map hexadecimal key ids values status update returns directs service automatically trust encounters automatictrust automatic trust trusts key refreshing existing key trusted requires internet access complete keyid key hex encoded key trust required key trusted refreshed server untrusts existing key exception key isn trusted require internet access keyid key hex encoded key untrust required key longer trusted cached returns
+VARSIG1	pgpkeyid pgp key keyid key
+VARSIG0	pgpkeyid pgp key keyid key
+MTHSIG4	gettrustedkeys trusted
+MTHSIG5	isautomatictrust automatic trust
+MTHSIG6	isresourcesignedbysignature resource signed signature inputstream input stream resource inputstream input stream signature
+MTHSIG7	issignatureacceptable signature acceptable inputstream input stream signature
+MTHSIG0	getdiscoveredkeyids discovered key ids
+MTHSIG1	getkeyserverurltoretrievekeyinformation key server url retrieve key pgpkeyid pgp key keyid key
+PACKAGE	springframework roo felix pgp
+MTHSIG2	getkeystorephysicallocation key store physical location
+MTHSIG3	getpublickey key pgpkeyid pgp key keyid key
+MTHSIG8	refresh
+MTHSIG9	setautomatictrust set automatic trust automatictrust automatic trust
+MTHSIG11	untrust pgpkeyid pgp key keyid key
+CLASSES	pgpservice pgp service
+METHODS	getdiscoveredkeyids discovered key ids getkeyserverurltoretrievekeyinformation key server url retrieve key getkeystorephysicallocation key store physical location getpublickey key gettrustedkeys trusted isautomatictrust automatic trust isresourcesignedbysignature resource signed signature issignatureacceptable signature acceptable refresh setautomatictrust set automatic trust trust untrust
+MTHSIG10	trust pgpkeyid pgp key keyid key
+VARIABLES	keyid key keyid key resource signature signature automatictrust automatic trust keyid key keyid key

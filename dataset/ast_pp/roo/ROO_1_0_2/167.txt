@@ -1,0 +1,26 @@
+VARSIG7	datetime time dateformat format
+VARSIG6	datefieldpersistencetype field persistence type persistencetype persistence type
+VARSIG8	datetime time timeformat time format
+VARSIG3	list annotationmetadata annotation metadata annotations
+VARSIG2	javasymbolname symbol fieldname field
+VARSIG5	
+VARSIG4	
+COMMENTS	field optionally provide mandatory jsr temporal annotation jsr temporal annotation jsr annotation jsr annotation add jsr temporal annotation add datetimeformat time format annotation
+VARSIG1	javatype type fieldtype field type
+VARSIG0	physicaltypeidentifier physical type identifier
+MTHSIG4	isfuture
+MTHSIG5	setfuture set
+MTHSIG6	getpersistencetype persistence type
+MTHSIG7	setpersistencetype set persistence type datefieldpersistencetype field persistence type persistencetype persistence type
+MTHSIG0	datefield field physicaltypeidentifier physical type identifier javatype type fieldtype field type javasymbolname symbol fieldname field
+MTHSIG1	decorateannotationslist decorate annotations list list annotationmetadata annotation metadata annotations
+PACKAGE	springframework roo classpath operations jsr jsr
+MTHSIG2	ispast
+MTHSIG3	setpast set
+MTHSIG8	getdateformat format
+MTHSIG9	setdateformat set format datetime time dateformat format
+MTHSIG11	settimeformat set time format datetime time timeformat time format
+CLASSES	datefield field
+METHODS	datefield field decorateannotationslist decorate annotations list ispast setpast set isfuture setfuture set getpersistencetype persistence type setpersistencetype set persistence type getdateformat format setdateformat set format gettimeformat time format settimeformat set time format
+MTHSIG10	gettimeformat time format
+VARIABLES	physicaltypeidentifier physical type identifier fieldtype field type fieldname field annotations persistencetype persistence type dateformat format timeformat time format persistencetype persistence type dateformat format timeformat time format attrs attributes

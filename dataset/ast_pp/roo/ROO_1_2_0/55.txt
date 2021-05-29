@@ -1,0 +1,37 @@
+VARSIG7	memberholdingtypedetails member holding type details entitydetails entity details
+VARSIG6	memberholdingtypedetails member holding type details entitydetails entity details
+VARSIG9	map javatype type javasymbolname symbol annotationattributes annotation attributes
+VARSIG8	memberholdingtypedetails member holding type details annotatedtype annotated type
+VARSIG3	classorinterfacetypedetails type details managedentity managed entity
+VARSIG2	schemaname schema
+VARSIG5	table table
+VARSIG4	iterable classorinterfacetypedetails type details managedentities managed entities
+COMMENTS	methods find types based table names type field names table column names constants annotation attributes read table linked preserve iteration order annotation attributes read schema linked preserve iteration order locates type presented table managedentities managed entities set database managed entities search required tablename table table locate required schemaname schema table table schema type locates type presented table managedentities managed entities set database managed entities search required table table locate required type returns database schema entity entitydetails entity details type search required schema returns database table entity entitydetails entity details type search required table reads attributes annotations type returning blank annotatedtype annotated type type read annotations required annotationattributes annotation attributes annotation attribute pairs read type annotations provide blank schema returns attribute annotation type expected annotation type type type annotations read required annotationtype annotation type annotation read required attributename attribute annotation attribute read required returns javatype type table identity tablename table table convert required javapackage type javatype type returns field database table column table column required representing table column returns field database table table table required representing table column
+VARSIG19	str
+VARSIG1	tablename table
+VARSIG18	str
+VARSIG0	iterable classorinterfacetypedetails type details managedentities managed entities
+VARSIG17	table table
+MTHSIG4	getfirstnonblankattributevalue blank attribute memberholdingtypedetails member holding type details annotatedtype annotated type map javatype type javasymbolname symbol annotationattributes annotation attributes
+VARSIG12	javatype type annotationtype annotation type
+MTHSIG5	getannotationattribute annotation attribute memberholdingtypedetails member holding type details type javatype type annotationtype annotation type javasymbolname symbol attributename attribute
+VARSIG11	memberholdingtypedetails member holding type details type
+MTHSIG6	suggesttypenamefornewtable type table tablename table javapackage javapackage
+VARSIG10	entry javatype type javasymbolname symbol entry
+MTHSIG7	suggestfieldname field
+MTHSIG0	findtypefortablename find type table iterable classorinterfacetypedetails type details managedentities managed entities tablename table schemaname schema
+VARSIG16	
+MTHSIG1	findtypefortable find type table iterable classorinterfacetypedetails type details managedentities managed entities table table
+VARSIG15	javapackage javapackage
+PACKAGE	springframework roo addon dbre
+MTHSIG2	getschemaname schema memberholdingtypedetails member holding type details entitydetails entity details
+VARSIG14	tablename table
+MTHSIG3	gettablename table memberholdingtypedetails member holding type details entitydetails entity details
+VARSIG13	javasymbolname symbol attributename attribute
+MTHSIG8	suggestfieldname field table table
+MTHSIG9	suggestpackagename str
+CLASSES	dbretypeutils dbre type utils
+METHODS	findtypefortablename find type table findtypefortable find type table getschemaname schema gettablename table getfirstnonblankattributevalue blank attribute getannotationattribute annotation attribute suggesttypenamefornewtable type table suggestfieldname field suggestfieldname field suggestpackagename getname
+VARSIG20	isfield field
+MTHSIG10	getname str isfield field
+VARIABLES	managedentities managed entities tablename table schemaname schema managedentity managed entity managedentities managed entities table entitydetails entity details entitydetails entity details annotatedtype annotated type annotationattributes annotation attributes entry type annotationtype annotation type attributename attribute tablename table javapackage table str str isfield field attribute schema attribute table attribute table attributes schema attributes managedschemaname managed schema attributevalue attribute typeannotation type annotation attributevalue attribute result result result isdelimchar delim

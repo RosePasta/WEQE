@@ -1,0 +1,15 @@
+COMMENTS	unit test link projectmetadata project metadata set invoke check
+CLASSES	projectmetadatatest project metadata test
+METHODS	testconstructorforleveltwomodule test constructor level module testgetmodulenamefromlevelonemodulemid test module level module mid testgetmodulenamefromrootmodulemid test module root module mid testgetprojectidentifierforlevelonemodule test project identifier level module testgetprojectidentifierforleveltwomodule test project identifier level module testgetprojectidentifierforrootmodule test project identifier root module testinvalidmidisnotvalid test invalid mid valid testlevelonemidisvalid test level mid valid testleveltwomidisvalid test level mid valid testrootmidisvalid test root mid valid
+MTHSIG4	testgetprojectidentifierforleveltwomodule test project identifier level module
+MTHSIG5	testgetprojectidentifierforrootmodule test project identifier root module
+MTHSIG6	testinvalidmidisnotvalid test invalid mid valid
+MTHSIG7	testlevelonemidisvalid test level mid valid
+MTHSIG0	testconstructorforleveltwomodule test constructor level module
+MTHSIG1	testgetmodulenamefromlevelonemodulemid test module level module mid
+PACKAGE	springframework roo project
+MTHSIG2	testgetmodulenamefromrootmodulemid test module root module mid
+MTHSIG3	testgetprojectidentifierforlevelonemodule test project identifier level module
+VARIABLES	level module level mid level module level mid root mid mockpom mock pom projectmetadata project metadata
+MTHSIG8	testleveltwomidisvalid test level mid valid
+MTHSIG9	testrootmidisvalid test root mid valid

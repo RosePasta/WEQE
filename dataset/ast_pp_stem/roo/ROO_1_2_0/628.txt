@@ -1,0 +1,70 @@
+MTHSIG22	tostr 
+VARSIG39	javatyp type parametertyp paramet type 
+MTHSIG4	getgovernormethod governor javasymbolnam symbol methodnam javatyp type parametertyp paramet type 
+VARSIG34	javatyp type returntyp type 
+MTHSIG5	governorhasmethod governor javasymbolnam symbol methodnam javatyp type parametertyp paramet type 
+VARSIG33	javasymbolnam symbol methodnam 
+MTHSIG6	governorhasmethodwithsamenam governor javasymbolnam symbol methodnam 
+VARSIG32	modifi 
+MTHSIG7	getgovernormethod governor javasymbolnam symbol methodnam list javatyp type parametertyp paramet type 
+VARSIG31	invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+MTHSIG0	abstractitdtypedetailsprovidingmetadataitem type detail provid metadata item identifi javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+VARSIG38	list javatyp type parametertyp paramet type 
+MTHSIG1	getmemberholdingtypedetail member hold type detail 
+VARSIG37	invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+PACKAGE	springframework roo classpath 
+MTHSIG2	gettypeannot type annot javatyp type annotationtyp annot type 
+VARSIG36	list javasymbolnam symbol parameternam paramet name 
+MTHSIG3	isimpl implement classorinterfacetypedetail type detail clazz javatyp type interfacetarget target 
+VARSIG35	list javatyp type parametertyp paramet type 
+MTHSIG20	builditd build 
+MTHSIG21	hashcod hash code 
+MTHSIG8	getfield field javasymbolnam symbol fieldnam field javatyp type fieldtyp field type 
+VARSIG30	javatyp type parametertyp paramet type 
+MTHSIG9	getfield field modifi javasymbolnam symbol fieldnam field javatyp type fieldtyp field type fieldiniti field initi 
+CLASSES	abstractitdtypedetailsprovidingmetadataitem type detail provid metadata item 
+VARSIG29	javasymbolnam symbol fieldnam field 
+VARSIG28	javatyp type parametertyp paramet type 
+METHODS	abstractitdtypedetailsprovidingmetadataitem type detail provid metadata item getmemberholdingtypedetail member hold type detail gettypeannot type annot isimpl implement getgovernormethod governor governorhasmethod governor governorhasmethodwithsamenam governor getgovernormethod governor getfield field getfield field getaccessormethod accessor getaccessormethod accessor getaccessormethod accessor getaccessormethod accessor getmutatormethod mutat getmutatormethod mutat getmethod addtoimport add import ensuregovernorextend ensur governor ensuregovernorimpl ensur governor builditd build hashcod hash code tostr 
+VARSIG23	invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+VARSIG22	fieldmetadata field metadata field 
+VARSIG21	javatyp type fieldtyp field type 
+VARSIG20	javasymbolnam symbol fieldnam field 
+VARSIG27	javasymbolnam symbol fieldnam field 
+VARSIG26	invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+VARSIG25	javatyp type fieldtyp field type 
+VARSIG24	javasymbolnam symbol fieldnam field 
+VARSIG7	javatyp type parametertyp paramet type 
+VARSIG6	javasymbolnam symbol methodnam 
+VARSIG9	javatyp type parametertyp paramet type 
+VARSIG8	javasymbolnam symbol methodnam 
+VARSIG3	javatyp type annotationtyp annot type 
+VARSIG2	physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+VARSIG5	javatyp type interfacetarget target 
+VARSIG4	classorinterfacetypedetail type detail clazz 
+COMMENTS	implement link itdtypedetailsprovidingmetadataitem type detail provid metadata item assum subclass requir link classorinterfacetypedetail type detail repres governor wish build link itdtypedetailsbuild type detail builder mechan field valid input construct superclass link itdtypedetailsprovidingmetadataitem type detail provid metadata item expos link classorinterfacetypedetail type detail governor ensur link isvalid valid return subclass gener link isvalid valid subclass attempt set link itdtypedetail type detail output link isvalid valid identifi identifi item metadata requir aspectnam aspect type requir governorphysicaltypemetadata governor physic type metadata governor expect link classorinterfacetypedetail type detail requir reliabl physic type detail problem provid subclass builder prepar easier return metadata annot type governor annotationtyp annot type type annot gener requir governor annot determin present superclass target clazz cid search interfacetarget target locat superclass return governor methodnam search parametertyp paramet type method paramet type memberfindingutil member find util getdeclaredmethod declar springframework roo classpath detail memberholdingtypedetail member hold type detail javasymbolnam symbol list governor signatur methodnam search parametertyp paramet type method paramet type governor paramet methodnam search return governor methodnam search parametertyp paramet type method paramet type memberfindingutil member find util getdeclaredmethod declar springframework roo classpath detail memberholdingtypedetail member hold type detail javasymbolnam symbol list conveni return simpl field base field type initi fieldnam field field fieldtyp field type field type fieldiniti field initi initi field field exist governor field field type return type paramet type paramet name bodi methodnam returntyp type type parametertyp paramet type list paramet type parameternam paramet name list paramet name bodybuild bodi builder bodi exist governor return ensur governor type introduc type supertyp iff javatyp type type extend requir ensur governor type javatyp type type implement requir gener link itdtypedetail type detail current content instanc instanc link itdtypedetailsbuild type detail builder 
+VARSIG19	fieldmetadata field metadata field 
+VARSIG1	javatyp type aspectnam aspect 
+VARSIG18	fieldiniti field initi 
+VARSIG0	identifi 
+VARSIG17	javatyp type fieldtyp field type 
+VARSIG12	list javatyp type parametertyp paramet type 
+VARSIG11	javasymbolnam symbol methodnam 
+VARSIG10	javasymbolnam symbol methodnam 
+VARSIG16	javasymbolnam symbol fieldnam field 
+VARSIG15	modifi 
+VARSIG14	javatyp type fieldtyp field type 
+VARSIG13	javasymbolnam symbol fieldnam field 
+MTHSIG17	addtoimport add import list javatyp type parametertyp paramet type 
+MTHSIG18	ensuregovernorextend ensur governor javatyp type javatyp type 
+MTHSIG15	getmutatormethod mutat javasymbolnam symbol fieldnam field javatyp type parametertyp paramet type invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+MTHSIG16	getmethod modifi javasymbolnam symbol methodnam javatyp type returntyp type list javatyp type parametertyp paramet type list javasymbolnam symbol parameternam paramet name invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+MTHSIG13	getaccessormethod accessor javasymbolnam symbol fieldnam field javatyp type fieldtyp field type invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+MTHSIG14	getmutatormethod mutat javasymbolnam symbol fieldnam field javatyp type parametertyp paramet type 
+MTHSIG11	getaccessormethod accessor javasymbolnam symbol fieldnam field javatyp type fieldtyp field type 
+MTHSIG12	getaccessormethod accessor fieldmetadata field metadata field invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+MTHSIG19	ensuregovernorimpl ensur governor javatyp type javatyp type 
+MTHSIG10	getaccessormethod accessor fieldmetadata field metadata field 
+VARIABLES	identifi aspectnam aspect governorphysicaltypemetadata governor physic type metadata annotationtyp annot type clazz interfacetarget target methodnam parametertyp paramet type methodnam parametertyp paramet type methodnam methodnam parametertyp paramet type fieldnam field fieldtyp field type modifi fieldnam field fieldtyp field type fieldiniti field initi field fieldnam field fieldtyp field type field bodybuild bodi builder fieldnam field fieldtyp field type bodybuild bodi builder fieldnam field parametertyp paramet type fieldnam field parametertyp paramet type bodybuild bodi builder modifi methodnam returntyp type parametertyp paramet type parameternam paramet name bodybuild bodi builder parametertyp paramet type parametertyp paramet type javatyp type javatyp type governortypedetail governor type detail itdtypedetail type detail builder destin aspectnam aspect governorphysicaltypemetadata governor physic type metadata physicaltypedetail physic type detail typestoimport type tsc 
+VARSIG41	javatyp type javatyp type 
+VARSIG40	javatyp type javatyp type 

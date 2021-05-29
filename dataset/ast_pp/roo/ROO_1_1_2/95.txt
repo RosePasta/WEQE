@@ -1,0 +1,18 @@
+VARSIG6	exclusion
+VARSIG3	shellstatus shell status newstatus status
+VARSIG2	shellstatus shell status oldstatus status
+VARSIG5	filedetails file details details
+VARSIG4	fileevent file event fileevent file event
+COMMENTS	listener shell events support automatic git repository commits
+CLASSES	gitshelleventlistener git shell event listener
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+METHODS	activate deactivate onshellstatuschange shell status change onfileevent file event matchesignore matches ignore isgitenabled git enabled
+MTHSIG4	matchesignore matches ignore filedetails file details details
+MTHSIG5	isgitenabled git enabled
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo addon git
+MTHSIG2	onshellstatuschange shell status change shellstatus shell status oldstatus status shellstatus shell status newstatus status
+MTHSIG3	onfileevent file event fileevent file event fileevent file event
+VARIABLES	context context oldstatus status newstatus status fileevent file event details exclusion gitoperations git operations shell filemanager file manager pathresolver path resolver projectoperations project operations isdirty dirty projectroot project root

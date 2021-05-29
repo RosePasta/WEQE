@@ -1,0 +1,32 @@
+VARSIG7	javatype type importtype type
+VARSIG6	javapackage importpackage
+VARSIG9	isasterisk asterisk
+VARSIG8	isstatic
+VARSIG3	importmetadata metadata existing
+VARSIG2	declaredbymetadataid declaredby metadata
+VARSIG5	modifier
+VARSIG4	declaredbymetadataid declaredby metadata
+COMMENTS	builder link importmetadata metadata fields builds link javatype type caller callermid caller mid metadata compilation unit receive required typetoimport type type required wildcard
+VARSIG1	javatype type typetoimport type
+VARSIG0	callermid caller mid
+MTHSIG4	build
+VARSIG12	astatic
+MTHSIG5	getimportpackage
+VARSIG11	javatype type importtype type
+MTHSIG6	setimportpackage set javapackage importpackage
+VARSIG10	javapackage importpackage
+MTHSIG7	getimporttype type
+MTHSIG0	getimport callermid caller mid javatype type typetoimport type
+MTHSIG1	importmetadatabuilder metadata builder declaredbymetadataid declaredby metadata
+PACKAGE	springframework roo classpath details
+MTHSIG2	importmetadatabuilder metadata builder importmetadata metadata existing
+MTHSIG3	importmetadatabuilder metadata builder declaredbymetadataid declaredby metadata modifier javapackage importpackage javatype type importtype type isstatic isasterisk asterisk
+VARSIG13	asterisk
+MTHSIG8	setimporttype set type javatype type importtype type
+MTHSIG9	isstatic
+MTHSIG11	isasterisk asterisk
+MTHSIG12	setasterisk set asterisk asterisk
+CLASSES	importmetadatabuilder metadata builder
+METHODS	getimport importmetadatabuilder metadata builder importmetadatabuilder metadata builder importmetadatabuilder metadata builder build getimportpackage setimportpackage set getimporttype type setimporttype set type isstatic setstatic set isasterisk asterisk setasterisk set asterisk
+MTHSIG10	setstatic set astatic
+VARIABLES	callermid caller mid typetoimport type declaredbymetadataid declaredby metadata existing declaredbymetadataid declaredby metadata modifier importpackage importtype type isstatic isasterisk asterisk importpackage importtype type astatic asterisk isasterisk asterisk isstatic importpackage importtype type

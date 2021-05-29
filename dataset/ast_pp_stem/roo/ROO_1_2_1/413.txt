@@ -1,0 +1,36 @@
+VARSIG7	trustedonli trust 
+VARSIG6	maxresult max 
+VARSIG9	communityonli commun 
+VARSIG8	compatibleonli compat 
+VARSIG3	searchterm search term 
+VARSIG2	showfeedback feedback 
+VARSIG5	linesperresult line result 
+VARSIG4	refresh 
+COMMENTS	oper offer addon displai link addonbundlesymbolicnam add bundl symbol pipe standard jdk link logger info bsn bundl symbol requir displai bundl pipe standard jdk link logger info bundleid bundl bundl requir find add on present roo instanc includ add on download instal user option emit consol link logger info showfeedback feedback output messag consol requir searchterm search term comma separ list search term requir refresh attempt fresh download roobot xml option linesperresult line result maximum number line add option maxresult max maximum number displai option trustedonli trust displai trust add on search option compatibleonli compat displai compat add on search option communityonli commun displai commun add on search option requirescommand requir command displai add on offer command option total number match displai maxresult max add list unavail reason network problem list cach addon bundl refresh refresh attempt fresh download roobot xml option set addon bundl instal addon link addonbundlesymbolicnam add bundl symbol bsn bundl symbol requir instal addon add bundleid bundl bundl requir remov addon link bundlesymbolicnam bundl symbol bsn bundl symbol requir upgrad specif add bsn bundl symbol requir upgrad specif add bundleid bundl bundl requir upgrad add on user defin add stabil level displai upgrad addonstabilitylevel addon stabil level add stabil level account upgrad defin stabil level add upgrad addonstabilitylevel add stabil level stabil level add upgrad requir 
+VARSIG1	bundleid bundl 
+VARSIG18	addonstabilitylevel add stabil level addonstabilitylevel add stabil level 
+VARSIG0	addonbundlesymbolicnam add bundl symbol bsn 
+VARSIG17	addonstabilitylevel add stabil level addonstabilitylevel addon stabil level 
+MTHSIG4	installaddon instal add addonbundlesymbolicnam add bundl symbol bsn 
+VARSIG12	addonbundlesymbolicnam add bundl symbol bsn 
+MTHSIG5	installaddon instal add bundleid bundl 
+VARSIG11	refresh 
+MTHSIG6	removeaddon remov add bundlesymbolicnam bundl symbol bsn 
+VARSIG10	requirescommand requir command 
+MTHSIG7	upgradeaddon upgrad add addonbundlesymbolicnam add bundl symbol bsn 
+MTHSIG0	addoninfo add info addonbundlesymbolicnam add bundl symbol bsn 
+VARSIG16	bundleid bundl 
+MTHSIG1	addoninfo add info bundleid bundl 
+VARSIG15	addonbundlesymbolicnam add bundl symbol bsn 
+PACKAGE	springframework roo addon roobot client 
+MTHSIG2	findaddon find addon showfeedback feedback searchterm search term refresh linesperresult line result maxresult max trustedonli trust compatibleonli compat communityonli commun requirescommand requir command 
+VARSIG14	bundlesymbolicnam bundl symbol bsn 
+MTHSIG3	getaddoncach add cach refresh 
+VARSIG13	bundleid bundl 
+MTHSIG8	upgradeaddon upgrad add bundleid bundl 
+MTHSIG9	upgradeaddon upgrad add on 
+MTHSIG11	upgradeset upgrad set addonstabilitylevel add stabil level addonstabilitylevel add stabil level 
+CLASSES	addonroobotoper add roo bot oper 
+METHODS	addoninfo add info addoninfo add info findaddon find addon getaddoncach add cach installaddon instal add installaddon instal add removeaddon remov add upgradeaddon upgrad add upgradeaddon upgrad add upgradeaddon upgrad add on upgradesavail upgrad upgradeset upgrad set 
+MTHSIG10	upgradesavail upgrad addonstabilitylevel add stabil level addonstabilitylevel addon stabil level 
+VARIABLES	bsn bundleid bundl showfeedback feedback searchterm search term refresh linesperresult line result maxresult max trustedonli trust compatibleonli compat communityonli commun requirescommand requir command refresh bsn bundleid bundl bsn bsn bundleid bundl addonstabilitylevel addon stabil level addonstabilitylevel add stabil level installorupgradestatu instal upgrad statu 

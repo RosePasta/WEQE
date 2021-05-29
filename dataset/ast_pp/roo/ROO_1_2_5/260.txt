@@ -1,0 +1,56 @@
+MTHSIG28	setfindmethod set find
+MTHSIG26	getremovemethod remove
+MTHSIG27	setentitymanagermethod set entity manager
+MTHSIG24	getmergemethod merge
+MTHSIG25	getpersistmethod persist
+MTHSIG22	getfindentriessortedmethod find entries sorted
+MTHSIG23	getflushmethod flush
+MTHSIG4	getpath path metadataidentificationstring metadata identification
+MTHSIG5	isvalid valid metadataidentificationstring metadata identification
+MTHSIG6	getdynamicfinders dynamic finders
+MTHSIG7	getentitymanagerfield entity manager field
+MTHSIG0	jpaactiverecordmetadata jpa active record metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata jpaactiverecordmetadata jpa active record metadata parent jpacrudannotationvalues jpa crud annotation values crudannotationvalues crud annotation values plural fieldmetadata field metadata identifierfield identifier field entityname entity isgaeenabled gae enabled
+MTHSIG1	createidentifier create identifier javatype type javatype type logicalpath logical path path
+PACKAGE	springframework roo addon jpa activerecord
+MTHSIG2	getjavatype type metadataidentificationstring metadata identification
+MTHSIG3	getmetadataidentifiertype metadata identifier type
+MTHSIG20	getfindallsortedmethod find sorted
+MTHSIG21	getfindentriesmethod find entries
+MTHSIG8	getfieldnames orderclausefilter field names order clause filter
+MTHSIG9	getentitymanagermethod entity manager
+CLASSES	jpaactiverecordmetadata jpa active record metadata
+METHODS	jpaactiverecordmetadata jpa active record metadata createidentifier create identifier getjavatype type getmetadataidentifiertype metadata identifier type getpath path isvalid valid getdynamicfinders dynamic finders getentitymanagerfield entity manager field getfieldnames orderclausefilter field names order clause filter getentitymanagermethod entity manager getentityname entity getfindmethod find getplural plural tostring addtransactionalannotation add transactional annotation addtransactionalannotation add transactional annotation getclearmethod clear getcountmethod count getdelegatemethod delegate getfindallmethod find getfindallsortedmethod find sorted getfindentriesmethod find entries getfindentriessortedmethod find entries sorted getflushmethod flush getmergemethod merge getpersistmethod persist getremovemethod remove setentitymanagermethod set entity manager setfindmethod set find
+VARSIG21	javasymbolname symbol
+VARSIG20	methodmetadata metadata
+VARSIG7	entityname entity
+VARSIG6	fieldmetadata field metadata identifierfield identifier field
+VARSIG9	javatype type javatype type
+VARSIG8	isgaeenabled gae enabled
+VARSIG3	jpaactiverecordmetadata jpa active record metadata parent
+VARSIG2	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG5	plural
+VARSIG4	jpacrudannotationvalues jpa crud annotation values crudannotationvalues crud annotation values
+COMMENTS	metadata type annotated link roojpaactiverecord roo jpa active record constructor metadataidentificationstring metadata identification required aspectname aspect required governorphysicaltypemetadata governor physical type metadata required parent projectmetadata project metadata required crudannotationvalues crud annotation values crud annotation values required plural plural form entity required identifierfield identifier field entity entity identifier field required entityname entity jpa entity required determine entity entity entitymanager entity manager field guaranteed accessible add methods add helper methods create representation desired output dynamic custom finders returns empty list locates entity manager field parent defined provide field persistent unit supplied child entity generally expect field named entitymanager entity manager type javax persistence entitymanager entity manager require annotated persistencecontext persistence context existing field doesn meet requirements add underscore prefix entitymanager entity manager time unique meets requirements create entity manager field returns parent required guarantee locate ourself compute required field verify candidate suitable candidate simply field subclasses inherited field subsequent subclasses won candidate isn entitymanager entity manager candidate doesn persistencecontext persistence context annotation valid candidate candidate let create list filednames filed names allowed order clause avoid jpql injection locate user defined utility entitymanager entity manager methods entity manager utility user code returns nulls returns jpa entity empty find pluralised returns empty clear returns finds creating counts entities type count definition find build locate user defined create definition find build locate user defined create address injected entity manager field getentitymanager entity manager acquire entity manager exception acquired persist find definition find build locate user defined create getfindallmethod find sortfieldname sort field sortorder sort order parameters find definition find build locate user defined create find entries definition find build locate user defined create getfindentriesmethod find entries sortfieldname sort field sortorder sort order parameters find entries definition find build locate user defined create flush returns merge persist remove parent required guarantee definition find build locate user defined create create anonymous arg constructor jpa entity handle methods instantiate argument constructor entity comply jpa arg constructor requirement find definition find build locate user defined create
+VARSIG19	methoddelegatename delegate
+VARSIG1	javatype type aspectname aspect
+VARSIG18	javasymbolname symbol methodname
+VARSIG0	metadataidentificationstring metadata identification
+VARSIG17	ispersistmethod persist
+VARSIG12	metadataidentificationstring metadata identification
+VARSIG11	metadataidentificationstring metadata identification
+VARSIG10	logicalpath logical path path
+VARSIG16	list annotationmetadatabuilder annotation metadata builder annotations
+VARSIG15	list annotationmetadatabuilder annotation metadata builder annotations
+VARSIG14	fieldmetadata field metadata field
+VARSIG13	metadataidentificationstring metadata identification
+MTHSIG17	getcountmethod count
+MTHSIG18	getdelegatemethod delegate javasymbolname symbol methodname methoddelegatename delegate
+MTHSIG15	addtransactionalannotation add transactional annotation list annotationmetadatabuilder annotation metadata builder annotations ispersistmethod persist
+MTHSIG16	getclearmethod clear
+MTHSIG13	tostring
+MTHSIG14	addtransactionalannotation add transactional annotation list annotationmetadatabuilder annotation metadata builder annotations
+MTHSIG11	getfindmethod find
+MTHSIG12	getplural plural
+MTHSIG19	getfindallmethod find
+MTHSIG10	getentityname entity
+VARIABLES	metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata parent crudannotationvalues crud annotation values plural identifierfield identifier field entityname entity isgaeenabled gae enabled javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification metadataidentificationstring metadata identification field annotations annotations ispersistmethod persist methodname methoddelegatename delegate count type entity manager type type crudannotationvalues crud annotation values entitymanagermethod entity manager entityname entity findmethod find identifierfield identifier field isgaeenabled gae enabled parent plural fieldsymbolname field symbol candidate annotations annotationbuilder annotation builder fieldname field fieldtype field type userfield user field listoffieldnames list field names listoffieldnamesasstringexpr list field names expr builder transactionalbuilder transactional builder methodname parametertypes parameter types parameternames parameter names usermethod user annotations bodybuilder body builder methodbuilder builder parametertypes parameter types usermethod user annotations bodybuilder body builder entitymanagermethod entity manager entitymanagerfieldname entity manager field returntype type methodbuilder builder methodname parametertypes parameter types parameternames parameter names returntype type usermethod user annotations bodybuilder body builder methodbuilder builder methodname parametertypes parameter types parameternames parameter names returntype type usermethod user annotations bodybuilder body builder methodbuilder builder methodname parametertypes parameter types parameternames parameter names returntype type usermethod user annotations bodybuilder body builder methodbuilder builder methodname parametertypes parameter types parameternames parameter names returntype type usermethod user annotations bodybuilder body builder methodbuilder builder methodname parametertypes parameter types returntype type usermethod user bodybuilder body builder params types type newmodifier modifier modifier methodbuilder builder idfieldname field methodname parametertype parameter type parameternames parameter names returntype type usermethod user annotations bodybuilder body builder methodbuilder builder

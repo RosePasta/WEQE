@@ -1,0 +1,32 @@
+VARSIG7	javatype type javatype type
+VARSIG6	methodmetadata metadata findmethod find
+VARSIG9	javatype type javatype type
+VARSIG8	methodmetadata metadata identifieraccessormethod identifier accessor
+VARSIG3	javatype type javatype type
+VARSIG2	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG5	methodmetadata metadata identifieraccessormethod identifier accessor
+VARSIG4	fieldmetadata field metadata identifierfield identifier field
+COMMENTS	metadata link rooeditor roo editor process values annotation propertyeditorsupport property editor support subclasses governor doesn subclass create representation desired output locate user defined field locate user defined locate user defined
+VARSIG1	javatype type aspectname aspect
+VARSIG0	identifier
+MTHSIG4	tostring
+VARSIG12	javatype type javatype type
+MTHSIG5	getmetadataidentifertype metadata identifer type
+VARSIG11	methodmetadata metadata findmethod find
+MTHSIG6	createidentifier create identifier javatype type javatype type path path
+VARSIG10	fieldmetadata field metadata identifierfield identifier field
+MTHSIG7	getjavatype type metadataidentificationstring metadata identification
+MTHSIG0	editormetadata editor metadata identifier javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata javatype type javatype type fieldmetadata field metadata identifierfield identifier field methodmetadata metadata identifieraccessormethod identifier accessor methodmetadata metadata findmethod find
+VARSIG16	metadataidentificationstring metadata identification
+MTHSIG1	getfield field
+VARSIG15	metadataidentificationstring metadata identification
+PACKAGE	springframework roo addon property editor
+MTHSIG2	getgetastextmethod text javatype type javatype type methodmetadata metadata identifieraccessormethod identifier accessor
+VARSIG14	metadataidentificationstring metadata identification
+MTHSIG3	getsetastextmethod set text javatype type javatype type fieldmetadata field metadata identifierfield identifier field methodmetadata metadata findmethod find
+VARSIG13	path path
+MTHSIG8	getpath path metadataidentificationstring metadata identification
+MTHSIG9	isvalid valid metadataidentificationstring metadata identification
+CLASSES	editormetadata editor metadata
+METHODS	editormetadata editor metadata getfield field getgetastextmethod text getsetastextmethod set text tostring getmetadataidentifertype metadata identifer type createidentifier create identifier getjavatype type getpath path isvalid valid
+VARIABLES	identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata javatype type identifierfield identifier field identifieraccessormethod identifier accessor findmethod find javatype type identifieraccessormethod identifier accessor javatype type identifierfield identifier field findmethod find javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification metadataidentificationstring metadata identification type type annotation requiredsuperclass required superclass fieldname field fieldtype field type userfield user field fieldbuilder field builder returntype type methodname paramtypes types paramnames names usermethod user bodybuilder body builder methodbuilder builder paramtypes types paramnames names methodname returntype type usermethod user identifiertypename identifier type bodybuilder body builder methodbuilder builder tsc

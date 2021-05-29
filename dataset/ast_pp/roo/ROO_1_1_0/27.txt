@@ -1,0 +1,11 @@
+MTHSIG0	getconnection connection properties props
+MTHSIG1	getconnection connection map map
+VARSIG2	connection connection
+PACKAGE	springframework roo addon dbre jdbc
+MTHSIG2	closeconnection close connection connection connection
+COMMENTS	jdbc link connection returns jdbc link connection configured connection properties properties user password required driver connection properties supplied implementing provide props database connection properties required connection runtimeexception runtime exception problem acquiring connection returns jdbc link connection configured connection properties map properties user password required driver connection map properties implementing provide map database connection properties contained map required connection runtimeexception runtime exception problem acquiring connection closes link connection exception thrown connection closed connection connection close
+CLASSES	connectionprovider connection provider
+VARIABLES	props map connection
+VARSIG1	map map
+VARSIG0	properties props
+METHODS	getconnection connection getconnection connection closeconnection close connection

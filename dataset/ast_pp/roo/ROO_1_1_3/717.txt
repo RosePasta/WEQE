@@ -1,0 +1,46 @@
+VARSIG7	map map
+VARSIG6	properties props
+VARSIG9	object element
+VARSIG8	iterator iterator
+VARSIG3	object array
+VARSIG2	object source
+VARSIG5	object elem
+VARSIG4	collection object collection
+COMMENTS	miscellaneous collection utility methods internal framework supplied collection empty collection collection check collection empty supplied map empty map map check map empty convert supplied array list primitive array converted list wrapper type source converted empty list source primitive array converted list result objectutils object utils toobjectarray object array object merge array collection array array merge collection target collection merge array merge properties instance map copying properties key pairs properties propertynames property names properties linked original properties instance props properties instance merge map target map merge properties check iterator element iterator iterator check element element check enumeration element enumeration enumeration check element element check collection element instance enforces instance returning equal element collection collection check element element element candidates contained source returns source source collection candidates candidates search candidates element candidates contained source element candidates source returns iteration order link collection implementation specific source source collection candidates candidates search object find single type collection collection collection search type type type clear match clear single find single types collection searching collection type searching type collection collection search types types prioritized order types clear match determine collection single unique object collection collection check collection single reference multiple references instance
+VARSIG19	collection candidates
+VARSIG1	map map
+VARSIG18	collection source
+VARSIG0	collection collection
+VARSIG17	object candidate
+MTHSIG4	mergepropertiesintomap merge properties map properties props map map
+VARSIG12	collection collection
+MTHSIG5	iterator iterator object element
+VARSIG11	object element
+MTHSIG6	enumeration enumeration object element
+VARSIG10	enumeration enumeration
+MTHSIG7	containsinstance instance collection collection object element
+MTHSIG0	isempty empty collection collection
+VARSIG16	collection candidates
+MTHSIG1	isempty empty map map
+VARSIG15	collection source
+PACKAGE	springframework roo support util
+MTHSIG2	arraytolist array list object source
+VARSIG14	object candidate
+MTHSIG3	mergearrayintocollection merge array collection object array collection object collection
+VARSIG13	object element
+MTHSIG8	containsany collection source collection candidates
+MTHSIG9	findfirstmatch find match collection source collection candidates
+MTHSIG11	findvalueoftype find type collection collection types
+MTHSIG12	hasuniqueobject unique object collection collection
+CLASSES	collectionutils collection utils
+METHODS	isempty empty isempty empty arraytolist array list mergearrayintocollection merge array collection mergepropertiesintomap merge properties map containsinstance instance containsany findfirstmatch find match findvalueoftype find type findvalueoftype find type hasuniqueobject unique object
+VARSIG23	object element
+VARSIG22	type
+VARSIG21	collection collection
+VARSIG20	object candidate
+VARSIG27	collection collection
+VARSIG26	type
+VARSIG25	types
+VARSIG24	collection collection
+MTHSIG10	findvalueoftype find type collection collection type
+VARIABLES	collection map source array collection elem props map iterator element enumeration element collection element candidate source candidates candidate source candidates candidate collection type element collection types type collection arr key candidate candidate hascandidate candidate candidate elem

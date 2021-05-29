@@ -1,0 +1,22 @@
+VARSIG3	 
+VARSIG2	isdefault 
+VARSIG5	packagingprovid packag provid provid 
+VARSIG4	illegalargumentexcept illeg argument except expect 
+COMMENTS	unit test link packagingproviderconvert packag provid convert constant fixtur mock object test assert can convert link packagingprovid packag provid convert blank set invok check set invok check 
+CLASSES	packagingproviderconvertertest packag provid convert test 
+VARSIG1	 
+VARSIG0	packagingprovid packag provid mockpackagingprovid mock packag provid 
+METHODS	setup set setupmockpackagingprovid set mock packag provid testdoesnotsupportwrongtyp test support wrong type testsupportscorrecttyp test support correct type assertinvalidstr invalid testconvertnullstr test convert testconvertemptystr test convert empti testconvertunknownstr test convert unknown testconvertpartialstr test convert partial testconvertvalidstr test convert valid testgetallpossiblevalu test valu 
+MTHSIG4	assertinvalidstr invalid 
+MTHSIG5	testconvertnullstr test convert 
+MTHSIG6	testconvertemptystr test convert empti 
+MTHSIG7	testconvertunknownstr test convert unknown 
+MTHSIG0	setup set 
+MTHSIG1	setupmockpackagingprovid set mock packag provid packagingprovid packag provid mockpackagingprovid mock packag provid isdefault 
+PACKAGE	springframework roo project packag 
+MTHSIG2	testdoesnotsupportwrongtyp test support wrong type 
+MTHSIG3	testsupportscorrecttyp test support correct type 
+MTHSIG10	testgetallpossiblevalu test valu 
+VARIABLES	mockpackagingprovid mock packag provid isdefault expect provid core jar custom jar core war convert mockpackagingproviderregistri mock packag provid registri mockcorejarpackag mock core jar packag mockcustomjarpackag mock custom jar packag mockwarpackag mock war packag packagingprovid packag provid provid expectedcomplet expect complet complet addspac add space 
+MTHSIG8	testconvertpartialstr test convert partial 
+MTHSIG9	testconvertvalidstr test convert valid 

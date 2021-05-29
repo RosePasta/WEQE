@@ -1,0 +1,44 @@
+VARSIG7	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG6	javatype type aspectname aspect
+VARSIG9	memberdetails member details memberdetails member details
+VARSIG8	itdfilename filename
+VARSIG3	javatype type type
+VARSIG2	itdtypedetails type details itdtypedetails type details
+VARSIG5	metadataidentificationstring metadata identification
+VARSIG4	methodmetadata metadata
+COMMENTS	implementation link dataondemandmetadataprovider data demand metadata provider constants fields dod classes configurable dod classes provide relationships determine governor dod metadata hoping hear javatype type itds dod interested javatype type let move dod metadata let check care methods match requirements dod cares javatype type offers interest let formally trigger note scan discover register direct dependency parse annotation expect remember entity javatype type matches dod dod metadata identification start clearing previous association informed dependent metadata additions required identify fields care entity embedded identifier metadata holder embedded identifier exists list embedded metadata holders empty list embedded identifier exists avoid unnecessary rewriting dod sort mutators provide consistent ordering track mutator include version fields shouldn mutator user embedded types include persistence fields include sort collection user entities hand collaborating metadata returns data demand metadata entity that target reference field registers metadata dependency entity type metadataidentificationstring metadata identification field dataondemandtypes data demand types field dod metadata simply check field type ensure persistent type provider ignore references
+VARSIG19	fieldmetadata field metadata field
+VARSIG1	componentcontext component context context
+VARSIG18	fieldmetadata field metadata embeddedfield embedded field
+VARSIG0	componentcontext component context context
+VARSIG17	metadataidentificationstring metadata identification
+MTHSIG4	getlocatedfields located fields memberdetails member details memberdetails member details metadataidentificationstring metadata identification
+VARSIG12	methodmetadata metadata
+MTHSIG5	getembeddedidholder embedded holder memberdetails member details memberdetails member details metadataidentificationstring metadata identification
+VARSIG11	methodmetadata metadata object
+MTHSIG6	getembeddedholders embedded holders memberdetails member details memberdetails member details metadataidentificationstring metadata identification
+VARSIG10	metadataidentificationstring metadata identification
+MTHSIG7	locatecollaboratingmetadata locate collaborating metadata metadataidentificationstring metadata identification fieldmetadata field metadata field set classorinterfacetypedetails type details dataondemandtypes data demand types
+MTHSIG0	activate componentcontext component context context
+VARSIG16	memberdetails member details memberdetails member details
+MTHSIG1	deactivate componentcontext component context context
+VARSIG15	fieldmetadata field metadata field
+PACKAGE	springframework roo addon dod
+MTHSIG2	getlocalmidtorequest local mid request itdtypedetails type details itdtypedetails type details
+VARSIG14	metadataidentificationstring metadata identification
+MTHSIG3	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+VARSIG13	memberdetails member details memberdetails member details
+MTHSIG8	getitduniquenessfilenamesuffix uniqueness filename suffix
+MTHSIG9	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+MTHSIG11	getprovidestype type
+CLASSES	dataondemandmetadataproviderimpl data demand metadata provider impl
+METHODS	activate deactivate getlocalmidtorequest local mid request getmetadata metadata getlocatedfields located fields getembeddedidholder embedded holder getembeddedholders embedded holders locatecollaboratingmetadata locate collaborating metadata getitduniquenessfilenamesuffix uniqueness filename suffix getgovernorphysicaltypeidentifier governor physical type identifier createlocalidentifier create local identifier getprovidestype type
+VARSIG23	classorinterfacetypedetails type details cid
+VARSIG22	set classorinterfacetypedetails type details dataondemandtypes data demand types
+VARSIG21	fieldmetadata field metadata field
+VARSIG20	metadataidentificationstring metadata identification
+VARSIG26	logicalpath logical path path
+VARSIG25	javatype type javatype type
+VARSIG24	metadataidentificationstring metadata identification
+MTHSIG10	createlocalidentifier create local identifier javatype type javatype type logicalpath logical path path
+VARIABLES	context context itdtypedetails type details type metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename memberdetails member details metadataidentificationstring metadata identification object memberdetails member details metadataidentificationstring metadata identification field memberdetails member details metadataidentificationstring metadata identification embeddedfield embedded field field metadataidentificationstring metadata identification field dataondemandtypes data demand types cid metadataidentificationstring metadata identification javatype type path flush persist configurablemetadataprovider configurable metadata provider layerservice layer service entitytododmidmap entity dod mid map dodmidtoentitymap dod mid entity map governor localmidtype local mid type localmid local mid annotationvalues annotation values entity oldentity entity identifiertype identifier type memberdetails member details persistencememberholdingtypedetails persistence member holding type details fromparameter parameter toparameter parameter findentriesmethod find entries findmethodadditions find additions entityparameter entity parameter flushmethod flush identifieraccessor identifier accessor persistmethodadditions persist additions locatedfields located fields embeddedidholder embedded holder embeddedholders embedded holders locatedfields located fields dataondemandtypes data demand types mutatormethods mutator methods field fieldcustomdatakeys field custom data collaboratingmetadata collaborating metadata idfields fields fields embeddedidfield embedded field identifiermemberdetails identifier member details embeddedholders embedded holders embeddedfields embedded fields embeddedmemberdetails embedded member details fields fieldtype field type otherprovider provider annotationmetadata annotation metadata annotationattributevalue annotation attribute javatype type path

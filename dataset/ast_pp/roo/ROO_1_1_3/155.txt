@@ -1,0 +1,15 @@
+VARSIG6	applicationdetailsactivities application details activities applicationdetailsactivities application details activities
+VARSIG3	placecontroller place controller placecontroller place controller
+VARSIG2	eventbus event bus eventbus event bus
+VARSIG5	applicationmasteractivities application master activities applicationmasteractivities application master activities
+VARSIG4	placehistoryfactory place history factory placehistoryfactory place history factory
+COMMENTS	application browsing entities add handlers setup activities hide loading message user shell add remote logging handler loading status request isn serviced browser history integration
+CLASSES	scaffolddesktopapp scaffold desktop app
+VARSIG1	applicationrequestfactory application request factory requestfactory request factory
+VARSIG0	scaffolddesktopshell scaffold desktop shell shell
+METHODS	scaffolddesktopapp scaffold desktop app init
+MTHSIG0	scaffolddesktopapp scaffold desktop app scaffolddesktopshell scaffold desktop shell shell applicationrequestfactory application request factory requestfactory request factory eventbus event bus eventbus event bus placecontroller place controller placecontroller place controller placehistoryfactory place history factory placehistoryfactory place history factory applicationmasteractivities application master activities applicationmasteractivities application master activities applicationdetailsactivities application details activities applicationdetailsactivities application details activities
+MTHSIG1	
+PACKAGE	top level segment
+MTHSIG2	init
+VARIABLES	shell requestfactory request factory eventbus event bus placecontroller place controller placehistoryfactory place history factory applicationmasteractivities application master activities applicationdetailsactivities application details activities log shell requestfactory request factory eventbus event bus placecontroller place controller placehistoryfactory place history factory applicationmasteractivities application master activities applicationdetailsactivities application details activities loading

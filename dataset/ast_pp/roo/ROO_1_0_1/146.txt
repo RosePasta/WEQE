@@ -1,0 +1,16 @@
+COMMENTS	simple producing bodies link invocablemembermetadata invocable member metadata getbody body bodies assume indented levels increases indent level resets indent decreases indent level prints blank ensuring indent included consistency javaparser javaparser dumpvisitor dump visitor append system getproperty property separator prints message indentation prints message adding indents returns commonly prints relevant number indents
+CLASSES	invocablememberbodybuilder invocable member body builder
+VARSIG1	message
+VARSIG0	message
+METHODS	invocablememberbodybuilder invocable member body builder indent reset indentremove indent remove newline append appendformalline append formal appendindent append indent getoutput output
+MTHSIG4	newline
+MTHSIG5	append message
+MTHSIG6	appendformalline append formal message
+MTHSIG7	appendindent append indent
+MTHSIG0	invocablememberbodybuilder invocable member body builder
+MTHSIG1	indent
+PACKAGE	springframework roo classpath
+MTHSIG2	reset
+MTHSIG3	indentremove indent remove
+VARIABLES	message message indentlevel indent level stringbuilder builder
+MTHSIG8	getoutput output

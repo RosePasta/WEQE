@@ -1,0 +1,20 @@
+VARSIG7	stringbuilder builder buffer
+VARSIG6	object
+VARSIG9	stringbuilder builder buffer
+VARSIG8	object
+VARSIG3	object obj
+VARSIG2	stringbuilder builder buffer
+VARSIG5	fieldname field
+VARSIG4	stringbuilder builder buffer
+COMMENTS	strategy pretty printing tostring methods encapsulates print algorithms object builder provide workflow style tostring object fields styled buffer buffer print obj object style style tostring object fields styled buffer buffer print obj object style style field buffer buffer print fieldname field field field style buffer buffer print field style field separator buffer buffer print
+CLASSES	tostringstyler styler
+VARSIG1	object obj
+VARSIG0	stringbuilder builder buffer
+METHODS	stylestart style start styleend style stylefield style field stylevalue style stylefieldseparator style field separator
+MTHSIG4	stylefieldseparator style field separator stringbuilder builder buffer
+MTHSIG0	stylestart style start stringbuilder builder buffer object obj
+MTHSIG1	styleend style stringbuilder builder buffer object obj
+PACKAGE	springframework roo support style
+MTHSIG2	stylefield style field stringbuilder builder buffer fieldname field object
+MTHSIG3	stylevalue style stringbuilder builder buffer object
+VARIABLES	buffer obj buffer obj buffer fieldname field buffer buffer

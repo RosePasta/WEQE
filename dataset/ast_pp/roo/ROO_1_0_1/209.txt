@@ -1,0 +1,11 @@
+MTHSIG0	deletedirectory delete directory undomanager undo manager undomanager undo manager filenameresolver filename resolver filenameresolver filename resolver file actual
+MTHSIG1	reset
+VARSIG2	file actual
+PACKAGE	springframework roo file undo internal
+MTHSIG2	undo
+COMMENTS	link undoableoperation undoable operation delete directory
+CLASSES	deletedirectory delete directory
+VARIABLES	undomanager undo manager filenameresolver filename resolver actual logger filenameresolver filename resolver actual backup tmpdir tmp dir success
+VARSIG1	filenameresolver filename resolver filenameresolver filename resolver
+VARSIG0	undomanager undo manager undomanager undo manager
+METHODS	deletedirectory delete directory reset undo

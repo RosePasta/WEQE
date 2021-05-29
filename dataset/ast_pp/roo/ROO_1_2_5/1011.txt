@@ -1,0 +1,34 @@
+VARSIG7	list completion completions
+VARSIG6	filename file
+VARSIG9	originaluserinput original user input
+VARSIG8	requiredtype required type
+VARSIG3	requiredtype required type
+VARSIG2	
+VARSIG5	userinput user input
+VARSIG4	optioncontext option context
+COMMENTS	link converter link file doesn check backslash colon issues paths windows input originally fully qualified path completion form input originally started symbol replace user user directory path working directory specific strip working directory user typed user input starts tilde character replace tilde character user user directory user input start tilde simply original user input input specifies absolute path absolute path based working directory input specifies relative path userinput user input user input commence tilde required guaranteed longer tilde character input fully qualified path form replace symbol user user actual directory path working directory specific prepend working directory checks filename file denotes absolute path file system windows includes paths drive letters start check performed file exists filename file file absolute path filename file absolute path current check drive letter current working directory link fileconverter file converter user fails provide explicit directory input required
+VARSIG19	optioncontext option context
+VARSIG1	completion
+VARSIG18	requiredtype required type
+VARSIG0	originaluserinput original user input
+VARSIG17	file file
+MTHSIG4	getallpossiblevalues values list completion completions requiredtype required type originaluserinput original user input optioncontext option context methodtarget target target
+VARSIG12	exception
+MTHSIG5	getworkingdirectory working directory
+VARSIG11	methodtarget target target
+MTHSIG6	getworkingdirectoryasstring working directory
+VARSIG10	optioncontext option context
+MTHSIG7	populate list completion completions adjusteduserinput adjusted user input originaluserinput original user input directorydata directory data
+MTHSIG0	convertcompletionbackintouserinputstyle convert completion user input style originaluserinput original user input completion
+VARSIG16	directorydata directory data
+MTHSIG1	convertfromtext convert text requiredtype required type optioncontext option context
+VARSIG15	originaluserinput original user input
+PACKAGE	springframework roo shell converters
+MTHSIG2	convertuserinputintoafullyqualifiedpath convert user input fully qualified path userinput user input
+VARSIG14	adjusteduserinput adjusted user input
+MTHSIG3	denotesabsolutepath denotes absolute path filename file
+VARSIG13	list completion completions
+MTHSIG8	supports requiredtype required type optioncontext option context
+CLASSES	fileconverter file converter
+METHODS	convertcompletionbackintouserinputstyle convert completion user input style convertfromtext convert text convertuserinputintoafullyqualifiedpath convert user input fully qualified path denotesabsolutepath denotes absolute path getallpossiblevalues values getworkingdirectory working directory getworkingdirectoryasstring working directory populate supports
+VARIABLES	originaluserinput original user input completion requiredtype required type optioncontext option context userinput user input filename file completions requiredtype required type originaluserinput original user input optioncontext option context target completions adjusteduserinput adjusted user input originaluserinput original user input directorydata directory data file requiredtype required type optioncontext option context directory symbol windows drive prefix windows drive path fullpath full path adjusteduserinput adjusted user input directorydata directory data directory completion

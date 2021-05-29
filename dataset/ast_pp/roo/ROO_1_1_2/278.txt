@@ -1,0 +1,34 @@
+VARSIG7	metadataidentificationstring metadata identification
+VARSIG6	itdfilename filename
+VARSIG9	javatype type type
+VARSIG8	javatype type controller
+VARSIG3	metadataidentificationstring metadata identification
+VARSIG2	upstreamdependency upstream dependency
+VARSIG5	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG4	javatype type aspectname aspect
+COMMENTS	metadata provider link conversionservicemetadata conversion service metadata monitors notifications link rooconversionservice roo conversion service link roowebscaffold roo web scaffold annotated types listens scaffolded domain types domain types stores mid accepted conversionservicemetadataprovider conversion service metadata provider application wide conversion service webscaffoldmetadata web scaffold metadata upstream mid changed time don mid javatype type wasn webscaffoldmetadata web scaffold metadata superclass handle expected physicaltypeidentifier physical type identifier notification that registered receive governor applicationconversionservicefactorybean application conversion service factory bean let create needed track track types project interested accessors interested methods accessors persistence version fields exclude collections arrays exclude references domain objects verbose exclude values meaningful presentation interested embedded types
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+VARSIG17	metadataid metadata
+MTHSIG4	finddomaintypesrequiringaconverter find domain types requiring converter metadataidentificationstring metadata identification
+VARSIG12	entitymetadata entity metadata entitymetadata entity metadata
+MTHSIG5	findrelevanttypes find relevant types javatype type type metadataidentificationstring metadata identification
+VARSIG11	methodmetadata metadata
+MTHSIG6	ismethodofinterest interest entitymetadata entity metadata entitymetadata entity metadata methodmetadata metadata memberdetails member details memberdetails member details
+VARSIG10	metadataidentificationstring metadata identification
+MTHSIG7	getitduniquenessfilenamesuffix uniqueness filename suffix
+MTHSIG0	activate componentcontext component context context
+VARSIG16	path path
+MTHSIG1	deactivate componentcontext component context context
+VARSIG15	javatype type javatype type
+PACKAGE	springframework roo addon web mvc controller converter
+MTHSIG2	resolvedownstreamdependencyidentifier resolve downstream dependency identifier upstreamdependency upstream dependency
+VARSIG14	memberdetails member details memberdetails member details
+MTHSIG3	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+VARSIG13	methodmetadata metadata
+MTHSIG8	getprovidestype type
+MTHSIG9	createlocalidentifier create local identifier javatype type javatype type path path
+CLASSES	conversionservicemetadataprovider conversion service metadata provider
+METHODS	activate deactivate resolvedownstreamdependencyidentifier resolve downstream dependency identifier getmetadata metadata finddomaintypesrequiringaconverter find domain types requiring converter findrelevanttypes find relevant types ismethodofinterest interest getitduniquenessfilenamesuffix uniqueness filename suffix getprovidestype type createlocalidentifier create local identifier getgovernorphysicaltypeidentifier governor physical type identifier
+MTHSIG10	getgovernorphysicaltypeidentifier governor physical type identifier metadataid metadata
+VARIABLES	context context upstreamdependency upstream dependency metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename metadataidentificationstring metadata identification controller type metadataidentificationstring metadata identification entitymetadata entity metadata memberdetails member details javatype type path metadataid metadata typelocationservice type location service applicationconversionservicefactorybeanmid application conversion service factory bean mid publishingprovider publishing provider relevantdomaintypes relevant domain types roowebscaffold roo web scaffold relevantdomaintypes relevant domain types physicaltypemetadata physical type metadata webscaffoldannotationvalues web scaffold annotation values formbackingobjectphysicaltypemetadata form backing object physical type metadata memberdetails member details types locatedaccessors located accessors entitymid entity mid entitymetadata entity metadata counter field fieldtype field type javatype type path

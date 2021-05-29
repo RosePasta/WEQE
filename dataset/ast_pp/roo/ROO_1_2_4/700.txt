@@ -1,0 +1,31 @@
+VARSIG7	clioption cli option key mandatory unspecifieddefaultvalue unspecified optioncontext option context update project receive constructor javatype type
+VARSIG6	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+VARSIG9	clioption cli option key optioncontext option context update project mandatory create javatype type
+VARSIG8	clioption cli option key fields mandatory specifieddefaultvalue optioncontext option context constructor fields fields include constructor multiple field names quoted list separated spaces set fields
+VARSIG3	clioption cli option key mandatory unspecifieddefaultvalue unspecified lang object optioncontext option context superclass superclass defaults lang object javatype type superclass
+VARSIG2	clioption cli option key path mandatory unspecifieddefaultvalue unspecified focused src specifieddefaultvalue focused src source directory create logicalpath logical path path
+VARSIG5	clioption cli option key mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue generated marked createabstract create
+VARSIG4	clioption cli option key mandatory optioncontext option context implement javatype type implementstype type
+COMMENTS	shell commands creating classes interfaces enums
+VARSIG1	clioption cli option key rooannotations roo annotations mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue generated common roo annotations rooannotations roo annotations
+VARSIG18	clioption cli option key mandatory optioncontext option context update project type focus javatype type type
+VARSIG0	clioption cli option key optioncontext option context update project mandatory create javatype type
+VARSIG17	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+MTHSIG4	enumconstant constant javatype type javasymbolname symbol fieldname field permitreservedwords permit reserved
+VARSIG12	clioption cli option key optioncontext option context update project mandatory create javatype type
+MTHSIG5	focus javatype type type
+VARSIG11	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+MTHSIG6	isprojectavailable project
+VARSIG10	clioption cli option key path mandatory unspecifieddefaultvalue unspecified focused src specifieddefaultvalue focused src source directory create logicalpath logical path path
+MTHSIG0	createclass create javatype type rooannotations roo annotations logicalpath logical path path javatype type superclass javatype type implementstype type createabstract create permitreservedwords permit reserved
+VARSIG16	clioption cli option key mandatory constant javasymbolname symbol fieldname field
+MTHSIG1	createconstructor create constructor javatype type set fields
+VARSIG15	clioption cli option key mandatory unspecifieddefaultvalue unspecified optioncontext option context update project receive field javatype type
+PACKAGE	springframework roo classpath operations
+MTHSIG2	createenum create javatype type logicalpath logical path path permitreservedwords permit reserved
+VARSIG14	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+MTHSIG3	createinterface create javatype type logicalpath logical path path permitreservedwords permit reserved
+VARSIG13	clioption cli option key path mandatory unspecifieddefaultvalue unspecified focused src specifieddefaultvalue focused src source directory create logicalpath logical path path
+CLASSES	classpathcommands classpath commands
+METHODS	createclass create createconstructor create constructor createenum create createinterface create enumconstant constant focus isprojectavailable project
+VARIABLES	rooannotations roo annotations path superclass implementstype type createabstract create permitreservedwords permit reserved fields path permitreservedwords permit reserved path permitreservedwords permit reserved fieldname field permitreservedwords permit reserved type classpathoperations classpath operations

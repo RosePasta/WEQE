@@ -1,0 +1,26 @@
+VARSIG7	javatype type aspectname aspect
+VARSIG6	metadataidentificationstring metadata identification
+VARSIG9	itdfilename filename
+VARSIG8	physicaltypemetadata physical type metadata governorphysicaltype governor physical type
+VARSIG3	componentcontext component context context
+VARSIG2	logicalpath logical path path
+VARSIG5	itdtypedetails type details itdtypedetails type details
+VARSIG4	metadataidentificationstring metadata identification
+COMMENTS	implementation link webscaffoldmetadataprovider web scaffold metadata provider governor form backing object refresh local metadata governor layer component manages form backing object refresh object object local metadata parse annotation expect informed dependent metadata remember entity javatype type matches metadata identification start clearing previous association governor layer component service repository manages entity maintain web scaffold metadata returns metadata returns todo doesn handle governor component manages multiple entities returns mid entity annotation order provide web metadata enhance link abstractmemberdiscoveringitdmetadataprovider member discovering metadata provider getlocalmidtorequest local mid request list mids governor governor check required itd governor layer component manages entity maintain web scaffold metadata refresh layer appeared
+VARSIG1	javatype type javatype type
+VARSIG0	componentcontext component context context
+MTHSIG4	getitduniquenessfilenamesuffix uniqueness filename suffix
+MTHSIG5	getlocalmidtorequest local mid request itdtypedetails type details itdtypedetails type details
+VARSIG11	javatype type type
+MTHSIG6	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltype governor physical type itdfilename filename
+VARSIG10	javatype type governor
+MTHSIG7	getprovidestype type
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	createlocalidentifier create local identifier javatype type javatype type logicalpath logical path path
+PACKAGE	springframework roo addon web mvc controller scaffold
+MTHSIG2	deactivate componentcontext component context context
+MTHSIG3	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+MTHSIG8	getwebscaffoldmidiflayercomponent web scaffold mid layer component javatype type governor
+CLASSES	webscaffoldmetadataproviderimpl web scaffold metadata provider impl
+METHODS	activate createlocalidentifier create local identifier deactivate getgovernorphysicaltypeidentifier governor physical type identifier getitduniquenessfilenamesuffix uniqueness filename suffix getlocalmidtorequest local mid request getmetadata metadata getprovidestype type getwebscaffoldmidiflayercomponent web scaffold mid layer component
+VARIABLES	context javatype type path context metadataidentificationstring metadata identification itdtypedetails type details metadataidentificationstring metadata identification aspectname aspect governorphysicaltype governor physical type itdfilename filename governor type webmetadataservice web metadata service entitytowebscaffoldmidmap entity web scaffold mid map webscaffoldmidtoentitymap web scaffold mid entity map javatype type path governor localmid local mid annotationvalues annotation values formbackingtype form backing type formbackingobjectmemberdetails form backing object member details formbackingmemberholdingtypedetails form backing member holding type details crudadditions crud additions oldentity entity idfield field relatedapplicationtypemetadata application type metadata dependentapplicationtypemetadata dependent application type metadata datepatterns patterns editablefieldtypes editable field types governortypedetails governor type details localmid local mid

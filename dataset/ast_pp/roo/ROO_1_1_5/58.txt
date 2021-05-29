@@ -1,0 +1,32 @@
+VARSIG7	database database
+VARSIG6	ioexception exception
+VARSIG9	view
+VARSIG8	schema schema
+VARSIG3	exception
+VARSIG2	displayaddons display add ons
+VARSIG5	exception
+VARSIG4	evictcache evict cache
+COMMENTS	implementation link dbremodelservice dbre model service required properties ignore elements
+VARSIG1	exception
+VARSIG0	displayaddons display add ons
+MTHSIG4	getdbrexmlpath dbre xml path
+VARSIG12	exception
+MTHSIG5	getnoschemastring schema
+VARSIG11	set excludetables exclude tables
+MTHSIG6	refreshdatabase refresh database schema schema view set includetables include tables set excludetables exclude tables
+VARSIG10	set includetables include tables
+MTHSIG7	cachedatabase cache database database database
+MTHSIG0	supportsschema supports schema displayaddons display add ons
+VARSIG16	element propertyelement property element
+MTHSIG1	getschemas schemas displayaddons display add ons
+VARSIG15	exception
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	getdatabase database evictcache evict cache
+VARSIG14	displayaddons display add ons
+MTHSIG3	writedatabase write database database database
+VARSIG13	database database
+MTHSIG8	getconnection connection displayaddons display add ons
+MTHSIG9	getconnectionpropertiesfromdatanucleusconfiguration connection properties data nucleus configuration
+CLASSES	dbremodelserviceimpl dbre model service impl
+METHODS	supportsschema supports schema getschemas schemas getdatabase database writedatabase write database getdbrexmlpath dbre xml path getnoschemastring schema refreshdatabase refresh database cachedatabase cache database getconnection connection getconnectionpropertiesfromdatanucleusconfiguration connection properties data nucleus configuration
+VARIABLES	displayaddons display add ons displayaddons display add ons evictcache evict cache database schema view includetables include tables excludetables exclude tables database displayaddons display add ons propertyelement property element connectionprovider connection provider filemanager file manager projectoperations project operations propfileoperations prop file operations lastschema schema cachedintrospections cached introspections connection databasemetadata database meta data schematerm schema term connection introspector dbrexmlpath dbre xml path database inputstream input stream document connection introspector database connectionproperties connection properties connectionproperties connection properties persistencexmlpath persistence xml path filedetails file details document builder propertyelements property elements properties key

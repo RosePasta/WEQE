@@ -1,0 +1,32 @@
+VARSIG7	attributes attributes
+VARSIG6	qname
+VARSIG9	attributes attributes
+VARSIG8	attributes attributes
+VARSIG3	attributes attributes
+VARSIG2	qname
+VARSIG5	localname local
+VARSIG4	uri
+COMMENTS	link contenthandler content handler implementation converting roo dbre xml file link database object
+VARSIG1	localname local
+VARSIG0	uri
+MTHSIG4	gettable table attributes attributes
+VARSIG12	indextype type indextype type
+MTHSIG5	getcolumn column attributes attributes
+VARSIG11	attributes attributes
+MTHSIG6	geterrormessage error message
+VARSIG10	attributes attributes
+MTHSIG7	getforeignkey foreign key attributes attributes
+MTHSIG0	databasecontenthandler database content handler
+MTHSIG1	getdatabase database
+VARSIG15	
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	startelement start element uri localname local qname attributes attributes
+VARSIG14	key
+MTHSIG3	endelement element uri localname local qname
+VARSIG13	attributes attributes
+MTHSIG8	getreference reference attributes attributes
+MTHSIG9	getindex attributes attributes indextype type indextype type
+CLASSES	databasecontenthandler database content handler
+METHODS	databasecontenthandler database content handler getdatabase database startelement start element endelement element gettable table getcolumn column geterrormessage error message getforeignkey foreign key getreference reference getindex getindexcolumn column
+MTHSIG10	getindexcolumn column attributes attributes
+VARIABLES	uri localname local qname attributes uri localname local qname attributes attributes attributes attributes attributes indextype type attributes key stack database tables destinationpackage destination testautomatically test automatically includenonportableattributes include portable attributes tmp option foreignkey foreign key table table type datatypeandname data type datatype data type typename type columnsize column size scale size precisionscale precision scale column foreignkey foreign key key

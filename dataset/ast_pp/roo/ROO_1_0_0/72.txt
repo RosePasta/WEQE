@@ -1,0 +1,25 @@
+VARSIG7	flowname flow
+VARSIG6	jspoperations jsp operations jspoperations jsp operations
+VARSIG9	exception
+VARSIG8	exception
+VARSIG3	projectoperations project operations projectoperations project operations
+VARSIG2	metadataservice metadata service metadataservice metadata service
+VARSIG5	webmvcoperations web mvc operations webmvcoperations web mvc operations
+VARSIG4	menuoperations menu operations menuoperations menu operations
+COMMENTS	web flow configuration operations flowname flow defined sample flow directory clean leading required adjust mvc config accommodate spring web flow install flow directory add create menu item
+VARSIG1	pathresolver path resolver pathresolver path resolver
+VARSIG0	filemanager file manager filemanager file manager
+MTHSIG4	updatedependencies update dependencies
+VARSIG12	exception
+MTHSIG5	getpathresolver path resolver
+VARSIG11	ioexception exception
+VARSIG10	ioexception exception
+MTHSIG0	webflowoperations web flow operations filemanager file manager filemanager file manager pathresolver path resolver pathresolver path resolver metadataservice metadata service metadataservice metadata service projectoperations project operations projectoperations project operations menuoperations menu operations menuoperations menu operations webmvcoperations web mvc operations webmvcoperations web mvc operations jspoperations jsp operations jspoperations jsp operations
+MTHSIG1	isinstallwebflowavailable install web flow
+PACKAGE	springframework roo addon web flow
+MTHSIG2	ismanagewebflowavailable manage web flow
+MTHSIG3	installwebflow install web flow flowname flow
+VARSIG13	element dependency
+CLASSES	webflowoperations web flow operations
+METHODS	webflowoperations web flow operations isinstallwebflowavailable install web flow ismanagewebflowavailable manage web flow installwebflow install web flow updatedependencies update dependencies getpathresolver path resolver
+VARIABLES	filemanager file manager pathresolver path resolver metadataservice metadata service projectoperations project operations menuoperations menu operations webmvcoperations web mvc operations jspoperations jsp operations flowname flow dependency logger filemanager file manager pathresolver path resolver metadataservice metadata service projectoperations project operations menuoperations menu operations webmvcoperations web mvc operations jspoperations jsp operations mvccontextpath mvc context path mvccontextmutablefile mvc context mutable file mvcappctx mvc app ctx root importswf swf flowdirectoryid flow directory flowdirectory flow directory flowconfig flow config tilesoperations tiles operations templateinputstream template input stream dependencydoc dependency doc dependencieselement dependencies element springdependencies spring dependencies projectmetadata project metadata

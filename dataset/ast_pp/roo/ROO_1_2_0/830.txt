@@ -1,0 +1,17 @@
+VARSIG3	managedmessagerenderer managed message renderer managedmessagerenderer managed message renderer
+VARSIG2	notifiablefilemonitorservice notifiable file monitor service filemonitorservice file monitor service
+VARSIG5	ioexception exception ioe
+VARSIG4	ioexception exception ioe
+COMMENTS	implementation link mutablefile mutable file fields permitted checks file changed instance constructed checks file changed instance constructed
+CLASSES	defaultmutablefile mutable file
+VARSIG1	file file
+VARSIG0	message
+METHODS	setdescriptionofchange set description change defaultmutablefile mutable file getcanonicalpath canonical path getinputstream input stream getoutputstream output stream tostring
+MTHSIG4	getoutputstream output stream
+MTHSIG5	tostring
+MTHSIG0	setdescriptionofchange set description change message
+MTHSIG1	defaultmutablefile mutable file file file notifiablefilemonitorservice notifiable file monitor service filemonitorservice file monitor service managedmessagerenderer managed message renderer managedmessagerenderer managed message renderer
+PACKAGE	springframework roo process manager internal
+MTHSIG2	getcanonicalpath canonical path
+MTHSIG3	getinputstream input stream
+VARIABLES	message file filemonitorservice file monitor service managedmessagerenderer managed message renderer ioe ioe file filemonitorservice file monitor service managedmessagerenderer managed message renderer tsc

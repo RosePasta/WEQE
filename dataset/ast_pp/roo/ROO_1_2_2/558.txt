@@ -1,0 +1,52 @@
+MTHSIG4	cleanupmenuitem clean menu item javasymbolname symbol menucategoryname menu category javasymbolname symbol menuitemname menu item idprefix prefix logicalpath logical path logicalpath logical path
+VARSIG34	exception
+MTHSIG5	getmenudocument menu document logicalpath logical path logicalpath logical path
+VARSIG33	exception
+MTHSIG6	getmenufileinputstream menu file input stream logicalpath logical path logicalpath logical path
+VARSIG32	ioexception exception
+MTHSIG7	getmenufilename menu file logicalpath logical path logicalpath logical path
+VARSIG31	logicalpath logical path logicalpath logical path
+MTHSIG0	addmenuitem add menu item javasymbolname symbol menucategoryname menu category javasymbolname symbol menuitemid menu item globalmessagecode global message code link idprefix prefix logicalpath logical path logicalpath logical path
+MTHSIG1	addmenuitem add menu item javasymbolname symbol menucategoryname menu category javasymbolname symbol menuitemid menu item menuitemlabel menu item label globalmessagecode global message code link idprefix prefix writeprops write props logicalpath logical path logicalpath logical path
+VARSIG37	element element
+PACKAGE	springframework roo addon web mvc jsp menu
+MTHSIG2	addmenuitem add menu item javasymbolname symbol menucategoryname menu category javasymbolname symbol menuitemid menu item menuitemlabel menu item label globalmessagecode global message code link idprefix prefix logicalpath logical path logicalpath logical path
+VARSIG36	logicalpath logical path logicalpath logical path
+MTHSIG3	cleanupfindermenuitems clean finder menu items javasymbolname symbol menucategoryname menu category list allowedfindermenuids allowed finder menu ids logicalpath logical path logicalpath logical path
+VARSIG35	exception
+MTHSIG8	isnotusermanaged user managed element element
+VARSIG30	exception
+CLASSES	menuoperationsimpl menu operations impl
+VARSIG29	logicalpath logical path logicalpath logical path
+VARSIG28	logicalpath logical path logicalpath logical path
+METHODS	addmenuitem add menu item addmenuitem add menu item addmenuitem add menu item cleanupfindermenuitems clean finder menu items cleanupmenuitem clean menu item getmenudocument menu document getmenufileinputstream menu file input stream getmenufilename menu file isnotusermanaged user managed
+VARSIG23	logicalpath logical path logicalpath logical path
+VARSIG22	list allowedfindermenuids allowed finder menu ids
+VARSIG21	javasymbolname symbol menucategoryname menu category
+VARSIG20	logicalpath logical path logicalpath logical path
+VARSIG27	idprefix prefix
+VARSIG26	javasymbolname symbol menuitemname menu item
+VARSIG25	javasymbolname symbol menucategoryname menu category
+VARSIG24	element element
+VARSIG7	javasymbolname symbol menuitemid menu item
+VARSIG6	javasymbolname symbol menucategoryname menu category
+VARSIG9	globalmessagecode global message code
+VARSIG8	menuitemlabel menu item label
+VARSIG3	link
+VARSIG2	globalmessagecode global message code
+VARSIG5	logicalpath logical path logicalpath logical path
+VARSIG4	idprefix prefix
+COMMENTS	generates jsp menu management menu items root element menu menu identifier allowing decorations menu check existence menu category identifier exists create check existence menu item identifier find menu items category starts menuitemidprefix menu item prefix attempts locate menu item remove menucategoryname menu category identifier menu category required menuitemname menu item menu item identifier required idprefix prefix prefix menu item optional menuoperations menu operations menu item prefix find menu item category exists
+VARSIG19	idprefix prefix
+VARSIG1	javasymbolname symbol menuitemid menu item
+VARSIG18	link
+VARSIG0	javasymbolname symbol menucategoryname menu category
+VARSIG17	globalmessagecode global message code
+VARSIG12	writeprops write props
+VARSIG11	idprefix prefix
+VARSIG10	link
+VARSIG16	menuitemlabel menu item label
+VARSIG15	javasymbolname symbol menuitemid menu item
+VARSIG14	javasymbolname symbol menucategoryname menu category
+VARSIG13	logicalpath logical path logicalpath logical path
+VARIABLES	menucategoryname menu category menuitemid menu item globalmessagecode global message code link idprefix prefix logicalpath logical path menucategoryname menu category menuitemid menu item menuitemlabel menu item label globalmessagecode global message code link idprefix prefix writeprops write props logicalpath logical path menucategoryname menu category menuitemid menu item menuitemlabel menu item label globalmessagecode global message code link idprefix prefix logicalpath logical path menucategoryname menu category allowedfindermenuids allowed finder menu ids logicalpath logical path element menucategoryname menu category menuitemname menu item idprefix prefix logicalpath logical path logicalpath logical path logicalpath logical path logicalpath logical path element filemanager file manager projectoperations project operations propfileoperations prop file operations xmlroundtripfilemanager xml trip file manager properties document rootelement root element rootmenu root menu lcmenucategoryname menu category category menuitem menu item document elements document element menufilename menu file inputstream input stream outputstream output stream pathresolver path resolver menupath menu path inputstream input stream itempath item path inputstream input stream categorypath category path inputstream input stream

@@ -1,0 +1,33 @@
+VARSIG7	attributes attributes
+VARSIG6	attributes attributes
+VARSIG9	indextype type indextype type
+VARSIG8	attributes attributes
+VARSIG3	uri
+VARSIG2	
+VARSIG5	qname
+VARSIG4	localname local
+COMMENTS	link contenthandler content handler implementation converting dbre xml file link database object constructor
+VARSIG1	
+VARSIG0	key
+MTHSIG4	geterrormessage error message
+VARSIG12	attributes attributes
+MTHSIG5	getforeignkey foreign key attributes attributes
+VARSIG11	attributes attributes
+MTHSIG6	getindex attributes attributes indextype type indextype type
+VARSIG10	attributes attributes
+MTHSIG7	getindexcolumn column attributes attributes
+MTHSIG0	databasecontenthandler database content handler
+VARSIG16	attributes attributes
+MTHSIG1	endelement element uri localname local qname
+VARSIG15	qname
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	getcolumn column attributes attributes
+VARSIG14	localname local
+MTHSIG3	getdatabase database
+VARSIG13	uri
+MTHSIG8	getreference reference attributes attributes
+MTHSIG9	gettable table attributes attributes
+CLASSES	databasecontenthandler database content handler
+METHODS	databasecontenthandler database content handler endelement element getcolumn column getdatabase database geterrormessage error message getforeignkey foreign key getindex getindexcolumn column getreference reference gettable table startelement start element
+MTHSIG10	startelement start element uri localname local qname attributes attributes
+VARIABLES	key uri localname local qname attributes attributes attributes indextype type attributes attributes attributes uri localname local qname attributes serialversionuid serial version uid key activerecord active record database destinationpackage destination includenonportableattributes include portable attributes modulename module stack tables testautomatically test automatically tmp option foreignkey foreign key table type datatypeandname data type datatype data type typename type columnsize column size scale size precisionscale precision scale column foreignkey foreign key table

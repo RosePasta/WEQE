@@ -1,0 +1,25 @@
+VARSIG7	itdfilenam filenam 
+VARSIG6	physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+VARSIG9	logicalpath logic path path 
+VARSIG8	javatyp type javatyp type 
+VARSIG3	javatyp type type 
+VARSIG2	itdtypedetail type detail itdtypedetail type detail 
+VARSIG5	javatyp type aspectnam aspect 
+VARSIG4	metadataidentificationstr metadata identif 
+COMMENTS	implement link repositoryjpametadataprovid repositori jpa metadata provid field determin governor metadata hope hear javatyp type itd rememb entiti javatyp type match metadata identif start clear previou associ 
+VARSIG1	componentcontext compon context context 
+VARSIG0	componentcontext compon context context 
+MTHSIG4	getmetadata metadata metadataidentificationstr metadata identif javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata itdfilenam filenam 
+MTHSIG5	getitduniquenessfilenamesuffix uniqu filenam suffix 
+MTHSIG6	getprovidestyp type 
+VARSIG10	metadataidentificationstr metadata identif 
+MTHSIG7	createlocalidentifi creat local identifi javatyp type javatyp type logicalpath logic path path 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	deactiv componentcontext compon context context 
+PACKAGE	springframework roo addon layer repositori jpa 
+MTHSIG2	registermatch regist matcher 
+MTHSIG3	getlocalmidtorequest local mid request itdtypedetail type detail itdtypedetail type detail 
+MTHSIG8	getgovernorphysicaltypeidentifi governor physic type identifi metadataidentificationstr metadata identif 
+CLASSES	repositoryjpametadataproviderimpl repositori jpa metadata provid impl 
+METHODS	activ deactiv registermatch regist matcher getlocalmidtorequest local mid request getmetadata metadata getitduniquenessfilenamesuffix uniqu filenam suffix getprovidestyp type createlocalidentifi creat local identifi getgovernorphysicaltypeidentifi governor physic type identifi 
+VARIABLES	context context itdtypedetail type detail type metadataidentificationstr metadata identif aspectnam aspect governorphysicaltypemetadata governor physic type metadata itdfilenam filenam javatyp type path metadataidentificationstr metadata identif customdatakeydecor custom data kei decor domaintypetorepositorymidmap domain type repositori mid map repositorymidtodomaintypemap repositori mid domain type map governor localmid local mid memberholdingtypedetail member hold type detail localmidtyp local mid type annotationvalu annot valu domaintyp domain type identifiertyp identifi type oldent entiti javatyp type path 

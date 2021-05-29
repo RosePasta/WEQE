@@ -1,0 +1,24 @@
+VARSIG7	clioption cli option kei password mandatori mail account password password 
+VARSIG6	clioption cli option kei usernam mandatori mail account usernam usernam 
+VARSIG9	clioption cli option kei mandatori unspecifieddefaultvalu unspecifi optioncontext option context updat project receiv field javatyp type typenam type 
+VARSIG8	clioption cli option kei fieldnam field mandatori specifieddefaultvalu mailtempl mail templat unspecifieddefaultvalu unspecifi mailtempl mail templat field add javasymbolnam symbol fieldnam field 
+VARSIG3	clioption cli option kei protocol mandatori protocol mail server mailprotocol mail protocol protocol 
+VARSIG2	clioption cli option kei hostserv host server mandatori host server hostserv host server 
+VARSIG5	clioption cli option kei encod mandatori encod mail encod 
+VARSIG4	clioption cli option kei port mandatori port mail server port 
+COMMENTS	command email add roo shell 
+CLASSES	mailcommand mail command 
+VARSIG1	componentcontext compon context context 
+VARSIG0	componentcontext compon context context 
+METHODS	activ deactiv isinstallemailavail instal email installemail instal email isinsertjmsavail insert jm injectemailtempl inject email templat configureemailtempl configur email templat 
+MTHSIG4	isinsertjmsavail insert jm 
+MTHSIG5	injectemailtempl inject email templat javasymbolnam symbol fieldnam field javatyp type typenam type 
+VARSIG11	clioption cli option kei subject mandatori messag subject obtion subject 
+MTHSIG6	configureemailtempl configur email templat subject 
+VARSIG10	clioption cli option kei mandatori email option 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	deactiv componentcontext compon context context 
+PACKAGE	springframework roo addon email 
+MTHSIG2	isinstallemailavail instal email 
+MTHSIG3	installemail instal email hostserv host server mailprotocol mail protocol protocol port encod usernam password 
+VARIABLES	context context hostserv host server protocol port encod usernam password fieldnam field typenam type subject mailoper mail oper staticfieldconvert field convert 

@@ -1,0 +1,9 @@
+MTHSIG0	add undoableoperation undoable operation undoableoperation undoable operation
+MTHSIG1	undo
+PACKAGE	springframework roo file undo
+MTHSIG2	reset
+COMMENTS	ability undo file system note complexities file system provide full access file lock api simplify coding implementations file system effort basis designs rely robust guaranteed fail safe undo semantics registers undoable operation link stack undoableoperation undoable operation register link stack required replays undo link stack guarantees clear link stack operation returns link undoableoperation undoable operation undo remainder link stack executing command guarantees link stack empty element undone reset link undoableoperation undoable operation link stack undone resets undo link stack guarantees clear link stack executing command guarantees link stack empty element reset
+CLASSES	undomanager undo manager
+VARIABLES	undoableoperation undoable operation
+VARSIG0	undoableoperation undoable operation undoableoperation undoable operation
+METHODS	add undo reset

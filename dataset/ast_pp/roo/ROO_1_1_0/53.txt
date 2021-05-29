@@ -1,0 +1,31 @@
+VARSIG7	insertableorupdatable insertable updatable
+VARSIG6	foreigncolumnname foreign column
+VARSIG8	object obj
+VARSIG3	column localcolumn local column
+VARSIG2	sequencenumber sequence number
+VARSIG5	localcolumnname local column
+VARSIG4	column foreigncolumn foreign column
+COMMENTS	represents reference column local table column table sequence key local column foreign column local column foreign column creates empty reference creates reference columns localcolumn local column local column foreigncolumn foreign column remote column
+VARSIG1	column foreigncolumn foreign column
+VARSIG0	column localcolumn local column
+MTHSIG4	getlocalcolumn local column
+MTHSIG5	setlocalcolumn set local column column localcolumn local column
+MTHSIG6	getforeigncolumn foreign column
+MTHSIG7	setforeigncolumn set foreign column column foreigncolumn foreign column
+MTHSIG0	reference
+MTHSIG1	reference column localcolumn local column column foreigncolumn foreign column
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	getsequencenumber sequence number
+MTHSIG3	setsequencenumber set sequence number sequencenumber sequence number
+MTHSIG8	getlocalcolumnname local column
+MTHSIG9	setlocalcolumnname set local column localcolumnname local column
+MTHSIG15	equals object obj
+MTHSIG16	tostring
+MTHSIG13	setinsertableorupdatable set insertable updatable insertableorupdatable insertable updatable
+MTHSIG14	hashcode hash code
+MTHSIG11	setforeigncolumnname set foreign column foreigncolumnname foreign column
+MTHSIG12	isinsertableorupdatable insertable updatable
+CLASSES	reference
+METHODS	reference reference getsequencenumber sequence number setsequencenumber set sequence number getlocalcolumn local column setlocalcolumn set local column getforeigncolumn foreign column setforeigncolumn set foreign column getlocalcolumnname local column setlocalcolumnname set local column getforeigncolumnname foreign column setforeigncolumnname set foreign column isinsertableorupdatable insertable updatable setinsertableorupdatable set insertable updatable hashcode hash code equals tostring
+MTHSIG10	getforeigncolumnname foreign column
+VARIABLES	localcolumn local column foreigncolumn foreign column sequencenumber sequence number localcolumn local column foreigncolumn foreign column localcolumnname local column foreigncolumnname foreign column insertableorupdatable insertable updatable obj serialversionuid serial version uid sequencenumber sequence number localcolumn local column foreigncolumn foreign column localcolumnname local column foreigncolumnname foreign column insertableorupdatable insertable updatable prime result

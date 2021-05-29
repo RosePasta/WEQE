@@ -1,0 +1,11 @@
+MTHSIG0	embed url viewname view
+VARSIG3	map options
+MTHSIG1	install viewname view map options
+VARSIG2	viewname view
+PACKAGE	springframework roo addon web mvc embedded provider
+COMMENTS	provider embed finance charts url specific install expected format http wikinvest wiki vmw
+CLASSES	financeembeddedprovider finance embedded provider
+VARIABLES	url viewname view viewname view options options stocksymbol stock symbol finances
+VARSIG1	viewname view
+VARSIG0	url
+METHODS	embed install

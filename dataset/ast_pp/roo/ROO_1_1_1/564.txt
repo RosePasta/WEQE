@@ -1,0 +1,38 @@
+VARSIG7	artifactid artifact
+VARSIG6	groupid group
+VARSIG9	configuration configuration
+VARSIG8	version
+VARSIG3	groupid group
+VARSIG2	version
+VARSIG5	version
+VARSIG4	artifactid artifact
+COMMENTS	simplified immutable representation maven build plugin structured model maven creates immutable link plugin groupid group group required artifactid artifact artifact required version version required convenience constructor groupid group group required artifactid artifact artifact required version version required convenience constructor groupid group group required artifactid artifact artifact required version version required configuration configuration plugin optional dependencies dependencies plugin optional executions executions plugin optional convenience constructor xml element represents maven plugin parse required parsing configuration parsing executions parsing dependencies parsing exclusions list dependencies
+VARSIG1	javasymbolname symbol artifactid artifact
+VARSIG18	plugin
+VARSIG0	javapackage groupid group
+VARSIG17	object obj
+MTHSIG4	getgroupid group
+VARSIG12	element plugin
+MTHSIG5	getartifactid artifact
+VARSIG11	list execution executions
+MTHSIG6	getversion version
+VARSIG10	list dependency dependencies
+MTHSIG7	getconfiguration configuration
+MTHSIG0	plugin javapackage groupid group javasymbolname symbol artifactid artifact version
+VARSIG16	element exclusion
+MTHSIG1	plugin groupid group artifactid artifact version
+VARSIG15	element dependency
+PACKAGE	springframework roo project
+MTHSIG2	plugin groupid group artifactid artifact version configuration configuration list dependency dependencies list execution executions
+VARSIG14	element goal
+MTHSIG3	plugin element plugin
+VARSIG13	element execution
+MTHSIG8	getdependencies dependencies
+MTHSIG9	getexecutions executions
+MTHSIG13	tostring
+MTHSIG11	equals object obj
+MTHSIG12	compareto compare plugin
+CLASSES	plugin
+METHODS	plugin plugin plugin plugin getgroupid group getartifactid artifact getversion version getconfiguration configuration getdependencies dependencies getexecutions executions hashcode hash code equals compareto compare tostring
+MTHSIG10	hashcode hash code
+VARIABLES	groupid group artifactid artifact version groupid group artifactid artifact version groupid group artifactid artifact version configuration dependencies executions plugin execution goal dependency exclusion obj groupid group artifactid artifact version configuration dependencies executions versionelements version elements configuration executionlist execution list executionid execution executionphase execution phase phase goals goallist goal list dependencylist dependency list dependencygroupid dependency group groupid group dependencyartifactid dependency artifact artifactid artifact dependencyversion dependency version version dependencyelement dependency element exclusionlist exclusion list exclusionelement exclusion element exclusionid exclusion exclusionartifacte exclusion artifact exclusionartifactid exclusion artifact result tsc

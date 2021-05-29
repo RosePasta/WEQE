@@ -1,0 +1,45 @@
+VARSIG7	list fieldmetadata field metadata declaredfields declared fields
+VARSIG6	list constructormetadata constructor metadata declaredconstructors declared constructors
+VARSIG9	list classorinterfacetypedetails type details declaredinnertypes declared types
+VARSIG8	list methodmetadata metadata declaredmethods declared methods
+VARSIG3	list annotationmetadata annotation metadata annotations
+VARSIG2	modifier
+VARSIG5	physicaltypecategory physical type category physicaltypecategory physical type category
+VARSIG4	javatype type
+COMMENTS	representation link classorinterfacetypedetails type details constructor mandate link classorinterfacetypedetailsbuilder type details builder customdata custom data declaredbymetadataid declared metadata modifier annotations physicaltypecategory physical type category declaredconstructors declared constructors declaredfields declared fields declaredmethods declared methods declaredinnertypes declared types declaredinitializers declared initializers superclass extendstypes types implementstypes types enumconstants constants registeredimports registered imports
+VARSIG19	javatype type type
+VARSIG1	declaredbymetadataid declared metadata
+VARSIG18	javatype type types
+VARSIG0	customdata custom data customdata custom data
+VARSIG17	javatype type type
+MTHSIG4	getdeclaredfields declared fields
+VARSIG12	list javatype type extendstypes types
+MTHSIG5	getdeclaredinitializers declared initializers
+VARSIG11	classorinterfacetypedetails type details superclass
+MTHSIG6	getdeclaredinnertypes declared types
+VARSIG10	list initializermetadata initializer metadata declaredinitializers declared initializers
+MTHSIG7	getdeclaredmethods declared methods
+MTHSIG0	defaultclassorinterfacetypedetails type details customdata custom data customdata custom data declaredbymetadataid declared metadata modifier list annotationmetadata annotation metadata annotations javatype type physicaltypecategory physical type category physicaltypecategory physical type category list constructormetadata constructor metadata declaredconstructors declared constructors list fieldmetadata field metadata declaredfields declared fields list methodmetadata metadata declaredmethods declared methods list classorinterfacetypedetails type details declaredinnertypes declared types list initializermetadata initializer metadata declaredinitializers declared initializers classorinterfacetypedetails type details superclass list javatype type extendstypes types list javatype type implementstypes types list javasymbolname symbol enumconstants constants collection importmetadata metadata registeredimports registered imports
+VARSIG16	javasymbolname symbol fieldname field
+MTHSIG1	declaresfield declares field javasymbolname symbol fieldname field
+VARSIG15	collection importmetadata metadata registeredimports registered imports
+PACKAGE	springframework roo classpath details
+MTHSIG2	extendstype type javatype type type
+VARSIG14	list javasymbolname symbol enumconstants constants
+MTHSIG3	getdeclaredconstructors declared constructors
+VARSIG13	list javatype type implementstypes types
+MTHSIG8	getdynamicfindernames dynamic finder names
+MTHSIG9	getenumconstants constants
+MTHSIG17	implementsany javatype type types
+MTHSIG18	isabstract
+MTHSIG15	getsuperclass superclass
+MTHSIG16	gettype type
+MTHSIG13	getphysicaltypecategory physical type category
+MTHSIG14	getregisteredimports registered imports
+MTHSIG11	getimplementstypes types
+MTHSIG12	getname
+CLASSES	defaultclassorinterfacetypedetails type details
+METHODS	defaultclassorinterfacetypedetails type details declaresfield declares field extendstype type getdeclaredconstructors declared constructors getdeclaredfields declared fields getdeclaredinitializers declared initializers getdeclaredinnertypes declared types getdeclaredmethods declared methods getdynamicfindernames dynamic finder names getenumconstants constants getextendstypes types getimplementstypes types getname getphysicaltypecategory physical type category getregisteredimports registered imports getsuperclass superclass gettype type implementsany isabstract tostring
+MTHSIG19	tostring
+MTHSIG10	getextendstypes types
+VARIABLES	customdata custom data declaredbymetadataid declared metadata modifier annotations physicaltypecategory physical type category declaredconstructors declared constructors declaredfields declared fields declaredmethods declared methods declaredinnertypes declared types declaredinitializers declared initializers superclass extendstypes types implementstypes types enumconstants constants registeredimports registered imports fieldname field type types type declaredconstructors declared constructors declaredfields declared fields declaredinitializers declared initializers declaredinnertypes declared types declaredmethods declared methods enumconstants constants extendstypes types implementstypes types physicaltypecategory physical type category registeredimports registered imports superclass dynamicfinders dynamic finders finders builder

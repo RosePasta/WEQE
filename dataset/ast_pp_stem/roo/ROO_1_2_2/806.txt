@@ -1,0 +1,37 @@
+VARSIG7	metadataidentificationstr metadata identif 
+VARSIG6	metadataidentificationstr metadata identif 
+VARSIG9	evictcach evict cach 
+VARSIG8	metadataidentificationstr metadata identif 
+VARSIG3	metadataidentificationstr metadata identif 
+VARSIG2	componentcontext compon context context 
+VARSIG5	metadataprovid metadata provid 
+VARSIG4	downstream 
+COMMENTS	implement link metadataservic metadata servic implement thread safe access singl thread time enforc process manag semant avoid cost synchron request control list assist output stack order request list verifi correct oper log predict order mutex clear cach verifi argument valid time evict downstream depend metadata depend evict metadata evict instanc instanc cach clear cach clear cach metadata provid support cach evict caller request cach recurs caller prevent cach determin mid request earlier infinit request occur destin infinit loop manag item item isn evict cach start cach isn block ensur except don prevent metadatalogg metadata logger stopev event process request handl retri record evict prior version cach interim version accept discard result pure facilit updat metadata store memori disk destin provid consum notif contract provid handl notif deleg reli provid evict item cach applic contract ensur evict item recreat destin instanc meaning oper contract notifi listen downstream instanc chang 
+VARSIG1	metadataprovid metadata provid 
+VARSIG18	metadataprovid metadata provid 
+VARSIG0	componentcontext compon context context 
+VARSIG17	metadataitem metadata item metadataitem metadata item 
+MTHSIG4	evictal evict 
+VARSIG12	cacheretrievalallow cach retriev allow 
+MTHSIG5	evictandget evict metadataidentificationstr metadata identif 
+VARSIG11	evictcach evict cach 
+MTHSIG6	metadataidentificationstr metadata identif 
+VARSIG10	metadataidentificationstr metadata identif 
+MTHSIG7	metadataidentificationstr metadata identif evictcach evict cach 
+MTHSIG0	activ componentcontext compon context context 
+VARSIG16	downstreamdepend downstream depend 
+MTHSIG1	bindmetadataprovid bind metadata provid metadataprovid metadata provid 
+VARSIG15	upstreamdepend upstream depend 
+PACKAGE	springframework roo metadata 
+MTHSIG2	deactiv componentcontext compon context context 
+VARSIG14	retrymid retri mid 
+MTHSIG3	evict metadataidentificationstr metadata identif 
+VARSIG13	except 
+MTHSIG8	getintern intern metadataidentificationstr metadata identif evictcach evict cach cacheretrievalallow cach retriev allow 
+MTHSIG9	notifi upstreamdepend upstream depend downstreamdepend downstream depend 
+MTHSIG11	tostr 
+MTHSIG12	unbindmetadataprovid unbind metadata provid metadataprovid metadata provid 
+CLASSES	defaultmetadataservic metadata servic 
+METHODS	activ bindmetadataprovid bind metadata provid deactiv evict evictal evict evictandget evict getintern intern notifi tostr unbindmetadataprovid unbind metadata provid 
+MTHSIG10	metadataitem metadata item metadataitem metadata item 
+VARIABLES	context context metadataidentificationstr metadata identif downstream metadataidentificationstr metadata identif metadataidentificationstr metadata identif metadataidentificationstr metadata identif evictcach evict cach metadataidentificationstr metadata identif evictcach evict cach cacheretrievalallow cach retriev allow retrymid retri mid upstreamdepend upstream depend downstreamdepend downstream depend metadataitem metadata item metadatadependencyregistri metadata depend registri metadatalogg metadata logger activerequest activ request cacheevict cach evict cachehit cach hit cachemiss cach miss cacheput cach put keystoretri retri lock providermap provid map provid recursiveget recurs validget valid mid result mdclassid result thisretri retri mdclassid builder mid 

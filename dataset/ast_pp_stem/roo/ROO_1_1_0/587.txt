@@ -1,0 +1,16 @@
+VARSIG3	newhelp 
+VARSIG2	commandopt command option commandopt command option 
+COMMENTS	simpl represent link clicommand cli command immut construct 
+CLASSES	commandinfo command info 
+VARSIG1	commandnam command 
+VARSIG0	object obj 
+METHODS	getcommandnam command name gethelp getcommandopt command option builder hashcod hash code equal tostr 
+MTHSIG4	hashcod hash code 
+MTHSIG5	equal object obj 
+MTHSIG6	tostr 
+MTHSIG0	getcommandnam command name 
+MTHSIG1	gethelp 
+PACKAGE	springframework roo shell model 
+MTHSIG2	getcommandopt command option 
+MTHSIG3	builder 
+VARIABLES	obj commandnam command commandopt command option newhelp commandnam command name commandopt command option prime result result 

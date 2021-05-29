@@ -1,0 +1,23 @@
+MTHSIG17	testsupportsjavatype test supports type
+MTHSIG15	testgetallpossiblevaluesinprojectwhennomodulehasfocus test values project module focus
+MTHSIG16	testgetallpossiblevaluesinprojectwhennomoduleprefixisused test values project module prefix
+MTHSIG13	testconvertwhitespace test convert whitespace
+MTHSIG14	testgetallpossiblevaluesinprojectwhenmoduleprefixisused test values project module prefix
+MTHSIG11	testconverttoprimitivelong test convert primitive
+MTHSIG12	testconverttoprimitiveshort test convert primitive
+COMMENTS	unit test link javatypeconverter type converter fixture set invoke check set invoke check set invoke check set invoke check prefix toplevelpackage top level formattedprefix formatted prefix toplevelpackage top level heading set invoke check set invoke check
+CLASSES	javatypeconvertertest type converter test
+METHODS	setup set testconvertasteriskwhenlastusedtypeisknown test convert asterisk type testconvertasteriskwhenlastusedtypeisunknown test convert asterisk type unknown testconvertemptystring test convert empty testconvertfullyqualifiedvaluewithonemoduleprefix test convert fully qualified module prefix testconvertnullstring test convert testconverttoplevelpackagewithonemoduleprefix test convert top level module prefix testconverttoprimitivebyte test convert primitive testconverttoprimitivedouble test convert primitive testconverttoprimitivefloat test convert primitive testconverttoprimitiveint test convert primitive testconverttoprimitivelong test convert primitive testconverttoprimitiveshort test convert primitive testconvertwhitespace test convert whitespace testgetallpossiblevaluesinprojectwhenmoduleprefixisused test values project module prefix testgetallpossiblevaluesinprojectwhennomodulehasfocus test values project module focus testgetallpossiblevaluesinprojectwhennomoduleprefixisused test values project module prefix testsupportsjavatype test supports type
+MTHSIG4	testconvertfullyqualifiedvaluewithonemoduleprefix test convert fully qualified module prefix
+MTHSIG5	testconvertnullstring test convert
+MTHSIG6	testconverttoplevelpackagewithonemoduleprefix test convert top level module prefix
+MTHSIG7	testconverttoprimitivebyte test convert primitive
+MTHSIG0	setup set
+MTHSIG1	testconvertasteriskwhenlastusedtypeisknown test convert asterisk type
+PACKAGE	springframework roo classpath converters
+MTHSIG2	testconvertasteriskwhenlastusedtypeisunknown test convert asterisk type unknown
+MTHSIG3	testconvertemptystring test convert empty
+MTHSIG10	testconverttoprimitiveint test convert primitive
+VARIABLES	converter mockfilemanager mock file manager mocklastused mock mockprojectoperations mock project operations mocktypelocationservice mock type location service mocklastusedtype mock type modulename module mockwebpom mock web pom toplevelpackage top level result modulename module mockwebpom mock web pom toplevelpackage top level result mockcompletions mock completions othermodulename module mockothermodule mock module toplevelpackage top level focusedmodulename focused module modulepath module path type type type type formattedprefix formatted prefix prefix mockcompletions mock completions mockcompletions mock completions mockfocusedmodule mock focused module toplevelpackage top level focusedmodulename focused module modulepath module path othermodulename module type type type type
+MTHSIG8	testconverttoprimitivedouble test convert primitive
+MTHSIG9	testconverttoprimitivefloat test convert primitive

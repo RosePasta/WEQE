@@ -1,0 +1,17 @@
+VARSIG3	javatype type managedbean managed bean
+VARSIG2	javapackage destinationpackage destination
+VARSIG5	includeonmenu include menu
+VARSIG4	javatype type entity
+COMMENTS	jsf managed bean operations
+CLASSES	jsfoperations jsf operations
+VARSIG1	jsfimplementation jsf implementation jsfimplementation jsf implementation
+VARSIG0	jsfimplementation jsf implementation jsfimplementation jsf implementation
+METHODS	issetupavailable setup isscaffoldavailable scaffold setup changejsfimplementation change jsf implementation generateall generate createmanagedbean create managed bean
+MTHSIG4	generateall generate javapackage destinationpackage destination
+MTHSIG5	createmanagedbean create managed bean javatype type managedbean managed bean javatype type entity includeonmenu include menu
+MTHSIG0	issetupavailable setup
+MTHSIG1	isscaffoldavailable scaffold
+PACKAGE	springframework roo addon jsf
+MTHSIG2	setup jsfimplementation jsf implementation jsfimplementation jsf implementation
+MTHSIG3	changejsfimplementation change jsf implementation jsfimplementation jsf implementation jsfimplementation jsf implementation
+VARIABLES	jsfimplementation jsf implementation jsfimplementation jsf implementation destinationpackage destination managedbean managed bean entity includeonmenu include menu

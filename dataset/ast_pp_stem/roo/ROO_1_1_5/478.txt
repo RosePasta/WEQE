@@ -1,0 +1,37 @@
+VARSIG7	javatyp type returntyp type 
+VARSIG6	javasymbolnam symbol methodnam 
+VARSIG9	list javasymbolnam symbol parameternam paramet name 
+VARSIG8	list annotatedjavatyp annot type parametertyp paramet type 
+VARSIG3	methodmetadata metadata exist 
+VARSIG2	declaredbymetadataid declaredbi metadata 
+VARSIG5	modifi 
+VARSIG4	declaredbymetadataid declaredbi metadata 
+COMMENTS	builder link methodmetadata metadata append part signatur 
+VARSIG19	javatyp type returntyp type 
+VARSIG1	methodmetadata metadata exist 
+VARSIG18	javasymbolnam symbol methodnam 
+VARSIG0	declaredbymetadataid declaredbi metadata 
+VARSIG17	javatyp type returntyp type 
+MTHSIG4	methodmetadatabuild metadata builder declaredbymetadataid declaredbi metadata modifi javasymbolnam symbol methodnam javatyp type returntyp type invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+VARSIG12	modifi 
+MTHSIG5	build 
+VARSIG11	declaredbymetadataid declaredbi metadata 
+MTHSIG6	init javasymbolnam symbol methodnam javatyp type returntyp type 
+VARSIG10	invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+MTHSIG7	getmethodnam 
+MTHSIG0	methodmetadatabuild metadata builder declaredbymetadataid declaredbi metadata 
+VARSIG16	javasymbolnam symbol methodnam 
+MTHSIG1	methodmetadatabuild metadata builder methodmetadata metadata exist 
+VARSIG15	invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+PACKAGE	springframework roo classpath detail 
+MTHSIG2	methodmetadatabuild metadata builder declaredbymetadataid declaredbi metadata methodmetadata metadata exist 
+VARSIG14	javatyp type returntyp type 
+MTHSIG3	methodmetadatabuild metadata builder declaredbymetadataid declaredbi metadata modifi javasymbolnam symbol methodnam javatyp type returntyp type list annotatedjavatyp annot type parametertyp paramet type list javasymbolnam symbol parameternam paramet name invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+VARSIG13	javasymbolnam symbol methodnam 
+MTHSIG8	setmethodnam set javasymbolnam symbol methodnam 
+MTHSIG9	getreturntyp type 
+MTHSIG11	tostr 
+CLASSES	methodmetadatabuild metadata builder 
+METHODS	methodmetadatabuild metadata builder methodmetadatabuild metadata builder methodmetadatabuild metadata builder methodmetadatabuild metadata builder methodmetadatabuild metadata builder build init getmethodnam setmethodnam set getreturntyp type setreturntyp set type tostr 
+MTHSIG10	setreturntyp set type javatyp type returntyp type 
+VARIABLES	declaredbymetadataid declaredbi metadata exist declaredbymetadataid declaredbi metadata exist declaredbymetadataid declaredbi metadata modifi methodnam returntyp type parametertyp paramet type parameternam paramet name bodybuild bodi builder declaredbymetadataid declaredbi metadata modifi methodnam returntyp type bodybuild bodi builder methodnam returntyp type methodnam returntyp type methodnam returntyp type 

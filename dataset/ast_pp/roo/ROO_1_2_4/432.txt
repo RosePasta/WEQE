@@ -1,0 +1,10 @@
+MTHSIG0	installsecurity install security
+MTHSIG1	isinstallsecurityavailable install security
+PACKAGE	springframework roo addon security
+MTHSIG2	ispermissionevaluatorcommandavailable permission evaluator command
+MTHSIG3	setuppermissionevaluator setup permission evaluator javapackage evaluatorpackage evaluator
+COMMENTS	commands security add roo shell
+CLASSES	securitycommands security commands
+VARIABLES	evaluatorpackage evaluator securityoperations security operations
+VARSIG0	clioption cli option key mandatory optioncontext option context project add permission evaluator javapackage evaluatorpackage evaluator
+METHODS	installsecurity install security isinstallsecurityavailable install security ispermissionevaluatorcommandavailable permission evaluator command setuppermissionevaluator setup permission evaluator

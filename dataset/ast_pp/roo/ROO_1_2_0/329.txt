@@ -1,0 +1,25 @@
+VARSIG7	itdfilename filename
+VARSIG6	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG9	logicalpath logical path path
+VARSIG8	javatype type javatype type
+VARSIG3	javatype type type
+VARSIG2	itdtypedetails type details itdtypedetails type details
+VARSIG5	javatype type aspectname aspect
+VARSIG4	metadataidentificationstring metadata identification
+COMMENTS	implementation link repositoryjpametadataprovider repository jpa metadata provider fields determine governor metadata hoping hear javatype type itds remember entity javatype type matches metadata identification start clearing previous association
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+MTHSIG4	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+MTHSIG5	getitduniquenessfilenamesuffix uniqueness filename suffix
+MTHSIG6	getprovidestype type
+VARSIG10	metadataidentificationstring metadata identification
+MTHSIG7	createlocalidentifier create local identifier javatype type javatype type logicalpath logical path path
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo addon layers repository jpa
+MTHSIG2	registermatchers register matchers
+MTHSIG3	getlocalmidtorequest local mid request itdtypedetails type details itdtypedetails type details
+MTHSIG8	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+CLASSES	repositoryjpametadataproviderimpl repository jpa metadata provider impl
+METHODS	activate deactivate registermatchers register matchers getlocalmidtorequest local mid request getmetadata metadata getitduniquenessfilenamesuffix uniqueness filename suffix getprovidestype type createlocalidentifier create local identifier getgovernorphysicaltypeidentifier governor physical type identifier
+VARIABLES	context context itdtypedetails type details type metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename javatype type path metadataidentificationstring metadata identification customdatakeydecorator custom data key decorator domaintypetorepositorymidmap domain type repository mid map repositorymidtodomaintypemap repository mid domain type map governor localmid local mid memberholdingtypedetails member holding type details localmidtype local mid type annotationvalues annotation values domaintype domain type identifiertype identifier type oldentity entity javatype type path

@@ -1,0 +1,42 @@
+VARSIG7	jsonmetadata json metadata jsonmetadata json metadata
+VARSIG6	set findermetadatadetails finder metadata details dynamicfindermethods dynamic finder methods
+VARSIG9	findermetadatadetails finder metadata details finderdetails finder details
+VARSIG8	findermetadatadetails finder metadata details finder
+VARSIG3	webscaffoldannotationvalues web scaffold annotation values annotationvalues annotation values
+VARSIG2	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG5	sortedmap sorted map javatype type javatypemetadatadetails type metadata details specialdomaintypes special domain types
+VARSIG4	memberdetails member details memberdetails member details
+COMMENTS	metadata json functionality link roowebscaffold roo web scaffold mandatory input missing roo type declared
+VARSIG1	javatype type aspectname aspect
+VARSIG18	metadataidentificationstring metadata identification
+VARSIG0	identifier
+VARSIG17	metadataidentificationstring metadata identification
+MTHSIG4	getcreatefromjsonarraymethod create json array
+VARSIG12	list annotatedjavatype annotated type parameters
+MTHSIG5	getjsonlistmethod json list
+VARSIG11	javasymbolname symbol methodname
+MTHSIG6	getjsonupdatemethod json update
+VARSIG10	fieldmetadata field metadata field
+MTHSIG7	getupdatefromjsonarraymethod update json array
+MTHSIG0	webjsonmetadata web json metadata identifier javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata webscaffoldannotationvalues web scaffold annotation values annotationvalues annotation values memberdetails member details memberdetails member details sortedmap sorted map javatype type javatypemetadatadetails type metadata details specialdomaintypes special domain types set findermetadatadetails finder metadata details dynamicfindermethods dynamic finder methods jsonmetadata json metadata jsonmetadata json metadata
+VARSIG16	metadataidentificationstring metadata identification
+MTHSIG1	getannotationvalues annotation values
+VARSIG15	path path
+PACKAGE	springframework roo addon web mvc controller scaffold json
+MTHSIG2	getjsonshowmethod json
+VARSIG14	javatype type javatype type
+MTHSIG3	getjsoncreatemethod json create
+VARSIG13	javatype type type
+MTHSIG8	getjsondeletemethod json delete
+MTHSIG9	getfinderjsonmethod finder json findermetadatadetails finder metadata details finderdetails finder details
+MTHSIG17	isvalid valid metadataidentificationstring metadata identification
+MTHSIG15	getjavatype type metadataidentificationstring metadata identification
+MTHSIG16	getpath path metadataidentificationstring metadata identification
+MTHSIG13	getmetadataidentifertype metadata identifer type
+MTHSIG14	createidentifier create identifier javatype type javatype type path path
+MTHSIG11	getshortname javatype type type
+MTHSIG12	tostring
+CLASSES	webjsonmetadata web json metadata
+METHODS	webjsonmetadata web json metadata getannotationvalues annotation values getjsonshowmethod json getjsoncreatemethod json create getcreatefromjsonarraymethod create json array getjsonlistmethod json list getjsonupdatemethod json update getupdatefromjsonarraymethod update json array getjsondeletemethod json delete getfinderjsonmethod finder json methodexists exists getshortname tostring getmetadataidentifertype metadata identifer type createidentifier create identifier getjavatype type getpath path isvalid valid
+MTHSIG10	methodexists exists javasymbolname symbol methodname list annotatedjavatype annotated type parameters
+VARIABLES	identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata annotationvalues annotation values memberdetails member details specialdomaintypes special domain types dynamicfindermethods dynamic finder methods jsonmetadata json metadata finder finderdetails finder details field methodname parameters type javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification metadataidentificationstring metadata identification type type annotationvalues annotation values entityname entity jsonmetadata json metadata memberdetails member details formbackingtype form backing type javatypemetadataholder type metadata holder tojsonmethodname json javatypepersistencemetadataholder type persistence metadata holder methodname parameters attributes pathvariableannotation path variable annotation paramtypes types jsonshowmethod json paramnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations beanshortname bean bodybuilder body builder httpheadersshortname http headers responseentityshortname response entity httpstatusshortname http status returntype type methodbuilder builder fromjsonmethodname json javatypepersistencemetadataholder type persistence metadata holder methodname parameters requestbodyannotation request body annotation paramtypes types jsoncreatemethod json create paramnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations bodybuilder body builder httpheadersshortname http headers returntype type methodbuilder builder fromjsonarraymethodname json array javatypepersistencemetadataholder type persistence metadata holder methodname parameters requestbodyannotation request body annotation paramtypes types createfromjsonarraymethod create json array paramnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations bodybuilder body builder beanname bean params httpheadersshortname http headers returntype type methodbuilder builder tojsonarraymethodname json array javatypepersistencemetadataholder type persistence metadata holder methodname listjsonmethod list json requestmappingattributes request mapping attributes requestmapping request mapping annotations bodybuilder body builder entityname entity httpheadersshortname http headers responseentityshortname response entity httpstatusshortname http status returntype type methodbuilder builder fromjsonmethodname json javatypepersistencemetadataholder type persistence metadata holder methodname parameters requestbodyannotation request body annotation paramtypes types updatefromjsonmethod update json paramnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations bodybuilder body builder beanshortname bean httpheadersshortname http headers returntype type methodbuilder builder fromjsonarraymethodname json array javatypepersistencemetadataholder type persistence metadata holder methodname parameters requestbodyannotation request body annotation paramtypes types updatefromjsonarraymethod update json array paramnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations bodybuilder body builder beanname bean params httpheadersshortname http headers returntype type methodbuilder builder javatypepersistencemetadataholder type persistence metadata holder methodname typeannotations type annotations attributes pathvariableannotation path variable annotation paramtypes types deletefromjsonmethod delete json paramnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations beanshortname bean bodybuilder body builder httpheadersshortname http headers returntype type methodbuilder builder findermethodname finder annotatedparamtypes annotated types paramnames names bodybuilder body builder methodparams params fieldname field annotations attributes requestparamannotation request annotation annotation existingmethod existing newparamnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations shortbeanname bean httpheadersshortname http headers responseentityshortname response entity httpstatusshortname http status returntype type methodbuilder builder tsc

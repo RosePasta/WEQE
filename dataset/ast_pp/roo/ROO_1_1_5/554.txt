@@ -1,0 +1,61 @@
+MTHSIG4	isautomatictrust automatic trust
+VARSIG34	inputstream input stream signature
+MTHSIG5	setautomatictrust set automatic trust automatictrust automatic trust
+VARSIG33	inputstream input stream resource
+MTHSIG6	gettrustedkeys trusted
+VARSIG32	pgppublickeyring pgp key ring keyring key ring
+MTHSIG7	trust pgpkeyid pgp key keyid key
+VARSIG31	exception
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	trustdefaultkeysifrequired trust required
+PACKAGE	springframework roo felix pgp
+MTHSIG2	trustdefaultkeys trust
+VARSIG36	pgppublickeyring pgp key ring keyring key ring
+MTHSIG3	getkeystorephysicallocation key store physical location
+VARSIG35	exception
+MTHSIG8	trust pgppublickeyring pgp key ring keyring key ring
+VARSIG30	inputstream input stream signature
+MTHSIG9	untrust pgpkeyid pgp key keyid key
+CLASSES	pgpserviceimpl pgp service impl
+VARSIG29	malformedurlexception malformed url exception
+VARSIG28	pgpkeyid pgp key keyid key
+METHODS	activate trustdefaultkeysifrequired trust required trustdefaultkeys trust getkeystorephysicallocation key store physical location isautomatictrust automatic trust setautomatictrust set automatic trust gettrustedkeys trusted trust trust untrust refresh getpublickey key getpublickey key getkeyserverurltoretrievekeyid key server url retrieve key getkeyserverurltoretrievekeyinformation key server url retrieve key issignatureacceptable signature acceptable isresourcesignedbysignature resource signed signature getdiscoveredkeyids discovered key ids rememberkey remember key
+VARSIG23	ioexception exception
+VARSIG22	exception
+VARSIG21	pgpkeyid pgp key keyid key
+VARSIG20	ioexception exception ignore
+VARSIG27	malformedurlexception malformed url exception
+VARSIG26	pgpkeyid pgp key keyid key
+VARSIG25	exception
+VARSIG24	inputstream input stream
+VARSIG7	exception
+VARSIG6	automatictrust automatic trust
+VARSIG9	pgpkeyid pgp key keyid key
+VARSIG8	ioexception exception ignore
+VARSIG3	url url
+VARSIG2	url
+VARSIG5	ioexception exception
+VARSIG4	ioexception exception ignore
+COMMENTS	implementation link pgpservice pgp service stores user user pgp spring roo pgp bpg file key file considered trusted user expiration times ship roo file automatically file disk implementation verify detached armored signatures produce file gpg armor detach sign file sign ext keyserver url http pgp mit pks lookup search seed discovered database setup trust automatically trust store key revoked trust write disk trust build list trust ends locate element remove record write disk trust build list refreshed locate element remove record refresh can retrieve store key revoked write disk obtains url download key key server key uploaded keyid key hex encoded key download required url special store key valid loop user trusts key don approve signature user told verify signed content simply stores key link discoveredkeyids discovered key ids reference key ids link pgppublickeyring pgp key ring ensure input valid key locating key ids signed key note link discoveredkeyids discovered key ids key functions simply user convenience keyring key ring key store required
+VARSIG19	exception
+VARSIG1	url
+VARSIG18	exception
+VARSIG0	componentcontext component context context
+VARSIG17	pgppublickeyring pgp key ring candidate
+VARSIG12	ioexception exception ignore
+VARSIG11	exception
+VARSIG10	pgppublickeyring pgp key ring keyring key ring
+VARSIG16	ioexception exception ignore
+VARSIG15	exception
+VARSIG14	pgppublickeyring pgp key ring candidate
+VARSIG13	pgpkeyid pgp key keyid key
+MTHSIG17	getdiscoveredkeyids discovered key ids
+MTHSIG18	rememberkey remember key pgppublickeyring pgp key ring keyring key ring
+MTHSIG15	issignatureacceptable signature acceptable inputstream input stream signature
+MTHSIG16	isresourcesignedbysignature resource signed signature inputstream input stream resource inputstream input stream signature
+MTHSIG13	getkeyserverurltoretrievekeyid key server url retrieve key pgpkeyid pgp key keyid key
+MTHSIG14	getkeyserverurltoretrievekeyinformation key server url retrieve key pgpkeyid pgp key keyid key
+MTHSIG11	getpublickey key pgpkeyid pgp key keyid key
+MTHSIG12	getpublickey key inputstream input stream
+MTHSIG10	refresh
+VARIABLES	context url ignore automatictrust automatic trust ignore keyid key keyring key ring ignore keyid key candidate ignore candidate ignore keyid key keyid key keyid key signature keyring key ring resource signature keyring key ring urlinputstreamservice url input stream service automatictrust automatic trust context roo pgp file keyserver url buffer size discoveredkeyids discovered key ids keyserver urls sortedurls sorted urls key result fis pubrings pub rings rit pgppub pgp pub keyring key ring trusted fos newcollection collection trusted stilltrusted trusted removed stilltrust trust pgpkey pgp key candidatekeyid candidate key fos newcollection collection result trusted stilltrusted trusted firstkey key candidatekeyid candidate key newkeyring key ring fos newcollection collection lookup obj pgpfact pgp fact keyring key ring keyurl key url keyindexurl key url factory obj pgpsignature pgp signature keyidinhex key hex signatureacceptable signature acceptable candidate publickey key pgpsignature pgp signature keyring key ring buff chunk key keyid key useriditerator user iterator userid user signatureiterator signature iterator signature signaturekeyid signature key

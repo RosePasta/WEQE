@@ -1,0 +1,60 @@
+MTHSIG28	setdescript set descript descript 
+MTHSIG29	setincludenonportableattribut set includ portabl attribut includenonportableattribut includ portabl attribut 
+MTHSIG26	isjoint join tabl 
+MTHSIG27	setcatalog set catalog catalog 
+MTHSIG24	hashcod hash code 
+MTHSIG25	isincludenonportableattribut includ portabl attribut 
+MTHSIG22	getprimarykei primari 
+MTHSIG23	getschema schema 
+MTHSIG4	addindex add 
+MTHSIG5	equal object obj 
+MTHSIG6	findcolumn find column 
+MTHSIG7	findimportedkeybylocalcolumnnam find import kei local column localcolumnnam local column 
+MTHSIG0	tabl schema schema 
+MTHSIG1	addcolumn add column column column 
+PACKAGE	springframework roo addon dbre model 
+MTHSIG2	addexportedkei add export kei foreignkei foreign kei exportedkei export kei 
+MTHSIG3	addimportedkei add import kei foreignkei foreign kei foreignkei foreign kei 
+MTHSIG20	getnam 
+MTHSIG21	getprimarykeycount primari kei count 
+MTHSIG8	getcatalog catalog 
+MTHSIG9	getcolumncount column count 
+CLASSES	tabl 
+METHODS	tabl addcolumn add column addexportedkei add export kei addimportedkei add import kei addindex add equal findcolumn find column findimportedkeybylocalcolumnnam find import kei local column getcatalog catalog getcolumncount column count getcolumn column getdescript descript getexportedkeycountbyforeigntablenam export kei count foreign tabl getexportedkei export getfullyqualifiedtablenam fulli qualifi tabl getimportedkei import kei getimportedkeycount import kei count getimportedkeycountbyforeigntablenam import kei count foreign tabl getimportedkei import getindic indic getnam getprimarykeycount primari kei count getprimarykei primari getschema schema hashcod hash code isincludenonportableattribut includ portabl attribut isjoint join tabl setcatalog set catalog setdescript set descript setincludenonportableattribut set includ portabl attribut setjoint set join tabl tostr 
+VARSIG22	jointabl join tabl 
+VARSIG21	includenonportableattribut includ portabl attribut 
+VARSIG20	descript 
+MTHSIG31	tostr 
+MTHSIG30	setjoint set join tabl jointabl join tabl 
+VARSIG7	 
+VARSIG6	object obj 
+VARSIG9	localcolumnnam local column 
+VARSIG8	column column 
+VARSIG3	foreignkei foreign kei exportedkei export kei 
+VARSIG2	column column 
+VARSIG5	 
+VARSIG4	foreignkei foreign kei foreignkei foreign kei 
+COMMENTS	repres tabl databas model 
+VARSIG19	catalog 
+VARSIG1	schema schema 
+VARSIG18	column column 
+VARSIG0	 
+VARSIG17	foreignkei foreign kei foreignkei foreign kei 
+VARSIG12	foreigntablenam foreign tabl 
+VARSIG11	refer refer 
+VARSIG10	foreignkei foreign kei foreignkei foreign kei 
+VARSIG16	foreigntablenam foreign tabl 
+VARSIG15	foreignkei foreign kei foreignkei foreign kei 
+VARSIG14	 
+VARSIG13	foreignkei foreign kei exportedkei export kei 
+MTHSIG17	getimportedkeycountbyforeigntablenam import kei count foreign tabl foreigntablenam foreign tabl 
+MTHSIG18	getimportedkei import 
+MTHSIG15	getimportedkei import kei 
+MTHSIG16	getimportedkeycount import kei count 
+MTHSIG13	getexportedkei export 
+MTHSIG14	getfullyqualifiedtablenam fulli qualifi tabl 
+MTHSIG11	getdescript descript 
+MTHSIG12	getexportedkeycountbyforeigntablenam export kei count foreign tabl foreigntablenam foreign tabl 
+MTHSIG19	getindic indic 
+MTHSIG10	getcolumn column 
+VARIABLES	schema column exportedkei export kei foreignkei foreign kei obj column localcolumnnam local column foreignkei foreign kei refer foreigntablenam foreign tabl exportedkei export kei foreignkei foreign kei foreigntablenam foreign tabl foreignkei foreign kei column catalog descript includenonportableattribut includ portabl attribut jointabl join tabl catalog column descript exportedkei export importedkei import includenonportableattribut includ portabl attribut indic jointabl join tabl schema count count primarykei primari prime result 

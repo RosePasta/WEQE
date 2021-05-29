@@ -1,0 +1,37 @@
+VARSIG7	exception
+VARSIG6	displayonly display
+VARSIG9	javapackage destinationpackage destination
+VARSIG8	set schema schemas
+VARSIG3	database database
+VARSIG2	view
+VARSIG5	file file
+VARSIG4	set schema schemas
+COMMENTS	implementation link dbreoperations dbre operations force refresh database actual jdbc connection force refresh database actual jdbc connection update pom xml add exclusion dbre xml file maven war plugin change persistence xml file prevent tables created dropped xxx disid includenonportableattributes include portable attributes validation http projects disid issues project web project exit exclude element exit create required elements populate required text clean xml write updated pom
+VARSIG19	service
+VARSIG1	file file
+VARSIG18	repository
+VARSIG0	set schema schemas
+VARSIG17	activerecord active record
+MTHSIG4	setpropertyvalue set property element root element propertyelement property element
+VARSIG12	set includetables include tables
+MTHSIG5	updatepersistencexml update persistence xml includenonportableattributes include portable attributes
+VARSIG11	view
+MTHSIG6	updatepom update pom
+VARSIG10	testautomatically test automatically
+MTHSIG0	displaydatabasemetadata display database metadata set schema schemas file file view
+VARSIG16	disablegeneratedidentifiers disable generated identifiers
+MTHSIG1	isdbreinstallationpossible dbre installation
+VARSIG15	disableversionfields disable version fields
+PACKAGE	springframework roo addon dbre
+MTHSIG2	outputschemaxml output schema xml database database set schema schemas file file displayonly display
+VARSIG14	includenonportableattributes include portable attributes
+MTHSIG3	reverseengineerdatabase reverse engineer database set schema schemas javapackage destinationpackage destination testautomatically test automatically view set includetables include tables set excludetables exclude tables includenonportableattributes include portable attributes disableversionfields disable version fields disablegeneratedidentifiers disable generated identifiers activerecord active record repository service
+VARSIG13	set excludetables exclude tables
+CLASSES	dbreoperationsimpl dbre operations impl
+METHODS	displaydatabasemetadata display database metadata isdbreinstallationpossible dbre installation outputschemaxml output schema xml reverseengineerdatabase reverse engineer database setpropertyvalue set property updatepersistencexml update persistence xml updatepom update pom
+VARSIG23	
+VARSIG22	
+VARSIG21	element propertyelement property element
+VARSIG20	element root
+VARSIG24	includenonportableattributes include portable attributes
+VARIABLES	schemas file view database schemas file displayonly display schemas destinationpackage destination testautomatically test automatically view includetables include tables excludetables exclude tables includenonportableattributes include portable attributes disableversionfields disable version fields disablegeneratedidentifiers disable generated identifiers activerecord active record repository service root propertyelement property element includenonportableattributes include portable attributes logger dbremodelservice dbre model service filemanager file manager pathresolver path resolver projectoperations project operations database document outputstream output stream database changed persistencepath persistence path document root providerelement provider element provider propertyelement property element changed pom document root warpluginxpath war plugin path warpluginelement war plugin element excludeelement exclude element configurationelement configuration element webresourceselement web resources element resourceelement resource element excludeselement excludes element directoryelement directory element

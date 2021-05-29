@@ -1,0 +1,30 @@
+VARSIG7	column column 
+VARSIG6	indexcolumn column indexcolumn column 
+VARSIG9	object obj 
+VARSIG8	indexcolumn column indexcolumn column 
+VARSIG3	uniqu 
+VARSIG2	tabl tabl 
+VARSIG5	list indexcolumn column indexcolumn column 
+VARSIG4	indexcolumn column indexcolumn column 
+COMMENTS	repres definit tabl uniqu uniqu 
+VARSIG1	 
+VARSIG0	 
+MTHSIG4	settabl set tabl tabl tabl 
+MTHSIG5	isuniqu uniqu 
+MTHSIG6	setuniqu set uniqu uniqu 
+MTHSIG7	getcolumn column 
+MTHSIG0	 
+MTHSIG1	getnam 
+PACKAGE	springframework roo addon dbre model 
+MTHSIG2	setnam set 
+MTHSIG3	gettabl tabl 
+MTHSIG8	addcolumn add column indexcolumn column indexcolumn column 
+MTHSIG9	addcolumn add column list indexcolumn column indexcolumn column 
+MTHSIG13	equal object obj 
+MTHSIG14	tostr 
+MTHSIG11	hascolumn column column column 
+MTHSIG12	hashcod hash code 
+CLASSES	 
+METHODS	getnam setnam set gettabl tabl settabl set tabl isuniqu uniqu setuniqu set uniqu getcolumn column addcolumn add column addcolumn add column removecolumn remov column hascolumn column hashcod hash code equal tostr 
+MTHSIG10	removecolumn remov column indexcolumn column indexcolumn column 
+VARIABLES	tabl uniqu indexcolumn column indexcolumn column indexcolumn column column indexcolumn column obj serialversionuid serial version uid tabl uniqu column prime result 

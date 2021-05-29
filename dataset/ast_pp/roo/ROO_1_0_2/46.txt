@@ -1,0 +1,32 @@
+VARSIG7	clioption cli option key artifactid artifact mandatory artifact dependency javasymbolname symbol artifactid artifact
+VARSIG6	clioption cli option key groupid group mandatory group dependency javapackage groupid group
+VARSIG9	clioption cli option key groupid group mandatory group dependency javapackage groupid group
+VARSIG8	clioption cli option key version mandatory version dependency version
+VARSIG3	clioption cli option key projectname project mandatory project segment projectname project
+VARSIG2	clioption cli option key toplevelpackage top level mandatory uppermost groupid group maven roo roo shell javapackage toplevelpackage top level
+VARSIG5	clioption cli option key template mandatory specifieddefaultvalue standard project unspecifieddefaultvalue unspecified standard project type project create defaults standard project template template
+VARSIG4	clioption cli option key mandatory forces major version auto detected unspecified integer majorjavaversion major version
+COMMENTS	nix mac windows
+VARSIG1	mavenoperations maven operations mavenoperations maven operations
+VARSIG0	staticfieldconverter field converter staticfieldconverter field converter
+MTHSIG4	adddependency add dependency javapackage groupid group javasymbolname symbol artifactid artifact version
+VARSIG12	clioption cli option key mavencommand maven command mandatory user maven command test test extra
+MTHSIG5	removedependency remove dependency javapackage groupid group javasymbolname symbol artifactid artifact version
+VARSIG11	clioption cli option key version mandatory version dependency version
+MTHSIG6	isperformcommandallowed perform command allowed
+VARSIG10	clioption cli option key artifactid artifact mandatory artifact dependency javasymbolname symbol artifactid artifact
+MTHSIG7	runpackage
+MTHSIG0	mavencommands maven commands staticfieldconverter field converter staticfieldconverter field converter mavenoperations maven operations mavenoperations maven operations
+MTHSIG1	iscreateprojectavailable create project
+PACKAGE	springframework roo addon maven
+MTHSIG2	createproject create project javapackage toplevelpackage top level projectname project integer majorjavaversion major version template template
+MTHSIG3	isdependencymodificationallowed dependency modification allowed
+VARSIG13	ioexception exception ioe
+MTHSIG8	runeclipse
+MTHSIG9	runtest test
+MTHSIG11	runclean clean
+MTHSIG12	mvn extra
+CLASSES	mavencommands maven commands
+METHODS	mavencommands maven commands iscreateprojectavailable create project createproject create project isdependencymodificationallowed dependency modification allowed adddependency add dependency removedependency remove dependency isperformcommandallowed perform command allowed runpackage runeclipse runtest test runassembly assembly runclean clean mvn
+MTHSIG10	runassembly assembly
+VARIABLES	staticfieldconverter field converter mavenoperations maven operations toplevelpackage top level projectname project majorjavaversion major version template groupid group artifactid artifact version groupid group artifactid artifact version extra ioe mavenoperations maven operations logger root input cmd

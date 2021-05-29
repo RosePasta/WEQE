@@ -1,0 +1,26 @@
+VARSIG7	object obj
+VARSIG6	insertableorupdatable insertable updatable
+VARSIG3	column foreigncolumn foreign column
+VARSIG2	column localcolumn local column
+VARSIG5	column foreigncolumn foreign column
+VARSIG4	column localcolumn local column
+COMMENTS	represents reference column local table column table local column foreign column local column foreign column creates reference columns creates reference columns localcolumn local column local column foreigncolumn foreign column remote column
+VARSIG1	foreigncolumnname foreign column
+VARSIG0	localcolumnname local column
+MTHSIG4	getforeigncolumn foreign column
+MTHSIG5	setforeigncolumn set foreign column column foreigncolumn foreign column
+MTHSIG6	getlocalcolumnname local column
+MTHSIG7	getforeigncolumnname foreign column
+MTHSIG0	reference localcolumnname local column foreigncolumnname foreign column
+MTHSIG1	reference column localcolumn local column column foreigncolumn foreign column
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	getlocalcolumn local column
+MTHSIG3	setlocalcolumn set local column column localcolumn local column
+MTHSIG8	isinsertableorupdatable insertable updatable
+MTHSIG9	setinsertableorupdatable set insertable updatable insertableorupdatable insertable updatable
+MTHSIG11	equals object obj
+MTHSIG12	tostring
+CLASSES	reference
+METHODS	reference reference getlocalcolumn local column setlocalcolumn set local column getforeigncolumn foreign column setforeigncolumn set foreign column getlocalcolumnname local column getforeigncolumnname foreign column isinsertableorupdatable insertable updatable setinsertableorupdatable set insertable updatable hashcode hash code equals tostring
+MTHSIG10	hashcode hash code
+VARIABLES	localcolumnname local column foreigncolumnname foreign column localcolumn local column foreigncolumn foreign column localcolumn local column foreigncolumn foreign column insertableorupdatable insertable updatable obj serialversionuid serial version uid localcolumn local column foreigncolumn foreign column localcolumnname local column foreigncolumnname foreign column insertableorupdatable insertable updatable prime result

@@ -1,0 +1,21 @@
+VARSIG7	serviceevent service event event
+VARSIG6	bundle bundle
+VARSIG9	servicereference service reference
+VARSIG8	requiredservice required service
+VARSIG3	url url
+VARSIG2	ioexception exception
+VARSIG5	bundlecontext bundle context context
+VARSIG4	exception
+COMMENTS	osgi framework start level services marked activated osgi declarative service specification ensures services loaded required attribute ensures loaded eagerly impossible receive callback services finished loading link bundleactivator bundle activator resolves issue discovering enabled service components flag monitoring startup started osgi framework set start level enables classes depend activation services react start level change note functionality services simple components insufficient services defined xml file service component manifest header key required services interfaces roo roo convention component fully qualified roo roo convention bundle symbolic names fully qualified names user change bsn component quick sanity check type appears bsn haven changed convention couldn rely component reliable service unavailable time getservice service invocation roo component enabled disabled skip starter starter skip calculate implementing correctly implementing service ensure notified services wrong identify services interested running wrong change start level started services
+CLASSES	activator
+VARSIG1	bundlecontext bundle context context
+VARSIG0	servicereference service reference
+METHODS	getclassname potentiallychangestartlevel change start level process start
+MTHSIG4	bundlecontext bundle context context
+VARSIG10	bundlecontext bundle context context
+MTHSIG0	getclassname servicereference service reference bundlecontext bundle context context
+MTHSIG1	potentiallychangestartlevel change start level
+PACKAGE	springframework roo startlevel
+MTHSIG2	process url url
+MTHSIG3	start bundlecontext bundle context context
+VARIABLES	context url context bundle event requiredservice required service context requiredimplementations required implementations runningimplementations running implementations startlevel start level startlevelservicereference start level service reference componentname component obj document rootelement root element components component componentname component implementation impl serviceinterface service service provide firstprovide provide url mycontext context classname correspondinginterface srs classname

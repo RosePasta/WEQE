@@ -1,0 +1,36 @@
+VARSIG7	tablenamepattern tabl pattern 
+VARSIG6	javatyp type javatyp type 
+VARSIG9	columnnam column 
+VARSIG8	javapackag javapackag 
+VARSIG3	javatyp type managedent manag entiti 
+VARSIG2	javapackag javapackag 
+VARSIG5	javapackag javapackag 
+VARSIG4	tablenamepattern tabl pattern 
+COMMENTS	implement link dbretyperesolutionservic dbre type resolut servic simpl 
+VARSIG1	tablenamepattern tabl pattern 
+VARSIG18	javatyp type 
+VARSIG0	sortedset sort set javatyp type managedent manag entiti 
+VARSIG17	javatyp type 
+MTHSIG4	suggestfieldnam field columnnam column 
+VARSIG12	javapackag javapackag 
+MTHSIG5	converttypetotablenam convert type tabl javatyp type javatyp type 
+VARSIG11	tablenamepattern tabl pattern 
+MTHSIG6	converttablenametotyp convert tabl type tablenamepattern tabl pattern javapackag javapackag 
+VARSIG10	javatyp type javatyp type 
+MTHSIG7	getfieldnam field columnnam column 
+MTHSIG0	findtypefortablenam find type tabl sortedset sort set javatyp type managedent manag entiti tablenamepattern tabl pattern javapackag javapackag 
+VARSIG16	javatyp type javatyp type 
+MTHSIG1	findtypefortablenam find type tabl tablenamepattern tabl pattern javapackag javapackag 
+VARSIG15	isfield field 
+PACKAGE	springframework roo addon dbre 
+MTHSIG2	suggesttablenamefornewtyp tabl type javatyp type javatyp type 
+VARSIG14	str 
+MTHSIG3	suggesttypenamefornewt type tabl tablenamepattern tabl pattern javapackag javapackag 
+VARSIG13	columnnam column 
+MTHSIG8	getnam str isfield field 
+MTHSIG9	getmanagedent manag entiti 
+MTHSIG11	getphysicaltypemetadata physic type metadata javatyp type javatyp type 
+CLASSES	dbretyperesolutionserviceimpl dbre type resolut servic impl 
+METHODS	findtypefortablenam find type tabl findtypefortablenam find type tabl suggesttablenamefornewtyp tabl type suggesttypenamefornewt type tabl suggestfieldnam field converttypetotablenam convert type tabl converttablenametotyp convert tabl type getfieldnam field getnam getmanagedent manag entiti getmanagedidentifi manag identifi getphysicaltypemetadata physic type metadata 
+MTHSIG10	getmanagedidentifi manag identifi 
+VARIABLES	managedent manag entiti tablenamepattern tabl pattern javapackag managedent manag entiti tablenamepattern tabl pattern javapackag javatyp type tablenamepattern tabl pattern javapackag columnnam column javatyp type tablenamepattern tabl pattern javapackag columnnam column str isfield field javatyp type metadataservic metadata servic typelocationservic type locat servic javatyp type simplenam simpl result result result isdelimchar delim managedent manag entiti managedidentifi manag identifi declaredbymetadataid declar metadata 

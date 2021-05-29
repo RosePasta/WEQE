@@ -1,0 +1,63 @@
+MTHSIG24	tostring
+MTHSIG22	hashcode hash code
+MTHSIG23	hassamecoordinates coordinates dependency dependency
+MTHSIG4	dependency groupid group artifactid artifact version collection dependency exclusions
+MTHSIG5	dependency groupid group artifactid artifact version dependencytype dependency type type dependencyscope dependency scope scope
+MTHSIG6	dependency groupid group artifactid artifact version dependencytype dependency type type dependencyscope dependency scope scope classifier
+VARSIG32	dependency dependency
+MTHSIG7	addexclusion add exclusion exclusiongroupid exclusion group exclusionartifactid exclusion artifact
+VARSIG31	dependency exclusion
+MTHSIG0	ishigherlevel higher level type type type type
+MTHSIG1	dependency element dependency
+PACKAGE	springframework roo project
+MTHSIG2	dependency gav gav dependencytype dependency type type dependencyscope dependency scope scope
+MTHSIG3	dependency groupid group artifactid artifact version
+MTHSIG20	getversion version
+MTHSIG21	getversionid version
+MTHSIG8	comparecoordinates compare coordinates dependency
+VARSIG30	document document
+MTHSIG9	compareto compare dependency
+CLASSES	dependency
+VARSIG29	object obj
+VARSIG28	dependency
+METHODS	ishigherlevel higher level dependency dependency dependency dependency dependency dependency addexclusion add exclusion comparecoordinates compare coordinates compareto compare equals getartifactid artifact getclassifier classifier getelement element getexclusions exclusions getgroupid group getscope scope getsimpledescription simple description getsystempath system path gettype type getversion version getversionid version hashcode hash code hassamecoordinates coordinates tostring
+VARSIG23	dependencyscope dependency scope scope
+VARSIG22	dependencytype dependency type type
+VARSIG21	version
+VARSIG20	artifactid artifact
+VARSIG27	dependency
+VARSIG26	exclusionartifactid exclusion artifact
+VARSIG25	exclusiongroupid exclusion group
+VARSIG24	classifier
+VARSIG7	groupid group
+VARSIG6	dependencyscope dependency scope scope
+VARSIG9	version
+VARSIG8	artifactid artifact
+VARSIG3	element exclusion
+VARSIG2	element dependency
+VARSIG5	dependencytype dependency type type
+VARSIG4	gav gav
+COMMENTS	simplified immutable representation dependency structured model maven ivy replaced release osgi centric model maven docs minimal set matching dependency reference dependencymanagement dependency management groupid group artifactid artifact type classifier http maven guides introduction introduction dependency mechanism html dependency scope dependency types increasing containment order dependency type higher logical level type type dependency type compare required type type dependency type compare required level level identifying identifying constructs link dependency maven style element dependency parse required test maven format pom attributes supported maven pom attributes supported maven parsing exclusions test ivy format todo implement exclusions parser ivy format constructor dependency attributes gav coordinates required type dependency type required scope dependency scope required constructs compile scoped jar dependency groupid group group required artifactid artifact artifact required version version required constructs compile scoped jar dependency optional exclusions groupid group group required artifactid artifact artifact required version version required exclusions exclusions dependency constructs dependency type scope groupid group group required artifactid artifact artifact required version version required type dependency type required scope dependency scope required creates immutable link dependency groupid group group required artifactid artifact artifact required version version required type dependency type required scope dependency scope required classifier dependency classifier required adds exclusion dependency exclusiongroupid exclusion group groupid group dependency exclude required exclusionartifactid exclusion artifact artifactid artifact dependency exclude required compares dependency dependency identifying coordinates version dependency dependency compared required link comparable compareto compare object returns xml element dependency document parent xml document element xml don jar xml don compile add exclusions list exclusions simple description console output link dependency maven coordinates calling link equals object compare fields basic coordinates dependency dependency check coordinates
+VARSIG19	groupid group
+VARSIG1	type type
+VARSIG18	dependencyscope dependency scope scope
+VARSIG0	type type
+VARSIG17	dependencytype dependency type type
+VARSIG12	version
+VARSIG11	artifactid artifact
+VARSIG10	groupid group
+VARSIG16	version
+VARSIG15	artifactid artifact
+VARSIG14	groupid group
+VARSIG13	collection dependency exclusions
+MTHSIG17	getsimpledescription simple description
+MTHSIG18	getsystempath system path
+MTHSIG15	getgroupid group
+MTHSIG16	getscope scope
+MTHSIG13	getelement element document document
+MTHSIG14	getexclusions exclusions
+MTHSIG11	getartifactid artifact
+MTHSIG12	getclassifier classifier
+MTHSIG19	gettype type
+MTHSIG10	equals object obj
+VARIABLES	type type type type dependency exclusion gav type scope groupid group artifactid artifact version groupid group artifactid artifact version exclusions groupid group artifactid artifact version type scope groupid group artifactid artifact version type scope classifier exclusiongroupid exclusion group exclusionartifactid exclusion artifact obj document exclusion dependency type hierarchy type index type type index type artifactid artifact classifier exclusions groupid group scope systempath system path type version versionelements version elements exclusionlist exclusion list exclusione exclusion exclusionid exclusion exclusionartifacte exclusion artifact exclusionartifactid exclusion artifact result result dependencyelement dependency element typeelement type element exclusionselement exclusions element exclusionelement exclusion element prime result builder

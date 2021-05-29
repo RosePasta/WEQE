@@ -1,0 +1,23 @@
+VARSIG3	existingdata existing data
+VARSIG2	exception
+MTHSIG11	assertpossiblevalues values existingdata existing data expectedcomplete expected complete completion expectedcompletions expected completions
+VARSIG5	completion expectedcompletions expected completions
+VARSIG4	expectedcomplete expected complete
+COMMENTS	unit test link gavconverter gav converter fixture set invoke check set invoke check asserts expected completions input existingdata existing data expectedcomplete expected complete expect converter report conversion complete expectedcompletions expected completions set invoke check
+CLASSES	gavconvertertest gav converter test
+VARSIG1	expectedmessage expected message
+VARSIG0	
+METHODS	setup set testsupportsgavs test supports testsupportssubclassofgav test supports subclass gav testdoesnotsupportobjects test support objects testconvertfromnull test convert testconvertfromemptystring test convert empty testconvertfromonetoofewcoordinates test convert coordinates testconvertfromonetoomanycoordinates test convert coordinates assertinvalidstring invalid testconvertfromvalidcoordinates test convert valid coordinates testgetallpossiblevaluesfornullinput test values input assertpossiblevalues values
+MTHSIG4	testconvertfromnull test convert
+MTHSIG5	testconvertfromemptystring test convert empty
+MTHSIG6	testconvertfromonetoofewcoordinates test convert coordinates
+MTHSIG7	testconvertfromonetoomanycoordinates test convert coordinates
+MTHSIG0	setup set
+MTHSIG1	testsupportsgavs test supports
+PACKAGE	springframework roo project converter
+MTHSIG2	testsupportssubclassofgav test supports subclass gav
+MTHSIG3	testdoesnotsupportobjects test support objects
+MTHSIG10	testgetallpossiblevaluesfornullinput test values input
+VARIABLES	expectedmessage expected message existingdata existing data expectedcomplete expected complete expectedcompletions expected completions converter subclass groupid group artifactid artifact version coordinates gav completions complete
+MTHSIG8	assertinvalidstring invalid expectedmessage expected message
+MTHSIG9	testconvertfromvalidcoordinates test convert valid coordinates

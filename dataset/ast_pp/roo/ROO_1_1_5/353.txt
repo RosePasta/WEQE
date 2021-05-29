@@ -1,0 +1,10 @@
+MTHSIG0	installminmalwebartefacts install minmal web artefacts
+MTHSIG1	installallwebmvcartifacts install web mvc artifacts
+PACKAGE	springframework roo addon web mvc controller
+MTHSIG2	installconversionservice install conversion service javapackage destinationpackage destination
+MTHSIG3	registerwebflowconversionserviceexposinginterceptor register web flow conversion service exposing interceptor
+COMMENTS	link webmvcoperationsimpl web mvc operations impl installs configures application wide formattingconversionservicefactorybean formatting conversion service factory bean register application specific converters formatters destinationpackage destination install conversion service
+CLASSES	webmvcoperations web mvc operations
+VARIABLES	destinationpackage destination open entitymanager view filter character encoding filter http filter
+VARSIG0	javapackage destinationpackage destination
+METHODS	installminmalwebartefacts install minmal web artefacts installallwebmvcartifacts install web mvc artifacts installconversionservice install conversion service registerwebflowconversionserviceexposinginterceptor register web flow conversion service exposing interceptor

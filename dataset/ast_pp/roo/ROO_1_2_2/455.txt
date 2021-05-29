@@ -1,0 +1,21 @@
+VARSIG6	isactive active
+VARSIG3	commandconfiguration command configuration newconfig config
+VARSIG2	description
+VARSIG5	commandconfiguration command configuration config
+VARSIG4	fullcommandstring full command
+COMMENTS	data container tailor configuration defines set link commandconfiguration command configuration objects define actions triggered commands configuration activated constructor configuration unique tailorconfiguration tailor configuration instances container commandconfiguration command configuration specific command fullcommandstring full command command check commandconfiguration command configuration command tailorconfiguration tailor configuration configuration command
+CLASSES	tailorconfiguration tailor configuration
+VARSIG1	
+VARSIG0	
+METHODS	tailorconfiguration tailor configuration tailorconfiguration tailor configuration addcommandconfig add command config getcommandconfigfor command config getcommandconfigs command configs getdescription description getname isactive active setactive set active
+MTHSIG4	getcommandconfigs command configs
+MTHSIG5	getdescription description
+MTHSIG6	getname
+MTHSIG7	isactive active
+MTHSIG0	tailorconfiguration tailor configuration
+MTHSIG1	tailorconfiguration tailor configuration description
+PACKAGE	springframework roo addon tailor config
+MTHSIG2	addcommandconfig add command config commandconfiguration command configuration newconfig config
+MTHSIG3	getcommandconfigfor command config fullcommandstring full command
+VARIABLES	description newconfig config fullcommandstring full command config isactive active commandconfigs command configs description isactive active
+MTHSIG8	setactive set active isactive active

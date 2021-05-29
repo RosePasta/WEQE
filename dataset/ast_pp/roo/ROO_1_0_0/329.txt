@@ -1,0 +1,14 @@
+VARSIG6	ioexception exception ioe
+VARSIG3	file destination
+VARSIG2	file source
+VARSIG5	file
+VARSIG4	deletedestinationonexit delete destination exit
+COMMENTS	utilities handling link file instances deletes link file link file refers directory contents directory including directories deleted link file exist returns file delete required file exist file fully deleted failure deleting copies source directory destination source exist destination exist created destination exist directory file source existing source directory required destination destination directory required deletedestinationonexit delete destination exit mark created destinations deletion exit copy successful directory copy
+CLASSES	fileutils file utils
+VARSIG1	file
+VARSIG0	file file
+METHODS	deleterecursively delete recursively copyrecursively copy recursively
+MTHSIG0	deleterecursively delete recursively file file
+MTHSIG1	copyrecursively copy recursively file source file destination deletedestinationonexit delete destination exit
+PACKAGE	springframework roo support util
+VARIABLES	file source destination deletedestinationonexit delete destination exit ioe

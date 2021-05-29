@@ -1,0 +1,31 @@
+VARSIG7	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG6	javatype type aspectname aspect
+VARSIG9	classorinterfacetypedetails type details controllertypedetails controller type details
+VARSIG8	itdfilename filename
+VARSIG3	componentcontext component context context
+VARSIG2	logicalpath logical path path
+VARSIG5	metadataidentificationstring metadata identification
+VARSIG4	metadataid metadata
+COMMENTS	implementation link conversionservicemetadataprovider conversion service metadata provider stores mid accepted conversionservicemetadataproviderimpl conversion service metadata provider impl application wide conversion service governor applicationconversionservicefactorybean application conversion service factory bean let create find composite primary key types requiring converter type field embedded type type unknown don generate converter happen field track interested accessors interested methods accessors persistence version fields exclude collections arrays exclude references domain objects verbose exclude values meaningful presentation interested embedded types webscaffoldmetadata web scaffold metadata upstream mid changed time don mid javatype type wasn webscaffoldmetadata web scaffold metadata superclass handle expected physicaltypeidentifier physical type identifier notification that registered receive
+VARSIG1	javatype type javatype type
+VARSIG0	componentcontext component context context
+MTHSIG4	getitduniquenessfilenamesuffix uniqueness filename suffix
+VARSIG12	methodmetadata metadata
+MTHSIG5	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+VARSIG11	metadataidentificationstring metadata identification
+MTHSIG6	getprovidestype type
+VARSIG10	memberdetails member details memberdetails member details
+MTHSIG7	gettostringmethods methods memberdetails member details memberdetails member details metadataidentificationstring metadata identification
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	createlocalidentifier create local identifier javatype type javatype type logicalpath logical path path
+VARSIG15	upstreamdependency upstream dependency
+PACKAGE	springframework roo addon web mvc controller converter
+MTHSIG2	deactivate componentcontext component context context
+VARSIG14	memberdetails member details memberdetails member details
+MTHSIG3	getgovernorphysicaltypeidentifier governor physical type identifier metadataid metadata
+VARSIG13	methodmetadata metadata
+MTHSIG8	ismethodofinterest interest methodmetadata metadata memberdetails member details memberdetails member details
+MTHSIG9	resolvedownstreamdependencyidentifier resolve downstream dependency identifier upstreamdependency upstream dependency
+CLASSES	conversionservicemetadataproviderimpl conversion service metadata provider impl
+METHODS	activate createlocalidentifier create local identifier deactivate getgovernorphysicaltypeidentifier governor physical type identifier getitduniquenessfilenamesuffix uniqueness filename suffix getmetadata metadata getprovidestype type gettostringmethods methods ismethodofinterest interest resolvedownstreamdependencyidentifier resolve downstream dependency identifier
+VARIABLES	context javatype type path context metadataid metadata metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename controllertypedetails controller type details memberdetails member details metadataidentificationstring metadata identification memberdetails member details upstreamdependency upstream dependency applicationconversionservicefactorybeanmid application conversion service factory bean mid layerservice layer service javatype type path compositeprimarykeytypes composite primary key types relevantdomaintypes relevant domain types findmethods find methods idtypes types tostringmethods methods webscaffoldannotationvalues web scaffold annotation values formbackingobject form backing object memberdetails member details embeddedidfields embedded fields jsonmethodnames json names fieldmemberdetails field member details fromjsonmethod json tojsonmethod json identifiertype identifier type findmethod find tostringmethods methods counter field fieldtype field type

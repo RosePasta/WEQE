@@ -1,0 +1,15 @@
+VARSIG2	object kei 
+COMMENTS	implement link customdata custom data 
+CLASSES	customdataimpl custom data impl 
+VARSIG1	object obj 
+VARSIG0	map object object customdata custom data 
+METHODS	customdataimpl custom data impl equal hashcod hash code iter keyset kei set tostr 
+MTHSIG4	iter 
+MTHSIG5	keyset kei set 
+MTHSIG6	tostr 
+MTHSIG0	customdataimpl custom data impl map object object customdata custom data 
+MTHSIG1	equal object obj 
+PACKAGE	springframework roo model 
+MTHSIG2	object kei 
+MTHSIG3	hashcod hash code 
+VARIABLES	customdata custom data obj kei customdata custom data prime result 

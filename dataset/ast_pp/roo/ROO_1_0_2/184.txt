@@ -1,0 +1,21 @@
+VARSIG7	annotationexpr annotation expr annotation
+VARSIG6	annotationexpr annotation expr candidate
+VARSIG3	set javasymbolname symbol typeparameternames type parameter names
+VARSIG2	compilationunitservices compilation unit services compilationunitservices compilation unit services
+VARSIG5	parameter
+VARSIG4	typeparameter type parameter candidate
+COMMENTS	parser implementation link constructormetadata constructor metadata convert parser modifier jdk modifier add declared type parameters list type parameters body lookup parameters names
+CLASSES	javaparserconstructormetadata parser constructor metadata
+VARSIG1	constructordeclaration constructor declaration constructordeclaration constructor declaration
+VARSIG0	declaredbymetadataid declared metadata
+METHODS	javaparserconstructormetadata parser constructor metadata getmodifier modifier getdeclaredbymetadataid declared metadata getannotations annotations getparameternames parameter names getparametertypes parameter types getbody body tostring
+MTHSIG4	getparameternames parameter names
+MTHSIG5	getparametertypes parameter types
+MTHSIG6	getbody body
+MTHSIG7	tostring
+MTHSIG0	javaparserconstructormetadata parser constructor metadata declaredbymetadataid declared metadata constructordeclaration constructor declaration constructordeclaration constructor declaration compilationunitservices compilation unit services compilationunitservices compilation unit services set javasymbolname symbol typeparameternames type parameter names
+MTHSIG1	getmodifier modifier
+PACKAGE	springframework roo classpath javaparser details
+MTHSIG2	getdeclaredbymetadataid declared metadata
+MTHSIG3	getannotations annotations
+VARIABLES	declaredbymetadataid declared metadata constructordeclaration constructor declaration compilationunitservices compilation unit services typeparameternames type parameter names candidate candidate annotation annotations parametertypes parameter types parameternames parameter names body declaredbymetadataid declared metadata modifier fulltypeparameters full type parameters params currenttypeparam current type parametertype parameter type annotationslist annotations list annotations tsc

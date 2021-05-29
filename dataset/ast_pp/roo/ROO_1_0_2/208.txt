@@ -1,0 +1,11 @@
+MTHSIG0	add undoableoperation undoable operation undoableoperation undoable operation
+MTHSIG1	reset
+VARSIG2	throwable
+PACKAGE	springframework roo file undo internal
+MTHSIG2	undo
+COMMENTS	implementation link undomanager undo manager undo failed reset mode reset mode
+CLASSES	defaultundomanager undo manager
+VARIABLES	undoableoperation undoable operation stack undomode undo mode
+VARSIG1	throwable
+VARSIG0	undoableoperation undoable operation undoableoperation undoable operation
+METHODS	add reset undo

@@ -1,0 +1,21 @@
+VARSIG7	ioexception exception ioe
+VARSIG6	loggerpackage logger loggerpackage logger
+VARSIG9	ioexception exception ioe
+VARSIG8	packagename
+VARSIG3	loglevel log level loglevel log level
+VARSIG2	metadataservice metadata service metadataservice metadata service
+VARSIG5	loglevel log level loglevel log level
+VARSIG4	loggerpackage logger loggerpackage logger
+COMMENTS	logging configuration operations
+CLASSES	loggingoperations logging operations
+VARSIG1	pathresolver path resolver pathresolver path resolver
+VARSIG0	filemanager file manager filemanager file manager
+METHODS	loggingoperations logging operations isconfigureloggingavailable configure logging configurelogging configure logging setupproperties setup properties setupwebxml setup web xml
+MTHSIG4	setupwebxml setup web xml
+VARSIG10	exception
+MTHSIG0	loggingoperations logging operations filemanager file manager filemanager file manager pathresolver path resolver pathresolver path resolver metadataservice metadata service metadataservice metadata service
+MTHSIG1	isconfigureloggingavailable configure logging
+PACKAGE	springframework roo addon logging
+MTHSIG2	configurelogging configure logging loglevel log level loglevel log level loggerpackage logger loggerpackage logger
+MTHSIG3	setupproperties setup properties loglevel log level loglevel log level loggerpackage logger loggerpackage logger
+VARIABLES	filemanager file manager pathresolver path resolver metadataservice metadata service loglevel log level loggerpackage logger loglevel log level loggerpackage logger ioe packagename ioe filemanager file manager pathresolver path resolver metadataservice metadata service filepath file path log jmutablefile log mutable file props templateinputstream template input stream projectmetadata project metadata toplevelpackage top level filepath file path webxmlmutablefile web xml mutable file document rootelement root element log jcontextparam log context log jcontextparamname log context log jcontextparamvalue log context log jlistener log listener log jlistenerclass log listener ctx listener

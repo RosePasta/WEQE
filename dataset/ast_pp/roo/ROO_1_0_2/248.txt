@@ -1,0 +1,30 @@
+VARSIG7	throwable
+VARSIG6	runtimeexception runtime exception
+VARSIG9	runtimeexception runtime exception
+VARSIG8	commandcallback command callback callback
+VARSIG3	throwable
+VARSIG2	initialmonitoringrequest initial monitoring request initialmonitoringrequest initial monitoring request
+VARSIG5	commandcallback command callback callback
+VARSIG4	throwable
+COMMENTS	implementation link processmanager process manager pass minimum poll negative denotes auto scaling time poll completed poll quick sanity check called correct time don synchronization lock shouldn register initial monitoring request determine thread running don sit wait called milliseconds check thread lock processmanagerstatus process manager status don poll failure background polling thread die acquire lock thread hold process manager status requested operation guarantee scans repeat detected worked clear undo history wrong attempt undo todo review consultation christian sts clearing active process manager activeprocessmanager active process manager clearactiveprocessmanager clear active process manager manual polling timer kick poll negative minimum delay poll auto scaling poll fast duration sliding scale poll record completion time ensure don poll compute milliseconds ensure correctly reflects minimumdelaybetweenpoll minimum delay poll milliseconds pass poll milliseconds pass poll manual interval milliseconds poll execution complete execution time
+VARSIG1	filemonitorservice file monitor service filemonitorservice file monitor service
+VARSIG0	undomanager undo manager undomanager undo manager
+MTHSIG4	logexception log exception throwable
+VARSIG12	minimumdelaybetweenpoll minimum delay poll
+MTHSIG5	dotransactionally transactionally commandcallback command callback callback
+VARSIG11	developmentmode development mode
+MTHSIG6	
+VARSIG10	throwable
+MTHSIG7	isdevelopmentmode development mode
+MTHSIG0	defaultprocessmanager process manager undomanager undo manager undomanager undo manager filemonitorservice file monitor service filemonitorservice file monitor service initialmonitoringrequest initial monitoring request initialmonitoringrequest initial monitoring request
+MTHSIG1	completestartup complete startup
+PACKAGE	springframework roo process manager internal
+MTHSIG2	backgroundpoll background poll
+MTHSIG3	execute commandcallback command callback callback
+MTHSIG8	setdevelopmentmode set development mode developmentmode development mode
+MTHSIG9	setminimumdelaybetweenpoll set minimum delay poll minimumdelaybetweenpoll minimum delay poll
+MTHSIG11	getlastpollduration poll duration
+CLASSES	defaultprocessmanager process manager
+METHODS	defaultprocessmanager process manager completestartup complete startup backgroundpoll background poll execute logexception log exception dotransactionally transactionally isdevelopmentmode development mode setdevelopmentmode set development mode setminimumdelaybetweenpoll set minimum delay poll getminimumdelaybetweenpoll minimum delay poll getlastpollduration poll duration
+MTHSIG10	getminimumdelaybetweenpoll minimum delay poll
+VARIABLES	undomanager undo manager filemonitorservice file monitor service initialmonitoringrequest initial monitoring request callback callback developmentmode development mode minimumdelaybetweenpoll minimum delay poll logger developmentmode development mode undomanager undo manager filemonitorservice file monitor service initialmonitoringrequest initial monitoring request minimumdelaybetweenpoll minimum delay poll lastpolltime poll time lastpollduration poll duration root message trace result effectiveminimumdelaybetweenpoll effective minimum delay poll started

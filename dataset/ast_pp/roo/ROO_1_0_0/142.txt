@@ -1,0 +1,18 @@
+VARSIG3	javasymbolname symbol fieldname field
+VARSIG2	fieldmetadata field metadata fieldmetadata field metadata
+VARSIG5	methodmetadata metadata methodmetadata metadata
+VARSIG4	javasymbolname symbol
+COMMENTS	represents mutable operations link classorinterfacetypedetails type details instance type annotations empty adds type level annotation existing annotation link javatype type defined type annotation add required removes type level annotation link javatype type annotation exist annotationtype annotation type remove required adds field field existing fieldmetadata field metadata add required removes existing field field exist fieldname field remove required adds parameter types exist methodmetadata metadata add required
+CLASSES	mutableclassorinterfacetypedetails mutable type details
+VARSIG1	javatype type annotationtype annotation type
+VARSIG0	annotationmetadata annotation metadata annotation
+METHODS	gettypeannotations type annotations addtypeannotation add type annotation removetypeannotation remove type annotation addfield add field removefield remove field addenumconstant add constant addmethod add
+MTHSIG4	removefield remove field javasymbolname symbol fieldname field
+MTHSIG5	addenumconstant add constant javasymbolname symbol
+MTHSIG6	addmethod add methodmetadata metadata methodmetadata metadata
+MTHSIG0	gettypeannotations type annotations
+MTHSIG1	addtypeannotation add type annotation annotationmetadata annotation metadata annotation
+PACKAGE	springframework roo classpath details
+MTHSIG2	removetypeannotation remove type annotation javatype type annotationtype annotation type
+MTHSIG3	addfield add field fieldmetadata field metadata fieldmetadata field metadata
+VARIABLES	annotation annotationtype annotation type fieldmetadata field metadata fieldname field methodmetadata metadata

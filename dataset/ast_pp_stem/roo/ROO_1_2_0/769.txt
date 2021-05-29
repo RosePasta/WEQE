@@ -1,0 +1,11 @@
+MTHSIG4	getoper oper 
+MTHSIG0	undoev undo event undooper undo oper oper 
+MTHSIG1	isundo 
+PACKAGE	springframework roo file undo 
+MTHSIG2	isreset reset 
+MTHSIG3	isflush flush 
+COMMENTS	event deliv link undolisten undo listen field commit 
+CLASSES	undoev undo event 
+VARIABLES	oper oper undooper undo oper 
+VARSIG0	undooper undo oper oper 
+METHODS	undoev undo event isundo isreset reset isflush flush getoper oper 

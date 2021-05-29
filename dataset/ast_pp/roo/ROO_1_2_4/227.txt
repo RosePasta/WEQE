@@ -1,0 +1,12 @@
+MTHSIG0	setauthenticationmanager set authentication manager authenticationmanager authentication manager authenticationmanager authentication manager
+VARSIG3	filterchain filter chain chain
+MTHSIG1	dofilter filter servletrequest servlet request request servletresponse servlet response response filterchain filter chain chain
+VARSIG2	servletresponse servlet response response
+PACKAGE	top level segment
+VARSIG4	authenticationexception authentication exception
+COMMENTS	
+CLASSES	googleauthenticationfilter google authentication filter
+VARIABLES	authenticationmanager authentication manager request response chain authenticationmanager authentication manager ads authenticationfailurehandler authentication failure handler userservice user service authentication user email token
+VARSIG1	servletrequest servlet request request
+VARSIG0	authenticationmanager authentication manager authenticationmanager authentication manager
+METHODS	setauthenticationmanager set authentication manager dofilter filter

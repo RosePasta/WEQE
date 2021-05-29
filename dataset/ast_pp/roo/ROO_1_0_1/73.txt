@@ -1,0 +1,45 @@
+VARSIG7	link
+VARSIG6	messagecode message code
+VARSIG9	menucategoryid menu category
+VARSIG8	exception
+VARSIG3	javasymbolname symbol menucategorylabel menu category label
+VARSIG2	menucategoryid menu category
+VARSIG5	javasymbolname symbol menuitemlabel menu item label
+VARSIG4	menuitemid menu item
+COMMENTS	generates jsp menu management menu items addition menu categories menu items category menu item identifier exists overwritten replaced addons determine category menu item identifiers clashes addons recommended category identifier naming convention addon intention category intention represents identifier diffentiate categories addon recommended menu item identifier naming convention addon intention menu item menucategoryid menu category identifier menu category required menucategorylabel menu category label category label required menuitemid menu item menu item identifier required menuitemlabel menu item label menu item label required link menu item link required root element menu menu identifier allowing decorations menu check existence menu category indentifier exists create check existence menu item indentifier exists create check plural entity changed impacts access spring message element check code find menu items category starts menuitemidprefix menu item prefix find menu item category exists menu file exists logic earlier copied template disk changed updated created build representation jsp mutablefile mutable file write contents jspcontent jsp content file verify file changed write file file existing file contents wrote file file existed contained content property throwing exception file exist propertyfilepath property file path location property file required propertyfilename property filename property file path required key property key update required property set property key required override order alphabetically retrieves property returning property file exist propertyfilepath property file path location property file required propertyfilename property filename property file path required key property key retrieve required property property file requested property exist
+VARSIG19	nodelist node list towrite write
+VARSIG1	pathresolver path resolver pathresolver path resolver
+VARSIG18	ioexception exception ioe
+VARSIG0	filemanager file manager filemanager file manager
+VARSIG17	exception
+MTHSIG4	getmenufile menu file
+VARSIG12	exception
+MTHSIG5	writetodiskifnecessary write disk nodelist node list towrite write
+VARSIG11	list allowedmenuids allowed menu ids
+MTHSIG6	setproperty set property path propertyfilepath property file path propertyfilename property filename key
+VARSIG10	menuitemidprefix menu item prefix
+MTHSIG7	getproperty property path propertyfilepath property file path propertyfilename property filename key
+VARSIG31	ioexception exception ioe
+MTHSIG0	menuoperations menu operations filemanager file manager filemanager file manager pathresolver path resolver pathresolver path resolver
+VARSIG16	exception
+MTHSIG1	addmenuitem add menu item menucategoryid menu category javasymbolname symbol menucategorylabel menu category label menuitemid menu item javasymbolname symbol menuitemlabel menu item label messagecode message code link
+VARSIG15	menuitemid menu item
+PACKAGE	springframework roo addon web menu
+MTHSIG2	cleanupmenuitems clean menu items menucategoryid menu category menuitemidprefix menu item prefix list allowedmenuids allowed menu ids
+VARSIG14	menucategoryid menu category
+MTHSIG3	cleanupmenuitem clean menu item menucategoryid menu category menuitemid menu item
+VARSIG13	element element
+VARSIG30	key
+CLASSES	menuoperations menu operations
+VARSIG29	propertyfilename property filename
+VARSIG28	path propertyfilepath property file path
+METHODS	menuoperations menu operations addmenuitem add menu item cleanupmenuitems clean menu items cleanupmenuitem clean menu item getmenufile menu file writetodiskifnecessary write disk setproperty set property getproperty property
+VARSIG23	propertyfilename property filename
+VARSIG22	path propertyfilepath property file path
+VARSIG21	ioexception exception ioe
+VARSIG20	ioexception exception ignoreandjustoverwriteit ignore overwrite
+VARSIG27	ioexception exception ioe
+VARSIG26	ioexception exception ioe
+VARSIG25	
+VARSIG24	key
+VARIABLES	filemanager file manager pathresolver path resolver menucategoryid menu category menucategorylabel menu category label menuitemid menu item menuitemlabel menu item label messagecode message code link menucategoryid menu category menuitemidprefix menu item prefix allowedmenuids allowed menu ids element menucategoryid menu category menuitemid menu item ioe towrite write ignoreandjustoverwriteit ignore overwrite ioe propertyfilepath property file path propertyfilename property filename key ioe ioe propertyfilepath property file path propertyfilename property filename key ioe filemanager file manager pathresolver path resolver menufile menu file document rootelement root element categorywrapper category wrapper categoryroot category root messageresourceid message resource categorylabel category label menuitem menu item menuitemresourceid menu item resource url createlink create link message entitylabel entity label message document elements document element existingmenu existing menu bytearrayoutputstream array output stream jspcontent jsp content mutablefile mutable file existing filepath file path mutablefile mutable file props filepath file path mutablefile mutable file props

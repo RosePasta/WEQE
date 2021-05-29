@@ -1,0 +1,10 @@
+MTHSIG0	addshellstatuslistener add shell status listener shellstatuslistener shell status listener shellstatuslistener shell status listener
+MTHSIG1	removeshellstatuslistener remove shell status listener shellstatuslistener shell status listener shellstatuslistener shell status listener
+PACKAGE	springframework roo shell event
+MTHSIG2	getshellstatus shell status
+COMMENTS	implemented shells support publication shell status implementations required provide guarantees respect order notifications delivered listeners implementations permit modification listener list delivering event notifications listeners listeners receive guarantee addition removal listener list effective event notification proceeding implementations ensure status notifications delivered actual change place registers status listener shellstatuslistener shell status listener register removes existing status listener presented status listener returns exception shellstatuslistener shell status listener remove returns current shell status current status
+CLASSES	shellstatusprovider shell status provider
+VARIABLES	shellstatuslistener shell status listener shellstatuslistener shell status listener
+VARSIG1	shellstatuslistener shell status listener shellstatuslistener shell status listener
+VARSIG0	shellstatuslistener shell status listener shellstatuslistener shell status listener
+METHODS	addshellstatuslistener add shell status listener removeshellstatuslistener remove shell status listener getshellstatus shell status

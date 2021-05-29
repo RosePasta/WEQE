@@ -1,0 +1,11 @@
+MTHSIG4	isundoing
+MTHSIG0	undoevent undo event undooperation undo operation operation
+MTHSIG1	getoperation operation
+PACKAGE	springframework roo file undo
+MTHSIG2	isflushing flushing
+MTHSIG3	isresetting resetting
+COMMENTS	event delivered link undolistener undo listener committing
+CLASSES	undoevent undo event
+VARIABLES	operation undooperation undo operation operation
+VARSIG0	undooperation undo operation operation
+METHODS	undoevent undo event getoperation operation isflushing flushing isresetting resetting isundoing

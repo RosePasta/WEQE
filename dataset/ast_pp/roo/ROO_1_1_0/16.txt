@@ -1,0 +1,8 @@
+MTHSIG0	getdestinationpackage destination
+MTHSIG1	setdestinationpackage set destination javapackage destinationpackage destination
+PACKAGE	springframework roo addon dbre
+COMMENTS	link dbredatabaselistenerimpl dbre database listener impl required osgi scr
+CLASSES	dbredatabaselistener dbre database listener
+VARIABLES	destinationpackage destination
+VARSIG0	javapackage destinationpackage destination
+METHODS	getdestinationpackage destination setdestinationpackage set destination

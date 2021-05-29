@@ -1,0 +1,9 @@
+MTHSIG0	iscommandavailable command
+MTHSIG1	command command
+PACKAGE	springframework roo addon oscommands
+COMMENTS	command type execution commands spring roo shell constants fields command
+CLASSES	oscommands commands
+VARIABLES	command logger osoperations operations
+VARSIG1	ioexception exception
+VARSIG0	clioption cli option key command mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified command execute command
+METHODS	iscommandavailable command command

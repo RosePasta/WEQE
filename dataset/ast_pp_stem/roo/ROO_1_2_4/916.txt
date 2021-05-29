@@ -1,0 +1,41 @@
+VARSIG7	javatyp type javatyp type 
+VARSIG6	path path 
+VARSIG9	relativepath rel path 
+VARSIG8	path path 
+VARSIG3	physicalpath physic path 
+VARSIG2	identifi 
+VARSIG5	javatyp type javatyp type 
+VARSIG4	logicalpath logic path path 
+COMMENTS	osgi compon method locat link physicalpath physic path constru parent present identifi identifi locat parent requir match parent pathresolvingstrategi path resolv strategi method 
+VARSIG19	path subpath path 
+VARSIG1	pathresolvingstrategi path resolv strategi pathresolvingstrategi path resolv strategi 
+VARSIG18	projectdirectori project directori 
+VARSIG0	componentcontext compon context context 
+VARSIG17	pathresolvingstrategi path resolv strategi otherstrategi strategi 
+MTHSIG4	getfocusedcanonicalpath focus canon path path path javatyp type javatyp type 
+VARSIG12	logicalpath logic path path 
+MTHSIG5	getfocusedidentifi focus identifi path path relativepath rel path 
+VARSIG11	path path 
+MTHSIG6	getfocusedpath focus path path path 
+VARSIG10	path path 
+MTHSIG7	getfocusedroot focus root path path 
+MTHSIG0	activ componentcontext compon context context 
+VARSIG16	logicalpath logic path logicalpath logic path 
+MTHSIG1	bindpathresolvingstrategi bind path resolv strategi pathresolvingstrategi path resolv strategi pathresolvingstrategi path resolv strategi 
+VARSIG15	physicalpath physic path modulepath modul path 
+PACKAGE	springframework roo project 
+MTHSIG2	getapplicablephysicalpath applic physic path identifi 
+VARSIG14	sourceonli sourc 
+MTHSIG3	getcanonicalpath canon path logicalpath logic path path javatyp type javatyp type 
+VARSIG13	relativepath rel path 
+MTHSIG8	getidentifi identifi logicalpath logic path path relativepath rel path 
+MTHSIG9	getpath path sourceonli sourc 
+MTHSIG13	populatepath popul path projectdirectori project directori 
+MTHSIG14	unbindpathresolvingstrategi unbind path resolv strategi pathresolvingstrategi path resolv strategi pathresolvingstrategi path resolv strategi 
+MTHSIG11	getroot root logicalpath logic path logicalpath logic path 
+MTHSIG12	isact activ 
+CLASSES	defaultpathresolvingstrategi path resolv strategi 
+METHODS	activ bindpathresolvingstrategi bind path resolv strategi getapplicablephysicalpath applic physic path getcanonicalpath canon path getfocusedcanonicalpath focus canon path getfocusedidentifi focus identifi getfocusedpath focus path getfocusedroot focus root getidentifi identifi getpath path getphysicalpath physic path getroot root isact activ populatepath popul path unbindpathresolvingstrategi unbind path resolv strategi 
+VARSIG20	pathresolvingstrategi path resolv strategi pathresolvingstrategi path resolv strategi 
+MTHSIG10	getphysicalpath physic path 
+VARIABLES	context pathresolvingstrategi path resolv strategi identifi path javatyp type path javatyp type path relativepath rel path path path path relativepath rel path sourceonli sourc modulepath modul path logicalpath logic path otherstrategi strategi projectdirectori project directori subpath path pathresolvingstrategi path resolv strategi otherpathresolvingstrategi path resolv strategi rootmodulepath root modul path possiblepar parent result pathinfo path info root 

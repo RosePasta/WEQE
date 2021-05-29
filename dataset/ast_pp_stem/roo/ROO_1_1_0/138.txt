@@ -1,0 +1,18 @@
+VARSIG7	throwabl 
+VARSIG6	applicationdetailsact applic detail activ applicationdetailsact applic detail activ 
+VARSIG9	requestev request event requestev request event 
+VARSIG8	userinformationproxi user proxi userinformationproxi user proxi 
+VARSIG3	placecontrol place control placecontrol place control 
+VARSIG2	eventbu event bu eventbu event bu 
+VARSIG5	applicationmasteract applic master activ applicationmasteract applic master activ 
+VARSIG4	placehistoryfactori place histori factori placehistoryfactori place histori factori 
+COMMENTS	applic brows entiti add handler setup activ hide load messag user shell add remot log handler load statu request isn servic check authent failur mismatch browser histori integr 
+CLASSES	scaffolddesktopapp scaffold desktop app 
+VARSIG1	applicationrequestfactori applic request factori requestfactori request factori 
+VARSIG0	scaffolddesktopshel scaffold desktop shell shell 
+METHODS	scaffolddesktopapp scaffold desktop app init 
+MTHSIG0	scaffolddesktopapp scaffold desktop app scaffolddesktopshel scaffold desktop shell shell applicationrequestfactori applic request factori requestfactori request factori eventbu event bu eventbu event bu placecontrol place control placecontrol place control placehistoryfactori place histori factori placehistoryfactori place histori factori applicationmasteract applic master activ applicationmasteract applic master activ applicationdetailsact applic detail activ applicationdetailsact applic detail activ 
+MTHSIG1	 
+PACKAGE	top level segment 
+MTHSIG2	init 
+VARIABLES	shell requestfactori request factori eventbu event bu placecontrol place control placehistoryfactori place histori factori applicationmasteract applic master activ applicationdetailsact applic detail activ userinformationproxi user proxi requestev request event log shell requestfactori request factori eventbu event bu placecontrol place control placehistoryfactori place histori factori applicationmasteract applic master activ applicationdetailsact applic detail activ load receiv provid load timeout cach proxyplacetolistplac proxi place list place masteractivitymap master activ map masteractivitymanag master activ manag proxylistplacepick proxi list place picker listplacepickerview list place picker view detailsactivitymanag detail activ manag mapper placehistoryhandl place histori handler defaultplac place 

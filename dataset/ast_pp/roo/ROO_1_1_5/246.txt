@@ -1,0 +1,12 @@
+MTHSIG4	getselectedlocale selected locale
+MTHSIG5	setselectedlocale set selected locale
+MTHSIG0	localebean locale bean
+MTHSIG1	getlocale locale
+PACKAGE	
+MTHSIG2	setlocale set locale locale locale
+MTHSIG3	getlocales locales
+COMMENTS	
+CLASSES	localebean locale bean
+VARIABLES	locale locale items application supportedlocales supported locales locale locales localestring locale
+VARSIG0	locale locale
+METHODS	localebean locale bean getlocale locale setlocale set locale getlocales locales getselectedlocale selected locale setselectedlocale set selected locale

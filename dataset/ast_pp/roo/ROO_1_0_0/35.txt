@@ -1,0 +1,15 @@
+VARSIG3	jmsprovider jms provider
+VARSIG2	object obj
+COMMENTS	jms providers jms add
+CLASSES	jmsprovider jms provider
+VARSIG1	adapter
+VARSIG0	provider
+METHODS	jmsprovider jms provider getadapter adapter equals compareto compare tostring getkey key
+MTHSIG4	tostring
+MTHSIG5	getkey key
+MTHSIG0	jmsprovider jms provider provider adapter
+MTHSIG1	getadapter adapter
+PACKAGE	springframework roo addon jms
+MTHSIG2	equals object obj
+MTHSIG3	compareto compare jmsprovider jms provider
+VARIABLES	provider adapter obj provider adapter activemq memory result tsc

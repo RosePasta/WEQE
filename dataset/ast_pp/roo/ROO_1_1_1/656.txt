@@ -1,0 +1,7 @@
+MTHSIG0	extractrootcause extract root throwable
+PACKAGE	springframework roo support util
+COMMENTS	methods working exceptions obtains root exception extract root required root original exception unavailable guaranteed
+CLASSES	exceptionutils exception utils
+VARIABLES	root
+VARSIG0	throwable
+METHODS	extractrootcause extract root

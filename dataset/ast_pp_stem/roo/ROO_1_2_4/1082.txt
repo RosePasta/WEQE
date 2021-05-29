@@ -1,0 +1,16 @@
+VARSIG3	 
+VARSIG2	qname 
+VARSIG5	text 
+VARSIG4	node node 
+COMMENTS	simpl conveni builder xml code element creat element instanc element requir empti document parent document requir add attribut current element qname attribut requir empti attribut requir current xmlelementbuild xml element builder add child node current element node node requir builder current element element instanc element add text content current element overwrit previou text content text text content requir empti builder current element 
+CLASSES	xmlelementbuild xml element builder 
+VARSIG1	document document 
+VARSIG0	 
+METHODS	xmlelementbuild xml element builder addattribut add attribut addchild add child build settext set text 
+MTHSIG4	settext set text text 
+MTHSIG0	xmlelementbuild xml element builder document document 
+MTHSIG1	addattribut add attribut qname 
+PACKAGE	springframework roo support util 
+MTHSIG2	addchild add child node node 
+MTHSIG3	build 
+VARIABLES	document qname node text element 

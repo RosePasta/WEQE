@@ -1,0 +1,16 @@
+VARSIG3	object obj 
+VARSIG2	mailprotocol mail protocol 
+COMMENTS	protocol email add 
+CLASSES	mailprotocol mail protocol 
+VARSIG1	protocol 
+VARSIG0	protocollabel protocol label 
+METHODS	mailprotocol mail protocol compareto compar equal getkei kei getprotocol protocol hashcod hash code tostr 
+MTHSIG4	getprotocol protocol 
+MTHSIG5	hashcod hash code 
+MTHSIG6	tostr 
+MTHSIG0	mailprotocol mail protocol protocollabel protocol label protocol 
+MTHSIG1	compareto compar mailprotocol mail protocol 
+PACKAGE	springframework roo addon email 
+MTHSIG2	equal object obj 
+MTHSIG3	getkei kei 
+VARIABLES	protocollabel protocol label protocol obj imap pop pop smtp protocol protocollabel protocol label result prime result builder 

@@ -1,0 +1,71 @@
+VARSIG39	methodmetadata metadata methodmetadata meta data
+MTHSIG4	builduixml build xml templatecontents template contents destfile dest file
+VARSIG34	destinationmetadataid destination metadata
+MTHSIG5	buildrequest build request
+VARSIG33	methodmetadata metadata methodmetadata meta data
+MTHSIG6	buildinstancerequestmethod build instance request destinationmetadataid destination metadata list methodmetadatabuilder metadata builder methods methodmetadata metadata methodmetadata meta data
+VARSIG32	list methodmetadatabuilder metadata builder methods
+MTHSIG7	buildstaticrequestmethod build request destinationmetadataid destination metadata list methodmetadatabuilder metadata builder methods methodmetadata metadata methodmetadata meta data
+VARSIG31	destinationmetadataid destination metadata
+MTHSIG0	gwtmetadata gwt metadata identifier map gwttype gwt type javatype type mirrortypemap mirror type map classorinterfacetypedetails type details governortypedetails governor type details path mirrortypepath mirror type path entitymetadata entity metadata entitymetadata entity metadata map javasymbolname symbol gwtproxyproperty gwt proxy property fieldtypemap field type map map javatype type javatype type gwttypemap gwt type map
+VARSIG38	list methodmetadatabuilder metadata builder methods
+MTHSIG1	resolveentityinformation resolve entity
+VARSIG37	destinationmetadataid destination metadata
+PACKAGE	springframework roo addon gwt
+MTHSIG2	buildproxy build proxy
+VARSIG36	methodmetadata metadata methodmetadata meta data
+MTHSIG3	buildtype build type gwttype gwt type desttype dest type classorinterfacetypedetails type details templateclass template list memberholdingtypedetails member holding type details extendstypes types
+VARSIG35	list methodmetadatabuilder metadata builder methods
+MTHSIG8	buildrequestmethod build request destinationmetadataid destination metadata list methodmetadatabuilder metadata builder methods methodmetadata metadata methodmetadata meta data javatype type methodreturntype type
+VARSIG30	exception
+MTHSIG9	getdestinationmetadataid destination metadata gwttype gwt type gwttype gwt type
+CLASSES	gwtmetadata gwt metadata
+VARSIG29	element
+VARSIG28	element
+METHODS	gwtmetadata gwt metadata resolveentityinformation resolve entity buildproxy build proxy buildtype build type builduixml build xml buildrequest build request buildinstancerequestmethod build instance request buildstaticrequestmethod build request buildrequestmethod build request getdestinationmetadataid destination metadata getdestinationjavatype destination type createadditionalannotation create additional annotation createannotations create annotations getmetadataidentifiertype metadata identifier type createidentifier create identifier getjavatype type getpath path
+VARSIG23	fieldname field
+VARSIG22	element element
+VARSIG21	element element
+VARSIG20	systemid system
+VARSIG27	javasymbolname symbol fieldname field
+VARSIG26	element element
+VARSIG25	element element
+VARSIG24	fieldname field
+VARSIG7	annotationmetadatabuilder annotation metadata builder annotationbuilder annotation builder
+VARSIG6	map javatype type javatype type gwttypemap gwt type map
+VARSIG9	javasymbolname symbol propertyname property
+VARSIG8	annotationmetadatabuilder annotation metadata builder existingannotation existing annotation
+VARSIG3	path mirrortypepath mirror type path
+VARSIG2	classorinterfacetypedetails type details governortypedetails governor type details
+VARSIG5	map javasymbolname symbol gwtproxyproperty gwt proxy property fieldtypemap field type map
+VARSIG4	entitymetadata entity metadata entitymetadata entity metadata
+COMMENTS	metadata gwt gwtmetadataprovider gwt metadata provider care checks create fresh representations types responsible lookup special fields lookup find count methods store proxy proxy physicaltypemetadata physical type meta data representation disk proxy create classorinterfacetypedetailsbuilder type details builder proxy overridden proxy created add proxyforname proxy foo bar foo annotation add annotations don exist target inherit entityproxy entity proxy extension defined decide fields mapping remember natural ordering processing order proxy getters alphabetically getter methods proxy add isn leaves user defined methods play setter methods proxy methods proxy sorted alphabetically sense type process order fields declared database field field add datadictionary data dictionary order properties desktop client primary secondary properties mobile client add isn leaves user defined methods play behaviour service employee google gwt requestfactory shared instancerequest instance request remove google gwt requestfactory shared request list employeeproxy employee proxy findallemployees find employees gwttype gwt type mirror producing required mid mirror applicable current governor gwttype gwt type mirror producing required type mirror applicable current governor newly created type annotations list complete roogwtmirroredfrom roo gwt mirrored annotation properly setup
+VARSIG19	publicid
+VARSIG1	map gwttype gwt type javatype type mirrortypemap mirror type map
+VARSIG18	destfile dest file
+VARSIG0	identifier
+VARSIG17	templatecontents template contents
+VARSIG12	methodmetadatabuilder metadata builder builder
+VARSIG11	javasymbolname symbol propertyname property
+VARSIG10	methodmetadatabuilder metadata builder builder
+VARSIG16	exception
+VARSIG15	list memberholdingtypedetails member holding type details extendstypes types
+VARSIG14	classorinterfacetypedetails type details templateclass template
+VARSIG13	gwttype gwt type desttype dest type
+MTHSIG15	getjavatype type metadataidentificationstring metadata identification
+MTHSIG16	getpath path metadataidentificationstring metadata identification
+MTHSIG13	getmetadataidentifiertype metadata identifier type
+MTHSIG14	createidentifier create identifier javatype type javatype type path path
+MTHSIG11	createadditionalannotation create additional annotation javatype type servertype server type
+MTHSIG12	createannotations create annotations
+VARSIG45	javatype type javatype type
+VARSIG44	javatype type servertype server type
+VARSIG43	gwttype gwt type gwttype gwt type
+VARSIG42	gwttype gwt type gwttype gwt type
+VARSIG48	metadataidentificationstring metadata identification
+VARSIG47	metadataidentificationstring metadata identification
+VARSIG46	path path
+MTHSIG10	getdestinationjavatype destination type gwttype gwt type gwttype gwt type
+VARIABLES	identifier mirrortypemap mirror type map governortypedetails governor type details mirrortypepath mirror type path entitymetadata entity metadata fieldtypemap field type map gwttypemap gwt type map annotationbuilder annotation builder existingannotation existing annotation propertyname property builder propertyname property builder desttype dest type templateclass template extendstypes types templatecontents template contents destfile dest file publicid systemid system element element fieldname field fieldname field element element fieldname field destinationmetadataid destination metadata methods methodmetadata meta data destinationmetadataid destination metadata methods methodmetadata meta data destinationmetadataid destination metadata methods methodmetadata meta data methodreturntype type paramtype type gwttype gwt type gwttype gwt type servertype server type javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification type type entitymetadata entity metadata findallmethod find findmethod find countmethod count findentriesmethod find entries mirrortypemap mirror type map governortypedetails governor type details mirrortypepath mirror type path orderedproxyfields ordered proxy fields gwttypemap gwt type map typename type idfield field idpropertyname property versionfield version field versionpropertyname version property destinationmetadataid destination metadata typedetailsbuilder type details builder typeannotations type annotations exists methodreturntype type methodname methodparametertypes parameter types methodparameternames parameter names methodbuilder builder match methodreturntype type methodname methodparametertypes parameter types methodparameternames parameter names methodbuilder builder match transformer builder templatedocument template document existingdocument existing document existingholdingelement existing holding element templateholdingelement template holding element templateelementmap template element map existingelementmap existing element map elementstoadd elements add elementstoremove elements remove importednode imported node sortedelements sorted elements element result source destinationmetadataid destination metadata typeannotations type annotations constructors fields methods extendstypes types implementstypes types typedetailsbuilder type details builder methodreturntypeargs type methodreturntype type methodreturntypeargs type methodreturntype type methodname methodparametertypes parameter types methodparameternames parameter names paramtypes types jtype servertypeattributes server type attributes annotations roogwtmirroredfromconfig roo gwt mirrored config
+VARSIG41	annotatedjavatype annotated type paramtype type
+VARSIG40	javatype type methodreturntype type

@@ -1,0 +1,30 @@
+VARSIG7	path
+VARSIG6	pattern
+VARSIG9	map uritemplatevariables uri template variables
+VARSIG8	fullmatch full match
+VARSIG3	path
+VARSIG2	pattern
+VARSIG5	path
+VARSIG4	pattern
+COMMENTS	pathmatcher path matcher implementation ant style path patterns examples path separator set path separator pattern parsing ant match path pattern pattern pattern match path path test fullmatch full match full pattern match required pattern match base path sufficient supplied path matched didn match elements path exhausted match pattern exhausted pattern failure path start matches pattern exhausted situation skip find pattern padidxstart pad idx start padidxtmp pad idx tmp str stridxstart str idx start stridxend str idx tests matches pattern pattern special characters characters character pattern pattern match str matched pattern matches pattern pattern full path determine pattern mapped docs cvs commit html docs cvs commit html docs docs cvs commit cvs commit docs cvs html docs cvs commit html commit html docs add path parts wildcarded pattern append trailing path parts
+VARSIG1	path
+VARSIG0	pathseparator path separator
+MTHSIG4	domatch match pattern path fullmatch full match map uritemplatevariables uri template variables
+VARSIG12	map uritemplatevariables uri template variables
+MTHSIG5	matchstrings match strings pattern str map uritemplatevariables uri template variables
+VARSIG11	str
+MTHSIG6	extractpathwithinpattern extract path pattern pattern path
+VARSIG10	pattern
+MTHSIG7	extracturitemplatevariables extract uri template variables pattern path
+MTHSIG0	setpathseparator set path separator pathseparator path separator
+VARSIG16	path
+MTHSIG1	ispattern pattern path
+VARSIG15	pattern
+PACKAGE	springframework roo support ant
+MTHSIG2	match pattern path
+VARSIG14	path
+MTHSIG3	matchstart match start pattern path
+VARSIG13	pattern
+CLASSES	antpathmatcher ant path matcher
+METHODS	setpathseparator set path separator ispattern pattern match matchstart match start domatch match matchstrings match strings extractpathwithinpattern extract path pattern extracturitemplatevariables extract uri template variables
+VARIABLES	pathseparator path separator path pattern path pattern path pattern path fullmatch full match uritemplatevariables uri template variables pattern str uritemplatevariables uri template variables pattern path pattern path path separator pathseparator path separator pattdirs patt dirs pathdirs path dirs pattidxstart patt idx start pattidxend patt idx pathidxstart path idx start pathidxend path idx patdir pat dir patdir pat dir patidxtmp pat idx tmp patlength pat length strlength str length foundidx idx subpat pat substr str matcher patternparts pattern parts pathparts path parts builder puts patternpart pattern variables result

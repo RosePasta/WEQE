@@ -1,0 +1,26 @@
+VARSIG7	javatyp type aspectnam aspect 
+VARSIG6	metadataidentificationstr metadata identif 
+VARSIG9	itdfilenam filenam 
+VARSIG8	physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+VARSIG3	componentcontext compon context context 
+VARSIG2	logicalpath logic path path 
+VARSIG5	itdtypedetail type detail itdtypedetail type detail 
+VARSIG4	metadataidentificationstr metadata identif 
+COMMENTS	implement link findermetadataprovid finder metadata provid ignor trigger annot provid discov type finder governor type detail safe work mid metadata depend lookup metadata depend sortedmap sort map ensur emit finder order time determin itd reli ensur notifi chang inform depend metadata queryhold queri holder immut findermetadata finder metadata accessor 
+VARSIG1	javatyp type javatyp type 
+VARSIG0	componentcontext compon context context 
+MTHSIG4	getitduniquenessfilenamesuffix uniqu filenam suffix 
+VARSIG12	token token 
+MTHSIG5	getlocalmidtorequest local mid request itdtypedetail type detail itdtypedetail type detail 
+VARSIG11	queryhold queri holder queryhold queri holder 
+MTHSIG6	getmetadata metadata metadataidentificationstr metadata identif javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata itdfilenam filenam 
+VARSIG10	methodnam 
+MTHSIG7	getprovidestyp type 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	createlocalidentifi creat local identifi javatyp type javatyp type logicalpath logic path path 
+PACKAGE	springframework roo addon finder 
+MTHSIG2	deactiv componentcontext compon context context 
+MTHSIG3	getgovernorphysicaltypeidentifi governor physic type identifi metadataidentificationstr metadata identif 
+CLASSES	findermetadataproviderimpl finder metadata provid impl 
+METHODS	activ createlocalidentifi creat local identifi deactiv getgovernorphysicaltypeidentifi governor physic type identifi getitduniquenessfilenamesuffix uniqu filenam suffix getlocalmidtorequest local mid request getmetadata metadata getprovidestyp type 
+VARIABLES	context javatyp type path context metadataidentificationstr metadata identif itdtypedetail type detail metadataidentificationstr metadata identif aspectnam aspect governorphysicaltypemetadata governor physic type metadata itdfilenam filenam methodnam queryhold queri holder token dynamicfinderservic dynam finder servic javatyp type path javatyp type path jpaactiverecordmetadatakei jpa activ record metadata kei jpaactiverecordmetadata jpa activ record metadata entitymanagermethod entiti manag memberdetail member detail plural entitynam entiti queryhold queri holder findernam finder queryhold queri holder methodnamearrai arrai countfindernam count finder countqueryhold count queri holder fieldtoken field token declaredbymid declar mid 

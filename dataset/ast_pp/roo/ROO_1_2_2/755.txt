@@ -1,0 +1,32 @@
+VARSIG7	javatype type parameter
+VARSIG6	annotationmetadata annotation metadata parameterannotation parameter annotation
+VARSIG9	bodydeclaration body declaration
+VARSIG8	parseexception parse exception
+VARSIG3	set javasymbolname symbol typeparameters type parameters
+VARSIG2	constructormetadata constructor metadata constructor
+VARSIG5	annotatedjavatype annotated type constructorparameter constructor parameter
+VARSIG4	annotationmetadata annotation metadata annotation
+COMMENTS	parser implementation link constructormetadata constructor metadata todo parse types javaparser parser source start basic constructor add constructor level annotations parameter annotations add constructor parameters including individual annotations type parameters add parameter annotations applicable parameter type compute parameter compute parameter type add type arguments presented type nameexpr expr importedparametertype imported parameter type javaparserutils parser utils importtypeifrequired type required compilationunitservices compilation unit services getenclosingtypename enclosing type compilationunitservices compilation unit services getimports imports parameter typeargs type add javaparserutils parser utils getreferencetype reference type importedparametertype imported parameter type create parser constructor parameter add list parameters set body body fake constructor javaparser parser parse easiest build simple source required parse locate add constructor verify exists constructor current constructor match parameter types add constructor compilation unit convert parser modifier jdk modifier add declared type parameters list type parameters body lookup parameters names
+VARSIG19	typeparameter type parameter candidate
+VARSIG1	list bodydeclaration body declaration members
+VARSIG18	set javasymbolname symbol typeparameternames type parameter names
+VARSIG0	compilationunitservices compilation unit services compilationunitservices compilation unit services
+VARSIG17	compilationunitservices compilation unit services compilationunitservices compilation unit services
+VARSIG12	constructordeclaration constructor declaration constructordeclaration constructor declaration
+VARSIG11	declaredbymetadataid declared metadata
+VARSIG10	annotatedjavatype annotated type existingparameter existing parameter
+MTHSIG0	addconstructor add constructor compilationunitservices compilation unit services compilationunitservices compilation unit services list bodydeclaration body declaration members constructormetadata constructor metadata constructor set javasymbolname symbol typeparameters type parameters
+VARSIG16	constructordeclaration constructor declaration constructordeclaration constructor declaration
+MTHSIG1	getinstance instance declaredbymetadataid declared metadata constructordeclaration constructor declaration constructordeclaration constructor declaration compilationunitservices compilation unit services compilationunitservices compilation unit services set javasymbolname symbol typeparameternames type parameter names
+VARSIG15	declaredbymetadataid declared metadata
+PACKAGE	springframework roo classpath javaparser details
+MTHSIG2	javaparserconstructormetadatabuilder parser constructor metadata builder declaredbymetadataid declared metadata constructordeclaration constructor declaration constructordeclaration constructor declaration compilationunitservices compilation unit services compilationunitservices compilation unit services set javasymbolname symbol typeparameternames type parameter names
+VARSIG14	set javasymbolname symbol typeparameternames type parameter names
+MTHSIG3	build
+VARSIG13	compilationunitservices compilation unit services compilationunitservices compilation unit services
+CLASSES	javaparserconstructormetadatabuilder parser constructor metadata builder
+METHODS	addconstructor add constructor getinstance instance javaparserconstructormetadatabuilder parser constructor metadata builder build
+VARSIG22	annotationexpr annotation expr annotation
+VARSIG21	annotationexpr annotation expr candidate
+VARSIG20	parameter
+VARIABLES	compilationunitservices compilation unit services members constructor typeparameters type parameters annotation constructorparameter constructor parameter parameterannotation parameter annotation parameter existingparameter existing parameter declaredbymetadataid declared metadata constructordeclaration constructor declaration compilationunitservices compilation unit services typeparameternames type parameter names declaredbymetadataid declared metadata constructordeclaration constructor declaration compilationunitservices compilation unit services typeparameternames type parameter names candidate candidate annotation annotations parameters parameterannotations parameter annotations parametername parameter parametertype parameter type importedtype imported type cit typeargs type bais types bodydeclarations body declarations constructormetadata constructor metadata matchesfully matches fully annotations body declaredbymetadataid declared metadata modifier parameternames parameter names parametertypes parameter types throwstypes types fulltypeparameters full type parameters params currenttypeparam current type parametertype parameter type annotationslist annotations list annotations constructorbuilder constructor builder

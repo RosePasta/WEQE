@@ -1,0 +1,45 @@
+VARSIG7	document document 
+VARSIG6	element tableel tabl element 
+VARSIG9	refer refer 
+VARSIG8	foreignkei foreign kei foreignkei foreign kei 
+VARSIG3	 
+VARSIG2	kei 
+VARSIG5	export 
+VARSIG4	set foreignkei foreign kei foreignkei foreign 
+COMMENTS	assist convert link databas xml dom sax add element child parent element document xml document parent child requir parent parent element add child requir kei option kei requir option roo transform setoutputproperti set output properti outputkei output doctyp system http torqu dtd databas dtd 
+VARSIG19	tabl tabl 
+VARSIG1	element parent 
+VARSIG18	databas databas 
+VARSIG0	document document 
+VARSIG17	document document 
+MTHSIG4	getdatabasedocu databas document databas databas 
+VARSIG12	indextyp type indextyp type 
+MTHSIG5	readdatabas read databas inputstream input stream inputstream input stream 
+VARSIG11	element tableel tabl element 
+MTHSIG6	readdatabasewithdom read databas dom inputstream input stream inputstream input stream 
+VARSIG10	tabl tabl 
+VARSIG32	element optionel option element 
+VARSIG31	element referenceel refer element 
+MTHSIG0	addbooleanoptionel add option element document document element parent kei 
+VARSIG16	 
+MTHSIG1	addforeignkeyel add foreign kei element set foreignkei foreign kei foreignkei foreign export element tableel tabl element document document 
+VARSIG15	kei 
+PACKAGE	springframework roo addon dbre model 
+MTHSIG2	addindic add indic tabl tabl element tableel tabl element indextyp type indextyp type 
+VARSIG14	element indexcolumnel column element 
+MTHSIG3	createoptionel creat option element kei document document 
+VARSIG13	element element 
+VARSIG30	element optionel option element 
+CLASSES	databasexmlutil databas xml util 
+VARSIG29	element foreignkeyel foreign kei element 
+VARSIG28	element columnel column element 
+METHODS	addbooleanoptionel add option element addforeignkeyel add foreign kei element addindic add indic createoptionel creat option element getdatabasedocu databas document readdatabas read databas readdatabasewithdom read databas dom 
+VARSIG23	inputstream input stream inputstream input stream 
+VARSIG22	indexcolumn column indexcolumn column 
+VARSIG21	 
+VARSIG20	column column 
+VARSIG27	element tableel tabl element 
+VARSIG26	inputstream input stream inputstream input stream 
+VARSIG25	except 
+VARSIG24	emptystackexcept empti stack except 
+VARIABLES	document parent kei foreignkei foreign export tableel tabl element document foreignkei foreign kei refer tabl tableel tabl element indextyp type element indexcolumnel column element kei document databas tabl column indexcolumn column inputstream input stream inputstream input stream tableel tabl element columnel column element foreignkeyel foreign kei element optionel option element referenceel refer element optionel option element indextyp type descript foreign foreign tabl local delet updat refer foreignkeyel foreign kei element foreignschemanam foreign schema referenceel refer element element indexcolumnel column element indexcolumn column option document comment databaseel databas element tableel tabl element schemanam schema columnel column element indexel element indexcolumnel column element spf parser contenthandl content handler document databaseel databas element tabl tableel tabl element alia schemanam schema tabl columnel column element type datatypeandnam data type datatyp data type typenam type columns column size scale column foreignkeyel foreign kei element foreignkei foreign kei optionel option element referenceel refer element refer destinationpackag destin databas optionel option element 

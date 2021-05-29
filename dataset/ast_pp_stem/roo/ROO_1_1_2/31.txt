@@ -1,0 +1,54 @@
+MTHSIG22	getcolumnnamepattern column pattern 
+MTHSIG23	getdialect dialect 
+MTHSIG4	gettablenam tabl 
+MTHSIG5	getcolumnnam column 
+MTHSIG6	getschema schema 
+MTHSIG7	createdatabas creat databas 
+MTHSIG0	databaseintrospector databas introspector connect connect schema schema javapackag destinationpackag destin view set includet includ tabl set excludet exclud tabl 
+MTHSIG1	getcatalognam catalog 
+PACKAGE	springframework roo addon dbre model 
+MTHSIG2	getschema schema 
+MTHSIG3	getschemanam schema 
+MTHSIG20	getschemapattern schema pattern 
+MTHSIG21	gettablenamepattern tabl pattern 
+MTHSIG8	gettabl tabl 
+MTHSIG9	ignoret ignor tabl 
+CLASSES	databaseintrospector databas introspector 
+METHODS	databaseintrospector databas introspector getcatalognam catalog getschema schema getschemanam schema gettablenam tabl getcolumnnam column getschema schema createdatabas creat databas gettabl tabl ignoret ignor tabl readcolumn read column readforeignkei read foreign getcascadeact cascad action hasincludedt includ tabl hasexcludedt exclud tabl hastabl tabl readindic read indic findindex find readprimarykeynam read primari kei name getcatalog catalog getschemapattern schema pattern gettablenamepattern tabl pattern getcolumnnamepattern column pattern getdialect dialect 
+VARSIG23	 
+VARSIG22	set indic 
+VARSIG21	 
+VARSIG20	 
+VARSIG24	except 
+VARSIG7	sqlexcept sql except 
+VARSIG6	columnnam column 
+VARSIG9	tabl tabl 
+VARSIG8	tabl tabl 
+VARSIG3	view 
+VARSIG2	javapackag destinationpackag destin 
+VARSIG5	set excludet exclud tabl 
+VARSIG4	set includet includ tabl 
+COMMENTS	creat link databas databas model live databas jdbc check tabl oracl recycl bin tabl ignor catch sqlexcept sql except oracl throw except attempt retriev indic delet tabl exist oracl oracl recycl bin 
+VARSIG19	sqlexcept sql except 
+VARSIG1	schema schema 
+VARSIG18	tabl tabl 
+VARSIG0	connect connect 
+VARSIG17	tabl 
+VARSIG12	actionvalu action 
+VARSIG11	foreignkei foreign kei foreignkei foreign kei 
+VARSIG10	export 
+VARSIG16	tablenam tabl 
+VARSIG15	set tabl 
+VARSIG14	tablenam tabl 
+VARSIG13	tablenam tabl 
+MTHSIG17	findindex find set indic 
+MTHSIG18	readprimarykeynam read primari kei name 
+MTHSIG15	hastabl tabl set tabl tablenam tabl 
+MTHSIG16	readindic read indic tabl tabl 
+MTHSIG13	hasincludedt includ tabl tablenam tabl 
+MTHSIG14	hasexcludedt exclud tabl tablenam tabl 
+MTHSIG11	readforeignkei read foreign tabl tabl export 
+MTHSIG12	getcascadeact cascad action actionvalu action 
+MTHSIG19	getcatalog catalog 
+MTHSIG10	readcolumn read column tabl tabl 
+VARIABLES	connect schema destinationpackag destin view includet includ tabl excludet exclud tabl columnnam column tabl tabl export foreignkei foreign kei actionvalu action tablenam tabl tablenam tabl tabl tablenam tabl tabl tabl indic catalognam catalog schema destinationpackag destin view includet includ tabl excludet exclud tabl tablenam tabl columnnam column schema tabl type tabl column ignor column foreignkei foreign foreigntablenam foreign tabl kei foreignkei foreign kei localcolumnnam local column foreigncolumnnam foreign column refer cascadeact cascad action regex pattern indic type indexnam indexcolumn column columnnam column name productnam product 

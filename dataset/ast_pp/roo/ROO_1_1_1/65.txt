@@ -1,0 +1,15 @@
+VARSIG3	mailprotocol mail protocol
+VARSIG2	object obj
+COMMENTS	protocols email add
+CLASSES	mailprotocol mail protocol
+VARSIG1	protocol
+VARSIG0	protocollabel protocol label
+METHODS	mailprotocol mail protocol getprotocol protocol equals compareto compare tostring getkey key
+MTHSIG4	tostring
+MTHSIG5	getkey key
+MTHSIG0	mailprotocol mail protocol protocollabel protocol label protocol
+MTHSIG1	getprotocol protocol
+PACKAGE	springframework roo addon email
+MTHSIG2	equals object obj
+MTHSIG3	compareto compare mailprotocol mail protocol
+VARIABLES	protocollabel protocol label protocol obj smtp pop pop imap protocollabel protocol label protocol result tsc

@@ -1,0 +1,48 @@
+VARSIG7	databaselisten databas listen listen 
+VARSIG6	runtimeexcept runtim except 
+VARSIG9	schema schema 
+VARSIG8	except 
+VARSIG3	processmanagerstatu process manag statu newstatu statu 
+VARSIG2	processmanagerstatu process manag statu oldstatu statu 
+VARSIG5	databaselisten databas listen listen 
+VARSIG4	processmanagerstatu process manag statu newstatu statu 
+COMMENTS	implement link dbremodelservic dbre model servic time start listen databas simpli call regist listen discov databas listen miss startup event share thei onlin safe mode avoid tell databas separ thei command schema set fallback comput file load note chang schema field getter side free cach copi dbre xml file sourc version forc grab safe mode earlier assert determin schema store schema schema call happen schema read dbre xml file schema deseri disk databas cach don chang notifi leav work store store time load roo thei aeroplan fly sydnei san francisco don databas todo detect gp coordin thei syd sfo lastli let listen write databas xml note xml file store databas databas serial disk requir read databas schema xml note xml file store databas databas schema pars unavail reason read databas xml note xml file store databas databas pars unavail reason requir properti ignor element 
+VARSIG19	databas databas 
+VARSIG1	componentcontext compon context context 
+VARSIG18	runtimeexcept runtim except ignoreandmoveon ignor move 
+VARSIG0	componentcontext compon context context 
+VARSIG17	databaselisten databas listen listen 
+MTHSIG4	binddatabaselisten bind databas listen databaselisten databas listen listen 
+VARSIG12	schema schema 
+MTHSIG5	unbinddatabaselisten unbind databas listen databaselisten databas listen listen 
+VARSIG11	schema schema 
+MTHSIG6	getdatabaseschema databas schema 
+VARSIG10	schema schema 
+MTHSIG7	getlastschema schema 
+MTHSIG0	activ componentcontext compon context context 
+VARSIG16	databas databas 
+MTHSIG1	deactiv componentcontext compon context context 
+VARSIG15	except 
+PACKAGE	springframework roo addon dbre 
+MTHSIG2	onprocessmanagerstatuschang process manag statu chang processmanagerstatu process manag statu oldstatu statu processmanagerstatu process manag statu newstatu statu 
+VARSIG14	safemod safe mode 
+MTHSIG3	considerstartup startup processmanagerstatu process manag statu newstatu statu 
+VARSIG13	forcereadfromdatabas forc read databas 
+MTHSIG8	getdatabas databas schema schema 
+MTHSIG9	refreshdatabas refresh databas schema schema 
+MTHSIG17	getconnectionpropertiesfromdatanucleusconfigur connect properti data nucleu configur 
+MTHSIG18	getdbrexmlpath dbre xml path 
+MTHSIG15	deserializedatabasemetadataifposs deseri databas metadata 
+MTHSIG16	getconnect connect 
+MTHSIG13	serializedatabasemetadatatofil serial databas metadata file databas databas 
+MTHSIG14	deserializeschemametadataifposs deseri schema metadata 
+MTHSIG11	getdatabas databas schema schema forcereadfromdatabas forc read databas safemod safe mode 
+MTHSIG12	publishtolisten publish listen databas databas 
+CLASSES	dbremodelserviceimpl dbre model servic impl 
+METHODS	activ deactiv onprocessmanagerstatuschang process manag statu chang considerstartup startup binddatabaselisten bind databas listen unbinddatabaselisten unbind databas listen getdatabaseschema databas schema getlastschema schema getdatabas databas refreshdatabas refresh databas refreshdatabasesaf refresh databas safe getdatabas databas publishtolisten publish listen serializedatabasemetadatatofil serial databas metadata file deserializeschemametadataifposs deseri schema metadata deserializedatabasemetadataifposs deseri databas metadata getconnect connect getconnectionpropertiesfromdatanucleusconfigur connect properti data nucleu configur getdbrexmlpath dbre xml path 
+VARSIG23	element propertyel properti element 
+VARSIG22	except 
+VARSIG21	except 
+VARSIG20	except 
+MTHSIG10	refreshdatabasesaf refresh databas safe schema schema 
+VARIABLES	context context oldstatu statu newstatu statu newstatu statu listen listen schema schema schema schema forcereadfromdatabas forc read databas safemod safe mode databas listen ignoreandmoveon ignor move databas propertyel properti element propfileoper prop file oper pathresolv path resolv filemanag file manag connectionprovid connect provid processmanagerstatusprovid process manag statu provid cachedintrospect cach introspect lastschema schema listen startupcomplet startup complet databas connect introspector schema databas connect introspector databas path outputstream output stream dbrexmlpath dbre xml path filedetail file detail inputstream input stream dbrexmlpath dbre xml path filedetail file detail inputstream input stream connectionproperti connect properti connectionproperti connect properti persistencexmlpath persist xml path filedetail file detail document builder propertyel properti element properti kei 

@@ -1,0 +1,50 @@
+MTHSIG4	notifi upstreamdepend upstream depend downstreamdepend downstream depend 
+MTHSIG5	updateeclipseplugin updat plugin 
+MTHSIG6	updatebuildoutputdirectori updat build output directori 
+MTHSIG7	updaterepositori updat repositori element configur 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	deactiv componentcontext compon context context 
+PACKAGE	springframework roo addon gwt 
+MTHSIG2	issetupavail setup 
+MTHSIG3	setup 
+MTHSIG8	updatedepend updat depend element configur 
+MTHSIG9	updatewebxml updat web xml 
+CLASSES	gwtoperationsimpl gwt oper impl 
+METHODS	activ deactiv issetupavail setup setup notifi updateeclipseplugin updat plugin updatebuildoutputdirectori updat build output directori updaterepositori updat repositori updatedepend updat depend updatewebxml updat web xml updatepersistencexml updat persist xml updategaehelp updat gae helper copydirectorycont copi directori content copydirectorycont copi directori content updatefil updat file updatebuildplugin updat build plugin removeiffound remov getgaehookup gae hookup 
+VARSIG23	plugin plugin 
+VARSIG22	isgaeen gae enabl 
+VARSIG21	ioexcept except 
+VARSIG20	url url 
+VARSIG26	element toremov remov 
+VARSIG25	element webxmlroot web xml root 
+VARSIG24	xpath 
+VARSIG7	element repositoryel repositori element 
+VARSIG6	element configur 
+VARSIG9	element configur 
+VARSIG8	element repositoryel repositori element 
+VARSIG3	classorinterfacetypedetail type detail classorinterfacetypedetail type detail 
+VARSIG2	gwtpath gwt path path 
+VARSIG5	downstreamdepend downstream depend 
+VARSIG4	upstreamdepend upstream depend 
+COMMENTS	implement link gwtoper gwt oper permit instal gwt project share allow instal web piec instal add gwt natur builder name maven plugin add outputdirectori output directori build element pom add pom repositori add depend updat web xml updat persist xml file ensur metadata fire updat applicationrequestfactori applic request factori updat gaehelp gae helper type ensur gwt maven plugin gae enabl disabl environ updat appengin sdk denot gae type add appengin api sdk depend pom xml file copi miss file gae chang enabl add gwt buildcommand build command add gwt projectnatur read templat insert user user output file user 
+VARSIG19	isgaeen gae enabl 
+VARSIG1	componentcontext compon context context 
+VARSIG18	overwrit 
+VARSIG0	componentcontext compon context context 
+VARSIG17	segmentpackag segment 
+VARSIG12	isgaeen gae enabl 
+VARSIG11	element persistenceunitel persist unit element 
+VARSIG10	element dependencyel depend element 
+VARSIG16	targetdirectori target directori 
+VARSIG15	sourceantpath sourc ant path 
+VARSIG14	gwtpath gwt path gwtpath gwt path 
+VARSIG13	gwtpath gwt path path 
+MTHSIG17	getgaehookup gae hookup 
+MTHSIG15	updatebuildplugin updat build plugin isgaeen gae enabl 
+MTHSIG16	removeiffound remov xpath element webxmlroot web xml root 
+MTHSIG13	copydirectorycont copi directori content gwtpath gwt path gwtpath gwt path 
+MTHSIG14	updatefil updat file sourceantpath sourc ant path targetdirectori target directori segmentpackag segment overwrit isgaeen gae enabl 
+MTHSIG11	updategaehelp updat gae helper isgaeen gae enabl 
+MTHSIG12	copydirectorycont copi directori content 
+MTHSIG10	updatepersistencexml updat persist xml 
+VARIABLES	context context path classorinterfacetypedetail type detail upstreamdepend upstream depend downstreamdepend downstream depend configur repositoryel repositori element repositoryel repositori element configur dependencyel depend element persistenceunitel persist unit element isgaeen gae enabl path gwtpath gwt path sourceantpath sourc ant path targetdirectori target directori segmentpackag segment overwrit isgaeen gae enabl url isgaeen gae enabl plugin xpath webxmlroot web xml root toremov remov filemanag file manag gwttypeservic gwt type servic metadatadependencyregistri metadata depend registri metadataservic metadata servic mvcoper mvc oper projectoper project oper typelocationservic type locat servic context wasgaeen gae enabl configur projectmetdata project metdata isgaeen gae enabl hasgaestatechang gae chang rootpath root path file configur gaedepend gae depend pom document root additionalbuildcommandsel addit buildcommand element gwtbuildcommandnam gwt build command gwtbuildcommandel gwt build command element nameel element additionalprojectnaturesel addit projectnatur element gwtprojectnaturenam gwt projectnatur gwtprojectnatureel gwt projectnatur element pom document root outputdirectorytext output directori text outputdirectoryel output directori element buildel build element repositori gwtrepositori gwt repositori gwtpluginrepositori gwt plugin repositori depend gwtdepend gwt depend webxmlpath web xmlpath webxml web xml root displaynam displai webresourcecollect web resourc collect rolenam role name userdataconstraint user data constraint filter filtermap filter map securityconstraint secur constraint persistencepath persist path persistencexml persist xml root provid sourceantpath sourc ant path segmentpackag segment targetdirectori target directori sourceantpath sourc ant path targetdirectori target directori path url filenam file targetfilenam target filenam input toplevelpackag top level configur xpath path pluginel plugin element defaultplugin plugin builder 

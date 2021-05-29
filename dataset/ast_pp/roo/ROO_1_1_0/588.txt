@@ -1,0 +1,20 @@
+VARSIG3	
+VARSIG2	unspecifieddefaultvalue unspecified
+VARSIG5	object obj
+VARSIG4	optionnames option names
+COMMENTS	simple representation link clioption cli option immutable constructed intended link commandinfo command info objects
+CLASSES	commandoption command option
+VARSIG1	specifieddefaultvalue
+VARSIG0	mandatory
+METHODS	commandoption command option ismandatory mandatory getoptionnames option names gethelp getspecifieddefaultvalue getunspecifieddefaultvalue unspecified hashcode hash code equals tostring
+MTHSIG4	getspecifieddefaultvalue
+MTHSIG5	getunspecifieddefaultvalue unspecified
+MTHSIG6	hashcode hash code
+MTHSIG7	equals object obj
+MTHSIG0	commandoption command option mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified optionnames option names
+MTHSIG1	ismandatory mandatory
+PACKAGE	springframework roo shell model
+MTHSIG2	getoptionnames option names
+MTHSIG3	gethelp
+VARIABLES	mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified optionnames option names obj mandatory optionnames option names specifieddefaultvalue unspecifieddefaultvalue unspecified prime result
+MTHSIG8	tostring

@@ -1,0 +1,13 @@
+VARSIG3	clioption cli option key mandatory append logging level loggerpackage logger loggerpackage logger
+VARSIG2	clioption cli option key level mandatory log level configure loglevel log level loglevel log level
+COMMENTS	commands logging add roo shell
+CLASSES	loggingcommands logging commands
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+METHODS	activate deactivate isconfigureloggingavailable configure logging configurelogging configure logging
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo addon logging
+MTHSIG2	isconfigureloggingavailable configure logging
+MTHSIG3	configurelogging configure logging loglevel log level loglevel log level loggerpackage logger loggerpackage logger
+VARIABLES	context context loglevel log level loggerpackage logger loggingoperations logging operations staticfieldconverter field converter

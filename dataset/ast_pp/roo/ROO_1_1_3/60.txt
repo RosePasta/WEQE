@@ -1,0 +1,12 @@
+MTHSIG0	ispersistentclassavailable persistent
+VARSIG3	javatype type entity
+MTHSIG1	newdod dod javatype type entity javatype type path path
+VARSIG2	path path
+PACKAGE	springframework roo addon dod
+MTHSIG2	getentity entity javatype type entity
+COMMENTS	implementation link dataondemandoperations data demand operations verify requested entity exists check requested entity jpa entity proceed file exists entity entity lookup required type details exception parsed
+CLASSES	dataondemandoperationsimpl data demand operations impl
+VARIABLES	entity path entity filemanager file manager metadataservice metadata service memberdetailsscanner member details scanner projectoperations project operations typemanagementservice type management service classorinterfacetypedetails type details memberdetails member details entityannotation entity annotation declaredbymetadataid declared metadata annotations dodconfig dod config typedetailsbuilder type details builder physicaltypeidentifier physical type identifier ptm ptd
+VARSIG1	javatype type
+VARSIG0	javatype type entity
+METHODS	ispersistentclassavailable persistent newdod dod getentity entity

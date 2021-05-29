@@ -1,0 +1,29 @@
+VARSIG7	javasymbolname symbol attributename attribute
+VARSIG6	annotationattributevalue annotation attribute
+VARSIG9	annotationexpr annotation expr annotationexpr annotation expr
+VARSIG8	annotationattributevalue annotation attribute
+VARSIG3	annotationexpr annotation expr candidate
+VARSIG2	annotationmetadata annotation metadata annotation
+VARSIG5	membervaluepair member pair pair
+VARSIG4	javasymbolname symbol attributename attribute
+COMMENTS	parser implementation link annotationmetadata annotation metadata facilitates addition annotation presented type compilationunitservices compilation unit services required annotations add required annotation add required create holder annotation create search existing annotation type convert candidate annotation type type javatype type annotation type needed create member pairs parser requirements create annotationexpr annotation expr varies depending member pairs number pairs presented add annotationexpr annotation expr actual annotations eventually flushed compilation unit add member pairs annotationexpr annotation expr check cases change existing markerannotationexpr marker annotation expr normalannotationexpr normal annotation expr singlememberannotationexpr single member annotation expr number pairs presented upgrade expression normalannotationexpr normal annotation expr single member pair update expression sort time upgrade expression retaining existing expression values rely nested instance member pairs isn elegant loss type parameters doesn preserve type parameters factory annotationexpr annotation expr compilationunitservices compilation unit services instance annotation type assorted types annotations received marker annotations single member annotations normal annotations compute actual annotation type regard compilation unit imports generate member pairs subsequent parsing marker annotation values pairs add add member pair iterate expressions iterate annotation attributes creating parsed attributes map determine type finding real type
+VARSIG1	list annotationexpr annotation expr annotations
+VARSIG0	compilationunitservices compilation unit services compilationunitservices compilation unit services
+VARSIG17	expression
+MTHSIG4	build
+VARSIG12	compilationunitservices compilation unit services compilationunitservices compilation unit services
+MTHSIG5	convert javasymbolname symbol annotationname annotation expression expression compilationunitservices compilation unit services compilationunitservices compilation unit services
+VARSIG11	annotationexpr annotation expr annotationexpr annotation expr
+VARSIG10	compilationunitservices compilation unit services compilationunitservices compilation unit services
+MTHSIG0	addannotationtolist add annotation list compilationunitservices compilation unit services compilationunitservices compilation unit services list annotationexpr annotation expr annotations annotationmetadata annotation metadata annotation
+VARSIG16	compilationunitservices compilation unit services compilationunitservices compilation unit services
+MTHSIG1	convert annotationattributevalue annotation attribute
+VARSIG15	expression expression
+PACKAGE	springframework roo classpath javaparser details
+MTHSIG2	getinstance instance annotationexpr annotation expr annotationexpr annotation expr compilationunitservices compilation unit services compilationunitservices compilation unit services
+VARSIG14	javasymbolname symbol annotationname annotation
+MTHSIG3	javaparserannotationmetadatabuilder parser annotation metadata builder annotationexpr annotation expr annotationexpr annotation expr compilationunitservices compilation unit services compilationunitservices compilation unit services
+VARSIG13	membervaluepair member pair
+CLASSES	javaparserannotationmetadatabuilder parser annotation metadata builder
+METHODS	addannotationtolist add annotation list convert getinstance instance javaparserannotationmetadatabuilder parser annotation metadata builder build convert
+VARIABLES	compilationunitservices compilation unit services annotations annotation candidate attributename attribute pair attributename attribute annotationexpr annotation expr compilationunitservices compilation unit services annotationexpr annotation expr compilationunitservices compilation unit services annotationname annotation expression compilationunitservices compilation unit services foundexisting existing existingname existing javatype type nametouse membervaluepairs member pairs membervaluepair member pair annotationexpression annotation expression touse mae touse smae touse existingvalue existing annotationpairs annotation pairs touse castvalue annotationexpr annotation expr nestedannotation nested annotation membervaluepairs member pairs castvalue convertedvalue converted castvalue convertedvalue converted castvalue convertedvalue converted castvalue convertedvalue converted doubleattributevalue attribute castvalue convertedvalue converted castvalue convertedvalue converted castvalue convertedvalue converted castvalue nameexpr expr convertedvalue converted castvalue arrayelements array elements annotationtype annotation type attributevalues attribute values nametofind find annotationpairs annotation pairs attributevalues attribute values annotationname annotation annotationmetadatabuilder annotation metadata builder annotationexpr annotation expr floatingprecisiononly floating precision result current left field fieldname field scope nametofind find fscope scope fieldtype field type enumdetails details field fieldtype field type enumdetails details clazz nametofind find javatype type castexp exp arrayelements array elements castexp exp

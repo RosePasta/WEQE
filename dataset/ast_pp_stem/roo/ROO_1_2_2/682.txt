@@ -1,0 +1,31 @@
+VARSIG7	logicalpath logic path path 
+VARSIG6	javatyp type 
+VARSIG9	javatyp type 
+VARSIG8	permitreservedword permit reserv 
+VARSIG3	javatyp type superclass 
+VARSIG2	logicalpath logic path path 
+VARSIG5	permitreservedword permit reserv 
+VARSIG4	createabstract creat 
+COMMENTS	osgi implement link classpathoper classpath oper check exist assum legal 
+VARSIG1	rooannot roo annot 
+VARSIG0	javatyp type 
+VARSIG17	componentcontext compon context context 
+MTHSIG4	focu javatyp type type 
+VARSIG12	javatyp type 
+MTHSIG5	isprojectavail project 
+VARSIG11	permitreservedword permit reserv 
+MTHSIG6	activ componentcontext compon context context 
+VARSIG10	logicalpath logic path path 
+MTHSIG7	deactiv componentcontext compon context context 
+MTHSIG0	createclass creat javatyp type rooannot roo annot logicalpath logic path path javatyp type superclass createabstract creat permitreservedword permit reserv 
+VARSIG16	componentcontext compon context context 
+MTHSIG1	createenum creat javatyp type logicalpath logic path path permitreservedword permit reserv 
+VARSIG15	javatyp type type 
+PACKAGE	springframework roo classpath oper 
+MTHSIG2	createinterfac creat javatyp type logicalpath logic path path permitreservedword permit reserv 
+VARSIG14	permitreservedword permit reserv 
+MTHSIG3	enumconst constant javatyp type javasymbolnam symbol fieldnam field permitreservedword permit reserv 
+VARSIG13	javasymbolnam symbol fieldnam field 
+CLASSES	classpathoperationsimpl classpath oper impl 
+METHODS	createclass creat createenum creat createinterfac creat enumconst constant focu isprojectavail project activ deactiv 
+VARIABLES	rooannot roo annot path superclass createabstract creat permitreservedword permit reserv path permitreservedword permit reserv path permitreservedword permit reserv fieldnam field permitreservedword permit reserv type context context metadataservic metadata servic pathresolv path resolv projectoper project oper staticfieldconvert field convert typelocationservic type locat servic typemanagementservic type manag servic declaredbymetadataid declar metadata modifi cidbuild cid builder superclassclassorinterfacetypedetail superclass type detail extendstyp type annot physicaltypeid physic type cidbuild cid builder declaredbymetadataid declar metadata cidbuild cid builder declaredbymetadataid declar metadata physicaltypeidentifi physic type identifi ptm 

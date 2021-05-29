@@ -1,0 +1,32 @@
+VARSIG7	nullrequired required
+VARSIG6	notnull
+VARSIG9	
+VARSIG8	unique
+VARSIG3	list annotationmetadatabuilder annotation metadata builder annotations
+VARSIG2	javasymbolname symbol fieldname field
+VARSIG5	comment
+VARSIG4	column
+COMMENTS	base common jsr jsr properties auto generated jpa column doc comments reserved expansion field type field jsr notnull annotation jsr annotation type receive field unique column annotation spring constructor physicaltypeidentifier physical type identifier fieldtype field type fieldname field
+VARSIG1	javatype type fieldtype field type
+VARSIG0	physicaltypeidentifier physical type identifier
+MTHSIG4	getfieldname field
+MTHSIG5	getfieldtype field type
+MTHSIG6	getphysicaltypeidentifier physical type identifier
+MTHSIG7	getvalue
+MTHSIG0	fielddetails field details physicaltypeidentifier physical type identifier javatype type fieldtype field type javasymbolname symbol fieldname field
+MTHSIG1	decorateannotationslist decorate annotations list list annotationmetadatabuilder annotation metadata builder annotations
+PACKAGE	springframework roo classpath operations jsr jsr
+MTHSIG2	getcolumn column
+MTHSIG3	getcomment comment
+MTHSIG8	isnotnull
+MTHSIG9	isnullrequired required
+MTHSIG15	setunique set unique unique
+MTHSIG16	setvalue set
+MTHSIG13	setnotnull set notnull
+MTHSIG14	setnullrequired set required nullrequired required
+MTHSIG11	setcolumn set column column
+MTHSIG12	setcomment set comment comment
+CLASSES	fielddetails field details
+METHODS	fielddetails field details decorateannotationslist decorate annotations list getcolumn column getcomment comment getfieldname field getfieldtype field type getphysicaltypeidentifier physical type identifier getvalue isnotnull isnullrequired required isunique unique setcolumn set column setcomment set comment setnotnull set setnullrequired set required setunique set unique setvalue set
+MTHSIG10	isunique unique
+VARIABLES	physicaltypeidentifier physical type identifier fieldtype field type fieldname field annotations column comment notnull nullrequired required unique column comment fieldname field fieldtype field type notnull nullrequired required physicaltypeidentifier physical type identifier unique columnbuilder column builder attrs attrs attrs

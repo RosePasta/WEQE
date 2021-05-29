@@ -1,0 +1,30 @@
+VARSIG7	javatype type aspectname aspect
+VARSIG6	metadataidentificationstring metadata identification
+VARSIG9	itdfilename filename
+VARSIG8	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG3	componentcontext component context context
+VARSIG2	logicalpath logical path path
+VARSIG5	itdtypedetails type details itdtypedetails type details
+VARSIG4	metadataidentificationstring metadata identification
+COMMENTS	implementation link webjsonmetadataprovider web json metadata provider maps entities ids webjsonmetadata web json metadata check relevant layer component appeared changed disappeared check relevant mvc controller appeared changed disappeared parse annotation expect lookup form backing object object metadata informed dependent metadata maintain list entities tested type layer component repository service returns webjsonmetadata web json metadata domain type manages layer component json governortypedetails governor type details type check required type web mvc controller returns webjsonmetadata web json metadata form backing type ensure required layer components injected workaround aspect handling multiple itds introducing field layer component governortypedetails governor type details type check required notified change mvc controller backing object produce webjsonmetadata web json metadata refresh ensure introduce required layer components web json introduce required layer components services repositories aspect field introduced governor governor controller required mvc created introduce required layer components
+VARSIG1	javatype type javatype type
+VARSIG0	componentcontext component context context
+MTHSIG4	getitduniquenessfilenamesuffix uniqueness filename suffix
+VARSIG12	classorinterfacetypedetails type details governortypedetails governor type details
+MTHSIG5	getlocalmidtorequest local mid request itdtypedetails type details itdtypedetails type details
+VARSIG11	javatype type domaintype domain type
+MTHSIG6	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+VARSIG10	classorinterfacetypedetails type details governortypedetails governor type details
+MTHSIG7	getprovidestype type
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	createlocalidentifier create local identifier javatype type javatype type logicalpath logical path path
+PACKAGE	springframework roo addon web mvc controller json
+MTHSIG2	deactivate componentcontext component context context
+MTHSIG3	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+VARSIG13	physicaltypemetadata physical type metadata governor
+MTHSIG8	getwebjsonmidiflayercomponent web json mid layer component classorinterfacetypedetails type details governortypedetails governor type details
+MTHSIG9	getwebjsonmidifmvccontroller web json mid mvc controller classorinterfacetypedetails type details governortypedetails governor type details
+CLASSES	webjsonmetadataproviderimpl web json metadata provider impl
+METHODS	activate createlocalidentifier create local identifier deactivate getgovernorphysicaltypeidentifier governor physical type identifier getitduniquenessfilenamesuffix uniqueness filename suffix getlocalmidtorequest local mid request getmetadata metadata getprovidestype type getwebjsonmidiflayercomponent web json mid layer component getwebjsonmidifmvccontroller web json mid mvc controller introducelayercomponents introduce layer components
+MTHSIG10	introducelayercomponents introduce layer components physicaltypemetadata physical type metadata governor
+VARIABLES	context javatype type path context metadataidentificationstring metadata identification itdtypedetails type details metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename governortypedetails governor type details domaintype domain type governortypedetails governor type details governor webmetadataservice web metadata service managedentitytypes managed entity types javatype type path governortypedetails governor type details localmidforlayermanagedentity local mid layer managed entity annotationvalues annotation values jsonobject json object jsontypedetails json type details jsonobjectpath json object path jsonmetadata json metadata backingobjectphysicaltypemetadata backing object physical type metadata formbackingobjectmemberdetails form backing object member details backingmemberholdingtypedetails backing member holding type details finderdetails finder details persistenceadditions persistence additions javatypepersistencemetadatadetails type persistence metadata details pluralmetadata plural metadata webjsonmetadataid web json metadata controllerannotation controller annotation formbackingtype form backing type webjsonmetadataid web json metadata

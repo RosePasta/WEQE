@@ -1,0 +1,17 @@
+VARSIG3	list annotationmetadata annotation metadata annotations
+VARSIG2	javasymbolname symbol fieldname field
+VARSIG5	max
+VARSIG4	min
+COMMENTS	jsr min annotation jsr max annotation
+CLASSES	numericfield numeric field
+VARSIG1	javatype type fieldtype field type
+VARSIG0	physicaltypeidentifier physical type identifier
+METHODS	numericfield numeric field decorateannotationslist decorate annotations list getmin min setmin set min getmax max setmax set max
+MTHSIG4	getmax max
+MTHSIG5	setmax set max max
+MTHSIG0	numericfield numeric field physicaltypeidentifier physical type identifier javatype type fieldtype field type javasymbolname symbol fieldname field
+MTHSIG1	decorateannotationslist decorate annotations list list annotationmetadata annotation metadata annotations
+PACKAGE	springframework roo classpath operations jsr jsr
+MTHSIG2	getmin min
+MTHSIG3	setmin set min min
+VARIABLES	physicaltypeidentifier physical type identifier fieldtype field type fieldname field annotations min max min max attrs attrs

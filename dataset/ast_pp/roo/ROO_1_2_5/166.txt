@@ -1,0 +1,34 @@
+VARSIG7	methodmetadata metadata proxymethod proxy
+VARSIG6	metadataidentificationstring metadata identification
+VARSIG9	map entry gwttype gwt type list classorinterfacetypedetails type details entry
+VARSIG8	map entry gwttype gwt type javatype type entry
+VARSIG3	javatype type javatype type
+VARSIG2	modulename module
+VARSIG5	componentcontext component context context
+VARSIG4	logicalpath logical path path
+COMMENTS	monitors types creates updates deletes gwt files maintained mirror compatible object find list mirror compatible objects link springframework roo addon gwt gwttype gwt type roojpaentity roo jpa entity instances mirror compatible roo add ons provider aims expose contents files link gwtscaffoldmetadata gwt scaffold metadata attempts avoiding writing disk separate type monitors creation deletion aforementioned files maintain global indexes governor governor general strategy instantiate gwtscaffoldmetadata gwt scaffold metadata offers conceptual representation key specific types comparisons write disk needed physical type changed determine local metadata identification proceed downstream dependency relationship registered registered event delivered instance specific downstream dependency processed
+VARSIG19	exception
+VARSIG1	gwttype gwt type type
+VARSIG18	simpletypename simple type
+VARSIG0	componentcontext component context context
+VARSIG17	javapackage toplevelpackage top level
+MTHSIG4	metadataidentificationstring metadata identification
+VARSIG12	map entry entry
+MTHSIG5	getgovernor governor metadataidentificationstring metadata identification
+VARSIG11	map entry entry
+MTHSIG6	getprovidestype type
+VARSIG10	classorinterfacetypedetails type details type
+MTHSIG7	notify upstreamdependency upstream dependency downstreamdependency downstream dependency
+MTHSIG0	activate componentcontext component context context
+VARSIG16	gwttype gwt type type
+MTHSIG1	buildtype build type gwttype gwt type type modulename module
+VARSIG15	downstreamdependency downstream dependency
+PACKAGE	springframework roo addon gwt scaffold
+MTHSIG2	createlocalidentifier create local identifier javatype type javatype type logicalpath logical path path
+VARSIG14	upstreamdependency upstream dependency
+MTHSIG3	deactivate componentcontext component context context
+VARSIG13	metadataidentificationstring metadata identification
+MTHSIG8	cleanuplegacyprojects clean legacy projects gwttype gwt type type javapackage toplevelpackage top level simpletypename simple type
+CLASSES	gwtscaffoldmetadataproviderimpl gwt scaffold metadata provider impl
+METHODS	activate buildtype build type createlocalidentifier create local identifier deactivate getgovernor governor getprovidestype type notify cleanuplegacyprojects clean legacy projects
+VARIABLES	context type modulename module javatype type path context metadataidentificationstring metadata identification proxymethod proxy entry entry type entry entry metadataidentificationstring metadata identification upstreamdependency upstream dependency downstreamdependency downstream dependency type toplevelpackage top level simpletypename simple type gwtfilemanager gwt file manager gwttemplateservice gwt template service gwttypeservice gwt type service metadatadependencyregistry metadata dependency registry metadataservice metadata service projectoperations project operations typelocationservice type location service mirroredtype mirrored type proxy request modulename module toplevelpackage top level gwtscaffoldmetadata gwt scaffold metadata clientsidetypemap client side type map propertyname property propertytype property type ptmd field annotations gwtproxyproperty gwt proxy property templatedataholder template data holder typestobewritten types written xmltobewritten xml written mirrortypemap mirror type map gwttype gwt type javatype type extendstypes types gwtpath gwt path pathresolver path resolver webapppath webapp path packagepath path targetdirectory target directory destfile dest file contents governortypename governor type governortypepath governor type path physicaltypeid physical type cid entitytype entity type entitytype entity type entitytype entity type typename type typepath type path legacysimpletypename legacy simple type legacyclassname legacy legacyview legacy view newclassname newclass focusedmodule focused module logicalpath logical path builder newview view legacymanagedclassname legacy managed oldmanageddetailsview managed details view modulename module targetpath target path sourcepath source path pathresolver path resolver sourcedirectory source directory targetdirectory target directory sourcefile source file destfile dest file filereader file reader docbuilder doc builder source existingdocument existing document transformer domsource dom source result contents

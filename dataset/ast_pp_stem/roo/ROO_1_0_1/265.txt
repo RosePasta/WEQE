@@ -1,0 +1,28 @@
+VARSIG7	depend depend 
+VARSIG6	depend depend 
+VARSIG9	depend depend 
+VARSIG8	depend 
+VARSIG3	set depend buildplugindepend build plugin depend 
+VARSIG2	set depend depend 
+VARSIG5	depend depend 
+VARSIG4	pathresolv path resolv pathresolv path resolv 
+COMMENTS	repres project roo instanc singl project activ time project add on expect subclass link projectmetadata project metadata implement method link projectmetadata project metadata offer conveni method acquir project top level project regist depend path resolut servic concret subclass regist correct depend project build system requir read file chang subclass provid valid link pathresolv path resolv implement understand target project layout conveni determin depend regist depend check requir depend regist conveni determin build plugin depend regist depend check requir build plugin depend regist unmodifi represent depend empti locat depend match present depend exclud version number upgrad case locat depend group artifact type identif remov depend locat requir note version number comparison match depend return empti link set unmodifi collect build plugin depend empti locat build plugin depend match present depend exclud version number upgrad case locat build plugin depend group artifact type identif remov depend locat requir note version number comparison match depend return empti link set 
+VARSIG1	projectnam project 
+VARSIG0	javapackag toplevelpackag top level 
+MTHSIG4	gettoplevelpackag top level 
+MTHSIG5	getprojectnam project 
+MTHSIG6	getpathresolv path resolv 
+VARSIG10	depend 
+MTHSIG7	getdepend depend 
+MTHSIG0	projectmetadata project metadata javapackag toplevelpackag top level projectnam project set depend depend set depend buildplugindepend build plugin depend pathresolv path resolv pathresolv path resolv 
+MTHSIG1	getprojectidentifi project identifi 
+PACKAGE	springframework roo project 
+MTHSIG2	isdependencyregist depend regist depend depend 
+MTHSIG3	isbuildplugindependencyregist build plugin depend regist depend depend 
+MTHSIG8	getdependenciesexcludingvers depend exclud version depend depend 
+MTHSIG9	getbuildplugindepend build plugin depend 
+MTHSIG11	tostr 
+CLASSES	projectmetadata project metadata 
+METHODS	projectmetadata project metadata getprojectidentifi project identifi isdependencyregist depend regist isbuildplugindependencyregist build plugin depend regist gettoplevelpackag top level getprojectnam project getpathresolv path resolv getdepend depend getdependenciesexcludingvers depend exclud version getbuildplugindepend build plugin depend getbuildplugindependenciesexcludingvers build plugin depend exclud version tostr 
+MTHSIG10	getbuildplugindependenciesexcludingvers build plugin depend exclud version depend depend 
+VARIABLES	toplevelpackag top level projectnam project depend buildplugindepend build plugin depend pathresolv path resolv depend depend depend depend project identifi toplevelpackag top level projectnam project depend buildplugindepend build plugin depend pathresolv path resolv result result tsc 

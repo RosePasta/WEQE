@@ -1,0 +1,25 @@
+VARSIG7	path
+VARSIG6	category
+VARSIG9	title
+VARSIG8	viewname view
+VARSIG3	path
+VARSIG2	language
+VARSIG5	title
+VARSIG4	viewname view
+COMMENTS	link jspoperationsimpl jsp operations impl installs common view artifacts needed mvc scaffolding creates spring mvc controller request mappings assigned commence installs additional languages web mvc app language language creates spring mvc view path view create required foo title title view required category menu category required viewname view mapping view adopt required installs spring mvc view path view create required foo viewname view mapping view adopt required title title view required category menu category required document jspx document view
+VARSIG1	preferredmapping preferred mapping
+VARSIG0	javatype type controller
+MTHSIG4	createmanualcontroller create manual controller javatype type controller preferredmapping preferred mapping
+MTHSIG5	installi install language
+VARSIG11	document document
+MTHSIG6	installview install view path viewname view title category
+VARSIG10	category
+MTHSIG7	installview install view path viewname view title category document document
+MTHSIG0	iscontrolleravailable controller
+MTHSIG1	issetupavailable setup
+PACKAGE	springframework roo addon web mvc jsp
+MTHSIG2	isinstalllanguagecommandavailable install language command
+MTHSIG3	installcommonviewartefacts install common view artefacts
+CLASSES	jspoperations jsp operations
+METHODS	iscontrolleravailable controller issetupavailable setup isinstalllanguagecommandavailable install language command installcommonviewartefacts install common view artefacts createmanualcontroller create manual controller installi install installview install view installview install view
+VARIABLES	controller preferredmapping preferred mapping language path viewname view title category path viewname view title category document

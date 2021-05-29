@@ -1,0 +1,14 @@
+VARSIG2	cardin 
+COMMENTS	cardin option set relationship 
+CLASSES	cardin 
+VARSIG1	object obj 
+VARSIG0	kei 
+METHODS	cardin getkei kei hashcod hash code equal compareto compar tostr 
+MTHSIG4	compareto compar cardin 
+MTHSIG5	tostr 
+MTHSIG0	cardin kei 
+MTHSIG1	getkei kei 
+PACKAGE	springframework roo classpath oper 
+MTHSIG2	hashcod hash code 
+MTHSIG3	equal object obj 
+VARIABLES	kei obj kei tsc 

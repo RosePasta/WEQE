@@ -1,0 +1,14 @@
+VARSIG3	list annotationmetadatabuild annot metadata builder annot 
+VARSIG2	uploadedfilecontenttyp upload file content type contenttyp content type 
+VARSIG4	autoupload auto upload 
+COMMENTS	 
+CLASSES	uploadedfilefield upload file field 
+VARSIG1	javasymbolnam symbol fieldnam field 
+VARSIG0	physicaltypeidentifi physic type identifi 
+METHODS	uploadedfilefield upload file field decorateannotationslist decor annot list getcontenttyp content type setautoupload set auto upload 
+MTHSIG0	uploadedfilefield upload file field physicaltypeidentifi physic type identifi javasymbolnam symbol fieldnam field uploadedfilecontenttyp upload file content type contenttyp content type 
+MTHSIG1	decorateannotationslist decor annot list list annotationmetadatabuild annot metadata builder annot 
+PACKAGE	springframework roo classpath oper jsr jsr 
+MTHSIG2	getcontenttyp content type 
+MTHSIG3	setautoupload set auto upload autoupload auto upload 
+VARIABLES	physicaltypeidentifi physic type identifi fieldnam field contenttyp content type annot autoupload auto upload autoupload auto upload contenttyp content type attr 

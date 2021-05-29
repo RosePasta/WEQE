@@ -1,0 +1,10 @@
+MTHSIG0	hint topic
+MTHSIG1	getcurrenttopics current topics
+PACKAGE	springframework roo classpath operations
+MTHSIG2	determinetopic determine topic
+COMMENTS	base implementation link hintoperations hint operations implementation relies predefined resource bundle hints replaced extensible implementation party add ons provide hints roo details result addall add bundle keyset key set resourcebundle resource bundle keyset key set jdk
+CLASSES	hintoperationsimpl hint operations impl
+VARIABLES	topic exception ant match directory pattern bundle filemanager file manager projectoperations project operations message result topic pathresolver path resolver entitycount entity count javabeancount bean count
+VARSIG1	missingresourceexception missing resource exception exception
+VARSIG0	topic
+METHODS	hint getcurrenttopics current topics determinetopic determine topic

@@ -1,0 +1,13 @@
+VARSIG2	clioption cli option kei mandatori number millisecond poll minimumdelaybetweenpol minimum delai poll 
+COMMENTS	command file system monitor process manag manual poll 
+CLASSES	processmanagercommand process manag command 
+VARSIG1	clioption cli option kei enabl mandatori specifieddefaultvalu unspecifieddefaultvalu unspecifi activ develop mode enabl 
+VARSIG0	componentcontext compon context context 
+METHODS	activ developmentmod develop mode poll pollinginfo poll info pollingspe poll speed 
+MTHSIG4	pollingspe poll speed minimumdelaybetweenpol minimum delai poll 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	developmentmod develop mode enabl 
+PACKAGE	springframework roo process manag 
+MTHSIG2	poll 
+MTHSIG3	pollinginfo poll info 
+VARIABLES	context enabl minimumdelaybetweenpol minimum delai poll processmanag process manag shell originalset origin set durat minimum 

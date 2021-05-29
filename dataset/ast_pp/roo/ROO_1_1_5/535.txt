@@ -1,0 +1,34 @@
+VARSIG7	annotationexpr annotation expr annotation
+VARSIG6	annotationexpr annotation expr candidate
+VARSIG9	list bodydeclaration body declaration members
+VARSIG8	compilationunitservices compilation unit services compilationunitservices compilation unit services
+VARSIG3	set javasymbolname symbol typeparameternames type parameter names
+VARSIG2	compilationunitservices compilation unit services compilationunitservices compilation unit services
+VARSIG5	parameter
+VARSIG4	typeparameter type parameter candidate
+COMMENTS	parser implementation link constructormetadata constructor metadata todo parse types javaparser parser source convert parser modifier jdk modifier add declared type parameters list type parameters body lookup parameters names start basic constructor add constructor level annotations parameter annotations add constructor parameters including individual annotations type parameters add parameter annotations applicable parameter type compute parameter compute parameter type add type arguments presented type nameexpr expr importedparametertype imported parameter type javaparserutils parser utils importtypeifrequired type required compilationunitservices compilation unit services getenclosingtypename enclosing type compilationunitservices compilation unit services getimports imports parameter typeargs type add javaparserutils parser utils getreferencetype reference type importedparametertype imported parameter type create parser constructor parameter add list parameters set body body fake constructor javaparser parser parse easiest build simple source required parse locate add constructor verify exists constructor current constructor match parameter types add constructor compilation unit
+VARSIG1	constructordeclaration constructor declaration constructordeclaration constructor declaration
+VARSIG18	annotatedjavatype annotated type existingparameter existing parameter
+VARSIG0	declaredbymetadataid declared metadata
+VARSIG17	bodydeclaration body declaration
+MTHSIG4	getparameternames parameter names
+VARSIG12	annotationmetadata annotation metadata annotation
+MTHSIG5	getparametertypes parameter types
+VARSIG11	set javasymbolname symbol typeparameters type parameters
+MTHSIG6	getthrowstypes types
+VARSIG10	constructormetadata constructor metadata constructor
+MTHSIG7	getbody body
+MTHSIG0	javaparserconstructormetadata parser constructor metadata declaredbymetadataid declared metadata constructordeclaration constructor declaration constructordeclaration constructor declaration compilationunitservices compilation unit services compilationunitservices compilation unit services set javasymbolname symbol typeparameternames type parameter names
+VARSIG16	parseexception parse exception
+MTHSIG1	getmodifier modifier
+VARSIG15	javatype type parameter
+PACKAGE	springframework roo classpath javaparser details
+MTHSIG2	getdeclaredbymetadataid declared metadata
+VARSIG14	annotationmetadata annotation metadata parameterannotation parameter annotation
+MTHSIG3	getannotations annotations
+VARSIG13	annotatedjavatype annotated type constructorparameter constructor parameter
+MTHSIG8	tostring
+MTHSIG9	addconstructor add constructor compilationunitservices compilation unit services compilationunitservices compilation unit services list bodydeclaration body declaration members constructormetadata constructor metadata constructor set javasymbolname symbol typeparameters type parameters
+CLASSES	javaparserconstructormetadata parser constructor metadata
+METHODS	javaparserconstructormetadata parser constructor metadata getmodifier modifier getdeclaredbymetadataid declared metadata getannotations annotations getparameternames parameter names getparametertypes parameter types getthrowstypes types getbody body tostring addconstructor add constructor
+VARIABLES	declaredbymetadataid declared metadata constructordeclaration constructor declaration compilationunitservices compilation unit services typeparameternames type parameter names candidate candidate annotation compilationunitservices compilation unit services members constructor typeparameters type parameters annotation constructorparameter constructor parameter parameterannotation parameter annotation parameter existingparameter existing parameter annotations parametertypes parameter types parameternames parameter names throwstypes types body declaredbymetadataid declared metadata modifier fulltypeparameters full type parameters params currenttypeparam current type parametertype parameter type annotationslist annotations list annotations tsc annotations parameters parameterannotations parameter annotations parametername parameter parametertype parameter type importedtype imported type cit typeargs type bais types bodydeclarations body declarations jpmm matchesfully matches fully

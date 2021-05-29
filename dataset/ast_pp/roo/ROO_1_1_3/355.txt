@@ -1,0 +1,47 @@
+VARSIG7	menuitemlabel menu item label
+VARSIG6	javasymbolname symbol menuitemid menu item
+VARSIG9	link
+VARSIG8	globalmessagecode global message code
+VARSIG3	link
+VARSIG2	globalmessagecode global message code
+VARSIG5	javasymbolname symbol menucategoryname menu category
+VARSIG4	idprefix prefix
+COMMENTS	generates jsp menu management menu items root element menu menu identifier allowing decorations menu check existence menu category indentifier exists create check existence menu item indentifier find menu items category starts menuitemidprefix menu item prefix attempts locate menu item remove menucategoryname menu category identifier menu category required menuitemname menu item menu item identifier required idprefix prefix prefix menu item optional menuoperations menu operations menu item prefix find menu item category exists disk changed updated created mutablefile mutable file write contents jspcontent jsp content file build representation jsp write file file existing file contents wrote file file existed contained content
+VARSIG19	javasymbolname symbol menucategoryname menu category
+VARSIG1	javasymbolname symbol menuitemid menu item
+VARSIG18	exception
+VARSIG0	javasymbolname symbol menucategoryname menu category
+VARSIG17	writeprops write props
+MTHSIG4	cleanupmenuitem clean menu item javasymbolname symbol menucategoryname menu category javasymbolname symbol menuitemname menu item idprefix prefix
+VARSIG12	javasymbolname symbol menuitemid menu item
+MTHSIG5	getmenufile menu file
+VARSIG11	javasymbolname symbol menucategoryname menu category
+VARSIG33	ioexception exception ioe
+MTHSIG6	getmenufilename menu file
+VARSIG10	idprefix prefix
+VARSIG32	exception
+MTHSIG7	writetodiskifnecessary write disk document proposed
+VARSIG31	document proposed
+MTHSIG0	addmenuitem add menu item javasymbolname symbol menucategoryname menu category javasymbolname symbol menuitemid menu item globalmessagecode global message code link idprefix prefix
+VARSIG16	idprefix prefix
+MTHSIG1	addmenuitem add menu item javasymbolname symbol menucategoryname menu category javasymbolname symbol menuitemid menu item menuitemlabel menu item label globalmessagecode global message code link idprefix prefix
+VARSIG15	link
+PACKAGE	springframework roo addon web mvc jsp menu
+MTHSIG2	addmenuitem add menu item javasymbolname symbol menucategoryname menu category javasymbolname symbol menuitemid menu item menuitemlabel menu item label globalmessagecode global message code link idprefix prefix writeprops write props
+VARSIG14	globalmessagecode global message code
+MTHSIG3	cleanupfindermenuitems clean finder menu items javasymbolname symbol menucategoryname menu category list allowedfindermenuids allowed finder menu ids
+VARSIG13	menuitemlabel menu item label
+VARSIG30	exception
+CLASSES	menuoperationsimpl menu operations impl
+VARSIG29	exception
+VARSIG28	exception
+METHODS	addmenuitem add menu item addmenuitem add menu item addmenuitem add menu item cleanupfindermenuitems clean finder menu items cleanupmenuitem clean menu item getmenufile menu file getmenufilename menu file writetodiskifnecessary write disk
+VARSIG23	javasymbolname symbol menucategoryname menu category
+VARSIG22	element element
+VARSIG21	exception
+VARSIG20	list allowedfindermenuids allowed finder menu ids
+VARSIG27	exception
+VARSIG26	exception
+VARSIG25	idprefix prefix
+VARSIG24	javasymbolname symbol menuitemname menu item
+VARIABLES	menucategoryname menu category menuitemid menu item globalmessagecode global message code link idprefix prefix menucategoryname menu category menuitemid menu item menuitemlabel menu item label globalmessagecode global message code link idprefix prefix menucategoryname menu category menuitemid menu item menuitemlabel menu item label globalmessagecode global message code link idprefix prefix writeprops write props menucategoryname menu category allowedfindermenuids allowed finder menu ids element menucategoryname menu category menuitemname menu item idprefix prefix proposed ioe filemanager file manager projectoperations project operations propfileoperations prop file operations properties document rootelement root element rootmenu root menu category menuitem menu item document elements document element menufilename menu file pathresolver path resolver original mutablefile mutable file menufilename menu file bytearrayoutputstream array output stream jspcontent jsp content

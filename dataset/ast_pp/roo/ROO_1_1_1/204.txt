@@ -1,0 +1,111 @@
+MTHSIG28	removebuildplugin remove build plugin plugin plugin containingpath path path
+MTHSIG26	removeresource remove resource resource resource
+MTHSIG27	removedependency remove dependency dependency dependency containingpath path path
+MTHSIG24	removefilter remove filter filter filter
+MTHSIG25	addresource add resource resource resource
+MTHSIG22	removeproperty remove property property property
+MTHSIG23	addfilter add filter filter filter
+MTHSIG4	adddependencies add dependencies list dependency dependencies
+MTHSIG5	adddependency add dependency dependency dependency
+MTHSIG6	createdependencyelement create dependency element dependency dependency document document
+VARSIG76	element candidate
+MTHSIG7	removedependency remove dependency dependency dependency
+VARSIG75	exception
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	metadataidentificationstring metadata identification
+MTHSIG2	onfileevent file event fileevent file event fileevent file event
+MTHSIG3	getprovidestype type
+MTHSIG20	removerepository remove repository repository repository path
+VARSIG70	exception
+MTHSIG21	addproperty add property property property
+MTHSIG8	addbuildplugin add build plugin plugin plugin
+VARSIG74	path
+MTHSIG9	removebuildplugin remove build plugin plugin plugin
+VARSIG73	containingpath path
+VARSIG72	plugin plugin
+VARSIG71	element candidate
+METHODS	activate onfileevent file event getprovidestype type adddependencies add dependencies adddependency add dependency createdependencyelement create dependency element removedependency remove dependency addbuildplugin add build plugin removebuildplugin remove build plugin updateprojecttype update project type addrepositories add repositories addrepository add repository removerepository remove repository addpluginrepositories add plugin repositories addpluginrepository add plugin repository removepluginrepository remove plugin repository addrepositories add repositories createrepositoryelement create repository element addrepository add repository removerepository remove repository addproperty add property removeproperty remove property addfilter add filter removefilter remove filter addresource add resource removeresource remove resource removedependency remove dependency removebuildplugin remove build plugin
+VARSIG67	dependency dependency
+VARSIG66	element candidate
+VARSIG65	exception
+VARSIG64	resource resource
+VARSIG69	path
+VARSIG68	containingpath path
+VARSIG63	include
+VARSIG62	exception
+VARSIG61	resource resource
+VARSIG60	element candidate
+COMMENTS	link projectmetadata project metadata simplicity operation implementation shipping roo supports link projectmetadata project metadata rebuild demand expect metadataservice metadata service cache behalf read file project top level fall group assumed parent roo build dependencies list build plugins list build repositories list build plugin repositories list build properties list filters list resources list update window title project update uaa project update uaa spring open source dependencies register robust pom xml declared dependency metadata proper bundle version number lookup moment register spring uaa automatically internal uaa dependency detected convert detected dependency product version sequence property strip version sequence one treat version sequence handle version sequence register spring product uaa happened pom don notify shutting happened interest evict cached entries metadataservice metadata service xml don jar xml don compile add exclusions defined add configuration add executions defined add dependencies defined loop theoretically declared pom loop theoretically declared pom loop theoretically declared pom loop theoretically declared pom remove element identified dependency occurs path loop theoretically declared pom remove element identified plugin occurs path loop theoretically declared pom
+VARSIG19	dependency exclusion
+VARSIG18	document document
+VARSIG17	dependency dependency
+VARSIG12	list dependency dependencies
+VARSIG11	fileevent file event fileevent file event
+VARSIG10	productinfo product info productinfo product info
+VARSIG16	exception
+VARSIG15	dependency dependency
+VARSIG14	dependency dependency
+VARSIG13	exception
+MTHSIG17	addrepositories add repositories list repository repositories containingpath path path
+MTHSIG18	createrepositoryelement create repository element document document repository repository path
+MTHSIG15	addpluginrepository add plugin repository repository repository
+MTHSIG16	removepluginrepository remove plugin repository repository repository
+MTHSIG13	removerepository remove repository repository repository
+MTHSIG14	addpluginrepositories add plugin repositories list repository repositories
+MTHSIG11	addrepositories add repositories list repository repositories
+MTHSIG12	addrepository add repository repository repository
+MTHSIG19	addrepository add repository repository repository containingpath path path
+MTHSIG10	updateprojecttype update project type projecttype project type projecttype project type
+VARIABLES	context metadataidentificationstring metadata identification dependency plugin repository pluginrepository plugin repository prop filter resource productinfo product info fileevent file event dependencies dependency dependency dependency document exclusion dependency plugin execution goal dependency plugin projecttype project type repositories repository repository repositories repository repository repositories containingpath path path repository document repository path repository containingpath path path repository path candidate property property candidate filter filter candidate resource include resource candidate dependency containingpath path path candidate plugin containingpath path path candidate type pathresolver path resolver filemanager file manager metadataservice metadata service metadatadependencyregistry metadata dependency registry shell uaaregistrationservice uaa registration service pom inputstream input stream document root artifactidelement artifact element artifactid artifact projectname project groupidelement group element toplevelpackagestring top level toplevelpackage top level dependencies buildplugins build plugins repositories pluginrepositories plugin repositories pomproperties pom properties filters resources result dependency dependenciesexcludingversion dependencies excluding version versionsequence version sequence propertyname property prop product mutablefile mutable file document root dependencieselement dependencies element builder mutablefile mutable file document root dependencies depelement dep element groupid group artifactid artifact version type scope systempath system path exclusions exclusionselement exclusions element exclusionelement exclusion element exclusiongroupid exclusion group exclusionartifactid exclusion artifact mutablefile mutable file document root plugins pluginelement plugin element groupid group artifactid artifact version configuration executions executionselement executions element executionelement execution element executionid execution phase executionphase execution phase goalselement goals element goalelement goal element dependencies dependencieselement dependencies element mutablefile mutable file document packaging mutablefile mutable file document root repositorieselement repositories element builder repositoryelement repository element mutablefile mutable file document repositorieselement repositories element mutablefile mutable file document mutablefile mutable file document existing properties propertyelement property element mutablefile mutable file document root properties mutablefile mutable file document build existing filterselement filters element filterelement filter element mutablefile mutable file document mutablefile mutable file document build resources resourceelement resource element directory filtering includes includeelement include element mutablefile mutable file document mutablefile mutable file document root dependencies mutablefile mutable file document root plugins
+VARSIG39	repository repository
+VARSIG34	repository repository
+VARSIG33	repository repository
+VARSIG32	list repository repositories
+VARSIG31	repository repository
+VARSIG38	exception
+VARSIG37	path
+PACKAGE	springframework roo addon maven
+VARSIG36	containingpath path
+VARSIG35	list repository repositories
+VARSIG30	repository repository
+CLASSES	mavenprojectmetadataprovider maven project metadata provider
+VARSIG29	list repository repositories
+VARSIG28	exception
+VARSIG23	execution execution
+VARSIG22	exception
+VARSIG21	plugin plugin
+VARSIG20	dependency dependency
+VARSIG27	projecttype project type projecttype project type
+VARSIG26	plugin plugin
+VARSIG25	dependency dependency
+VARSIG24	goal
+VARSIG7	element prop
+VARSIG6	element pluginrepository plugin repository
+VARSIG9	element resource
+VARSIG8	element filter
+VARSIG3	element dependency
+VARSIG2	exception
+VARSIG5	element repository
+VARSIG4	element plugin
+VARSIG1	metadataidentificationstring metadata identification
+VARSIG0	componentcontext component context context
+VARSIG56	filter filter
+VARSIG55	element candidate
+VARSIG54	exception
+VARSIG53	property property
+VARSIG59	exception
+VARSIG58	filter filter
+VARSIG57	exception
+VARSIG52	exception
+VARSIG51	property property
+VARSIG50	element candidate
+VARSIG45	path
+VARSIG44	containingpath path
+VARSIG43	repository repository
+VARSIG42	path
+VARSIG49	exception
+VARSIG48	path
+VARSIG47	repository repository
+VARSIG46	exception
+VARSIG41	repository repository
+VARSIG40	document document

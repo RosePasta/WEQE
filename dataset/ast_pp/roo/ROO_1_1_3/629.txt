@@ -1,0 +1,65 @@
+MTHSIG26	isvmforceenabled mforce enabled
+MTHSIG27	tostring
+MTHSIG24	isgaeenabled gae enabled
+MTHSIG25	isdatanucleusenabled data nucleus enabled
+MTHSIG22	getresources resources
+MTHSIG23	isgwtenabled gwt enabled
+MTHSIG4	isallrepositoriesregistered repositories registered list repository repositories
+MTHSIG5	isrepositoryregistered repository registered repository repository
+MTHSIG6	isallpluginrepositoriesregistered plugin repositories registered list repository repositories
+MTHSIG7	ispluginrepositoryregistered plugin repository registered repository repository
+VARSIG31	dependency dependency
+MTHSIG0	projectmetadata project metadata javapackage toplevelpackage top level projectname project set dependency dependencies set plugin buildplugins build plugins set repository repositories set repository pluginrepositories plugin repositories set property pomproperties pom properties set filter filters set resource resources pathresolver path resolver pathresolver path resolver
+MTHSIG1	getprojectidentifier project identifier
+PACKAGE	springframework roo project
+MTHSIG2	isalldependenciesregistered dependencies registered list dependency dependencies
+MTHSIG3	isdependencyregistered dependency registered dependency dependency
+MTHSIG20	getproperty property
+MTHSIG21	getfilters filters
+MTHSIG8	isbuildpluginregistered build plugin registered plugin plugin
+VARSIG30	plugin buildplugin build plugin
+MTHSIG9	ispropertyregistered property registered property property
+CLASSES	projectmetadata project metadata
+VARSIG29	plugin buildplugin build plugin
+VARSIG28	plugin buildplugin build plugin
+METHODS	projectmetadata project metadata getprojectidentifier project identifier isalldependenciesregistered dependencies registered isdependencyregistered dependency registered isallrepositoriesregistered repositories registered isrepositoryregistered repository registered isallpluginrepositoriesregistered plugin repositories registered ispluginrepositoryregistered plugin repository registered isbuildpluginregistered build plugin registered ispropertyregistered property registered isfilterregistered filter registered isresourceregistered resource registered gettoplevelpackage top level getprojectname project getpathresolver path resolver getdependencies dependencies getdependenciesexcludingversion dependencies excluding version getbuildplugins build plugins getbuildpluginsexcludingversion build plugins excluding version getpropertiesexcludingvalue properties excluding getproperty property getfilters filters getresources resources isgwtenabled gwt enabled isgaeenabled gae enabled isdatanucleusenabled data nucleus enabled isvmforceenabled mforce enabled tostring
+VARSIG23	plugin
+VARSIG22	plugin plugin
+VARSIG21	dependency
+VARSIG20	dependency dependency
+VARSIG27	property
+VARSIG26	
+VARSIG25	property
+VARSIG24	property property
+VARSIG7	set filter filters
+VARSIG6	set property pomproperties pom properties
+VARSIG9	pathresolver path resolver pathresolver path resolver
+VARSIG8	set resource resources
+VARSIG3	set plugin buildplugins build plugins
+VARSIG2	set dependency dependencies
+VARSIG5	set repository pluginrepositories plugin repositories
+VARSIG4	set repository repositories
+COMMENTS	represents project roo instance single project active time project add ons expected subclass link projectmetadata project metadata implement methods link projectmetadata project metadata offers convenience methods acquiring project top level project registered dependencies path resolution services concrete subclasses register correct dependencies project build system requires read files change subclasses provide valid link pathresolver path resolver implementation understands target project layout mid springframework roo project projectmetadata project metadata project convenience determining presented dependencies registered dependencies dependencies check required dependencies registered convenience determining dependency registered dependency dependency check required dependency registered convenience determining presented repositories registered repositories repositories check required repositories registered convenience determining repository registered repository check required repository registered convenience determining presented plugin repositories registered repositories plugin repositories check required plugin repositories registered convenience determining plugin repository registered repository repository check required plugin repository registered convenience determining build plugin registered plugin check required build plugin registered convenience determining pom property registered property check required property registered convenience determining filter registered filter check required filter registered convenience determining resource registered resource check required resource registered unmodifiable representation dependencies empty locates dependencies match presented dependency excluding version number upgrade cases locate dependencies group artifact type identifications removed dependency locate required note version number comparisons matching dependencies returns empty link set unmodifiable collection build plugins empty locates build plugins match presented plugin excluding version number upgrade cases locate build plugins group artifact identifications removed plugin locate required note version number comparisons matching plugins returns empty link set locates properties match presented property excluding upgrade cases locate properties removed property locate required note comparisons matching properties returns empty link set locates occurence property returns property required property unmodifiable representation filters empty unmodifiable representation resources empty determines gwt maven plugin exists pom gwt maven plugin pom xml determines google app engine maven plugin exists pom maven gae plugin pom xml determines datanucleus data nucleus maven plugin exists pom maven datanucleus plugin pom xml determines vmforce mforce maven dependency exists pom force sdk pom xml
+VARSIG19	resource resource
+VARSIG1	projectname project
+VARSIG18	filter filter
+VARSIG0	javapackage toplevelpackage top level
+VARSIG17	property property
+VARSIG12	list repository repositories
+VARSIG11	dependency dependency
+VARSIG10	list dependency dependencies
+VARSIG16	plugin plugin
+VARSIG15	repository repository
+VARSIG14	list repository repositories
+VARSIG13	repository repository
+MTHSIG17	getbuildplugins build plugins
+MTHSIG18	getbuildpluginsexcludingversion build plugins excluding version plugin plugin
+MTHSIG15	getdependencies dependencies
+MTHSIG16	getdependenciesexcludingversion dependencies excluding version dependency dependency
+MTHSIG13	getprojectname project
+MTHSIG14	getpathresolver path resolver
+MTHSIG11	isresourceregistered resource registered resource resource
+MTHSIG12	gettoplevelpackage top level
+MTHSIG19	getpropertiesexcludingvalue properties excluding property property
+MTHSIG10	isfilterregistered filter registered filter filter
+VARIABLES	toplevelpackage top level projectname project dependencies buildplugins build plugins repositories pluginrepositories plugin repositories pomproperties pom properties filters resources pathresolver path resolver dependencies dependency repositories repository repositories repository plugin property filter resource dependency plugin property buildplugin build plugin buildplugin build plugin buildplugin build plugin dependency project identifier toplevelpackage top level projectname project dependencies buildplugins build plugins repositories pluginrepositories plugin repositories pomproperties pom properties filters resources pathresolver path resolver result result result tsc

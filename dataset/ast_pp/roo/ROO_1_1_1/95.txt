@@ -1,0 +1,91 @@
+VARSIG39	sharedtype shared type type
+MTHSIG4	getphysicaltypemetadata physical type metadata declaredbymetadataid declared metadata
+VARSIG34	filedetails file details
+MTHSIG5	resolvetypes resolve types javatype type javatype type typed
+VARSIG33	projectmetadata project metadata projectmetadata project metadata
+MTHSIG6	gettemplatedetails template details templatedatadictionary template data dictionary datadictionary data dictionary templatefile template file javatype type templatetype template type
+VARSIG32	filemanager file manager filemanager file manager
+MTHSIG7	clonemethod clone methodmetadatabuilder metadata builder metadataid metadata
+VARSIG31	metadataid metadata
+MTHSIG0	onfileevent file event fileevent file event fileevent file event
+VARSIG38	clazz
+MTHSIG1	updateapplicationentitytypesprocessor update application entity types processor filemanager file manager filemanager file manager projectmetadata project metadata projectmetadata project metadata
+VARSIG37	projectmetadata project metadata projectmetadata project metadata
+PACKAGE	springframework roo addon gwt
+MTHSIG2	buildtype build type sharedtype shared type desttype dest type templatedatadictionary template data dictionary datadictionary data dictionary
+VARSIG36	mirrortype mirror type type
+MTHSIG3	createabstractbuilder create builder classorinterfacetypedetailsbuilder type details builder concreteclass concrete
+VARSIG35	exception
+MTHSIG20	addreference add reference templatedatadictionary template data dictionary datadictionary data dictionary sharedtype shared type type
+MTHSIG21	addimport add templatedatadictionary template data dictionary datadictionary data dictionary importdeclaration declaration
+MTHSIG8	clonefieldbuilder clone field builder fieldmetadatabuilder field metadata builder field metadataid metadata
+VARSIG30	fieldmetadatabuilder field metadata builder field
+MTHSIG9	updateapplicationrequestfactory update application request factory filemanager file manager filemanager file manager projectmetadata project metadata projectmetadata project metadata
+CLASSES	gwtfilelistener gwt file listener
+VARSIG29	metadataid metadata
+VARSIG28	methodmetadatabuilder metadata builder
+METHODS	onfileevent file event updateapplicationentitytypesprocessor update application entity types processor buildtype build type createabstractbuilder create builder getphysicaltypemetadata physical type metadata resolvetypes resolve types gettemplatedetails template details clonemethod clone clonefieldbuilder clone field builder updateapplicationrequestfactory update application request factory getqualifiedtype qualified type getqualifiedtype qualified type updatelistplacerenderer update list place renderer write updatemasteractivities update master activities addimport add updatedetailsactivities update details activities updatemobileactivities update mobile activities builddatadictionary build data dictionary getdestinationjavatype destination type addreference add reference addimport add
+VARSIG23	javatype type genericparamtype type
+VARSIG22	javatype type typed
+VARSIG21	javatype type
+VARSIG20	declaredbymetadataid declared metadata
+VARSIG27	templateexception template exception
+VARSIG26	javatype type templatetype template type
+VARSIG25	templatefile template file
+VARSIG24	templatedatadictionary template data dictionary datadictionary data dictionary
+VARSIG63	importdeclaration declaration
+VARSIG62	templatedatadictionary template data dictionary datadictionary data dictionary
+VARSIG61	sharedtype shared type type
+VARSIG60	templatedatadictionary template data dictionary datadictionary data dictionary
+VARSIG7	javasymbolname symbol fieldname field
+VARSIG6	templatedatadictionary template data dictionary datadictionary data dictionary
+VARSIG9	javasymbolname symbol methodname
+VARSIG8	fieldmetadatabuilder field metadata builder fieldbuilder field builder
+VARSIG3	filedetails file details
+VARSIG2	projectmetadata project metadata projectmetadata project metadata
+VARSIG5	sharedtype shared type desttype dest type
+VARSIG4	exception
+COMMENTS	listens creation deletion files link gwtmetadata gwt metadata todo needed happened gwt auto generated file starting monitoring ismaintainedbyroo maintained roo figure proxy file called proxyfile proxy file eventpath event path endswith ends proxy proxyfile proxy file eventpath event path fileevent file event getfiledetails file details getfile file getname substring length drop sharedtype shared type sharedtype shared type values endswith ends getfullname full endswith ends roo gwt shared type don care suffix inclusive suffix find longest match match bestmatch match mirrortype mirror type mirrortype mirror type values suffix getsuffix suffix endswith ends suffix suffix length bestmatch match length drop filename suffix extension bestmatch match suffix entityname entity substring lastindexof suffix proxyfile proxy file gwtpath gwt path managed request canonicalfilesystempath canonical file system path projectmetadata project metadata entityname entity proxy hastext text proxyfile proxy file proxy file computed input eventpath event path calculate proxy portion simplifies working simplename simple file proxyfile proxy file getname simplename simple simplename simple substring simplename simple length drop proxy hastext text simplename simple simple computed input eventpath event path point directory structure correspond files exist refresh application wide files drop filename drop proxy suffix filename drop filename drop proxy suffix filename drop filename drop proxy suffix filename write disk update file verify file changed mutablefile mutable file source destination content drop filename drop proxy suffix filename drop filename drop proxy suffix filename
+VARSIG19	javasymbolname symbol paramname
+VARSIG1	filemanager file manager filemanager file manager
+VARSIG18	javatype type typetype type type
+VARSIG0	fileevent file event fileevent file event
+VARSIG17	annotatedjavatype annotated type type
+VARSIG12	classorinterfacetypedetailsbuilder type details builder innertype type
+VARSIG56	exception
+VARSIG11	javatype type innertypename type
+VARSIG55	filedetails file details
+VARSIG10	methodmetadatabuilder metadata builder methodbuilder builder
+VARSIG54	mirrortype mirror type mirrortype mirror type
+VARSIG53	simplename simple
+VARSIG16	constructormetadata constructor metadata constructormetadata constructor metadata
+VARSIG15	javatype type extendedtype extended type
+VARSIG59	sharedtype shared type desttype dest type
+VARSIG14	classorinterfacetypedetailsbuilder type details builder concreteclass concrete
+VARSIG58	sharedtype shared type desttype dest type
+VARSIG13	exception
+VARSIG57	exception
+VARSIG52	templatedatadictionary template data dictionary datadictionary data dictionary
+VARSIG51	exception
+VARSIG50	filedetails file details
+MTHSIG17	updatemobileactivities update mobile activities
+MTHSIG18	builddatadictionary build data dictionary sharedtype shared type desttype dest type
+MTHSIG15	addimport add templatedatadictionary template data dictionary datadictionary data dictionary simplename simple mirrortype mirror type mirrortype mirror type
+MTHSIG16	updatedetailsactivities update details activities
+MTHSIG13	write destfile dest file newcontents contents filemanager file manager filemanager file manager
+MTHSIG14	updatemasteractivities update master activities
+MTHSIG11	getqualifiedtype qualified type sharedtype shared type type projectmetadata project metadata projectmetadata project metadata
+MTHSIG12	updatelistplacerenderer update list place renderer filemanager file manager filemanager file manager projectmetadata project metadata projectmetadata project metadata
+MTHSIG19	getdestinationjavatype destination type sharedtype shared type desttype dest type
+VARSIG45	destfile dest file
+VARSIG44	exception
+VARSIG43	filedetails file details
+VARSIG42	projectmetadata project metadata projectmetadata project metadata
+VARSIG49	ioexception exception ioe
+VARSIG48	ioexception exception ignoreandjustoverwriteit ignore overwrite
+VARSIG47	filemanager file manager filemanager file manager
+VARSIG46	newcontents contents
+MTHSIG10	getqualifiedtype qualified type mirrortype mirror type type projectmetadata project metadata projectmetadata project metadata clazz
+VARIABLES	fileevent file event filemanager file manager projectmetadata project metadata desttype dest type datadictionary data dictionary fieldname field fieldbuilder field builder methodname methodbuilder builder innertypename type innertype type concreteclass concrete extendedtype extended type constructormetadata constructor metadata type typetype type type paramname declaredbymetadataid declared metadata typed genericparamtype type datadictionary data dictionary templatefile template file templatetype template type metadataid metadata field metadataid metadata filemanager file manager projectmetadata project metadata type projectmetadata project metadata clazz type projectmetadata project metadata filemanager file manager projectmetadata project metadata destfile dest file newcontents contents filemanager file manager ignoreandjustoverwriteit ignore overwrite ioe datadictionary data dictionary simplename simple mirrortype mirror type desttype dest type desttype dest type datadictionary data dictionary type datadictionary data dictionary importdeclaration declaration filemanager file manager metadataservice metadata service physicaltypemetadataprovider physical type metadata provider projectmetadata project metadata processedapplicationfiles processed application files eventpath event path ismaintainedbyroo maintained roo type datadictionary data dictionary locate antpath ant path fullpath full path simplename simple entity entity entity entity entity entity childtype child type templateclass template templateclassbuilder template builder concretedestfile concrete dest file abstractclassbuilder builder fieldstoremove fields remove methodstoremove methods remove builder originaltype original type innertypebuilder type builder output abstractdestfile dest file output concretetype concrete type abstractname abstracttype type abstractid builder supertypeid type supertype type abstractconstructor constructor typemap type map newtype type paramtypes types typeparam type bodybuilder body builder typemap type map typecountmatch type count match templateloader template loader template templatecontents template contents templateid template methodmetadatabuilder metadata builder fieldmetadatabuilder field metadata builder type datadictionary data dictionary locate antpath ant path fullpath full path simplename simple entity type datadictionary data dictionary locate antpath ant path fullpath full path simplename simple watchedmethods watched methods mutablefile mutable file existing type datadictionary data dictionary locate antpath ant path fullpath full path simplename simple watchfields watch fields watchedmethods watched methods type datadictionary data dictionary locate antpath ant path fullpath full path simplename simple entity watchfields watch fields watchedmethods watched methods type datadictionary data dictionary javatype type datadictionary data dictionary
+VARSIG41	filemanager file manager filemanager file manager
+VARSIG40	projectmetadata project metadata projectmetadata project metadata

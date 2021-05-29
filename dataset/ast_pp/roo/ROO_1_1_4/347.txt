@@ -1,0 +1,18 @@
+VARSIG7	exception
+VARSIG6	url
+VARSIG3	map options
+VARSIG2	viewname view
+VARSIG5	exception
+VARSIG4	url
+COMMENTS	provider embed videos url specific install expected format http youtube watch lfl lfl expected format http video google videoplay docid expected format http vimeo expected format http viddler explore failblog videos expected format http screenr glr
+CLASSES	videoembeddedprovider video embedded provider
+VARSIG1	viewname view
+VARSIG0	url
+METHODS	embed install getscreenrid screenr getviddlerid viddler tostring
+MTHSIG4	tostring
+MTHSIG0	embed url viewname view
+MTHSIG1	install viewname view map options
+PACKAGE	springframework roo addon web mvc embedded provider
+MTHSIG2	getscreenrid screenr url
+MTHSIG3	getviddlerid viddler url
+VARIABLES	url viewname view viewname view options url url options options options options split options provider video xml doc movie movieid movie xml doc movie movieurl movie url videoprovider video provider tsc

@@ -1,0 +1,134 @@
+MTHSIG4	insertfield insert field javasymbolnam symbol fieldnam field javatyp type fieldtyp field type javatyp type typenam type notnul nullrequir requir comment column transientmodifi modifi permitreservedword permit reserv 
+VARSIG78	clioption cli option kei mandatori unspecifieddefaultvalu unspecifi optioncontext option context updat project receiv field javatyp type typenam type 
+MTHSIG5	insertfield insert field fielddetail field detail fielddetail field detail permitreservedword permit reserv transientmodifi modifi 
+VARSIG77	clioption cli option kei type mandatori optioncontext option context project type entiti refer javatyp type fieldtyp field type 
+MTHSIG6	addfieldnumb add field number javasymbolnam symbol fieldnam field javatyp type fieldtyp field type javatyp type typenam type notnul nullrequir requir decimalmin decim min decimalmax decim max integ digitsinteg digit integ integ digitsfract digit fraction min max column comment transientmodifi modifi primit uniqu permitreservedword permit reserv 
+VARSIG76	clioption cli option kei fieldnam field mandatori field add javasymbolnam symbol fieldnam field 
+MTHSIG7	addfieldstr add field javasymbolnam symbol fieldnam field javatyp type typenam type notnul nullrequir requir decimalmin decim min decimalmax decim max integ sizemin size min integ sizemax size max regexp column comment transientmodifi modifi uniqu permitreservedword permit reserv 
+VARSIG75	clioption cli option kei permitreservedword permit reserv mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu reserv roo permitreservedword permit reserv 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	deactiv componentcontext compon context context 
+MTHSIG2	isjdkfieldmanagementavail jdk field manag 
+MTHSIG3	isjpafieldmanagementavail jpa field manag 
+VARSIG79	clioption cli option kei notnul mandatori specifieddefaultvalu notnul 
+VARSIG70	clioption cli option kei column mandatori jpa column column 
+MTHSIG8	addfielddatejpa add field jpa javasymbolnam symbol fieldnam field javatyp type fieldtyp field type datefieldpersistencetyp field persist type persistencetyp persist type javatyp type typenam type notnul nullrequir requir column comment transientmodifi modifi permitreservedword permit reserv datetim time dateformat format datetim time timeformat time format pattern 
+VARSIG74	clioption cli option kei mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu mark field transientmodifi modifi 
+MTHSIG9	addfieldboolean add field javasymbolnam symbol fieldnam field javatyp type typenam type notnul nullrequir requir assertfals asserttru column comment primit transientmodifi modifi permitreservedword permit reserv 
+VARSIG73	clioption cli option kei primit mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu primit type primit 
+VARSIG72	clioption cli option kei comment mandatori option comment javadoc doc comment 
+VARSIG71	clioption cli option kei mandatori insert option spring annot content 
+METHODS	activ deactiv isjdkfieldmanagementavail jdk field manag isjpafieldmanagementavail jpa field manag insertfield insert field insertfield insert field addfieldnumb add field number addfieldstr add field addfielddatejpa add field jpa addfieldboolean add field addfieldreferencejpa add field refer jpa addfieldsetjpa add field set jpa addfieldenum add field addfieldembeddedjpa add field embed jpa 
+VARSIG67	clioption cli option kei nullrequir requir mandatori specifieddefaultvalu nullrequir requir 
+VARSIG66	clioption cli option kei notnul mandatori specifieddefaultvalu notnul 
+VARSIG65	clioption cli option kei mandatori unspecifieddefaultvalu unspecifi optioncontext option context updat project receiv field javatyp type typenam type 
+VARSIG64	clioption cli option kei fieldnam field mandatori field add javasymbolnam symbol fieldnam field 
+VARSIG69	clioption cli option kei asserttru mandatori specifieddefaultvalu asserttru 
+VARSIG110	clioption cli option kei permitreservedword permit reserv mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu reserv roo permitreservedword permit reserv 
+VARSIG68	clioption cli option kei assertfals mandatori specifieddefaultvalu assertfals 
+VARSIG111	clioption cli option kei fieldnam field mandatori field add javasymbolnam symbol fieldnam field 
+VARSIG112	clioption cli option kei type mandatori optioncontext option context project type embedd javatyp type fieldtyp field type 
+VARSIG113	clioption cli option kei mandatori unspecifieddefaultvalu unspecifi optioncontext option context updat project entiti receiv field javatyp type typenam type 
+VARSIG114	clioption cli option kei permitreservedword permit reserv mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu reserv roo permitreservedword permit reserv 
+VARSIG63	clioption cli option kei datetimeformatpattern time format pattern mandatori datetim time format pattern yyyi pattern 
+VARSIG62	clioption cli option kei timeformat time format mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu style time format datetimeformatpattern time format pattern datetim time timeformat time format 
+VARSIG61	clioption cli option kei dateformat format mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu style format datetimeformatpattern time format pattern datetim time dateformat format 
+VARSIG60	clioption cli option kei permitreservedword permit reserv mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu reserv roo permitreservedword permit reserv 
+COMMENTS	addit shell command purpos creat field separ decid check jpa registr check request entiti jpa entiti check request entiti jpa entiti check field type jpa embedd check request entiti jpa entiti 
+VARSIG19	clioption cli option kei nullrequir requir mandatori specifieddefaultvalu nullrequir requir 
+VARSIG18	clioption cli option kei notnul mandatori specifieddefaultvalu notnul 
+VARSIG17	clioption cli option kei mandatori unspecifieddefaultvalu unspecifi optioncontext option context updat project receiv field javatyp type typenam type 
+VARSIG12	fielddetail field detail fielddetail field detail 
+VARSIG11	clioption cli option kei permitreservedword permit reserv mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu reserv roo permitreservedword permit reserv 
+VARSIG99	clioption cli option kei mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu mark field transientmodifi modifi 
+VARSIG10	clioption cli option kei mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu mark field transientmodifi modifi 
+VARSIG98	clioption cli option kei comment mandatori option comment javadoc doc comment 
+VARSIG97	clioption cli option kei fetch mandatori fetch semant jpa level fetch fetch 
+VARSIG16	clioption cli option kei type mandatori optioncontext option context number type entiti javatyp type fieldtyp field type 
+VARSIG15	clioption cli option kei fieldnam field mandatori field add javasymbolnam symbol fieldnam field 
+VARSIG14	transientmodifi modifi 
+VARSIG13	permitreservedword permit reserv 
+VARSIG92	clioption cli option kei notnul mandatori specifieddefaultvalu notnul 
+VARSIG91	clioption cli option kei mappedbi map mandatori field referenc type own relationship javasymbolnam symbol mappedbi map 
+VARSIG90	clioption cli option kei mandatori unspecifieddefaultvalu unspecifi optioncontext option context updat project receiv field javatyp type typenam type 
+VARSIG96	clioption cli option kei cardin mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu relationship cardinarili jpa level cardin cardin 
+VARSIG95	clioption cli option kei sizemax size max mandatori maximum number element collect integ sizemax size max 
+VARSIG94	clioption cli option kei sizemin size min mandatori minimum number element collect integ sizemin size min 
+VARSIG93	clioption cli option kei nullrequir requir mandatori specifieddefaultvalu nullrequir requir 
+MTHSIG13	addfieldembeddedjpa add field embed jpa javasymbolnam symbol fieldnam field javatyp type fieldtyp field type javatyp type typenam type permitreservedword permit reserv 
+MTHSIG11	addfieldsetjpa add field set jpa javasymbolnam symbol fieldnam field javatyp type fieldtyp field type javatyp type typenam type javasymbolnam symbol mappedbi map notnul nullrequir requir integ sizemin size min integ sizemax size max cardin cardin fetch fetch comment transientmodifi modifi permitreservedword permit reserv 
+MTHSIG12	addfieldenum add field javasymbolnam symbol fieldnam field javatyp type fieldtyp field type javatyp type typenam type column notnul nullrequir requir enumtyp type enumtyp type comment transientmodifi modifi permitreservedword permit reserv 
+VARSIG89	clioption cli option kei type mandatori entiti contain set javatyp type fieldtyp field type 
+VARSIG88	clioption cli option kei fieldnam field mandatori field add javasymbolnam symbol fieldnam field 
+VARSIG87	clioption cli option kei permitreservedword permit reserv mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu reserv roo permitreservedword permit reserv 
+VARSIG86	clioption cli option kei mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu mark field transientmodifi modifi 
+VARSIG81	clioption cli option kei joincolumnnam join column mandatori jpa joincolumn join column joincolumnnam join column 
+MTHSIG10	addfieldreferencejpa add field refer jpa javasymbolnam symbol fieldnam field javatyp type fieldtyp field type javatyp type typenam type notnul nullrequir requir joincolumnnam join column referencedcolumnnam referenc column cardin cardin fetch fetch comment transientmodifi modifi permitreservedword permit reserv 
+VARSIG80	clioption cli option kei nullrequir requir mandatori specifieddefaultvalu nullrequir requir 
+VARIABLES	context context fieldnam field fieldtyp field type typenam type notnul nullrequir requir comment column transientmodifi modifi permitreservedword permit reserv fielddetail field detail permitreservedword permit reserv transientmodifi modifi fieldnam field fieldtyp field type typenam type notnul nullrequir requir decimalmin decim min decimalmax decim max digitsinteg digit integ digitsfract digit fraction min max column comment transientmodifi modifi primit uniqu permitreservedword permit reserv fieldnam field typenam type notnul nullrequir requir decimalmin decim min decimalmax decim max sizemin size min sizemax size max regexp column comment transientmodifi modifi uniqu permitreservedword permit reserv fieldnam field fieldtyp field type persistencetyp persist type typenam type notnul nullrequir requir column comment transientmodifi modifi permitreservedword permit reserv dateformat format timeformat time format pattern fieldnam field typenam type notnul nullrequir requir assertfals asserttru column comment primit transientmodifi modifi permitreservedword permit reserv fieldnam field fieldtyp field type typenam type notnul nullrequir requir joincolumnnam join column referencedcolumnnam referenc column cardin fetch comment transientmodifi modifi permitreservedword permit reserv fieldnam field fieldtyp field type typenam type mappedbi map notnul nullrequir requir sizemin size min sizemax size max cardin fetch comment transientmodifi modifi permitreservedword permit reserv fieldnam field fieldtyp field type typenam type column notnul nullrequir requir enumtyp type comment transientmodifi modifi permitreservedword permit reserv fieldnam field fieldtyp field type typenam type permitreservedword permit reserv memberdetailsscann member detail scanner metadataservic metadata servic projectoper project oper staticfieldconvert field convert typemanagementservic type manag servic legalnumericprimit legal numer primit physicaltypeidentifi physic type identifi fielddetail field detail annot initi collectionfield collect field modifi fieldbuild field builder physicaltypeidentifi physic type identifi fielddetail field detail physicaltypeidentifi physic type identifi fielddetail field detail physicaltypeidentifi physic type identifi fielddetail field detail physicaltypeidentifi physic type identifi fielddetail field detail physicaltypemetadata physic type metadata ptd classorinterfacetypedetail type detail memberdetail member detail entityannot entiti annot physicaltypeidentifi physic type identifi fielddetail field detail physicaltypemetadata physic type metadata ptd classorinterfacetypedetail type detail memberdetail member detail entityannot entiti annot physicaltypeidentifi physic type identifi param fielddetail field detail physicaltypeidentifi physic type identifi fielddetail field detail physicaltypemetadata physic type metadata ptd physicaltypeidentifi physic type identifi targettypemetadata target type metadata targetptd target ptd classorinterfacetypedetail type detail memberdetail member detail fielddetail field detail 
+VARSIG85	clioption cli option kei comment mandatori option comment javadoc doc comment 
+VARSIG84	clioption cli option kei fetch mandatori fetch semant jpa level fetch fetch 
+VARSIG83	clioption cli option kei cardin mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu relationship cardinarili jpa level cardin cardin 
+VARSIG82	clioption cli option kei referencedcolumnnam referenc column mandatori jpa joincolumn join column referencedcolumnnam referenc column referencedcolumnnam referenc column 
+VARSIG39	clioption cli option kei sizemin size min mandatori minimum length integ sizemin size min 
+VARSIG34	clioption cli option kei mandatori unspecifieddefaultvalu unspecifi optioncontext option context updat project receiv field javatyp type typenam type 
+VARSIG33	clioption cli option kei fieldnam field mandatori field add javasymbolnam symbol fieldnam field 
+VARSIG32	clioption cli option kei permitreservedword permit reserv mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu reserv roo permitreservedword permit reserv 
+VARSIG31	clioption cli option kei uniqu mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu mark field uniqu constraint uniqu 
+VARSIG38	clioption cli option kei decimalmax decim max mandatori bigdecim big decim base represent maximum decimalmax decim max 
+VARSIG37	clioption cli option kei decimalmin decim min mandatori bigdecim big decim base represent minimum decimalmin decim min 
+PACKAGE	springframework roo classpath oper 
+VARSIG36	clioption cli option kei nullrequir requir mandatori specifieddefaultvalu nullrequir requir 
+VARSIG35	clioption cli option kei notnul mandatori specifieddefaultvalu notnul 
+VARSIG30	clioption cli option kei primit mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu primit type primit 
+CLASSES	fieldcommand field command 
+VARSIG29	clioption cli option kei mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu mark field transientmodifi modifi 
+VARSIG28	clioption cli option kei mandatori insert option spring annot content 
+VARSIG23	clioption cli option kei digitsfract digit fraction mandatori maximum number fraction digit accept number integ digitsfract digit fraction 
+VARSIG22	clioption cli option kei digitsinteg digit integ mandatori maximum number integr digit accept number integ digitsinteg digit integ 
+VARSIG21	clioption cli option kei decimalmax decim max mandatori bigdecim big decim base represent maximum decimalmax decim max 
+VARSIG20	clioption cli option kei decimalmin decim min mandatori bigdecim big decim base represent minimum decimalmin decim min 
+VARSIG27	clioption cli option kei comment mandatori option comment javadoc doc comment 
+VARSIG26	clioption cli option kei column mandatori jpa column column 
+VARSIG25	clioption cli option kei max mandatori maximum max 
+VARSIG24	clioption cli option kei min mandatori minimum min 
+VARSIG7	clioption cli option kei comment mandatori option comment javadoc doc comment 
+VARSIG109	clioption cli option kei mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu mark field transientmodifi modifi 
+VARSIG6	clioption cli option kei nullrequir requir mandatori specifieddefaultvalu nullrequir requir 
+VARSIG9	clioption cli option kei mandatori insert option spring annot content 
+VARSIG8	clioption cli option kei column mandatori jpa column column 
+VARSIG3	clioption cli option kei type mandatori type field javatyp type fieldtyp field type 
+VARSIG2	clioption cli option kei fieldnam field mandatori field javasymbolnam symbol fieldnam field 
+VARSIG5	clioption cli option kei notnul mandatori specifieddefaultvalu notnul 
+VARSIG4	clioption cli option kei mandatori unspecifieddefaultvalu unspecifi optioncontext option context updat project receiv field javatyp type typenam type 
+VARSIG1	componentcontext compon context context 
+VARSIG0	componentcontext compon context context 
+VARSIG56	clioption cli option kei column mandatori jpa column column 
+VARSIG55	clioption cli option kei mandatori specifieddefaultvalu 
+VARSIG54	clioption cli option kei mandatori specifieddefaultvalu 
+VARSIG53	clioption cli option kei nullrequir requir mandatori specifieddefaultvalu nullrequir requir 
+VARSIG59	clioption cli option kei mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu mark field transientmodifi modifi 
+VARSIG58	clioption cli option kei mandatori insert option spring annot content 
+VARSIG57	clioption cli option kei comment mandatori option comment javadoc doc comment 
+VARSIG100	clioption cli option kei permitreservedword permit reserv mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu reserv roo permitreservedword permit reserv 
+VARSIG101	clioption cli option kei fieldnam field mandatori field add javasymbolnam symbol fieldnam field 
+VARSIG102	clioption cli option kei type mandatori type field javatyp type fieldtyp field type 
+VARSIG103	clioption cli option kei mandatori unspecifieddefaultvalu unspecifi optioncontext option context updat project receiv field javatyp type typenam type 
+VARSIG104	clioption cli option kei column mandatori jpa column column 
+VARSIG52	clioption cli option kei notnul mandatori specifieddefaultvalu notnul 
+VARSIG105	clioption cli option kei notnul mandatori specifieddefaultvalu notnul 
+VARSIG51	clioption cli option kei mandatori unspecifieddefaultvalu unspecifi optioncontext option context updat project receiv field javatyp type typenam type 
+VARSIG106	clioption cli option kei nullrequir requir mandatori specifieddefaultvalu nullrequir requir 
+VARSIG50	clioption cli option kei persistencetyp persist type mandatori type persist storag datefieldpersistencetyp field persist type persistencetyp persist type 
+VARSIG107	clioption cli option kei enumtyp type mandatori fetch semant jpa level enumtyp type enumtyp type 
+VARSIG108	clioption cli option kei comment mandatori option comment javadoc doc comment 
+VARSIG45	clioption cli option kei mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu mark field transientmodifi modifi 
+VARSIG44	clioption cli option kei comment mandatori option comment javadoc doc comment 
+VARSIG43	clioption cli option kei mandatori insert option spring annot content 
+VARSIG42	clioption cli option kei column mandatori jpa column column 
+VARSIG49	clioption cli option kei type mandatori optioncontext option context type entiti javatyp type fieldtyp field type 
+VARSIG48	clioption cli option kei fieldnam field mandatori field add javasymbolnam symbol fieldnam field 
+VARSIG47	clioption cli option kei permitreservedword permit reserv mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu reserv roo permitreservedword permit reserv 
+VARSIG46	clioption cli option kei uniqu mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu mark field uniqu constraint uniqu 
+VARSIG41	clioption cli option kei regexp mandatori requir regular express pattern regexp 
+VARSIG40	clioption cli option kei sizemax size max mandatori maximum length integ sizemax size max 

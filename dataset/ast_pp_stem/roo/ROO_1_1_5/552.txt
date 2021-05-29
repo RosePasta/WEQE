@@ -1,0 +1,19 @@
+VARSIG7	methodtarget target target 
+VARSIG6	optioncontext option context 
+VARSIG9	requiredtyp requir type 
+VARSIG8	pgpkeyid pgp kei candid 
+VARSIG3	list complet 
+VARSIG2	optioncontext option context 
+VARSIG5	originaluserinput origin user input 
+VARSIG4	requiredtyp requir type 
+COMMENTS	link convert link pgpkeyid pgp kei 
+CLASSES	pgpkeyidconvert pgp kei convert 
+VARSIG1	requiredtyp requir type 
+VARSIG0	 
+METHODS	convertfromtext convert text getallpossiblevalu valu support 
+VARSIG10	optioncontext option context 
+MTHSIG0	convertfromtext convert text requiredtyp requir type optioncontext option context 
+MTHSIG1	getallpossiblevalu valu list complet requiredtyp requir type originaluserinput origin user input optioncontext option context methodtarget target target 
+PACKAGE	springframework roo felix pgp 
+MTHSIG2	support requiredtyp requir type optioncontext option context 
+VARIABLES	requiredtyp requir type optioncontext option context complet requiredtyp requir type originaluserinput origin user input optioncontext option context target candid requiredtyp requir type optioncontext option context pgpservic pgp servic 

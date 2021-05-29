@@ -1,0 +1,15 @@
+VARSIG2	methodparamet paramet callerparamet caller paramet 
+COMMENTS	unit test link repositoryjpalayerprovid repositori jpa layer provid fixtur assert link repositoryjpalayerprovid repositori jpa layer provid gener expect call paramet expectedmethodcal expect call methodkei kei callerparamet caller paramet set invok check set mock link repositoryjpaloc repositori jpa locat link persistencememberloc persist member locat mock repositori test entiti invok check invok check 
+CLASSES	repositoryjpalayerprovidertest repositori jpa layer provid test 
+VARSIG1	methodmetadatacustomdatakei metadata custom data kei methodkei kei 
+VARSIG0	expectedmethodcal expect call 
+METHODS	assertmethodcal call setup set setupmockrepositori set mock repositori testgetadditionsfornonrepositorylayermethod test addit repositori layer testgetadditionswhennorepositoriesexist test addit repositori exist testgetfindalladdit test find addit testgetflushaddit test flush addit 
+MTHSIG4	testgetadditionswhennorepositoriesexist test addit repositori exist 
+MTHSIG5	testgetfindalladdit test find addit 
+MTHSIG6	testgetflushaddit test flush addit 
+MTHSIG0	assertmethodcal call expectedmethodcal expect call methodmetadatacustomdatakei metadata custom data kei methodkei kei methodparamet paramet callerparamet caller paramet 
+MTHSIG1	setup set 
+PACKAGE	springframework roo addon layer repositori jpa 
+MTHSIG2	setupmockrepositori set mock repositori 
+MTHSIG3	testgetadditionsfornonrepositorylayermethod test addit repositori layer 
+VARIABLES	expectedmethodcal expect call methodkei kei callerparamet caller paramet caller mid layerprovid layer provid mockidtyp mock type mockrepositoryloc mock repositori locat mocktargetent mock target entiti addit mockrepositorydetail mock repositori detail mockfieldmetadata mock field metadata mockrepositorytyp mock repositori type addit addit entityparamet entiti paramet 

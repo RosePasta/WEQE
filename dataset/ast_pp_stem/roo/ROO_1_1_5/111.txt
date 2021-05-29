@@ -1,0 +1,72 @@
+VARSIG39	isfirst 
+MTHSIG4	getparametertyp paramet type list token token javasymbolnam symbol findernam finder plural 
+VARSIG34	fieldtoken field token fieldtoken field token 
+MTHSIG5	getlocatedmut locat mutat memberdetail member detail memberdetail member detail 
+VARSIG33	simpletypenam simpl type 
+MTHSIG6	ismethodofinterest interest methodmetadata metadata 
+VARSIG32	originalfind origin finder 
+MTHSIG7	token memberdetail member detail memberdetail member detail javasymbolnam symbol findernam finder plural 
+VARSIG31	finder 
+MTHSIG0	getfind finder memberdetail member detail memberdetail member detail plural depth set javasymbolnam symbol exclus 
+VARSIG38	prepend 
+MTHSIG1	getqueryhold queri holder memberdetail member detail memberdetail member detail javasymbolnam symbol findernam finder plural entitynam entiti 
+VARSIG37	set javasymbolnam symbol finder 
+PACKAGE	springframework roo addon finder 
+MTHSIG2	getjpaqueri jpa queri list token token simpletypenam simpl type javasymbolnam symbol findernam finder plural entitynam entiti 
+VARSIG36	fieldmetadata field metadata field 
+MTHSIG3	getparameternam paramet name list token token javasymbolnam symbol findernam finder plural 
+VARSIG35	reservedtoken reserv token reservedtoken reserv token 
+MTHSIG8	getfirsttoken token sortedset sort set fieldtoken field token fieldtoken field token finder originalfind origin finder simpletypenam simpl type 
+VARSIG30	sortedset sort set fieldtoken field token fieldtoken field token 
+MTHSIG9	createfind creat finder fieldmetadata field metadata field set javasymbolnam symbol finder prepend isfirst 
+CLASSES	dynamicfinderservicesimpl dynam finder servic impl 
+VARSIG29	methodmetadata metadata methodmetadata metadata 
+VARSIG28	plural 
+METHODS	getfind finder getqueryhold queri holder getjpaqueri jpa queri getparameternam paramet name getparametertyp paramet type getlocatedmut locat mutat ismethodofinterest interest token getfirsttoken token createfind creat finder populatefind popul finder istransi isnumberord number getconcretejavatyp concret type 
+VARSIG23	memberdetail member detail memberdetail member detail 
+VARSIG22	plural 
+VARSIG21	javasymbolnam symbol findernam finder 
+VARSIG20	list token token 
+VARSIG27	javasymbolnam symbol findernam finder 
+VARSIG26	memberdetail member detail memberdetail member detail 
+VARSIG25	methodmetadata metadata 
+VARSIG24	methodmetadata metadata methodmetadata metadata 
+VARSIG7	plural 
+VARSIG6	javasymbolnam symbol findernam finder 
+VARSIG9	finderfieldtokenmissingexcept finder field token miss except 
+VARSIG8	entitynam entiti 
+VARSIG3	set javasymbolnam symbol exclus 
+VARSIG2	depth 
+VARSIG5	memberdetail member detail memberdetail member detail 
+VARSIG4	fieldmetadata field metadata field 
+COMMENTS	implement link dynamicfinderservic dynam finder servic ignor util map field type roo remov field token replac min max start findbi find remov finder findbi find sequenc wrong finder past finder accident find field match paramet mutat add finder todo finderfieldtokenmissingexcept finder field token miss except easier detect finder start reserv field token add field return link javatyp type link memberdetail member detail object type link memberholdingtypedetail member hold type detail search memberdetail member detail link memberdetail member detail search requir javatyp type 
+VARSIG19	plural 
+VARSIG1	plural 
+VARSIG18	javasymbolnam symbol findernam finder 
+VARSIG0	memberdetail member detail memberdetail member detail 
+VARSIG17	list token token 
+VARSIG12	simpletypenam simpl type 
+VARSIG11	list token token 
+VARSIG10	invalidfinderexcept invalid finder except 
+VARSIG16	token token 
+VARSIG15	entitynam entiti 
+VARSIG14	plural 
+VARSIG13	javasymbolnam symbol findernam finder 
+VARSIG52	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG51	memberdetail member detail memberdetail member detail 
+VARSIG50	javatyp type fieldtyp field type 
+MTHSIG13	getconcretejavatyp concret type memberdetail member detail memberdetail member detail 
+MTHSIG11	istransi fieldmetadata field metadata field 
+MTHSIG12	isnumberord number javatyp type fieldtyp field type 
+VARSIG45	prepend 
+VARSIG44	fieldmetadata field metadata field 
+VARSIG43	set javasymbolnam symbol finder 
+VARSIG42	reservedtoken reserv token keyword kei word 
+VARSIG49	fieldmetadata field metadata field 
+VARSIG48	javasymbolnam symbol finder 
+VARSIG47	keyword kei word 
+VARSIG46	isfirst 
+MTHSIG10	populatefind popul finder set javasymbolnam symbol finder fieldmetadata field metadata field prepend isfirst keyword kei word 
+VARIABLES	memberdetail member detail plural depth exclus field memberdetail member detail findernam finder plural entitynam entiti token simpletypenam simpl type findernam finder plural entitynam entiti token token findernam finder plural token findernam finder plural memberdetail member detail methodmetadata metadata memberdetail member detail findernam finder plural methodmetadata metadata fieldtoken field token finder originalfind origin finder simpletypenam simpl type fieldtoken field token reservedtoken reserv token field finder prepend isfirst keyword kei word keyword kei word keyword kei word finder field prepend isfirst keyword kei word finder field fieldtyp field type memberdetail member detail memberholdingtypedetail member hold type detail finder field tempfind temp finder token simpletypenam simpl type jpaqueri jpa queri parametertyp paramet type parameternam paramet name typenam type builder lastfieldtoken field token isnewfield field isfieldappli field appli reservedtoken reserv token fieldnam field setfield set field parameternam paramet name token fieldnam field field fieldnam field field parametertyp paramet type token field field locatedmut locat mutat simpletypenam simpl type finder findbi find fieldtoken field token fieldmetadata field metadata token token tempfind temp finder tempfind temp finder findernam finder findernam finder javatyp type 
+VARSIG41	reservedtoken reserv token keyword kei word 
+VARSIG40	reservedtoken reserv token keyword kei word 

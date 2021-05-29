@@ -1,0 +1,12 @@
+MTHSIG0	signaturedecision signature decision pgpsignature pgp signature pgpsignature pgp signature pgpkeyid pgp key signatureashex signature hex signatureacceptable signature acceptable
+MTHSIG1	getpgpsignature pgp signature
+VARSIG2	signatureacceptable signature acceptable
+PACKAGE	springframework roo felix pgp
+MTHSIG2	getsignatureashex signature hex
+MTHSIG3	issignatureacceptable signature acceptable
+COMMENTS	represents result signature verification link pgpservice pgp service issignatureacceptable signature acceptable inputstream input stream
+CLASSES	signaturedecision signature decision
+VARIABLES	pgpsignature pgp signature signatureashex signature hex signatureacceptable signature acceptable pgpsignature pgp signature signatureacceptable signature acceptable signatureashex signature hex
+VARSIG1	pgpkeyid pgp key signatureashex signature hex
+VARSIG0	pgpsignature pgp signature pgpsignature pgp signature
+METHODS	signaturedecision signature decision getpgpsignature pgp signature getsignatureashex signature hex issignatureacceptable signature acceptable

@@ -1,0 +1,32 @@
+VARSIG3	inputmodulenam input modul 
+VARSIG2	expectedmodulenam expect modul 
+VARSIG5	expectedinstancenam expect instanc 
+VARSIG4	expectedmodulenam expect modul 
+COMMENTS	unit test link logicalpath logic path arbitrari can assert instanc expect valu instanc instanc check requir expectedinstancenam expect instanc expectedmodulenam expect modul assert call link logicalpath logic path getinst instanc path modul expect behaviour inputmodulenam input modul expectedmodulenam expect modul expectedinstancenam expect instanc set invok check invok check invok check set invok check set invok check 
+VARSIG1	expectedinstancenam expect instanc 
+VARSIG0	logicalpath logic path instanc 
+MTHSIG4	testgetinstancefromblankstr test instanc blank 
+MTHSIG5	testgetinstancefromcombinedpathandmodulenam test instanc combin path modul 
+MTHSIG6	testgetinstancefromemptystr test instanc empti 
+MTHSIG7	testgetinstancefromnullstr test instanc 
+MTHSIG0	assertcontextualpath contextu path logicalpath logic path instanc expectedinstancenam expect instanc expectedmodulenam expect modul 
+MTHSIG1	assertgetinst instanc inputmodulenam input modul expectedmodulenam expect modul expectedinstancenam expect instanc 
+PACKAGE	springframework roo project 
+MTHSIG2	testcomparetonul test compar 
+MTHSIG3	testdoesnotequalothertyp test equal type 
+MTHSIG20	testsubmodulerootismoduleroot test modul root modul root 
+MTHSIG8	testgetinstancefrompathnameonli test instanc path 
+MTHSIG9	testgetinstancewithblankmodulenam test instanc blank modul 
+MTHSIG17	testprojectrootisprojectroot test project root project root 
+MTHSIG18	testsamepathsindifferentmodulesarenotequ test path modul equal 
+MTHSIG15	testnonrootpathisnotprojectroot test root path project root 
+MTHSIG16	testprojectrootismoduleroot test project root modul root 
+MTHSIG13	testmodulerootisnotprojectroot test modul root project root 
+MTHSIG14	testnonrootpathisnotmoduleroot test root path modul root 
+MTHSIG11	testgetinstancewithnonblankmodulenam test instanc blank modul 
+MTHSIG12	testgetinstancewithnullmodulenam test instanc modul 
+CLASSES	logicalpathtest logic path test 
+METHODS	assertcontextualpath contextu path assertgetinst instanc testcomparetonul test compar testdoesnotequalothertyp test equal type testgetinstancefromblankstr test instanc blank testgetinstancefromcombinedpathandmodulenam test instanc combin path modul testgetinstancefromemptystr test instanc empti testgetinstancefromnullstr test instanc testgetinstancefrompathnameonli test instanc path testgetinstancewithblankmodulenam test instanc blank modul testgetinstancewithemptymodulenam test instanc empti modul testgetinstancewithnonblankmodulenam test instanc blank modul testgetinstancewithnullmodulenam test instanc modul testmodulerootisnotprojectroot test modul root project root testnonrootpathisnotmoduleroot test root path modul root testnonrootpathisnotprojectroot test root path project root testprojectrootismoduleroot test project root modul root testprojectrootisprojectroot test project root project root testsamepathsindifferentmodulesarenotequ test path modul equal testsamepathsinsamemoduleareequ test path modul equal testsubmodulerootismoduleroot test modul root modul root 
+MTHSIG19	testsamepathsinsamemoduleareequ test path modul equal 
+MTHSIG10	testgetinstancewithemptymodulenam test instanc empti modul 
+VARIABLES	instanc expectedinstancenam expect instanc expectedmodulenam expect modul inputmodulenam input modul expectedmodulenam expect modul expectedinstancenam expect instanc path modul modul path instanc instanc instanc instanc instanc instanc instanc equal instanc instanc instanc instanc equal 

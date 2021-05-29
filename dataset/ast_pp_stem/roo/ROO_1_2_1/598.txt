@@ -1,0 +1,34 @@
+VARSIG7	annotatedjavatyp annot type parametertyp paramet type 
+VARSIG6	javasymbolnam symbol parameternam paramet 
+VARSIG9	invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+VARSIG8	javatyp type throwstyp type 
+VARSIG3	invocablemembermetadata invoc member metadata exist 
+VARSIG2	declaredbymetadataid declaredbi metadata 
+VARSIG5	javatyp type parametertyp paramet type 
+VARSIG4	parameternam paramet 
+COMMENTS	assist develop builder build object extend link abstractinvocablemembermetadata invoc member metadata 
+VARSIG1	declaredbymetadataid declaredbi metadata 
+VARSIG0	invocablemembermetadata invoc member metadata exist 
+MTHSIG4	addparameternam add paramet javasymbolnam symbol parameternam paramet 
+VARSIG12	list javatyp type throwstyp type 
+MTHSIG5	addparametertyp add paramet type annotatedjavatyp annot type parametertyp paramet type 
+VARSIG11	list annotatedjavatyp annot type parametertyp paramet type 
+MTHSIG6	addthrowstyp add type javatyp type throwstyp type 
+VARSIG10	list javasymbolnam symbol parameternam paramet name 
+MTHSIG7	getbodi bodi 
+MTHSIG0	abstractinvocablemembermetadatabuild invoc member metadata builder invocablemembermetadata invoc member metadata exist 
+MTHSIG1	abstractinvocablemembermetadatabuild invoc member metadata builder declaredbymetadataid declaredbi metadata 
+PACKAGE	springframework roo classpath detail 
+MTHSIG2	abstractinvocablemembermetadatabuild invoc member metadata builder declaredbymetadataid declaredbi metadata invocablemembermetadata invoc member metadata exist 
+MTHSIG3	addparamet add paramet parameternam paramet javatyp type parametertyp paramet type 
+MTHSIG8	getbodybuild bodi builder 
+MTHSIG9	getparameternam paramet name 
+MTHSIG15	setthrowstyp set type list javatyp type throwstyp type 
+MTHSIG13	setparameternam set paramet name list javasymbolnam symbol parameternam paramet name 
+MTHSIG14	setparametertyp set paramet type list annotatedjavatyp annot type parametertyp paramet type 
+MTHSIG11	getthrowstyp type 
+MTHSIG12	setbodybuild set bodi builder invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+CLASSES	abstractinvocablemembermetadatabuild invoc member metadata builder 
+METHODS	abstractinvocablemembermetadatabuild invoc member metadata builder abstractinvocablemembermetadatabuild invoc member metadata builder abstractinvocablemembermetadatabuild invoc member metadata builder addparamet add paramet addparameternam add paramet addparametertyp add paramet type addthrowstyp add type getbodi bodi getbodybuild bodi builder getparameternam paramet name getparametertyp paramet type getthrowstyp type setbodybuild set bodi builder setparameternam set paramet name setparametertyp set paramet type setthrowstyp set type 
+MTHSIG10	getparametertyp paramet type 
+VARIABLES	exist declaredbymetadataid declaredbi metadata declaredbymetadataid declaredbi metadata exist parameternam paramet parametertyp paramet type parameternam paramet parametertyp paramet type throwstyp type bodybuild bodi builder parameternam paramet name parametertyp paramet type throwstyp type bodybuild bodi builder parameternam paramet name parametertyp paramet type throwstyp type 

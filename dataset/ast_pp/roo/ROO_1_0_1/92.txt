@@ -1,0 +1,26 @@
+VARSIG7	unwanted
+VARSIG6	ioexception exception ioe
+VARSIG9	exception
+VARSIG8	url
+VARSIG3	file dir
+VARSIG2	file candidate
+VARSIG5	file addon
+VARSIG4	
+COMMENTS	returns directory roo installation current link shell implementation roo directory creates roo work directory exception directory created reason work directory guaranteed exist directory shell restart desired delete work directory contents remove jar track jar deferred deletion decision directories work jar file shouldn write file variable cwd clarify write file dist lib jar don care file don delete file verify existing file told user problem can rewrite file jvm work file exists correct size leave file doesn exist create remove unwanted files shutdown exit code roo startup script reload roo rid windows paths file check close roo add temp file exit
+VARSIG1	path
+VARSIG0	shell shell
+MTHSIG4	install url
+VARSIG12	file addon
+MTHSIG5	uninstall pattern
+VARSIG11	pattern
+MTHSIG6	list
+VARSIG10	ioexception exception ioe
+MTHSIG0	addonoperations add operations shell shell
+MTHSIG1	getroohome roo
+PACKAGE	springframework roo bootstrap
+MTHSIG2	getdir dir path
+MTHSIG3	cleanup clean
+VARSIG13	file addon
+CLASSES	addonoperations add operations
+METHODS	addonoperations add operations getroohome roo getdir dir cleanup clean install uninstall list
+VARIABLES	shell path candidate dir addon ioe unwanted url ioe pattern addon addon logger shell dir roohome roo addondir addon dir workdir work dir changespending pending workjarstodelete work jars delete addons entries entry tmpfile tmp file simplename simple parent workfile work file delete addondir addon dir path filename tmpfile tmp file entries looksok entry target addondir addon dir addons changespending pending addondir addon dir addons

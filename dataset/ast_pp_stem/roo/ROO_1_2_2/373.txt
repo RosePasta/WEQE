@@ -1,0 +1,16 @@
+VARSIG6	javatyp type domaintyp domain type 
+VARSIG3	javatyp type domaintyp domain type 
+VARSIG2	javatyp type interfacetyp type 
+VARSIG5	javatyp type classtyp type 
+VARSIG4	javatyp type interfacetyp type 
+COMMENTS	link serviceoper servic oper implement type exist type exist 
+CLASSES	serviceoperationsimpl servic oper impl 
+VARSIG1	javatyp type classtyp type 
+VARSIG0	javatyp type interfacetyp type 
+METHODS	createserviceclass creat servic createserviceinterfac creat servic isserviceinstallationposs servic instal setupservic setup servic 
+MTHSIG0	createserviceclass creat servic javatyp type interfacetyp type javatyp type classtyp type 
+MTHSIG1	createserviceinterfac creat servic javatyp type interfacetyp type javatyp type domaintyp domain type 
+PACKAGE	springframework roo addon layer servic 
+MTHSIG2	isserviceinstallationposs servic instal 
+MTHSIG3	setupservic setup servic javatyp type interfacetyp type javatyp type classtyp type javatyp type domaintyp domain type 
+VARIABLES	interfacetyp type classtyp type interfacetyp type domaintyp domain type interfacetyp type classtyp type domaintyp domain type filemanag file manag pathresolv path resolv projectoper project oper typemanagementservic type manag servic classidentifi identifi classmid mid classtypebuild type builder interfaceidentifi identifi interfaceannotationmetadata annot metadata interfacemid mid interfacetypebuild type builder 

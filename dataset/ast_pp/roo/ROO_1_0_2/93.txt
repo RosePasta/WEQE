@@ -1,0 +1,15 @@
+VARSIG3	commandmarker command marker bean
+VARSIG2	applicationcontextlocation application context location
+VARSIG5	executethenquit execute quit
+VARSIG4	converter bean
+COMMENTS	loads link shell spring ioc container ensure jdk log messages deferred target registered set suitable priority level spring framework log messages set suitable priority level roo log messages roo handlerutils handler utils getlogger logger shouldn happen fallback
+CLASSES	bootstrap
+VARSIG1	runtimeexception runtime exception
+VARSIG0	
+METHODS	bootstrap setuplogging setup logging
+MTHSIG0	
+MTHSIG1	bootstrap applicationcontextlocation application context location
+PACKAGE	springframework roo bootstrap
+MTHSIG2	setuplogging setup logging
+MTHSIG3	executethenquit execute quit
+VARIABLES	applicationcontextlocation application context location bean bean executethenquit execute quit bootstrap shell ctx applicationcontextlocation application context location executethenquit execute quit exitshellrequest exit shell request shells commands converters rootlogger root logger sfwlogger sfw logger roologger roo logger exitshellrequest exit shell request successful

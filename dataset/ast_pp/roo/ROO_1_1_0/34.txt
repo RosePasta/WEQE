@@ -1,0 +1,30 @@
+VARSIG7	attributes attributes
+VARSIG6	qname
+VARSIG9	attributes attributes
+VARSIG8	attributes attributes
+VARSIG3	attributes attributes
+VARSIG2	qname
+VARSIG5	localname local
+VARSIG4	uri
+COMMENTS	link contenthandler content handler implementation converting dbre xml file link database object
+VARSIG1	localname local
+VARSIG0	uri
+MTHSIG4	enddocument document
+VARSIG12	indextype type indextype type
+MTHSIG5	populatetable populate table attributes attributes
+VARSIG11	attributes attributes
+MTHSIG6	populatecolumn populate column attributes attributes
+VARSIG10	attributes attributes
+MTHSIG7	populateforeignkey populate foreign key attributes attributes
+MTHSIG0	databasecontenthandler database content handler
+MTHSIG1	getdatabase database
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	startelement start element uri localname local qname attributes attributes
+MTHSIG3	endelement element uri localname local qname
+VARSIG13	attributes attributes
+MTHSIG8	populatereference populate reference attributes attributes
+MTHSIG9	populateindex populate attributes attributes indextype type indextype type
+CLASSES	databasecontenthandler database content handler
+METHODS	databasecontenthandler database content handler getdatabase database startelement start element endelement element enddocument document populatetable populate table populatecolumn populate column populateforeignkey populate foreign key populatereference populate reference populateindex populate populateindexcolumn populate column
+MTHSIG10	populateindexcolumn populate column attributes attributes
+VARIABLES	uri localname local qname attributes uri localname local qname attributes attributes attributes attributes attributes indextype type attributes database schema tables table column foreignkey foreign key reference indexcolumn column sequences size precisionscale precision scale

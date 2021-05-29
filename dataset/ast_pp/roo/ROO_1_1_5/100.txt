@@ -1,0 +1,29 @@
+VARSIG7	itdfilename filename
+VARSIG6	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG9	javatype type javatype type
+VARSIG8	metadataidentificationstring metadata identification
+VARSIG3	type
+VARSIG2	type
+VARSIG5	javatype type aspectname aspect
+VARSIG4	metadataidentificationstring metadata identification
+COMMENTS	implementation link entitymetadataprovider entity metadata provider governor type details safely parse annotation expect walk inheritance hierarchy find existing entitymetadata entity metadata plural can acquire plural project chance refresh item monitor parent type parent trickle governing type disabling automated creation arg constructors add providing sophisticated constructor creation facilities noargconstructor arg constructor automatically link entitymetadata entity metadata arg constructor arg constructors defined link physicaltypemetadata physical type metadata defaults
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+MTHSIG4	getannotationmetadata annotation metadata type
+MTHSIG5	getannotationmetadatalist annotation metadata list type
+VARSIG11	noargconstructor arg constructor
+MTHSIG6	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+VARSIG10	path path
+MTHSIG7	getitduniquenessfilenamesuffix uniqueness filename suffix
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo addon entity
+MTHSIG2	registermatchers register matchers
+MTHSIG3	unregistermatchers unregister matchers
+MTHSIG8	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+MTHSIG9	createlocalidentifier create local identifier javatype type javatype type path path
+MTHSIG11	setnoargconstructor set arg constructor noargconstructor arg constructor
+CLASSES	entitymetadataproviderimpl entity metadata provider impl
+METHODS	activate deactivate registermatchers register matchers unregistermatchers unregister matchers getannotationmetadata annotation metadata getannotationmetadatalist annotation metadata list getmetadata metadata getitduniquenessfilenamesuffix uniqueness filename suffix getgovernorphysicaltypeidentifier governor physical type identifier createlocalidentifier create local identifier getprovidestype type setnoargconstructor set arg constructor
+MTHSIG10	getprovidestype type
+VARIABLES	context context type type metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename metadataidentificationstring metadata identification javatype type path noargconstructor arg constructor configurablemetadataprovider configurable metadata provider pluralmetadataprovider plural metadata provider customdatakeydecorator custom data key decorator noargconstructor arg constructor idannotation annotation embeddedidannotation embedded annotation idandembeddedidfieldtagger embedded field tagger identifierfieldtagger identifier field tagger embeddedidfieldtagger embedded field tagger annotationmetadata annotation metadata versionfieldtagger version field tagger annotationvalues annotation values parent supercid cid supercidphysicaltypeidentifier cid physical type identifier path supercidlocalidentifier cid local identifier javatype type path key pluralmetadata plural metadata projectmetadata project metadata memberdetails member details identifierserviceresult identifier service result javatype type path

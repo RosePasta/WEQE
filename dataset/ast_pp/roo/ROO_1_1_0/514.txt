@@ -1,0 +1,31 @@
+VARSIG7	throwable
+VARSIG6	runtimeexception runtime exception
+VARSIG9	runtimeexception runtime exception
+VARSIG8	commandcallback command callback callback
+VARSIG3	throwable
+VARSIG2	componentcontext component context context
+VARSIG5	commandcallback command callback callback
+VARSIG4	throwable
+COMMENTS	implementation link processmanager process manager pass minimum poll negative denotes auto scaling time poll completed poll working directory current roo project working directory framework properties todo move constant proper location start thread undertake background poll lost required component undomanager undo manager roo check thread lock processmanagerstatus process manager status lock processmanagerstatus process manager status odd quick sanity check called correct time don synchronization lock shouldn register initial monitoring request determine thread running don sit wait called milliseconds check thread lock processmanagerstatus process manager status don poll failure background polling thread die acquire lock thread hold process manager status requested operation guarantee scans repeat detected worked clear undo history wrong attempt undo todo review consultation christian sts clearing active process manager activeprocessmanager active process manager clearactiveprocessmanager clear active process manager manual polling timer kick poll negative minimum delay poll auto scaling poll fast duration sliding scale poll record completion time ensure don poll compute milliseconds ensure correctly reflects minimumdelaybetweenpoll minimum delay poll milliseconds pass poll milliseconds pass poll manual interval milliseconds poll execution complete execution time
+VARSIG1	frameworkevent framework event event
+VARSIG0	componentcontext component context context
+MTHSIG4	execute commandcallback command callback callback
+VARSIG12	minimumdelaybetweenpoll minimum delay poll
+MTHSIG5	logexception log exception throwable
+VARSIG11	developmentmode development mode
+MTHSIG6	dotransactionally transactionally commandcallback command callback callback
+VARSIG10	throwable
+MTHSIG7	timerbasedpoll timer based poll
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo process manager internal
+MTHSIG2	completestartup complete startup
+MTHSIG3	backgroundpoll background poll
+MTHSIG8	isdevelopmentmode development mode
+MTHSIG9	setdevelopmentmode set development mode developmentmode development mode
+MTHSIG11	getminimumdelaybetweenpoll minimum delay poll
+MTHSIG12	getlastpollduration poll duration
+CLASSES	defaultprocessmanager process manager
+METHODS	activate deactivate completestartup complete startup backgroundpoll background poll execute logexception log exception dotransactionally transactionally timerbasedpoll timer based poll isdevelopmentmode development mode setdevelopmentmode set development mode setminimumdelaybetweenpoll set minimum delay poll getminimumdelaybetweenpoll minimum delay poll getlastpollduration poll duration
+MTHSIG10	setminimumdelaybetweenpoll set minimum delay poll minimumdelaybetweenpoll minimum delay poll
+VARIABLES	context event context callback callback developmentmode development mode minimumdelaybetweenpoll minimum delay poll logger undomanager undo manager filemonitorservice file monitor service startlevel start level developmentmode development mode minimumdelaybetweenpoll minimum delay poll lastpolltime poll time lastpollduration poll duration workingdir working dir root message trace result effectiveminimumdelaybetweenpoll effective minimum delay poll started

@@ -1,0 +1,21 @@
+VARSIG7	modulename module
+VARSIG6	gav parentpom parent pom
+VARSIG9	integer majorjavaversion major version
+VARSIG8	packagingprovider packaging provider packagingtype packaging type
+VARSIG3	gav parentpom parent pom
+VARSIG2	integer majorjavaversion major version
+VARSIG5	javapackage toplevelpackage top level
+VARSIG4	packagingprovider packaging provider packagingtype packaging type
+COMMENTS	maven project operations maven project created creates maven based project toplevelpackage top level top level required projectname project project blank generate top level majorjavaversion major version major version project targetted autodetect parentpom parent pom maven coordinates parent pom packagingtype packaging type packaging project creates module existing maven project toplevelpackage top level top level required parentpom parent pom maven coordinates parent pom modulename module artifactid artifact module packagingtype packaging type packaging module majorjavaversion major version major version module targetted autodetect executes maven command command command arguments requires clean install ioexception exception
+CLASSES	mavenoperations maven operations
+VARSIG1	projectname project
+VARSIG0	javapackage toplevelpackage top level
+METHODS	iscreateprojectavailable create project getprojectroot project root createproject create project createmodule create module executemvncommand execute mvn command
+MTHSIG4	executemvncommand execute mvn command command
+VARSIG10	command
+MTHSIG0	iscreateprojectavailable create project
+MTHSIG1	getprojectroot project root
+PACKAGE	springframework roo project
+MTHSIG2	createproject create project javapackage toplevelpackage top level projectname project integer majorjavaversion major version gav parentpom parent pom packagingprovider packaging provider packagingtype packaging type
+MTHSIG3	createmodule create module javapackage toplevelpackage top level gav parentpom parent pom modulename module packagingprovider packaging provider packagingtype packaging type integer majorjavaversion major version
+VARIABLES	toplevelpackage top level projectname project majorjavaversion major version parentpom parent pom packagingtype packaging type toplevelpackage top level parentpom parent pom modulename module packagingtype packaging type majorjavaversion major version command

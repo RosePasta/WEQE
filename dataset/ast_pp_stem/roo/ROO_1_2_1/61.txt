@@ -1,0 +1,42 @@
+VARSIG7	defaultvalu 
+VARSIG6	autoincr auto increment 
+VARSIG9	primarykei primari kei 
+VARSIG8	descript 
+MTHSIG24	tostr 
+VARSIG3	columns column size 
+VARSIG2	typenam type 
+MTHSIG22	setrequir set requir requir 
+VARSIG5	object obj 
+MTHSIG23	setuniqu set uniqu uniqu 
+VARSIG4	scale 
+COMMENTS	repres column databas model roo 
+VARSIG1	datatyp data type 
+VARSIG0	 
+MTHSIG4	getdefaultvalu 
+MTHSIG5	getdescript descript 
+VARSIG11	uniqu 
+MTHSIG6	getescapednam escap 
+VARSIG10	requir 
+MTHSIG7	getjavatyp type 
+MTHSIG0	column datatyp data type typenam type columns column size scale 
+MTHSIG1	equal object obj 
+PACKAGE	springframework roo addon dbre model 
+MTHSIG2	getcolumns column size 
+MTHSIG3	getdatatyp data type 
+MTHSIG20	setdescript set descript descript 
+MTHSIG21	setprimarykei set primari kei primarykei primari kei 
+MTHSIG8	getjdbctyp jdbc type 
+MTHSIG9	getnam 
+MTHSIG17	isuniqu uniqu 
+MTHSIG18	setautoincr set auto increment autoincr auto increment 
+MTHSIG15	isprimarykei primari kei 
+MTHSIG16	isrequir requir 
+MTHSIG13	init 
+MTHSIG14	isautoincr auto increment 
+MTHSIG11	gettypenam type 
+MTHSIG12	hashcod hash code 
+CLASSES	column 
+METHODS	column equal getcolumns column size getdatatyp data type getdefaultvalu getdescript descript getescapednam escap getjavatyp type getjdbctyp jdbc type getnam getscal scale gettypenam type hashcod hash code init isautoincr auto increment isprimarykei primari kei isrequir requir isuniqu uniqu setautoincr set auto increment setdefaultvalu set setdescript set descript setprimarykei set primari kei setrequir set requir setuniqu set uniqu tostr 
+MTHSIG19	setdefaultvalu set defaultvalu 
+MTHSIG10	getscal scale 
+VARIABLES	datatyp data type typenam type columns column size scale obj autoincr auto increment defaultvalu descript primarykei primari kei requir uniqu autoincr auto increment columns column size datatyp data type defaultvalu descript javatyp type jdbctype jdbc type primarykei primari kei requir scale typenam type uniqu prime result 

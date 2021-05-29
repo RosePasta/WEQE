@@ -1,0 +1,17 @@
+VARSIG3	bundlecontext bundl context context 
+VARSIG2	object obj 
+VARSIG4	bundl 
+COMMENTS	repres bundl symbol locat bundl bundlesymbolicnam bundl symbol context search requir 
+CLASSES	bundlesymbolicnam bundl symbol 
+VARSIG1	bundlesymbolicnam bundl symbol 
+VARSIG0	kei 
+METHODS	bundlesymbolicnam bundl symbol compareto compar equal findbundleidwithoutfail find bundl fail getkei kei hashcod hash code tostr 
+MTHSIG4	getkei kei 
+MTHSIG5	hashcod hash code 
+MTHSIG6	tostr 
+MTHSIG0	bundlesymbolicnam bundl symbol kei 
+MTHSIG1	compareto compar bundlesymbolicnam bundl symbol 
+PACKAGE	springframework roo felix 
+MTHSIG2	equal object obj 
+MTHSIG3	findbundleidwithoutfail find bundl fail bundlecontext bundl context context 
+VARIABLES	kei obj context kei bundl builder 

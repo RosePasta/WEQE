@@ -1,0 +1,26 @@
+VARSIG7	developmentmod develop mode 
+VARSIG6	ioexcept except ioe 
+VARSIG9	processedlin process 
+VARSIG8	ioexcept except ignoreit ignor 
+VARSIG3	path 
+VARSIG2	ioexcept except ioe 
+VARSIG5	shellstatu shell statu newstatu statu 
+VARSIG4	shellstatu shell statu oldstatu statu 
+COMMENTS	featur rich jline librari provid interact shell window lack color ansi servic box implement automat detect classpath presenc jansi addit jansi ansi support includ colour jna librari librari nix machin support colour ansi special effort implement written reflect order avoid hard depend jansi jna consoleread consol reader constructor thread reader setdebug set debug printwrit print writer filewrit file writer writer debug superclass ansi termin shellprompt shell prompt correct let ensur decor outputstream output stream pars ansi code reset origin shell shell color shutdown close stream encod window consol output roo write let record time user command fail unix end roo tail work shut close file reopen need obtain roo system properti throw except miss roo system properti 
+VARSIG1	except 
+VARSIG0	executionstrategi execut strategi executionstrategi execut strategi 
+MTHSIG4	getpars parser 
+MTHSIG5	setdevelopmentmod set develop mode developmentmod develop mode 
+MTHSIG6	isdevelopmentmod develop mode 
+VARSIG10	ioexcept except ignoreit ignor 
+MTHSIG7	openfilelogifposs open file log 
+MTHSIG0	jlineshel shell executionstrategi execut strategi executionstrategi execut strategi 
+MTHSIG1	setpromptpath set prompt path path 
+PACKAGE	springframework roo shell jline 
+MTHSIG2	createansiwindowsread creat ansi window reader 
+MTHSIG3	promptloop prompt loop 
+MTHSIG8	logcommandtooutput log command output processedlin process 
+MTHSIG9	gethomeasstr 
+CLASSES	jlineshel shell 
+METHODS	jlineshel shell setpromptpath set prompt path createansiwindowsread creat ansi window reader promptloop prompt loop getpars parser setdevelopmentmod set develop mode isdevelopmentmod develop mode openfilelogifposs open file log logcommandtooutput log command output gethomeasstr 
+VARIABLES	executionstrategi execut strategi ioe path oldstatu statu newstatu statu ioe developmentmod develop mode ignoreit ignor processedlin process ignoreit ignor ansi consol classnam jansi reader parser developmentmod develop mode filelog file log handler detect ansi ansiout ansi ansitermin ansi termin roohom roo 

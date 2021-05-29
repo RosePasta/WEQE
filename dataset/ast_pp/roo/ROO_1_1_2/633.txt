@@ -1,0 +1,104 @@
+MTHSIG4	commandnotfound command logger logger buffer
+VARSIG78	cmd
+MTHSIG5	locatetargets locate targets buffer strictmatching strict matching checkavailabilityindicators check availability indicators
+VARSIG77	
+MTHSIG6	ismatch match buffer command strictmatching strict matching
+VARSIG76	commandmarker command marker command
+MTHSIG7	complete buffer cursor list candidates
+VARSIG75	
+MTHSIG0	getavailabilityindicator availability indicator command
+MTHSIG1	parse buffer
+MTHSIG2	getspecifiedunavailableoptions unavailable options set clioption cli option clioptions cli options map options
+MTHSIG3	getclioptions cli options annotation parameterannotations parameter annotations
+VARSIG79	commandmarker command marker command
+VARSIG70	key
+MTHSIG8	helpreferenceguide reference guide
+VARSIG74	object
+MTHSIG9	obtainhelp buffer
+VARSIG73	
+VARSIG72	
+VARSIG71	methodtarget target
+METHODS	getavailabilityindicator availability indicator parse getspecifiedunavailableoptions unavailable options getclioptions cli options commandnotfound command locatetargets locate targets ismatch match complete helpreferenceguide reference guide obtainhelp geteverycommand command add remove add remove
+VARSIG67	
+VARSIG66	clioption cli option key command optioncontext option context availablecommands commands command provide buffer
+VARSIG65	ioexception exception ioe
+VARSIG64	element
+VARSIG69	annotation
+VARSIG68	annotation annotations
+VARSIG63	cmd
+VARSIG62	optionkey option key
+VARSIG61	otherkey key
+VARSIG60	annotation
+COMMENTS	implementation link parser replace multiple spaces single space trim locate applicable targets match buffer let offer informative message user command simply unavailable point time argument conversion time convert arguments attempt parse user care ensure single alias ensure user mandatory accept user option didn provide accept user didn option special token denotes sought values ready perform conversion usable converter fall normal simpletypeconverter simple type converter attempt conversion simpletypeconverter simple type converter simpletypeconverter simple type converter simpletypeconverter simple type converter result simpletypeconverter simple type converter convertifnecessary convert requiredtype required type converter check options user unavailable command reflection optimised good cached reflection noticeable human cli clicommand cli command decide clicommand cli command moment loop ensure conflicting availability indicators defined skip clicommand cli command word buffer let word matched match ensure intended match represents start command word valid match matched earlier ensure didn skip word user skipped word match word command abort left match word unrecognised command abort match match remove spaces command replace multiple spaces single space including portion buffer represented cursor position start locating matches logger info translated stringutils utils collectiontocommadelimitedstring collection comma delimited targets matches buffer they presented assist locate target calculate correct starting position add word target single target provide completion services identify command working reasonable attempt parsing remainingbuffer remaining buffer assume illegalargumentexception illegal argument exception quotation mark mismatch lookup arguments target aren parameters ensure typed command properly space there command haven parameters verify command fully completed type command provide completion failed fully failed command fully quit finish command arguments required clicommand cli command valid command record clioptions cli options applicable command list clioptions cli options they included system list clioptions cli options determine they presently editing option key option full partial option key edited item options map option key they editing handle find option option order declaration signature mandatory options filled handle suggesting option key haven presently they completed full option key pair option key pair full option key pair let list options user naturally skip option that manually determine mandatory unspecifieddefaultvalue unspecified requiring option bound find target parameter parameter store invoke usable converter converter happy bother user entering data handle normal mandatory options abort point suggestions complete option handle completing option key they presently typing haven option form there space buffer typing option key typing option key option left lookup relevant clioption cli option applies lastoptionkey option key parameter type let converter usable converter doesn custom converter let provide defaults simple types provide simple options common types include candidates compatible buffer provide suggestion lastoptionvalue option add result haven typed add result they typed compatible haven typed full roo inline options there multiple choices user pressed tab explicit option values presented space onwards compute sections outputting nice order build appendix build syntax list store order options key option key text figure key empty needed store details include mandatory syntax variable list element figured options store individual command error reported xml parser multiple notations linespecific determined duplicates creating docbook doc book transformer setoutputproperty set output property outputkeys output doctype oasis dtd docbook doc book xml transformer setoutputproperty set output property outputkeys output doctype system http oasis open docbook xml docbookx dtd figure there single command offer single command argument conversion time offer single argument normal operation
+VARSIG19	checkavailabilityindicators check availability indicators
+VARSIG18	strictmatching strict matching
+VARSIG17	buffer
+VARSIG12	annotation parameterannotations parameter annotations
+VARSIG11	suppliedoption supplied option
+VARSIG10	key
+VARSIG16	buffer
+VARSIG15	logger logger
+VARSIG14	annotation
+VARSIG13	annotation annotations
+MTHSIG13	add converter converter
+MTHSIG14	remove converter converter
+MTHSIG11	add commandmarker command marker command
+MTHSIG12	remove commandmarker command marker command
+VARSIG81	cmd
+MTHSIG10	geteverycommand command
+VARSIG80	
+VARIABLES	command buffer clioption cli option possiblekey key candidate clioptions cli options options clioption cli option key suppliedoption supplied option parameterannotations parameter annotations annotations logger buffer buffer strictmatching strict matching checkavailabilityindicators check availability indicators buffer command strictmatching strict matching buffer cursor candidates target annotations option include include include candidate notyetready ready option candidate currentvalue current pathname target ann otherkey key optionkey option key cmd ioe buffer annotations key command cmd command cmd converter converter logger mutex converters commands availabilityindicators availability indicators matchingtargets matching targets methodtarget target parameterannotations parameter annotations arguments options clioptions cli options requiredtype required type result sourcedfrom sourced message result unavailableoptions unavailable options message clioptionkeyset cli option key set unavailableoptions unavailable options clioptions cli options clioption cli option result methods cmd remainingbuffer remaining buffer commandwords command lastcommandwordused command word buffertoreturn buffer lastword word bufferindex buffer buffersofarincludingthis buffer including bufferremaining buffer remaining bufferlastindexofword buffer word wordsofarincludingthis word including candidate translated targets startat start stopat methodtarget target cmd options parameterannotations parameter annotations clioptions cli options clioption cli option alreadyspecified unspecified lastoptionkey option key lastoptionvalue option showallremaining remaining paramtype type paramtypes types option paramtype type allvalues values suffix addspace add space prefix suggestion existing sections methods cmd sectionname matcher builder document builtsections built sections target individualcommands individual commands methods cmd cmdsyntax cmd syntax optionkeys option optiondetails option details option key variablelistelement variable list element anyvars vars proglist prog list safename safe element topsection top appendix bytearrayoutputstream array output stream transformer output matchingtargets matching targets methodtarget target parameterannotations parameter annotations cmd clioption cli option result cmd result methods cmd availability methodtarget target availability
+VARSIG83	converter converter
+VARSIG82	converter converter
+VARSIG39	clioption cli option include
+VARSIG34	
+VARSIG33	
+VARSIG32	illegalargumentexception illegal argument exception
+VARSIG31	methodtarget target target
+VARSIG38	
+VARSIG37	clioption cli option option
+PACKAGE	springframework roo shell
+VARSIG36	annotation
+VARSIG35	annotation annotations
+VARSIG30	list candidates
+CLASSES	simpleparser simple parser
+VARSIG29	cursor
+VARSIG28	buffer
+VARSIG23	exception
+VARSIG22	
+VARSIG21	
+VARSIG20	object
+VARSIG27	strictmatching strict matching
+VARSIG26	command
+VARSIG25	buffer
+VARSIG24	
+VARSIG7	set clioption cli option clioptions cli options
+VARSIG6	runtimeexception runtime exception
+VARSIG9	clioption cli option clioption cli option
+VARSIG8	map options
+VARSIG3	clioption cli option clioption cli option
+VARSIG2	illegalargumentexception illegal argument exception
+VARSIG5	converter candidate
+VARSIG4	possiblekey key
+VARSIG1	buffer
+VARSIG0	command
+VARSIG56	
+VARSIG55	object target
+VARSIG54	file
+VARSIG53	file pathname
+VARSIG59	annotation ann
+VARSIG58	
+VARSIG57	
+VARSIG52	currentvalue current
+VARSIG51	converter candidate
+VARSIG50	
+VARSIG45	annotation
+VARSIG44	converter candidate
+VARSIG43	
+VARSIG42	clioption cli option include
+VARSIG49	
+VARSIG48	clioption cli option option
+VARSIG47	runtimeexception runtime exception notyetready ready
+VARSIG46	annotation
+VARSIG41	
+VARSIG40	clioption cli option include

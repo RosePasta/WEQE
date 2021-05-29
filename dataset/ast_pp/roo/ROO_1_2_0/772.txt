@@ -1,0 +1,14 @@
+VARSIG3	ioexception exception ioe
+VARSIG2	file actual
+VARSIG5	ioexception exception ioe
+VARSIG4	throwable
+COMMENTS	link undoableoperation undoable operation update file constants fields constructor undomanager undo manager filenameresolver filename resolver actual file updated existing file directory roo
+CLASSES	updatefile update file
+VARSIG1	filenameresolver filename resolver filenameresolver filename resolver
+VARSIG0	undomanager undo manager undomanager undo manager
+METHODS	updatefile update file reset undo
+MTHSIG0	updatefile update file undomanager undo manager undomanager undo manager filenameresolver filename resolver filenameresolver filename resolver file actual
+MTHSIG1	reset
+PACKAGE	springframework roo file undo
+MTHSIG2	undo
+VARIABLES	undomanager undo manager filenameresolver filename resolver actual ioe ioe logger filenameresolver filename resolver actual backup

@@ -1,0 +1,21 @@
+MTHSIG13	ismappedsuperclass mapped superclass
+MTHSIG11	getversionfield version field
+MTHSIG12	getversiontype version type
+COMMENTS	purely jpa values single link roojpaentity roo jpa entity link roojpaactiverecord roo jpa active record annotation constructor reading values annotation annotatedtype annotated type type read values required triggerannotation trigger annotation type annotation read values required todo move superclass sibling classes
+CLASSES	jpaentityannotationvalues jpa entity annotation values
+VARSIG1	javatype type annotationtype annotation type
+VARSIG0	memberholdingtypedetailsmetadataitem member holding type details metadata item annotatedtype annotated type
+METHODS	jpaentityannotationvalues jpa entity annotation values getcatalog catalog getentityname entity getidentifiercolumn identifier column getidentifierfield identifier field getidentifiertype identifier type getinheritancetype inheritance type getschema schema getsequencename sequence gettable table getversioncolumn version column getversionfield version field getversiontype version type ismappedsuperclass mapped superclass
+MTHSIG4	getidentifierfield identifier field
+MTHSIG5	getidentifiertype identifier type
+MTHSIG6	getinheritancetype inheritance type
+MTHSIG7	getschema schema
+MTHSIG0	jpaentityannotationvalues jpa entity annotation values memberholdingtypedetailsmetadataitem member holding type details metadata item annotatedtype annotated type javatype type annotationtype annotation type
+MTHSIG1	getcatalog catalog
+PACKAGE	springframework roo addon jpa entity
+MTHSIG2	getentityname entity
+MTHSIG3	getidentifiercolumn identifier column
+MTHSIG10	getversioncolumn version column
+VARIABLES	annotatedtype annotated type annotationtype annotation type catalog entityname entity identifiercolumn identifier column identifierfield identifier field identifiertype identifier type inheritancetype inheritance type mappedsuperclass mapped superclass schema sequencename sequence table versioncolumn version column versionfield version field versiontype version type
+MTHSIG8	getsequencename sequence
+MTHSIG9	gettable table

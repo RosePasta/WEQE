@@ -1,0 +1,37 @@
+VARSIG7	bundleversion bundle version bundleversion bundle version
+VARSIG6	comment comment
+VARSIG9	bundleversion bundle version version
+VARSIG8	bundlekey bundle key
+VARSIG3	comment
+VARSIG2	list comment incomments comments
+VARSIG5	searchrelevance search relevance
+VARSIG4	comment
+COMMENTS	order ranking search relevance equal
+VARSIG1	ranking
+VARSIG0	symbolicname symbolic
+MTHSIG4	getranking ranking
+VARSIG12	bundle
+MTHSIG5	getversions versions
+VARSIG11	list bundle bundles
+MTHSIG6	getcomments comments
+VARSIG10	object obj
+MTHSIG7	addcomment add comment comment comment
+MTHSIG0	bundle symbolicname symbolic ranking list comment incomments comments
+VARSIG16	bundle
+MTHSIG1	getsearchrelevance search relevance
+VARSIG15	bundle
+PACKAGE	springframework roo addon roobot client model
+MTHSIG2	setsearchrelevance set search relevance searchrelevance search relevance
+VARSIG14	list bundle bundles
+MTHSIG3	getsymbolicname symbolic
+VARSIG13	bundle
+MTHSIG8	addversion add version bundleversion bundle version bundleversion bundle version
+MTHSIG9	getlatestversion latest version
+MTHSIG13	orderbyranking order ranking list bundle bundles
+MTHSIG14	orderbysearchrelevance order search relevance list bundle bundles
+MTHSIG11	hashcode hash code
+MTHSIG12	equals object obj
+CLASSES	bundle
+METHODS	bundle getsearchrelevance search relevance setsearchrelevance set search relevance getsymbolicname symbolic getranking ranking getversions versions getcomments comments addcomment add comment addversion add version getlatestversion latest version getbundleversion bundle version hashcode hash code equals orderbyranking order ranking orderbysearchrelevance order search relevance
+MTHSIG10	getbundleversion bundle version bundlekey bundle key
+VARIABLES	symbolicname symbolic ranking incomments comments searchrelevance search relevance comment bundleversion bundle version bundlekey bundle key version obj bundles bundles symbolicname symbolic ranking searchrelevance search relevance versions comments versions split remains prime result

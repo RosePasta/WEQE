@@ -1,0 +1,16 @@
+VARSIG6	element
+VARSIG3	actionconfig action config config
+VARSIG2	actionconfig action config config
+VARSIG5	actionconfig action config config
+VARSIG4	commandtransformation command transformation trafo
+COMMENTS	schedules command execution command execute original command excludes option valid command empty based actionattr removeargs action configuration removes arguments input command trafo trafo transformation object config action configuration processed input command
+CLASSES	execute
+VARSIG1	actionconfig action config config
+VARSIG0	commandtransformation command transformation trafo
+METHODS	executeimpl execute impl getdescription description isvalid valid removeargumentsfrominputcmd remove arguments input cmd
+MTHSIG0	executeimpl execute impl commandtransformation command transformation trafo actionconfig action config config
+MTHSIG1	getdescription description actionconfig action config config
+PACKAGE	springframework roo addon tailor actions
+MTHSIG2	isvalid valid actionconfig action config config
+MTHSIG3	removeargumentsfrominputcmd remove arguments input cmd commandtransformation command transformation trafo actionconfig action config config
+VARIABLES	trafo config config config trafo config element actionattr removeargs processedcommand processed command removeargumentsattribute remove arguments attribute inputcommandstring input command removeargumentslist remove arguments list argtoremove arg remove cmdarguments cmd arguments keyiterator key iterator argname arg

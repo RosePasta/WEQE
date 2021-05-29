@@ -1,0 +1,15 @@
+VARSIG3	except 
+VARSIG2	url 
+VARSIG5	map option 
+VARSIG4	viewnam view 
+COMMENTS	provid emb video url specif instal expect format http youtub watch lfl lfl expect format http video googl videoplai docid expect format http vimeo expect format http viddler explor failblog video expect format http screenr glr 
+CLASSES	videoembeddedprovid video embed provid 
+VARSIG1	viewnam view 
+VARSIG0	url 
+METHODS	tostr emb getviddlerid viddler instal 
+MTHSIG0	tostr 
+MTHSIG1	emb url viewnam view 
+PACKAGE	springframework roo addon web mvc embed provid 
+MTHSIG2	getviddlerid viddler url 
+MTHSIG3	instal viewnam view map option 
+VARIABLES	url viewnam view url viewnam view option videoprovid video provid builder option option option option split option xml doc movi movieurl movi url provid video 

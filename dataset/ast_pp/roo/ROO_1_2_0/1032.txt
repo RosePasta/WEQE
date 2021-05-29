@@ -1,0 +1,119 @@
+MTHSIG4	addfilteratposition add filter position filterposition filter position filterposition filter position afterfiltername filter beforefiltername filter filtername filter filterclass filter urlpattern url pattern document document comment webxmlparam web xml initparams init params
+VARSIG78	element element
+MTHSIG5	addfilteratposition add filter position filterposition filter position filterposition filter position afterfiltername filter beforefiltername filter filtername filter filterclass filter urlpattern url pattern document document comment list webxmlparam web xml initparams init params list dispatcher dispatchers
+VARSIG77	document document
+MTHSIG6	addlistener add listener classname document document comment
+VARSIG76	beforeelementname element
+MTHSIG7	addservlet add servlet servletname servlet classname urlpattern url pattern integer loadonstartup load startup document document comment webxmlparam web xml initparams init params
+VARSIG75	element element
+MTHSIG0	setdisplayname set display displayname display document document comment
+MTHSIG1	setdescription set description description document document comment
+MTHSIG2	addcontextparam add context webxmlparam web xml contextparam context document document comment
+MTHSIG3	addfilter add filter filtername filter filterclass filter urlpattern url pattern document document comment webxmlparam web xml initparams init params
+VARSIG79	afterelementname element
+VARSIG70	rolename role
+MTHSIG8	setsessiontimeout set session timeout timeout document document comment
+VARSIG74	document document
+MTHSIG9	addwelcomefile add file path document document comment
+VARSIG73	beforeelementname element
+VARSIG72	afterelementname element
+VARSIG71	element element
+METHODS	setdisplayname set display setdescription set description addcontextparam add context addfilter add filter addfilteratposition add filter position addfilteratposition add filter position addlistener add listener addservlet add servlet setsessiontimeout set session timeout addwelcomefile add file addexceptiontype add exception type adderrorcode add error code addsecurityconstraint add security constraint insertbetween insert insertbefore insert insertafter insert appendchildifnotpresent append child addlinebreakbefore add addcommentbefore add comment webxmlutils web xml utils
+VARSIG67	webresourcecollection web resource collection webresourcecollection web resource collection
+VARSIG66	comment
+VARSIG65	document document
+VARSIG64	transportguarantee transport guarantee
+VARSIG69	httpmethod http
+VARSIG68	urlpattern url pattern
+VARSIG63	list rolenames role names
+VARSIG62	list webresourcecollection web resource collection webresourcecollections web resource collections
+VARSIG61	displayname display
+VARSIG60	comment
+COMMENTS	helper util convenient handling web xml file web projects constants set display element web xml document displayname display required document web xml document required comment optional set description element web xml document description required document web xml document required comment optional add context web xml document contextparam context required document web xml document required comment optional add filter definition web xml document filter filterposition filter position existing filters filtername filter required filterclass filter fully qualified filter type required urlpattern url pattern required document web xml document required comment optional initparams init params vararg initial parameters optional add filter definition web xml document filter filterposition filter position filterposition filter position filter position required beforefiltername filter optional filter position required filtername filter required filterclass filter fully qualified filter type required urlpattern url pattern required document web xml document required comment optional initparams init params optional add filter definition web xml document filter filterposition filter position filterposition filter position filter position required beforefiltername filter optional filter position required filtername filter required filterclass filter fully qualified filter type required urlpattern url pattern required document web xml document required comment optional initparams init params optional dispatchers optional creating filter creating filter mapping add listener element web xml document classname fully qualified listener type required document required comment optional add servlet element web xml document servletname servlet required classname fully qualified servlet type required urlpattern url pattern set servletname servlet mapping optional loadonstartup load startup optional document required comment optional initparams init params optional create servlet create servlet mapping set session timeout web xml document timeout document required comment optional add file definition web xml document path required document required comment optional add exception type web xml document exceptiontype exception type fully qualified exception type required location required document required comment optional add error code web xml document errorcode error code required location required document required comment optional add security constraint web xml document displayname display optional webresourcecollections web resource collections required rolenames role names optional transportguarantee transport guarantee optional document required comment optional adds child parent parent parent add child required child child add required attempt matching nested structures gettextcontent isequalnode match returns note work child nodes appearing order expected match append child element object holds init style constructor returns parameter define filter position define dispatcher convenience passing web resource collection element element details constructor prevent instantiation
+VARSIG19	filterclass filter
+VARSIG18	filtername filter
+VARSIG17	beforefiltername filter
+VARSIG12	document document
+VARSIG11	urlpattern url pattern
+VARSIG10	filterclass filter
+VARSIG16	afterfiltername filter
+VARSIG15	filterposition filter position filterposition filter position
+VARSIG14	webxmlparam web xml initparams init params
+VARSIG13	comment
+VARSIG92	list urlpatterns url patterns
+VARSIG91	description
+VARSIG90	webresourcename web resource
+VARSIG93	list httpmethods http methods
+MTHSIG17	addlinebreakbefore add element element document document
+MTHSIG18	addcommentbefore add comment element element comment document document
+MTHSIG15	insertafter insert element element afterelementname element document document
+MTHSIG16	appendchildifnotpresent append child node parent element child
+MTHSIG13	insertbetween insert element element afterelementname element beforeelementname element document document
+MTHSIG14	insertbefore insert element element beforeelementname element document document
+MTHSIG11	adderrorcode add error code integer errorcode error code location document document comment
+MTHSIG12	addsecurityconstraint add security constraint displayname display list webresourcecollection web resource collection webresourcecollections web resource collections list rolenames role names transportguarantee transport guarantee document document comment
+MTHSIG19	webxmlutils web xml utils
+VARSIG89	
+VARSIG88	
+VARSIG87	document document
+VARSIG86	comment
+VARSIG81	node parent
+MTHSIG10	addexceptiontype add exception type exceptiontype exception type location document document comment
+VARSIG80	document document
+VARIABLES	displayname display document comment description document comment contextparam context document comment filtername filter filterclass filter urlpattern url pattern document comment initparams init params filterposition filter position afterfiltername filter beforefiltername filter filtername filter filterclass filter urlpattern url pattern document comment initparams init params filterposition filter position afterfiltername filter beforefiltername filter filtername filter filterclass filter urlpattern url pattern document comment initparams init params dispatchers initparam init dispatcher classname document comment servletname servlet classname urlpattern url pattern loadonstartup load startup document comment initparams init params initparam init timeout document comment path document comment exceptiontype exception type location document comment errorcode error code location document comment displayname display webresourcecollections web resource collections rolenames role names transportguarantee transport guarantee document comment webresourcecollection web resource collection urlpattern url pattern httpmethod http rolename role element afterelementname element beforeelementname element document element beforeelementname element document element afterelementname element document parent child element document element comment document webresourcename web resource description urlpatterns url patterns httpmethods http methods web app xpath whitespace displaynameelement display element descriptionelement description element contextparamelement context element filterelement filter element filtermappingelement filter mapping element listenerelement listener element servletelement servlet element servletmappingelement servlet mapping element sessionconfigelement session config element welcomefileelement file element errorpageelement error element errorpageelement error element securityconstraintelement security constraint element webresourcecollectionbuilder web resource collection builder authconstraintbuilder constraint builder userdataconstraintbuilder user data constraint builder beforeelement element afterelement element beforeelement element afterelement element existingchildren existing children existingchild existing child filterposition filter position dispatcher webresourcename web resource description urlpatterns url patterns httpmethods http methods
+VARSIG85	element element
+VARSIG84	document document
+VARSIG83	element element
+VARSIG82	element child
+VARSIG39	servletname servlet
+VARSIG34	webxmlparam web xml initparam init
+VARSIG33	list dispatcher dispatchers
+VARSIG32	list webxmlparam web xml initparams init params
+VARSIG31	comment
+VARSIG38	comment
+VARSIG37	document document
+PACKAGE	springframework roo support util
+VARSIG36	classname
+VARSIG35	dispatcher dispatcher
+VARSIG30	document document
+CLASSES	webxmlutils web xml utils
+VARSIG29	urlpattern url pattern
+VARSIG28	filterclass filter
+VARSIG23	webxmlparam web xml initparams init params
+VARSIG22	comment
+VARSIG21	document document
+VARSIG20	urlpattern url pattern
+VARSIG27	filtername filter
+VARSIG26	beforefiltername filter
+VARSIG25	afterfiltername filter
+VARSIG24	filterposition filter position filterposition filter position
+VARSIG7	document document
+VARSIG6	webxmlparam web xml contextparam context
+VARSIG9	filtername filter
+VARSIG8	comment
+VARSIG3	description
+VARSIG2	comment
+VARSIG5	comment
+VARSIG4	document document
+VARSIG1	document document
+VARSIG0	displayname display
+VARSIG56	comment
+VARSIG55	document document
+VARSIG54	location
+VARSIG53	exceptiontype exception type
+VARSIG59	document document
+VARSIG58	location
+VARSIG57	integer errorcode error code
+VARSIG52	comment
+VARSIG51	document document
+VARSIG50	path
+VARSIG45	webxmlparam web xml initparams init params
+VARSIG44	comment
+VARSIG43	document document
+VARSIG42	integer loadonstartup load startup
+VARSIG49	comment
+VARSIG48	document document
+VARSIG47	timeout
+VARSIG46	webxmlparam web xml initparam init
+VARSIG41	urlpattern url pattern
+VARSIG40	classname

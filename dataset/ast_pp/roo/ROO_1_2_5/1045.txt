@@ -1,0 +1,21 @@
+VARSIG7	exception
+VARSIG6	requestparameters request parameters
+VARSIG3	word
+VARSIG2	path
+VARSIG5	endpoint
+VARSIG4	exception
+COMMENTS	osgi component launcher link jlineshell shell osgi bundle search add root prefix path access twitter twitter api parse returned json operation jsonvalue json parse penalty add roo roo twitter account context notification colourise codes moved shellutils shell utils include helper methods basic attempt pattern identification adequate cases incorrect urls url ttym valid url ttym url twitter username twitter hash tag add separator todo moved http service sort jtt send request servlet send data response
+CLASSES	jlineshellcomponent shell component
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+METHODS	activate deactivate findresources find resources getexecutionstrategy execution strategy getlatestfavouritetweet latest favourite tweet getparser parser getstartupnotifications startup notifications sendgetrequest send request
+MTHSIG4	getlatestfavouritetweet latest favourite tweet
+MTHSIG5	getparser parser
+MTHSIG6	getstartupnotifications startup notifications
+MTHSIG7	sendgetrequest send request endpoint requestparameters request parameters
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo shell jline osgi
+MTHSIG2	findresources find resources path
+MTHSIG3	getexecutionstrategy execution strategy
+VARIABLES	context context path word endpoint requestparameters request parameters executionstrategy execution strategy parser urlinputstreamservice url input stream service context thread object jsonobject json object screenname screen tweet inputstream input stream urlstr url str url

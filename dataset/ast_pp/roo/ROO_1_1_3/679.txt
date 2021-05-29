@@ -1,0 +1,29 @@
+VARSIG7	exception
+VARSIG6	logrecord log record record
+VARSIG9	str
+VARSIG8	logrecord log record event
+VARSIG3	exception
+VARSIG2	logrecord log record record
+VARSIG5	suppressduplicatemessages suppress duplicate messages
+VARSIG4	include
+COMMENTS	jdk logging link handler emits log messages jline link consolereader console reader roo avoid repeating message displayed current message roo roo user semi typed debug message separated cancel typed reset appears empty ensures displayed redrawing restore formatting settings original build event indent nicely left hand side thread text brighter requested system property roo bright works issue windows reverse combination jansi lib leaves negative flag set reset explicitly patched ansibuffer ansi buffer color code add bright code
+VARSIG1	shellpromptaccessor shell prompt accessor shellpromptaccessor shell prompt accessor
+VARSIG0	consolereader console reader reader
+MTHSIG4	cancelredrawprohibition cancel redraw prohibition
+MTHSIG5	setincludethreadname set include thread include
+VARSIG11	code
+MTHSIG6	resetmessagetracking reset message tracking
+VARSIG10	str
+MTHSIG7	issuppressduplicatemessages suppress duplicate messages
+MTHSIG0	jlineloghandler log handler consolereader console reader reader shellpromptaccessor shell prompt accessor shellpromptaccessor shell prompt accessor
+MTHSIG1	flush
+PACKAGE	springframework roo shell jline
+MTHSIG2	close
+MTHSIG3	prohibitredraw prohibit redraw
+MTHSIG8	setsuppressduplicatemessages set suppress duplicate messages suppressduplicatemessages suppress duplicate messages
+MTHSIG9	publish logrecord log record record
+MTHSIG11	getansibuffer ansi buffer
+CLASSES	jlineloghandler log handler
+METHODS	jlineloghandler log handler flush close prohibitredraw prohibit redraw cancelredrawprohibition cancel redraw prohibition setincludethreadname set include thread resetmessagetracking reset message tracking issuppressduplicatemessages suppress duplicate messages setsuppressduplicatemessages set suppress duplicate messages publish todisplay display getansibuffer ansi buffer
+MTHSIG10	todisplay display logrecord log record event
+VARIABLES	reader shellpromptaccessor shell prompt accessor record include suppressduplicatemessages suppress duplicate messages record event str str code bright colors reader shellpromptaccessor shell prompt accessor redrawprohibit redraw prohibit lastmessage message includethreadname include thread ansisupported ansi supported userinterfacethreadname user thread suppressduplicatemessages suppress duplicate messages todisplay display buffer cursor prohibitingredraw prohibiting redraw threadname thread eventstring event lineseparatorandindentingstring separator indenting esc

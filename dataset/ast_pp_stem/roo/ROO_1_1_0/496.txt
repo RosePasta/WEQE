@@ -1,0 +1,23 @@
+VARSIG7	methodnod node 
+VARSIG6	ioexcept except ioe 
+VARSIG9	object 
+VARSIG8	annotationnod annot node annot 
+VARSIG3	file 
+VARSIG2	file file 
+VARSIG5	inputstream input stream input 
+VARSIG4	filenotfoundexcept file except skipandignor skip ignor 
+COMMENTS	locat clicommand cli command clioption cli option annot file convert link commandinfo command info object scan directori includ directori file file check shell annot build consolid list locat link commandinfo command info directori top level directori scan requir list locat annot metadata empti pars present bytecod locat roo clicommand cli command clioption cli option annot convert list link commandinfo command info instanc easier handl input valid file requir list element return clicommand cli command start produc commandinfo command info detail command name text kei clicommand cli command let check clioption cli option valu individu paramet kei clioption cli option 
+CLASSES	annotationpars annot parser 
+VARSIG1	list commandinfo command info sofar 
+VARSIG0	directori 
+METHODS	locateallclassresourc locat resourc locateallclassresourc locat resourc parseshellannotationsinclassfil pars shell annot file 
+VARSIG12	annotationnod annot node element 
+VARSIG11	list annotationnod annot node list 
+VARSIG10	object element 
+MTHSIG0	locateallclassresourc locat resourc directori 
+MTHSIG1	locateallclassresourc locat resourc list commandinfo command info sofar file file 
+PACKAGE	springframework roo mojo addon 
+MTHSIG2	parseshellannotationsinclassfil pars shell annot file inputstream input stream input 
+VARSIG14	object 
+VARSIG13	object 
+VARIABLES	directori sofar file skipandignor skip ignor input ioe annot element list element sofar fi data result method annot annotationtyp annot type builder valu kei parameterannot paramet annot newtyp type mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu optionvalu option valu kei optionnam option name 

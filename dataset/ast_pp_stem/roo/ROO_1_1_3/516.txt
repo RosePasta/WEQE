@@ -1,0 +1,25 @@
+VARSIG7	inputstream input stream signatur 
+VARSIG6	inputstream input stream resourc 
+VARSIG3	pgpkeyid pgp kei keyid kei 
+VARSIG2	pgpkeyid pgp kei keyid kei 
+VARSIG5	inputstream input stream signatur 
+VARSIG4	pgpkeyid pgp kei keyid kei 
+COMMENTS	central locat pgp kei store file verif activ canon file path kei store file exist servic automat trust auto trust activ direct servic automat trust encount automatictrust automat trust obtain present trust user requir internet access list element obtain url human friendli displai kei properti kei server kei upload keyid kei hex encod kei displai requir url trust kei refresh exist kei trust requir internet access complet keyid kei hex encod kei trust requir kei trust refresh server untrust exist kei except kei isn trust requir internet access keyid kei hex encod kei untrust requir kei longer trust cach return instruct implement refresh current trust identifi revok automat untrust requir internet access complet download fail kei trust retain refresh outcom refresh request includ return object map hexadecim kei id valu statu updat return attempt download kei requir internet access complet keyid kei hex encod kei download requir kei except thrown kei unavail signatur accept base present asc file determin asc valid kei produc trust verifi resourc sign asc link isresourcesignedbysignatur resourc sign signatur inputstream input stream inputstream input stream practic term except wrong signatur corrupt return object asc signatur valid kei sign trust requir internet access automat trust mode add kei process internet access requir signatur asc signatur present requir decis resourc sign present asc file decis kei asc valid link issignatureaccept signatur accept inputstream input stream requir internet access resourc resourc present requir signatur asc signatur present requir signatur file verifi resourc discov kei id encount servic start user build tab complet command unmodifi list kei id empti 
+VARSIG1	pgpkeyid pgp kei keyid kei 
+VARSIG0	automatictrust automat trust 
+MTHSIG4	getkeyserverurltoretrievekeyinform kei server url retriev kei pgpkeyid pgp kei keyid kei 
+MTHSIG5	trust pgpkeyid pgp kei keyid kei 
+MTHSIG6	untrust pgpkeyid pgp kei keyid kei 
+MTHSIG7	refresh 
+MTHSIG0	getkeystorephysicalloc kei store physic locat 
+MTHSIG1	isautomatictrust automat trust 
+PACKAGE	springframework roo felix pgp 
+MTHSIG2	setautomatictrust set automat trust automatictrust automat trust 
+MTHSIG3	gettrustedkei trust 
+MTHSIG8	getpublickei kei pgpkeyid pgp kei keyid kei 
+MTHSIG9	issignatureaccept signatur accept inputstream input stream signatur 
+MTHSIG11	getdiscoveredkeyid discov kei id 
+CLASSES	pgpservic pgp servic 
+METHODS	getkeystorephysicalloc kei store physic locat isautomatictrust automat trust setautomatictrust set automat trust gettrustedkei trust getkeyserverurltoretrievekeyinform kei server url retriev kei trust untrust refresh getpublickei kei issignatureaccept signatur accept isresourcesignedbysignatur resourc sign signatur getdiscoveredkeyid discov kei id 
+MTHSIG10	isresourcesignedbysignatur resourc sign signatur inputstream input stream resourc inputstream input stream signatur 
+VARIABLES	automatictrust automat trust keyid kei keyid kei keyid kei keyid kei signatur resourc signatur 

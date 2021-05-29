@@ -1,0 +1,15 @@
+VARSIG3	gav parentpom parent pom
+VARSIG2	javaversion version
+VARSIG5	projectoperations project operations projectoperations project operations
+VARSIG4	modulename module
+COMMENTS	creates initial set artifacts maven packaging type creates initial set artifacts files directories module type packaging includes setting pom pom project packaging element desired toplevelpackage top level top level project module required nullableprojectname nullable project project user blank javaversion version version project module required parentpom parent pom maven coordinates parent pom modulename module module created blank root module projectoperations project operations required path newly created pom returns unique identifier link packagingprovider packaging provider roo user intent party addons provide alternative behaviour maven packaging type core roo war packaging type war user customise war modules generated implement link packagingprovider packaging provider custom war user adds module project shell offer choice war custom war packaging type blank unique returns link path created module addition link path root type packaging projects modules user doesn packaging user defines link packagingprovider packaging provider ensure returns
+CLASSES	packagingprovider packaging provider
+VARSIG1	projectname project
+VARSIG0	javapackage toplevelpackage top level
+METHODS	createartifacts create artifacts getid getpaths paths isdefault
+MTHSIG0	createartifacts create artifacts javapackage toplevelpackage top level projectname project javaversion version gav parentpom parent pom modulename module projectoperations project operations projectoperations project operations
+MTHSIG1	getid
+PACKAGE	springframework roo project packaging
+MTHSIG2	getpaths paths
+MTHSIG3	isdefault
+VARIABLES	toplevelpackage top level projectname project javaversion version parentpom parent pom modulename module projectoperations project operations

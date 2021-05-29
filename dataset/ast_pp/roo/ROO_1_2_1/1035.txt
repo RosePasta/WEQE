@@ -1,0 +1,52 @@
+MTHSIG4	getchildelementsbytagname child elements tag element element childelename child ele
+MTHSIG5	getchildelementsbytagname child elements tag element element childelementnames child element names
+MTHSIG6	getchildelementvaluebytagname child element tag element element childelementname child element
+MTHSIG7	getchildtextcontent child text content element parent child
+MTHSIG0	createchildelement create child element tagname tag node parent document document
+MTHSIG1	createchildifnotexists create child exists tagname tag node parent document document
+PACKAGE	springframework roo support util
+MTHSIG2	findfirstelementbyname find element element root
+MTHSIG3	getchildelementbytagname child element tag element element childelementname child element
+MTHSIG8	gettextcontent text content node node defaultvalue
+VARSIG30	node node
+MTHSIG9	gettextvalue text element valueelement element
+CLASSES	domutils dom utils
+VARSIG29	element elementtodelete element delete
+VARSIG28	element searchbase search base
+METHODS	createchildelement create child element createchildifnotexists create child exists findfirstelementbyname find element getchildelementbytagname child element tag getchildelementsbytagname child elements tag getchildelementsbytagname child elements tag getchildelementvaluebytagname child element tag getchildtextcontent child text content gettextcontent text content gettextvalue text nodenameequals node equals nodenamematch node match nodenamematch node match removeelements remove elements removetextnodes remove text nodes domutils dom utils
+VARSIG23	node node
+VARSIG22	desiredname desired
+VARSIG21	node node
+VARSIG20	element valueelement element
+VARSIG27	xpath path
+VARSIG26	desiredname desired
+VARSIG25	node node
+VARSIG24	collection desirednames desired names
+VARSIG7	element root
+VARSIG6	
+VARSIG9	childelementname child element
+VARSIG8	element element
+VARSIG3	tagname tag
+VARSIG2	document document
+VARSIG5	document document
+VARSIG4	node parent
+COMMENTS	convenience methods working dom api working dom nodes dom elements dom node dom element creates child element parent avoids type developer calls link document createelement create element forgets append relevant parent tagname tag child required parent parent node required document document parent child belong required created element returns child node tag creating exist tagname tag child tag create required parent parent child required document document parent required existing created child child add checks root element find child element matches supplied returns link element exists element required root parent dom element required element discovered returns child element identified element dom element analyze childelementname child element child element dom element instance retrieve child elements dom element match element direct child level element depth contrast dom api api getelementsbytagname elements tag element dom element analyze childelename child ele child element list child dom element instances dom element dom element getelementsbytagname elements tag retrieve child elements dom element match element names direct child level element depth contrast dom api api getelementsbytagname elements tag element dom element analyze childelementnames child element names child element names list child dom element instances dom element dom element getelementsbytagname elements tag returns child element identified element dom element analyze childelementname child element child element extracted text child element returns text content child parent tag parent parent search required child child search required child child child text content returns text content link node safe node defaultvalue node node node gettextcontent text content extract text dom element ignoring xml comments appends characterdata character data nodes entityreference entity reference nodes single excluding comment nodes characterdata character data entityreference entity reference comment namespace aware equals comparison returns link node getlocalname local link node getnodename node equals desiredname desired returns node required desiredname desired required matches node node local desired names node desirednames desired names matches node node local desired node desiredname desired removes elements matching xpath path expression relative element xpath path xpath path element remove blank searchbase search base element xpath path expression relative removes empty text nodes node node element empty text nodes removed constructor prevent instantiation
+VARSIG19	defaultvalue
+VARSIG1	node parent
+VARSIG18	node node
+VARSIG0	tagname tag
+VARSIG17	child
+VARSIG12	element element
+VARSIG11	childelename child ele
+VARSIG10	element element
+VARSIG16	element parent
+VARSIG15	childelementname child element
+VARSIG14	element element
+VARSIG13	childelementnames child element names
+MTHSIG15	domutils dom utils
+MTHSIG13	removeelements remove elements xpath path element searchbase search base
+MTHSIG14	removetextnodes remove text nodes node node
+MTHSIG11	nodenamematch node match node node collection desirednames desired names
+MTHSIG12	nodenamematch node match node node desiredname desired
+MTHSIG10	nodenameequals node equals node node desiredname desired
+VARIABLES	tagname tag parent document tagname tag parent document root element childelementname child element element childelename child ele element childelementnames child element names element childelementname child element parent child node defaultvalue valueelement element node desiredname desired node desirednames desired names node desiredname desired xpath path searchbase search base elementtodelete element delete node child existingchild existing child node childelenamelist child ele list childeles child eles node child children item parentnode parent node children child

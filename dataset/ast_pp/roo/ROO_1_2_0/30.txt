@@ -1,0 +1,24 @@
+VARSIG7	paddingrequired padding required
+VARSIG6	
+VARSIG9	
+VARSIG8	underlinerequired underline required
+VARSIG3	heading
+VARSIG2	heading
+VARSIG5	columnnumber column number
+VARSIG4	values
+COMMENTS	listener shell events support automatic git repository commits constants fields constructor title headings
+CLASSES	shelltablerenderer shell table renderer
+VARSIG1	headings
+VARSIG0	title
+METHODS	shelltablerenderer shell table renderer addcolumn add column addrow add row getcolumnwidth column width getoutput output getpadding padding getunderline underline getrepeatingchars repeating chars
+MTHSIG4	getoutput output
+MTHSIG5	getpadding padding paddingrequired padding required
+MTHSIG6	getunderline underline underlinerequired underline required
+VARSIG10	repeat
+MTHSIG7	getrepeatingchars repeating chars repeat
+MTHSIG0	shelltablerenderer shell table renderer title headings
+MTHSIG1	addcolumn add column heading
+PACKAGE	springframework roo addon cloud foundry
+MTHSIG2	addrow add row values
+MTHSIG3	getcolumnwidth column width columnnumber column number
+VARIABLES	title headings heading heading values columnnumber column number paddingrequired padding required underlinerequired underline required repeat column padding columnmap column map title position list list stringlist list largestvalue largest table longestrow longest row entry timetostop time list columnwidth column width text titlebuilder title builder titlelengthpluspadding title length padding padding emphasis extra

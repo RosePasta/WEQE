@@ -1,0 +1,26 @@
+VARSIG7	element dependencyel depend element 
+VARSIG6	document document 
+VARSIG3	element root 
+VARSIG2	ioexcept except 
+VARSIG5	webconfigfil web config file 
+VARSIG4	element annotationdrivenel annot driven element 
+COMMENTS	implement link webmvcoper web mvc oper verifi servlet applic context exist file exist convers servic defin move note sequenc matter artifact load verifi web xml exist web flow configur move instal conversionserviceexposinginterceptor convers servic expos interceptor web flow custom convers servic updat webmvc config xml need add mvc depend 
+VARSIG1	javapackag thepackag 
+VARSIG0	javapackag destinationpackag destin 
+MTHSIG4	installconversionservicejavaclass instal convers servic javapackag thepackag 
+MTHSIG5	installminimalwebartifact instal minim web artifact 
+MTHSIG6	isconversionserviceconfigur convers servic configur 
+MTHSIG7	isconversionserviceconfigur convers servic configur element root element annotationdrivenel annot driven element 
+MTHSIG0	copywebxml copi web xml 
+MTHSIG1	createwebapplicationcontext creat web applic context 
+PACKAGE	springframework roo addon web mvc control 
+MTHSIG2	installallwebmvcartifact instal web mvc artifact 
+MTHSIG3	installconversionservic instal convers servic javapackag destinationpackag destin 
+MTHSIG8	managewebxml manag web xml 
+MTHSIG9	readorcreatespringwebconfigfil read creat spring web config file webconfigfil web config file 
+MTHSIG11	setbasepackageforcomponentscan set base compon scan document document 
+MTHSIG12	updateconfigur updat configur 
+CLASSES	webmvcoperationsimpl web mvc oper impl 
+METHODS	copywebxml copi web xml createwebapplicationcontext creat web applic context installallwebmvcartifact instal web mvc artifact installconversionservic instal convers servic installconversionservicejavaclass instal convers servic installminimalwebartifact instal minim web artifact isconversionserviceconfigur convers servic configur isconversionserviceconfigur convers servic configur managewebxml manag web xml readorcreatespringwebconfigfil read creat spring web config file registerwebflowconversionserviceexposinginterceptor regist web flow convers servic expos interceptor setbasepackageforcomponentscan set base compon scan updateconfigur updat configur 
+MTHSIG10	registerwebflowconversionserviceexposinginterceptor regist web flow convers servic expos interceptor 
+VARIABLES	destinationpackag destin thepackag root annotationdrivenel annot driven element webconfigfil web config file document dependencyel depend element convers servic bean convers servic expos interceptor convers servic simpl type web xml webmvc config xml filemanag file manag pathresolv path resolv projectoper project oper servletctxfilenam servlet ctx filenam webxmlpath web xml path templateinputstream templat input stream document projectnam project webconfigfil web config file document webmvcconfigpath web mvc config path document root annotationdriven annot driven conversionservicebean convers servic bean javatyp type physicalpath physic path inputstream input stream input webmvcconfigpath web mvc config path mutablefil mutabl file document root annotationdrivenel annot driven element beannam bean bean classattribut attribut webxmlpath web xml path document inputstream input stream webflowconfigpath web flow config path document root conversionserviceexposinginterceptor convers servic expos interceptor flowhandlermap flow handler map interceptor componentscanel compon scan element toplevelpackag top level webconfigfil web config file webmvcconfiginputstream web mvc config input stream webmvcconfig web mvc config root templateinputstream templat input stream webmvcconfigaddit web mvc config addit node isgaeen gae enabl configur depend springdepend spring depend depend 

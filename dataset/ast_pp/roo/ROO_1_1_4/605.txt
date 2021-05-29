@@ -1,0 +1,17 @@
+VARSIG3	filenameresolver filename resolver filenameresolver filename resolver
+VARSIG2	includehashcode include hash code
+VARSIG5	createoperation create operation
+VARSIG4	file file
+COMMENTS	display characters consistent git hash code display conventions
+CLASSES	managedmessagerenderer managed message renderer
+VARSIG1	hashcode hash code
+VARSIG0	message
+METHODS	setdescriptionofchange set description change sethashcode set hash code isincludehashcode include hash code setincludehashcode set include hash code managedmessagerenderer managed message renderer logmanagedmessage log managed message
+MTHSIG4	managedmessagerenderer managed message renderer filenameresolver filename resolver filenameresolver filename resolver file file createoperation create operation
+MTHSIG5	logmanagedmessage log managed message
+MTHSIG0	setdescriptionofchange set description change message
+MTHSIG1	sethashcode set hash code hashcode hash code
+PACKAGE	springframework roo process manager internal
+MTHSIG2	isincludehashcode include hash code
+MTHSIG3	setincludehashcode set include hash code includehashcode include hash code
+VARIABLES	message hashcode hash code includehashcode include hash code filenameresolver filename resolver file createoperation create operation logger filenameresolver filename resolver file descriptionofchange description change createoperation create operation hashcode hash code includehashcode include hash code message

@@ -1,0 +1,26 @@
+VARSIG7	category
+VARSIG6	message
+VARSIG9	
+VARSIG8	key
+VARSIG3	message
+VARSIG2	message
+VARSIG5	revstr
+VARSIG4	maxhistory max history
+COMMENTS	operations offered git addon check git setup command shell availability check git commands shell depends presence git repository availability initial setup git repository target project triggers commit git tree works git commmit message message commit message triggers git reset hard noofcommitstoreset commits reset number commits reset head message commit message triggers revert commit message commit message git log maxhistory max history trigger revert commit rev revstr message trigger git push convenience access git config setting config options category git config category key config key config check automatic commit enabled successful roo commands automaticcommit automatic commit
+VARSIG1	noofcommitstoreset commits reset
+VARSIG0	message
+MTHSIG4	reset noofcommitstoreset commits reset message
+MTHSIG5	revertlastcommit revert commit message
+MTHSIG6	log maxhistory max history
+MTHSIG7	revertcommit revert commit revstr message
+MTHSIG0	isgitinstallationpossible git installation
+MTHSIG1	isgitcommandavailable git command
+PACKAGE	springframework roo addon git
+MTHSIG2	setup
+MTHSIG3	commitallchanges commit message
+MTHSIG8	push
+MTHSIG9	setconfig set config category key
+CLASSES	gitoperations git operations
+METHODS	isgitinstallationpossible git installation isgitcommandavailable git command setup commitallchanges commit reset revertlastcommit revert commit log revertcommit revert commit push setconfig set config isautomaticcommit automatic commit
+MTHSIG10	isautomaticcommit automatic commit
+VARIABLES	message noofcommitstoreset commits reset message message maxhistory max history revstr message category key

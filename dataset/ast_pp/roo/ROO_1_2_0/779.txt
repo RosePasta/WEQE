@@ -1,0 +1,18 @@
+VARSIG3	metadatatimingstatistic metadata timing statistic
+VARSIG2	invocations
+VARSIG4	object obj
+COMMENTS	standard implementation link metadatatimingstatistic metadata timing statistic constants chosen match maximum fields constructor required nanoseconds elasped time nanoseconds invocations display nanoseconds display milliseconds
+CLASSES	standardmetadatatimingstatistic standard metadata timing statistic
+VARSIG1	nanoseconds
+VARSIG0	
+METHODS	standardmetadatatimingstatistic standard metadata timing statistic getname gettime time getinvocations invocations compareto compare equals hashcode hash code tostring
+MTHSIG4	compareto compare metadatatimingstatistic metadata timing statistic
+MTHSIG5	equals object obj
+MTHSIG6	hashcode hash code
+MTHSIG7	tostring
+MTHSIG0	standardmetadatatimingstatistic standard metadata timing statistic nanoseconds invocations
+MTHSIG1	getname
+PACKAGE	springframework roo metadata internal
+MTHSIG2	gettime time
+MTHSIG3	getinvocations invocations
+VARIABLES	nanoseconds invocations obj nanoseconds millisecond maximum expected invocations invocation count format time format nanoseconds invocations result

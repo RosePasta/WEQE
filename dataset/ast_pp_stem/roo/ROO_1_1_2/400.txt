@@ -1,0 +1,55 @@
+MTHSIG4	getdeclaredtypeannot declar type annot memberdetail member detail memberdetail member detail javatyp type type 
+VARSIG34	list javatyp type paramet 
+MTHSIG5	getmethod memberdetail member detail memberdetail member detail javasymbolnam symbol methodnam list javatyp type paramet 
+VARSIG33	javasymbolnam symbol methodnam 
+MTHSIG6	getannotationoftyp annot type list annotationmetadata annot metadata annot javatyp type type 
+VARSIG32	classorinterfacetypedetail type detail classorinterfacetypedetail type detail 
+MTHSIG7	gettypeannot type annot classorinterfacetypedetail type detail classorinterfacetypedetail type detail javatyp type annotationtyp annot type 
+VARSIG31	fieldmetadata field metadata field 
+MTHSIG0	getdeclaredfield declar field memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail javasymbolnam symbol fieldnam field 
+MTHSIG1	getdeclaredmethod declar memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail javasymbolnam symbol methodnam list javatyp type paramet 
+PACKAGE	springframework roo classpath detail 
+MTHSIG2	getdeclaredconstructor declar constructor memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail list javatyp type paramet 
+VARSIG36	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+MTHSIG3	getdeclaredtypeannot declar type annot memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail javatyp type type 
+VARSIG35	memberdetail member detail memberdetail member detail 
+MTHSIG8	getmethod method classorinterfacetypedetail type detail classorinterfacetypedetail type detail 
+VARSIG30	javatyp type annot 
+MTHSIG9	getfield field classorinterfacetypedetail type detail classorinterfacetypedetail type detail javasymbolnam symbol fieldnam field 
+CLASSES	memberfindingutil member find util 
+VARSIG29	classorinterfacetypedetail type detail classorinterfacetypedetail type detail 
+VARSIG28	javasymbolnam symbol fieldnam field 
+METHODS	getdeclaredfield declar field getdeclaredmethod declar getdeclaredconstructor declar constructor getdeclaredtypeannot declar type annot getdeclaredtypeannot declar type annot getmethod getannotationoftyp annot type gettypeannot type annot getmethod method getfield field getfieldswithannot field annot getmethod getmethod method 
+VARSIG23	classorinterfacetypedetail type detail classorinterfacetypedetail type detail 
+VARSIG22	annotationmetadata annot metadata 
+VARSIG21	javatyp type type 
+VARSIG20	list annotationmetadata annot metadata annot 
+VARSIG27	classorinterfacetypedetail type detail classorinterfacetypedetail type detail 
+VARSIG26	methodmetadata metadata method 
+VARSIG25	classorinterfacetypedetail type detail classorinterfacetypedetail type detail 
+VARSIG24	javatyp type annotationtyp annot type 
+VARSIG7	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG6	methodmetadata metadata 
+VARSIG9	constructormetadata constructor metadata constructor 
+VARSIG8	list javatyp type paramet 
+VARSIG3	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG2	fieldmetadata field metadata field 
+VARSIG5	list javatyp type paramet 
+VARSIG4	javasymbolnam symbol methodnam 
+COMMENTS	util method find member link memberholdingtypedetail member hold type detail instanc locat field memberholdingtypedetail member hold type detail link memberholdingtypedetail member hold type detail search requir fieldnam field locat requir field locat memberholdingtypedetail member hold type detail link memberholdingtypedetail member hold type detail search requir methodnam locat requir paramet locat paramet locat constructor memberholdingtypedetail member hold type detail link memberholdingtypedetail member hold type detail search requir paramet locat paramet constructor locat type level annot memberholdingtypedetail member hold type detail link memberholdingtypedetail member hold type detail search requir type locat requir annot locat type level annot memberdetail member detail link memberdetail member detail search requir type locat requir annot locat paramet signatur present search link memberdetail member detail locat memberdetail member detail link memberdetail member detail search requir methodnam locat requir paramet paramet signatur locat paramet requir locat locat annot type list annot annot search requir type locat requir annot locat annot superclass classorinterfacetypedetail type detail search requir annotationtyp annot type annot locat requir annot locat method superclass classorinterfacetypedetail type detail search requir method search inherit hierarchi field locat classorinterfacetypedetail type detail search requir fieldnam field locat requir field search inherit hierarchi locat declar field annot annot classorinterfacetypedetail type detail search requir annot locat requir locat field empti annot field search inherit hierarchi paramet locat classorinterfacetypedetail type detail search requir methodnam locat requir paramet locat paramet search link memberdetail member detail return method memberdetail member detail link memberdetail member detail search requir method 
+VARSIG19	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG1	javasymbolnam symbol fieldnam field 
+VARSIG18	list javatyp type paramet 
+VARSIG0	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG17	javasymbolnam symbol methodnam 
+VARSIG12	annotationmetadata annot metadata 
+VARSIG11	javatyp type type 
+VARSIG10	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG16	memberdetail member detail memberdetail member detail 
+VARSIG15	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG14	javatyp type type 
+VARSIG13	memberdetail member detail memberdetail member detail 
+MTHSIG11	getmethod classorinterfacetypedetail type detail classorinterfacetypedetail type detail javasymbolnam symbol methodnam list javatyp type paramet 
+MTHSIG12	getmethod method memberdetail member detail memberdetail member detail 
+MTHSIG10	getfieldswithannot field annot classorinterfacetypedetail type detail classorinterfacetypedetail type detail javatyp type annot 
+VARIABLES	memberholdingtypedetail member hold type detail fieldnam field field memberholdingtypedetail member hold type detail methodnam paramet memberholdingtypedetail member hold type detail paramet constructor memberholdingtypedetail member hold type detail type memberdetail member detail type memberholdingtypedetail member hold type detail memberdetail member detail methodnam paramet memberholdingtypedetail member hold type detail annot type classorinterfacetypedetail type detail annotationtyp annot type classorinterfacetypedetail type detail method classorinterfacetypedetail type detail fieldnam field classorinterfacetypedetail type detail annot field classorinterfacetypedetail type detail methodnam paramet memberdetail member detail memberholdingtypedetail member hold type detail current result result current current result result current current result result 

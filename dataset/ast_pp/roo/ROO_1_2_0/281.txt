@@ -1,0 +1,15 @@
+COMMENTS	unit test link entitylayerprovider entity layer provider constants maps supported entity methods test parameter names fixture set invoke check invoke check set invoke check set invoke check set invoke check set invoke check
+CLASSES	entitylayerprovidertest entity layer provider test
+VARSIG0	plural
+METHODS	setup set setupmockannotationvalues set mock annotation values setupplural set plural testgetadditionswhenentityannotationvaluesnotavailable test additions entity annotation values testgetadditionswhengovernorpluralmetadataisnull test additions governor plural metadata testgetadditionswhengovernorpluralisempty test additions governor plural empty testgetadditionsforbogusmethod test additions bogus testgetadditionsformethodannotatedwithemptyname test additions annotated empty testgetadditionsformethodannotatedwithnonemptyname test additions annotated empty
+MTHSIG4	testgetadditionswhengovernorpluralmetadataisnull test additions governor plural metadata
+MTHSIG5	testgetadditionswhengovernorpluralisempty test additions governor plural empty
+MTHSIG6	testgetadditionsforbogusmethod test additions bogus
+MTHSIG7	testgetadditionsformethodannotatedwithemptyname test additions annotated empty
+MTHSIG0	setup set
+MTHSIG1	setupmockannotationvalues set mock annotation values
+PACKAGE	springframework roo addon jpa activerecord
+MTHSIG2	setupplural set plural plural
+MTHSIG3	testgetadditionswhenentityannotationvaluesnotavailable test additions entity annotation values
+VARIABLES	plural caller mid methods layerprovider layer provider pluralid plural mockjpaactiverecordmetadataprovider mock jpa active record metadata provider mocktargetentity mock target entity mockidtype mock type mockannotationvalues mock annotation values mockmetadataservice mock metadata service mockpluralmetadata mock plural metadata mocktypelocationservice mock type location service additions additions additions additions additions additions
+MTHSIG8	testgetadditionsformethodannotatedwithnonemptyname test additions annotated empty

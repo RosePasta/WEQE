@@ -1,0 +1,29 @@
+VARSIG7	datetim time dateformat format 
+VARSIG6	datefieldpersistencetyp field persist type persistencetyp persist type 
+VARSIG9	pattern 
+VARSIG8	datetim time timeformat time format 
+VARSIG3	list annotationmetadatabuild annot metadata builder annot 
+VARSIG2	javasymbolnam symbol fieldnam field 
+VARSIG5	 
+VARSIG4	 
+COMMENTS	field option provid mandatori jsr tempor annot jsr tempor annot jsr annot jsr annot custom format datetim time pattern yyyi add jsr tempor annot add datetimeformat time format annot 
+VARSIG1	javatyp type fieldtyp field type 
+VARSIG0	physicaltypeidentifi physic type identifi 
+MTHSIG4	isfutur 
+MTHSIG5	setfutur set 
+MTHSIG6	getpersistencetyp persist type 
+MTHSIG7	setpersistencetyp set persist type datefieldpersistencetyp field persist type persistencetyp persist type 
+MTHSIG0	datefield field physicaltypeidentifi physic type identifi javatyp type fieldtyp field type javasymbolnam symbol fieldnam field 
+MTHSIG1	decorateannotationslist decor annot list list annotationmetadatabuild annot metadata builder annot 
+PACKAGE	springframework roo classpath oper jsr jsr 
+MTHSIG2	ispast 
+MTHSIG3	setpast set 
+MTHSIG8	getdateformat format 
+MTHSIG9	setdateformat set format datetim time dateformat format 
+MTHSIG13	setpattern set pattern pattern 
+MTHSIG11	settimeformat set time format datetim time timeformat time format 
+MTHSIG12	getpattern pattern 
+CLASSES	datefield field 
+METHODS	datefield field decorateannotationslist decor annot list ispast setpast set isfutur setfutur set getpersistencetyp persist type setpersistencetyp set persist type getdateformat format setdateformat set format gettimeformat time format settimeformat set time format getpattern pattern setpattern set pattern 
+MTHSIG10	gettimeformat time format 
+VARIABLES	physicaltypeidentifi physic type identifi fieldtyp field type fieldnam field annot persistencetyp persist type dateformat format timeformat time format pattern persistencetyp persist type dateformat format timeformat time format pattern attr attribut datestyl style timestyl time style 

@@ -1,0 +1,41 @@
+VARSIG7	repository repository
+VARSIG6	repository repository
+VARSIG9	repository repository
+VARSIG8	list repository repositories
+VARSIG3	plugin plugin
+VARSIG2	dependency dependency
+VARSIG5	list repository repositories
+VARSIG4	plugin plugin
+COMMENTS	mutability services link projectmetadata project metadata attempts add dependencies dependencies exist link projectmetadata project metadata isdependencyregistered dependency registered dependency silently returns dependency exception thrown called link projectmetadata project metadata disk representation modified reason dependency dependency add required attempts add dependency dependency exists link projectmetadata project metadata isdependencyregistered dependency registered dependency silently returns dependency exception thrown called link projectmetadata project metadata disk representation modified reason dependency dependency add required attempts remove dependency dependency exist link projectmetadata project metadata isdependencyregistered dependency registered dependency silently returns located dependency removed exception thrown called link projectmetadata project metadata disk representation modified reason dependency dependency remove required attempts add build plugin plugin exists link projectmetadata project metadata isbuildpluginregistered build plugin registered plugin silently returns plugin exception thrown called link projectmetadata project metadata disk representation modified reason plugin plugin add required attempts remove build plugin dependency dependency exist link projectmetadata project metadata isbuildpluginregistered build plugin registered plugin silently returns located dependency removed exception thrown called link projectmetadata project metadata disk representation modified reason plugin plugin remove required attempts add repositories repositories exists link projectmetadata project metadata isrepositoryregistered repository registered repository silently returns repository exception thrown called link projectmetadata project metadata disk representation modified reason repositories list repositories add required attempts add repository repository exists link projectmetadata project metadata isrepositoryregistered repository registered repository silently returns repository exception thrown called link projectmetadata project metadata disk representation modified reason repository repository add required attempts remove repository repository exist link projectmetadata project metadata isrepositoryregistered repository registered repository silently returns located repository removed exception thrown called link projectmetadata project metadata disk representation modified reason repository repository remove required attempts add plugin repositories repositories exists link projectmetadata project metadata ispluginrepositoryregistered plugin repository registered repository silently returns repository exception thrown called link projectmetadata project metadata disk representation modified reason repositories list plugin repositories add required attempts add plugin repository plugin repository exists link projectmetadata project metadata ispluginrepositoryregistered plugin repository registered repository silently returns repository exception thrown called link projectmetadata project metadata disk representation modified reason repository plugin repository add required attempts remove plugin repository plugin repository exist link projectmetadata project metadata ispluginrepositoryregistered plugin repository registered repository silently returns located plugin repository removed exception thrown called link projectmetadata project metadata disk representation modified reason repository plugin repository remove required attempts add property property exists link projectmetadata project metadata ispropertyregistered property registered property silently returns property exception thrown called link projectmetadata project metadata disk representation modified reason property property add required attempts remove property dependency dependency exist link projectmetadata project metadata ispropertyregistered property registered property silently returns located dependency removed exception thrown called link projectmetadata project metadata disk representation modified reason property property remove required attempts add filter filter exists link projectmetadata project metadata isfilterregistered filter registered filter silently returns filter exception thrown called link projectmetadata project metadata disk representation modified reason filter filter add required attempts remove filter filter exist link projectmetadata project metadata isfilterregistered filter registered filter silently returns located filter removed exception thrown called link projectmetadata project metadata disk representation modified reason filter filter remove required attempts add resource resource exists link projectmetadata project metadata isresourceregistered resource registered resource silently returns resource exception thrown called link projectmetadata project metadata disk representation modified reason resource resource add required attempts remove resource resource exist link projectmetadata project metadata isresourceregistered resource registered resource silently returns located resource removed exception thrown called link projectmetadata project metadata disk representation modified reason resource resource remove required attempts update project packaging type defined link projecttype project type project packaging defined create definition exception thrown called link projectmetadata project metadata disk representation modified reason projecttype project type project type update required
+VARSIG1	dependency dependency
+VARSIG0	list dependency dependencies
+VARSIG17	projecttype project type projecttype project type
+MTHSIG4	removebuildplugin remove build plugin plugin plugin
+VARSIG12	property property
+MTHSIG5	addrepositories add repositories list repository repositories
+VARSIG11	property property
+MTHSIG6	addrepository add repository repository repository
+VARSIG10	repository repository
+MTHSIG7	removerepository remove repository repository repository
+MTHSIG0	adddependencies add dependencies list dependency dependencies
+VARSIG16	resource resource
+MTHSIG1	adddependency add dependency dependency dependency
+VARSIG15	resource resource
+PACKAGE	springframework roo project
+MTHSIG2	removedependency remove dependency dependency dependency
+VARSIG14	filter filter
+MTHSIG3	addbuildplugin add build plugin plugin plugin
+VARSIG13	filter filter
+MTHSIG8	addpluginrepositories add plugin repositories list repository repositories
+MTHSIG9	addpluginrepository add plugin repository repository repository
+MTHSIG17	updateprojecttype update project type projecttype project type projecttype project type
+MTHSIG15	addresource add resource resource resource
+MTHSIG16	removeresource remove resource resource resource
+MTHSIG13	addfilter add filter filter filter
+MTHSIG14	removefilter remove filter filter filter
+MTHSIG11	addproperty add property property property
+MTHSIG12	removeproperty remove property property property
+CLASSES	projectmetadataprovider project metadata provider
+METHODS	adddependencies add dependencies adddependency add dependency removedependency remove dependency addbuildplugin add build plugin removebuildplugin remove build plugin addrepositories add repositories addrepository add repository removerepository remove repository addpluginrepositories add plugin repositories addpluginrepository add plugin repository removepluginrepository remove plugin repository addproperty add property removeproperty remove property addfilter add filter removefilter remove filter addresource add resource removeresource remove resource updateprojecttype update project type
+MTHSIG10	removepluginrepository remove plugin repository repository repository
+VARIABLES	dependencies dependency dependency plugin plugin repositories repository repository repositories repository repository property property filter filter resource resource projecttype project type

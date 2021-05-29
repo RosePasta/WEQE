@@ -1,0 +1,74 @@
+MTHSIG28	isdatanucleusen data nucleu enabl 
+MTHSIG29	isvmforceen mforc enabl 
+MTHSIG26	isgwten gwt enabl 
+MTHSIG27	isgaeen gae enabl 
+MTHSIG24	getfilt filter 
+MTHSIG25	getresourc resourc 
+MTHSIG22	getpropertiesexcludingvalu properti exclud properti properti 
+MTHSIG23	getproperti properti 
+MTHSIG4	isdependencyregist depend regist depend depend 
+VARSIG34	plugin buildplugin build plugin 
+MTHSIG5	isallrepositoriesregist repositori regist list repositori repositori 
+VARSIG33	properti 
+MTHSIG6	isrepositoryregist repositori regist repositori repositori 
+VARSIG32	 
+MTHSIG7	isallpluginrepositoriesregist plugin repositori regist list repositori repositori 
+VARSIG31	properti 
+MTHSIG0	projectmetadata project metadata javapackag toplevelpackag top level projectnam project set depend depend set plugin buildplugin build plugin set repositori repositori set repositori pluginrepositori plugin repositori set properti pomproperti pom properti set filter filter set resourc resourc pathresolv path resolv pathresolv path resolv 
+MTHSIG1	getprojectidentifi project identifi 
+VARSIG37	depend depend 
+PACKAGE	springframework roo project 
+MTHSIG2	isalldependenciesregist depend regist list depend depend 
+VARSIG36	plugin buildplugin build plugin 
+MTHSIG3	isanydependenciesregist depend regist list depend depend 
+VARSIG35	plugin buildplugin build plugin 
+MTHSIG20	getbuildplugin build plugin 
+MTHSIG21	getbuildpluginsexcludingvers build plugin exclud version plugin plugin 
+MTHSIG8	ispluginrepositoryregist plugin repositori regist repositori repositori 
+VARSIG30	properti properti 
+MTHSIG9	isallpluginsregist plugin regist list plugin plugin 
+CLASSES	projectmetadata project metadata 
+VARSIG29	plugin 
+VARSIG28	plugin plugin 
+METHODS	projectmetadata project metadata getprojectidentifi project identifi isalldependenciesregist depend regist isanydependenciesregist depend regist isdependencyregist depend regist isallrepositoriesregist repositori regist isrepositoryregist repositori regist isallpluginrepositoriesregist plugin repositori regist ispluginrepositoryregist plugin repositori regist isallpluginsregist plugin regist isanypluginsregist plugin regist isbuildpluginregist build plugin regist ispropertyregist properti regist isfilterregist filter regist isresourceregist resourc regist gettoplevelpackag top level getprojectnam project getpathresolv path resolv getdepend depend getdependenciesexcludingvers depend exclud version getbuildplugin build plugin getbuildpluginsexcludingvers build plugin exclud version getpropertiesexcludingvalu properti exclud getproperti properti getfilt filter getresourc resourc isgwten gwt enabl isgaeen gae enabl isdatanucleusen data nucleu enabl isvmforceen mforc enabl tostr 
+VARSIG23	properti properti 
+VARSIG22	plugin existingplugin exist plugin 
+VARSIG21	plugin plugin 
+VARSIG20	plugin plugin 
+VARSIG27	depend 
+VARSIG26	depend depend 
+VARSIG25	resourc resourc 
+VARSIG24	filter filter 
+MTHSIG30	tostr 
+VARSIG7	set filter filter 
+VARSIG6	set properti pomproperti pom properti 
+VARSIG9	pathresolv path resolv pathresolv path resolv 
+VARSIG8	set resourc resourc 
+VARSIG3	set plugin buildplugin build plugin 
+VARSIG2	set depend depend 
+VARSIG5	set repositori pluginrepositori plugin repositori 
+VARSIG4	set repositori repositori 
+COMMENTS	repres project roo instanc singl project activ time project add on expect subclass link projectmetadata project metadata implement method link projectmetadata project metadata offer conveni method acquir project top level project regist depend path resolut servic concret subclass regist correct depend project build system requir read file chang subclass provid valid link pathresolv path resolv implement understand target project layout mid springframework roo project projectmetadata project metadata project conveni determin present depend regist depend depend check requir depend regist conveni determin present depend regist depend depend check requir depend regist conveni determin depend regist depend depend check requir depend regist conveni determin present repositori regist repositori repositori check requir repositori regist conveni determin repositori regist repositori check requir repositori regist conveni determin present plugin repositori regist repositori plugin repositori check requir plugin repositori regist conveni determin plugin repositori regist repositori repositori check requir plugin repositori regist conveni determin present plugin regist base groupid group artifactid artifact version plugin plugin check requir plugin regist conveni determin present plugin regist base groupid group artifactid artifact version plugin plugin check requir plugin regist conveni determin build plugin regist base groupid group artifactid artifact version plugin check requir build plugin regist conveni determin pom properti regist properti check requir properti regist conveni determin filter regist filter check requir filter regist conveni determin resourc regist resourc check requir resourc regist return unmodifi set project project depend unmodifi represent depend empti locat depend match present depend exclud version number upgrad case locat depend group artifact type identif remov depend locat requir note version number comparison match depend return empti link set unmodifi collect build plugin empti locat build plugin match present plugin exclud version number upgrad case locat build plugin group artifact identif remov plugin locat requir note version number comparison match plugin return empti link set locat properti match present properti exclud upgrad case locat properti remov properti locat requir note comparison match properti return empti link set locat occur properti return properti requir properti unmodifi represent filter empti unmodifi represent resourc empti determin gwt enabl project gwt maven plugin pom xml applicationscaffold applic scaffold gwt xml file exist determin googl app engin maven plugin exist pom maven gae plugin pom xml determin datanucleu data nucleu maven plugin exist pom maven datanucleu plugin pom xml determin vmforc mforc maven depend exist pom forc sdk pom xml 
+VARSIG19	list plugin plugin 
+VARSIG1	projectnam project 
+VARSIG18	plugin plugin 
+VARSIG0	javapackag toplevelpackag top level 
+VARSIG17	list plugin plugin 
+VARSIG12	depend depend 
+VARSIG11	list depend depend 
+VARSIG10	list depend depend 
+VARSIG16	repositori repositori 
+VARSIG15	list repositori repositori 
+VARSIG14	repositori repositori 
+VARSIG13	list repositori repositori 
+MTHSIG17	getpathresolv path resolv 
+MTHSIG18	getdepend depend 
+MTHSIG15	gettoplevelpackag top level 
+MTHSIG16	getprojectnam project 
+MTHSIG13	isfilterregist filter regist filter filter 
+MTHSIG14	isresourceregist resourc regist resourc resourc 
+MTHSIG11	isbuildpluginregist build plugin regist plugin plugin 
+MTHSIG12	ispropertyregist properti regist properti properti 
+MTHSIG19	getdependenciesexcludingvers depend exclud version depend depend 
+MTHSIG10	isanypluginsregist plugin regist list plugin plugin 
+VARIABLES	toplevelpackag top level projectnam project depend buildplugin build plugin repositori pluginrepositori plugin repositori pomproperti pom properti filter resourc pathresolv path resolv depend depend depend repositori repositori repositori repositori plugin plugin plugin plugin plugin existingplugin exist plugin properti filter resourc depend plugin properti buildplugin build plugin buildplugin build plugin buildplugin build plugin depend project identifi toplevelpackag top level projectnam project depend buildplugin build plugin repositori pluginrepositori plugin repositori pomproperti pom properti filter resourc pathresolv path resolv matchfound match result result result gwtenabl gwt enabl gwtxmlpath gwt xml path file tsc 

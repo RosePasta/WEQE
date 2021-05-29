@@ -1,0 +1,7 @@
+MTHSIG0	setup set
+MTHSIG1	testgetinstance test instance
+PACKAGE	springframework roo addon cloud foundry
+COMMENTS	unit test link appcloudclientfactoryimpl app cloud client factory impl fixture lang exception set can mocked invoke check
+CLASSES	appcloudclientfactoryimpltest app cloud client factory impl test
+VARIABLES	factory mockuaaservice mock uaa service mockcredentials mock credentials url instance
+METHODS	setup set testgetinstance test instance

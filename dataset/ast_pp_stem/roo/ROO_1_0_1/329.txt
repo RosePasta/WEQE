@@ -1,0 +1,14 @@
+VARSIG6	ioexcept except ioe 
+VARSIG3	file destin 
+VARSIG2	file sourc 
+VARSIG5	file 
+VARSIG4	deletedestinationonexit delet destin exit 
+COMMENTS	util handl link file instanc delet link file link file refer directori content directori includ directori delet link file exist return file delet requir file exist file fulli delet failur delet copi sourc directori destin sourc exist destin exist creat destin exist directori file sourc exist sourc directori requir destin destin directori requir deletedestinationonexit delet destin exit mark creat destin delet exit copi success directori copi 
+CLASSES	fileutil file util 
+VARSIG1	file 
+VARSIG0	file file 
+METHODS	deleterecurs delet recurs copyrecurs copi recurs 
+MTHSIG0	deleterecurs delet recurs file file 
+MTHSIG1	copyrecurs copi recurs file sourc file destin deletedestinationonexit delet destin exit 
+PACKAGE	springframework roo support util 
+VARIABLES	file sourc destin deletedestinationonexit delet destin exit ioe 

@@ -1,0 +1,17 @@
+COMMENTS	repres join tabl valu associ multipl join tabl primari foreign point entiti tabl column tabl set tabl set 
+CLASSES	jointabl join tabl 
+VARSIG1	object obj 
+VARSIG0	tabl tabl 
+METHODS	jointabl join tabl gettabl tabl getowningsidet own side tabl getinversesidet invers side tabl getlocalcolumnreferenceofowningsidet local column refer own side tabl getlocalcolumnreferenceofinversesidet local column refer invers side tabl isowningsidesameasinversesid own side invers side hashcod hash code equal tostr 
+MTHSIG4	getlocalcolumnreferenceofowningsidet local column refer own side tabl 
+MTHSIG5	getlocalcolumnreferenceofinversesidet local column refer invers side tabl 
+MTHSIG6	isowningsidesameasinversesid own side invers side 
+MTHSIG7	hashcod hash code 
+MTHSIG0	jointabl join tabl tabl tabl 
+MTHSIG1	gettabl tabl 
+PACKAGE	springframework roo addon dbre model 
+MTHSIG2	getowningsidet own side tabl 
+MTHSIG3	getinversesidet invers side tabl 
+VARIABLES	tabl obj tabl owningsidet own side tabl inversesidet invers side tabl foreignkei foreign prime result 
+MTHSIG8	equal object obj 
+MTHSIG9	tostr 

@@ -1,0 +1,67 @@
+VARSIG39	ioexception exception
+MTHSIG4	iswithin monitoringrequest monitoring request request filepath file path
+VARSIG34	antpath ant path
+MTHSIG5	scannotified scan notified
+VARSIG33	file thisfile file
+MTHSIG6	scanall scan
+VARSIG32	monitoringrequest monitoring request request
+MTHSIG7	publish list fileevent file event eventstopublish events publish
+VARSIG31	ioexception exception ioe
+MTHSIG0	add fileeventlistener file event listener
+VARSIG38	file
+MTHSIG1	remove fileeventlistener file event listener
+VARSIG37	sortedset sorted set filedetails file details result
+PACKAGE	springframework roo file monitor polling
+MTHSIG2	getmonitored monitored
+VARSIG36	file currentdirectory current directory
+MTHSIG3	isdirty dirty
+VARSIG35	antpath ant path
+MTHSIG8	computeentries compute entries map file map file currentfile current file includesubtree include subtree
+VARSIG30	monitoringrequest monitoring request existing
+MTHSIG9	add monitoringrequest monitoring request request
+CLASSES	pollingfilemonitorservice polling file monitor service
+VARSIG29	monitoringrequest monitoring request request
+VARSIG28	file file
+METHODS	add remove getmonitored monitored isdirty dirty iswithin scannotified scan notified scanall scan publish computeentries compute entries add remove findmatchingantpath find matching ant path recursiveantmatch recursive ant match isnotificationunderknownmonitoringrequest notification monitoring request notifychanged notify changed notifycreated notify created notifydeleted notify deleted
+VARSIG23	fileevent file event event
+VARSIG22	list fileevent file event eventstopublish events publish
+VARSIG21	canonicalpath canonical path
+VARSIG20	file thisfile file
+VARSIG27	includesubtree include subtree
+VARSIG26	file currentfile current file
+VARSIG25	map file map
+VARSIG24	fileeventlistener file event listener
+VARSIG7	monitoringrequest monitoring request request
+VARSIG6	ioexception exception
+VARSIG9	remove
+VARSIG8	filepath file path
+VARSIG3	file priorfile prior file
+VARSIG2	monitoringrequest monitoring request request
+VARSIG5	filepath file path
+VARSIG4	monitoringrequest monitoring request request
+COMMENTS	simple polling based link filemonitorservice file monitor service implementation iterates link monitoringrequest monitoring request instances building active file time execution compares active file time executed link monitoringrequest monitoring request events fired event firing process completed link monitoringrequest monitoring request examined implementation recognize link fileoperation file operation renamed events implementation ignore monitored files filename starting period hidden files link fileoperation file operation deleted events implementation link fileevent file event times equal time deleted file modified time represent deletion time time deletion detected mutex directory directory directory file notify perform comparison data previous execution handle files updated execution skip notification doesn fall monitoring request record remove processed skip file doesn exist record notification update prior execution map isn notified remove created list handle files created execution skip notification doesn fall monitoring request record remove processed skip file doesn exist record notification update prior execution map isn notified handle files deleted execution skip notification doesn fall monitoring request record remove processed skip file suddenly exists shouldn notify deleted record notification update prior execution map isn notified build contents monitored location perform comparison data previous execution locate created modified files file exist execution file notified modified file notified locate deleted files file notified data previous execution newly monitored location record monitored location location contents ready execution discard created deleted notifications correctly discovered loop explicitly handle undiscovered update notifications identical millisecond update occurred publish events needed assumes caller acquired synchronisation lock eventstopublish events publish publish empty adds entries map key map file object link file lastmodified modified time invoked file file file invoked file directory files directories invoked file directory subdirectories includesubtree include subtree ensure existing monitoring requests don overlap request amend existing requests ignore request request existing request directories monitor trees request directory existing request ignore request unnecessary existing request directory request remove existing request request incorporate advise cessation monitoring compute starting directory reference ant path conditionals based ensure detected character character path start ant expression doesn exist there find search locates files current directory patch ant path antpath ant path match required currentdirectory current directory existing directory search required result append located files required decides store notification monitoring request interested request roo details filecanonicalpath file canonical path notification
+VARSIG19	ioexception exception
+VARSIG1	fileeventlistener file event listener
+VARSIG18	file deletedfile deleted file
+VARSIG0	fileeventlistener file event listener
+VARSIG17	ioexception exception
+VARSIG12	filepath file path
+VARSIG11	remove
+VARSIG10	filepath file path
+VARSIG16	ioexception exception
+VARSIG15	file thisfile file
+VARSIG14	monitoringrequest monitoring request request
+VARSIG13	remove
+MTHSIG15	notifycreated notify created filecanonicalpath file canonical path
+MTHSIG16	notifydeleted notify deleted filecanonicalpath file canonical path
+MTHSIG13	isnotificationunderknownmonitoringrequest notification monitoring request filecanonicalpath file canonical path
+MTHSIG14	notifychanged notify changed filecanonicalpath file canonical path
+MTHSIG11	findmatchingantpath find matching ant path antpath ant path
+MTHSIG12	recursiveantmatch recursive ant match antpath ant path file currentdirectory current directory sortedset sorted set filedetails file details result
+VARSIG44	filecanonicalpath file canonical path
+VARSIG43	filecanonicalpath file canonical path
+VARSIG42	filecanonicalpath file canonical path
+MTHSIG10	remove monitoringrequest monitoring request request
+VARIABLES	request priorfile prior file request filepath file path request filepath file path remove filepath file path remove filepath file path remove request thisfile file deletedfile deleted file thisfile file canonicalpath canonical path eventstopublish events publish event map currentfile current file includesubtree include subtree file request existing ioe request thisfile file antpath ant path antpath ant path currentdirectory current directory result filecanonicalpath file canonical path request filecanonicalpath file canonical path filecanonicalpath file canonical path filecanonicalpath file canonical path logger fileeventlisteners file event listeners requests priorexecution prior execution notifychanged notify changed notifycreated notify created notifydeleted notify deleted notifiedfailingrequests notified failing requests lock monitored priorfiles prior files requestcanonicalpath request canonical path dmr eventstopublish events publish priorfiles prior files toremove remove thisfile file thisfile file thisfile file includesubtree include subtree currentexecution current execution eventstopublish events publish priorfiles prior files currenttimestamp current timestamp previoustimestamp previous timestamp file files dmr existingdmr existing dmr existingdmrpath existing dmr path newdmrpath dmr path eventstopublish events publish priorfiles prior files result newpath path somepath path listfiles list files
+VARSIG41	monitoringrequest monitoring request request
+VARSIG40	filecanonicalpath file canonical path

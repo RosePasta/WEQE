@@ -1,0 +1,32 @@
+VARSIG7	element dependency
+VARSIG6	list dependency exclusions
+VARSIG9	javasymbolname symbol artifactid artifact
+VARSIG8	javapackage groupid group
+VARSIG3	groupid group
+VARSIG2	versionid version
+VARSIG5	versionid version
+VARSIG4	artifactid artifact
+COMMENTS	simplified immutable representation dependency structured model maven ivy replaced release osgi centric model convenience constructor producing jar dependency groupid group group required artifactid artifact artifact required versionid version version required convenience constructor producing jar dependency groupid group group required artifactid artifact artifact required versionid version version required exclusions exclusions dependency convenience constructor xml element represents maven dependency parse required jar reassign test maven format parsing exclusions test ivy format todo implement exclusions parser ivy format creates immutable link dependency groupid group group required artifactid artifact artifact required versionid version version required type dependency type required list exclusions
+VARSIG1	artifactid artifact
+VARSIG0	groupid group
+MTHSIG4	getgroupid group
+VARSIG12	object obj
+MTHSIG5	getartifactid artifact
+VARSIG11	dependencytype dependency type type
+MTHSIG6	getversionid version
+VARSIG10	versionid version
+MTHSIG7	gettype type
+MTHSIG0	dependency groupid group artifactid artifact versionid version
+MTHSIG1	dependency groupid group artifactid artifact versionid version list dependency exclusions
+PACKAGE	springframework roo project
+MTHSIG2	dependency element dependency
+MTHSIG3	dependency javapackage groupid group javasymbolname symbol artifactid artifact versionid version dependencytype dependency type type
+VARSIG13	dependency
+MTHSIG8	getexclusions exclusions
+MTHSIG9	hashcode hash code
+MTHSIG11	compareto compare dependency
+MTHSIG12	tostring
+CLASSES	dependency
+METHODS	dependency dependency dependency dependency getgroupid group getartifactid artifact getversionid version gettype type getexclusions exclusions hashcode hash code equals compareto compare tostring
+MTHSIG10	equals object obj
+VARIABLES	groupid group artifactid artifact versionid version groupid group artifactid artifact versionid version exclusions dependency groupid group artifactid artifact versionid version type obj groupid group artifactid artifact versionid version type exclusions versionelements version elements exclusionlist exclusion list exclusionelement exclusion element exclusionid exclusion exclusionartifactid exclusion artifact result tsc

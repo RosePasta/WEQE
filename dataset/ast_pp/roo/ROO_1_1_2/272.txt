@@ -1,0 +1,24 @@
+VARSIG7	element
+VARSIG6	element
+VARSIG9	templatefilename template file
+VARSIG8	flowname flow
+VARSIG3	element
+VARSIG2	element root
+VARSIG5	element root
+VARSIG4	document document
+COMMENTS	web flow configuration operations link webflowoperations web flow operations installwebflow install web flow
+CLASSES	webflowoperationsimpl web flow operations impl
+VARSIG1	document document
+VARSIG0	flowname flow
+METHODS	isinstallwebflowavailable install web flow ismanagewebflowavailable manage web flow installwebflow install web flow installwebflowconfiguration install web flow configuration updateconfiguration update configuration getflowid flow copytemplate copy template
+MTHSIG4	updateconfiguration update configuration
+MTHSIG5	getflowid flow flowname flow
+VARSIG11	ioexception exception
+MTHSIG6	copytemplate copy template templatefilename template file resolvedtargetdirectorypath resolved target directory path
+VARSIG10	resolvedtargetdirectorypath resolved target directory path
+MTHSIG0	isinstallwebflowavailable install web flow
+MTHSIG1	ismanagewebflowavailable manage web flow
+PACKAGE	springframework roo addon web flow
+MTHSIG2	installwebflow install web flow flowname flow
+MTHSIG3	installwebflowconfiguration install web flow configuration
+VARIABLES	flowname flow document root document root flowname flow templatefilename template file resolvedtargetdirectorypath resolved target directory path filemanager file manager projectoperations project operations menuoperations menu operations webmvcoperations web mvc operations jspoperations jsp operations tilesoperations tiles operations flowid flow webrelativeflowpath web relative flow path resolvedflowpath resolved flow path resolvedflowdefinitionpath resolved flow definition path flowmenucategory flow menu category flowmenuname flow menu resolvedspringconfigpath resolved spring config path webmvcconfigpath web mvc config path importswf swf configuration dependencies webflowdependencies web flow dependencies repositories

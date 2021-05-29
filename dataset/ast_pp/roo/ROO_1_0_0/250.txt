@@ -1,0 +1,10 @@
+MTHSIG0	monitoredoutputstream monitored output stream file file notifiablefilemonitorservice notifiable file monitor service filemonitorservice file monitor service
+MTHSIG1	close
+VARSIG2	ioexception exception ioe
+PACKAGE	springframework roo process manager internal
+COMMENTS	ensures link notifiablefilemonitorservice notifiable file monitor service notifychanged notify changed invoked link close called ensuring file monitoring system notified changed files changed rapidly disk detected file system system updated timestamps constructs link monitoredoutputstream monitored output stream file file output required filemonitorservice file monitor service optional monitoring service acceptable filenotfoundexception file exception file
+CLASSES	monitoredoutputstream monitored output stream
+VARIABLES	file filemonitorservice file monitor service ioe filecanonicalpath file canonical path filemonitorservice file monitor service
+VARSIG1	notifiablefilemonitorservice notifiable file monitor service filemonitorservice file monitor service
+VARSIG0	file file
+METHODS	monitoredoutputstream monitored output stream close

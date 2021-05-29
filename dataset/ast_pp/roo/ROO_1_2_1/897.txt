@@ -1,0 +1,44 @@
+VARSIG7	javapackage toplevelpackage top level
+VARSIG6	element root
+VARSIG9	modulename module
+VARSIG8	gav parentpom parent pom
+VARSIG3	ioexception exception
+VARSIG2	
+VARSIG5	document pomdocument pom document
+VARSIG4	modulename module
+COMMENTS	implementation link mavenoperations maven operations constructor inputstream input stream processmanager process manager condition nix mac condition windows ensure separate threads logging roo close outputstream output stream avoid blocking maven commands expect input roo returns project project target version pom format majorjavaversion major version major version user auto detect blank valid version detect major version workaround roo running roo
+VARSIG19	extra
+VARSIG1	processmanager process manager processmanager process manager
+VARSIG18	packagingprovider packaging provider selectedpackagingprovider selected packaging provider
+VARSIG0	inputstream input stream inputstream input stream
+VARSIG17	gav parentpom parent pom
+MTHSIG4	executemvncommand execute mvn command extra
+VARSIG12	document pomdocument pom document
+MTHSIG5	getjavaversion version integer majorjavaversion major version
+VARSIG11	integer majorjavaversion major version
+MTHSIG6	getpackagingprovider packaging provider packagingprovider packaging provider selectedpackagingprovider selected packaging provider
+VARSIG10	packagingprovider packaging provider selectedpackagingprovider selected packaging provider
+MTHSIG7	getprojectroot project root
+MTHSIG0	addmoduledeclaration add module declaration modulename module document pomdocument pom document element root
+VARSIG16	integer majorjavaversion major version
+MTHSIG1	createmodule create module javapackage toplevelpackage top level gav parentpom parent pom modulename module packagingprovider packaging provider selectedpackagingprovider selected packaging provider integer majorjavaversion major version
+VARSIG15	projectname project
+PACKAGE	springframework roo project
+MTHSIG2	createmoduleselementifnecessary create modules element document pomdocument pom document element root
+VARSIG14	javapackage toplevelpackage top level
+MTHSIG3	createproject create project javapackage toplevelpackage top level projectname project integer majorjavaversion major version gav parentpom parent pom packagingprovider packaging provider selectedpackagingprovider selected packaging provider
+VARSIG13	element root
+MTHSIG8	iscreatemoduleavailable create module
+MTHSIG9	iscreateprojectavailable create project
+MTHSIG11	updateparentmodulepom update parent module pom modulename module
+CLASSES	mavenoperationsimpl maven operations impl
+METHODS	addmoduledeclaration add module declaration createmodule create module createmoduleselementifnecessary create modules element createproject create project executemvncommand execute mvn command getjavaversion version getpackagingprovider packaging provider getprojectroot project root iscreatemoduleavailable create module iscreateprojectavailable create project ismodulealreadypresent module updateparentmodulepom update parent module pom
+VARSIG23	modulename module
+VARSIG22	packagingprovider packaging provider selectedpackagingprovider selected packaging provider
+VARSIG21	integer majorjavaversion major version
+VARSIG20	interruptedexception interrupted exception
+VARSIG26	modulename module
+VARSIG25	element element
+VARSIG24	element moduleselement modules element
+MTHSIG10	ismodulealreadypresent module modulename module element moduleselement modules element
+VARIABLES	inputstream input stream processmanager process manager modulename module pomdocument pom document root toplevelpackage top level parentpom parent pom modulename module selectedpackagingprovider selected packaging provider majorjavaversion major version pomdocument pom document root toplevelpackage top level projectname project majorjavaversion major version parentpom parent pom selectedpackagingprovider selected packaging provider extra majorjavaversion major version selectedpackagingprovider selected packaging provider modulename module moduleselement modules element element modulename module inputstream input stream processmanager process manager logger packagingproviderregistry packaging provider registry processmanager process manager moduleselement modules element packagingprovider packaging provider pathtonewpom path pom moduleselement modules element repositories packagingprovider packaging provider root cmd input errors ver parentpompath parent pom path parentpomdocument parent pom document parentpomroot parent pom root addmodulemessage add module message

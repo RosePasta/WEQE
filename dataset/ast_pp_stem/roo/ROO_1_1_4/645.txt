@@ -1,0 +1,13 @@
+VARSIG3	downstreamdepend downstream depend 
+VARSIG2	upstreamdepend upstream depend 
+VARSIG4	path 
+COMMENTS	acquir project metadata verifi path exist ensur monitor root assum monitor processmanag process manag creat directori notif happen start monitor avoid oper valid explicitli perform scan directori monitor 
+CLASSES	projectpathmonitoringiniti project path monitor initi 
+VARSIG1	componentcontext compon context context 
+VARSIG0	componentcontext compon context context 
+METHODS	activ deactiv notifi 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	deactiv componentcontext compon context context 
+PACKAGE	springframework roo project 
+MTHSIG2	notifi upstreamdepend upstream depend downstreamdepend downstream depend 
+VARIABLES	context context upstreamdepend upstream depend downstreamdepend downstream depend filenameresolv filenam resolv metadatadependencyregistri metadata depend registri metadataservic metadata servic filemonitorservic file monitor servic undomanag undo manag pathsregist path regist pathresolv path resolv notifyon notifi fileidentifi file identifi file request 

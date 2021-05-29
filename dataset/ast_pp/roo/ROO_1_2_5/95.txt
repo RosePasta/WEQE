@@ -1,0 +1,50 @@
+MTHSIG4	getembeddedholders embedded holders memberdetails member details memberdetails member details metadataidentificationstring metadata identification
+MTHSIG5	getembeddedidholder embedded holder memberdetails member details memberdetails member details metadataidentificationstring metadata identification
+MTHSIG6	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+MTHSIG7	getitduniquenessfilenamesuffix uniqueness filename suffix
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	createlocalidentifier create local identifier javatype type javatype type logicalpath logical path path
+PACKAGE	springframework roo addon dod
+MTHSIG2	deactivate componentcontext component context context
+MTHSIG3	getdataondemandmetadataid data demand metadata javatype type javatype type iterable classorinterfacetypedetails type details dataondemandtypes data demand types
+MTHSIG8	getlocalmidtorequest local mid request itdtypedetails type details itdtypedetails type details
+VARSIG30	javatype type type
+MTHSIG9	getlocatedfields located fields memberdetails member details memberdetails member details dodmetadataid dod metadata
+CLASSES	dataondemandmetadataproviderimpl data demand metadata provider impl
+VARSIG29	dodmetadataid dod metadata
+VARSIG28	iterable classorinterfacetypedetails type details dataondemandtypes data demand types
+METHODS	activate createlocalidentifier create local identifier deactivate getdataondemandmetadataid data demand metadata getembeddedholders embedded holders getembeddedidholder embedded holder getgovernorphysicaltypeidentifier governor physical type identifier getitduniquenessfilenamesuffix uniqueness filename suffix getlocalmidtorequest local mid request getlocatedfields located fields getmetadata metadata getprovidestype type locatecollaboratingmetadata locate collaborating metadata registerdependencyupontype register dependency type
+VARSIG23	javatype type aspectname aspect
+VARSIG22	dodmetadataid dod metadata
+VARSIG21	methodmetadata metadata
+VARSIG20	methodmetadata metadata object
+VARSIG27	fieldmetadata field metadata field
+VARSIG26	dodmetadataid dod metadata
+VARSIG25	itdfilename filename
+VARSIG24	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG7	memberdetails member details memberdetails member details
+VARSIG6	classorinterfacetypedetails type details cid
+VARSIG9	fieldmetadata field metadata embeddedfield embedded field
+VARSIG8	metadataidentificationstring metadata identification
+VARSIG3	componentcontext component context context
+VARSIG2	logicalpath logical path path
+VARSIG5	iterable classorinterfacetypedetails type details dataondemandtypes data demand types
+VARSIG4	javatype type javatype type
+COMMENTS	implementation link dataondemandmetadataprovider data demand metadata provider dod classes configurable dod classes provide relationships dod type field field type determine governor dod metadata hoping hear javatype type itds dod interested javatype type let move dod metadata let check care methods match requirements dod cares javatype type offers interest let formally trigger note scan discover register direct dependency avoid unnecessary rewriting dod sort mutators provide consistent ordering track mutator include version fields shouldn mutator user embedded types include persistence fields include sort collection user entities hand collaborating metadata parse annotation expect remember entity javatype type matches dod dod metadata identification start clearing previous association informed dependent metadata additions required identify fields care entity embedded identifier metadata holder embedded identifier exists list embedded metadata holders empty list embedded identifier exists returns link dataondemandmetadata data demand metadata entity that target reference field dodmetadataid dod metadata field dataondemandtypes data demand types field dod metadata simply dod field field type reference dod depend entity dod circular dependency
+VARSIG19	dodmetadataid dod metadata
+VARSIG1	javatype type javatype type
+VARSIG18	memberdetails member details memberdetails member details
+VARSIG0	componentcontext component context context
+VARSIG17	methodmetadata metadata
+VARSIG12	metadataidentificationstring metadata identification
+VARSIG11	memberdetails member details memberdetails member details
+VARSIG10	fieldmetadata field metadata field
+VARSIG16	javatype type type
+VARSIG15	itdtypedetails type details itdtypedetails type details
+VARSIG14	metadataidentificationstring metadata identification
+VARSIG13	fieldmetadata field metadata field
+MTHSIG13	registerdependencyupontype register dependency type dodmetadataid dod metadata javatype type type
+MTHSIG11	getprovidestype type
+MTHSIG12	locatecollaboratingmetadata locate collaborating metadata dodmetadataid dod metadata fieldmetadata field metadata field iterable classorinterfacetypedetails type details dataondemandtypes data demand types
+MTHSIG10	getmetadata metadata dodmetadataid dod metadata javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+VARIABLES	context javatype type path context javatype type dataondemandtypes data demand types cid memberdetails member details metadataidentificationstring metadata identification embeddedfield embedded field field memberdetails member details metadataidentificationstring metadata identification field metadataidentificationstring metadata identification itdtypedetails type details type memberdetails member details dodmetadataid dod metadata object dodmetadataid dod metadata aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename dodmetadataid dod metadata field dataondemandtypes data demand types dodmetadataid dod metadata type flush persist configurablemetadataprovider configurable metadata provider layerservice layer service dodmidtoentitymap dod mid entity map entitytododmidmap entity dod mid map dodannotation dod annotation entityattribute entity attribute embeddedholders embedded holders embeddedfields embedded fields embeddedmemberdetails embedded member details fields idfields fields fields embeddedidfield embedded field identifiermemberdetails identifier member details javatype type path governor localmidtype local mid type localmid local mid locatedfields located fields dataondemandtypes data demand types mutatormethods mutator methods field fieldcustomdatakeys field custom data collaboratingmetadata collaborating metadata annotationvalues annotation values entity oldentity entity identifiertype identifier type memberdetails member details persistencememberholdingtypedetails persistence member holding type details fromparameter parameter toparameter parameter findentriesmethod find entries findmethodadditions find additions entityparameter entity parameter flushmethod flush identifieraccessor identifier accessor persistmethodadditions persist additions locatedfields located fields embeddedidholder embedded holder embeddedholders embedded holders otherdodmetadataid dod metadata fieldphysicaltypeid field physical type

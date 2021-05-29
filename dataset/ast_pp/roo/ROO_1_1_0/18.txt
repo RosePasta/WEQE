@@ -1,0 +1,138 @@
+MTHSIG28	hasfield field fieldmetadata field metadata field
+MTHSIG29	getaccessor accessor fieldmetadata field metadata field
+MTHSIG26	getuniquefieldname unique field javasymbolname symbol fieldname field
+MTHSIG27	hasaccessor accessor fieldmetadata field metadata field
+MTHSIG24	getfield field javasymbolname symbol fieldname field column column
+MTHSIG25	addtobuilder add builder fieldmetadata field metadata field
+MTHSIG22	getidfield field
+MTHSIG23	isembeddedidfield embedded field javasymbolname symbol fieldname field
+MTHSIG4	addmanytoonefields add fields database database table table
+VARSIG78	fieldmetadata field metadata field
+MTHSIG5	getmanytomanyowningsidefield owning side field javasymbolname symbol fieldname field jointable join table jointable join table javapackage javapackage
+VARSIG77	fieldmetadata field metadata itdfield field
+MTHSIG6	getmanytomanyinversesidefield inverse side field javasymbolname symbol fieldname field javasymbolname symbol mappedbyfieldname mapped field jointable join table jointable join table javapackage javapackage
+VARSIG76	fieldmetadata field metadata field
+MTHSIG7	getonetoonemappedbyfield mapped field javasymbolname symbol fieldname field javatype type fieldtype field type javasymbolname symbol mappedbyfieldname mapped field
+VARSIG75	methodmetadata metadata
+MTHSIG0	dbremetadata dbre metadata identifier javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata metadataservice metadata service metadataservice metadata service dbretyperesolutionservice dbre type resolution service dbretyperesolutionservice dbre type resolution service database database
+MTHSIG1	addmanytomanyfields add fields database database table table
+MTHSIG2	addonetoonefields add fields database database table table
+MTHSIG3	addonetomanyfields add fields database database table table
+VARSIG79	fieldmetadata field metadata field
+MTHSIG20	isversionfield version field columnname column
+VARSIG70	javasymbolname symbol fieldname field
+MTHSIG21	isidfield field javasymbolname symbol fieldname field
+MTHSIG8	getonetooneormanytoonefield field javasymbolname symbol fieldname field javatype type fieldtype field type sortedset sorted set reference references javatype type annotationtype annotation type referencedcolumn referenced column
+VARSIG74	fieldmetadata field metadata field
+MTHSIG9	excludefieldsintostringannotation exclude fields annotation fieldname field
+VARSIG73	javasymbolname symbol fieldname field
+VARSIG72	fieldmetadata field metadata field
+VARSIG71	column column
+MTHSIG39	getpath path metadataidentificationstring metadata identification
+MTHSIG37	createidentifier create identifier javatype type javatype type path path
+MTHSIG38	getjavatype type metadataidentificationstring metadata identification
+MTHSIG35	geterrormsg error msg tablename table
+MTHSIG36	getmetadataidentifertype metadata identifer type
+MTHSIG33	getrequiredmutatorname required mutator fieldmetadata field metadata field
+MTHSIG34	getinflectorplural inflector plural term
+METHODS	dbremetadata dbre metadata addmanytomanyfields add fields addonetoonefields add fields addonetomanyfields add fields addmanytoonefields add fields getmanytomanyowningsidefield owning side field getmanytomanyinversesidefield inverse side field getonetoonemappedbyfield mapped field getonetooneormanytoonefield field excludefieldsintostringannotation exclude fields annotation getonetomanymappedbyfield mapped field getjoincolumnannotation join column annotation getjoincolumnannotation join column annotation addotherjoincolumnattributes add join column attributes getjoincolumnsannotation join columns annotation isonetoone addotherfields add fields iscompositekeyfield composite key field iscompositekeycolumn composite key column getidentifierfields identifier fields isversionfield version field isidfield field getidfield field isembeddedidfield embedded field getfield field addtobuilder add builder getuniquefieldname unique field hasaccessor accessor hasfield field getaccessor accessor getrequiredaccessorname required accessor hasmutator mutator getmutator mutator getrequiredmutatorname required mutator getinflectorplural inflector plural geterrormsg error msg getmetadataidentifertype metadata identifer type createidentifier create identifier getjavatype type getpath path isvalid valid
+VARSIG67	columnname column
+VARSIG66	javatype type javatype type
+VARSIG65	annotationmetadata annotation metadata annotation
+VARSIG64	fieldmetadata field metadata field
+VARSIG69	javasymbolname symbol fieldname field
+VARSIG68	javasymbolname symbol fieldname field
+MTHSIG31	hasmutator mutator fieldmetadata field metadata field
+MTHSIG32	getmutator mutator fieldmetadata field metadata field
+MTHSIG30	getrequiredaccessorname required accessor fieldmetadata field metadata field
+VARSIG63	javatype type javatype type
+VARSIG62	column column
+VARSIG61	fieldmetadata field metadata field
+VARSIG60	javatype type javatype type
+COMMENTS	metadata link roodbmanaged roo managed creates manages entity relationships valued single valued associations associations created based laws primary key foreign key law foreign key column primary key relationship tables primary key foreign key law foreign key column represents entire primary key entire relationship tables associations created join table detected identified join table table primary foreign pointing entity tables columns process values annotation retrieve database managed entities roo add fields valued associations multiplicity add fields single valued associations entities multiplicity add fields valued associations multiplicity add fields single valued associations entities multiplicity add remaining fields columns create representation desired output add unique fields fields stored field keyed map adding builder ensures fields foreign multiple columns created exclude fields rootostring roo avoid circular references roo add mapped fields add unique fields assume multiplicity fields stored field keyed map adding builder ensures fields foreign multiple columns created add annotations field add manytomany annotation add jointable join table annotation add joincolumns join columns attribute nested joincolumn join column annotations add inversejoincolumns inverse join columns attribute nested joincolumn join column annotations add attributes jointable join table annotation builder add annotations field add annotations field add annotation add joincolumn join column annotation add joincolumns join columns annotation copy existing attributes excluding ignorefields ignore fields attribute ensure array strings add desired field ignore add onetomany annotation check identifier exclude fields composite primary key attribute identifiertype identifier type exists identifiertype identifier type simple type type lang find type add annotations field add column annotation add length attribute strings add precision scale attributes numeric fields add notnull applicable add jsr temporal annotation fields add lob clob fields applicable check existing accessor governor entity metadata check existing mutator governor entity metadata compute required field usable field check governor accessor check entity accessor check governor field check entity field compute accessor check governor mutator check entity mutator inflector failed roo don pluralize
+VARSIG19	foreignkey foreign key foreignkey foreign key
+VARSIG18	table table
+VARSIG17	database database
+VARSIG12	fieldmetadata field metadata field
+VARSIG11	foreignkey foreign key foreignkey foreign key
+VARSIG10	table table
+VARSIG16	foreignkey foreign key exportedkey exported key
+VARSIG15	table table
+VARSIG14	database database
+VARSIG13	foreignkey foreign key exportedkey exported key
+VARSIG91	metadataidentificationstring metadata identification
+VARSIG90	metadataidentificationstring metadata identification
+MTHSIG17	iscompositekeyfield composite key field javasymbolname symbol fieldname field javatype type javatype type
+MTHSIG18	iscompositekeycolumn composite key column column column javatype type javatype type
+MTHSIG15	isonetoone table table foreignkey foreign key foreignkey foreign key
+MTHSIG16	addotherfields add fields javatype type javatype type table table
+MTHSIG13	addotherjoincolumnattributes add join column attributes annotationmetadatabuilder annotation metadata builder joincolumnbuilder join column builder
+MTHSIG14	getjoincolumnsannotation join columns annotation sortedset sorted set reference references javatype type fieldtype field type
+MTHSIG11	getjoincolumnannotation join column annotation reference reference referencedcolumn referenced column
+MTHSIG12	getjoincolumnannotation join column annotation reference reference referencedcolumn referenced column javatype type fieldtype field type
+MTHSIG19	getidentifierfields identifier fields javatype type javatype type
+VARSIG89	metadataidentificationstring metadata identification
+VARSIG88	path path
+VARSIG87	javatype type javatype type
+VARSIG86	tablename table
+VARSIG81	methodmetadata metadata
+MTHSIG10	getonetomanymappedbyfield mapped field javasymbolname symbol fieldname field javasymbolname symbol mappedbyfieldname mapped field foreigntablename foreign table javapackage javapackage
+VARSIG80	fieldmetadata field metadata field
+VARIABLES	identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata metadataservice metadata service dbretyperesolutionservice dbre type resolution service database database table jointable join table database table foreignkey foreign key field exportedkey exported key database table exportedkey exported key database table foreignkey foreign key field fieldname field jointable join table javapackage reference reference fieldname field mappedbyfieldname mapped field jointable join table javapackage fieldname field fieldtype field type mappedbyfieldname mapped field fieldname field fieldtype field type references annotationtype annotation type referencedcolumn referenced column fieldname field obj fieldname field mappedbyfieldname mapped field foreigntablename foreign table javapackage reference referencedcolumn referenced column reference referencedcolumn referenced column fieldtype field type joincolumnbuilder join column builder references fieldtype field type reference table foreignkey foreign key javatype type table column field fieldname field javatype type field column javatype type field annotation javatype type columnname column fieldname field fieldname field fieldname field column field fieldname field field field itdfield field field field field field field term tablename table javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification metadataidentificationstring metadata identification type type join column join columns mapped referenced column entitymetadata entity metadata metadataservice metadata service dbretyperesolutionservice dbre type resolution service managedentities managed entities annotation javatype type table processedtables processed tables owningsidetable owning side table inversesidetable inverse side table tablecount table count fieldsuffix field suffix sametable table fieldname field field fieldname field mappedbyfieldname mapped field field uniquefields unique fields foreigntablename foreign table keysequence key sequence fieldsuffix field suffix fieldname field fieldtype field type field foreigntablename foreign table foreigntable foreign table keysequence key sequence fieldsuffix field suffix fieldname field fieldtype field type mappedbyfieldname mapped field field foreigntablename foreign table foreigntable foreign table keysequence key sequence fieldsuffix field suffix fieldname field mappedbyfieldname mapped field reference field uniquefields unique fields fieldname field foreigntablename foreign table reference keysequence key sequence fieldsuffix field suffix fieldtype field type field params element physicaltypeidentifier physical type identifier fielddetails field details annotations jointablebuilder join table builder jointableannotationattributes join table annotation attributes joincolumnarrayvalues join column array values firstkeyreferences key references joincolumnbuilder join column builder inversejoincolumnarrayvalues inverse join column array values lastlastreferences references joincolumnbuilder join column builder fieldbuilder field builder params element physicaltypeidentifier physical type identifier fielddetails field details annotations manytomanybuilder builder fieldbuilder field builder annotations onetoonebuilder builder fieldbuilder field builder annotations fieldbuilder field builder ptd mutable tostringtype type tostringannotation annotation attributes ignorefields ignore fields alreadyadded arrayval array val tostringannotationbuilder annotation builder params element physicaltypeidentifier physical type identifier fielddetails field details annotations onetomanybuilder builder fieldbuilder field builder joincolumnbuilder join column builder iscompositekeycolumn composite key column arrayvalues array values joincolumnannotation join column annotation attributes equals primarykeyiterator primary key iterator uniquefields unique fields columnname column fieldname field iscompositekeyfield composite key field field identifierfields identifier fields identifierfields identifier fields nameattribute attribute identifierfields identifier fields rooentityannotation roo entity annotation identifiertypeattribute identifier type attribute identifiertype identifier type identifiermetadatamid identifier metadata mid identifiermetadata identifier metadata versionfield version field idfields fields idfields fields embeddedidfields embedded fields fieldtype field type annotations columnbuilder column builder temporalbuilder temporal builder datetimeformatbuilder time format builder fieldbuilder field builder uniquefield unique field uniquefieldname unique field requiredaccessorname required accessor itdmethods methods itdfields fields requiredaccessorname required accessor bodybuilder body builder methodbuilder builder methodname requiredmutatorname required mutator itdmethods methods requiredmutatorname required mutator paramtypes types paramnames names bodybuilder body builder methodbuilder builder
+VARSIG85	runtimeexception runtime exception
+VARSIG84	term
+VARSIG83	fieldmetadata field metadata field
+VARSIG82	fieldmetadata field metadata field
+VARSIG39	object obj
+VARSIG34	javatype type fieldtype field type
+VARSIG33	javasymbolname symbol fieldname field
+VARSIG32	javasymbolname symbol mappedbyfieldname mapped field
+VARSIG31	javatype type fieldtype field type
+VARSIG38	fieldname field
+VARSIG37	referencedcolumn referenced column
+PACKAGE	springframework roo addon dbre
+VARSIG36	javatype type annotationtype annotation type
+VARSIG35	sortedset sorted set reference references
+VARSIG30	javasymbolname symbol fieldname field
+CLASSES	dbremetadata dbre metadata
+VARSIG29	javapackage javapackage
+VARSIG28	jointable join table jointable join table
+VARSIG23	javapackage javapackage
+VARSIG22	jointable join table jointable join table
+VARSIG21	javasymbolname symbol fieldname field
+VARSIG20	fieldmetadata field metadata field
+VARSIG27	javasymbolname symbol mappedbyfieldname mapped field
+VARSIG26	javasymbolname symbol fieldname field
+VARSIG25	reference reference
+VARSIG24	reference reference
+VARSIG7	table table
+VARSIG6	database database
+VARSIG9	database database
+VARSIG8	jointable join table jointable join table
+VARSIG3	metadataservice metadata service metadataservice metadata service
+VARSIG2	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG5	database database
+VARSIG4	dbretyperesolutionservice dbre type resolution service dbretyperesolutionservice dbre type resolution service
+VARSIG1	javatype type aspectname aspect
+VARSIG0	identifier
+VARSIG56	table table
+VARSIG55	javatype type javatype type
+VARSIG54	foreignkey foreign key foreignkey foreign key
+VARSIG53	table table
+VARSIG59	javasymbolname symbol fieldname field
+VARSIG58	fieldmetadata field metadata field
+VARSIG57	column column
+MTHSIG40	isvalid valid metadataidentificationstring metadata identification
+VARSIG52	reference reference
+VARSIG51	javatype type fieldtype field type
+VARSIG50	sortedset sorted set reference references
+VARSIG45	referencedcolumn referenced column
+VARSIG44	reference reference
+VARSIG43	javapackage javapackage
+VARSIG42	foreigntablename foreign table
+VARSIG49	annotationmetadatabuilder annotation metadata builder joincolumnbuilder join column builder
+VARSIG48	javatype type fieldtype field type
+VARSIG47	referencedcolumn referenced column
+VARSIG46	reference reference
+VARSIG41	javasymbolname symbol mappedbyfieldname mapped field
+VARSIG40	javasymbolname symbol fieldname field

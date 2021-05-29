@@ -1,0 +1,51 @@
+MTHSIG4	backonedirectori directori fileidentifi file identifi 
+MTHSIG5	removetrailingsepar remov trail separ path 
+MTHSIG6	matchesantpath match ant path antpattern ant pattern canonicalpath canon path 
+MTHSIG7	removeleadingandtrailingsepar remov lead trail separ path 
+MTHSIG0	deleterecurs delet recurs file file 
+MTHSIG1	copyrecurs copi recurs file sourc file destin deletedestinationonexit delet destin exit 
+PACKAGE	springframework roo support util 
+MTHSIG2	denotesabsolutepath denot absolut path filenam file 
+MTHSIG3	getfirstdirectori directori fileidentifi file identifi 
+MTHSIG8	ensuretrailingsepar ensur trail separ path 
+MTHSIG9	getsystemdependentpath system depend path pathel path element 
+CLASSES	fileutil file util 
+METHODS	deleterecurs delet recurs copyrecurs copi recurs denotesabsolutepath denot absolut path getfirstdirectori directori backonedirectori directori removetrailingsepar remov trail separ matchesantpath match ant path removeleadingandtrailingsepar remov lead trail separ ensuretrailingsepar ensur trail separ getsystemdependentpath system depend path getsystemdependentpath system depend path getcanonicalpath canon path getfileseparatorasregex file separ regex getpath path getfil file getinputstream input stream read fileutil file util 
+VARSIG23	urisyntaxexcept uri syntax except 
+VARSIG22	filenam 
+VARSIG21	loadingclass load 
+VARSIG20	relativefilenam rel filenam 
+VARSIG27	ioexcept except 
+VARSIG26	file file 
+VARSIG25	filenam 
+VARSIG24	loadingclass load 
+VARSIG7	filenam file 
+VARSIG6	ioexcept except ioe 
+VARSIG9	fileidentifi file identifi 
+VARSIG8	fileidentifi file identifi 
+VARSIG3	file destin 
+VARSIG2	file sourc 
+VARSIG5	file 
+VARSIG4	deletedestinationonexit delet destin exit 
+COMMENTS	util handl link file instanc constant rel file path current directori valid platform roo support doesn check backslash colon issu path window delet link file link file refer directori content directori includ directori delet link file exist return file delet requir file exist file fulli delet failur delet copi sourc directori destin sourc exist destin exist creat destin exist directori file sourc exist sourc directori requir destin destin directori requir deletedestinationonexit delet destin exit mark creat destin delet exit copi success directori copi check filenam file denot absolut path file system window includ path drive letter start check perform file exist filenam file file absolut path filenam file absolut path current check drive letter return path repres directori path directori parent directori file fileidentifi file identifi path pars requir return file system path element fileidentifi file identifi remov trail link file separ path path path modifi modifi path canon path match ant style pattern antpattern ant pattern pattern check can blank canonicalpath canon path path check can blank remov lead trail link file separ path path path modifi path modifi ensur path trail link file separ path path modifi can normalis path return oper system depend path consist element separ link file separ pathel path element path element uppermost can empti blank return oper system depend path consist element separ link file separ pathel path element path element uppermost can empti blank return canon path link file file file find canon path canon path file return platform specif file separ regular express blank regex escap backslash determin path request file rel loadingclass load file rel requir relativefilenam rel filenam file rel requir full classload specif path file slash file separatorchar separ correct classload path file system path load file classpath loadingclass load load file requir filenam file load rel requir file file input stream illegalargumentexcept illeg argument except file load file classpath loadingclass load load file requir filenam file load rel requir file file input stream illegalargumentexcept illeg argument except file return content file file file read exist file content illegalstateexcept illeg except error constructor prevent instanti 
+VARSIG19	loadingclass load 
+VARSIG1	file 
+VARSIG18	ioexcept except ioe 
+VARSIG0	file file 
+VARSIG17	file file 
+VARSIG12	canonicalpath canon path 
+VARSIG11	antpattern ant pattern 
+VARSIG10	path 
+VARSIG16	collect pathel path element 
+VARSIG15	pathel path element 
+VARSIG14	path 
+VARSIG13	path 
+MTHSIG17	fileutil file util 
+MTHSIG15	getinputstream input stream loadingclass load filenam 
+MTHSIG16	read file file 
+MTHSIG13	getpath path loadingclass load relativefilenam rel filenam 
+MTHSIG14	getfil file loadingclass load filenam 
+MTHSIG11	getcanonicalpath canon path file file 
+MTHSIG12	getfileseparatorasregex file separ regex 
+MTHSIG10	getsystemdependentpath system depend path collect pathel path element 
+VARIABLES	file sourc destin deletedestinationonexit delet destin exit ioe filenam file fileidentifi file identifi fileidentifi file identifi path antpattern ant pattern canonicalpath canon path path path pathel path element pathel path element file ioe loadingclass load relativefilenam rel filenam loadingclass load filenam loadingclass load filenam file backslash escap backslash current directori window drive prefix window drive path path matcher filesepar file separ url inputstream input stream 

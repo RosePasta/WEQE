@@ -1,0 +1,31 @@
+VARSIG7	javapackage requestpackage request
+VARSIG6	javapackage requestpackage request
+VARSIG9	javapackage proxypackage proxy
+VARSIG8	javatype type type
+VARSIG3	javatype type type
+VARSIG2	javapackage proxyandrequestpackage proxy request
+VARSIG5	javatype type type
+VARSIG4	javapackage proxypackage proxy
+COMMENTS	gwt operations delimiter multi level paths element module module gwt xml file
+VARSIG1	javapackage proxyandrequestpackage proxy request
+VARSIG0	javapackage proxypackage proxy
+MTHSIG4	proxyandrequesttype proxy request type javapackage proxyandrequestpackage proxy request javatype type type
+VARSIG12	javapackage requestpackage request
+MTHSIG5	proxytype proxy type javapackage proxypackage proxy javatype type type
+VARSIG11	javapackage proxypackage proxy
+MTHSIG6	requestall request javapackage requestpackage request
+VARSIG10	javapackage requestpackage request
+MTHSIG7	requesttype request type javapackage requestpackage request javatype type type
+MTHSIG0	isgwtinstallationpossible gwt installation
+MTHSIG1	isscaffoldavailable scaffold
+PACKAGE	springframework roo addon gwt
+MTHSIG2	proxyall proxy javapackage proxypackage proxy
+MTHSIG3	proxyandrequestall proxy request javapackage proxyandrequestpackage proxy request
+VARSIG13	javatype type type
+MTHSIG8	scaffoldall scaffold javapackage proxypackage proxy javapackage requestpackage request
+MTHSIG9	scaffoldtype scaffold type javapackage proxypackage proxy javapackage requestpackage request javatype type type
+MTHSIG11	updategaeconfiguration update gae configuration
+CLASSES	gwtoperations gwt operations
+METHODS	isgwtinstallationpossible gwt installation isscaffoldavailable scaffold proxyall proxy proxyandrequestall proxy request proxyandrequesttype proxy request type proxytype proxy type requestall request requesttype request type scaffoldall scaffold scaffoldtype scaffold type setup updategaeconfiguration update gae configuration
+MTHSIG10	setup
+VARIABLES	proxypackage proxy proxyandrequestpackage proxy request proxyandrequestpackage proxy request type proxypackage proxy type requestpackage request requestpackage request type proxypackage proxy requestpackage request proxypackage proxy requestpackage request type path delimiter

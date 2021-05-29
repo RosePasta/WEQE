@@ -1,0 +1,37 @@
+VARSIG7	importmetadata metadata animport
+VARSIG6	collection importmetadata metadata imports
+VARSIG9	annotationmetadata annotation metadata annotationmetadata annotation metadata
+VARSIG8	declaredmethodannotationdetails declared annotation details declaredmethodannotationdetails declared annotation details
+VARSIG3	javatype type aspect
+VARSIG2	classorinterfacetypedetails type details governor
+VARSIG5	declaredfieldannotationdetails declared field annotation details declaredfieldannotationdetails declared field annotation details
+VARSIG4	privilegedaspect privileged aspect
+COMMENTS	assists building link itdtypedetails type details instance methods include constructor accept arguments automatically ignore attempt add link identifiablejavastructure identifiable structure declaredbymetadataid declared metadata instance constructed addition accepts link invocablemembermetadata invocable member metadata verify link invocablemembermetadata invocable member metadata getbody body detects programming errors result requesting member included providing actual executable body member constructor based existing existing required constructor declaredbymetadataid declared metadata governor required aspect required privilegedaspect privileged aspect addannotation add annotation
+VARSIG1	declaredbymetadataid declared metadata
+VARSIG0	itdtypedetails type details existing
+MTHSIG4	addmethodannotation add annotation declaredmethodannotationdetails declared annotation details declaredmethodannotationdetails declared annotation details
+VARSIG12	javatype type type
+MTHSIG5	addtypeannotation add type annotation annotationmetadata annotation metadata annotationmetadata annotation metadata
+VARSIG11	constructormetadatabuilder constructor metadata builder
+MTHSIG6	build
+VARSIG10	annotationmetadatabuilder annotation metadata builder
+MTHSIG7	getimportregistrationresolver registration resolver
+MTHSIG0	itdtypedetailsbuilder type details builder itdtypedetails type details existing
+VARSIG16	methodmetadatabuilder metadata builder
+MTHSIG1	itdtypedetailsbuilder type details builder declaredbymetadataid declared metadata classorinterfacetypedetails type details governor javatype type aspect privilegedaspect privileged aspect
+VARSIG15	classorinterfacetypedetailsbuilder type details builder cid
+PACKAGE	springframework roo classpath details
+MTHSIG2	addfieldannotation add field annotation declaredfieldannotationdetails declared field annotation details declaredfieldannotationdetails declared field annotation details
+VARSIG14	javatype type type
+MTHSIG3	addimports add imports collection importmetadata metadata imports
+VARSIG13	fieldmetadatabuilder field metadata builder
+MTHSIG8	onaddannotation add annotation annotationmetadatabuilder annotation metadata builder
+MTHSIG9	onaddconstructor add constructor constructormetadatabuilder constructor metadata builder
+MTHSIG13	onaddinnertype add type classorinterfacetypedetailsbuilder type details builder cid
+MTHSIG14	onaddmethod add methodmetadatabuilder metadata builder
+MTHSIG11	onaddfield add field fieldmetadatabuilder field metadata builder
+MTHSIG12	onaddimplementtype add implement type javatype type type
+CLASSES	itdtypedetailsbuilder type details builder
+METHODS	itdtypedetailsbuilder type details builder itdtypedetailsbuilder type details builder addfieldannotation add field annotation addimports add imports addmethodannotation add annotation addtypeannotation add type annotation build getimportregistrationresolver registration resolver onaddannotation add annotation onaddconstructor add constructor onaddextendstypes add types onaddfield add field onaddimplementtype add implement type onaddinnertype add type onaddmethod add
+MTHSIG10	onaddextendstypes add types javatype type type
+VARIABLES	existing declaredbymetadataid declared metadata governor aspect privilegedaspect privileged aspect declaredfieldannotationdetails declared field annotation details imports animport declaredmethodannotationdetails declared annotation details annotationmetadata annotation metadata type type cid aspect fieldannotations field annotations governor importregistrationresolver registration resolver methodannotations annotations privilegedaspect privileged aspect declaredby declared hasannotation annotation declaredby declared hasannotation annotation

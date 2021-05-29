@@ -1,0 +1,19 @@
+VARSIG7	
+VARSIG6	jmsprovider jms provider jmsprovider jms provider
+VARSIG8	jmsdestinationtype jms destination type destinationtype destination type
+VARSIG3	javatype type targettype target type
+VARSIG2	jmsdestinationtype jms destination type destinationtype destination type
+VARSIG5	async
+VARSIG4	javasymbolname symbol fieldname field
+COMMENTS	link jmsoperationsimpl jms operations impl
+CLASSES	jmsoperations jms operations
+VARSIG1	
+VARSIG0	javatype type targettype target type
+METHODS	addjmslistener add jms listener injectjmstemplate inject jms template installjms install jms isjmsinstallationpossible jms installation ismanagejmsavailable manage jms
+MTHSIG4	ismanagejmsavailable manage jms
+MTHSIG0	addjmslistener add jms listener javatype type targettype target type jmsdestinationtype jms destination type destinationtype destination type
+MTHSIG1	injectjmstemplate inject jms template javatype type targettype target type javasymbolname symbol fieldname field async
+PACKAGE	springframework roo addon jms
+MTHSIG2	installjms install jms jmsprovider jms provider jmsprovider jms provider jmsdestinationtype jms destination type destinationtype destination type
+MTHSIG3	isjmsinstallationpossible jms installation
+VARIABLES	targettype target type destinationtype destination type targettype target type fieldname field async jmsprovider jms provider destinationtype destination type

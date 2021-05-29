@@ -1,0 +1,45 @@
+VARSIG7	jdbcdatabase jdbc database database
+VARSIG6	jndi
+VARSIG9	exception
+VARSIG8	jndi
+VARSIG3	projectoperations project operations projectoperations project operations
+VARSIG2	metadataservice metadata service metadataservice metadata service
+VARSIG5	jdbcdatabase jdbc database database
+VARSIG4	ormprovider orm provider ormprovider orm provider
+COMMENTS	jpa configuration operations responsible managing jpa artifacts meta inf persistence xml applicationcontext application context xml database properties project pom xml ormprovider orm provider orm provider selected hibernate openjpa open jpa eclipselink link database database hsql mysql sql checking existence configurations abort hard coded jpa hibernate validator add provider element add properties
+VARSIG19	element dependency
+VARSIG1	pathresolver path resolver pathresolver path resolver
+VARSIG18	element dependency
+VARSIG0	filemanager file manager filemanager file manager
+VARSIG17	element dependency
+MTHSIG4	updateapplicationcontext update application context jdbcdatabase jdbc database database jndi
+VARSIG12	ioexception exception ioe
+MTHSIG5	updatedatabaseproperties update database properties jdbcdatabase jdbc database database
+VARSIG11	ioexception exception ioe
+MTHSIG6	updatedependencies update dependencies ormprovider orm provider ormprovider orm provider jdbcdatabase jdbc database database
+VARSIG10	jdbcdatabase jdbc database database
+MTHSIG7	updatepersistencexml update persistence xml ormprovider orm provider ormprovider orm provider jdbcdatabase jdbc database database
+MTHSIG0	jpaoperations jpa operations filemanager file manager filemanager file manager pathresolver path resolver pathresolver path resolver metadataservice metadata service metadataservice metadata service projectoperations project operations projectoperations project operations
+VARSIG16	element dependency
+MTHSIG1	isjpainstallationpossible jpa installation
+VARSIG15	exception
+PACKAGE	springframework roo addon jpa
+MTHSIG2	isjpainstalled jpa installed
+VARSIG14	jdbcdatabase jdbc database database
+MTHSIG3	configurejpa configure jpa ormprovider orm provider ormprovider orm provider jdbcdatabase jdbc database database jndi
+VARSIG13	ormprovider orm provider ormprovider orm provider
+MTHSIG8	createpropertyelement create property element document doc
+MTHSIG9	createrefelement create element document doc
+CLASSES	jpaoperations jpa operations
+VARSIG29	document doc
+VARSIG28	
+METHODS	jpaoperations jpa operations isjpainstallationpossible jpa installation isjpainstalled jpa installed configurejpa configure jpa updateapplicationcontext update application context updatedatabaseproperties update database properties updatedependencies update dependencies updatepersistencexml update persistence xml createpropertyelement create property element createrefelement create element
+VARSIG23	exception
+VARSIG22	exception
+VARSIG21	jdbcdatabase jdbc database database
+VARSIG20	ormprovider orm provider ormprovider orm provider
+VARSIG27	
+VARSIG26	document doc
+VARSIG25	
+VARSIG24	
+VARIABLES	filemanager file manager pathresolver path resolver metadataservice metadata service projectoperations project operations ormprovider orm provider database jndi database jndi database ioe ioe ormprovider orm provider database dependency dependency dependency dependency ormprovider orm provider database doc doc logger filemanager file manager pathresolver path resolver metadataservice metadata service projectoperations project operations contextpath context path contextmutablefile context mutable file appctx app ctx root datasource data source datasourcejndi data source jndi transactionmanager transaction manager aspectjtxmanager aspect manager entitymanagerfactory entity manager factory databasepath database path databasemutablefile database mutable file props templateinputstream template input stream connectionstring connection projectmetadata project metadata templateinputstream template input stream dependencydoc dependency doc dependencies databasedepenencies database depenencies ormdepenencies orm depenencies jpadependencies jpa dependencies springdependencies spring dependencies persistencepath persistence path persistencemutablefile persistence mutable file persistence templateinputstream template input stream dialects dialectsinputstream dialects input stream rootelement root element persistenceunit persistence unit provider properties property property

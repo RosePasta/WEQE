@@ -1,0 +1,51 @@
+MTHSIG22	getoutput output
+MTHSIG23	iscontent content
+MTHSIG4	appendtypeannotations append type annotations
+MTHSIG5	appendfieldannotations append field annotations
+MTHSIG6	appendmethodannotations append annotations
+MTHSIG7	appendextendstypes append types
+MTHSIG0	itdsourcefilecomposer source file composer itdtypedetails type details itdtypedetails type details
+MTHSIG1	prependcompilationunitdetails prepend compilation unit details
+PACKAGE	springframework roo classpath
+MTHSIG2	appendtypedeclaration append type declaration
+MTHSIG3	outputannotation output annotation annotationmetadata annotation metadata annotation
+MTHSIG20	appendindent append indent
+MTHSIG21	appendterminator append terminator
+MTHSIG8	appendimplementstypes append types
+MTHSIG9	appendconstructors append constructors
+CLASSES	itdsourcefilecomposer source file composer
+METHODS	itdsourcefilecomposer source file composer prependcompilationunitdetails prepend compilation unit details appendtypedeclaration append type declaration outputannotation output annotation appendtypeannotations append type annotations appendfieldannotations append field annotations appendmethodannotations append annotations appendextendstypes append types appendimplementstypes append types appendconstructors append constructors appendmethods append methods appendfields append fields appendinnertypes append types indent indentremove indent remove newline newline getnewline append appendformalline append formal appendindent append indent appendterminator append terminator getoutput output iscontent content
+VARSIG21	message
+VARSIG20	message
+VARSIG7	javatype type extendstype type
+VARSIG6	declaredmethodannotationdetails declared annotation details methoddetails details
+VARSIG9	constructormetadata constructor metadata constructor
+VARSIG8	javatype type extendstype type
+VARSIG3	annotationmetadata annotation metadata annotation
+VARSIG2	javatype type importtype type
+VARSIG5	declaredfieldannotationdetails declared field annotation details fielddetails field details
+VARSIG4	annotationmetadata annotation metadata typeannotation type annotation
+COMMENTS	simple producing inter type declaration source file constructs link itdsourcefilecomposer source file composer members requested passed object itdtypedetails type details construct required create resolver add items process sanity check user misused prepend declaration imports ensure compilation unit imports correct they built traverse members note interacting top file builder ordered ensure consistency output append normal file bottom replace writer writer set set operations append annotations append modifier targetofintroduction target introduction portion append parameter types names add body append annotations append modifier returntype methodname portion type append parameter types names add exceptions thrown add body append annotations append modifier fieldtype fieldname field portion append initializer complete field declaration supports types field definitions point append initializer complete field declaration increases indent level decreases indent level prints blank ensuring indent included prints blank ensuring indent included consistency javaparser javaparser dumpvisitor dump visitor append system getproperty property separator consistency javaparser javaparser dumpvisitor dump visitor prints message indentation prints message adding indents returns commonly prints relevant number indents ensure content flag set formal append content formal declaration actual content
+VARSIG19	indent
+VARSIG1	javatype type registeredimport registered
+VARSIG18	fieldmetadata field metadata field
+VARSIG0	itdtypedetails type details itdtypedetails type details
+VARSIG17	classorinterfacetypedetails type details innertype type
+VARSIG12	methodmetadata metadata
+VARSIG11	annotationmetadata annotation metadata methodparameterannotation parameter annotation
+VARSIG10	annotationmetadata annotation metadata annotation
+VARSIG16	annotationmetadata annotation metadata annotation
+VARSIG15	fieldmetadata field metadata field
+VARSIG14	annotationmetadata annotation metadata methodparameterannotation parameter annotation
+VARSIG13	annotationmetadata annotation metadata annotation
+MTHSIG17	getnewline
+MTHSIG18	append message
+MTHSIG15	newline
+MTHSIG16	newline indent
+MTHSIG13	indent
+MTHSIG14	indentremove indent remove
+MTHSIG11	appendfields append fields
+MTHSIG12	appendinnertypes append types
+MTHSIG19	appendformalline append formal message
+MTHSIG10	appendmethods append methods
+VARIABLES	itdtypedetails type details registeredimport registered importtype type annotation typeannotation type annotation fielddetails field details methoddetails details extendstype type extendstype type constructor annotation methodparameterannotation parameter annotation annotation methodparameterannotation parameter annotation field annotation innertype type field indent message message indentlevel indent level introductionto introduction content itdtypedetails type details resolver aspect topoffile top file types typeannotations type annotations fieldannotations field annotations methodannotations annotations extendstypes types implementstypes types constructors paramtypes types paramnames names paramtype type paramname methods staticmethod paramtypes types paramnames names paramtype type paramname throwstypes types fields innertypes types contentbefore content

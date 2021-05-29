@@ -1,0 +1,6 @@
+MTHSIG0	execute
+PACKAGE	springframework roo mojo addon
+COMMENTS	introspects compiled files roo add roo shell annotations converting json serialized form adding jar manifest goal roo addon phase process classes description obtains extra roo specific osgi manifest requiresdependencyresolution requires dependency resolution compile maven project parameter expression project required readonly system println output directory outputdirectory output directory commands size commands
+CLASSES	buildmojo build mojo
+VARIABLES	serializer project outputdirectory output directory commands
+METHODS	execute

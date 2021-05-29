@@ -1,0 +1,21 @@
+VARSIG7	optioncontext option context
+VARSIG6	existingdata existing data
+VARSIG9	schema schema
+VARSIG8	methodtarget target target
+VARSIG3	schemaname schema
+VARSIG2	optioncontext option context
+VARSIG5	requiredtype required type
+VARSIG4	list completion completions
+COMMENTS	conversion database schemas
+CLASSES	schemaconverter schema converter
+VARSIG1	requiredtype required type
+VARSIG0	
+METHODS	convertfromtext convert text getallpossiblevalues values supports
+VARSIG12	optioncontext option context
+VARSIG11	requiredtype required type
+VARSIG10	exception
+MTHSIG0	convertfromtext convert text requiredtype required type optioncontext option context
+MTHSIG1	getallpossiblevalues values list completion completions requiredtype required type existingdata existing data optioncontext option context methodtarget target target
+PACKAGE	springframework roo addon dbre converter
+MTHSIG2	supports requiredtype required type optioncontext option context
+VARIABLES	requiredtype required type optioncontext option context schemaname schema completions requiredtype required type existingdata existing data optioncontext option context target schema requiredtype required type optioncontext option context dbremodelservice dbre model service schemas schemas

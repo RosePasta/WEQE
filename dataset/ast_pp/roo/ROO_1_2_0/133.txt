@@ -1,0 +1,13 @@
+VARSIG3	shellstatus shell status newstatus status
+VARSIG2	shellstatus shell status oldstatus status
+COMMENTS	listener shell events support automatic git repository commits fields
+CLASSES	gitshelleventlistener git shell event listener
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+METHODS	activate deactivate onshellstatuschange shell status change isgitenabled git enabled
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo addon git
+MTHSIG2	onshellstatuschange shell status change shellstatus shell status oldstatus status shellstatus shell status newstatus status
+MTHSIG3	isgitenabled git enabled
+VARIABLES	context context oldstatus status newstatus status gitoperations git operations pathresolver path resolver shell

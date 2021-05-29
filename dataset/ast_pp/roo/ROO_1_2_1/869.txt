@@ -1,0 +1,14 @@
+VARSIG3	processmanager process manager processmanager process manager
+VARSIG2	exception
+COMMENTS	dispatch shell link executionstrategy execution strategy requests link processmanager process manager execute springframework roo process manager commandcallback command callback busy execution needed recursive commands executing script terminated additional commands quit exit script roo
+CLASSES	processmanagerhostedexecutionstrategy process manager hosted execution strategy
+VARSIG1	parseresult parse result parseresult parse result
+VARSIG0	processmanager process manager processmanager process manager
+METHODS	bindprocessmanager bind process manager execute isreadyforcommands ready commands terminate unbindprocessmanager unbind process manager
+MTHSIG4	unbindprocessmanager unbind process manager processmanager process manager processmanager process manager
+MTHSIG0	bindprocessmanager bind process manager processmanager process manager processmanager process manager
+MTHSIG1	execute parseresult parse result parseresult parse result
+PACKAGE	springframework roo process manager
+MTHSIG2	isreadyforcommands ready commands
+MTHSIG3	terminate
+VARIABLES	processmanager process manager parseresult parse result processmanager process manager mutex processmanager process manager processmanagerstatus process manager status

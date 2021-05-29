@@ -1,0 +1,38 @@
+VARSIG7	metadataidentificationstr metadata identif 
+VARSIG6	javatyp type entiti 
+VARSIG9	javatyp type aspectnam aspect 
+VARSIG8	metadataidentificationstr metadata identif 
+VARSIG3	componentcontext compon context context 
+VARSIG2	logicalpath logic path path 
+VARSIG5	classorinterfacetypedetail type detail dodtyp dod type 
+VARSIG4	javatyp type entiti 
+COMMENTS	implement link integrationtestmetadataprovid integr test metadata provid integr test class configur dod class provid relationship return link javatyp type entiti entiti data demand entiti entiti dod type type exist check exist type standard dod name convent dod annot class entiti entiti exist dod entiti pars annot expect inform depend metadata inform depend metadata order handl switch gae jpa produc mid rememb regener jpa gae maintain list entiti test entiti produc metadata chang refresh metadata handl chang explicit downstream depend physic type physicaltyp physic type type chang requir handl chang explicit downstream depend project metadata determin persist chang compar current 
+VARSIG1	javatyp type javatyp type 
+VARSIG18	upstreamdepend upstream depend 
+VARSIG0	componentcontext compon context context 
+VARSIG17	producedmid produc mid 
+MTHSIG4	getentitysuperclass entiti superclass javatyp type entiti 
+VARSIG12	javatyp type physicaltyp physic type 
+MTHSIG5	getgovernorphysicaltypeidentifi governor physic type identifi metadataidentificationstr metadata identif 
+VARSIG11	itdfilenam filenam 
+MTHSIG6	getitduniquenessfilenamesuffix uniqu filenam suffix 
+VARSIG10	physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+MTHSIG7	getmetadata metadata metadataidentificationstr metadata identif javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata itdfilenam filenam 
+MTHSIG0	activ componentcontext compon context context 
+VARSIG16	modulenam modul 
+MTHSIG1	createlocalidentifi creat local identifi javatyp type javatyp type logicalpath logic path path 
+VARSIG15	javatyp type physicaltyp physic type 
+PACKAGE	springframework roo addon test 
+MTHSIG2	deactiv componentcontext compon context context 
+VARSIG14	javatyp type physicaltyp physic type 
+MTHSIG3	getdataondemandtyp data demand type javatyp type entiti 
+VARSIG13	javatyp type type 
+MTHSIG8	getprovidestyp type 
+MTHSIG9	handlechangestolayeringfortestedent handl layer test entiti javatyp type physicaltyp physic type 
+MTHSIG13	notifyforgenericlisten notifi listen upstreamdepend upstream depend 
+MTHSIG11	handlegenericchangetophysicaltyp handl chang physic type javatyp type physicaltyp physic type 
+MTHSIG12	handlegenericchangetoproject handl chang project modulenam modul 
+CLASSES	integrationtestmetadataproviderimpl integr test metadata provid impl 
+METHODS	activ createlocalidentifi creat local identifi deactiv getdataondemandtyp data demand type getentitysuperclass entiti superclass getgovernorphysicaltypeidentifi governor physic type identifi getitduniquenessfilenamesuffix uniqu filenam suffix getmetadata metadata getprovidestyp type handlechangestolayeringfortestedent handl layer test entiti handlechangestotestedent handl test entiti handlegenericchangetophysicaltyp handl chang physic type handlegenericchangetoproject handl chang project notifyforgenericlisten notifi listen 
+MTHSIG10	handlechangestotestedent handl test entiti javatyp type physicaltyp physic type 
+VARIABLES	context javatyp type path context entiti dodtyp dod type entiti metadataidentificationstr metadata identif metadataidentificationstr metadata identif aspectnam aspect governorphysicaltypemetadata governor physic type metadata itdfilenam filenam physicaltyp physic type type physicaltyp physic type physicaltyp physic type modulenam modul producedmid produc mid upstreamdepend upstream depend layer posit transact manag attribut configurablemetadataprovid configur metadata provid layerservic layer servic projectoper project oper managedentitytyp manag entiti type producedmid produc mid wasgaeen gae enabl defaultdodtyp dod type dodannot dod annot physicaltypeidentifi physic type identifi ptm ptd cid javatyp type path annotationvalu annot valu entiti dataondemandtyp data demand type dataondemandmetadatakei data demand metadata kei dataondemandmetadata data demand metadata identifiertyp identifi type memberdetail member detail persistencememberholdingtypedetail persist member hold type detail firstresultparamet result paramet maxresultsparamet max paramet identifieraccessormethod identifi accessor versionaccessormethod version accessor countmethodaddit count addit findmethodaddit find addit findallmethodaddit find addit findentriesmethod find entri entityparamet entiti paramet flushmethodaddit flush addit mergemethodaddit merg addit persistmethodaddit persist addit removemethodaddit remov addit transactionmanag transact manag jpaactiverecordannot jpa activ record annot transactionmanagerattr transact manag attr hasembeddedidentifi embed identifi entityhassuperclass entiti superclass modulenam modul isgaeen gae enabl memberholdingtypedetail member hold type detail localmid local mid projectmetadata project metadata isgaeen gae enabl hasgaestatechang gae chang 

@@ -1,0 +1,59 @@
+MTHSIG26	buildfield build field 
+MTHSIG27	buildmethod build method 
+MTHSIG24	onaddextendstyp add type javatyp type extendstyp type 
+MTHSIG25	buildconstructor build constructor 
+MTHSIG22	onaddimplementtyp add implement type javatyp type implementstyp type 
+MTHSIG23	addextendstyp add type javatyp type extendstyp type 
+MTHSIG4	getdeclaredfield declar field 
+MTHSIG5	setdeclaredfield set declar field list fieldmetadatabuild field metadata builder declaredfield declar field 
+MTHSIG6	getdeclaredmethod declar method 
+MTHSIG7	setdeclaredmethod set declar method list methodmetadatabuild metadata builder declaredmethod declar method 
+MTHSIG0	abstractmemberholdingtypedetailsbuild member hold type detail builder declaredbymetadataid declaredbi metadata 
+MTHSIG1	abstractmemberholdingtypedetailsbuild member hold type detail builder memberholdingtypedetail member hold type detail exist 
+PACKAGE	springframework roo classpath detail 
+MTHSIG2	getdeclaredconstructor declar constructor 
+MTHSIG3	setdeclaredconstructor set declar constructor list constructormetadatabuild constructor metadata builder declaredconstructor declar constructor 
+MTHSIG20	addmethod add methodmetadata metadata 
+MTHSIG21	addimplementstyp add type javatyp type implementstyp type 
+MTHSIG8	getextendstyp type 
+MTHSIG9	setextendstyp set type list javatyp type extendstyp type 
+CLASSES	abstractmemberholdingtypedetailsbuild member hold type detail builder 
+METHODS	abstractmemberholdingtypedetailsbuild member hold type detail builder abstractmemberholdingtypedetailsbuild member hold type detail builder getdeclaredconstructor declar constructor setdeclaredconstructor set declar constructor getdeclaredfield declar field setdeclaredfield set declar field getdeclaredmethod declar method setdeclaredmethod set declar method getextendstyp type setextendstyp set type getimplementstyp type setimplementstyp set type addconstructor add constructor onaddconstructor add constructor addfield add field onaddfield add field addmethod add onaddmethod add addconstructor add constructor addfield add field addmethod add addimplementstyp add type onaddimplementtyp add implement type addextendstyp add type onaddextendstyp add type buildconstructor build constructor buildfield build field buildmethod build method 
+VARSIG23	constructormetadatabuild constructor metadata builder builder 
+VARSIG22	javatyp type extendstyp type 
+VARSIG21	javatyp type extendstyp type 
+VARSIG20	javatyp type implementstyp type 
+VARSIG25	methodmetadatabuild metadata builder builder 
+VARSIG24	fieldmetadatabuild field metadata builder builder 
+VARSIG7	list methodmetadatabuild metadata builder declaredmethod declar method 
+VARSIG6	list fieldmetadatabuild field metadata builder declaredfield declar field 
+VARSIG9	list javatyp type implementstyp type 
+VARSIG8	list javatyp type extendstyp type 
+VARSIG3	fieldmetadata field metadata element 
+VARSIG2	constructormetadata constructor metadata element 
+VARSIG5	list constructormetadatabuild constructor metadata builder declaredconstructor declar constructor 
+VARSIG4	methodmetadata metadata element 
+COMMENTS	link builder assist build link memberholdingtypedetail member hold type detail implement 
+VARSIG19	javatyp type implementstyp type 
+VARSIG1	memberholdingtypedetail member hold type detail exist 
+VARSIG18	methodmetadata metadata 
+VARSIG0	declaredbymetadataid declaredbi metadata 
+VARSIG17	fieldmetadata field metadata field 
+VARSIG12	fieldmetadatabuild field metadata builder field 
+VARSIG11	constructormetadatabuild constructor metadata builder constructor 
+VARSIG10	constructormetadatabuild constructor metadata builder constructor 
+VARSIG16	constructormetadata constructor metadata constructor 
+VARSIG15	methodmetadatabuild metadata builder 
+VARSIG14	methodmetadatabuild metadata builder 
+VARSIG13	fieldmetadatabuild field metadata builder field 
+MTHSIG17	onaddmethod add methodmetadatabuild metadata builder 
+MTHSIG18	addconstructor add constructor constructormetadata constructor metadata constructor 
+MTHSIG15	onaddfield add field fieldmetadatabuild field metadata builder field 
+MTHSIG16	addmethod add methodmetadatabuild metadata builder 
+MTHSIG13	onaddconstructor add constructor constructormetadatabuild constructor metadata builder constructor 
+MTHSIG14	addfield add field fieldmetadatabuild field metadata builder field 
+MTHSIG11	setimplementstyp set type list javatyp type implementstyp type 
+MTHSIG12	addconstructor add constructor constructormetadatabuild constructor metadata builder constructor 
+MTHSIG19	addfield add field fieldmetadata field metadata field 
+MTHSIG10	getimplementstyp type 
+VARIABLES	declaredbymetadataid declaredbi metadata exist element element element declaredconstructor declar constructor declaredfield declar field declaredmethod declar method extendstyp type implementstyp type constructor constructor field field constructor field implementstyp type implementstyp type extendstyp type extendstyp type builder builder builder declaredconstructor declar constructor declaredfield declar field declaredmethod declar method extendstyp type implementstyp type result result result 

@@ -1,0 +1,12 @@
+MTHSIG4	testinstanceswithdifferentcontentsarenotequal test instances contents equal
+MTHSIG5	testinstanceswithsamecontentshavesamehashcodes test instances contents hash codes
+MTHSIG6	testinstanceswithdifferentcontentshavedifferenthashcodes test instances contents hash codes
+MTHSIG0	testinstancedoesnotequalnull test instance equal
+MTHSIG1	testinstancedoesnotequalinstanceofotherclass test instance equal instance
+PACKAGE	springframework roo addon gwt request
+MTHSIG2	testinstanceequalsitself test instance equals
+MTHSIG3	testinstanceswithsamecontentsareequal test instances contents equal
+COMMENTS	unit test link gwtrequestmetadata gwt request metadata constants set invoke check set invoke check set invoke check set invoke check set invoke check set invoke check set invoke check
+CLASSES	gwtrequestmetadatatest gwt request metadata test
+VARIABLES	contents mid mid instance instance instance instance instance instance instance instance instance instance instance instance instance instance instance instance instance instance instance
+METHODS	testinstancedoesnotequalnull test instance equal testinstancedoesnotequalinstanceofotherclass test instance equal instance testinstanceequalsitself test instance equals testinstanceswithsamecontentsareequal test instances contents equal testinstanceswithdifferentcontentsarenotequal test instances contents equal testinstanceswithsamecontentshavesamehashcodes test instances contents hash codes testinstanceswithdifferentcontentshavedifferenthashcodes test instances contents hash codes

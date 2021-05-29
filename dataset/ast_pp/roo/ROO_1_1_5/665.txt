@@ -1,0 +1,35 @@
+VARSIG7	list dependency dependencies
+VARSIG6	configuration configuration
+VARSIG9	element plugin
+VARSIG8	list execution executions
+VARSIG3	groupid group
+VARSIG2	version
+VARSIG5	version
+VARSIG4	artifactid artifact
+COMMENTS	simplified immutable representation maven build plugin structured model maven creates immutable link plugin groupid group group required artifactid artifact artifact required version version required convenience constructor groupid group group required artifactid artifact artifact required version version required configuration configuration plugin optional dependencies dependencies plugin optional executions executions plugin optional convenience constructor xml element represents maven plugin parse required parsing configuration parsing executions parsing dependencies parsing exclusions simple description console output
+VARSIG1	artifactid artifact
+VARSIG0	groupid group
+MTHSIG4	getartifactid artifact
+VARSIG12	element dependency
+MTHSIG5	getversion version
+VARSIG11	element goal
+MTHSIG6	getconfiguration configuration
+VARSIG10	element execution
+MTHSIG7	getdependencies dependencies
+MTHSIG0	plugin groupid group artifactid artifact version
+MTHSIG1	plugin groupid group artifactid artifact version configuration configuration list dependency dependencies list execution executions
+VARSIG15	plugin
+PACKAGE	springframework roo project
+MTHSIG2	plugin element plugin
+VARSIG14	object obj
+MTHSIG3	getgroupid group
+VARSIG13	element exclusion
+MTHSIG8	getexecutions executions
+MTHSIG9	hashcode hash code
+MTHSIG13	tostring
+MTHSIG11	compareto compare plugin
+MTHSIG12	getsimpledescription simple description
+CLASSES	plugin
+METHODS	plugin plugin plugin getgroupid group getartifactid artifact getversion version getconfiguration configuration getdependencies dependencies getexecutions executions hashcode hash code equals compareto compare getsimpledescription simple description tostring
+MTHSIG10	equals object obj
+VARIABLES	groupid group artifactid artifact version groupid group artifactid artifact version configuration dependencies executions plugin execution goal dependency exclusion obj groupid group artifactid artifact version configuration dependencies executions versionelements version elements configuration executionlist execution list executionid execution executionphase execution phase phase goals goallist goal list dependencylist dependency list dependencygroupid dependency group groupid group dependencyartifactid dependency artifact artifactid artifact dependencyversion dependency version version dependencyelement dependency element exclusionlist exclusion list exclusionelement exclusion element exclusionid exclusion exclusionartifacte exclusion artifact exclusionartifactid exclusion artifact prime result result tsc

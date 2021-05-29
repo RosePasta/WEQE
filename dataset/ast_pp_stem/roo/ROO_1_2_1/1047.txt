@@ -1,0 +1,16 @@
+COMMENTS	unit test link collectionutil collect util simpl filter test filter method set invok check set invok check set invok check set invok check 
+CLASSES	collectionutilstest collect util test 
+VARSIG0	instanc 
+METHODS	testfilternonnulliterablewithnonnullfilt test filter iter filter testfilternonnulliterablewithnullfilt test filter iter filter testfilternullcollect test filter collect testfirstelementofemptycollect test element empti collect testfirstelementofmultielementcollect test element multi element collect testfirstelementofnullcollect test element collect testfirstelementofsingleelementcollect test element singl element collect testpopulatenonnullcollectionwithnonnullcollect test popul collect collect testpopulatenonnullcollectionwithnullcollect test popul collect collect testpopulatenullcollectionwithnullcollect test popul collect collect 
+MTHSIG4	testfirstelementofmultielementcollect test element multi element collect 
+MTHSIG5	testfirstelementofnullcollect test element collect 
+MTHSIG6	testfirstelementofsingleelementcollect test element singl element collect 
+MTHSIG7	testpopulatenonnullcollectionwithnonnullcollect test popul collect collect 
+MTHSIG0	testfilternonnulliterablewithnonnullfilt test filter iter filter 
+MTHSIG1	testfilternonnulliterablewithnullfilt test filter iter filter 
+PACKAGE	springframework roo support util 
+MTHSIG2	testfilternullcollect test filter collect 
+MTHSIG3	testfirstelementofemptycollect test element empti collect 
+VARIABLES	instanc blank filter input input member member originalcollect origin collect child result collect result 
+MTHSIG8	testpopulatenonnullcollectionwithnullcollect test popul collect collect 
+MTHSIG9	testpopulatenullcollectionwithnullcollect test popul collect collect 

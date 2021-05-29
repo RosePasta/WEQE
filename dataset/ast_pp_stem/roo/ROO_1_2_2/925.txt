@@ -1,0 +1,18 @@
+VARSIG6	logicalpath logic path logicalpath logic path 
+VARSIG3	logicalpath logic path logicalpath logic path 
+VARSIG2	logicalpath logic path logicalpath logic path 
+VARSIG5	downstreamdepend downstream depend 
+VARSIG4	upstreamdepend upstream depend 
+COMMENTS	path blank folder pom doesn belong modul monitor processmanag process manag root path root modul 
+CLASSES	projectpathmonitoringiniti project path monitor initi 
+VARSIG1	componentcontext compon context context 
+VARSIG0	componentcontext compon context context 
+METHODS	activ deactiv monitorpathifexist monitor path exist monitorprojectpath monitor project path notifi requiresmonitor requir monitor 
+MTHSIG4	notifi upstreamdepend upstream depend downstreamdepend downstream depend 
+MTHSIG5	requiresmonitor requir monitor logicalpath logic path logicalpath logic path 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	deactiv componentcontext compon context context 
+PACKAGE	springframework roo project 
+MTHSIG2	monitorpathifexist monitor path exist logicalpath logic path logicalpath logic path 
+MTHSIG3	monitorprojectpath monitor project path 
+VARIABLES	context context logicalpath logic path logicalpath logic path upstreamdepend upstream depend downstreamdepend downstream depend logicalpath logic path monitor oper filemonitorservic file monitor servic metadatadependencyregistri metadata depend registri pathresolv path resolv pathsregist path regist undomanag undo manag canonicalpath canon path directori request 

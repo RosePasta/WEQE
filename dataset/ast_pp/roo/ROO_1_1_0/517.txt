@@ -1,0 +1,20 @@
+VARSIG7	
+VARSIG6	len
+VARSIG8	
+VARSIG3	ioexception exception ioe
+VARSIG2	notifiablefilemonitorservice notifiable file monitor service filemonitorservice file monitor service
+VARSIG5	
+VARSIG4	
+COMMENTS	ensures link notifiablefilemonitorservice notifiable file monitor service notifychanged notify changed invoked link close called ensuring file monitoring system notified changed files changed rapidly disk detected file system system updated timestamps constructs link monitoredoutputstream monitored output stream file file output required managedmessagerenderer managed message renderer rendered outputting message output stream closed required filemonitorservice file monitor service optional monitoring service acceptable filenotfoundexception file exception file
+CLASSES	monitoredoutputstream monitored output stream
+VARSIG1	managedmessagerenderer managed message renderer managedmessagerenderer managed message renderer
+VARSIG0	file file
+METHODS	monitoredoutputstream monitored output stream write write write lognow log close
+MTHSIG4	lognow log
+MTHSIG5	close
+MTHSIG0	monitoredoutputstream monitored output stream file file managedmessagerenderer managed message renderer managedmessagerenderer managed message renderer notifiablefilemonitorservice notifiable file monitor service filemonitorservice file monitor service
+MTHSIG1	write len
+PACKAGE	springframework roo process manager internal
+MTHSIG2	write
+MTHSIG3	write
+VARIABLES	file managedmessagerenderer managed message renderer filemonitorservice file monitor service ioe len filecanonicalpath file canonical path filemonitorservice file monitor service managedmessagerenderer managed message renderer logged

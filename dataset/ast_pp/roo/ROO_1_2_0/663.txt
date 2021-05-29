@@ -1,0 +1,12 @@
+MTHSIG0	hint topic
+MTHSIG1	getcurrenttopics current topics
+VARSIG2	itduniquenessfilenamesuffix uniqueness filename suffix
+PACKAGE	springframework roo classpath operations
+MTHSIG2	determinetopic determine topic
+MTHSIG3	getitdcount count itduniquenessfilenamesuffix uniqueness filename suffix
+COMMENTS	base implementation link hintoperations hint operations implementation relies predefined resource bundle hints replaced extensible implementation party add ons provide hints roo details constants fields result addall add bundle keyset key set resourcebundle resource bundle keyset key set jdk
+CLASSES	hintoperationsimpl hint operations impl
+VARIABLES	topic exception itduniquenessfilenamesuffix uniqueness filename suffix ant match directory pattern bundle filemanager file manager pathresolver path resolver projectoperations project operations message result topic javabeancount bean count
+VARSIG1	missingresourceexception missing resource exception exception
+VARSIG0	topic
+METHODS	hint getcurrenttopics current topics determinetopic determine topic getitdcount count

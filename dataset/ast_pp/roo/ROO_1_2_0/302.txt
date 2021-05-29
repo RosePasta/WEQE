@@ -1,0 +1,127 @@
+MTHSIG28	getautocompleteenummethod auto complete fieldmetadata field metadata autocompletefield auto complete field
+MTHSIG29	getautocompleteapplicationtypemethod auto complete application type fieldmetadata field metadata field
+MTHSIG26	getlengthvaldatorstring length valdator fieldvalueid field number minvalue min number maxvalue max
+MTHSIG27	getfileuploadlistenermethod file upload listener fieldmetadata field metadata field
+MTHSIG24	getlongrangevaldatorstring range valdator fieldvalueid field bigdecimal big decimal minvalue min bigdecimal big decimal maxvalue max
+MTHSIG25	getdoublerangevaldatorstring range valdator fieldvalueid field bigdecimal big decimal minvalue min bigdecimal big decimal maxvalue max
+MTHSIG22	getsizeminormax size min max fieldmetadata field metadata field attrname attr
+MTHSIG23	getcolumnlength column length fieldmetadata field metadata field
+MTHSIG4	hasscopeannotation scope annotation
+MTHSIG5	getlisttype list type javatype type parametertype parameter type
+MTHSIG6	getpanelgridfield panel grid field action paneltype panel type
+MTHSIG7	getinitmethod init methodmetadata metadata identifieraccessor identifier accessor
+MTHSIG0	jsfmanagedbeanmetadata jsf managed bean metadata identifier javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata jsfmanagedbeanannotationvalues jsf managed bean annotation values annotationvalues annotation values plural map methodmetadatacustomdatakey metadata custom data key membertypeadditions member type additions crudadditions crud additions set fieldmetadata field metadata locatedfields located fields methodmetadata metadata identifieraccessor identifier accessor
+MTHSIG1	addotherfieldsandmethods add fields methods
+MTHSIG2	getmanagedbeanannotation managed bean annotation beanname bean
+MTHSIG3	getscopeannotation scope annotation
+MTHSIG20	isnullable nullable fieldmetadata field metadata field
+VARSIG70	logicalpath logical path path
+MTHSIG21	getminormax min max fieldmetadata field metadata field javatype type annotationtype annotation type
+MTHSIG8	getentityaccessormethod entity accessor
+MTHSIG9	getoneditmethod edit
+VARSIG73	metadataidentificationstring metadata identification
+VARSIG72	metadataidentificationstring metadata identification
+VARSIG71	metadataidentificationstring metadata identification
+MTHSIG39	getsetvalueexpression set expression fieldvalueid field fieldname field
+MTHSIG37	getcomponentcreation component creation componentname component
+MTHSIG38	getsetvalueexpression set expression inputfieldvar input field fieldname field classname
+MTHSIG35	gethandledialogclosemethod handle dialog close
+MTHSIG36	getfileuploadmethodname file upload fieldname field
+MTHSIG33	getdeletemethod delete membertypeadditions member type additions removemethod remove
+MTHSIG34	getresetmethod reset
+METHODS	jsfmanagedbeanmetadata jsf managed bean metadata addotherfieldsandmethods add fields methods getmanagedbeanannotation managed bean annotation getscopeannotation scope annotation hasscopeannotation scope annotation getlisttype list type getpanelgridfield panel grid field getinitmethod init getentityaccessormethod entity accessor getoneditmethod edit getfindallentitiesmethod find entities getpanelgridaccessormethod panel grid accessor getpanelgridmutatormethod panel grid mutator getpopulatepanelmethod populate panel getautoccompleteitemlabelvalue auto ccomplete item label setregexpatternvalidationstring set regex pattern validation getallowtyperegex type regex getselectedfieldname selected field getaddtopaneltext add panel text getaddchildtocomponent add child component isnullable nullable getminormax min max getsizeminormax size min max getcolumnlength column length getlongrangevaldatorstring range valdator getdoublerangevaldatorstring range valdator getlengthvaldatorstring length valdator getfileuploadlistenermethod file upload listener getautocompleteenummethod auto complete getautocompleteapplicationtypemethod auto complete application type getdisplaycreatedialogmethod display create dialog getdisplaylistmethod display list getpersistmethod persist getdeletemethod delete getresetmethod reset gethandledialogclosemethod handle dialog close getfileuploadmethodname file upload getcomponentcreation component creation getsetvalueexpression set expression getsetvalueexpression set expression getsetcompletemethod set complete isinversesideofrelationship inverse side relationship tostring getmetadataidentifertype metadata identifer type createidentifier create identifier getjavatype type getpath path isvalid valid
+VARSIG67	javatype type annotationtypes annotation types
+VARSIG66	fieldmetadata field metadata field
+VARSIG65	fieldname field
+VARSIG64	fieldvalueid field
+VARSIG69	javatype type javatype type
+VARSIG68	javatype type annotationtype annotation type
+MTHSIG31	getdisplaylistmethod display list
+MTHSIG32	getpersistmethod persist membertypeadditions member type additions mergemethod merge membertypeadditions member type additions persistmethod persist methodmetadata metadata identifieraccessor identifier accessor
+MTHSIG30	getdisplaycreatedialogmethod display create dialog
+VARSIG63	fieldname field
+VARSIG62	fieldvalueid field
+VARSIG61	classname
+VARSIG60	fieldname field
+COMMENTS	metadata link roojsfmanagedbean roo jsf managed bean constants fields add managedbean managed bean annotation required add sessionscoped session scoped annotation required add builderfields builder fields add buildermethods builder methods add builderfields builder fields builder buildermethods builder methods create representation desired output methods field label field bodybuilder body builder appendformalline append formal commandbutton command button fieldvalueid field getcomponentcreation component creation commandbutton command button bodybuilder body builder appendformalline append formal fieldvalueid field addactionlistener add action listener filedownloadactionlistener file download action listener expressionfactory expression factory createvalueexpression create expression elcontext context beanname bean fieldname field streamedcontent streamed content streamedcontent streamed content bodybuilder body builder appendformalline append formal fieldvalueid field setvalue set download bodybuilder body builder appendformalline append formal fieldvalueid field setajax set ajax todo code work view panel refreshed download field todo working bodybuilder body builder appendformalline append formal convertername converter setpattern set pattern simpledateformat simple format dateformat format getdateinstance instance dateformat format topattern pattern builder getimportregistrationresolver registration resolver addimports add imports format simple format todo working bodybuilder body builder appendformalline append formal fieldvalueid field setpattern set pattern simpledateformat simple format dateformat format getdateinstance instance dateformat format topattern pattern parameter type add message input field
+VARSIG19	action action
+VARSIG18	membertypeadditions member type additions findallmethod find
+VARSIG17	javasymbolname symbol allentitiesfieldname entities field
+VARSIG12	javatype type parametertype parameter type
+VARSIG11	beanname bean
+VARSIG10	fieldmetadata field metadata field
+VARSIG16	fieldmetadata field metadata field
+VARSIG15	fieldmetadata field metadata field
+VARSIG14	methodmetadata metadata identifieraccessor identifier accessor
+VARSIG13	action paneltype panel type
+MTHSIG17	getselectedfieldname selected field fieldname field
+MTHSIG18	getaddtopaneltext add panel text componentid component
+MTHSIG15	setregexpatternvalidationstring set regex pattern validation fieldmetadata field metadata field fieldvalueid field invocablememberbodybuilder invocable member body builder bodybuilder body builder
+MTHSIG16	getallowtyperegex type regex allowedtype allowed type
+MTHSIG13	getpopulatepanelmethod populate panel action action
+MTHSIG14	getautoccompleteitemlabelvalue auto ccomplete item label fieldmetadata field metadata field fieldname field
+MTHSIG11	getpanelgridaccessormethod panel grid accessor action action
+MTHSIG12	getpanelgridmutatormethod panel grid mutator action action
+MTHSIG19	getaddchildtocomponent add child component componentid component childcomponentid child component
+MTHSIG10	getfindallentitiesmethod find entities javasymbolname symbol allentitiesfieldname entities field membertypeadditions member type additions findallmethod find
+VARIABLES	identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata annotationvalues annotation values plural crudadditions crud additions locatedfields located fields identifieraccessor identifier accessor fieldbuilder field builder field beanname bean parametertype parameter type paneltype panel type identifieraccessor identifier accessor field field allentitiesfieldname entities field findallmethod find action action action field field fieldname field applicationtypefield application type field field fieldvalueid field bodybuilder body builder allowedtype allowed type fieldname field componentid component componentid component childcomponentid child component field field annotationtype annotation type field attrname attr field fieldvalueid field minvalue min maxvalue max fieldvalueid field minvalue min maxvalue max fieldvalueid field minvalue min maxvalue max field autocompletefield auto complete field field mergemethod merge persistmethod persist identifieraccessor identifier accessor removemethod remove field fieldname field componentname component inputfieldvar input field fieldname field classname fieldvalueid field fieldname field fieldvalueid field fieldname field field annotationtypes annotation types annotationtype annotation type javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification metadataidentificationstring metadata identification application type key application type fields key enumerated key crud additions key list view field key parameter type key parameter type managed bean key parameter type plural key type type create dialog visible data visible columns html panel grid locatedfields located fields entity beanname bean plural entityname entity builderfields builder fields buildermethods builder methods action findallmethod find mergemethod merge persistmethod persist removemethod remove allentitiesfieldname entities field entitylisttype entity list type customdata custom data fieldname field parametertype parameter type selectedfieldname selected field listtype list type bodybuilder body builder fieldname field streamedcontentfieldname streamed content field annotation contenttype content type fileextension file extension bodybuilder body builder annotation annotationbuilder annotation builder annotationbuilder annotation builder methodname bodybuilder body builder methodbuilder builder bodybuilder body builder methodname bodybuilder body builder customdata custom data fieldname field parametertype parameter type entityaccessormethodcall entity accessor call methodname bodybuilder body builder fieldname field methodname bodybuilder body builder methodname suffix suffix suffix suffix methodbuilder builder bodybuilder body builder customdata custom data fieldtype field type simpletypename simple type fieldname field fieldlabelid field label minvalue min maxvalue max sizeminvalue size min sizemaxvalue size max required istextarea textarea fieldvalueid field convertername converter htmloutputtextstr html output text str inputtextstr input text str componentidstr component str requiredstr required str annotation contenttype content type allowedtype allowed type autouploadattr auto upload attr parametertype parameter type parametertypesimpletypename parameter type simple type parametertypefieldname parameter type field parametertypemanagedbeanname parameter type managed bean parametertypeplural parameter type plural convertertype converter type convertertype converter type applicationtypefields application type fields patternannotation pattern annotation regexpattr regexp attr builder annotation annotation values bodybuilder body builder bodybuilder body builder bodybuilder body builder fieldname field methodname parametertype parameter type parameternames parameter names bodybuilder body builder methodname parametertype parameter type parameternames parameter names returntype type simpletypename simple type bodybuilder body builder methodname parametertype parameter type parameternames parameter names crudadditions crud additions findallmethod find simpletypename simple type bodybuilder body builder applicationtypefields application type fields accessormethodname accessor returntype type methodname bodybuilder body builder methodname bodybuilder body builder methodname bodybuilder body builder methodname bodybuilder body builder methodname bodybuilder body builder customdata custom data methodname parametertype parameter type parameternames parameter names bodybuilder body builder annotation tsc
+VARSIG39	fieldmetadata field metadata field
+VARSIG34	fieldmetadata field metadata field
+VARSIG33	childcomponentid child component
+VARSIG32	componentid component
+VARSIG31	componentid component
+VARSIG38	attrname attr
+VARSIG37	fieldmetadata field metadata field
+PACKAGE	springframework roo addon jsf managedbean
+VARSIG36	javatype type annotationtype annotation type
+VARSIG35	fieldmetadata field metadata field
+VARSIG30	fieldname field
+CLASSES	jsfmanagedbeanmetadata jsf managed bean metadata
+VARSIG29	allowedtype allowed type
+VARSIG28	invocablememberbodybuilder invocable member body builder bodybuilder body builder
+VARSIG23	fieldmetadata field metadata field
+VARSIG22	fieldmetadata field metadata field
+VARSIG21	action action
+VARSIG20	action action
+VARSIG27	fieldvalueid field
+VARSIG26	fieldmetadata field metadata field
+VARSIG25	fieldmetadata field metadata applicationtypefield application type field
+VARSIG24	fieldname field
+VARSIG7	methodmetadata metadata identifieraccessor identifier accessor
+VARSIG6	set fieldmetadata field metadata locatedfields located fields
+VARSIG9	methodmetadatabuilder metadata builder
+VARSIG8	fieldmetadatabuilder field metadata builder fieldbuilder field builder
+MTHSIG46	getpath path metadataidentificationstring metadata identification
+VARSIG3	jsfmanagedbeanannotationvalues jsf managed bean annotation values annotationvalues annotation values
+MTHSIG47	isvalid valid metadataidentificationstring metadata identification
+VARSIG2	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+MTHSIG44	createidentifier create identifier javatype type javatype type logicalpath logical path path
+VARSIG5	map methodmetadatacustomdatakey metadata custom data key membertypeadditions member type additions crudadditions crud additions
+MTHSIG45	getjavatype type metadataidentificationstring metadata identification
+VARSIG4	plural
+VARSIG1	javatype type aspectname aspect
+VARSIG0	identifier
+VARSIG56	fieldmetadata field metadata field
+VARSIG55	membertypeadditions member type additions removemethod remove
+VARSIG54	methodmetadata metadata identifieraccessor identifier accessor
+VARSIG53	membertypeadditions member type additions persistmethod persist
+VARSIG59	inputfieldvar input field
+VARSIG58	componentname component
+VARSIG57	fieldname field
+MTHSIG42	tostring
+MTHSIG43	getmetadataidentifertype metadata identifer type
+MTHSIG40	getsetcompletemethod set complete fieldvalueid field fieldname field
+MTHSIG41	isinversesideofrelationship inverse side relationship fieldmetadata field metadata field javatype type annotationtypes annotation types
+VARSIG52	membertypeadditions member type additions mergemethod merge
+VARSIG51	fieldmetadata field metadata field
+VARSIG50	fieldmetadata field metadata autocompletefield auto complete field
+VARSIG45	bigdecimal big decimal maxvalue max
+VARSIG44	bigdecimal big decimal minvalue min
+VARSIG43	fieldvalueid field
+VARSIG42	bigdecimal big decimal maxvalue max
+VARSIG49	fieldmetadata field metadata field
+VARSIG48	number maxvalue max
+VARSIG47	number minvalue min
+VARSIG46	fieldvalueid field
+VARSIG41	bigdecimal big decimal minvalue min
+VARSIG40	fieldvalueid field

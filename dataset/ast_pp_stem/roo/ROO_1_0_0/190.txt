@@ -1,0 +1,53 @@
+MTHSIG4	isequ equal nameexpr expr nameexpr expr 
+MTHSIG5	getjavatyp type compilationunitservic compil unit servic compilationunitservic compil unit servic type type set javasymbolnam symbol typeparamet type paramet 
+MTHSIG6	getjavatyp type compilationunitservic compil unit servic compilationunitservic compil unit servic nameexpr expr nametofind find set javasymbolnam symbol typeparamet type paramet 
+VARSIG32	express 
+MTHSIG7	getreferencetyp refer type nameexpr expr nameexpr expr 
+VARSIG31	list importdeclar declar import 
+MTHSIG0	getnameexpr expr classnam 
+MTHSIG1	getjdkmodifi jdk modifi modifi 
+PACKAGE	springframework roo classpath javapars 
+MTHSIG2	getjavaparsermodifi parser modifi modifi 
+MTHSIG3	getnameexpr expr annotationexpr annot expr annotationexpr annot expr 
+MTHSIG8	getclassorinterfacetyp type nameexpr expr nameexpr expr 
+VARSIG30	javapackag compilationunitpackag compil unit 
+MTHSIG9	gettyp type javatyp type javatyp type 
+CLASSES	javaparserutil parser util 
+VARSIG29	importdeclar declar existingimport exist 
+VARSIG28	javatyp type typetoimport type 
+METHODS	getnameexpr expr getjdkmodifi jdk modifi getjavaparsermodifi parser modifi getnameexpr expr isequ equal getjavatyp type getjavatyp type getreferencetyp refer type getclassorinterfacetyp type gettyp type getjavatypenow type getjavatyp type getimportdeclarationfor declar importtypeifrequir type requir importexpressionifrequir express requir 
+VARSIG23	compilationunitservic compil unit servic compilationunitservic compil unit servic 
+VARSIG22	typeparamet type paramet candid 
+VARSIG21	classorinterfacedeclar declar cid 
+VARSIG20	compilationunitservic compil unit servic compilationunitservic compil unit servic 
+VARSIG27	list importdeclar declar import 
+VARSIG26	javapackag compilationunitpackag compil unit 
+VARSIG25	importdeclar declar candid 
+VARSIG24	nameexpr expr nameexpr expr 
+VARSIG7	type type 
+VARSIG6	compilationunitservic compil unit servic compilationunitservic compil unit servic 
+VARSIG9	compilationunitservic compil unit servic compilationunitservic compil unit servic 
+VARSIG8	set javasymbolnam symbol typeparamet type paramet 
+VARSIG3	annotationexpr annot expr annotationexpr annot expr 
+VARSIG2	modifi 
+VARSIG5	nameexpr expr 
+VARSIG4	nameexpr expr 
+COMMENTS	assist usag parser intern parser modul code convert present express link namedexpr name expr link qualifiednameexpr qualifi expr depend present classnam convert requir fulli qualifi simpl compat express return convert parser modifi integ jdk link modifi integ modifi parser equival jdk convert jdk link modifi integ equival parser modifi modifi jdk equival parser unsupport parser modifierset modifi set obtain express link nameexpr expr pass link annotationexpr annot expr annot annot type annotationexpr annot expr retriev type requir link nameexpr expr express equal link nameexpr expr offer equal entri compar accept entri compar accept entri ident resolv effect link javatyp type link type repres link type includ level type arrai primit compilationunitservic compil unit servic resolut requir type locat requir typeparamet type paramet name type paramet link javatyp type proper indic primit arrai statu provid primit support wildcard type roo metadata dai complet bind support ast resolv effect link javatyp type link nameexpr expr repres link getjavatyp type javapackag list classorinterfacetyp type type argument preserv link nameexpr expr type argument express qualifi unqualifi qualifi repres fulli qualifi express unqualifi import scan unqualifi express import declar repres fulli qualifi unqualifi express import find qualifi express type relat member lang lang fulli qualifi treat lang compil unit unqualifi express repres fulli qualifi express compilationunitservic compil unit servic manag requir nametofind find locat requir typeparamet type paramet name type paramet effect type handl qualifi express type foo bar qualifi express simpli type refer treat fulli qualifi express includ unqualifi detect check type paramet list search qualifi express nametofind find check compil unit declar type convert internaltyp intern type proper javatyp type convert link javatyp type link referencetyp refer type note effort manag import nameexpr expr convert requir link referencetyp refer type convert link javatyp type link classorinterfacetyp type note effort manag import nameexpr expr convert requir link classorinterfacetyp type primit type comput parser type present primit type except primit type link importtypeifrequir type requir javapackag list javatyp type link nameexpr expr return link getclassorinterfacetyp type nameexpr expr javatyp type primit type requir primit equival parser link type resolv effect link javatyp type link classorinterfacetyp type repres includ type argument compilationunitservic compil unit servic manag requir cit type resolv requir effect type handl type argument resolv effect link javatyp type link classorinterfacedeclar declar repres includ type paramet compilationunitservic compil unit servic manag requir cid declar resolv requir effect type convert classorinterfacedeclar declar javatyp type popul javatyp type type paramet declar applic present express fulli qualifi pass evalu complet match simpl pass evalu simpl match reflect normal semant simpl type name import import compil unit unit import requir typesincompilationunit type compil unit type compil unit requir nameexpr expr express locat gener link nameexpr expr identifi requir relev express user fulli qualifi let full match user fulli qualifi let simpl comparison discard import qualifi attempt present link javatyp type import return link nameexpr expr suitabl subsequ refer type attempt lang type attempt type type usag type usag theoret requir undertaken requir separ pars unqualifi type usag compil unit refrain import subsequ conflict type compilationunitpackag compil unit compil unit unit requir import compil unit unit import requir typetoimport type type import requir express refer type primit easi handl type doesn simpl type complet match simpl type import don fact import conflict simpl type name theoret add elect explicitli perform conflict type import addimport add usesimpletypenam simpl type recognis link express type link fieldaccessexpr field access expr link classexpr expr automat import requir return correct link express subsequ link express resolv type import guarante link express caller subsequ place pass link express practic term link express pass return type import import repres lang type compilationunitpackag compil unit requir import exist import requir express resolv type requir express appropri resolv return 
+VARSIG19	type 
+VARSIG1	modifi 
+VARSIG18	set javasymbolnam symbol typeparamet type paramet 
+VARSIG0	classnam 
+VARSIG17	classorinterfacetyp type cit 
+VARSIG12	typedeclar type declar internaltyp intern type 
+VARSIG11	set javasymbolnam symbol typeparamet type paramet 
+VARSIG10	nameexpr expr nametofind find 
+VARSIG16	compilationunitservic compil unit servic compilationunitservic compil unit servic 
+VARSIG15	javatyp type javatyp type 
+VARSIG14	nameexpr expr nameexpr expr 
+VARSIG13	nameexpr expr nameexpr expr 
+MTHSIG13	importtypeifrequir type requir javapackag compilationunitpackag compil unit list importdeclar declar import javatyp type typetoimport type 
+MTHSIG14	importexpressionifrequir express requir javapackag compilationunitpackag compil unit list importdeclar declar import express 
+MTHSIG11	getjavatyp type compilationunitservic compil unit servic compilationunitservic compil unit servic classorinterfacedeclar declar cid 
+MTHSIG12	getimportdeclarationfor declar compilationunitservic compil unit servic compilationunitservic compil unit servic nameexpr expr nameexpr expr 
+MTHSIG10	getjavatypenow type compilationunitservic compil unit servic compilationunitservic compil unit servic classorinterfacetyp type cit set javasymbolnam symbol typeparamet type paramet 
+VARIABLES	classnam modifi modifi annotationexpr annot expr compilationunitservic compil unit servic type typeparamet type paramet compilationunitservic compil unit servic nametofind find typeparamet type paramet internaltyp intern type nameexpr expr nameexpr expr javatyp type compilationunitservic compil unit servic cit typeparamet type paramet compilationunitservic compil unit servic cid candid compilationunitservic compil unit servic nameexpr expr candid compilationunitpackag compil unit import typetoimport type existingimport exist compilationunitpackag compil unit import offset packagenam typenam type result result nametofind find nametofind find nametofind find arrai internaltyp intern type cit effectivetyp effect type cit effectivetyp effect type cit effectivetyp effect type compilationunitpackag compil unit qne qnequalifi qne qualifi enclosedbi enclos nameexpr expr importdeclar declar qne compilationunitpackag compil unit typenam type scope nameexpr expr effectivetyp effect type typeparam type param nameexpr expr effectivetyp effect type typeparam type param param locatedtypeparam locat type param currenttypeparam current type javatyp type cit import candidatenameexpr candid expr candidatequalifiednam candid qualifi typetoimportexpr type expr newimport addimport add usesimpletypenam simpl type scope field packagenam simplenam simpl fullyqualifiednam fulli qualifi javatyp type nametous type javatyp type nametous cit javatyp type nametous 

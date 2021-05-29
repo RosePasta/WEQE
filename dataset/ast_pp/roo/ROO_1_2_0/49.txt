@@ -1,0 +1,74 @@
+MTHSIG24	getphysicaltypemetadata physical type metadata javatype type javatype type
+MTHSIG22	deletejavatype delete type javatype type javatype type reason
+MTHSIG23	getidentifiertype identifier type javatype type entity
+VARSIG39	javatype type identifiertype identifier type
+MTHSIG4	isactiverecord active record database database collection classorinterfacetypedetails type details managedentities managed entities
+VARSIG34	reason
+MTHSIG5	getdestinationpackage destination database database set classorinterfacetypedetails type details managedentities managed entities
+VARSIG33	classorinterfacetypedetails type details managedentity managed entity
+MTHSIG6	notify list classorinterfacetypedetails type details entities
+VARSIG32	runtimeexception runtime exception
+MTHSIG7	getmanagedidentifiers managed identifiers
+VARSIG31	column column
+MTHSIG0	onfileevent file event fileevent file event fileevent file event
+VARSIG38	annotationmetadata annotation metadata annotation
+MTHSIG1	getidentifiers identifiers javatype type pktype type
+VARSIG37	classorinterfacetypedetails type details entity
+PACKAGE	springframework roo addon dbre
+MTHSIG2	deserializedatabase deserialize database
+VARSIG36	classorinterfacetypedetails type details managedentity managed entity
+MTHSIG3	reverseengineer reverse engineer database database
+VARSIG35	classorinterfacetypedetails type details managedidentifier managed identifier
+MTHSIG20	hasstandardentityannotations standard entity annotations classorinterfacetypedetails type details entity
+MTHSIG21	isidentifierdeletable identifier deletable javatype type identifiertype identifier type
+MTHSIG8	updateordeletemanagedentity update delete managed entity classorinterfacetypedetails type details managedentity managed entity database database
+VARSIG30	useprimarykeys primary
+MTHSIG9	getjpaannotation jpa annotation classorinterfacetypedetails type details managedentity managed entity
+CLASSES	dbredatabaselistenerimpl dbre database listener impl
+VARSIG29	table table
+VARSIG28	table table
+METHODS	onfileevent file event getidentifiers identifiers deserializedatabase deserialize database reverseengineer reverse engineer isactiverecord active record getdestinationpackage destination notify getmanagedidentifiers managed identifiers updateordeletemanagedentity update delete managed entity getjpaannotation jpa annotation createnewmanagedentityfromtable create managed entity table getroodbmanagedannotation roo managed annotation hasversionfield version field manageidentifier manage identifier createidentifierclass create identifier getidentifiersfromprimarykeys identifiers primary getidentifiersfromcolumns identifiers columns getidentifiers identifiers deletemanagedtype delete managed type isentitydeletable entity deletable hasstandardentityannotations standard entity annotations isidentifierdeletable identifier deletable deletejavatype delete type getidentifiertype identifier type getphysicaltypemetadata physical type metadata
+VARSIG23	annotationmetadatabuilder annotation metadata builder jpaannotationbuilder jpa annotation builder
+VARSIG22	javatype type javatype type
+VARSIG21	column column
+VARSIG20	table table
+VARSIG27	table table
+VARSIG26	javatype type identifiertype identifier type
+VARSIG25	table table
+VARSIG24	set javasymbolname symbol attributestodeleteifpresent attributes delete
+VARSIG7	collection classorinterfacetypedetails type details managedentities managed entities
+VARSIG6	database database
+VARSIG9	set classorinterfacetypedetails type details managedentities managed entities
+VARSIG8	database database
+VARSIG3	classorinterfacetypedetails type details managedentity managed entity
+VARSIG2	database database
+VARSIG5	classorinterfacetypedetails type details entity
+VARSIG4	table table
+COMMENTS	implementation link dbredatabaselistener dbre database listener constants fields populate identifier returning dbre xml file isn time determine create active record crud methods lookup relevant destination explicitly set destination database tables database manage existing entities roodbmanaged roo managed annotation remove table set managed entity processed tables remain set creation entities create entities tables don create types join tables associations create integration tests required notify active record crud methods generated entities decision database database reverse engineered required managedentities managed entities existing managed entities user project empty existing entities setting existing entities preserve existing decision based entity saves user enter activerecord active record option time database reverse engineer command fall project project top level update attributes existing jpa annotation find table database table schema attributes jpa annotation table missing dropped delete managed type identifier applicable update roojpaentity roo jpa entity roojpaactiverecord roo jpa active record attributes manage versionfield version field attribute update annotation disk returns jpa annotation managed entity managedentity managed entity existing dbre managed entity required isn roojpaentity roo jpa entity annotation takes precedence creates dbre managed entity table javatype type entity created required table table create entity required activerecord active record create active record crud methods entity newly created entity create type annotations entity find primary key metadata add identifier attributes roojpaentity roo jpa entity add roodbmanaged roo managed create entity process primary add identifiertype attribute table primary key check redundant managed identifier delete don jpaactiverecordprovider jpa active record provider identifierservice identifier service column field type field table primary primary key create composite key check identifier exists create identifiermetadataprovider identifier metadata provider identifierservice identifier service column names field types field names tables primary create composite key table table columns produce identifier add fields identifier check type type annotations customised check constructors fields methods entity standard annotations applied roo entity entity check required standard missing extra expect roodbmanaged roo managed roojavabean roo bean rootostring roo rooentity roo entity roojpaentity roo jpa entity check standard check constructors fields methods deletes link javatype type reason javatype type type deleted required reason reason deletion blank returns type dbre entity entity entity type required type identifiertype identifier type attribute exists jpa annotation annotation identifiertype identifier type attribute exist simple type
+VARSIG19	activerecord active record
+VARSIG1	javatype type pktype type
+VARSIG18	table table
+VARSIG0	fileevent file event fileevent file event
+VARSIG17	javatype type javatype type
+VARSIG12	classorinterfacetypedetails type details entity
+VARSIG11	classorinterfacetypedetails type details managedidentifiertype managed identifier type
+VARSIG10	list classorinterfacetypedetails type details entities
+VARSIG16	classorinterfacetypedetails type details managedentity managed entity
+VARSIG15	database database
+VARSIG14	classorinterfacetypedetails type details managedentity managed entity
+VARSIG13	classorinterfacetypedetails type details managedidentifiertype managed identifier type
+MTHSIG17	getidentifiers identifiers table table useprimarykeys primary
+MTHSIG18	deletemanagedtype delete managed type classorinterfacetypedetails type details managedentity managed entity reason
+MTHSIG15	getidentifiersfromprimarykeys identifiers primary table table
+MTHSIG16	getidentifiersfromcolumns identifiers columns table table
+MTHSIG13	manageidentifier manage identifier javatype type javatype type annotationmetadatabuilder annotation metadata builder jpaannotationbuilder jpa annotation builder set javasymbolname symbol attributestodeleteifpresent attributes delete table table
+MTHSIG14	createidentifierclass create identifier javatype type identifiertype identifier type
+MTHSIG11	getroodbmanagedannotation roo managed annotation
+MTHSIG12	hasversionfield version field table table
+MTHSIG19	isentitydeletable entity deletable classorinterfacetypedetails type details managedentity managed entity
+VARSIG43	javatype type javatype type
+VARSIG42	javatype type entity
+MTHSIG10	createnewmanagedentityfromtable create managed entity table javatype type javatype type table table activerecord active record
+VARIABLES	fileevent file event pktype type database managedentity managed entity table entity database managedentities managed entities database managedentities managed entities entities managedidentifiertype managed identifier type entity managedidentifiertype managed identifier type managedentity managed entity database managedentity managed entity javatype type table activerecord active record table column javatype type jpaannotationbuilder jpa annotation builder attributestodeleteifpresent attributes delete table identifiertype identifier type table table table useprimarykeys primary column managedentity managed entity reason managedidentifier managed identifier managedentity managed entity entity annotation identifiertype identifier type javatype type reason entity javatype type managed identifier type version field version primary key suffix dbremodelservice dbre model service filemanager file manager integrationtestoperations integration test operations projectoperations project operations shell typelocationservice type location service typemanagementservice type management service identifierresults identifier operation database managedentities managed entities destinationpackage destination tables table newentities entities schemapackage schema javatype type allentities entities destinationpackage destination metadataitem metadata item metadataitem metadata item managedidentifiertypes managed identifier types identifiertypes identifier types identifierannotation identifier annotation attrvalue attr jpaannotation jpa annotation tableattribute table attribute errmsg err msg tablename table schemaattribute schema attribute schemaname schema table jpaannotationbuilder jpa annotation builder attributestodeleteifpresent attributes delete versionfieldattribute version field attribute versionfieldvalue version field cidbuilder cid builder roojpaentity roo jpa entity annotations jpaannotationbuilder jpa annotation builder superclass extendstypes types declaredbymetadataid declared metadata cidbuilder cid builder entity roodbmanagedbuilder roo managed builder identifiertype identifier type identifierphysicaltypemetadata identifier physical type metadata pkcount count identifiers identifiers identifierannotations identifier annotations identifierbuilder identifier builder declaredbymetadataid declared metadata cidbuilder cid builder result columns columnname column fieldname field fieldtype field type columndefinition column definition identifiertype identifier type declaredbymetadataid declared metadata dbremetadata dbre metadata typeannotations type annotations annotationtype annotation type entityannotation entity annotation governorphysicaltypemetadata governor physical type metadata managedidentifier managed identifier governorphysicaltypemetadata governor physical type metadata filepath file path governorphysicaltypemetadata governor physical type metadata governortypedetails governor type details jpaannotation jpa annotation identifiertypeattribute identifier type attribute identifiertype identifier type declaredbymetadataid declared metadata
+VARSIG41	reason
+VARSIG40	javatype type javatype type

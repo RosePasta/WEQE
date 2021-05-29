@@ -1,0 +1,11 @@
+MTHSIG0	setup set
+MTHSIG1	getmockcomponentcontext mock component context rooworkingdirectory roo working directory
+PACKAGE	springframework roo project
+MTHSIG2	testgetrootofpath test root path
+MTHSIG3	testgetmodulepaths test module paths
+COMMENTS	unit test link defaultpathresolvingstrategy path resolving strategy constants fixture object test creates mock link componentcontext component context link osgiutils utils roo working directory property rooworkingdirectory roo working directory desired property blank mock set invoke check set invoke check
+CLASSES	defaultpathresolvingstrategytest path resolving strategy test
+VARIABLES	rooworkingdirectory roo working directory working directory pathresolvingstrategy path resolving strategy mockbundlecontext mock bundle context mockcomponentcontext mock component context mockcontextualpath mock contextual path root srcmainjava src modulepaths module paths modulepath module path modulepathid module path subpath path
+VARSIG1	rooworkingdirectory roo working directory
+VARSIG0	ioexception exception
+METHODS	setup set getmockcomponentcontext mock component context testgetrootofpath test root path testgetmodulepaths test module paths

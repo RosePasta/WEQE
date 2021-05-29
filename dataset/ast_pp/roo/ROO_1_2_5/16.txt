@@ -1,0 +1,23 @@
+VARSIG7	methodtarget target target
+VARSIG6	optioncontext option context
+VARSIG9	exception
+VARSIG8	option
+VARSIG3	list completion completions
+VARSIG2	optioncontext option context
+VARSIG5	existingdata existing data
+VARSIG4	requiredtype required type
+COMMENTS	conversion cloud foundry model classes
+CLASSES	cloudfileconverter cloud file converter
+VARSIG1	requiredtype required type
+VARSIG0	
+METHODS	convertfromtext convert text getallpossiblevalues values getfileoptions file options supports
+VARSIG12	requiredtype required type
+VARSIG11	
+VARSIG10	files
+MTHSIG0	convertfromtext convert text requiredtype required type optioncontext option context
+MTHSIG1	getallpossiblevalues values list completion completions requiredtype required type existingdata existing data optioncontext option context methodtarget target target
+PACKAGE	springframework roo addon cloud foundry converter
+MTHSIG2	getfileoptions file options files
+MTHSIG3	supports requiredtype required type optioncontext option context
+VARSIG13	optioncontext option context
+VARIABLES	requiredtype required type optioncontext option context completions requiredtype required type existingdata existing data optioncontext option context target option files requiredtype required type optioncontext option context session appname app path file options lines options

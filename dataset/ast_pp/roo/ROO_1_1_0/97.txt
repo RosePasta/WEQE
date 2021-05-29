@@ -1,0 +1,38 @@
+VARSIG7	category
+VARSIG6	ioexception exception
+VARSIG9	
+VARSIG8	key
+VARSIG3	message
+VARSIG2	noofcommitstorevert commits revert
+VARSIG5	message
+VARSIG4	revstr
+COMMENTS	operations git addon transport transport transport open repository repository getconfig config getstring remote origin url jgit transport pushresult push result transport push checkoutbranch checkout branch branchname branch exception file workdir work dir repository getworkdir work dir workdir work dir workdircheckout work dir checkout workdircheckout work dir checkout workdircheckout work dir checkout repository workdir work dir repository mapcommit map commit constants head gettree tree repository getindex repository mapcommit map commit branchname branch gettree tree workdircheckout work dir checkout setfailonconflict set fail conflict workdircheckout work dir checkout checkout checkoutconflictexception checkout conflict exception illegalstateexception illegal exception checkout branchname branch branch update head refupdate update refupdate update repository updateref update constants head refupdate update link branchname branch
+VARSIG19	objectid object objectid object
+VARSIG1	exception
+VARSIG18	ioexception exception
+VARSIG0	message
+VARSIG17	rev
+MTHSIG4	revertcommit revert commit noofcommitstorevert commits revert message
+VARSIG12	ioexception exception
+MTHSIG5	revertcommitbyref revert commit revstr message
+VARSIG11	ioexception exception
+MTHSIG6	setconfig set config category key
+VARSIG10	ioexception exception
+MTHSIG7	setup
+MTHSIG0	isgitcommandavailable git command
+VARSIG16	exception
+MTHSIG1	issetupcommandavailable setup command
+VARSIG15	file file
+PACKAGE	springframework roo addon git
+MTHSIG2	commitallchanges commit message
+VARSIG14	dircachebuilder dir cache builder builder
+MTHSIG3	push
+VARSIG13	file file
+MTHSIG8	getdir dir
+MTHSIG9	addtocache add cache file file dircachebuilder dir cache builder builder
+MTHSIG11	createbranch create branch objectid object objectid object branchname branch
+CLASSES	gitoperationsimpl git operations impl
+METHODS	isgitcommandavailable git command issetupcommandavailable setup command commitallchanges commit push revertcommit revert commit revertcommitbyref revert commit setconfig set config setup getdir dir addtocache add cache getcommitinstance commit instance createbranch create branch
+VARSIG20	branchname branch
+MTHSIG10	getcommitinstance commit instance rev
+VARIABLES	message noofcommitstorevert commits revert message revstr message category key file builder file rev objectid object branchname branch repository person pathresolver path resolver filemanager file manager metadataservice metadata service commit result commitobjectid commit object commit workdircheckout work dir checkout gitdir git dir gitignore git ignore cache builder writer entry currenthead current head parentids parent ids commit updateref update

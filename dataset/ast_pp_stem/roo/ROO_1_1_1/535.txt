@@ -1,0 +1,48 @@
+VARSIG7	fileidentifi file identifi 
+VARSIG6	ioexcept except 
+VARSIG9	ioexcept except 
+VARSIG8	fileidentifi file identifi 
+VARSIG3	fileidentifi file identifi 
+VARSIG2	fileidentifi file identifi 
+VARSIG5	fileidentifi file identifi 
+VARSIG4	ioexcept except ioe 
+COMMENTS	implement link filemanag file manag kei file identifi textual content acquir project metadata verifi path exist ensur monitor root assum monitor processmanag process manag creat directori notif happen start monitor avoid oper valid explicitli perform scan directori monitor verifi file chang flush reset event 
+VARSIG19	writeimmedi write 
+VARSIG1	componentcontext compon context context 
+VARSIG18	newcont content 
+VARSIG0	componentcontext compon context context 
+VARSIG17	fileidentifi file identifi 
+MTHSIG4	createdirectori creat directori fileidentifi file identifi 
+VARSIG12	fileidentifi file identifi 
+MTHSIG5	readfil read file fileidentifi file identifi 
+VARSIG11	ioexcept except 
+MTHSIG6	createfil creat file fileidentifi file identifi 
+VARSIG10	fileidentifi file identifi 
+MTHSIG7	delet fileidentifi file identifi 
+MTHSIG0	activ componentcontext compon context context 
+VARSIG16	antpath ant path 
+MTHSIG1	deactiv componentcontext compon context context 
+VARSIG15	path 
+PACKAGE	springframework roo process manag intern 
+MTHSIG2	exist fileidentifi file identifi 
+VARSIG14	downstreamdepend downstream depend 
+MTHSIG3	getinputstream input stream fileidentifi file identifi 
+VARSIG13	upstreamdepend upstream depend 
+MTHSIG8	updatefil updat file fileidentifi file identifi 
+MTHSIG9	notifi upstreamdepend upstream depend downstreamdepend downstream depend 
+MTHSIG15	clear 
+MTHSIG16	onundoev undo event undoev undo event event 
+MTHSIG13	commit 
+MTHSIG14	createorupdatetextfileifrequir creat updat text file requir fileidentifi file identifi newcont content 
+MTHSIG11	scan 
+MTHSIG12	createorupdatetextfileifrequir creat updat text file requir fileidentifi file identifi newcont content writeimmedi write 
+CLASSES	defaultfilemanag file manag 
+METHODS	activ deactiv exist getinputstream input stream createdirectori creat directori readfil read file createfil creat file delet updatefil updat file notifi findmatchingantpath find match ant path scan createorupdatetextfileifrequir creat updat text file requir commit createorupdatetextfileifrequir creat updat text file requir clear onundoev undo event 
+VARSIG23	ioexcept except ignoreandjustoverwriteit ignor overwrit 
+VARSIG22	newcont content 
+VARSIG21	fileidentifi file identifi 
+VARSIG20	fileidentifi file identifi 
+VARSIG25	undoev undo event event 
+VARSIG24	ioexcept except ioe 
+MTHSIG10	findmatchingantpath find match ant path antpath ant path 
+VARIABLES	context context fileidentifi file identifi fileidentifi file identifi ioe fileidentifi file identifi fileidentifi file identifi fileidentifi file identifi fileidentifi file identifi fileidentifi file identifi upstreamdepend upstream depend downstreamdepend downstream depend antpath ant path fileidentifi file identifi newcont content writeimmedi write fileidentifi file identifi fileidentifi file identifi newcont content ignoreandjustoverwriteit ignor overwrit ioe event metadataservic metadata servic undomanag undo manag filemonitorservic file monitor servic metadatadependencyregistri metadata depend registri processmanag process manag pathsregist path regist filenameresolv filenam resolv deferredfilewrit defer file write file actual filedetail file detail actual parentdirectori parent directori render actual actual render pathresolv path resolv notifyon notifi fileidentifi file identifi file request newcont content mutablefil mutabl file exist 

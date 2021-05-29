@@ -1,0 +1,22 @@
+VARSIG6	ioexcept except ignoreit ignor 
+VARSIG3	responsibleclass respons 
+VARSIG2	messag 
+VARSIG5	ioexcept except ignor 
+VARSIG4	 
+COMMENTS	implement link metadatalogg metadata logger kei respons nano occupi kei respons number time time record creat respons current event stack figur indent level exist timer stack clock add durat exist durat start timer updat time summari updat invoc count overwrit exist don append fail unix end roo tail work nano nano 
+CLASSES	defaultmetadatalogg metadata logger 
+VARSIG1	kei 
+VARSIG0	trace 
+METHODS	defaultmetadatalogg metadata logger gettracelevel trace level settracelevel set trace level gettim time startev start event stopev event log starttim start timer stoptim timer logtofil log file 
+MTHSIG4	startev start event 
+MTHSIG5	stopev event 
+MTHSIG6	log messag 
+MTHSIG7	starttim start timer responsibleclass respons 
+MTHSIG0	defaultmetadatalogg metadata logger 
+MTHSIG1	gettracelevel trace level 
+PACKAGE	springframework roo metadata 
+MTHSIG2	settracelevel set trace level trace 
+MTHSIG3	gettim time 
+VARIABLES	trace kei messag responsibleclass respons ignor ignoreit ignor tracelevel trace level eventnumb event number filelog file log eventstack event stack timerstack timer stack time invoc mutex result eventidentifi event identifi indentationlevel indent level hex timerentri timer entri timerentri timer entri timerentri timer entri responsibleclass respons existingsummari exist summari existinginvoc exist invoc responsibleclass respons clockstartedorresum clock start resum durat 
+MTHSIG8	stoptim timer 
+MTHSIG9	logtofil log file 

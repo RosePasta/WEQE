@@ -1,0 +1,29 @@
+VARSIG7	runtimeexcept runtim except 
+VARSIG6	filedetail file detail file 
+VARSIG9	locatedphysicaltypemid locat physic type mid 
+VARSIG8	javatyp type annot 
+VARSIG3	downstreamdepend downstream depend 
+VARSIG2	upstreamdepend upstream depend 
+VARSIG5	locatedtypecallback locat type callback callback 
+VARSIG4	list javatyp type annotationstodetect annot detect 
+COMMENTS	implement link typelocationservic type locat servic perform reason automat cach queri invalid cach link physicaltypemetadata physic type metadata notif receiv chang drop cach ditch roo let work path store cach 
+VARSIG1	componentcontext compon context context 
+VARSIG0	componentcontext compon context context 
+MTHSIG4	findtypeswithannot find type annot list javatyp type annotationstodetect annot detect 
+VARSIG12	javatyp type annotationstodetect annot detect 
+MTHSIG5	findtypeswithannot find type annot javatyp type annotationstodetect annot detect 
+VARSIG11	classorinterfacetypedetail type detail locat 
+MTHSIG6	findclassesorinterfacedetailswithannot find class detail annot javatyp type annotationstodetect annot detect 
+VARSIG10	list javatyp type annotationstodetect annot detect 
+MTHSIG7	getclassorinterfacetypedetail type detail physicaltypemid physic type mid 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	deactiv componentcontext compon context context 
+VARSIG15	physicaltypemid physic type mid 
+PACKAGE	springframework roo classpath 
+MTHSIG2	notifi upstreamdepend upstream depend downstreamdepend downstream depend 
+VARSIG14	classorinterfacetypedetail type detail locat 
+MTHSIG3	processtypeswithannot process type annot list javatyp type annotationstodetect annot detect locatedtypecallback locat type callback callback 
+VARSIG13	javatyp type annotationstodetect annot detect 
+CLASSES	typelocationserviceimpl type locat servic impl 
+METHODS	activ deactiv notifi processtypeswithannot process type annot findtypeswithannot find type annot findtypeswithannot find type annot findclassesorinterfacedetailswithannot find class detail annot getclassorinterfacetypedetail type detail 
+VARIABLES	context context upstreamdepend upstream depend downstreamdepend downstream depend annotationstodetect annot detect callback file annot locatedphysicaltypemid locat physic type mid annotationstodetect annot detect locat annotationstodetect annot detect annotationstodetect annot detect locat physicaltypemid physic type mid pathresolv path resolv filemanag file manag metadataservic metadata servic physicaltypemetadataprovid physic type metadata provid dependencyregistri depend registri cach locatedphysicaltypemid locat physic type mid srcroot src root antpath ant path entri fullpath full path javatyp type path physicaltypemid physic type mid locat locat type type physicaltypemetadata physic type metadata 

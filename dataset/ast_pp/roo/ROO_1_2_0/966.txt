@@ -1,0 +1,111 @@
+MTHSIG4	getclioptions cli options annotation parameterannotations parameter annotations
+VARSIG78	
+MTHSIG5	commandnotfound command logger logger buffer
+VARSIG77	
+MTHSIG6	locatetargets locate targets buffer strictmatching strict matching checkavailabilityindicators check availability indicators
+VARSIG76	methodtarget target
+MTHSIG7	ismatch match buffer command strictmatching strict matching
+VARSIG75	key
+MTHSIG0	getavailabilityindicator availability indicator command
+MTHSIG1	parse rawinput raw input
+MTHSIG2	normalise rawinput raw input
+MTHSIG3	getspecifiedunavailableoptions unavailable options set clioption cli option clioptions cli options map options
+VARSIG79	object
+VARSIG70	ioexception exception ioe
+MTHSIG8	complete buffer cursor list candidates
+VARSIG74	annotation
+MTHSIG9	completeadvanced complete advanced buffer cursor list completion candidates
+VARSIG73	annotation annotations
+VARSIG72	
+VARSIG71	clioption cli option key command optioncontext option context availablecommands commands command provide buffer
+METHODS	getavailabilityindicator availability indicator parse normalise getspecifiedunavailableoptions unavailable options getclioptions cli options commandnotfound command locatetargets locate targets ismatch match complete completeadvanced complete advanced helpreferenceguide reference guide obtainhelp geteverycommand command add remove add remove
+VARSIG67	optionkey option key
+VARSIG66	otherkey key
+VARSIG65	annotation
+VARSIG64	annotation ann
+VARSIG69	element
+VARSIG68	element
+VARSIG63	
+VARSIG62	entry object entry
+VARSIG61	
+VARSIG60	object target
+COMMENTS	implementation link parser constants fields locate applicable targets match buffer let offer informative message user command simply unavailable point time argument conversion time convert arguments attempt parse user care ensure single alias ensure user mandatory accept user option didn provide accept user didn option special token denotes sought values ready perform conversion usable converter todo fall normal simpletypeconverter simple type converter attempt conversion simpletypeconverter simple type converter simpletypeconverter simple type converter simpletypeconverter simple type converter result simpletypeconverter simple type converter convertifnecessary convert requiredtype required type converter option mandatory result check options user unavailable command normalises raw user input ready parsing rawinput raw input normalise can replace multiple spaces single space trim reflection optimised good cached reflection noticeable human cli clicommand cli command decide clicommand cli command moment loop ensure conflicting availability indicators defined skip clicommand cli command word buffer let word matched match ensure intended match represents start command word valid match matched earlier ensure didn skip word user skipped word match word command abort left match word unrecognised command abort match match remove spaces command replace multiple spaces single space including portion buffer represented cursor position start locating matches matches buffer they presented assist locate target calculate correct starting position add word target single target provide completion services identify command working reasonable attempt parsing remainingbuffer remaining buffer assume illegalargumentexception illegal argument exception quotation mark mismatch lookup arguments target aren parameters ensure typed command properly space there command haven parameters verify command fully completed type command provide completion failed fully failed command fully quit finish command arguments required clicommand cli command valid command record clioptions cli options applicable command list clioptions cli options they included system list clioptions cli options determine they presently editing option key option full partial option key edited item options map option key they editing handle find option option order declaration signature mandatory options filled handle suggesting option key haven presently they completed full option key pair option key pair full option key pair let list options user naturally skip option that manually determine mandatory unspecifieddefaultvalue unspecified requiring option bound find target parameter parameter store invoke usable converter converter happy bother user entering data handle normal mandatory options abort point suggestions complete option handle completing option key they presently typing haven option form there space buffer typing option key typing option key option left lookup relevant clioption cli option applies lastoptionkey option key parameter type let converter usable converter doesn custom converter let provide defaults simple types provide simple options common types include candidates compatible buffer provide suggestion lastoptionvalue option add result haven typed add result they typed compatible haven typed full roo inline options there multiple choices user pressed tab explicit option values presented space onwards compute sections outputting nice order build appendix build syntax list store order options key option key text figure key empty needed store details include mandatory syntax variable list element figured options store individual command error reported xml parser multiple notations linespecific determined duplicates creating docbook doc book transformer setoutputproperty set output property outputkeys output doctype oasis dtd docbook doc book xml transformer setoutputproperty set output property outputkeys output doctype system http oasis open docbook xml docbookx dtd figure there single command offer single command argument conversion time offer single argument normal operation
+VARSIG19	strictmatching strict matching
+VARSIG18	buffer
+VARSIG17	buffer
+VARSIG12	suppliedoption supplied option
+VARSIG11	key
+VARSIG10	clioption cli option clioption cli option
+VARSIG16	logger logger
+VARSIG15	annotation annotation
+VARSIG14	annotation annotations
+VARSIG13	annotation parameterannotations parameter annotations
+MTHSIG15	add converter converter
+MTHSIG16	remove converter converter
+MTHSIG13	add commandmarker command marker command
+MTHSIG14	remove commandmarker command marker command
+MTHSIG11	obtainhelp buffer
+MTHSIG12	geteverycommand command
+VARSIG88	converter converter
+VARSIG87	converter converter
+VARSIG86	cmd
+VARSIG81	commandmarker command marker command
+MTHSIG10	helpreferenceguide reference guide
+VARSIG80	
+VARIABLES	command rawinput raw input clioption cli option possiblekey key candidate rawinput raw input clioptions cli options options clioption cli option key suppliedoption supplied option parameterannotations parameter annotations annotations annotation logger buffer buffer strictmatching strict matching checkavailabilityindicators check availability indicators command buffer command strictmatching strict matching buffer cursor candidates completion buffer cursor candidates target annotations option include include include candidate notyetready ready option key candidate currentvalue current pathname target entry ann otherkey key optionkey option key ioe buffer annotations key command cmd command cmd converter converter logger comparator mutex converters commands availabilityindicators availability indicators input matchingtargets matching targets methodtarget target parameterannotations parameter annotations arguments options clioptions cli options requiredtype required type result sourcedfrom sourced message result unavailableoptions unavailable options message clioptionkeyset cli option key set unavailableoptions unavailable options clioptions cli options clioption cli option result cmd remainingbuffer remaining buffer commandwords command lastcommandwordused command word buffertoreturn buffer lastword word bufferindex buffer buffersofarincludingthis buffer including bufferremaining buffer remaining bufferlastindexofword buffer word wordsofarincludingthis word including candidate completions result translated targets startat start stopat methodtarget target cmd options parameterannotations parameter annotations clioptions cli options clioption cli option alreadyspecified unspecified lastoptionkey option key lastoptionvalue option showallremaining remaining paramtype type completionvalue completion parametertypes parameter types option parametertype parameter type allvalues values suffix addspace add space prefix suggestion existing sections methods cmd sectionname matcher builder document builtsections built sections target individualcommands individual commands methods cmd cmdsyntax cmd syntax optionkeys option optiondetails option details option key variablelistelement variable list element anyvars vars proglist prog list safename safe element topsection top appendix bytearrayoutputstream array output stream transformer output matchingtargets matching targets methodtarget target parameterannotations parameter annotations cmd clioption cli option result cmd result methods cmd availability availability
+VARSIG85	
+VARSIG84	commandmarker command marker command
+VARSIG83	cmd
+VARSIG82	
+VARSIG39	
+VARSIG34	cursor
+VARSIG33	buffer
+VARSIG32	completion completion
+VARSIG31	list candidates
+VARSIG38	
+VARSIG37	illegalargumentexception illegal argument exception
+PACKAGE	springframework roo shell
+VARSIG36	methodtarget target target
+VARSIG35	list completion candidates
+VARSIG30	cursor
+CLASSES	simpleparser simple parser
+VARSIG29	buffer
+VARSIG28	strictmatching strict matching
+VARSIG23	
+VARSIG22	
+VARSIG21	commandmarker command marker command
+VARSIG20	checkavailabilityindicators check availability indicators
+VARSIG27	command
+VARSIG26	buffer
+VARSIG25	
+VARSIG24	exception
+VARSIG7	rawinput raw input
+VARSIG6	runtimeexception runtime exception
+VARSIG9	map options
+VARSIG8	set clioption cli option clioptions cli options
+VARSIG3	clioption cli option clioption cli option
+VARSIG2	illegalargumentexception illegal argument exception
+VARSIG5	converter candidate
+VARSIG4	possiblekey key
+VARSIG1	rawinput raw input
+VARSIG0	command
+VARSIG56	converter candidate
+VARSIG55	key
+VARSIG54	
+VARSIG53	clioption cli option option
+VARSIG59	file
+VARSIG58	file pathname
+VARSIG57	completion currentvalue current
+VARSIG52	runtimeexception runtime exception notyetready ready
+VARSIG51	annotation
+VARSIG50	annotation
+VARSIG45	clioption cli option include
+VARSIG44	clioption cli option include
+VARSIG43	
+VARSIG42	clioption cli option option
+VARSIG49	converter candidate
+VARSIG48	
+VARSIG47	clioption cli option include
+VARSIG46	
+VARSIG41	annotation
+VARSIG40	annotation annotations

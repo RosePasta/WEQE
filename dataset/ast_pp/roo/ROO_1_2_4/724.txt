@@ -1,0 +1,23 @@
+VARSIG7	integer sizemax size max
+VARSIG6	regexp
+VARSIG8	integer sizemin size min
+VARSIG3	javatype type fieldtype field type
+VARSIG2	physicaltypeidentifier physical type identifier
+VARSIG5	list annotationmetadatabuilder annotation metadata builder annotations
+VARSIG4	javasymbolname symbol fieldname field
+COMMENTS	extra validation properties properties jsr pattern annotation jsr size annotation max attribute defaults link integer max jsr size annotation min attribute defaults
+CLASSES	stringfield field
+VARSIG1	javasymbolname symbol fieldname field
+VARSIG0	physicaltypeidentifier physical type identifier
+METHODS	stringfield field stringfield field decorateannotationslist decorate annotations list getregexp regexp getsizemax size max getsizemin size min setregexp set regexp setsizemax set size max setsizemin set size min
+MTHSIG4	getsizemax size max
+MTHSIG5	getsizemin size min
+MTHSIG6	setregexp set regexp regexp
+MTHSIG7	setsizemax set size max integer sizemax size max
+MTHSIG0	stringfield field physicaltypeidentifier physical type identifier javasymbolname symbol fieldname field
+MTHSIG1	stringfield field physicaltypeidentifier physical type identifier javatype type fieldtype field type javasymbolname symbol fieldname field
+PACKAGE	springframework roo classpath operations jsr jsr
+MTHSIG2	decorateannotationslist decorate annotations list list annotationmetadatabuilder annotation metadata builder annotations
+MTHSIG3	getregexp regexp
+VARIABLES	physicaltypeidentifier physical type identifier fieldname field physicaltypeidentifier physical type identifier fieldtype field type fieldname field annotations regexp sizemax size max sizemin size min regexp sizemax size max sizemin size min attrs attrs
+MTHSIG8	setsizemin set size min integer sizemin size min

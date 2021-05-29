@@ -1,0 +1,52 @@
+MTHSIG4	isvalid valid metadataidentificationstr metadata identif 
+MTHSIG5	webjsonmetadata web json metadata identifi javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata webjsonannotationvalu web json annot valu annotationvalu annot valu map methodmetadatacustomdatakei metadata custom data kei membertypeaddit member type addit persistenceaddit persist addit fieldmetadata field metadata identifierfield identifi field plural set findermetadatadetail finder metadata detail finderdetail finder detail jsonmetadata json metadata jsonmetadata json metadata introducelayercompon introduc layer compon 
+MTHSIG6	getcreatefromjsonarraymethod creat json arrai membertypeaddit member type addit persistmethod persist 
+MTHSIG7	getcreatefromjsonmethod creat json membertypeaddit member type addit persistmethod persist 
+MTHSIG0	createidentifi creat identifi javatyp type javatyp type logicalpath logic path path 
+MTHSIG1	getjavatyp type metadataidentificationstr metadata identif 
+PACKAGE	springframework roo addon web mvc control json 
+MTHSIG2	getmetadataidentifertyp metadata identif type 
+MTHSIG3	getpath path metadataidentificationstr metadata identif 
+MTHSIG8	getdeletefromjsonmethod delet json membertypeaddit member type addit removemethod remov fieldmetadata field metadata identifierfield identifi field membertypeaddit member type addit findmethod find 
+VARSIG30	membertypeaddit member type addit mergemethod merg 
+MTHSIG9	getjsonfindmethod json find findermetadatadetail finder metadata detail finderdetail finder detail plural 
+CLASSES	webjsonmetadata web json metadata 
+VARSIG29	fieldmetadata field metadata identifierfield identifi field 
+VARSIG28	membertypeaddit member type addit mergemethod merg 
+METHODS	createidentifi creat identifi getjavatyp type getmetadataidentifertyp metadata identif type getpath path isvalid valid webjsonmetadata web json metadata getcreatefromjsonarraymethod creat json arrai getcreatefromjsonmethod creat json getdeletefromjsonmethod delet json getjsonfindmethod json find getlistjsonmethod list json getshortnam getshowjsonmethod json getupdatefromjsonarraymethod updat json arrai getupdatefromjsonmethod updat json tostr 
+VARSIG23	fieldmetadata field metadata field 
+VARSIG22	plural 
+VARSIG21	findermetadatadetail finder metadata detail finderdetail finder detail 
+VARSIG20	membertypeaddit member type addit findmethod find 
+VARSIG27	membertypeaddit member type addit findmethod find 
+VARSIG26	fieldmetadata field metadata identifierfield identifi field 
+VARSIG25	javatyp type type 
+VARSIG24	membertypeaddit member type addit findallmethod find 
+VARSIG7	physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+VARSIG6	javatyp type aspectnam aspect 
+VARSIG9	map methodmetadatacustomdatakei metadata custom data kei membertypeaddit member type addit persistenceaddit persist addit 
+VARSIG8	webjsonannotationvalu web json annot valu annotationvalu annot valu 
+VARSIG3	metadataidentificationstr metadata identif 
+VARSIG2	metadataidentificationstr metadata identif 
+VARSIG5	identifi 
+VARSIG4	metadataidentificationstr metadata identif 
+COMMENTS	metadata json function link roowebscaffold roo web scaffold constructor identifi aspectnam aspect governorphysicaltypemetadata governor physic type metadata annotationvalu annot valu persistenceaddit persist addit identifierfield identifi field plural finderdetail finder detail requir jsonmetadata json metadata introducelayercompon introduc layer compon introduc requir layer compon servic repositori builder addmethod add getupdatefromjsonarraymethod updat json arrai mergemethod merg 
+VARSIG19	fieldmetadata field metadata identifierfield identifi field 
+VARSIG1	logicalpath logic path path 
+VARSIG18	membertypeaddit member type addit removemethod remov 
+VARSIG0	javatyp type javatyp type 
+VARSIG17	membertypeaddit member type addit persistmethod persist 
+VARSIG12	set findermetadatadetail finder metadata detail finderdetail finder detail 
+VARSIG11	plural 
+VARSIG10	fieldmetadata field metadata identifierfield identifi field 
+VARSIG16	membertypeaddit member type addit persistmethod persist 
+VARSIG15	findermetadatadetail finder metadata detail finder 
+VARSIG14	introducelayercompon introduc layer compon 
+VARSIG13	jsonmetadata json metadata jsonmetadata json metadata 
+MTHSIG15	tostr 
+MTHSIG13	getupdatefromjsonarraymethod updat json arrai membertypeaddit member type addit mergemethod merg 
+MTHSIG14	getupdatefromjsonmethod updat json fieldmetadata field metadata identifierfield identifi field membertypeaddit member type addit mergemethod merg 
+MTHSIG11	getshortnam javatyp type type 
+MTHSIG12	getshowjsonmethod json fieldmetadata field metadata identifierfield identifi field membertypeaddit member type addit findmethod find 
+MTHSIG10	getlistjsonmethod list json membertypeaddit member type addit findallmethod find 
+VARIABLES	javatyp type path metadataidentificationstr metadata identif metadataidentificationstr metadata identif metadataidentificationstr metadata identif identifi aspectnam aspect governorphysicaltypemetadata governor physic type metadata annotationvalu annot valu persistenceaddit persist addit identifierfield identifi field plural finderdetail finder detail jsonmetadata json metadata introducelayercompon introduc layer compon finder persistmethod persist persistmethod persist removemethod remov identifierfield identifi field findmethod find finderdetail finder detail plural field findallmethod find type identifierfield identifi field findmethod find mergemethod merg identifierfield identifi field mergemethod merg content type type type respons entiti annotationvalu annot valu introducelayercompon introduc layer compon jsonenabledtyp json enabl type jsonenabledtypeshortnam json enabl type jsonmetadata json metadata jsonbeannam json bean findmethod find findallmethod find persistmethod persist mergemethod merg removemethod remov methodnam fromjsonarraymethodnam json arrai requestbodyannot request bodi annot parametertyp paramet type parameternam paramet name requestmappingattribut request map attribut requestmap request map annot param bodybuild bodi builder httpheadersshortnam http header methodbuild builder methodnam fromjsonmethodnam json requestbodyannot request bodi annot parametertyp paramet type parameternam paramet name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder httpheadersshortnam http header methodbuild builder methodnam attribut pathvariableannot path variabl annot parametertyp paramet type parameternam paramet name requestmappingattribut request map attribut requestmap request map annot httpheadersshortnam http header bodybuild bodi builder methodbuild builder findermethodnam finder parametertyp paramet type parameternam paramet name methodparam param fieldnam field annot attribut requestparamannot request annot annot newparamnam name requestmappingattribut request map attribut requestmap request map annot httpheadersshortnam http header responseentityshortnam respons entiti httpstatusshortnam http statu bodybuild bodi builder methodbuild builder methodnam tojsonarraymethodnam json arrai requestmappingattribut request map attribut requestmap request map annot httpheadersshortnam http header responseentityshortnam respons entiti httpstatusshortnam http statu bodybuild bodi builder list methodbuild builder methodnam tojsonmethodnam json attribut pathvariableannot path variabl annot parametertyp paramet type parameternam paramet name requestmappingattribut request map attribut requestmap request map annot httpheadersshortnam http header responseentityshortnam respons entiti httpstatusshortnam http statu bodybuild bodi builder methodbuild builder methodnam fromjsonarraymethodnam json arrai requestbodyannot request bodi annot parametertyp paramet type parameternam paramet name requestmappingattribut request map attribut requestmap request map annot param httpheadersshortnam http header bodybuild bodi builder methodbuild builder methodnam fromjsonmethodnam json identifierfieldnam identifi field requestbodyannot request bodi annot attribut pathvariableannot path variabl annot parametertyp paramet type parameternam paramet name requestmappingattribut request map attribut requestmap request map annot httpheadersshortnam http header bodybuild bodi builder methodbuild builder builder 

@@ -1,0 +1,8 @@
+MTHSIG0	notify upstreamdependency upstream dependency downstreamdependency downstream dependency
+PACKAGE	springframework roo metadata
+COMMENTS	implementation process metadata notifications invoked notify implementation source metadata identification requested notify destination metadata identification event source destination metadata identifications link metadataidentificationutils metadata identification utils isidentifyingclass identifying link metadataidentificationutils metadata identification utils isidentifyinginstance identifying instance source metadata identifications presented link metadataidentificationutils metadata identification utils isvalid valid exceptions thrown processing metadata genuinely fatal operations simple failures metadata safely link metadataitem metadata item isvalid valid expectation metadata depending metadata call upstreamdependency upstream dependency upstream source event mandatory valid downstreamdependency downstream dependency downstream destination event downstream targeted
+CLASSES	metadatanotificationlistener metadata notification listener
+VARIABLES	upstreamdependency upstream dependency downstreamdependency downstream dependency
+VARSIG1	downstreamdependency downstream dependency
+VARSIG0	upstreamdependency upstream dependency
+METHODS	notify

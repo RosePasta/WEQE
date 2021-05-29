@@ -1,0 +1,13 @@
+VARSIG3	downstreamdependency downstream dependency
+VARSIG2	upstreamdependency upstream dependency
+VARSIG4	path
+COMMENTS	acquire project metadata verify path exists ensure monitored root assume monitored processmanager process manager create directory notifications happen start monitoring avoid operation validity explicitly perform scan directories monitor
+CLASSES	projectpathmonitoringinitializer project path monitoring initializer
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+METHODS	activate deactivate notify
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo project
+MTHSIG2	notify upstreamdependency upstream dependency downstreamdependency downstream dependency
+VARIABLES	context context upstreamdependency upstream dependency downstreamdependency downstream dependency filenameresolver filename resolver metadatadependencyregistry metadata dependency registry metadataservice metadata service filemonitorservice file monitor service undomanager undo manager pathsregistered paths registered pathresolver path resolver notifyon notify fileidentifier file identifier file request

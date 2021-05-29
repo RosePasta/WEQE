@@ -1,0 +1,17 @@
+VARSIG7	object
+VARSIG6	javasymbolname symbol findername finder
+VARSIG3	javatype type
+VARSIG2	javasymbolname symbol finder
+VARSIG5	javatype type typename type
+VARSIG4	runtimeexception runtime exception
+COMMENTS	implementation link finderoperations finder operations entity metadata type finders entity entity metadata member details compute finders avoid displaying problematic finders query query entity metadata type finders entity entity metadata file exists there entity metadata reason source file lines suddenly existing rooentity roo entity annotation confirm typed valid finder destination list store attributes copy existing attributes excluding finder attribute ensure array strings add desired finder let add finders attribute
+CLASSES	finderoperationsimpl finder operations impl
+VARSIG1	integer depth
+VARSIG0	javatype type typename type
+METHODS	isfindercommandavailable finder command listfindersfor list finders installfinder install finder geterrormsg error msg
+MTHSIG0	isfindercommandavailable finder command
+MTHSIG1	listfindersfor list finders javatype type typename type integer depth
+PACKAGE	springframework roo addon finder
+MTHSIG2	installfinder install finder javatype type typename type javasymbolname symbol findername finder
+MTHSIG3	geterrormsg error msg
+VARIABLES	typename type depth finder typename type findername finder logger roo entity dynamicfinderservices dynamic finder services filemanager file manager memberdetailsscanner member details scanner metadataservice metadata service physicaltypemetadataprovider physical type metadata provider projectoperations project operations javatype type path entitymid entity mid entitymetadata entity metadata physicaltypemetadata physical type metadata cid memberdetails member details exclusions result finders queryholder query holder parameternames parameter names parametertypes parameter types signature javatype type path entitymid entity mid entitymetadata entity metadata physicaltypemetadata physical type metadata ptd mutable annotations rooentityannotation roo entity annotation memberdetails member details attributes desiredfinders desired finders alreadyadded val arrayval array val annotation

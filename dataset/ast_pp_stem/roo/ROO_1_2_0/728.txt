@@ -1,0 +1,38 @@
+VARSIG7	parseexcept pars except 
+VARSIG6	javatyp type typenam type 
+VARSIG9	compilationunitservic compil unit servic enclosingcompilationunitservic enclos compil unit servic 
+VARSIG8	compilationunit compil unit compilationunit compil unit 
+VARSIG3	javatyp type typenam type 
+VARSIG2	declaredbymetadataid declar metadata 
+VARSIG5	declaredbymetadataid declar metadata 
+VARSIG4	filecont file content 
+COMMENTS	field creat compil unit store type creat list replac sort version add declar compil unit append present present bodi declar bodi declar present compil unit progress build type compilationunit compil unit work progress compil unit requir enclosingcompilationunitservic enclos compil unit servic cid add requir parent bodi declar subclass denot top level type compil unit append import declar creat declar repres actual type handl top level type type superclass handl handl ad top level type add compil unit type top level enclos compilationunitservic compil unit servic compilationunitservic compil unit servic creat creat compil unit javatyp type metadata method hybrid compilationunitservic compil unit servic refer enclos type import add type annot add constant interfac handl add field add constructor add method add type determin locat insert 
+VARSIG19	constructormetadata constructor metadata candid 
+VARSIG1	fileidentifi file identifi 
+VARSIG18	fieldmetadata field metadata candid 
+VARSIG0	classorinterfacetypedetail type detail cid 
+VARSIG17	javasymbolnam symbol constant 
+MTHSIG4	addenumconst add constant list enumconstantdeclar constant declar constant javasymbolnam symbol 
+VARSIG12	importmetadata metadata importtyp type 
+VARSIG11	list bodydeclar bodi declar parent 
+VARSIG10	classorinterfacetypedetail type detail cid 
+MTHSIG0	getcompilationunitcont compil unit content classorinterfacetypedetail type detail cid 
+VARSIG16	annotationmetadata annot metadata candid 
+MTHSIG1	gettypeatloc type locat fileidentifi file identifi declaredbymetadataid declar metadata javatyp type typenam type 
+VARSIG15	javatyp type current 
+PACKAGE	springframework roo classpath javapars 
+MTHSIG2	gettypefromstr type filecont file content declaredbymetadataid declar metadata javatyp type typenam type 
+VARSIG14	javatyp type 
+MTHSIG3	updateoutput updat output compilationunit compil unit compilationunit compil unit compilationunitservic compil unit servic enclosingcompilationunitservic enclos compil unit servic classorinterfacetypedetail type detail cid list bodydeclar bodi declar parent 
+VARSIG13	javatyp type current 
+CLASSES	javaparsertypeparsingservic parser type pars servic 
+METHODS	getcompilationunitcont compil unit content gettypeatloc type locat gettypefromstr type updateoutput updat output addenumconst add constant 
+VARSIG23	importdeclar declar importdeclar declar 
+VARSIG22	importdeclar declar importdeclar declar 
+VARSIG21	classorinterfacetypedetail type detail candid 
+VARSIG20	methodmetadata metadata candid 
+VARSIG27	enumconstantdeclar constant declar constant 
+VARSIG26	javasymbolnam symbol 
+VARSIG25	list enumconstantdeclar constant declar constant 
+VARSIG24	importdeclar declar importdeclar declar 
+VARIABLES	cid fileidentifi file identifi declaredbymetadataid declar metadata typenam type filecont file content declaredbymetadataid declar metadata typenam type compilationunit compil unit enclosingcompilationunitservic enclos compil unit servic cid parent importtyp type current current candid constant candid candid candid candid importdeclar declar importdeclar declar importdeclar declar constant constant metadataservic metadata servic typelocationservic type locat servic compilationunit compil unit type file typecont type content compilationunit compil unit typedeclar type declar typetoimportexpr type expr javaparsermodifi parser modifi typedeclar type declar classorinterfacedeclar declar implementslist list isinterfac pnameexpr expr tempnam temp presolvednam resolv extendslist list finalcompilationunitservic compil unit servic compilationunitservic compil unit servic annot enumdeclar declar constant import import importpackag importtyp type newentri entri 

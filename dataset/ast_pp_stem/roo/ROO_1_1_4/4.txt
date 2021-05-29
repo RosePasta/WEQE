@@ -1,0 +1,75 @@
+MTHSIG26	iscloudfoundrycommandavail cloud foundri command 
+MTHSIG27	issetupcommandavail setup command 
+MTHSIG24	renameapp renam app appnam app newappnam app 
+MTHSIG25	setup 
+MTHSIG22	map appnam app url 
+MTHSIG23	unmap map appnam app url 
+VARSIG39	url 
+MTHSIG4	createservic creat servic servic bind 
+VARSIG34	instanc 
+MTHSIG5	deleteservic delet servic servic 
+VARSIG33	path 
+MTHSIG6	bindservic bind servic servic appnam app 
+VARSIG32	appnam app 
+MTHSIG7	unbindservic unbind servic servic appnam app 
+VARSIG31	instanc 
+MTHSIG0	info 
+VARSIG38	appnam app 
+MTHSIG1	regist email password 
+VARSIG37	url 
+PACKAGE	springframework roo addon cloud foundri 
+MTHSIG2	login email password cloudcontrollerurl cloud control url 
+VARSIG36	appnam app 
+MTHSIG3	servic 
+VARSIG35	appnam app 
+MTHSIG20	file appnam app path instanc 
+MTHSIG21	stat appnam app 
+MTHSIG8	app 
+VARSIG30	appnam app 
+MTHSIG9	push appnam app integ instanc integ memori path list url 
+CLASSES	cloudfoundryoper cloud foundri oper 
+VARSIG29	instanc 
+VARSIG28	appnam app 
+METHODS	info regist login servic createservic creat servic deleteservic delet servic bindservic bind servic unbindservic unbind servic app push start restart delet updat instanc mem crash crashlog crash log log file stat map unmap map renameapp renam app setup iscloudfoundrycommandavail cloud foundri command issetupcommandavail setup command 
+VARSIG23	appnam app 
+VARSIG22	appnam app 
+VARSIG21	appnam app 
+VARSIG20	appnam app 
+VARSIG27	appnam app 
+VARSIG26	integ memsiz mem size 
+VARSIG25	appnam app 
+VARSIG24	number 
+VARSIG7	bind 
+VARSIG6	 
+VARSIG9	servic 
+VARSIG8	servic 
+VARSIG3	password 
+VARSIG2	email 
+VARSIG5	servic 
+VARSIG4	cloudcontrollerurl cloud control url 
+COMMENTS	oper offer cloud foundri add initi setup cloud foundri target project check cloud foundri command shell depend user log cloud foundri avail check cloud foundri setup command shell avail 
+VARSIG19	appnam app 
+VARSIG1	password 
+VARSIG18	appnam app 
+VARSIG0	email 
+VARSIG17	list url 
+VARSIG12	appnam app 
+VARSIG11	servic 
+VARSIG10	appnam app 
+VARSIG16	path 
+VARSIG15	integ memori 
+VARSIG14	integ instanc 
+VARSIG13	appnam app 
+MTHSIG17	crash appnam app 
+MTHSIG18	crashlog crash log appnam app instanc 
+MTHSIG15	instanc appnam app number 
+MTHSIG16	mem appnam app integ memsiz mem size 
+MTHSIG13	delet appnam app 
+MTHSIG14	updat appnam app 
+MTHSIG11	appnam app 
+MTHSIG12	restart appnam app 
+MTHSIG19	log appnam app instanc 
+MTHSIG10	start appnam app 
+VARIABLES	email password email password cloudcontrollerurl cloud control url servic bind servic servic appnam app servic appnam app appnam app instanc memori path url appnam app appnam app appnam app appnam app appnam app appnam app number appnam app memsiz mem size appnam app appnam app instanc appnam app instanc appnam app path instanc appnam app appnam app url appnam app url appnam app newappnam app 
+VARSIG41	newappnam app 
+VARSIG40	appnam app 

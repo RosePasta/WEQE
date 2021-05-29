@@ -1,0 +1,12 @@
+MTHSIG0	activate componentcontext component context context
+VARSIG3	fileevent file event fileevent file event
+MTHSIG1	onshellstatuschange shell status change shellstatus shell status oldstatus status shellstatus shell status newstatus status
+VARSIG2	shellstatus shell status newstatus status
+PACKAGE	springframework roo addon git
+MTHSIG2	onfileevent file event fileevent file event fileevent file event
+COMMENTS	listener shell events support automatic git repository commits
+CLASSES	gitshelleventlistener git shell event listener
+VARIABLES	context oldstatus status newstatus status fileevent file event log ant path roo log revisioncontrol revision control shell filemanager file manager pathresolver path resolver isdirty dirty commandresult command result
+VARSIG1	shellstatus shell status oldstatus status
+VARSIG0	componentcontext component context context
+METHODS	activate onshellstatuschange shell status change onfileevent file event

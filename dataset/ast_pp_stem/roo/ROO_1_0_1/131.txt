@@ -1,0 +1,24 @@
+VARSIG7	javatyp type type 
+VARSIG6	methodmetadata metadata 
+VARSIG9	annotationmetadata annot metadata 
+VARSIG8	javatyp type type 
+VARSIG3	privilegedaspect privileg aspect 
+VARSIG2	javatyp type aspect 
+VARSIG5	fieldmetadata field metadata 
+VARSIG4	constructormetadata constructor metadata 
+COMMENTS	assist build link itdtypedetail type detail instanc method includ constructor accept argument automat ignor attempt add link identifiablememb identifi member link declaredbymetadataid declar metadata instanc construct addit accept link invocablemembermetadata invoc member metadata verifi link invocablemembermetadata invoc member metadata getbodi bodi detect program error result request member includ provid actual execut bodi member prefer user defaultitdtypedetail type detail getbuild builder immut link defaultitdtypedetail type detail repres current builder 
+CLASSES	defaultitdtypedetailsbuild type detail builder 
+VARSIG1	classorinterfacetypedetail type detail governor 
+VARSIG0	declaredbymetadataid declar metadata 
+METHODS	defaultitdtypedetailsbuild type detail builder build getimportregistrationresolv registr resolv addconstructor add constructor addfield add field addmethod add addextendstyp add type addimplementstyp add type addtypeannot add type annot 
+MTHSIG4	addfield add field fieldmetadata field metadata 
+MTHSIG5	addmethod add methodmetadata metadata 
+MTHSIG6	addextendstyp add type javatyp type type 
+MTHSIG7	addimplementstyp add type javatyp type type 
+MTHSIG0	defaultitdtypedetailsbuild type detail builder declaredbymetadataid declar metadata classorinterfacetypedetail type detail governor javatyp type aspect privilegedaspect privileg aspect 
+MTHSIG1	build 
+PACKAGE	springframework roo classpath detail 
+MTHSIG2	getimportregistrationresolv registr resolv 
+MTHSIG3	addconstructor add constructor constructormetadata constructor metadata 
+VARIABLES	declaredbymetadataid declar metadata governor aspect privilegedaspect privileg aspect type type declaredbymetadataid declar metadata governor aspect privilegedaspect privileg aspect importregistrationresolv registr resolv declaredconstructor declar constructor declaredfield declar field declaredmethod declar method extendstyp type implementstyp type typeannot type annot 
+MTHSIG8	addtypeannot add type annot annotationmetadata annot metadata 

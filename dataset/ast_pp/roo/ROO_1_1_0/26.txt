@@ -1,0 +1,36 @@
+VARSIG7	tablenamepattern table pattern
+VARSIG6	javatype type javatype type
+VARSIG9	columnname column
+VARSIG8	javapackage javapackage
+VARSIG3	javatype type managedentity managed entity
+VARSIG2	javapackage javapackage
+VARSIG5	javapackage javapackage
+VARSIG4	tablenamepattern table pattern
+COMMENTS	implementation link dbretyperesolutionservice dbre type resolution service simple
+VARSIG1	tablenamepattern table pattern
+VARSIG18	javatype type
+VARSIG0	sortedset sorted set javatype type managedentities managed entities
+VARSIG17	javatype type
+MTHSIG4	suggestfieldname field columnname column
+VARSIG12	javapackage javapackage
+MTHSIG5	converttypetotablename convert type table javatype type javatype type
+VARSIG11	tablenamepattern table pattern
+MTHSIG6	converttablenametotype convert table type tablenamepattern table pattern javapackage javapackage
+VARSIG10	javatype type javatype type
+MTHSIG7	getfieldname field columnname column
+MTHSIG0	findtypefortablename find type table sortedset sorted set javatype type managedentities managed entities tablenamepattern table pattern javapackage javapackage
+VARSIG16	javatype type javatype type
+MTHSIG1	findtypefortablename find type table tablenamepattern table pattern javapackage javapackage
+VARSIG15	isfield field
+PACKAGE	springframework roo addon dbre
+MTHSIG2	suggesttablenamefornewtype table type javatype type javatype type
+VARSIG14	str
+MTHSIG3	suggesttypenamefornewtable type table tablenamepattern table pattern javapackage javapackage
+VARSIG13	columnname column
+MTHSIG8	getname str isfield field
+MTHSIG9	getmanagedentities managed entities
+MTHSIG11	getphysicaltypemetadata physical type metadata javatype type javatype type
+CLASSES	dbretyperesolutionserviceimpl dbre type resolution service impl
+METHODS	findtypefortablename find type table findtypefortablename find type table suggesttablenamefornewtype table type suggesttypenamefornewtable type table suggestfieldname field converttypetotablename convert type table converttablenametotype convert table type getfieldname field getname getmanagedentities managed entities getmanagedidentifiers managed identifiers getphysicaltypemetadata physical type metadata
+MTHSIG10	getmanagedidentifiers managed identifiers
+VARIABLES	managedentities managed entities tablenamepattern table pattern javapackage managedentity managed entity tablenamepattern table pattern javapackage javatype type tablenamepattern table pattern javapackage columnname column javatype type tablenamepattern table pattern javapackage columnname column str isfield field javatype type metadataservice metadata service typelocationservice type location service javatype type simplename simple result result result isdelimchar delim managedentities managed entities managedidentifiers managed identifiers declaredbymetadataid declared metadata

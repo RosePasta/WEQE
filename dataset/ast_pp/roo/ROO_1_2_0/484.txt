@@ -1,0 +1,13 @@
+VARSIG2	clioption cli option key mandatory unspecifieddefaultvalue unspecified optioncontext option context update project type apply annotation javatype type target
+COMMENTS	commands provide json functionality spring mvc controllers fields
+CLASSES	webjsoncommands web json commands
+VARSIG1	clioption cli option key jsonobject json object mandatory json enabled object backs spring mvc controller javatype type jsonobject json object
+VARSIG0	clioption cli option key mandatory optioncontext option context update controllers javapackage javapackage
+METHODS	issetupavailable setup iscommandavailable command setup add
+MTHSIG4	add javatype type jsonobject json object javatype type target
+MTHSIG0	issetupavailable setup
+MTHSIG1	iscommandavailable command
+PACKAGE	springframework roo addon web mvc controller json
+MTHSIG2	setup
+MTHSIG3	javapackage javapackage
+VARIABLES	javapackage jsonobject json object target webjsonoperations web json operations

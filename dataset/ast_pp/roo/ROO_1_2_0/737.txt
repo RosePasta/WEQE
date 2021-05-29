@@ -1,0 +1,21 @@
+VARSIG7	throwable throwable
+VARSIG6	stacktraceelement stack trace element ste
+VARSIG8	logentry log entry entry
+VARSIG3	logentry log entry entry
+VARSIG2	logentry log entry entry
+VARSIG5	throwable throwable
+VARSIG4	removedonotlogtag remove log tag
+COMMENTS	delegates osgi log messages jdk logging infrastructure turn compatible spring roo roo standard approach log messages appearing console convenience priority messages output flash messages high priority messages jdk logger constants fields log felix stack trace development mode discard log convert osgi level jdk logger level message flash development mode clear timeout reached log message log jdk
+CLASSES	jdkdelegatingloglistener jdk delegating log listener
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+METHODS	activate deactivate logged lognow log cleanthrowable clean throwable containsdonotlogtag log tag buildmessage build message
+MTHSIG4	cleanthrowable clean throwable throwable throwable
+MTHSIG5	containsdonotlogtag log tag throwable throwable
+MTHSIG6	buildmessage build message logentry log entry entry
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo felix
+MTHSIG2	logged logentry log entry entry
+MTHSIG3	lognow log logentry log entry entry removedonotlogtag remove log tag
+VARIABLES	context context entry entry removedonotlogtag remove log tag throwable ste throwable entry logger log logreaderservice log reader service latestlogs latest logs osgilevel osgi level jdklevel jdk level result

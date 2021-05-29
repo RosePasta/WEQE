@@ -1,0 +1,23 @@
+MTHSIG13	testconvertothermodulenam test convert modul 
+VARSIG3	expectedcomplet expect complet 
+VARSIG2	collect modulenam modul name 
+MTHSIG11	assertcomplet complet optioncontext option context focusedmodulenam focus modul collect modulenam modul name expectedcomplet expect complet 
+MTHSIG12	testconvertrootmodulesymbol test convert root modul symbol 
+COMMENTS	unit test link pomconvert pom convert constant fixtur set invok check 
+CLASSES	pomconvertertest pom convert test 
+VARSIG1	focusedmodulenam focus modul 
+VARSIG0	optioncontext option context 
+METHODS	setup set testsupportspom test support pom testdoesnotsupportothertyp test support type testgetcompletionsexcludingcurrentwhennomodulesexist test complet exclud current modul exist testgetcompletionsexcludingcurrentwhenonlyrootmoduleexist test complet exclud current root modul exist testgetcompletionsexcludingcurrentwhenchildmoduleexistsandrootisfocus test complet exclud current child modul exist root focus testgetcompletionsexcludingcurrentwhenchildmoduleexistsandchildisfocus test complet exclud current child modul exist child focus testgetcompletionsincludingcurrentwhennomodulesexist test complet includ current modul exist testgetcompletionsincludingcurrentwhenonlyrootmoduleexist test complet includ current root modul exist testgetcompletionsincludingcurrentwhenchildmoduleexistsandrootisfocus test complet includ current child modul exist root focus testgetcompletionsincludingcurrentwhenchildmoduleexistsandchildisfocus test complet includ current child modul exist child focus assertcomplet complet testconvertrootmodulesymbol test convert root modul symbol testconvertothermodulenam test convert modul 
+MTHSIG4	testgetcompletionsexcludingcurrentwhenonlyrootmoduleexist test complet exclud current root modul exist 
+MTHSIG5	testgetcompletionsexcludingcurrentwhenchildmoduleexistsandrootisfocus test complet exclud current child modul exist root focus 
+MTHSIG6	testgetcompletionsexcludingcurrentwhenchildmoduleexistsandchildisfocus test complet exclud current child modul exist child focus 
+MTHSIG7	testgetcompletionsincludingcurrentwhennomodulesexist test complet includ current modul exist 
+MTHSIG0	setup set 
+MTHSIG1	testsupportspom test support pom 
+PACKAGE	springframework roo project convert 
+MTHSIG2	testdoesnotsupportothertyp test support type 
+MTHSIG3	testgetcompletionsexcludingcurrentwhennomodulesexist test complet exclud current modul exist 
+MTHSIG10	testgetcompletionsincludingcurrentwhenchildmoduleexistsandchildisfocus test complet includ current child modul exist child focus 
+VARIABLES	optioncontext option context focusedmodulenam focus modul modulenam modul name expectedcomplet expect complet child modul root modul convert mockprojectoper mock project oper complet allvaluescomplet valu complet mockrootpom mock root pom mockpom mock pom modulenam modul 
+MTHSIG8	testgetcompletionsincludingcurrentwhenonlyrootmoduleexist test complet includ current root modul exist 
+MTHSIG9	testgetcompletionsincludingcurrentwhenchildmoduleexistsandrootisfocus test complet includ current child modul exist root focus 

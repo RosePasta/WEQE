@@ -1,0 +1,15 @@
+VARSIG3	loginurl login url 
+VARSIG2	gaeauthenticationfailureev gae authent failur event handler handler 
+VARSIG4	handler handler 
+COMMENTS	event post authent failur detect implement handler type event call link gaeauthenticationfailureev gae authent failur event fire requestev request event link gaeauthenticationfailureev gae authent failur event instanc regist link gaeauthenticationfailureev gae authent failur event handler link eventbu event bu eventbu event bu link eventbu event bu handler link gaeauthenticationfailureev gae authent failur event handler link handlerregistr handler registr instanc event type link receiv rpc success construct link requestev request event link instanc respons link respons instanc return url user visit reauthent link respons instanc 
+CLASSES	gaeauthenticationfailureev gae authent failur event 
+VARSIG1	eventbu event bu eventbu event bu 
+VARSIG0	gaeauthenticationfailureev gae authent failur event requestev request event 
+METHODS	regist gaeauthenticationfailureev gae authent failur event getassociatedtyp type getloginurl login url dispatch 
+MTHSIG4	dispatch handler handler 
+MTHSIG0	regist eventbu event bu eventbu event bu gaeauthenticationfailureev gae authent failur event handler handler 
+MTHSIG1	gaeauthenticationfailureev gae authent failur event loginurl login url 
+PACKAGE	top level segment 
+MTHSIG2	getassociatedtyp type 
+MTHSIG3	getloginurl login url 
+VARIABLES	requestev request event eventbu event bu handler loginurl login url handler type loginurl login url 

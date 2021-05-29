@@ -1,0 +1,38 @@
+VARSIG7	nameexpr expr throwstyp type 
+VARSIG6	annotationexpr annot expr candid 
+VARSIG9	compilationunitservic compil unit servic compilationunitservic compil unit servic 
+VARSIG8	annotationexpr annot expr annot 
+VARSIG3	set javasymbolnam symbol typeparamet type paramet 
+VARSIG2	compilationunitservic compil unit servic compilationunitservic compil unit servic 
+VARSIG5	paramet 
+VARSIG4	typeparamet type paramet candid 
+COMMENTS	parser implement link methodmetadata metadata convert parser modifi jdk modifi add declar type paramet list type paramet comput type comput bodi lookup paramet name creat type add type argument present type handl arrai start basic add level annot paramet annot add paramet includ individu annot type paramet add paramet annot applic paramet type comput paramet comput paramet type creat parser paramet add list paramet add except set bodi set bodi bodi fake javapars parser pars easiest build simpl sourc requir pars locat add verifi exist current match paramet type add compil unit 
+VARSIG19	bodydeclar bodi declar 
+VARSIG1	methoddeclar declar methoddeclar declar 
+VARSIG18	parseexcept pars except 
+VARSIG0	declaredbymetadataid declar metadata 
+VARSIG17	javatyp type javatyp type 
+MTHSIG4	getparameternam paramet name 
+VARSIG12	set javasymbolnam symbol typeparamet type paramet 
+MTHSIG5	getparametertyp paramet type 
+VARSIG11	methodmetadata metadata 
+MTHSIG6	getreturntyp type 
+VARSIG10	list bodydeclar bodi declar member 
+MTHSIG7	getmethodnam 
+MTHSIG0	javaparsermethodmetadata parser metadata declaredbymetadataid declar metadata methoddeclar declar methoddeclar declar compilationunitservic compil unit servic compilationunitservic compil unit servic set javasymbolnam symbol typeparamet type paramet 
+VARSIG16	annotationmetadata annot metadata parameterannot paramet annot 
+MTHSIG1	getmodifi modifi 
+VARSIG15	annotatedjavatyp annot type methodparamet paramet 
+PACKAGE	springframework roo classpath javapars detail 
+MTHSIG2	getdeclaredbymetadataid declar metadata 
+VARSIG14	annotationmetadata annot metadata annot 
+MTHSIG3	getannot annot 
+VARSIG13	javatyp type paramet 
+MTHSIG8	getthrowstyp type 
+MTHSIG9	getbodi bodi 
+MTHSIG11	addmethod add compilationunitservic compil unit servic compilationunitservic compil unit servic list bodydeclar bodi declar member methodmetadata metadata set javasymbolnam symbol typeparamet type paramet 
+CLASSES	javaparsermethodmetadata parser metadata 
+METHODS	javaparsermethodmetadata parser metadata getmodifi modifi getdeclaredbymetadataid declar metadata getannot annot getparameternam paramet name getparametertyp paramet type getreturntyp type getmethodnam getthrowstyp type getbodi bodi tostr addmethod add 
+VARSIG20	annotatedjavatyp annot type existingparamet exist paramet 
+MTHSIG10	tostr 
+VARIABLES	declaredbymetadataid declar metadata methoddeclar declar compilationunitservic compil unit servic typeparamet type paramet candid candid throwstyp type annot compilationunitservic compil unit servic member typeparamet type paramet paramet annot methodparamet paramet parameterannot paramet annot javatyp type existingparamet exist paramet annot parametertyp paramet type parameternam paramet name throwstyp type returntyp type methodnam bodi declaredbymetadataid declar metadata modifi fulltypeparamet full type paramet param currenttypeparam current type parametertyp paramet type annotationslist annot list annot throw tsc returntyp type importedtyp import type cit typearg type annot paramet parameterannot paramet annot parameternam paramet parametertyp paramet type throwstyp type importedtyp import type bai type bodydeclar bodi declar jpmm matchesfulli match fulli parametertyp paramet type 

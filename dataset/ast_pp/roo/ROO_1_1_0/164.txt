@@ -1,0 +1,7 @@
+MTHSIG0	loaddriver load driver driverclassname driver
+PACKAGE	springframework roo addon jdbc
+COMMENTS	locates jdbc driver returns instantiated version implementation inform user driver presently attempts locate instantiate jdbc driver jdbc driver provide argument constructor driverclassname driver load required driver driver located runtimeexception runtime exception driver located instantiated
+CLASSES	jdbcdrivermanager jdbc driver manager
+VARIABLES	driverclassname driver
+VARSIG0	driverclassname driver
+METHODS	loaddriver load driver

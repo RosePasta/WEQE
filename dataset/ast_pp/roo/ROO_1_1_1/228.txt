@@ -1,0 +1,17 @@
+VARSIG3	bundleid bundle
+VARSIG2	addonbundlesymbolicname add bundle symbolic bsn
+VARSIG5	refresh
+VARSIG4	bundlesymbolicname bundle symbolic bsn
+COMMENTS	operations offered addon display link addonbundlesymbolicname add bundle symbolic piped standard jdk link logger info bundle symbolic required display bundle piped standard jdk link logger info bundle required install addon link addonbundlesymbolicname add bundle symbolic bsn bundle symbolic required install addon add bundleid bundle bundle required remove addon link bundlesymbolicname bundle symbolic bsn bundle symbolic required list cached addon bundles refresh refresh attempt fresh download roobot xml optional set addon bundles
+CLASSES	addonroobotoperations add roo bot operations
+VARSIG1	bundleid bundle
+VARSIG0	addonbundlesymbolicname add bundle symbolic bsn
+METHODS	addoninfo add info addoninfo add info installaddon install add installaddon install add removeaddon remove add getaddoncache add cache
+MTHSIG4	removeaddon remove add bundlesymbolicname bundle symbolic bsn
+MTHSIG5	getaddoncache add cache refresh
+MTHSIG0	addoninfo add info addonbundlesymbolicname add bundle symbolic bsn
+MTHSIG1	addoninfo add info bundleid bundle
+PACKAGE	springframework roo addon roobot client
+MTHSIG2	installaddon install add addonbundlesymbolicname add bundle symbolic bsn
+MTHSIG3	installaddon install add bundleid bundle
+VARIABLES	bsn bundleid bundle bsn bundleid bundle bsn refresh

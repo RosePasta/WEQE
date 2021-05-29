@@ -1,0 +1,28 @@
+VARSIG7	patidxtmp pat idx tmp
+VARSIG6	validxend val idx
+VARSIG8	
+VARSIG3	curlyidxstart curly idx start
+VARSIG2	map uritemplatevariables uri template variables
+VARSIG5	validxstart val idx start
+VARSIG4	curlyidxend curly idx
+COMMENTS	helper link antpathmatcher ant path matcher tests matches pattern pattern special characters characters character uri template pattern constructs instance antpatchstringmatcher ant patch matcher entry point matches pattern process pattern stars padidxstart pad idx start patidxend pat idx point find pattern padidxstart pad idx start padidxtmp pad idx tmp str stridxstart str idx start stridxend str idx stars skip pattern size character mismatch matches pattern
+VARSIG1	str
+VARSIG0	pattern
+MTHSIG4	findnextstarorcurly find star curly
+MTHSIG5	findclosingcurly find closing curly
+MTHSIG6	onlystarsleft stars left
+MTHSIG7	allcharsused chars
+MTHSIG0	antpatchstringmatcher ant patch matcher pattern str map uritemplatevariables uri template variables
+MTHSIG1	addtemplatevariable add template variable curlyidxstart curly idx start curlyidxend curly idx validxstart val idx start validxend val idx
+PACKAGE	springframework roo support ant
+MTHSIG2	matchstrings match strings
+MTHSIG3	consecutivestars consecutive stars patidxtmp pat idx tmp
+MTHSIG8	shortcutpossible shortcut
+MTHSIG9	doshortcut shortcut
+MTHSIG13	matchafterlaststarorcurly match star curly
+MTHSIG11	patterncontainsonetemplatevariable pattern template variable
+MTHSIG12	matchbeforefirststarorcurly match star curly
+CLASSES	antpatchstringmatcher ant patch matcher
+METHODS	antpatchstringmatcher ant patch matcher addtemplatevariable add template variable matchstrings match strings consecutivestars consecutive stars findnextstarorcurly find star curly findclosingcurly find closing curly onlystarsleft stars left allcharsused chars shortcutpossible shortcut doshortcut shortcut patterncontainsonlystar pattern star patterncontainsonetemplatevariable pattern template variable matchbeforefirststarorcurly match star curly matchafterlaststarorcurly match star curly
+MTHSIG10	patterncontainsonlystar pattern star
+VARIABLES	pattern str uritemplatevariables uri template variables curlyidxstart curly idx start curlyidxend curly idx validxstart val idx start validxend val idx patidxtmp pat idx tmp patarr pat arr strarr str arr patidxstart pat idx start patidxend pat idx stridxstart str idx start stridxend str idx uritemplatevariables uri template variables varname varvalue patidxtmp pat idx tmp patlength pat length strlength str length foundidx idx

@@ -1,0 +1,26 @@
+VARSIG7	javatype type aspectname aspect
+VARSIG6	metadataidentificationstring metadata identification
+VARSIG9	itdfilename filename
+VARSIG8	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG3	configurablemetadataprovider configurable metadata provider configurablemetadataprovider configurable metadata provider
+VARSIG2	filemanager file manager filemanager file manager
+VARSIG5	beaninfometadataprovider bean info metadata provider beaninfometadataprovider bean info metadata provider
+VARSIG4	pluralmetadataprovider plural metadata provider pluralmetadataprovider plural metadata provider
+COMMENTS	link entitymetadata entity metadata governor type details safely walk inheritance hierarchy find existing entitymetadata entity metadata plural can acquire plural monitor parent type parent trickle governing type disabling automated creation arg constructors add providing sophisticated constructor creation facilities noargconstructor arg constructor automatically link entitymetadata entity metadata arg constructor arg constructors defined link physicaltypemetadata physical type metadata defaults
+VARSIG1	metadatadependencyregistry metadata dependency registry metadatadependencyregistry metadata dependency registry
+VARSIG0	metadataservice metadata service metadataservice metadata service
+MTHSIG4	createlocalidentifier create local identifier javatype type javatype type path path
+VARSIG12	path path
+MTHSIG5	getprovidestype type
+VARSIG11	javatype type javatype type
+MTHSIG6	setnoargconstructor set arg constructor noargconstructor arg constructor
+VARSIG10	metadataidentificationstring metadata identification
+MTHSIG0	entitymetadataprovider entity metadata provider metadataservice metadata service metadataservice metadata service metadatadependencyregistry metadata dependency registry metadatadependencyregistry metadata dependency registry filemanager file manager filemanager file manager configurablemetadataprovider configurable metadata provider configurablemetadataprovider configurable metadata provider pluralmetadataprovider plural metadata provider pluralmetadataprovider plural metadata provider beaninfometadataprovider bean info metadata provider beaninfometadataprovider bean info metadata provider
+MTHSIG1	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+PACKAGE	springframework roo addon entity
+MTHSIG2	getitduniquenessfilenamesuffix uniqueness filename suffix
+MTHSIG3	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+VARSIG13	noargconstructor arg constructor
+CLASSES	entitymetadataprovider entity metadata provider
+METHODS	entitymetadataprovider entity metadata provider getmetadata metadata getitduniquenessfilenamesuffix uniqueness filename suffix getgovernorphysicaltypeidentifier governor physical type identifier createlocalidentifier create local identifier getprovidestype type setnoargconstructor set arg constructor
+VARIABLES	metadataservice metadata service metadatadependencyregistry metadata dependency registry filemanager file manager configurablemetadataprovider configurable metadata provider pluralmetadataprovider plural metadata provider beaninfometadataprovider bean info metadata provider metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename metadataidentificationstring metadata identification javatype type path noargconstructor arg constructor noargconstructor arg constructor parent supercid cid supercidphysicaltypeidentifier cid physical type identifier path supercidlocalidentifier cid local identifier javatype type path key beaninfo bean info javatype type path physicaltypeidentifier physical type identifier

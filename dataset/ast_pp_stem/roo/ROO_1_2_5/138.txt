@@ -1,0 +1,31 @@
+VARSIG7	javapackag requestpackag request 
+VARSIG6	javapackag requestpackag request 
+VARSIG9	javapackag proxypackag proxi 
+VARSIG8	javatyp type type 
+VARSIG3	javatyp type type 
+VARSIG2	javapackag proxyandrequestpackag proxi request 
+VARSIG5	javatyp type type 
+VARSIG4	javapackag proxypackag proxi 
+COMMENTS	gwt oper delimit multi level path element modul modul gwt xml file 
+VARSIG1	javapackag proxyandrequestpackag proxi request 
+VARSIG0	javapackag proxypackag proxi 
+MTHSIG4	proxyandrequesttyp proxi request type javapackag proxyandrequestpackag proxi request javatyp type type 
+VARSIG12	javapackag requestpackag request 
+MTHSIG5	proxytyp proxi type javapackag proxypackag proxi javatyp type type 
+VARSIG11	javapackag proxypackag proxi 
+MTHSIG6	requestal request javapackag requestpackag request 
+VARSIG10	javapackag requestpackag request 
+MTHSIG7	requesttyp request type javapackag requestpackag request javatyp type type 
+MTHSIG0	isgwtinstallationposs gwt instal 
+MTHSIG1	isscaffoldavail scaffold 
+PACKAGE	springframework roo addon gwt 
+MTHSIG2	proxyal proxi javapackag proxypackag proxi 
+MTHSIG3	proxyandrequestal proxi request javapackag proxyandrequestpackag proxi request 
+VARSIG13	javatyp type type 
+MTHSIG8	scaffoldal scaffold javapackag proxypackag proxi javapackag requestpackag request 
+MTHSIG9	scaffoldtyp scaffold type javapackag proxypackag proxi javapackag requestpackag request javatyp type type 
+MTHSIG11	updategaeconfigur updat gae configur 
+CLASSES	gwtoper gwt oper 
+METHODS	isgwtinstallationposs gwt instal isscaffoldavail scaffold proxyal proxi proxyandrequestal proxi request proxyandrequesttyp proxi request type proxytyp proxi type requestal request requesttyp request type scaffoldal scaffold scaffoldtyp scaffold type setup updategaeconfigur updat gae configur 
+MTHSIG10	setup 
+VARIABLES	proxypackag proxi proxyandrequestpackag proxi request proxyandrequestpackag proxi request type proxypackag proxi type requestpackag request requestpackag request type proxypackag proxi requestpackag request proxypackag proxi requestpackag request type path delimit 

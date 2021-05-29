@@ -1,0 +1,25 @@
+VARSIG7	javatype type javatype type
+VARSIG6	mid
+VARSIG9	typeidentifier type identifier
+VARSIG8	typefilepath type file path
+VARSIG3	typeidentifier type identifier
+VARSIG2	typefilepath type file path
+VARSIG5	javatype type javatype type
+VARSIG4	pom pom
+COMMENTS	
+VARSIG1	classorinterfacetypedetails type details cid
+VARSIG0	typefilepath type file path
+MTHSIG4	getphysicaltypeidentifier physical type identifier javatype type javatype type
+MTHSIG5	gettypeidfromtypefilepath type type file path typefilepath type file path
+MTHSIG6	removetype remove type typeidentifier type identifier
+VARSIG10	modulefilepath module file path
+MTHSIG7	getalltypeidentifiers type identifiers
+MTHSIG0	cachetype cache type typefilepath type file path classorinterfacetypedetails type details cid
+MTHSIG1	cachefilepathagainsttypeidentifier cache file path type identifier typefilepath type file path typeidentifier type identifier
+PACKAGE	springframework roo classpath
+MTHSIG2	cachetypeagainstmodule cache type module pom pom javatype type javatype type
+MTHSIG3	gettypedetails type details mid
+MTHSIG8	gettypenamesformodulefilepath type names module file path modulefilepath module file path
+CLASSES	typecache type cache
+METHODS	cachetype cache type cachefilepathagainsttypeidentifier cache file path type identifier cachetypeagainstmodule cache type module gettypedetails type details getphysicaltypeidentifier physical type identifier gettypeidfromtypefilepath type type file path removetype remove type getalltypeidentifiers type identifiers gettypenamesformodulefilepath type names module file path
+VARIABLES	typefilepath type file path cid typefilepath type file path typeidentifier type identifier pom javatype type mid javatype type typefilepath type file path typeidentifier type identifier modulefilepath module file path

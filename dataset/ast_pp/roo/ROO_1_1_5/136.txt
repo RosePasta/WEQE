@@ -1,0 +1,50 @@
+MTHSIG4	notify upstreamdependency upstream dependency downstreamdependency downstream dependency
+MTHSIG5	updateeclipseplugin update plugin
+MTHSIG6	updatebuildoutputdirectory update build output directory
+MTHSIG7	updaterepositories update repositories element configuration
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo addon gwt
+MTHSIG2	issetupavailable setup
+MTHSIG3	setup
+MTHSIG8	updatedependencies update dependencies element configuration
+MTHSIG9	updatewebxml update web xml
+CLASSES	gwtoperationsimpl gwt operations impl
+METHODS	activate deactivate issetupavailable setup setup notify updateeclipseplugin update plugin updatebuildoutputdirectory update build output directory updaterepositories update repositories updatedependencies update dependencies updatewebxml update web xml updatepersistencexml update persistence xml updategaehelper update gae helper copydirectorycontents copy directory contents copydirectorycontents copy directory contents updatefile update file updatebuildplugins update build plugins removeiffound remove getgaehookup gae hookup
+VARSIG23	plugin plugin
+VARSIG22	isgaeenabled gae enabled
+VARSIG21	ioexception exception
+VARSIG20	url url
+VARSIG26	element toremove remove
+VARSIG25	element webxmlroot web xml root
+VARSIG24	xpath
+VARSIG7	element repositoryelement repository element
+VARSIG6	element configuration
+VARSIG9	element configuration
+VARSIG8	element repositoryelement repository element
+VARSIG3	classorinterfacetypedetails type details classorinterfacetypedetails type details
+VARSIG2	gwtpath gwt path path
+VARSIG5	downstreamdependency downstream dependency
+VARSIG4	upstreamdependency upstream dependency
+COMMENTS	implementation link gwtoperations gwt operations permit installation gwt project shared allowed install web pieces installed add gwt natures builder names maven plugin add outputdirectory output directory build element pom add pom repositories add dependencies update web xml update persistence xml file ensuring metadata fired update applicationrequestfactory application request factory update gaehelper gae helper type ensure gwt maven plugin gae enabled disabled environment updated appengine sdk denoted gae type add appengine api sdk dependency pom xml file copy missing files gae changed enabled add gwt buildcommand build command add gwt projectnature read template insert user user output file user
+VARSIG19	isgaeenabled gae enabled
+VARSIG1	componentcontext component context context
+VARSIG18	overwrite
+VARSIG0	componentcontext component context context
+VARSIG17	segmentpackage segment
+VARSIG12	isgaeenabled gae enabled
+VARSIG11	element persistenceunitelement persistence unit element
+VARSIG10	element dependencyelement dependency element
+VARSIG16	targetdirectory target directory
+VARSIG15	sourceantpath source ant path
+VARSIG14	gwtpath gwt path gwtpath gwt path
+VARSIG13	gwtpath gwt path path
+MTHSIG17	getgaehookup gae hookup
+MTHSIG15	updatebuildplugins update build plugins isgaeenabled gae enabled
+MTHSIG16	removeiffound remove xpath element webxmlroot web xml root
+MTHSIG13	copydirectorycontents copy directory contents gwtpath gwt path gwtpath gwt path
+MTHSIG14	updatefile update file sourceantpath source ant path targetdirectory target directory segmentpackage segment overwrite isgaeenabled gae enabled
+MTHSIG11	updategaehelper update gae helper isgaeenabled gae enabled
+MTHSIG12	copydirectorycontents copy directory contents
+MTHSIG10	updatepersistencexml update persistence xml
+VARIABLES	context context path classorinterfacetypedetails type details upstreamdependency upstream dependency downstreamdependency downstream dependency configuration repositoryelement repository element repositoryelement repository element configuration dependencyelement dependency element persistenceunitelement persistence unit element isgaeenabled gae enabled path gwtpath gwt path sourceantpath source ant path targetdirectory target directory segmentpackage segment overwrite isgaeenabled gae enabled url isgaeenabled gae enabled plugin xpath webxmlroot web xml root toremove remove filemanager file manager gwttypeservice gwt type service metadatadependencyregistry metadata dependency registry metadataservice metadata service mvcoperations mvc operations projectoperations project operations typelocationservice type location service context wasgaeenabled gae enabled configuration projectmetdata project metdata isgaeenabled gae enabled hasgaestatechanged gae changed rootpath root path files configuration gaedependency gae dependency pom document root additionalbuildcommandselement additional buildcommands element gwtbuildcommandname gwt build command gwtbuildcommandelement gwt build command element nameelement element additionalprojectnatureselement additional projectnatures element gwtprojectnaturename gwt projectnature gwtprojectnatureelement gwt projectnature element pom document root outputdirectorytext output directory text outputdirectoryelement output directory element buildelement build element repositories gwtrepositories gwt repositories gwtpluginrepositories gwt plugin repositories dependencies gwtdependencies gwt dependencies webxmlpath web xmlpath webxml web xml root displayname display webresourcecollection web resource collection rolenames role names userdataconstraint user data constraint filter filtermapping filter mapping securityconstraint security constraint persistencepath persistence path persistencexml persistence xml root provider sourceantpath source ant path segmentpackage segment targetdirectory target directory sourceantpath source ant path targetdirectory target directory path urls filename file targetfilename target filename input toplevelpackage top level configuration xpath path pluginelement plugin element defaultplugin plugin builder

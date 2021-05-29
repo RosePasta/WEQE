@@ -1,0 +1,94 @@
+MTHSIG28	addinnertype add type classorinterfacetypedetailsbuilder type details builder innertype type
+MTHSIG29	onaddinnertype add type classorinterfacetypedetailsbuilder type details builder innertype type
+MTHSIG26	onaddmethod add methodmetadatabuilder metadata builder methodbuilder builder
+MTHSIG27	addinnertype add type classorinterfacetypedetails type details innertype type
+MTHSIG24	addmethod add methodmetadata metadata
+MTHSIG25	addmethod add methodmetadatabuilder metadata builder methodbuilder builder
+MTHSIG22	addfield add field fieldmetadatabuilder field metadata builder fieldbuilder field builder
+MTHSIG23	onaddfield add field fieldmetadatabuilder field metadata builder fieldbuilder field builder
+VARSIG39	classorinterfacetypedetailsbuilder type details builder cidbuilder cid builder
+MTHSIG4	getdeclaredconstructors declared constructors
+VARSIG34	javatype type extendstype type
+MTHSIG5	setdeclaredconstructors set declared constructors collection constructormetadatabuilder constructor metadata builder declaredconstructors declared constructors
+VARSIG33	javatype type implementstype type
+MTHSIG6	getdeclaredfields declared fields
+VARSIG32	javatype type implementstype type
+MTHSIG7	setdeclaredfields set declared fields collection fieldmetadatabuilder field metadata builder declaredfields declared fields
+VARSIG31	initializermetadatabuilder initializer metadata builder initializer
+MTHSIG0	abstractmemberholdingtypedetailsbuilder member holding type details builder declaredbymetadataid declaredby metadata
+VARSIG38	methodmetadatabuilder metadata builder builder
+MTHSIG1	abstractmemberholdingtypedetailsbuilder member holding type details builder memberholdingtypedetails member holding type details existing
+VARSIG37	fieldmetadatabuilder field metadata builder builder
+PACKAGE	springframework roo classpath details
+MTHSIG2	abstractmemberholdingtypedetailsbuilder member holding type details builder declaredbymetadataid declaredby metadata memberholdingtypedetails member holding type details existing
+VARSIG36	constructormetadatabuilder constructor metadata builder builder
+MTHSIG3	init memberholdingtypedetails member holding type details existing
+VARSIG35	javatype type extendstype type
+MTHSIG20	onaddconstructor add constructor constructormetadatabuilder constructor metadata builder constructorbuilder constructor builder
+MTHSIG21	addfield add field fieldmetadata field metadata field
+MTHSIG8	getdeclaredmethods declared methods
+VARSIG30	initializermetadatabuilder initializer metadata builder initializer
+MTHSIG9	setdeclaredmethods set declared methods iterable methodmetadatabuilder metadata builder declaredmethods declared methods
+MTHSIG39	buildinnertypes build types
+MTHSIG37	buildfields build fields
+MTHSIG38	buildmethods build methods
+MTHSIG35	onaddextendstypes add types javatype type extendstype type
+MTHSIG36	buildconstructors build constructors
+MTHSIG33	onaddimplementtype add implement type javatype type implementstype type
+MTHSIG34	addextendstypes add types javatype type extendstype type
+CLASSES	abstractmemberholdingtypedetailsbuilder member holding type details builder
+VARSIG29	classorinterfacetypedetailsbuilder type details builder innertype type
+VARSIG28	classorinterfacetypedetailsbuilder type details builder innertype type
+METHODS	abstractmemberholdingtypedetailsbuilder member holding type details builder abstractmemberholdingtypedetailsbuilder member holding type details builder abstractmemberholdingtypedetailsbuilder member holding type details builder init getdeclaredconstructors declared constructors setdeclaredconstructors set declared constructors getdeclaredfields declared fields setdeclaredfields set declared fields getdeclaredmethods declared methods setdeclaredmethods set declared methods getdeclaredinnertypes declared types setdeclaredinnertypes set declared types getdeclaredinitializers declared initializers setdeclaredinitializers set declared initializers getextendstypes types setextendstypes set types getimplementstypes types setimplementstypes set types addconstructor add constructor addconstructor add constructor onaddconstructor add constructor addfield add field addfield add field onaddfield add field addmethod add addmethod add onaddmethod add addinnertype add type addinnertype add type onaddinnertype add type addinitializer add initializer onaddinitializer add initializer addimplementstype add type onaddimplementtype add implement type addextendstypes add types onaddextendstypes add types buildconstructors build constructors buildfields build fields buildmethods build methods buildinnertypes build types buildinitializers build initializers removeall remove removeextendstypes remove types cleardeclaredmethods clear declared methods addimports add imports
+VARSIG23	fieldmetadatabuilder field metadata builder fieldbuilder field builder
+VARSIG22	fieldmetadatabuilder field metadata builder fieldbuilder field builder
+VARSIG21	fieldmetadata field metadata field
+VARSIG20	constructormetadatabuilder constructor metadata builder constructorbuilder constructor builder
+VARSIG27	classorinterfacetypedetails type details innertype type
+VARSIG26	methodmetadatabuilder metadata builder methodbuilder builder
+VARSIG25	methodmetadatabuilder metadata builder methodbuilder builder
+VARSIG24	methodmetadata metadata
+MTHSIG31	onaddinitializer add initializer initializermetadatabuilder initializer metadata builder initializer
+MTHSIG32	addimplementstype add type javatype type implementstype type
+MTHSIG30	addinitializer add initializer initializermetadatabuilder initializer metadata builder initializer
+VARSIG7	methodmetadata metadata element
+VARSIG6	fieldmetadata field metadata element
+VARSIG9	initializermetadata initializer metadata element
+VARSIG8	classorinterfacetypedetails type details element
+VARSIG3	memberholdingtypedetails member holding type details existing
+VARSIG2	declaredbymetadataid declaredby metadata
+MTHSIG44	addimports add imports collection importmetadata metadata imports
+VARSIG5	constructormetadata constructor metadata element
+VARSIG4	memberholdingtypedetails member holding type details existing
+COMMENTS	link builder assist building link memberholdingtypedetails member holding type details implementations type link memberholdingtypedetails member holding type details built fields constructor declaredbymetadataid declaredby metadata constructor existing constructor declaredbymetadataid declaredby metadata existing sets builders constructors declared declaredconstructors declared constructors sets builders fields declared type built declaredfields declared fields builders set returns declared methods builder unmodifiable copy list sets declared methods builder equivalent calling link addmethod add methodmetadatabuilder metadata builder item link iterable declaredmethods declared methods methods set link iterable defensively copied sets builders types type built declaredinnertypes declared types builders set sets builders initializers type built declaredinitializers declared initializers builders set returns types built instance extend copy modifying returned list modify builder todo improve encapsulation returning defensive copy updating callers list sets types built instance extend extendstypes types sets types implemented type built implementstypes types adds builder add builder changed adds builder methodbuilder builder builder add mid doesn match builder builder mid builder changed subclasses perform actions builder implementation methodbuilder builder originally check declaredmids declared matched doesn sense model types thought adding enclosingtype enclosing type attribute prototype felt hack term disabled mid comparison reasonable time jtt removes methods builder methodstoremove methods remove builder changed result list removeall remove collection ensures type built extend types supertypes types types remove supertypes removes declared methods builder adds imports builder imports imports add
+VARSIG19	constructormetadatabuilder constructor metadata builder constructorbuilder constructor builder
+VARSIG1	memberholdingtypedetails member holding type details existing
+VARSIG18	constructormetadata constructor metadata constructor
+VARSIG0	declaredbymetadataid declaredby metadata
+VARSIG17	collection javatype type implementstypes types
+VARSIG12	iterable methodmetadatabuilder metadata builder declaredmethods declared methods
+VARSIG11	collection fieldmetadatabuilder field metadata builder declaredfields declared fields
+VARSIG10	collection constructormetadatabuilder constructor metadata builder declaredconstructors declared constructors
+VARSIG16	collection javatype type extendstypes types
+VARSIG15	collection initializermetadatabuilder initializer metadata builder declaredinitializers declared initializers
+VARSIG14	collection classorinterfacetypedetailsbuilder type details builder declaredinnertypes declared types
+VARSIG13	methodmetadatabuilder metadata builder methodbuilder builder
+MTHSIG42	removeextendstypes remove types javatype type supertypes types
+MTHSIG43	cleardeclaredmethods clear declared methods
+MTHSIG40	buildinitializers build initializers
+MTHSIG41	removeall remove collection methodmetadatabuilder metadata builder methodstoremove methods remove
+MTHSIG17	setimplementstypes set types collection javatype type implementstypes types
+MTHSIG18	addconstructor add constructor constructormetadata constructor metadata constructor
+MTHSIG15	setextendstypes set types collection javatype type extendstypes types
+MTHSIG16	getimplementstypes types
+MTHSIG13	setdeclaredinitializers set declared initializers collection initializermetadatabuilder initializer metadata builder declaredinitializers declared initializers
+MTHSIG14	getextendstypes types
+MTHSIG11	setdeclaredinnertypes set declared types collection classorinterfacetypedetailsbuilder type details builder declaredinnertypes declared types
+MTHSIG12	getdeclaredinitializers declared initializers
+MTHSIG19	addconstructor add constructor constructormetadatabuilder constructor metadata builder constructorbuilder constructor builder
+VARSIG43	collection importmetadata metadata imports
+VARSIG42	javatype type supertypes types
+MTHSIG10	getdeclaredinnertypes declared types
+VARIABLES	declaredbymetadataid declaredby metadata existing declaredbymetadataid declaredby metadata existing existing element element element element element declaredconstructors declared constructors declaredfields declared fields declaredmethods declared methods methodbuilder builder declaredinnertypes declared types declaredinitializers declared initializers extendstypes types implementstypes types constructor constructorbuilder constructor builder constructorbuilder constructor builder field fieldbuilder field builder fieldbuilder field builder methodbuilder builder methodbuilder builder innertype type innertype type innertype type initializer initializer implementstype type implementstype type extendstype type extendstype type builder builder builder cidbuilder cid builder builder methodstoremove methods remove supertypes types imports declaredinnertypes declared types declaredconstructors declared constructors declaredfields declared fields declaredinitializers declared initializers extendstypes types implementstypes types declaredmethods declared methods result result result result result
+VARSIG41	collection methodmetadatabuilder metadata builder methodstoremove methods remove
+VARSIG40	initializermetadatabuilder initializer metadata builder builder

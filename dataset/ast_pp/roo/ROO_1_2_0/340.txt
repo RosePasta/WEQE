@@ -1,0 +1,21 @@
+VARSIG7	logicalpath logical path path
+VARSIG6	javatype type javatype type
+VARSIG8	metadataidentificationstring metadata identification
+VARSIG3	javatype type aspectname aspect
+VARSIG2	metadataidentificationstring metadata identification
+VARSIG5	itdfilename filename
+VARSIG4	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+COMMENTS	implementation link mongoentitymetadataprovider mongo entity metadata provider constants fields governor governor member details
+CLASSES	mongoentitymetadataproviderimpl mongo entity metadata provider impl
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+METHODS	activate deactivate getmetadata metadata getitduniquenessfilenamesuffix uniqueness filename suffix getprovidestype type createlocalidentifier create local identifier getgovernorphysicaltypeidentifier governor physical type identifier
+MTHSIG4	getprovidestype type
+MTHSIG5	createlocalidentifier create local identifier javatype type javatype type logicalpath logical path path
+MTHSIG6	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo addon layers repository mongo
+MTHSIG2	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+MTHSIG3	getitduniquenessfilenamesuffix uniqueness filename suffix
+VARIABLES	context context metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename javatype type path metadataidentificationstring metadata identification field matcher persistent type matcher accessor matcher mutator matcher customdatakeydecorator custom data key decorator annotationvalues annotation values identifiertype identifier type memberdetails member details javatype type path

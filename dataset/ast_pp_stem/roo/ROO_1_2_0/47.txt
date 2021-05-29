@@ -1,0 +1,19 @@
+VARSIG7	clioption cli option kei includet includ tabl mandatori specifieddefaultvalu optioncontext option context includ tabl tabl includ revers engin multipl tabl name quot list separ space set includet includ tabl 
+VARSIG6	clioption cli option kei enableview enabl view mandatori specifieddefaultvalu unspecifieddefaultvalu unspecifi revers engin databas view view 
+VARSIG9	clioption cli option kei includenonportableattribut includ portabl attribut mandatori specifieddefaultvalu unspecifieddefaultvalu unspecifi includ portabl jpa column attribut columndefinit includenonportableattribut includ portabl attribut 
+VARSIG8	clioption cli option kei excludet exclud tabl mandatori specifieddefaultvalu optioncontext option context exclud tabl tabl exclud revers engin multipl tabl name quot list separ space set excludet exclud tabl 
+VARSIG3	clioption cli option kei schema mandatori optioncontext option context schema databas schema name multipl schema name quot list separ space set schema schema 
+VARSIG2	clioption cli option kei enableview enabl view mandatori specifieddefaultvalu unspecifieddefaultvalu unspecifi displai databas view view 
+VARSIG5	clioption cli option kei testautomat test automat mandatori specifieddefaultvalu unspecifieddefaultvalu unspecifi creat automat integr test entiti testautomat test automat 
+VARSIG4	clioption cli option kei mandatori entiti javapackag destinationpackag destin 
+COMMENTS	shell command link dbreoper dbre oper field 
+CLASSES	dbrecommand dbre command 
+VARSIG1	clioption cli option kei file mandatori file save metadata file file 
+VARSIG0	clioption cli option kei schema mandatori optioncontext option context schema databas schema name multipl schema name quot list separ space set schema schema 
+METHODS	isdbreavail dbre displaydatabasemetadata displai databas metadata serializedatabasemetadata serial databas metadata 
+VARSIG10	clioption cli option kei activerecord activ record mandatori specifieddefaultvalu unspecifieddefaultvalu unspecifi gener crud activ record method entiti activerecord activ record 
+MTHSIG0	isdbreavail dbre 
+MTHSIG1	displaydatabasemetadata displai databas metadata set schema schema file file view 
+PACKAGE	springframework roo addon dbre 
+MTHSIG2	serializedatabasemetadata serial databas metadata set schema schema javapackag destinationpackag destin testautomat test automat view set includet includ tabl set excludet exclud tabl includenonportableattribut includ portabl attribut activerecord activ record 
+VARIABLES	schema file view schema destinationpackag destin testautomat test automat view includet includ tabl excludet exclud tabl includenonportableattribut includ portabl attribut activerecord activ record dbreoper dbre oper 

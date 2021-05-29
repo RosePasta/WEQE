@@ -1,0 +1,8 @@
+MTHSIG0	getprovidestype type
+MTHSIG1	metadataidentificationstring metadata identification
+PACKAGE	springframework roo metadata
+COMMENTS	service guarantees authoritatively provide link metadataitem metadata item metadata identification strings returns level type metadata returned remain identical entire lifecycle link metadataprovider metadata provider instance change returned satisfies link metadataidentificationutils metadata identification utils isidentifyingclass identifying creates requested link metadataitem metadata item returning item created exception caller invalid input argument input argument empty link metadataidentificationutils metadata identification utils isidentifyinginstance identifying instance requested metadata identifier link getprovidestype type metadataidentificationstring metadata identification acquire required supported provider metadata identification valid metadata unavailable
+CLASSES	metadataprovider metadata provider
+VARIABLES	metadataidentificationstring metadata identification
+VARSIG0	metadataidentificationstring metadata identification
+METHODS	getprovidestype type

@@ -1,0 +1,76 @@
+MTHSIG24	express messag 
+MTHSIG25	express 
+MTHSIG22	isassign assign supertyp type subtyp type 
+MTHSIG23	isassign assign supertyp type subtyp type messag 
+VARSIG39	supertyp type 
+MTHSIG4	notnul object object messag 
+VARSIG34	type 
+MTHSIG5	notnul object object 
+VARSIG33	object obj 
+MTHSIG6	haslength length text messag 
+VARSIG32	clazz 
+MTHSIG7	haslength length text 
+VARSIG31	map map 
+MTHSIG0	istru express messag 
+VARSIG38	subtyp type 
+MTHSIG1	istru express 
+VARSIG37	supertyp type 
+PACKAGE	springframework roo support util 
+MTHSIG2	isnul object object messag 
+VARSIG36	messag 
+MTHSIG3	isnul object object 
+VARSIG35	object obj 
+MTHSIG20	isinstanceof instanc clazz object obj 
+MTHSIG21	isinstanceof instanc type object obj messag 
+MTHSIG8	hastext text text messag 
+VARSIG30	messag 
+MTHSIG9	hastext text text 
+CLASSES	 
+VARSIG29	map map 
+VARSIG28	collect collect 
+METHODS	istru istru isnul isnul notnul notnul haslength length haslength length hastext text hastext text doesnotcontain doesnotcontain notempti empti notempti empti nonullel element nonullel element notempti empti notempti empti notempti empti notempti empti isinstanceof instanc isinstanceof instanc isassign assign isassign assign 
+VARSIG23	object arrai 
+VARSIG22	object arrai 
+VARSIG21	messag 
+VARSIG20	object arrai 
+VARSIG27	messag 
+VARSIG26	collect collect 
+VARSIG25	object arrai 
+VARSIG24	messag 
+VARSIG7	messag 
+VARSIG6	object object 
+VARSIG9	text 
+VARSIG8	object object 
+VARSIG3	object object 
+VARSIG2	express 
+VARSIG5	object object 
+VARSIG4	messag 
+COMMENTS	assert util assist valid argument identifi programm error earli runtim contract argument valid contract contract violat occur protect class invari typic valid argument configur properti check case programm error configur error contrast config initi code usal point fall default method junit junit assert librari argument deem invalid link illegalargumentexcept illeg argument except thrown typic notnul clazz istru greater intern framework jakarta jakarta common lang comprehens suit assert util express throw illegalargumentexcept illeg argument except test result istru greater express express messag except messag assert fail illegalargumentexcept illeg argument except express express throw illegalargumentexcept illeg argument except test result istru express express illegalargumentexcept illeg argument except express object isnul object object check messag except messag assert fail illegalargumentexcept illeg argument except object object isnul object object check illegalargumentexcept illeg argument except object object notnul clazz object object check messag except messag assert fail illegalargumentexcept illeg argument except object object notnul clazz object object check illegalargumentexcept illeg argument except object empti empti haslength length empti text check messag except messag assert fail stringutil util haslength length empti empti haslength length text check stringutil util haslength length valid text content whitespac charact hastext text empti text check messag except messag assert fail stringutil util hastext text valid text content whitespac charact hastext text empti text check stringutil util hastext text text substr doesnotcontain rod rod texttosearch text search text search substr substr find text messag except messag assert fail text substr doesnotcontain rod texttosearch text search text search substr substr find text arrai element element notempti empti arrai arrai element arrai arrai check messag except messag assert fail illegalargumentexcept illeg argument except object arrai element arrai element element notempti empti arrai arrai arrai check illegalargumentexcept illeg argument except object arrai element arrai element note complain arrai empti nonullel element arrai arrai element arrai arrai check messag except messag assert fail illegalargumentexcept illeg argument except object arrai element arrai element note complain arrai empti nonullel element arrai arrai arrai check illegalargumentexcept illeg argument except object arrai element collect element element notempti empti collect collect element collect collect check messag except messag assert fail illegalargumentexcept illeg argument except collect element collect element element notempti empti collect collect element collect collect check illegalargumentexcept illeg argument except collect element map entri entri notempti empti map map entri map map check messag except messag assert fail illegalargumentexcept illeg argument except map entri map entri entri notempti empti map map map check illegalargumentexcept illeg argument except map entri object instanc instanc foo foo clazz requir obj object check illegalargumentexcept illeg argument except object instanc clazz isinst instanc object instanc instanc foo foo type type check obj object check messag messag prepend messag produc function provid context function gener messag prepend illegalargumentexcept illeg argument except object instanc clazz isinst instanc supertyp type isassignablefrom assign subtyp type isassign assign number myclass supertyp type type check subtyp type type check illegalargumentexcept illeg argument except class assign supertyp type isassignablefrom assign subtyp type isassign assign number myclass supertyp type type check subtyp type type check messag messag prepend messag produc function provid context function gener messag prepend illegalargumentexcept illeg argument except class assign express throw illegalstateexcept illeg except test result call istru illegalargumentexcept illeg argument except assert failur properti initi express express messag except messag assert fail illegalstateexcept illeg except express express throw link illegalstateexcept illeg except test result call link istru link illegalargumentexcept illeg argument except assert failur express express illegalstateexcept illeg except suppli express 
+VARSIG19	substr 
+VARSIG1	messag 
+VARSIG18	texttosearch text search 
+VARSIG0	express 
+VARSIG17	messag 
+VARSIG12	text 
+VARSIG11	text 
+VARSIG10	messag 
+VARSIG16	substr 
+VARSIG15	texttosearch text search 
+VARSIG14	text 
+VARSIG13	messag 
+MTHSIG17	notempti empti collect collect 
+MTHSIG18	notempti empti map map messag 
+MTHSIG15	nonullel element object arrai 
+MTHSIG16	notempti empti collect collect messag 
+MTHSIG13	notempti empti object arrai 
+MTHSIG14	nonullel element object arrai messag 
+MTHSIG11	doesnotcontain texttosearch text search substr 
+MTHSIG12	notempti empti object arrai messag 
+MTHSIG19	notempti empti map map 
+VARSIG44	express 
+VARSIG43	messag 
+VARSIG42	express 
+MTHSIG10	doesnotcontain texttosearch text search substr messag 
+VARIABLES	express messag express object messag object object messag object text messag text text messag text texttosearch text search substr messag texttosearch text search substr arrai messag arrai arrai messag arrai collect messag collect map messag map clazz obj type obj messag supertyp type subtyp type supertyp type subtyp type messag express messag express 
+VARSIG41	messag 
+VARSIG40	subtyp type 

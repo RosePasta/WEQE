@@ -1,0 +1,13 @@
+VARSIG3	repository repo
+VARSIG2	ioexception exception
+VARSIG4	resource resource
+COMMENTS	implementation link obrresourcefinder obr resource finder background download start asap quick background query cached proceed user appears disconnect network roo network appears connected let proceed
+CLASSES	obrresourcefinderimpl obr resource finder impl
+VARSIG1	throwable ignore
+VARSIG0	componentcontext component context context
+METHODS	activate getknownresources resources getrepositorycount repository count
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	getknownresources resources
+PACKAGE	springframework roo obr internal
+MTHSIG2	getrepositorycount repository count
+VARIABLES	context ignore repo resource repositoryadmin repository admin urlinputstreamservice url input stream service obrrepositoriesdownloaded obr repositories downloaded result

@@ -1,0 +1,52 @@
+MTHSIG4	getdatafield data field
+MTHSIG5	getnewtransiententitymethod entity
+MTHSIG6	getmodifymethod modify
+MTHSIG7	getrandompersistententitymethod random persistent entity
+MTHSIG0	dataondemandmetadata data demand metadata identifier javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata dataondemandannotationvalues data demand annotation values annotationvalues annotation values methodmetadata metadata identifieraccessor identifier accessor methodmetadata metadata findmethod find methodmetadata metadata findentriesmethod find entries methodmetadata metadata persistmethod persist methodmetadata metadata flushmethod flush metadataservice metadata service metadataservice metadata service metadatadependencyregistry metadata dependency registry metadatadependencyregistry metadata dependency registry map methodmetadata metadata fieldmetadata field metadata locatedsetters located setters classorinterfacetypedetails type details entityclassorinterfacetypedetails entity type details
+MTHSIG1	getcomponentannotation component annotation
+PACKAGE	springframework roo addon dod
+MTHSIG2	iscomponentannotationintroduced component annotation introduced
+MTHSIG3	getrndfield rnd field
+MTHSIG20	getpath path metadataidentificationstring metadata identification
+MTHSIG21	isvalid valid metadataidentificationstring metadata identification
+MTHSIG8	getspecificpersistententitymethod specific persistent entity
+MTHSIG9	getinitmethod init
+CLASSES	dataondemandmetadata data demand metadata
+METHODS	dataondemandmetadata data demand metadata getcomponentannotation component annotation iscomponentannotationintroduced component annotation introduced getrndfield rnd field getdatafield data field getnewtransiententitymethod entity getmodifymethod modify getrandompersistententitymethod random persistent entity getspecificpersistententitymethod specific persistent entity getinitmethod init mutatordiscovery mutator discovery isnumericfieldtype numeric field type isnumericprimitive numeric primitive getcollaboratingfieldname collaborating field getcollaboratingtype collaborating type getannotationvalues annotation values tostring getmetadataidentifertype metadata identifer type createidentifier create identifier getjavatype type getpath path isvalid valid
+VARSIG23	metadataidentificationstring metadata identification
+VARSIG22	metadataidentificationstring metadata identification
+VARSIG21	path path
+VARSIG20	javatype type javatype type
+VARSIG24	metadataidentificationstring metadata identification
+VARSIG7	methodmetadata metadata persistmethod persist
+VARSIG6	methodmetadata metadata findentriesmethod find entries
+VARSIG9	metadataservice metadata service metadataservice metadata service
+VARSIG8	methodmetadata metadata flushmethod flush
+VARSIG3	dataondemandannotationvalues data demand annotation values annotationvalues annotation values
+VARSIG2	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG5	methodmetadata metadata findmethod find
+VARSIG4	methodmetadata metadata identifieraccessor identifier accessor
+COMMENTS	metadata link roodataondemand roo data demand findentityentries find entity entries integer integer list entity required persist instance entity create required flush instance entity create required mandatory methods order discovery guarantee generated consistent manner scm compatibility key mandatory setter invoke argument mutator expressed entities requiring data demand instance fields exist needed lookup dataondemand data demand metadata depend expect field correct rely move field field add hasn adds springframework stereotype component annotation type exists annotation exists created created required springframework stereotype component annotation introduced introduced rnd field user produced demand returns compute required field verify candidate suitable candidate naming clashes subclasses candidate isn util random isn suitable valid candidate don check initializer assume user they candidate let create data field user produced demand returns compute required field type parameters field type verify candidate suitable candidate naming clashes subclasses candidate isn util list theentity entity isn suitable equals verifies type params valid candidate don check initializer assume user they candidate let create getnewtransiententity entity entity returns definition find build locate user defined create check size column length attribute check min max modifyentity modify entity entity returns definition find build locate user defined create todo port fully original code base getrandomentity random entity entity returns definition find build locate user defined create getspecificentity specific entity entity returns definition find build locate user defined create init returns definition find build locate user defined create create body check mutator include version fields shouldn mutator user include field annotated javax persistence include sort collection user entities hand check manytoone annotation optional attribute roo fields included datanucleus data nucleus initializer util include field required marked jsr notnull numeric primitive field annotations simple invoke check size check column auto boxed auto boxed auto boxed auto boxed auto boxed avoid circular references roo metadata relying decide dealing roo metadata basic assumptions correct annotation values link roodataondemand roo data demand metadata invalid
+VARSIG19	javatype type entity
+VARSIG1	javatype type aspectname aspect
+VARSIG18	javatype type entity
+VARSIG0	identifier
+VARSIG17	fieldmetadata field metadata field
+VARSIG12	classorinterfacetypedetails type details entityclassorinterfacetypedetails entity type details
+VARSIG11	map methodmetadata metadata fieldmetadata field metadata locatedsetters located setters
+VARSIG10	metadatadependencyregistry metadata dependency registry metadatadependencyregistry metadata dependency registry
+VARSIG16	fieldmetadata field metadata field
+VARSIG15	methodmetadata metadata mutatormethod mutator
+VARSIG14	methodmetadata metadata mutator
+VARSIG13	javatype type entityneedingcollaborator entity needing collaborator
+MTHSIG17	getmetadataidentifertype metadata identifer type
+MTHSIG18	createidentifier create identifier javatype type javatype type path path
+MTHSIG15	getannotationvalues annotation values
+MTHSIG16	tostring
+MTHSIG13	getcollaboratingfieldname collaborating field javatype type entity
+MTHSIG14	getcollaboratingtype collaborating type javatype type entity
+MTHSIG11	isnumericfieldtype numeric field type fieldmetadata field metadata field
+MTHSIG12	isnumericprimitive numeric primitive fieldmetadata field metadata field
+MTHSIG19	getjavatype type metadataidentificationstring metadata identification
+MTHSIG10	mutatordiscovery mutator discovery
+VARIABLES	identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata annotationvalues annotation values identifieraccessor identifier accessor findmethod find findentriesmethod find entries persistmethod persist flushmethod flush metadataservice metadata service metadatadependencyregistry metadata dependency registry locatedsetters located setters entityclassorinterfacetypedetails entity type details entityneedingcollaborator entity needing collaborator mutator mutatormethod mutator field field entity entity javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification metadataidentificationstring metadata identification type type max min size column annotationvalues annotation values identifieraccessormethod identifier accessor findmethod find findentriesmethod find entries persistmethod persist flushmethod flush mandatorymutators mandatory mutators mutatorarguments mutator arguments requireddataondemandcollaborators required data demand collaborators metadataservice metadata service metadatadependencyregistry metadata dependency registry locatedsetters located setters entityclassorinterfacetypedetails entity type details fieldsaddedtoitd fields collaboratortype collaborator type collaboratingfieldname collaborating field fieldsymbolname field symbol candidate annotations fieldbuilder field builder field javatype type annotationbuilder annotation builder javatype type result fieldname field fieldsymbolname field symbol candidate fieldbuilder field builder fieldname field typeparams type params fieldsymbolname field symbol candidate fieldbuilder field builder methodname paramtypes types paramnames names returntype type usermethod user bodybuilder body builder initializer field sizeannotationmetadata size annotation metadata columnannotationmetadata column annotation metadata maxvalue max lengthattributevalue length attribute lengthvalue length minannotationmetadata min annotation metadata maxannotationmetadata max annotation metadata suffix minvalue min maxvalue max minvalue min maxvalue max methodbuilder builder methodname paramtypes types paramnames names returntype type usermethod user bodybuilder body builder methodbuilder builder methodname paramtypes types paramnames names returntype type usermethod user bodybuilder body builder methodbuilder builder methodname paramtypes types paramnames names returntype type usermethod user bodybuilder body builder methodbuilder builder methodname paramtypes types paramnames names returntype type usermethod user bodybuilder body builder datafield data field methodbuilder builder mutatorname mutator field hasmanytoone manytooneannotation annotation optionalattribute optional attribute onetooneannotation annotation initializer sizeannotationmetadata size annotation metadata maxvalue max minvalue min columnannotationmetadata column annotation metadata lengthvalue length collaboratingfieldname collaborating field otherprovider provider onetoone othermd tsc

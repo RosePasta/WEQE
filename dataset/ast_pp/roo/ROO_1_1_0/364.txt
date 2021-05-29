@@ -1,0 +1,30 @@
+VARSIG7	list javasymbolname symbol parameternames parameter names
+VARSIG6	list annotatedjavatype annotated type parametertypes parameter types
+VARSIG9	declaredbymetadataid declaredby metadata
+VARSIG8	invocablememberbodybuilder invocable member body builder bodybuilder body builder
+VARSIG3	modifier
+VARSIG2	declaredbymetadataid declaredby metadata
+VARSIG5	javatype type returntype type
+VARSIG4	javasymbolname symbol methodname
+COMMENTS	builder link methodmetadata metadata
+VARSIG1	methodmetadata metadata existing
+VARSIG0	declaredbymetadataid declaredby metadata
+MTHSIG4	build
+VARSIG12	javatype type returntype type
+MTHSIG5	getmethodname
+VARSIG11	javasymbolname symbol methodname
+MTHSIG6	setmethodname set javasymbolname symbol methodname
+VARSIG10	modifier
+MTHSIG7	getreturntype type
+MTHSIG0	methodmetadatabuilder metadata builder declaredbymetadataid declaredby metadata
+MTHSIG1	methodmetadatabuilder metadata builder methodmetadata metadata existing
+VARSIG15	javatype type returntype type
+PACKAGE	springframework roo classpath details
+MTHSIG2	methodmetadatabuilder metadata builder declaredbymetadataid declaredby metadata modifier javasymbolname symbol methodname javatype type returntype type list annotatedjavatype annotated type parametertypes parameter types list javasymbolname symbol parameternames parameter names invocablememberbodybuilder invocable member body builder bodybuilder body builder
+VARSIG14	javasymbolname symbol methodname
+MTHSIG3	methodmetadatabuilder metadata builder declaredbymetadataid declaredby metadata modifier javasymbolname symbol methodname javatype type returntype type invocablememberbodybuilder invocable member body builder bodybuilder body builder
+VARSIG13	invocablememberbodybuilder invocable member body builder bodybuilder body builder
+MTHSIG8	setreturntype set type javatype type returntype type
+CLASSES	methodmetadatabuilder metadata builder
+METHODS	methodmetadatabuilder metadata builder methodmetadatabuilder metadata builder methodmetadatabuilder metadata builder methodmetadatabuilder metadata builder build getmethodname setmethodname set getreturntype type setreturntype set type
+VARIABLES	declaredbymetadataid declaredby metadata existing declaredbymetadataid declaredby metadata modifier methodname returntype type parametertypes parameter types parameternames parameter names bodybuilder body builder declaredbymetadataid declaredby metadata modifier methodname returntype type bodybuilder body builder methodname returntype type methodname returntype type

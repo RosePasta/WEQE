@@ -1,0 +1,33 @@
+VARSIG7	password
+VARSIG6	username user
+VARSIG9	persistenceunit persistence unit
+VARSIG8	transactionmanager transaction manager
+VARSIG3	applicationid application
+VARSIG2	jndi
+VARSIG5	databasename database
+VARSIG4	hostname host
+COMMENTS	jpa configuration entity operations responsible managing jpa artifacts meta inf persistence xml applicationcontext application context xml database properties project pom xml ormprovider orm provider orm provider selected hibernate openjpa open jpa eclipselink link database database hsql mysql sql jndi jndi datasource applicationid application google app engine application identifier defaults project project hostname host host database databasename database database username user username connect database password password connect database transactionmanager transaction manager transaction manager defined applicationcontext application context xml file persistenceunit persistence unit persistence unit defined persistence xml file modulename module jpa installed focused module module focus checks existence meta inf persistence xml meta inf persistence xml exists creates jpa embeddable embeddable required serializable link serializable creates entity entity required createabstract create entity superclass entity annotations entity entity annotations creates jpa identifier identifiertype identifier type identifier type identifierfield identifier field identifier field identifiercolumn identifier column identifier column
+VARSIG19	identifiercolumn identifier column
+VARSIG1	jdbcdatabase jdbc database database
+VARSIG18	identifierfield identifier field
+VARSIG0	ormprovider orm provider ormprovider orm provider
+VARSIG17	javatype type identifiertype identifier type
+MTHSIG4	ispersistentclassavailable persistent
+VARSIG12	serializable
+MTHSIG5	newembeddableclass embeddable javatype type serializable
+VARSIG11	javatype type
+MTHSIG6	newentity entity javatype type createabstract create javatype type superclass list annotationmetadatabuilder annotation metadata builder annotations
+VARSIG10	modulename module
+MTHSIG7	newidentifier identifier javatype type identifiertype identifier type identifierfield identifier field identifiercolumn identifier column
+MTHSIG0	configurejpa configure jpa ormprovider orm provider ormprovider orm provider jdbcdatabase jdbc database database jndi applicationid application hostname host databasename database username user password transactionmanager transaction manager persistenceunit persistence unit modulename module
+VARSIG16	list annotationmetadatabuilder annotation metadata builder annotations
+MTHSIG1	getdatabaseproperties database properties
+VARSIG15	javatype type superclass
+PACKAGE	springframework roo addon jpa
+MTHSIG2	hasdatabaseproperties database properties
+VARSIG14	createabstract create
+MTHSIG3	isjpainstallationpossible jpa installation
+VARSIG13	javatype type
+CLASSES	jpaoperations jpa operations
+METHODS	configurejpa configure jpa getdatabaseproperties database properties hasdatabaseproperties database properties isjpainstallationpossible jpa installation ispersistentclassavailable persistent newembeddableclass embeddable newentity entity newidentifier identifier
+VARIABLES	ormprovider orm provider database jndi applicationid application hostname host databasename database username user password transactionmanager transaction manager persistenceunit persistence unit modulename module serializable createabstract create superclass annotations identifiertype identifier type identifierfield identifier field identifiercolumn identifier column

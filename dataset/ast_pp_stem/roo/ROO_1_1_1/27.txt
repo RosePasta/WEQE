@@ -1,0 +1,29 @@
+VARSIG7	view 
+VARSIG6	testautomat test automat 
+VARSIG9	set excludet exclud tabl 
+VARSIG8	set includet includ tabl 
+VARSIG3	except 
+VARSIG2	view 
+VARSIG5	javapackag destinationpackag destin 
+VARSIG4	schema schema 
+COMMENTS	databas revers engin oper forc refresh databas actual jdbc connect chang persist xml file prevent tabl creat drop 
+VARSIG1	file file 
+VARSIG0	schema schema 
+MTHSIG4	logemptydatabas log empti databas schema schema 
+VARSIG12	except 
+MTHSIG5	updatepersistencexml updat persist xml 
+VARSIG11	schema schema 
+MTHSIG6	setpropertyvalu set properti element root element propertyel properti element 
+VARSIG10	schema schema 
+MTHSIG0	isdbreavail dbre 
+VARSIG16	 
+MTHSIG1	displaydatabasemetadata displai databas metadata schema schema file file view 
+VARSIG15	 
+PACKAGE	springframework roo addon dbre 
+MTHSIG2	reverseengineerdatabas revers engin databas schema schema javapackag destinationpackag destin testautomat test automat view set includet includ tabl set excludet exclud tabl 
+VARSIG14	element propertyel properti element 
+MTHSIG3	lognulldatabas log databas schema schema 
+VARSIG13	element root 
+CLASSES	dbreoperationsimpl dbre oper impl 
+METHODS	isdbreavail dbre displaydatabasemetadata displai databas metadata reverseengineerdatabas revers engin databas lognulldatabas log databas logemptydatabas log empti databas updatepersistencexml updat persist xml setpropertyvalu set properti 
+VARIABLES	schema file view schema destinationpackag destin testautomat test automat view includet includ tabl excludet exclud tabl schema schema root propertyel properti element logger filemanag file manag pathresolv path resolv metadataservic metadata servic dbremodelservic dbre model servic dbredatabaselisten dbre databas listen databas outputstream output stream databas persistencepath persist path persistencemutablefil persist mutabl file persist root providerel provid element provid propertyel properti element chang chang 

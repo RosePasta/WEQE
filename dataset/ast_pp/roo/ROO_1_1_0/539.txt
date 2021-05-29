@@ -1,0 +1,13 @@
+VARSIG2	file location
+COMMENTS	link abstractpathresolver path resolver permit subclasses register path details
+CLASSES	pathinformation path
+VARSIG1	source
+VARSIG0	path path
+METHODS	pathinformation path getpath path issource source getlocation location tostring
+MTHSIG4	tostring
+MTHSIG0	pathinformation path path path source file location
+MTHSIG1	getpath path
+PACKAGE	springframework roo project
+MTHSIG2	issource source
+MTHSIG3	getlocation location
+VARIABLES	path source location path source location tsc

@@ -1,0 +1,37 @@
+VARSIG7	metadataidentificationstring metadata identification
+VARSIG6	metadataidentificationstring metadata identification
+VARSIG9	evictcache evict cache
+VARSIG8	metadataidentificationstring metadata identification
+VARSIG3	metadataidentificationstring metadata identification
+VARSIG2	componentcontext component context context
+VARSIG5	metadataprovider metadata provider
+VARSIG4	downstream
+COMMENTS	implementation link metadataservice metadata service implementation thread safe accessed single thread time enforced process manager semantics avoid cost synchronization request control list assist output stacks order requests list verify correct operation logs predictable ordering mutex clear cache verifies argument valid time evict downstream dependencies metadata depended evicted metadata evict instance instance cache clear cache clear caches metadata providers support cache eviction caller requested cache recursive caller prevented cache determine mid requested earlier infinite requests occurring destination infinite loop management item item isn evict cache start cache isn block ensure exceptions don prevent metadatalogger metadata logger stopevent event processed requests handle retries recorded evict prior version cache interim version acceptable discard result purely facilitate updating metadata stored memory disk destination provider consume notification contract provider handle notification delegate rely provider evict items cache applicable contract ensure evict item recreate destination instance meaningful operation contract notify listeners downstream instance changed
+VARSIG1	metadataprovider metadata provider
+VARSIG18	metadataprovider metadata provider
+VARSIG0	componentcontext component context context
+VARSIG17	metadataitem metadata item metadataitem metadata item
+MTHSIG4	evictall evict
+VARSIG12	cacheretrievalallowed cache retrieval allowed
+MTHSIG5	evictandget evict metadataidentificationstring metadata identification
+VARSIG11	evictcache evict cache
+MTHSIG6	metadataidentificationstring metadata identification
+VARSIG10	metadataidentificationstring metadata identification
+MTHSIG7	metadataidentificationstring metadata identification evictcache evict cache
+MTHSIG0	activate componentcontext component context context
+VARSIG16	downstreamdependency downstream dependency
+MTHSIG1	bindmetadataprovider bind metadata provider metadataprovider metadata provider
+VARSIG15	upstreamdependency upstream dependency
+PACKAGE	springframework roo metadata
+MTHSIG2	deactivate componentcontext component context context
+VARSIG14	retrymid retry mid
+MTHSIG3	evict metadataidentificationstring metadata identification
+VARSIG13	exception
+MTHSIG8	getinternal internal metadataidentificationstring metadata identification evictcache evict cache cacheretrievalallowed cache retrieval allowed
+MTHSIG9	notify upstreamdependency upstream dependency downstreamdependency downstream dependency
+MTHSIG11	tostring
+MTHSIG12	unbindmetadataprovider unbind metadata provider metadataprovider metadata provider
+CLASSES	defaultmetadataservice metadata service
+METHODS	activate bindmetadataprovider bind metadata provider deactivate evict evictall evict evictandget evict getinternal internal notify tostring unbindmetadataprovider unbind metadata provider
+MTHSIG10	metadataitem metadata item metadataitem metadata item
+VARIABLES	context context metadataidentificationstring metadata identification downstream metadataidentificationstring metadata identification metadataidentificationstring metadata identification metadataidentificationstring metadata identification evictcache evict cache metadataidentificationstring metadata identification evictcache evict cache cacheretrievalallowed cache retrieval allowed retrymid retry mid upstreamdependency upstream dependency downstreamdependency downstream dependency metadataitem metadata item metadatadependencyregistry metadata dependency registry metadatalogger metadata logger activerequests active requests cacheevictions cache evictions cachehits cache hits cachemisses cache misses cacheputs cache puts keystoretry retry lock providermap provider map providers recursivegets recursive validgets valid mid result mdclassid result thisretry retry mdclassid builder mid

@@ -1,0 +1,32 @@
+VARSIG7	methodmetadata metadata findmethod find
+VARSIG6	methodmetadata metadata findallmethod find
+VARSIG9	methodmetadata metadata findentriesmethod find entries
+VARSIG8	methodmetadata metadata countmethod count
+VARSIG3	methodmetadata metadata persistmethod persist
+VARSIG2	methodmetadata metadata versionaccessormethod version accessor
+VARSIG5	methodmetadata metadata removemethod remove
+VARSIG4	methodmetadata metadata mergemethod merge
+COMMENTS	aggregates persistence metadata link javatype type needed web scaffolding add ons constructor javatypepersistencemetadatadetails type persistence metadata details identifierfield identifier field identifieraccessormethod identifier accessor versionaccessormethod version accessor version accessor persistmethod persist persist mergemethod merge merge removemethod remove remove findallmethod find findall find findmethod find find countmethod count count findentriesmethod find entries findentries find entries findernames finder names empty finders defined isrooidentifier roo identifier rooidentifierfields roo identifier fields empty finders defined field metadata identifier link fieldmetadata field metadata identifier field presented persistence accessor persistence identifier link methodmetadata metadata identifier accessor presented persistence accessor persistence version link methodmetadata metadata version accessor presented persistence defined accessor persistence persist link methodmetadata metadata persist presented persistence defined accessor persistence merge link methodmetadata metadata merge presented persistence defined accessor persistence remove link methodmetadata metadata remove presented persistence defined accessor persistence findall find link methodmetadata metadata findall find presented persistence defined accessor persistence find link methodmetadata metadata find presented persistence defined accessor persistence count link methodmetadata metadata count presented persistence defined accessor persistence findentries find entries link methodmetadata metadata findentries find entries presented persistence defined accessor finder names list finder names empty type annotated rooidentifier roo identifier annotation accessor identifier field collection cases identifier type annotated rooidentifier roo identifier list field metadata fields defined type annotated rooidentifier roo identifier
+VARSIG1	methodmetadata metadata identifieraccessormethod identifier accessor
+VARSIG0	fieldmetadata field metadata identifierfield identifier field
+MTHSIG4	getpersistmethod persist
+VARSIG12	list fieldmetadata field metadata rooidentifierfields roo identifier fields
+MTHSIG5	getmergemethod merge
+VARSIG11	isrooidentifier roo identifier
+MTHSIG6	getremovemethod remove
+VARSIG10	list findernames finder names
+MTHSIG7	getfindallmethod find
+MTHSIG0	javatypepersistencemetadatadetails type persistence metadata details fieldmetadata field metadata identifierfield identifier field methodmetadata metadata identifieraccessormethod identifier accessor methodmetadata metadata versionaccessormethod version accessor methodmetadata metadata persistmethod persist methodmetadata metadata mergemethod merge methodmetadata metadata removemethod remove methodmetadata metadata findallmethod find methodmetadata metadata findmethod find methodmetadata metadata countmethod count methodmetadata metadata findentriesmethod find entries list findernames finder names isrooidentifier roo identifier list fieldmetadata field metadata rooidentifierfields roo identifier fields
+MTHSIG1	getidentifierfield identifier field
+PACKAGE	springframework roo addon web mvc controller details
+MTHSIG2	getidentifieraccessormethod identifier accessor
+MTHSIG3	getversionaccessormethod version accessor
+MTHSIG8	getfindmethod find
+MTHSIG9	getcountmethod count
+MTHSIG13	getrooidentifierfields roo identifier fields
+MTHSIG11	getfindernames finder names
+MTHSIG12	isrooidentifier roo identifier
+CLASSES	javatypepersistencemetadatadetails type persistence metadata details
+METHODS	javatypepersistencemetadatadetails type persistence metadata details getidentifierfield identifier field getidentifieraccessormethod identifier accessor getversionaccessormethod version accessor getpersistmethod persist getmergemethod merge getremovemethod remove getfindallmethod find getfindmethod find getcountmethod count getfindentriesmethod find entries getfindernames finder names isrooidentifier roo identifier getrooidentifierfields roo identifier fields
+MTHSIG10	getfindentriesmethod find entries
+VARIABLES	identifierfield identifier field identifieraccessormethod identifier accessor versionaccessormethod version accessor persistmethod persist mergemethod merge removemethod remove findallmethod find findmethod find countmethod count findentriesmethod find entries findernames finder names isrooidentifier roo identifier rooidentifierfields roo identifier fields identifierfield identifier field identifieraccessormethod identifier accessor versionaccessormethod version accessor persistmethod persist mergemethod merge removemethod remove findallmethod find findmethod find countmethod count findentriesmethod find entries findernames finder names isrooidentifier roo identifier rooidentifierfields roo identifier fields

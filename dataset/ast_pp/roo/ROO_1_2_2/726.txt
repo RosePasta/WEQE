@@ -1,0 +1,28 @@
+VARSIG7	mid
+VARSIG6	javatype type javatype type
+VARSIG9	modulefilepath module file path
+VARSIG8	typefilepath type file path
+VARSIG3	classorinterfacetypedetails type details cid
+VARSIG2	typefilepath type file path
+VARSIG5	javatype type javatype type
+VARSIG4	pom pom
+COMMENTS	
+VARSIG1	typeidentifier type identifier
+VARSIG0	typefilepath type file path
+MTHSIG4	getalltypes types
+MTHSIG5	getphysicaltypeidentifier physical type identifier javatype type javatype type
+VARSIG11	typeidentifier type identifier
+MTHSIG6	gettypedetails type details mid
+VARSIG10	simpletypename simple type
+MTHSIG7	gettypeidfromtypefilepath type type file path typefilepath type file path
+MTHSIG0	cachefilepathagainsttypeidentifier cache file path type identifier typefilepath type file path typeidentifier type identifier
+MTHSIG1	cachetype cache type typefilepath type file path classorinterfacetypedetails type details cid
+PACKAGE	springframework roo classpath
+MTHSIG2	cachetypeagainstmodule cache type module pom pom javatype type javatype type
+MTHSIG3	getalltypeidentifiers type identifiers
+MTHSIG8	gettypenamesformodulefilepath type names module file path modulefilepath module file path
+MTHSIG9	gettypesforsimpletypename types simple type simpletypename simple type
+CLASSES	typecacheimpl type cache impl
+METHODS	cachefilepathagainsttypeidentifier cache file path type identifier cachetype cache type cachetypeagainstmodule cache type module getalltypeidentifiers type identifiers getalltypes types getphysicaltypeidentifier physical type identifier gettypedetails type details gettypeidfromtypefilepath type type file path gettypenamesformodulefilepath type names module file path gettypesforsimpletypename types simple type removetype remove type
+MTHSIG10	removetype remove type typeidentifier type identifier
+VARIABLES	typefilepath type file path typeidentifier type identifier typefilepath type file path cid pom javatype type javatype type mid typefilepath type file path modulefilepath module file path simpletypename simple type typeidentifier type identifier midtotypedetailsmap mid type details map modulefilepathtotypenamesmap module file path type names map simpletypenametypesmap simple type types map typefilepathtomidmap type file path mid map typeidentifiertofilepathmap type identifier file path map typenametomidmap type mid map typenametomodulefilepathmap type module file path map typenametomodulenamemap type module map types fullyqualifiedtypename fully qualified type simpletypename simple type cid filepath file path

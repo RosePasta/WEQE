@@ -1,0 +1,65 @@
+MTHSIG26	version extra
+MTHSIG24	setpromptpath set prompt path path overridestyle override style
+MTHSIG25	settailor set tailor tailor tailor
+MTHSIG22	script file script linenumbers numbers
+MTHSIG23	setpromptpath set prompt path path
+MTHSIG4	executecommand execute command
+MTHSIG5	executecommandimpl execute command impl
+MTHSIG6	executescriptline execute script
+VARSIG32	clioption cli option key special version flags extra
+MTHSIG7	findresources find resources path
+VARSIG31	tailor tailor
+MTHSIG0	versioninfo version info
+MTHSIG1	blockcommentbegin block comment
+PACKAGE	springframework roo shell
+MTHSIG2	blockcommentfinish block comment finish
+MTHSIG3	
+MTHSIG20	props
+MTHSIG21	valuetoround numberofdecimalplaces number decimal places
+MTHSIG8	flash level level message slot
+VARSIG30	overridestyle override style
+MTHSIG9	flashcustom flash custom
+CLASSES	abstractshell shell
+VARSIG29	path
+VARSIG28	path
+METHODS	versioninfo version info blockcommentbegin block comment blockcommentfinish block comment finish executecommand execute command executecommandimpl execute command impl executescriptline execute script findresources find resources flash flashcustom flash custom getexecutionstrategy execution strategy getexitshellrequest exit shell request gethome gethomeasstring getparser parser getshellprompt shell prompt inlinecomment inline comment logcommandifrequired log command required logcommandtooutput log command output openscript open script props script setpromptpath set prompt path setpromptpath set prompt path settailor set tailor version
+VARSIG23	numberofdecimalplaces number decimal places
+VARSIG22	valuetoround
+VARSIG21	entry object object entry
+VARSIG20	ioexception exception
+VARSIG27	ioexception exception
+VARSIG26	
+VARSIG25	clioption cli option key linenumbers numbers mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified display numbers executing script linenumbers numbers
+VARSIG24	clioption cli option key file file locate execute mandatory file script
+VARSIG7	object
+VARSIG6	interruptedexception interrupted exception ignore
+VARSIG9	exception
+VARSIG8	runtimeexception runtime exception
+VARSIG3	
+VARSIG2	ioexception exception
+VARSIG5	
+VARSIG4	command
+COMMENTS	base link shell implementation fields don rename api changed sts determine bundle version attempt bundle version version manifest gettailor tailor transform input command execute outputs sequentially runs command control caller command command attempted wait support simple block comments single pair support inline comments start valid command options http helloworld fail roo support roo convert tab characters whitespace roo processmanager process manager chance close threads osgi framework terminated roo rely execution strategy log execute single script overridden classes pre process script lines returns classpath resources path path path search search can performed simple implementation link flash level simply displays message logger recommended shell implementations override effective approach obtains directory current shell instance note calls link gethomeasstring subclasses provide directory location environment specific strategies path link gethomeasstring exists refers directory directory returned path link gethomeasstring exists refers file exception thrown path link gethomeasstring exist created directory fails exception thrown directory current shell instance guaranteed exist directory subclass log execution formed command invoked command completed command returned returned exception note attempted commands formed missing mandatory argument presented command execution attempted cases invoked attempt execute command implementations specially handling script commands indicating command successful implementations behave consistently link abstractshell shell subclasses encouraged simply override link logcommandtooutput log command output override fine tune output logic parsed comments removed successful command successful subclass write logged command form output frees subclasses needing implement logic link logcommandifrequired log command required implementations invoke link getexitshellrequest exit shell request monitor attempts exit shell release resources output log files processedline processed appended type output excluding character opens script reading script script read required input stream find script classloader handle search failure handle search file simply abort script processing wrong base implementation link shell setpromptpath set prompt path designed simple shell implementations advanced implementations support ansi codes override set link shellprompt shell prompt variable path set empty formatted special ansi codes implementation link shell setpromptpath set prompt path satisfy sts compatibility path set empty overridestyle override style
+VARSIG19	filenotfoundexception file exception fnfe
+VARSIG1	urisyntaxexception uri syntax exception ignoreandmoveon ignore move
+VARSIG18	file script
+VARSIG0	ioexception exception ignoreandmoveon ignore move
+VARSIG17	processedline processed
+VARSIG12	level level
+VARSIG11	path
+VARSIG10	
+VARSIG16	successful
+VARSIG15	
+VARSIG14	slot
+VARSIG13	message
+MTHSIG17	logcommandifrequired log command required successful
+MTHSIG18	logcommandtooutput log command output processedline processed
+MTHSIG15	getshellprompt shell prompt
+MTHSIG16	inlinecomment inline comment
+MTHSIG13	gethomeasstring
+MTHSIG14	getparser parser
+MTHSIG11	getexitshellrequest exit shell request
+MTHSIG12	gethome
+MTHSIG19	openscript open script file script
+MTHSIG10	getexecutionstrategy execution strategy
+VARIABLES	ignoreandmoveon ignore move ignoreandmoveon ignore move command ignore path level message slot successful processedline processed script fnfe entry valuetoround numberofdecimalplaces number decimal places script linenumbers numbers path path overridestyle override style tailor extra slot roo prompt completionkeys completion shellprompt shell prompt bundleversion bundle version gitcommithash git commit hash jarfile jar file classcontainer container manifestentry manifest entry manifest logger inblockcomment block comment exitshellrequest exit shell request tailor commands executionstrategy execution strategy flashedmessage flashed message parseresult parse result lhs result roohome roo urls data multiplicationfactor multiplication factor interestedinzerodps interested startednanoseconds started nanoseconds inputstream input stream success executiondurationinseconds execution duration seconds

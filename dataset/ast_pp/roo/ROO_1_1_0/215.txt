@@ -1,0 +1,32 @@
+VARSIG7	signedby signed
+VARSIG6	pgpkey pgp key
+VARSIG9	url
+VARSIG8	size
+VARSIG3	description
+VARSIG2	
+VARSIG5	version
+VARSIG4	lastupdated updated
+COMMENTS	thread safe container addon
+VARSIG1	ranking
+VARSIG0	bsn
+MTHSIG4	getdescription description
+MTHSIG5	getlastupdated updated
+VARSIG11	object obj
+MTHSIG6	getversion version
+VARSIG10	map commands
+MTHSIG7	getpgpkey pgp key
+MTHSIG0	addonbundleinfo add bundle info bsn ranking description lastupdated updated version pgpkey pgp key signedby signed size url map commands
+MTHSIG1	getbsn bsn
+PACKAGE	springframework roo addon roobot client
+MTHSIG2	getranking ranking
+MTHSIG3	getname
+MTHSIG8	getsignedby signed
+MTHSIG9	getsize size
+MTHSIG13	equals object obj
+MTHSIG14	tostring
+MTHSIG11	getcommands commands
+MTHSIG12	hashcode hash code
+CLASSES	addonbundleinfo add bundle info
+METHODS	addonbundleinfo add bundle info getbsn bsn getranking ranking getname getdescription description getlastupdated updated getversion version getpgpkey pgp key getsignedby signed getsize size geturl url getcommands commands hashcode hash code equals tostring
+MTHSIG10	geturl url
+VARIABLES	bsn ranking description lastupdated updated version pgpkey pgp key signedby signed size url commands obj bsn ranking description lastupdated updated version pgpkey pgp key signedby signed size url commands prime result

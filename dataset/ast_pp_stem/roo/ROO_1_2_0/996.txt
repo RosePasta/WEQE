@@ -1,0 +1,28 @@
+VARSIG7	patidxtmp pat idx tmp 
+VARSIG6	validxend val idx 
+VARSIG8	 
+VARSIG3	curlyidxstart curli idx start 
+VARSIG2	map uritemplatevari uri templat variabl 
+VARSIG5	validxstart val idx start 
+VARSIG4	curlyidxend curli idx 
+COMMENTS	helper link antpathmatch ant path matcher test match pattern pattern special charact charact charact uri templat pattern field construct instanc antpatchstringmatch ant patch matcher entri point match pattern process pattern star padidxstart pad idx start patidxend pat idx point find pattern padidxstart pad idx start padidxtmp pad idx tmp str stridxstart str idx start stridxend str idx star skip pattern size charact mismatch match pattern 
+VARSIG1	str 
+VARSIG0	pattern 
+MTHSIG4	findnextstarorcurli find star curli 
+MTHSIG5	findclosingcurli find close curli 
+MTHSIG6	onlystarsleft star left 
+MTHSIG7	allcharsus char 
+MTHSIG0	antpatchstringmatch ant patch matcher pattern str map uritemplatevari uri templat variabl 
+MTHSIG1	addtemplatevari add templat variabl curlyidxstart curli idx start curlyidxend curli idx validxstart val idx start validxend val idx 
+PACKAGE	springframework roo support ant 
+MTHSIG2	matchstr match string 
+MTHSIG3	consecutivestar consecut star patidxtmp pat idx tmp 
+MTHSIG8	shortcutposs shortcut 
+MTHSIG9	doshortcut shortcut 
+MTHSIG13	matchafterlaststarorcurli match star curli 
+MTHSIG11	patterncontainsonetemplatevari pattern templat variabl 
+MTHSIG12	matchbeforefirststarorcurli match star curli 
+CLASSES	antpatchstringmatch ant patch matcher 
+METHODS	antpatchstringmatch ant patch matcher addtemplatevari add templat variabl matchstr match string consecutivestar consecut star findnextstarorcurli find star curli findclosingcurli find close curli onlystarsleft star left allcharsus char shortcutposs shortcut doshortcut shortcut patterncontainsonlystar pattern star patterncontainsonetemplatevari pattern templat variabl matchbeforefirststarorcurli match star curli matchafterlaststarorcurli match star curli 
+MTHSIG10	patterncontainsonlystar pattern star 
+VARIABLES	pattern str uritemplatevari uri templat variabl curlyidxstart curli idx start curlyidxend curli idx validxstart val idx start validxend val idx patidxtmp pat idx tmp patarr pat arr strarr str arr patidxstart pat idx start patidxend pat idx stridxstart str idx start stridxend str idx uritemplatevari uri templat variabl varnam varvalu patidxtmp pat idx tmp patlength pat length strlength str length foundidx idx 

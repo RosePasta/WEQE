@@ -1,0 +1,27 @@
+VARSIG7	clioption cli option key command optioncontext option context availablecommands commands command provide buffer
+VARSIG6	componentcontext component context context
+VARSIG9	commandmarker command marker
+VARSIG8	addonsearch add search
+VARSIG3	converter
+VARSIG2	commandmarker command marker
+VARSIG5	buffer
+VARSIG4	logger logger
+COMMENTS	osgi component launcher link simpleparser simple parser auto detection includes commandmarker command marker unacceptable circular dependency ourself decide command asked truncate option silent console message free lookup matches render screen required
+VARSIG1	addonsearch add search
+VARSIG0	componentcontext component context context
+MTHSIG4	commandnotfound command logger logger buffer
+MTHSIG5	deactivate componentcontext component context context
+MTHSIG6	helpreferenceguide reference guide
+VARSIG10	converter
+MTHSIG7	obtainhelp buffer
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	bindaddonsearch bind add search addonsearch add search
+PACKAGE	springframework roo shell osgi
+MTHSIG2	bindcommand bind command commandmarker command marker
+MTHSIG3	bindconverter bind converter converter
+MTHSIG8	unbindaddonsearch unbind add search addonsearch add search
+MTHSIG9	unbindcommand unbind command commandmarker command marker
+CLASSES	simpleparsercomponent simple parser component
+METHODS	activate bindaddonsearch bind add search bindcommand bind command bindconverter bind converter commandnotfound command deactivate helpreferenceguide reference guide obtainhelp unbindaddonsearch unbind add search unbindcommand unbind command unbindconverter unbind converter
+MTHSIG10	unbindconverter unbind converter converter
+VARIABLES	context logger buffer context buffer addonsearch add search command firstdash dash matches

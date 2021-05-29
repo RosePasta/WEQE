@@ -1,0 +1,52 @@
+MTHSIG4	getdeclaredtypeannotation declared type annotation memberdetails member details memberdetails member details javatype type type
+VARSIG34	list javatype type parameters
+MTHSIG5	getmethod memberdetails member details memberdetails member details javasymbolname symbol methodname list javatype type parameters
+VARSIG33	javasymbolname symbol methodname
+MTHSIG6	getannotationoftype annotation type list annotationmetadata annotation metadata annotations javatype type type
+VARSIG32	classorinterfacetypedetails type details classorinterfacetypedetails type details
+MTHSIG7	gettypeannotation type annotation classorinterfacetypedetails type details classorinterfacetypedetails type details javatype type annotationtype annotation type
+VARSIG31	fieldmetadata field metadata field
+MTHSIG0	getdeclaredfield declared field memberholdingtypedetails member holding type details memberholdingtypedetails member holding type details javasymbolname symbol fieldname field
+MTHSIG1	getdeclaredmethod declared memberholdingtypedetails member holding type details memberholdingtypedetails member holding type details javasymbolname symbol methodname list javatype type parameters
+PACKAGE	springframework roo classpath details
+MTHSIG2	getdeclaredconstructor declared constructor memberholdingtypedetails member holding type details memberholdingtypedetails member holding type details list javatype type parameters
+MTHSIG3	getdeclaredtypeannotation declared type annotation memberholdingtypedetails member holding type details memberholdingtypedetails member holding type details javatype type type
+MTHSIG8	getmethods methods classorinterfacetypedetails type details classorinterfacetypedetails type details
+VARSIG30	javatype type annotation
+MTHSIG9	getfield field classorinterfacetypedetails type details classorinterfacetypedetails type details javasymbolname symbol fieldname field
+CLASSES	memberfindingutils member finding utils
+VARSIG29	classorinterfacetypedetails type details classorinterfacetypedetails type details
+VARSIG28	javasymbolname symbol fieldname field
+METHODS	getdeclaredfield declared field getdeclaredmethod declared getdeclaredconstructor declared constructor getdeclaredtypeannotation declared type annotation getdeclaredtypeannotation declared type annotation getmethod getannotationoftype annotation type gettypeannotation type annotation getmethods methods getfield field getfieldswithannotation fields annotation getmethod
+VARSIG23	classorinterfacetypedetails type details classorinterfacetypedetails type details
+VARSIG22	annotationmetadata annotation metadata
+VARSIG21	javatype type type
+VARSIG20	list annotationmetadata annotation metadata annotations
+VARSIG27	classorinterfacetypedetails type details classorinterfacetypedetails type details
+VARSIG26	methodmetadata metadata methods
+VARSIG25	classorinterfacetypedetails type details classorinterfacetypedetails type details
+VARSIG24	javatype type annotationtype annotation type
+VARSIG7	memberholdingtypedetails member holding type details memberholdingtypedetails member holding type details
+VARSIG6	methodmetadata metadata
+VARSIG9	constructormetadata constructor metadata constructor
+VARSIG8	list javatype type parameters
+VARSIG3	memberholdingtypedetails member holding type details memberholdingtypedetails member holding type details
+VARSIG2	fieldmetadata field metadata field
+VARSIG5	list javatype type parameters
+VARSIG4	javasymbolname symbol methodname
+COMMENTS	utility methods finding members link memberholdingtypedetails member holding type details instances locates field memberholdingtypedetails member holding type details link memberholdingtypedetails member holding type details search required fieldname field locate required field locates memberholdingtypedetails member holding type details link memberholdingtypedetails member holding type details search required methodname locate required parameters locate parameters locates constructor memberholdingtypedetails member holding type details link memberholdingtypedetails member holding type details search required parameters locate parameters constructor locates type level annotation memberholdingtypedetails member holding type details link memberholdingtypedetails member holding type details search required type locate required annotation locates type level annotation memberdetails member details link memberdetails member details search required type locate required annotation locates parameter signature presented searches link memberdetails member details located memberdetails member details search required methodname locate required parameters parameter signature locate parameters required located locates annotation type list annotations annotations search required type locate required annotation locates annotation superclasses classorinterfacetypedetails type details search required annotationtype annotation type annotation locate required annotation locates methods superclasses classorinterfacetypedetails type details search required methods searches inheritance hierarchy field located classorinterfacetypedetails type details search required fieldname field locate required field searches inheritance hierarchy locates declared fields annotated annotation classorinterfacetypedetails type details search required annotation locate required located fields empty annotation field searches inheritance hierarchy parameters located classorinterfacetypedetails type details search required methodname locate required parameters locate parameters
+VARSIG19	memberholdingtypedetails member holding type details memberholdingtypedetails member holding type details
+VARSIG1	javasymbolname symbol fieldname field
+VARSIG18	list javatype type parameters
+VARSIG0	memberholdingtypedetails member holding type details memberholdingtypedetails member holding type details
+VARSIG17	javasymbolname symbol methodname
+VARSIG12	annotationmetadata annotation metadata
+VARSIG11	javatype type type
+VARSIG10	memberholdingtypedetails member holding type details memberholdingtypedetails member holding type details
+VARSIG16	memberdetails member details memberdetails member details
+VARSIG15	memberholdingtypedetails member holding type details memberholdingtypedetails member holding type details
+VARSIG14	javatype type type
+VARSIG13	memberdetails member details memberdetails member details
+MTHSIG11	getmethod classorinterfacetypedetails type details classorinterfacetypedetails type details javasymbolname symbol methodname list javatype type parameters
+MTHSIG10	getfieldswithannotation fields annotation classorinterfacetypedetails type details classorinterfacetypedetails type details javatype type annotation
+VARIABLES	memberholdingtypedetails member holding type details fieldname field field memberholdingtypedetails member holding type details methodname parameters memberholdingtypedetails member holding type details parameters constructor memberholdingtypedetails member holding type details type memberdetails member details type memberholdingtypedetails member holding type details memberdetails member details methodname parameters memberholdingtypedetails member holding type details annotations type classorinterfacetypedetails type details annotationtype annotation type classorinterfacetypedetails type details methods classorinterfacetypedetails type details fieldname field classorinterfacetypedetails type details annotation field classorinterfacetypedetails type details methodname parameters current result result current current result result current current result

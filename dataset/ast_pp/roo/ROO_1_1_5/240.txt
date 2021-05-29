@@ -1,0 +1,24 @@
+VARSIG7	classorinterfacetypedetails type details managedbean managed bean
+VARSIG6	itdfilename filename
+VARSIG9	javatype type javatype type
+VARSIG8	metadataidentificationstring metadata identification
+VARSIG3	metadataidentificationstring metadata identification
+VARSIG2	upstreamdependency upstream dependency
+VARSIG5	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG4	javatype type aspectname aspect
+COMMENTS	implementation link jsfmenubeanmetadataprovider jsf menu bean metadata provider stores mid accepted jsfmenubeanmetadataprovider jsf menu bean metadata provider application wide menu bean jsfmanagedbeanmetadata jsf managed bean metadata upstream mid changed time don mid javatype type wasn jsfmanagedbeanmetadata jsf managed bean metadata superclass handle expected physicaltypeidentifier physical type identifier notification that registered receive governor menubean menu bean let create
+CLASSES	jsfmenubeanmetadataproviderimpl jsf menu bean metadata provider impl
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+METHODS	activate deactivate resolvedownstreamdependencyidentifier resolve downstream dependency identifier getmetadata metadata getitduniquenessfilenamesuffix uniqueness filename suffix getgovernorphysicaltypeidentifier governor physical type identifier createlocalidentifier create local identifier getprovidestype type
+MTHSIG4	getitduniquenessfilenamesuffix uniqueness filename suffix
+MTHSIG5	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+MTHSIG6	createlocalidentifier create local identifier javatype type javatype type path path
+VARSIG10	path path
+MTHSIG7	getprovidestype type
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo addon jsf
+MTHSIG2	resolvedownstreamdependencyidentifier resolve downstream dependency identifier upstreamdependency upstream dependency
+MTHSIG3	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+VARIABLES	context context upstreamdependency upstream dependency metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename managedbean managed bean metadataidentificationstring metadata identification javatype type path typelocationservice type location service projectoperations project operations menubeanmid menu bean mid managedbeans managed beans projectmetadata project metadata javatype type path

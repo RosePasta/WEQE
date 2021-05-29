@@ -1,0 +1,32 @@
+VARSIG7	exception
+VARSIG6	displayonly display
+VARSIG9	javapackage destinationpackage destination
+VARSIG8	set schema schemas
+VARSIG3	database database
+VARSIG2	view
+VARSIG5	file file
+VARSIG4	set schema schemas
+COMMENTS	implementation link dbreoperations dbre operations force refresh database actual jdbc connection force refresh database actual jdbc connection update pom xml add exclusion dbre xml file maven war plugin change persistence xml file prevent tables created dropped project web project exit exclude element exit create required elements populate required text clean xml write updated pom
+VARSIG19	
+VARSIG1	file file
+VARSIG18	
+VARSIG0	set schema schemas
+VARSIG17	element propertyelement property element
+MTHSIG4	setpropertyvalue set property element root element propertyelement property element
+VARSIG12	set includetables include tables
+MTHSIG5	updatepersistencexml update persistence xml
+VARSIG11	view
+MTHSIG6	updatepom update pom
+VARSIG10	testautomatically test automatically
+MTHSIG0	displaydatabasemetadata display database metadata set schema schemas file file view
+VARSIG16	element root
+MTHSIG1	isdbreinstallationpossible dbre installation
+VARSIG15	activerecord active record
+PACKAGE	springframework roo addon dbre
+MTHSIG2	outputschemaxml output schema xml database database set schema schemas file file displayonly display
+VARSIG14	includenonportableattributes include portable attributes
+MTHSIG3	reverseengineerdatabase reverse engineer database set schema schemas javapackage destinationpackage destination testautomatically test automatically view set includetables include tables set excludetables exclude tables includenonportableattributes include portable attributes activerecord active record
+VARSIG13	set excludetables exclude tables
+CLASSES	dbreoperationsimpl dbre operations impl
+METHODS	displaydatabasemetadata display database metadata isdbreinstallationpossible dbre installation outputschemaxml output schema xml reverseengineerdatabase reverse engineer database setpropertyvalue set property updatepersistencexml update persistence xml updatepom update pom
+VARIABLES	schemas file view database schemas file displayonly display schemas destinationpackage destination testautomatically test automatically view includetables include tables excludetables exclude tables includenonportableattributes include portable attributes activerecord active record root propertyelement property element logger dbremodelservice dbre model service filemanager file manager pathresolver path resolver projectoperations project operations database document outputstream output stream database changed persistencepath persistence path document root providerelement provider element provider propertyelement property element changed pom document root warpluginxpath war plugin path warpluginelement war plugin element excludeelement exclude element configurationelement configuration element webresourceselement web resources element resourceelement resource element excludeselement excludes element directoryelement directory element

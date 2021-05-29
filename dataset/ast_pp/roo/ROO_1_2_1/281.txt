@@ -1,0 +1,15 @@
+COMMENTS	unit test link entitylayerprovider entity layer provider maps supported entity methods test parameter names fixture set invoke check set invoke check set invoke check set invoke check set invoke check invoke check
+CLASSES	entitylayerprovidertest entity layer provider test
+VARSIG0	plural
+METHODS	setup set setupmockannotationvalues set mock annotation values setupplural set plural testgetadditionsforbogusmethod test additions bogus testgetadditionsformethodannotatedwithemptyname test additions annotated empty testgetadditionsformethodannotatedwithnonemptyname test additions annotated empty testgetadditionswhenentityannotationvaluesnotavailable test additions entity annotation values testgetadditionswhengovernorpluralisempty test additions governor plural empty testgetadditionswhengovernorpluralmetadataisnull test additions governor plural metadata
+MTHSIG4	testgetadditionsformethodannotatedwithemptyname test additions annotated empty
+MTHSIG5	testgetadditionsformethodannotatedwithnonemptyname test additions annotated empty
+MTHSIG6	testgetadditionswhenentityannotationvaluesnotavailable test additions entity annotation values
+MTHSIG7	testgetadditionswhengovernorpluralisempty test additions governor plural empty
+MTHSIG0	setup set
+MTHSIG1	setupmockannotationvalues set mock annotation values
+PACKAGE	springframework roo addon jpa activerecord
+MTHSIG2	setupplural set plural plural
+MTHSIG3	testgetadditionsforbogusmethod test additions bogus
+VARIABLES	plural caller mid methods layerprovider layer provider mockannotationvalues mock annotation values mockidtype mock type mockjpaactiverecordmetadataprovider mock jpa active record metadata provider mockmetadataservice mock metadata service mockpluralmetadata mock plural metadata mocktargetentity mock target entity mocktypelocationservice mock type location service pluralid plural additions additions additions additions additions additions
+MTHSIG8	testgetadditionswhengovernorpluralmetadataisnull test additions governor plural metadata

@@ -1,0 +1,150 @@
+MTHSIG28	getmostspecificmethod specific targetclass target
+MTHSIG29	isoverridable overridable targetclass target
+MTHSIG26	getmethodcountforname count clazz methodname
+MTHSIG27	hasatleastonemethodwithname clazz methodname
+MTHSIG24	hasmethod clazz methodname parametertypes parameter types
+MTHSIG25	getmethodifavailable clazz methodname parametertypes parameter types
+MTHSIG22	hasconstructor constructor clazz parametertypes parameter types
+MTHSIG23	getconstructorifavailable constructor clazz parametertypes parameter types
+MTHSIG4	forname classloader loader classloader loader
+VARSIG78	collection classes
+MTHSIG5	resolveclassname resolve classname classloader loader classloader loader
+VARSIG77	classes
+MTHSIG6	resolveprimitiveclassname resolve primitive
+VARSIG76	clazz
+MTHSIG7	ispresent classname
+VARSIG75	resourcename resource
+MTHSIG0	registercommonclasses register common classes commonclasses common classes
+MTHSIG1	getdefaultclassloader loader
+MTHSIG2	overridethreadcontextclassloader override thread context loader classloader loader classloadertouse loader
+MTHSIG3	forname
+VARSIG79	object instance
+MTHSIG20	getdescriptivetype descriptive type object
+VARSIG70	type
+MTHSIG21	matchestypename matches type clazz typename type
+MTHSIG8	ispresent classname classloader loader classloader loader
+VARSIG74	clazz
+MTHSIG9	getuserclass user object instance
+VARSIG73	classname
+VARSIG72	resourcepath resource path
+VARSIG71	object
+MTHSIG39	convertclassnametoresourcepath convert resource path classname
+MTHSIG37	isassignablevalue assignable type object
+MTHSIG38	convertresourcepathtoclassname convert resource path resourcepath resource path
+MTHSIG35	resolveprimitiveifnecessary resolve primitive clazz
+MTHSIG36	isassignable assignable lhstype lhs type rhstype rhs type
+MTHSIG33	isprimitivearray primitive array clazz
+MTHSIG34	isprimitivewrapperarray primitive wrapper array clazz
+METHODS	registercommonclasses register common classes getdefaultclassloader loader overridethreadcontextclassloader override thread context loader forname forname resolveclassname resolve resolveprimitiveclassname resolve primitive ispresent ispresent getuserclass user getuserclass user iscachesafe cache safe getshortname getshortname getshortnameasproperty property getclassfilename file getpackagename getqualifiedname qualified getqualifiednameforarray qualified array getqualifiedmethodname qualified getdescriptivetype descriptive type matchestypename matches type hasconstructor constructor getconstructorifavailable constructor hasmethod getmethodifavailable getmethodcountforname count hasatleastonemethodwithname getmostspecificmethod specific isoverridable overridable getstaticmethod isprimitivewrapper primitive wrapper isprimitiveorwrapper primitive wrapper isprimitivearray primitive array isprimitivewrapperarray primitive wrapper array resolveprimitiveifnecessary resolve primitive isassignable assignable isassignablevalue assignable convertresourcepathtoclassname convert resource path convertclassnametoresourcepath convert resource path addresourcepathtopackagepath add resource path path classpackageasresourcepath resource path classnamestostring names classnamestostring names getallinterfaces interfaces getallinterfacesforclass interfaces getallinterfacesforclass interfaces getallinterfacesasset interfaces set getallinterfacesforclassasset interfaces set getallinterfacesforclassasset interfaces set createcompositeinterface create composite isvisible visible
+VARSIG67	clazz
+VARSIG66	clazz
+VARSIG65	clazz
+VARSIG64	clazz
+VARSIG69	rhstype rhs type
+VARSIG68	lhstype lhs type
+MTHSIG31	isprimitivewrapper primitive wrapper clazz
+MTHSIG32	isprimitiveorwrapper primitive wrapper clazz
+MTHSIG30	getstaticmethod clazz methodname
+VARSIG63	clazz
+VARSIG62	nosuchmethodexception exception
+VARSIG61	
+VARSIG60	methodname
+COMMENTS	miscellaneous utility methods internal framework commons lang comprehensive suite utilities springframework util typeutils type utils reflectionutils reflection utils suffix array names prefix internal array names prefix internal primitive array names separator character separator character cglib separator character file suffix map primitive wrapper type key primitive type integer map primitive type key wrapper type integer map primitive type key primitive type map common lang key efficient deserialization remote invocations register common classes classutils utils cache classloader loader typically thread context classloader loader classloader loader loaded classutils utils fallback call intend thread context classloader loader scenario absolutely classloader loader reference path resource loading forname accepts classloader loader reference classloader loader lang thread getcontextclassloader context loader access thread context classloader loader falling system loader thread context loader loader override thread context classloader loader environment environment bean classloader loader bean classloader loader equivalent thread context classloader loader classloadertouse loader actual classloader loader thread context original thread context classloader loader overridden replacement forname returns instances primitives array names loader preferably thread context loader classloader loader loaded classutils utils fallback instance supplied classnotfoundexception exception linkageerror linkage error file loaded forname classloader loader getdefaultclassloader loader spring favor classloader loader explicitly link forname classloader loader replacement forname returns instances primitives array names capable resolving names source style lang thread lang thread classloader loader loader loader instance supplied classnotfoundexception exception linkageerror linkage error file loaded forname classloader loader lang style arrays ljava lang style arrays ljava lang style arrays swallow original exception resolve instance supports primitives array names effectively equivalent forname arguments difference exceptions thrown loading failure classname classloader loader loader loader instance supplied illegalargumentexception illegal argument exception resolvable file loaded forname classloader loader resolve primitive jvm jvm naming rules primitive classes supports jvm jvm internal names primitive arrays support suffix notation primitive arrays supported link forname classloader loader primitive primitive denote primitive primitive array names sit length check worthwhile primitive determine link identified supplied loaded dependencies loaded classname check spring favor link ispresent classloader loader determine link identified supplied loaded dependencies loaded classname check classloader loader loader loader dependencies user defined instance simply instance original cglib generated subclass instance instance check user defined user defined simply original cglib generated subclass clazz check user defined check cache safe context loaded classloader loader parent clazz analyze classloader loader classloader loader cache metadata qualified classname classname illegalargumentexception illegal argument exception classname empty qualified clazz uncapitalized javabeans beans property format strips clazz rendered standard javabeans beans property format beans introspector decapitalize determine file relative clazz file file determine lang lang clazz empty defined qualified simply component type arrays clazz qualified build nice qualified array component type clazz array qualified array qualified consisting fully qualified qualified descriptive object object type simply component type arrays appended list implemented interfaces jdk proxies introspect qualified check matches user type clazz check typename type type match determine constructor signature essentially translates nosuchmethodexception exception clazz clazz analyze parametertypes parameter types parameter types constructor lang getmethod determine constructor signature essentially translates nosuchmethodexception exception clazz clazz analyze parametertypes parameter types parameter types constructor lang getconstructor constructor determine signature essentially translates nosuchmethodexception exception clazz clazz analyze methodname parametertypes parameter types parameter types lang getmethod determine signature essentially translates nosuchmethodexception exception clazz clazz analyze methodname parametertypes parameter types parameter types lang getmethod number methods argument types superclasses includes methods clazz clazz check methodname number methods superclasses methods supplied argument types includes methods clazz clazz check methodname target current reflective invocation find target ifoo foo bar target defaultfoo foo defaultfoo foo bar enables attributes note contrast link springframework aop support aoputils aop utils getmostspecificmethod specific resolve bridge methods automatically call link springframework core bridgemethodresolver bridge resolver findbridgedmethod find bridged bridge resolution desirable obtaining metadata original definition invoked targetclass target target current invocation implement specific target original targetclass target doesn implement determine overridable target check targetclass target target check methodname clazz defines parameter types illegalargumentexception illegal argument exception blank clazz check represents primitive wrapper character integer clazz check primitive wrapper check represents primitive primitive wrapper character integer clazz check primitive primitive wrapper check represents array primitives clazz check primitive array check represents array primitive wrappers character integer clazz check primitive wrapper array resolve primitive returning primitive wrapper type clazz check original primitive wrapper original primitive type check hand side type assigned left hand side type assuming setting reflection considers primitive wrapper classes assignable primitive types lhstype lhs type target type rhstype rhs type type assigned target type target type assignable type springframework util typeutils type utils isassignable assignable determine type assignable assuming setting reflection considers primitive wrapper classes assignable primitive types type target type assigned type type assignable convert based resource path based fully qualified resourcepath resource path resource path pointing fully qualified convert based fully qualified based resource path classname fully qualified resource path pointing path suitable classloader loader getresource resource suitable getresource resource prepending slash built file converting dots slashes adding trailing slash concatenating resource function build path suitable loading resource file file link springframework core classpathresource path resource convenient clazz base resourcename resource resource append leading slash optional built resource path lang classloader loader getresource resource lang getresource resource input object consists class pathname dots replaced slashes leading trailing slash result concatenated slash resource fed classloader loader getresource resource fed getresource resource leading slash prepended returned clazz input empty result empty returned path represents classloader loader getresource resource getresource resource build consists names classes interfaces array basically abstractcollection collection tostring stripping prefix classes collection objects form foo bar foo baz util abstractcollection collection tostring build consists names classes interfaces collection basically abstractcollection collection tostring stripping prefix classes collection objects form foo bar foo baz util abstractcollection collection tostring interfaces instance array including implemented superclasses instance instance analyze interfaces interfaces instance array interfaces array including implemented superclasses returned sole clazz analyze interfaces interfaces object array interfaces array including implemented superclasses returned sole clazz analyze interfaces classloader loader classloader loader interfaces visible accepting declared interfaces interfaces object array interfaces instance set including implemented superclasses instance instance analyze interfaces interfaces instance set interfaces set including implemented superclasses returned sole clazz analyze interfaces interfaces object set interfaces set including implemented superclasses returned sole clazz analyze interfaces classloader loader classloader loader interfaces visible accepting declared interfaces interfaces object set create composite interfaces implementing interfaces single implementation builds jdk proxy interfaces interfaces interfaces merge classloader loader classloader loader create composite merged lang reflect proxy getproxyclass proxy check visible classloader loader clazz check typically classloader loader classloader loader check
+VARSIG19	throwable
+VARSIG18	classloader loader classloader loader
+VARSIG17	classname
+VARSIG12	classloader loader classloader loader
+VARSIG11	classname
+VARSIG10	classnotfoundexception exception
+VARSIG16	classname
+VARSIG15	
+VARSIG14	linkageerror linkage error
+VARSIG13	classnotfoundexception exception
+VARSIG92	classnotfoundexception exception
+VARSIG91	classloader loader classloader loader
+VARSIG90	clazz
+MTHSIG17	getqualifiedname qualified clazz
+MTHSIG18	getqualifiednameforarray qualified array clazz
+MTHSIG15	getclassfilename file clazz
+MTHSIG16	getpackagename clazz
+MTHSIG13	getshortname clazz
+MTHSIG14	getshortnameasproperty property clazz
+MTHSIG11	iscachesafe cache safe clazz classloader loader classloader loader
+MTHSIG12	getshortname classname
+MTHSIG19	getqualifiedmethodname qualified
+VARSIG89	classloader loader classloader loader
+VARSIG88	interfaces
+VARSIG87	ifc
+VARSIG86	classloader loader classloader loader
+VARSIG81	clazz
+MTHSIG10	getuserclass user clazz
+VARSIG80	clazz
+VARIABLES	entry primitivetype primitive type commonclasses common classes clazz classloadertouse loader classloader loader classname classloader loader classname classname classloader loader instance clazz clazz classloader loader classname clazz clazz clazz clazz clazz clazz clazz typename type clazz parametertypes parameter types clazz parametertypes parameter types clazz methodname parametertypes parameter types clazz methodname parametertypes parameter types clazz methodname ifc clazz methodname ifc targetclass target targetclass target clazz methodname clazz clazz clazz clazz clazz lhstype lhs type rhstype rhs type type resourcepath resource path classname clazz resourcename resource clazz classes classes instance clazz clazz classloader loader instance clazz clazz classloader loader ifc interfaces classloader loader clazz classloader loader array suffix internal array prefix primitive array prefix separator separator cglib separator file suffix primitivewrappertypemap primitive wrapper type map primitivetypetowrappermap primitive type wrapper map primitivetypenamemap primitive type map commonclasscache common cache primitivetypes primitive types currentthread current thread threadcontextclassloader thread context loader clazz elementclassname element elementclass element elementname element elementclass element elementname element elementclass element classloadertouse loader lastdotindex dot innerclassname result superclass target cur lastdotindex dot nameendindex shortname shortname dotindex dot classname lastdotindex dot classname lastdotindex dot result clazz result ifcs count declaredmethods declared methods ifcs declaredmethods declared methods ifcs specificmethod specific classname packageendindex packagename clazz ifcs interfaces ifcs actualclass actual
+VARSIG85	clazz
+VARSIG84	clazz
+VARSIG83	object instance
+VARSIG82	classloader loader classloader loader
+VARSIG39	nosuchmethodexception exception
+VARSIG34	typename type
+VARSIG33	clazz
+VARSIG32	object
+VARSIG31	
+VARSIG38	parametertypes parameter types
+VARSIG37	clazz
+PACKAGE	springframework roo support util
+VARSIG36	parametertypes parameter types
+VARSIG35	clazz
+VARSIG30	clazz
+CLASSES	classutils utils
+VARSIG29	clazz
+VARSIG28	clazz
+VARSIG23	classloader loader classloader loader
+VARSIG22	clazz
+VARSIG21	clazz
+VARSIG20	object instance
+VARSIG27	clazz
+VARSIG26	clazz
+VARSIG25	clazz
+VARSIG24	classname
+VARSIG7	
+VARSIG6	
+MTHSIG48	getallinterfacesforclassasset interfaces set clazz
+VARSIG9	classnotfoundexception exception
+MTHSIG49	getallinterfacesforclassasset interfaces set clazz classloader loader classloader loader
+VARSIG8	classloader loader classloader loader
+MTHSIG46	getallinterfacesforclass interfaces clazz classloader loader classloader loader
+VARSIG3	clazz
+MTHSIG47	getallinterfacesasset interfaces set object instance
+VARSIG2	commonclasses common classes
+MTHSIG44	getallinterfaces interfaces object instance
+VARSIG5	classloader loader classloadertouse loader
+MTHSIG45	getallinterfacesforclass interfaces clazz
+VARSIG4	throwable
+VARSIG1	primitivetype primitive type
+VARSIG0	map entry entry
+VARSIG56	targetclass target
+VARSIG55	
+VARSIG54	ifc
+VARSIG53	
+VARSIG59	clazz
+VARSIG58	targetclass target
+VARSIG57	
+MTHSIG42	classnamestostring names classes
+MTHSIG43	classnamestostring names collection classes
+MTHSIG40	addresourcepathtopackagepath add resource path path clazz resourcename resource
+MTHSIG41	classpackageasresourcepath resource path clazz
+VARSIG52	methodname
+VARSIG51	clazz
+VARSIG50	ifc
+VARSIG45	parametertypes parameter types
+VARSIG44	methodname
+VARSIG43	clazz
+VARSIG42	parametertypes parameter types
+VARSIG49	
+VARSIG48	methodname
+VARSIG47	clazz
+VARSIG46	nosuchmethodexception exception
+MTHSIG51	isvisible visible clazz classloader loader classloader loader
+VARSIG41	methodname
+MTHSIG50	createcompositeinterface create composite interfaces classloader loader classloader loader
+VARSIG40	clazz

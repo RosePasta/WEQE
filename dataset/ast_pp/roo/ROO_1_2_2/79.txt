@@ -1,0 +1,39 @@
+VARSIG7	foreignschemaname foreign schema
+VARSIG6	exported
+VARSIG9	keysequence key sequence
+VARSIG8	table foreigntable foreign table
+VARSIG3	object obj
+VARSIG2	reference reference
+VARSIG5	reference reference
+VARSIG4	column column
+COMMENTS	represents database foreign key foreign key modeled link sql databasemetadata database meta data getimportedkeys imported link sql databasemetadata database meta data getexportedkeys exported methods foreign key imported exported key schema foreign table target table foreign target table sequence number key table foreign table foreign key action perform referenced row deleted action perform referenced column references local remote columns
+VARSIG1	foreigntablename foreign table
+VARSIG0	
+MTHSIG4	getforeigntable foreign table
+MTHSIG5	getforeigntablename foreign table
+VARSIG11	cascadeaction cascade action onupdate update
+MTHSIG6	getkeysequence key sequence
+VARSIG10	cascadeaction cascade action ondelete delete
+MTHSIG7	getname
+MTHSIG0	foreignkey foreign key foreigntablename foreign table
+MTHSIG1	addreference add reference reference reference
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	equals object obj
+MTHSIG3	getforeignschemaname foreign schema
+MTHSIG20	setonupdate set update cascadeaction cascade action onupdate update
+MTHSIG21	tostring
+MTHSIG8	getondelete delete
+MTHSIG9	getonupdate update
+MTHSIG17	setforeigntable set foreign table table foreigntable foreign table
+MTHSIG18	setkeysequence set key sequence keysequence key sequence
+MTHSIG15	setexported set exported exported
+MTHSIG16	setforeignschemaname set foreign schema foreignschemaname foreign schema
+MTHSIG13	haslocalcolumn local column column column
+MTHSIG14	isexported exported
+MTHSIG11	getreferences references
+MTHSIG12	hashcode hash code
+CLASSES	foreignkey foreign key
+METHODS	foreignkey foreign key addreference add reference equals getforeignschemaname foreign schema getforeigntable foreign table getforeigntablename foreign table getkeysequence key sequence getname getondelete delete getonupdate update getreferencecount reference count getreferences references hashcode hash code haslocalcolumn local column isexported exported setexported set exported setforeignschemaname set foreign schema setforeigntable set foreign table setkeysequence set key sequence setondelete set delete setonupdate set update tostring
+MTHSIG19	setondelete set delete cascadeaction cascade action ondelete delete
+MTHSIG10	getreferencecount reference count
+VARIABLES	foreigntablename foreign table reference obj column reference exported foreignschemaname foreign schema foreigntable foreign table keysequence key sequence ondelete delete onupdate update exported foreignschemaname foreign schema foreigntable foreign table foreigntablename foreign table keysequence key sequence ondelete delete onupdate update references prime result

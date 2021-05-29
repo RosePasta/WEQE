@@ -1,0 +1,14 @@
+VARSIG3	map option 
+VARSIG2	viewnam view 
+VARSIG4	url 
+COMMENTS	provid emb photo galleri url specif instal expect http picasaweb googl stsmedia sydneybynight sydnei night expect http flickr photo 
+CLASSES	photoembeddedprovid photo embed provid 
+VARSIG1	viewnam view 
+VARSIG0	url 
+METHODS	emb instal getpicasaid picasa tostr 
+MTHSIG0	emb url viewnam view 
+MTHSIG1	instal viewnam view map option 
+PACKAGE	springframework roo addon web mvc embed provid 
+MTHSIG2	getpicasaid picasa url 
+MTHSIG3	tostr 
+VARIABLES	url viewnam view viewnam view option url split option split option provid userid user albumid album photo json subdoc doc photoprovid photo provid tsc 

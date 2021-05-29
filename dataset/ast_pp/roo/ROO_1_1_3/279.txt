@@ -1,0 +1,45 @@
+VARSIG7	methodmetadata metadata versionaccessormethod version accessor
+VARSIG6	methodmetadata metadata identifieraccessormethod identifier accessor
+VARSIG9	methodmetadata metadata findmethod find
+VARSIG8	methodmetadata metadata countmethod count
+VARSIG3	projectmetadata project metadata projectmetadata project metadata
+VARSIG2	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG5	dataondemandmetadata data demand metadata dataondemandmetadata data demand metadata
+VARSIG4	integrationtestannotationvalues integration test annotation values annotationvalues annotation values
+COMMENTS	metadata link roointegrationtest roo integration test add gae localservicetesthelper local service test helper instance beforeclass afterclass methods gae enabled adds junit unit spring type level annotations needed add runwith springjunit classrunner spring junit runner annotation type user define governor add contextconfiguration context configuration classpath applicationcontext application context xml annotation type user define governor add transactional user define governor add data demand field user define governor add field add gae test helper field user define governor add field initialise parameters setup set teardown tear methods prepare setup set signature add prepare teardown tear signature add test count requested user prepare signature test find requested user prepare signature test find requested user core dependencies missing prepare signature test find entries requested user core dependencies missing prepare signature test flush requested user core dependencies missing prepare signature test merge requested user core dependencies missing prepare signature test persist requested user prepare signature test persist requested user core dependencies prepare signature annotation values link roointegrationtest roo integration test metadata invalid
+VARSIG19	metadataidentificationstring metadata identification
+VARSIG1	javatype type aspectname aspect
+VARSIG18	path path
+VARSIG0	identifier
+VARSIG17	javatype type javatype type
+MTHSIG4	getfindmethodtest find test
+VARSIG12	methodmetadata metadata flushmethod flush
+MTHSIG5	getfindallmethodtest find test
+VARSIG11	methodmetadata metadata findentriesmethod find entries
+MTHSIG6	getfindentriesmethodtest find entries test
+VARSIG10	methodmetadata metadata findallmethod find
+MTHSIG7	getflushmethodtest flush test
+MTHSIG0	integrationtestmetadata integration test metadata identifier javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata projectmetadata project metadata projectmetadata project metadata integrationtestannotationvalues integration test annotation values annotationvalues annotation values dataondemandmetadata data demand metadata dataondemandmetadata data demand metadata methodmetadata metadata identifieraccessormethod identifier accessor methodmetadata metadata versionaccessormethod version accessor methodmetadata metadata countmethod count methodmetadata metadata findmethod find methodmetadata metadata findallmethod find methodmetadata metadata findentriesmethod find entries methodmetadata metadata flushmethod flush methodmetadata metadata mergemethod merge methodmetadata metadata persistmethod persist methodmetadata metadata removemethod remove hasembeddedidentifier embedded identifier
+VARSIG16	hasembeddedidentifier embedded identifier
+MTHSIG1	addrequiredintegrationtestclassintroductions add required integration test introductions
+VARSIG15	methodmetadata metadata removemethod remove
+PACKAGE	springframework roo addon test
+MTHSIG2	addoptionalintegrationtestclassintroductions add optional integration test introductions
+VARSIG14	methodmetadata metadata persistmethod persist
+MTHSIG3	getcountmethodtest count test
+VARSIG13	methodmetadata metadata mergemethod merge
+MTHSIG8	getmergemethodtest merge test
+MTHSIG9	getpersistmethodtest persist test
+MTHSIG17	isvalid valid metadataidentificationstring metadata identification
+MTHSIG15	getjavatype type metadataidentificationstring metadata identification
+MTHSIG16	getpath path metadataidentificationstring metadata identification
+MTHSIG13	getmetadataidentifertype metadata identifer type
+MTHSIG14	createidentifier create identifier javatype type javatype type path path
+MTHSIG11	getannotationvalues annotation values
+MTHSIG12	tostring
+CLASSES	integrationtestmetadata integration test metadata
+METHODS	integrationtestmetadata integration test metadata addrequiredintegrationtestclassintroductions add required integration test introductions addoptionalintegrationtestclassintroductions add optional integration test introductions getcountmethodtest count test getfindmethodtest find test getfindallmethodtest find test getfindentriesmethodtest find entries test getflushmethodtest flush test getmergemethodtest merge test getpersistmethodtest persist test getremovemethodtest remove test getannotationvalues annotation values tostring getmetadataidentifertype metadata identifer type createidentifier create identifier getjavatype type getpath path isvalid valid
+VARSIG21	metadataidentificationstring metadata identification
+VARSIG20	metadataidentificationstring metadata identification
+MTHSIG10	getremovemethodtest remove test
+VARIABLES	identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata projectmetadata project metadata annotationvalues annotation values dataondemandmetadata data demand metadata identifieraccessormethod identifier accessor versionaccessormethod version accessor countmethod count findmethod find findallmethod find findentriesmethod find entries flushmethod flush mergemethod merge persistmethod persist removemethod remove hasembeddedidentifier embedded identifier javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification metadataidentificationstring metadata identification type type test annotationvalues annotation values dataondemandmetadata data demand metadata dodgovernor dod governor isgaesupported gae supported identifieraccessormethod identifier accessor versionaccessormethod version accessor countmethod count findmethod find findallmethod find findentriesmethod find entries flushmethod flush mergemethod merge persistmethod persist removemethod remove hasembeddedidentifier embedded identifier runwithattributes attributes ctxcfg ctx cfg field annotations fieldbuilder field builder helpertype helper type helperfield helper field initializer fieldbuilder field builder parameters setupmethodname set setupmethod set annotations bodybuilder body builder methodbuilder builder teardownmethodname tear teardownmethod tear annotations bodybuilder body builder methodbuilder builder methodname parameters annotations bodybuilder body builder methodbuilder builder methodname parameters annotations bodybuilder body builder methodbuilder builder methodname parameters annotations bodybuilder body builder methodbuilder builder methodname parameters annotations bodybuilder body builder methodbuilder builder methodname parameters annotations bodybuilder body builder methodbuilder builder methodname parameters annotations bodybuilder body builder methodbuilder builder methodname parameters annotations bodybuilder body builder methodbuilder builder methodname parameters annotations attributes bodybuilder body builder methodbuilder builder tsc

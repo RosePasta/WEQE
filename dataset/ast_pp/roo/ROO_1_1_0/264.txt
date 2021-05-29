@@ -1,0 +1,81 @@
+MTHSIG28	isspecialtype special type javatype type javatype type
+MTHSIG29	isembeddedfieldtype embedded field type fieldmetadata field metadata field
+MTHSIG26	isrooidentifier roo identifier javatype type type
+MTHSIG27	hasmutator mutator fieldmetadata field metadata fieldmetadata field metadata beaninfometadata bean info metadata bim
+MTHSIG24	getdatepatterns patterns
+MTHSIG25	isenumtype type javatype type type
+MTHSIG22	methodexists exists javasymbolname symbol methodname
+MTHSIG23	getspecialdomaintypes special domain types javatype type javatype type
+MTHSIG4	getconversionservicefield conversion service field
+VARSIG34	javatype type javatype type
+MTHSIG5	getdeletemethod delete
+VARSIG33	javatype type type
+MTHSIG6	getlistmethod list
+VARSIG32	fieldmetadata field metadata field
+MTHSIG7	getshowmethod
+VARSIG31	javatype type javatype type
+MTHSIG0	webscaffoldmetadata web scaffold metadata identifier javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata metadataservice metadata service metadataservice metadata service webscaffoldannotationvalues web scaffold annotation values annotationvalues annotation values beaninfometadata bean info metadata beaninfometadata bean info metadata entitymetadata entity metadata entitymetadata entity metadata findermetadata finder metadata findermetadata finder metadata controlleroperations controller operations controlleroperations controller operations
+VARSIG38	metadataidentificationstring metadata identification
+MTHSIG1	getidentifierforbeaninfometadata identifier bean info metadata
+VARSIG37	metadataidentificationstring metadata identification
+PACKAGE	springframework roo addon web mvc controller
+MTHSIG2	getidentifierforentitymetadata identifier entity metadata
+VARSIG36	metadataidentificationstring metadata identification
+MTHSIG3	getannotationvalues annotation values
+VARSIG35	path path
+MTHSIG20	getpopulatemethods populate methods
+MTHSIG21	getencodeurlpathsegmentmethod encode url path segment
+MTHSIG8	getcreatemethod create
+VARSIG30	methodmetadata metadata mutator
+MTHSIG9	getcreateformmethod create form
+MTHSIG35	getpath path metadataidentificationstring metadata identification
+MTHSIG36	isvalid valid metadataidentificationstring metadata identification
+MTHSIG33	createidentifier create identifier javatype type javatype type path path
+MTHSIG34	getjavatype type metadataidentificationstring metadata identification
+CLASSES	webscaffoldmetadata web scaffold metadata
+VARSIG29	beaninfometadata bean info metadata bim
+VARSIG28	fieldmetadata field metadata fieldmetadata field metadata
+METHODS	webscaffoldmetadata web scaffold metadata getidentifierforbeaninfometadata identifier bean info metadata getidentifierforentitymetadata identifier entity metadata getannotationvalues annotation values getconversionservicefield conversion service field getdeletemethod delete getlistmethod list getshowmethod getcreatemethod create getcreateformmethod create form getupdatemethod update getupdateformmethod update form getjsonshowmethod json getjsoncreatemethod json create getcreatefromjsonarraymethod create json array getjsonlistmethod json list getfinderformmethod finder form getfindermethod finder getregisterconvertersmethod register converters getdatetimeformathelpermethod time format helper getpopulatemethods populate methods getencodeurlpathsegmentmethod encode url path segment methodexists exists getspecialdomaintypes special domain types getdatepatterns patterns isenumtype type isrooidentifier roo identifier hasmutator mutator isspecialtype special type isembeddedfieldtype embedded field type getplural plural tostring getmetadataidentifertype metadata identifer type createidentifier create identifier getjavatype type getpath path isvalid valid
+VARSIG23	methodmetadata metadata accessor
+VARSIG22	javatype type generictype type
+VARSIG21	methodmetadata metadata accessor
+VARSIG20	javatype type javatype type
+VARSIG27	javatype type type
+VARSIG26	javatype type type
+VARSIG25	finder
+VARSIG24	annotationmetadata annotation metadata annotation
+MTHSIG31	tostring
+MTHSIG32	getmetadataidentifertype metadata identifer type
+MTHSIG30	getplural plural javatype type type
+VARSIG7	findermetadata finder metadata findermetadata finder metadata
+VARSIG6	entitymetadata entity metadata entitymetadata entity metadata
+VARSIG9	findername finder
+VARSIG8	controlleroperations controller operations controlleroperations controller operations
+VARSIG3	metadataservice metadata service metadataservice metadata service
+VARSIG2	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG5	beaninfometadata bean info metadata beaninfometadata bean info metadata
+VARSIG4	webscaffoldannotationvalues web scaffold annotation values annotationvalues annotation values
+COMMENTS	metadata link roowebscaffold roo web scaffold check entitymetadata entity metadata getdynamicfinders dynamic finders guarantees empty list decide build json support mandatory input missing roo mandatory input missing roo mandatory input missing roo mandatory input missing roo mandatory input missing roo adding array fieldname field position path position mandatory input missing roo mandatory input missing roo type declared type declared type declared type declared mandatory input missing roo determine fields included converter happen exclude collections arrays exclude references domain objects verbose exclude values meaningful presentation register converter converter register populator references roo type equals beaninfometadata bean info metadata getjavabean bean access parameter scan treat match authoritative scan superclass caller expected scan current expected won check parameters unable metadata javatype type project unable entity metadata entity project interested identifiers version fields interested fields exposed mutator interested identifiers version fields interested fields exposed mutator interested type application
+VARSIG19	methodmetadata metadata
+VARSIG1	javatype type aspectname aspect
+VARSIG18	javasymbolname symbol methodname
+VARSIG0	identifier
+VARSIG17	javatype type type
+VARSIG12	methodmetadata metadata methodmetadata metadata
+VARSIG11	methodmetadata metadata accessormethod accessor
+VARSIG10	methodmetadata metadata
+VARSIG16	methodmetadata metadata accessor
+VARSIG15	javatype type conversiontype conversion type
+VARSIG14	methodmetadata metadata methodmetadata metadata
+VARSIG13	javatype type javatype type
+MTHSIG17	getfindermethod finder methodmetadata metadata methodmetadata metadata
+MTHSIG18	getregisterconvertersmethod register converters
+MTHSIG15	getjsonlistmethod json list
+MTHSIG16	getfinderformmethod finder form methodmetadata metadata methodmetadata metadata
+MTHSIG13	getjsoncreatemethod json create
+MTHSIG14	getcreatefromjsonarraymethod create json array
+MTHSIG11	getupdateformmethod update form
+MTHSIG12	getjsonshowmethod json
+MTHSIG19	getdatetimeformathelpermethod time format helper
+MTHSIG10	getupdatemethod update
+VARIABLES	identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata metadataservice metadata service annotationvalues annotation values beaninfometadata bean info metadata entitymetadata entity metadata findermetadata finder metadata controlleroperations controller operations findername finder accessormethod accessor methodmetadata metadata javatype type methodmetadata metadata conversiontype conversion type accessor type methodname javatype type accessor generictype type accessor annotation finder type type fieldmetadata field metadata bim mutator javatype type field type javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification metadataidentificationstring metadata identification type type annotationvalues annotation values beaninfometadata bean info metadata entitymetadata entity metadata metadataservice metadata service specialdomaintypes special domain types controllerpath controller path entityname entity datetypes types pluralcache plural cache jsonmetadata json metadata builder methodname typeannotations type annotations attributes pathvariableannotation path variable annotation firstresultattributes result attributes firstresultannotations result annotations firstresultannotation result annotation maxresultsattributes max attributes maxresultsannotations max annotations maxresultannotation max result annotation paramtypes types paramnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations bodybuilder body builder methodbuilder builder methodname firstresultattributes result attributes firstresultannotations result annotations firstresultannotation result annotation maxresultsattributes max attributes maxresultsannotations max annotations maxresultannotation max result annotation paramtypes types paramnames names requestmappingattributes request mapping attributes annotations plural bodybuilder body builder methodbuilder builder methodname typeannotations type annotations attributes pathvariableannotation path variable annotation paramtypes types paramnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations bodybuilder body builder methodbuilder builder methodname typeannotations type annotations validannotation valid annotation noannotations annotations paramtypes types paramnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations bodybuilder body builder methodbuilder builder methodname paramtypes types paramnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations bodybuilder body builder listadded list field entitymetadata entity metadata listshort list arraylistshort array list methodbuilder builder methodname typeannotations type annotations validannotation valid annotation noannotations annotations paramtypes types paramnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations bodybuilder body builder methodbuilder builder methodname updateformmethod update form typeannotations type annotations attributes pathvariableannotation path variable annotation paramtypes types paramnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations bodybuilder body builder methodbuilder builder tojsonmethodname json methodname result parameters attributes pathvariableannotation path variable annotation paramtypes types paramnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations bodybuilder body builder methodbuilder builder fromjsonmethodname json methodname result parameters requestbodyannotation request body annotation paramtypes types paramnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations bodybuilder body builder typeparams type params returntype type methodbuilder builder fromjsonarraymethodname json array methodname result parameters requestbodyannotation request body annotation paramtypes types paramnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations bodybuilder body builder beanname bean params typeparams type params returntype type methodbuilder builder tojsonarraymethodname json array methodname result requestmappingattributes request mapping attributes requestmapping request mapping annotations bodybuilder body builder entityname entity methodbuilder builder finderformmethodname finder form finderformmethod finder form paramtypes types paramnames names types bodybuilder body builder needmodel typeentitymetadata type entity metadata requestmappingattributes request mapping attributes arrayvalues array values requestmapping request mapping annotations methodbuilder builder findermethodname finder findermethod finder annotatedparamtypes annotated types paramnames names paramtypes types bodybuilder body builder methodparams params annotations attributes requestparamannotation request annotation fieldname field field annotation newparamnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations methodbuilder builder registerconvertersmethodname register converters registerconvertersmethod register converters bodybuilder body builder converterpresent converter typesforconversion types conversion typebeaninfometadata type bean info metadata typeentitymetadata type entity metadata elegiblemethods elegible methods fieldcounter field counter field converter conversiontypefieldname conversion type field convertermethodname converter converterbodybuilder converter body builder params parameterizedconverter parameterized converter methodbuilder builder methodbuilder builder adddatetimeformatpatterns add time format patterns adddatetimeformatpatternsmethod add time format patterns paramtypes types paramnames names bodybuilder body builder entry datetimeformat time format datetimeformatsimple time format simple localecontextholder locale context holder localecontextholdersimple locale context holder simple methodbuilder builder methods bodybuilder body builder typeentitymetadata type entity metadata arrays populatemethodname populate addreferencedatamethod add reference data annotations attributes typeparams type params returntype type methodbuilder builder encodeurlpathsegment encode url path segment encodeurlpathsegmentmethod encode url path segment paramtypes types paramnames names bodybuilder body builder specialtypes special types bim fieldmetadata field metadata type dates fieldmetadata field metadata type physicaltypemetadata physical type metadata details physicaltypemetadata physical type metadata cid pluralmetadata plural metadata tsc

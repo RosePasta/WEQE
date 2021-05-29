@@ -1,0 +1,31 @@
+VARSIG7	convert 
+VARSIG6	buffer 
+VARSIG9	commandmark command marker 
+VARSIG8	convert 
+VARSIG3	commandinfo command info info 
+VARSIG2	capabl capabl 
+VARSIG5	logger logger 
+VARSIG4	commandnam command 
+COMMENTS	osgi compon launcher link simplepars simpl parser 
+VARSIG1	resourc resourc 
+VARSIG0	command 
+MTHSIG4	bindconvert bind convert convert 
+VARSIG12	componentcontext compon context context 
+MTHSIG5	unbindconvert unbind convert convert 
+VARSIG11	componentcontext compon context context 
+MTHSIG6	bindcommand bind command commandmark command marker 
+VARSIG10	commandmark command marker 
+MTHSIG7	unbindcommand unbind command commandmark command marker 
+MTHSIG0	findaddonsoff find add on offer command 
+MTHSIG1	getfindertargetsingular finder target singular 
+PACKAGE	springframework roo shell osgi 
+MTHSIG2	getfindertargetplur finder target plural 
+MTHSIG3	commandnotfound command logger logger buffer 
+VARSIG13	clioption cli option kei command optioncontext option context availablecommand command command provid buffer 
+MTHSIG8	activ componentcontext compon context context 
+MTHSIG9	deactiv componentcontext compon context context 
+MTHSIG11	obtainhelp buffer 
+CLASSES	simpleparsercompon simpl parser compon 
+METHODS	findaddonsoff find add on offer getfindertargetsingular finder target singular getfindertargetplur finder target plural commandnotfound command bindconvert bind convert unbindconvert unbind convert bindcommand bind command unbindcommand unbind command activ deactiv helpreferenceguid refer guid obtainhelp 
+MTHSIG10	helpreferenceguid refer guid 
+VARIABLES	command resourc capabl info commandnam command logger buffer context context buffer obrresourcefind obr resourc finder addonsearchmanag add search manag modelseri model serial result resourc prop rstring commandinfo command info 

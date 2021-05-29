@@ -1,0 +1,33 @@
+VARSIG7	database database
+VARSIG6	exception
+VARSIG9	view
+VARSIG8	set schema schemas
+VARSIG3	exception
+VARSIG2	displayaddons display add ons
+VARSIG5	database database
+VARSIG4	evictcache evict cache
+COMMENTS	implementation link dbremodelservice dbre model service fields required properties ignore elements
+VARSIG1	exception
+VARSIG0	displayaddons display add ons
+VARSIG17	element propertyelement property element
+MTHSIG4	refreshdatabase refresh database set schema schemas view set includetables include tables set excludetables exclude tables
+VARSIG12	exception
+MTHSIG5	getdbrexmlpath dbre xml path
+VARSIG11	set excludetables exclude tables
+MTHSIG6	cachedatabase cache database database database
+VARSIG10	set includetables include tables
+MTHSIG7	getconnection connection displayaddons display add ons
+MTHSIG0	supportsschema supports schema displayaddons display add ons
+VARSIG16	exception
+MTHSIG1	getschemas schemas displayaddons display add ons
+VARSIG15	displayaddons display add ons
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	getdatabase database evictcache evict cache
+VARSIG14	database database
+MTHSIG3	writedatabase write database database database
+VARSIG13	modulename module
+MTHSIG8	getjndidatasourcename jndi data source
+MTHSIG9	getconnectionpropertiesfromdatanucleusconfiguration connection properties data nucleus configuration
+CLASSES	dbremodelserviceimpl dbre model service impl
+METHODS	supportsschema supports schema getschemas schemas getdatabase database writedatabase write database refreshdatabase refresh database getdbrexmlpath dbre xml path cachedatabase cache database getconnection connection getjndidatasourcename jndi data source getconnectionpropertiesfromdatanucleusconfiguration connection properties data nucleus configuration
+VARIABLES	displayaddons display add ons displayaddons display add ons evictcache evict cache database database schemas view includetables include tables excludetables exclude tables modulename module database displayaddons display add ons propertyelement property element connectionprovider connection provider filemanager file manager projectoperations project operations propfileoperations prop file operations lastdatabase database cachedintrospections cached introspections connection databasemetadata database meta data schematerm schema term connection introspector dbrexmlpath dbre xml path database inputstream input stream document connection introspector database logicalpath logical path dbrexmlpath dbre xml path dbprops props jndidatasource jndi data source props props connectionproperties connection properties contextpath context path appctx app ctx root datasourcejndi data source jndi persistencexmlpath persistence xml path filedetails file details document builder propertyelements property elements properties key

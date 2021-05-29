@@ -1,0 +1,14 @@
+VARSIG3	methodparamet paramet paramet 
+VARSIG2	 
+COMMENTS	unit test link membertypeaddit member type addit assert link membertypeaddit member type addit buildmethodcal build call util iter build expect call paramet expectedmethodcal expect call target parameternam paramet name set invok check 
+CLASSES	membertypeadditionstest member type addit test 
+VARSIG1	target 
+VARSIG0	expectedmethodcal expect call 
+METHODS	testgetmethodcallwithblanktargetandnoparamet test call blank target paramet testgetmethodcallwithtargetandnoparamet test call target paramet testgetmethodcallwithblanktargetandtwoparamet test call blank target paramet assertmethodcal call testgetinvokedfieldwhenbuilderisnul test invok field builder 
+MTHSIG4	testgetinvokedfieldwhenbuilderisnul test invok field builder 
+MTHSIG0	testgetmethodcallwithblanktargetandnoparamet test call blank target paramet 
+MTHSIG1	testgetmethodcallwithtargetandnoparamet test call target paramet 
+PACKAGE	springframework roo classpath layer 
+MTHSIG2	testgetmethodcallwithblanktargetandtwoparamet test call blank target paramet 
+MTHSIG3	assertmethodcal call expectedmethodcal expect call target methodparamet paramet paramet 
+VARIABLES	expectedmethodcal expect call target paramet firstnameparamet paramet lastnameparamet paramet membertypeaddit member type addit 

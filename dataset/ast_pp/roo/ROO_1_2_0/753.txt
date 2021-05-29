@@ -1,0 +1,14 @@
+VARSIG3	collection fileoperation file operation notifyon notify
+VARSIG2	file resource
+COMMENTS	represents request monitor file system location factory monitoring operations file directory link fileoperation file operation created link fileoperation file operation renamed link fileoperation file operation updated link fileoperation file operation deleted resource resource monitor current directory monitoring request factory monitoring operations directory tree link fileoperation file operation created link fileoperation file operation renamed link fileoperation file operation updated link fileoperation file operation deleted directory directory monitor current directory monitoring request fields constructor resource file monitor required notifyon notify file operations notify can empty file monitored returns operations monitored unmodifiable collection elements
+CLASSES	monitoringrequest monitoring request
+VARSIG1	directory
+VARSIG0	resource
+METHODS	getinitialmonitoringrequest initial monitoring request getinitialsubtreemonitoringrequest initial tree monitoring request monitoringrequest monitoring request getfile file getnotifyon notify
+MTHSIG4	getnotifyon notify
+MTHSIG0	getinitialmonitoringrequest initial monitoring request resource
+MTHSIG1	getinitialsubtreemonitoringrequest initial tree monitoring request directory
+PACKAGE	springframework roo file monitor
+MTHSIG2	monitoringrequest monitoring request file resource collection fileoperation file operation notifyon notify
+MTHSIG3	getfile file
+VARIABLES	resource directory resource notifyon notify mre mre notifyon notify resource

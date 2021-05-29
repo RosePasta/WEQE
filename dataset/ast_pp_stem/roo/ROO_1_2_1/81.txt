@@ -1,0 +1,17 @@
+VARSIG3	size 
+VARSIG2	 
+COMMENTS	repres column databas model 
+CLASSES	indexcolumn column 
+VARSIG1	object obj 
+VARSIG0	 
+METHODS	indexcolumn column equal getnam getsiz size hashcod hash code setnam set setsiz set size tostr 
+MTHSIG4	hashcod hash code 
+MTHSIG5	setnam set 
+MTHSIG6	setsiz set size size 
+MTHSIG7	tostr 
+MTHSIG0	indexcolumn column 
+MTHSIG1	equal object obj 
+PACKAGE	springframework roo addon dbre model 
+MTHSIG2	getnam 
+MTHSIG3	getsiz size 
+VARIABLES	obj size size prime result 

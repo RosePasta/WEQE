@@ -1,0 +1,14 @@
+VARSIG3	map options
+VARSIG2	viewname view
+VARSIG4	url
+COMMENTS	provider embed documents url specific install expected format http slideshare net schmidtstefan spring slides stefan schmidt expected format http scribd doc introduction springroo spring roo expected format http docs google view fcgd fcgd revision latest start theme blank authkey clj izwj cwj
+CLASSES	documentembeddedprovider document embedded provider
+VARSIG1	viewname view
+VARSIG0	url
+METHODS	embed install getslideshareid slide share tostring
+MTHSIG0	embed url viewname view
+MTHSIG1	install viewname view map options
+PACKAGE	springframework roo addon web mvc embedded provider
+MTHSIG2	getslideshareid slide share url
+MTHSIG3	tostring
+VARIABLES	url viewname view viewname view options url options split options qstart start options provider document json subdoc doc documentprovider document provider tsc

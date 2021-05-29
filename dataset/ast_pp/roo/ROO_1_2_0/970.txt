@@ -1,0 +1,10 @@
+MTHSIG4	testinstanceswithdifferenttargetarenotequal test instances target equal
+MTHSIG0	testinstanceequalsitself test instance equals
+MTHSIG1	testinstancedoesnotequalnull test instance equal
+PACKAGE	springframework roo shell
+MTHSIG2	testinstanceswithsamemethodandtargetareequalandhavesamehashcode test instances target equal hash code
+MTHSIG3	testinstanceswithdifferentmethodarenotequal test instances equal
+COMMENTS	unit test link methodtarget target constants unmockable unmockable
+CLASSES	methodtargettest target test
+VARIABLES	target target instance instance instance instance instance
+METHODS	testinstanceequalsitself test instance equals testinstancedoesnotequalnull test instance equal testinstanceswithsamemethodandtargetareequalandhavesamehashcode test instances target equal hash code testinstanceswithdifferentmethodarenotequal test instances equal testinstanceswithdifferenttargetarenotequal test instances target equal

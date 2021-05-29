@@ -1,0 +1,21 @@
+VARSIG7	modulenam modul 
+VARSIG6	gav parentpom parent pom 
+VARSIG9	integ majorjavavers major version 
+VARSIG8	packagingprovid packag provid packagingtyp packag type 
+VARSIG3	gav parentpom parent pom 
+VARSIG2	integ majorjavavers major version 
+VARSIG5	javapackag toplevelpackag top level 
+VARSIG4	packagingprovid packag provid packagingtyp packag type 
+COMMENTS	maven project oper maven project creat creat maven base project toplevelpackag top level top level requir projectnam project project blank gener top level majorjavavers major version major version project target autodetect parentpom parent pom maven coordin parent pom packagingtyp packag type packag project creat modul exist maven project toplevelpackag top level top level requir parentpom parent pom maven coordin parent pom modulenam modul artifactid artifact modul packagingtyp packag type packag modul majorjavavers major version major version modul target autodetect execut maven command command command argument requir clean instal ioexcept except 
+CLASSES	mavenoper maven oper 
+VARSIG1	projectnam project 
+VARSIG0	javapackag toplevelpackag top level 
+METHODS	iscreateprojectavail creat project getprojectroot project root createproject creat project createmodul creat modul executemvncommand execut mvn command 
+MTHSIG4	executemvncommand execut mvn command command 
+VARSIG10	command 
+MTHSIG0	iscreateprojectavail creat project 
+MTHSIG1	getprojectroot project root 
+PACKAGE	springframework roo project 
+MTHSIG2	createproject creat project javapackag toplevelpackag top level projectnam project integ majorjavavers major version gav parentpom parent pom packagingprovid packag provid packagingtyp packag type 
+MTHSIG3	createmodul creat modul javapackag toplevelpackag top level gav parentpom parent pom modulenam modul packagingprovid packag provid packagingtyp packag type integ majorjavavers major version 
+VARIABLES	toplevelpackag top level projectnam project majorjavavers major version parentpom parent pom packagingtyp packag type toplevelpackag top level parentpom parent pom modulenam modul packagingtyp packag type majorjavavers major version command 

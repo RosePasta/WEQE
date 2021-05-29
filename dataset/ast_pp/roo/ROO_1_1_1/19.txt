@@ -1,0 +1,9 @@
+MTHSIG0	setdestinationpackage set destination javapackage destinationpackage destination
+MTHSIG1	settestautomatically set test automatically testautomatically test automatically
+PACKAGE	springframework roo addon dbre
+COMMENTS	link dbredatabaselistenerimpl dbre database listener impl required osgi scr specifies link javapackage create entities destinationpackage destination javapackage create integration tests entities testautomatically test automatically integration tests created
+CLASSES	dbredatabaselistener dbre database listener
+VARIABLES	destinationpackage destination testautomatically test automatically
+VARSIG1	testautomatically test automatically
+VARSIG0	javapackage destinationpackage destination
+METHODS	setdestinationpackage set destination settestautomatically set test automatically

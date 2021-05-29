@@ -1,0 +1,22 @@
+VARSIG7	itdfilenam filenam 
+VARSIG6	physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+VARSIG9	javatyp type javatyp type 
+VARSIG8	metadataidentificationstr metadata identif 
+VARSIG3	configurablemetadataprovid configur metadata provid configurablemetadataprovid configur metadata provid 
+VARSIG2	filemanag file manag filemanag file manag 
+VARSIG5	javatyp type aspectnam aspect 
+VARSIG4	metadataidentificationstr metadata identif 
+COMMENTS	link dataondemandmetadata data demand metadata dod class configur dod class provid relationship governor type detail safe pars annot expect lookup entiti entiti metadata lookup metadata depend abort couldn find depend metadata illegalstateexcept illeg except data demand unabl locat detail persist type javatyp type getfullyqualifiedtypenam fulli qualifi type illegalstateexcept illeg except data demand requir javatyp type getfullyqualifiedtypenam fulli qualifi type provid findentri inform depend metadata monitor parent type parent trickl govern type 
+CLASSES	dataondemandmetadataprovid data demand metadata provid 
+VARSIG1	metadatadependencyregistri metadata depend registri metadatadependencyregistri metadata depend registri 
+VARSIG0	metadataservic metadata servic metadataservic metadata servic 
+METHODS	dataondemandmetadataprovid data demand metadata provid getmetadata metadata getitduniquenessfilenamesuffix uniqu filenam suffix getgovernorphysicaltypeidentifi governor physic type identifi createlocalidentifi creat local identifi getprovidestyp type 
+MTHSIG4	createlocalidentifi creat local identifi javatyp type javatyp type path path 
+MTHSIG5	getprovidestyp type 
+VARSIG10	path path 
+MTHSIG0	dataondemandmetadataprovid data demand metadata provid metadataservic metadata servic metadataservic metadata servic metadatadependencyregistri metadata depend registri metadatadependencyregistri metadata depend registri filemanag file manag filemanag file manag configurablemetadataprovid configur metadata provid configurablemetadataprovid configur metadata provid 
+MTHSIG1	getmetadata metadata metadataidentificationstr metadata identif javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata itdfilenam filenam 
+PACKAGE	springframework roo addon dod 
+MTHSIG2	getitduniquenessfilenamesuffix uniqu filenam suffix 
+MTHSIG3	getgovernorphysicaltypeidentifi governor physic type identifi metadataidentificationstr metadata identif 
+VARIABLES	metadataservic metadata servic metadatadependencyregistri metadata depend registri filemanag file manag configurablemetadataprovid configur metadata provid metadataidentificationstr metadata identif aspectnam aspect governorphysicaltypemetadata governor physic type metadata itdfilenam filenam metadataidentificationstr metadata identif javatyp type path annotationvalu annot valu javatyp type path beaninfometadatakei bean info metadata kei entitymetadatakei entiti metadata kei beaninfometadata bean info metadata entitymetadata entiti metadata findentriesmethod find entri persistmethod persist findmethod find identifieraccessor identifi accessor javatyp type path physicaltypeidentifi physic type identifi 

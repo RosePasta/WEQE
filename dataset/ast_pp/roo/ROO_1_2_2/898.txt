@@ -1,0 +1,21 @@
+VARSIG7	integer majorjavaversion major version
+VARSIG6	projectname project
+VARSIG9	packagingprovider packaging provider packagingtype packaging type
+VARSIG8	gav parentpom parent pom
+VARSIG3	packagingprovider packaging provider packagingtype packaging type
+VARSIG2	modulename module
+VARSIG5	javapackage toplevelpackage top level
+VARSIG4	integer majorjavaversion major version
+COMMENTS	maven project operations creates module existing maven project toplevelpackage top level top level required parentpom parent pom maven coordinates parent pom modulename module artifactid artifact module packagingtype packaging type packaging module majorjavaversion major version major version module targetted autodetect creates maven based project toplevelpackage top level top level required projectname project project blank generate top level majorjavaversion major version major version project targetted autodetect parentpom parent pom maven coordinates parent pom packagingtype packaging type packaging project executes maven command command command arguments requires clean install ioexception exception maven project created
+CLASSES	mavenoperations maven operations
+VARSIG1	gav parentpom parent pom
+VARSIG0	javapackage toplevelpackage top level
+METHODS	createmodule create module createproject create project executemvncommand execute mvn command getprojectroot project root iscreateprojectavailable create project
+MTHSIG4	iscreateprojectavailable create project
+VARSIG10	command
+MTHSIG0	createmodule create module javapackage toplevelpackage top level gav parentpom parent pom modulename module packagingprovider packaging provider packagingtype packaging type integer majorjavaversion major version
+MTHSIG1	createproject create project javapackage toplevelpackage top level projectname project integer majorjavaversion major version gav parentpom parent pom packagingprovider packaging provider packagingtype packaging type
+PACKAGE	springframework roo project
+MTHSIG2	executemvncommand execute mvn command command
+MTHSIG3	getprojectroot project root
+VARIABLES	toplevelpackage top level parentpom parent pom modulename module packagingtype packaging type majorjavaversion major version toplevelpackage top level projectname project majorjavaversion major version parentpom parent pom packagingtype packaging type command

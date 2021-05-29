@@ -1,0 +1,15 @@
+VARSIG3	logentry log entry entry
+VARSIG2	logentry log entry entry
+VARSIG4	logentry log entry entry
+COMMENTS	delegates osgi log messages jdk logging infrastructure turn compatible spring roo roo standard approach log messages appearing console convenience priority messages output flash messages high priority messages jdk logger convert osgi level jdk logger level message flash development mode clear timeout reached log message log jdk
+CLASSES	jdkdelegatingloglistener jdk delegating log listener
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+METHODS	activate deactivate logged lognow log buildmessage build message
+MTHSIG4	buildmessage build message logentry log entry entry
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo felix
+MTHSIG2	logged logentry log entry entry
+MTHSIG3	lognow log logentry log entry entry
+VARIABLES	context context entry entry entry logreaderservice log reader service logger latestlogs latest logs osgilevel osgi level jdklevel jdk level

@@ -1,0 +1,32 @@
+VARSIG7	clioption cli option key artifactid artifact mandatory artifact dependency javasymbolname symbol artifactid artifact
+VARSIG6	clioption cli option key groupid group mandatory group dependency javapackage groupid group
+VARSIG9	clioption cli option key mavencommand maven command mandatory user maven command test test extra
+VARSIG8	clioption cli option key version mandatory version dependency version
+VARSIG3	clioption cli option key groupid group mandatory group dependency javapackage groupid group
+VARSIG2	clioption cli option key mandatory forces major version auto detected unspecified integer majorjavaversion major version
+VARSIG5	clioption cli option key version mandatory version dependency version
+VARSIG4	clioption cli option key artifactid artifact mandatory artifact dependency javasymbolname symbol artifactid artifact
+COMMENTS	ensure separate threads logging roo nix mac windows
+VARSIG1	clioption cli option key projectname project mandatory project segment projectname project
+VARSIG0	clioption cli option key toplevelpackage top level mandatory optioncontext option context update uppermost groupid group maven roo roo shell javapackage toplevelpackage top level
+MTHSIG4	removedependency remove dependency javapackage groupid group javasymbolname symbol artifactid artifact version
+VARSIG12	processmanager process manager processmanager process manager
+MTHSIG5	isperformcommandallowed perform command allowed
+VARSIG11	inputstream input stream inputstream input stream
+MTHSIG6	runpackage
+VARSIG10	interruptedexception interrupted exception
+MTHSIG7	runeclipse
+MTHSIG0	iscreateprojectavailable create project
+MTHSIG1	createproject create project javapackage toplevelpackage top level projectname project integer majorjavaversion major version
+PACKAGE	springframework roo addon maven
+MTHSIG2	isdependencymodificationallowed dependency modification allowed
+VARSIG14	ioexception exception ignore
+MTHSIG3	adddependency add dependency javapackage groupid group javasymbolname symbol artifactid artifact version
+VARSIG13	ioexception exception ioe
+MTHSIG8	runtest test
+MTHSIG9	runassembly assembly
+MTHSIG11	mvn extra
+CLASSES	mavencommands maven commands
+METHODS	iscreateprojectavailable create project createproject create project isdependencymodificationallowed dependency modification allowed adddependency add dependency removedependency remove dependency isperformcommandallowed perform command allowed runpackage runeclipse runtest test runassembly assembly runclean clean mvn
+MTHSIG10	runclean clean
+VARIABLES	toplevelpackage top level projectname project majorjavaversion major version groupid group artifactid artifact version groupid group artifactid artifact version extra inputstream input stream processmanager process manager ioe ignore logger mavenoperations maven operations processmanager process manager root cmd input errors inputstream input stream processmanager process manager

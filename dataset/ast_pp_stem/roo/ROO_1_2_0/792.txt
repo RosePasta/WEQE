@@ -1,0 +1,45 @@
+MTHSIG28	testgetmetadatainstancefrommidprefix test metadata instanc mid prefix 
+MTHSIG29	testgetmetadatainstancefrommidprefixplusdelimit test metadata instanc mid prefix delimit 
+MTHSIG26	testgetmetadatainstancefromnullmid test metadata instanc mid 
+MTHSIG27	testgetmetadatainstancefromemptymid test metadata instanc empti mid 
+MTHSIG24	testclassmidisvalid test mid valid 
+MTHSIG25	testinstancemidisvalid test instanc mid valid 
+MTHSIG22	testmidprefixisnotvalid test mid prefix valid 
+MTHSIG23	testunprefixedmidisnotvalid test unprefix mid valid 
+COMMENTS	unit test link metadataidentificationutil metadata identif util constant concret project type metadataitem metadata item 
+MTHSIG4	testclassidfrombadlyformedmetadataclassnam test badli form metadata 
+MTHSIG5	testclassidfromwellformedmetadataclassnam test form metadata 
+MTHSIG6	testinstanceidfromvalidinput test instanc valid input 
+MTHSIG7	testinstanceidfromnullinstancekei test instanc instanc kei 
+MTHSIG0	testclassidfromnullmetadataclass test metadata 
+MTHSIG1	testclassidfromnonnullmetadataclass test metadata 
+PACKAGE	springframework roo metadata 
+MTHSIG2	testclassidfromnullmetadataclassnam test metadata 
+MTHSIG3	testclassidfromemptymetadataclassnam test empti metadata 
+MTHSIG20	testemptymidisnotvalid test empti mid valid 
+MTHSIG21	testblankmidisnotvalid test blank mid valid 
+MTHSIG8	testgetmetadataclassfromnullmid test metadata mid 
+MTHSIG9	testgetmetadataclassfromemptymid test metadata empti mid 
+MTHSIG17	testinstancemidisinstancemid test instanc mid instanc mid 
+MTHSIG39	testmetadataidentifiercr test metadata identifi creation 
+MTHSIG18	testinstancemidisnotclassmid test instanc mid mid 
+MTHSIG15	testclassmidisclassmid test mid mid 
+MTHSIG37	testgetmetadataclassidfrominstancemid test metadata instanc mid 
+MTHSIG16	testclassmidisnotinstancemid test mid instanc mid 
+MTHSIG38	testmetadataidentifierpars test metadata identifi pars 
+MTHSIG13	testgetmetadataclassfrominstancemid test metadata instanc mid 
+MTHSIG35	testgetmetadataclassidfrommidprefixplusdelimit test metadata mid prefix delimit 
+MTHSIG14	testgetinstancekei test instanc kei 
+MTHSIG36	testgetmetadataclassidfromclassmid test metadata mid 
+MTHSIG11	testgetmetadataclassfrommidprefixplusdelimit test metadata mid prefix delimit 
+MTHSIG33	testgetmetadataclassidfromemptymid test metadata empti mid 
+MTHSIG12	testgetmetadataclassfromclassmid test metadata mid 
+MTHSIG34	testgetmetadataclassidfrommidprefix test metadata mid prefix 
+CLASSES	metadataidentificationutilstest metadata identif util test 
+METHODS	testclassidfromnullmetadataclass test metadata testclassidfromnonnullmetadataclass test metadata testclassidfromnullmetadataclassnam test metadata testclassidfromemptymetadataclassnam test empti metadata testclassidfrombadlyformedmetadataclassnam test badli form metadata testclassidfromwellformedmetadataclassnam test form metadata testinstanceidfromvalidinput test instanc valid input testinstanceidfromnullinstancekei test instanc instanc kei testgetmetadataclassfromnullmid test metadata mid testgetmetadataclassfromemptymid test metadata empti mid testgetmetadataclassfrommidprefix test metadata mid prefix testgetmetadataclassfrommidprefixplusdelimit test metadata mid prefix delimit testgetmetadataclassfromclassmid test metadata mid testgetmetadataclassfrominstancemid test metadata instanc mid testgetinstancekei test instanc kei testclassmidisclassmid test mid mid testclassmidisnotinstancemid test mid instanc mid testinstancemidisinstancemid test instanc mid instanc mid testinstancemidisnotclassmid test instanc mid mid testnullmidisnotvalid test mid valid testemptymidisnotvalid test empti mid valid testblankmidisnotvalid test blank mid valid testmidprefixisnotvalid test mid prefix valid testunprefixedmidisnotvalid test unprefix mid valid testclassmidisvalid test mid valid testinstancemidisvalid test instanc mid valid testgetmetadatainstancefromnullmid test metadata instanc mid testgetmetadatainstancefromemptymid test metadata instanc empti mid testgetmetadatainstancefrommidprefix test metadata instanc mid prefix testgetmetadatainstancefrommidprefixplusdelimit test metadata instanc mid prefix delimit testgetmetadatainstancefromclassmid test metadata instanc mid testgetmetadatainstancefrominstancemid test metadata instanc instanc mid testgetmetadataclassidfromnullmid test metadata mid testgetmetadataclassidfromemptymid test metadata empti mid testgetmetadataclassidfrommidprefix test metadata mid prefix testgetmetadataclassidfrommidprefixplusdelimit test metadata mid prefix delimit testgetmetadataclassidfromclassmid test metadata mid testgetmetadataclassidfrominstancemid test metadata instanc mid testmetadataidentifierpars test metadata identifi pars testmetadataidentifiercr test metadata identifi creation 
+MTHSIG19	testnullmidisnotvalid test mid valid 
+MTHSIG31	testgetmetadatainstancefrominstancemid test metadata instanc instanc mid 
+MTHSIG10	testgetmetadataclassfrommidprefix test metadata mid prefix 
+MTHSIG32	testgetmetadataclassidfromnullmid test metadata mid 
+VARIABLES	metadata instanc mid instanc mid 
+MTHSIG30	testgetmetadatainstancefromclassmid test metadata instanc mid 

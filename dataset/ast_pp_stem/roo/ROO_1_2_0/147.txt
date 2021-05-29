@@ -1,0 +1,137 @@
+MTHSIG28	isallowablereturntyp allow type javatyp type type 
+MTHSIG29	iscommontyp common type javatyp type type 
+MTHSIG26	checkprimit check primit javatyp type type 
+MTHSIG27	isallowablereturntyp allow type methodmetadata metadata 
+MTHSIG24	buildtyp build type gwttype gwt type desttyp dest type classorinterfacetypedetail type detail templateclass templat list memberholdingtypedetail member hold type detail extendstyp type modulenam modul 
+MTHSIG25	displaywarn displai warn warn 
+MTHSIG22	isdomainobject domain object javatyp type type 
+MTHSIG23	createabstractbuild creat builder classorinterfacetypedetailsbuild type detail builder concreteclass concret list memberholdingtypedetail member hold type detail extendstypesdetail type detail modulenam modul 
+MTHSIG4	lookupentityfromrequest lookup entiti request classorinterfacetypedetail type detail request 
+VARSIG78	classorinterfacetypedetail type detail ptmd 
+MTHSIG5	lookupentityfromloc lookup entiti locat classorinterfacetypedetail type detail locat 
+VARSIG77	javatyp type returntyp type 
+MTHSIG6	lookuptargetservicefromrequest lookup target servic request classorinterfacetypedetail type detail request 
+VARSIG76	javatyp type type 
+MTHSIG7	lookuptargetfromx lookup target classorinterfacetypedetail type detail annotatedtyp annot type javatyp type annot 
+VARSIG75	javatyp type type 
+MTHSIG0	getgwtsideleaftyp gwt side leaf type javatyp type returntyp type javatyp type governortyp governor type requesttyp request type convertprimit convert primit 
+MTHSIG1	lookuprequestfromproxi lookup request proxi classorinterfacetypedetail type detail proxi 
+MTHSIG2	lookupproxyfromrequest lookup proxi request classorinterfacetypedetail type detail request 
+MTHSIG3	lookupentityfromproxi lookup entiti proxi classorinterfacetypedetail type detail proxi 
+VARSIG79	classorinterfacetypedetail type detail ptmd 
+MTHSIG20	ismethodreturntypeinsourcepath type sourc path methodmetadata metadata memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail iter javapackag sourcepackag sourc packag 
+VARSIG70	methodmetadata metadata 
+MTHSIG21	istypeinanysourcepackag type sourc javatyp type type iter javapackag sourcepackag sourc packag 
+MTHSIG8	lookuprequestfroment lookup request entiti classorinterfacetypedetail type detail entiti 
+VARSIG74	javatyp type type 
+MTHSIG9	lookupproxyfroment lookup proxi entiti classorinterfacetypedetail type detail entiti 
+VARSIG73	javatyp type type 
+VARSIG72	javatyp type type 
+VARSIG71	javatyp type type 
+MTHSIG39	isdomainobject domain object javatyp type returntyp type classorinterfacetypedetail type detail ptmd 
+MTHSIG37	isrequestfactorycompat request factori compat javatyp type type 
+MTHSIG38	ispublicaccessor accessor methodmetadata metadata 
+MTHSIG35	isenum classorinterfacetypedetail type detail ptmd 
+MTHSIG36	isembedd embedd classorinterfacetypedetail type detail ptmd 
+MTHSIG33	isent entiti javatyp type type 
+MTHSIG34	iscollectiontyp collect type javatyp type returntyp type 
+METHODS	getgwtsideleaftyp gwt side leaf type lookuprequestfromproxi lookup request proxi lookupproxyfromrequest lookup proxi request lookupentityfromproxi lookup entiti proxi lookupentityfromrequest lookup entiti request lookupentityfromloc lookup entiti locat lookuptargetservicefromrequest lookup target servic request lookuptargetfromx lookup target lookuprequestfroment lookup request entiti lookupproxyfroment lookup proxi entiti lookupxfroment lookup entiti getextendstyp type getgwtmodulexml gwt modul xml buildtyp build type getsourcepackag sourc packag addsourcepath add sourc path anyexistingsourcepathsincludepath exist sourc path includ path getgwtxmldocu gwt xml document getproxymethod proxi method isvalidmethodreturntyp valid type ismethodreturntypeinsourcepath type sourc path istypeinanysourcepackag type sourc isdomainobject domain object createabstractbuild creat builder buildtyp build type displaywarn displai warn checkprimit check primit isallowablereturntyp allow type isallowablereturntyp allow type iscommontyp common type istypecommon type common isenum isprimit primit isent entiti iscollectiontyp collect type isenum isembedd embedd isrequestfactorycompat request factori compat ispublicaccessor accessor isdomainobject domain object resolvetyp resolv type convertmodifi convert modifi getserviceloc servic locat 
+VARSIG67	except 
+VARSIG66	classorinterfacetypedetailsbuild type detail builder innertypebuild type builder 
+VARSIG65	javatyp type innertypenam type 
+VARSIG64	annotatedjavatyp annot type 
+VARSIG69	javatyp type type 
+VARSIG68	warn 
+MTHSIG31	isenum javatyp type type 
+MTHSIG32	isprimit primit javatyp type type 
+MTHSIG30	istypecommon type common javatyp type type 
+VARSIG63	methodmetadatabuild metadata builder methodbuild builder 
+VARSIG62	javasymbolnam symbol methodnam 
+VARSIG61	fieldmetadatabuild field metadata builder fieldbuild field builder 
+VARSIG60	javasymbolnam symbol fieldnam field 
+COMMENTS	basic implement link gwttypeservic gwt type servic constant field type arg client side domain type domain type list set return domain type list list returntyp type projectmetadata project metadata governortyp governor type gwt side leaf type javatyp type behaviour project type collect project type type consist concret type depend 
+VARSIG19	modulenam modul 
+VARSIG18	javatyp type javatyp type 
+VARSIG17	classorinterfacetypedetail type detail childtyp child type 
+VARSIG12	classorinterfacetypedetail type detail entiti 
+VARSIG11	javatyp type annot 
+VARSIG10	classorinterfacetypedetail type detail annotatedtyp annot type 
+VARSIG16	classorinterfacetypedetail type detail cid 
+VARSIG15	javatyp type annot 
+VARSIG14	classorinterfacetypedetail type detail entiti 
+VARSIG13	classorinterfacetypedetail type detail entiti 
+MTHSIG17	getgwtxmldocu gwt xml document gwtmodulecanonicalpath gwt modul canon path 
+MTHSIG18	getproxymethod proxi method classorinterfacetypedetail type detail governortypedetail governor type detail 
+MTHSIG15	addsourcepath add sourc path sourcepath sourc path modulenam modul 
+MTHSIG16	anyexistingsourcepathsincludepath exist sourc path includ path sourcepath sourc path iter element sourceel sourc element 
+MTHSIG13	buildtyp build type gwttype gwt type type list classorinterfacetypedetail type detail templatetypedetail templat type detail modulenam modul 
+MTHSIG14	getsourcepackag sourc packag modulenam modul 
+MTHSIG11	getextendstyp type classorinterfacetypedetail type detail childtyp child type 
+MTHSIG12	getgwtmodulexml gwt modul xml modulenam modul 
+MTHSIG19	isvalidmethodreturntyp valid type methodmetadata metadata memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG88	modulenam modul 
+VARSIG87	builder 
+VARSIG86	javatyp type genericparamtyp type 
+VARSIG81	methodmetadata metadata 
+MTHSIG10	lookupxfroment lookup entiti classorinterfacetypedetail type detail entiti javatyp type annot 
+VARSIG80	javatyp type type 
+VARIABLES	returntyp type governortyp governor type requesttyp request type convertprimit convert primit proxi request proxi request locat request annotatedtyp annot type annot entiti entiti entiti annot cid childtyp child type javatyp type modulenam modul filedetail file detail type templatetypedetail templat type detail modulenam modul templatetypedetail templat type detail modulenam modul sourcepathel sourc path element sourcepath sourc path modulenam modul sourcepath sourc path sourceel sourc element sourceel sourc element gwtmodulecanonicalpath gwt modul canon path publicid systemid system governortypedetail governor type detail memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail sourcepackag sourc packag type sourcepackag sourc packag sourcepackag sourc type concreteclass concret extendstypesdetail type detail modulenam modul extendstypedetail type detail constructor type typetyp type type paramnam desttyp dest type templateclass templat extendstyp type modulenam modul fieldnam field fieldbuild field builder methodnam methodbuild builder innertypenam type innertypebuild type builder warn type type type type type type type returntyp type ptmd ptmd type returntyp type ptmd type genericparamtyp type builder modulenam modul logger path filemanag file manag gwtfilemanag gwt file manag memberdetailsscann member detail scanner metadataservic metadata servic persistencememberloc persist member locat projectoper project oper typelocationservic type locat servic warn warningtim warn timer elementtyp element type convertedjavatyp convert type ptmd typedetail type detail proxi annot attributevalu attribut servicenametyp servic type annot attributevalu attribut proxytyp proxi type annot attributevalu attribut targettyp target type annotationmetadata annot metadata attributevalu attribut extendstyp type supertypeid type supertyp type logicalpath logic path gwtmodulexml gwt modul xml path watchedmethod watch method typestobewritten type written gwtxmldoc gwt xml doc gwtxmlroot gwt xml root toplevelpackag top level sourcepackag sourc packag relativepackag rel gwtxmlpath gwt xml path gwtxmldoc gwt xml doc gwtxmlroot gwt xml root sourceel sourc element firstsourceel sourc element newsourceel sourc element builder inputstream input stream proxymethod proxi method memberdetail member detail returntyp type propertynam properti returntyp type insourcepath sourc path ptmd concretetyp concret type abstractnam abstracttyp type abstractid cidbuild cid builder abstractconstructor constructor typemap type map newtyp type parametertyp paramet type typeparam type bodybuild bodi builder type templateclassbuild templat builder abstractclassbuild builder fieldstoremov field remov abstractfieldbuild field builder methodstoremov method remov param abstractmethodbuild builder builder interfaceinnertypebuild type builder annotationmetadata annot metadata typemap type map typecountmatch type count match 
+VARSIG85	javatyp type type 
+VARSIG84	javatyp type 
+VARSIG83	classorinterfacetypedetail type detail ptmd 
+VARSIG82	javatyp type returntyp type 
+VARSIG39	methodmetadata metadata 
+VARSIG34	systemid system 
+VARSIG33	publicid 
+VARSIG32	gwtmodulecanonicalpath gwt modul canon path 
+VARSIG31	element sourceel sourc element 
+VARSIG38	methodmetadata metadata 
+VARSIG37	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+PACKAGE	springframework roo addon gwt 
+VARSIG36	classorinterfacetypedetail type detail governortypedetail governor type detail 
+VARSIG35	except 
+VARSIG30	iter element sourceel sourc element 
+CLASSES	gwttypeserviceimpl gwt type servic impl 
+VARSIG29	sourcepath sourc path 
+VARSIG28	modulenam modul 
+VARSIG23	modulenam modul 
+VARSIG22	list classorinterfacetypedetail type detail templatetypedetail templat type detail 
+VARSIG21	gwttype gwt type type 
+VARSIG20	filedetail file detail filedetail file detail 
+VARSIG27	sourcepath sourc path 
+VARSIG26	element sourcepathel sourc path element 
+VARSIG25	modulenam modul 
+VARSIG24	classorinterfacetypedetail type detail templatetypedetail templat type detail 
+VARSIG7	classorinterfacetypedetail type detail request 
+VARSIG6	classorinterfacetypedetail type detail proxi 
+VARSIG9	classorinterfacetypedetail type detail request 
+VARSIG8	classorinterfacetypedetail type detail locat 
+VARSIG3	convertprimit convert primit 
+VARSIG2	requesttyp request type 
+VARSIG5	classorinterfacetypedetail type detail request 
+VARSIG4	classorinterfacetypedetail type detail proxi 
+VARSIG1	javatyp type governortyp governor type 
+VARSIG0	javatyp type returntyp type 
+VARSIG56	gwttype gwt type desttyp dest type 
+VARSIG55	javasymbolnam symbol paramnam 
+VARSIG54	javatyp type typetyp type type 
+VARSIG53	annotatedjavatyp annot type type 
+VARSIG59	modulenam modul 
+VARSIG58	list memberholdingtypedetail member hold type detail extendstyp type 
+VARSIG57	classorinterfacetypedetail type detail templateclass templat 
+MTHSIG42	getserviceloc servic locat modulenam modul 
+MTHSIG40	resolvetyp resolv type javatyp type javatyp type type 
+MTHSIG41	convertmodifi convert modifi builder 
+VARSIG52	constructormetadata constructor metadata constructor 
+VARSIG51	memberholdingtypedetail member hold type detail extendstypedetail type detail 
+VARSIG50	modulenam modul 
+VARSIG45	iter javapackag sourcepackag sourc packag 
+VARSIG44	javatyp type type 
+VARSIG43	iter javapackag sourcepackag sourc packag 
+VARSIG42	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG49	list memberholdingtypedetail member hold type detail extendstypesdetail type detail 
+VARSIG48	classorinterfacetypedetailsbuild type detail builder concreteclass concret 
+VARSIG47	javatyp type type 
+VARSIG46	javapackag sourcepackag sourc 
+VARSIG41	methodmetadata metadata 
+VARSIG40	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 

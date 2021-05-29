@@ -1,0 +1,19 @@
+VARSIG7	str
+VARSIG6	
+VARSIG8	isfield field
+VARSIG3	classorinterfacetypedetails type details classorinterfacetypedetails type details
+VARSIG2	classorinterfacetypedetails type details managedentity managed entity
+VARSIG5	javapackage javapackage
+VARSIG4	tablenamepattern table pattern
+COMMENTS	methods find types based table names type field names table column names locates type presented table managedentities managed entities set database managed entities search tablenamepattern table pattern table locate required type locates table presented classorinterfacetypedetails type details search table names starts table annotation rooentity roo entity table attribute checked returns classorinterfacetypedetails type details type search table locate table attribute table table foo table attribute rooentity roo entity rooentity roo entity table foo search continues returns javatype type table identity tablenamepattern table pattern table convert javapackage type javatype type returns field database table column table column representing table column
+CLASSES	dbretypeutils dbre type utils
+VARSIG1	tablenamepattern table pattern
+VARSIG0	set classorinterfacetypedetails type details managedentities managed entities
+METHODS	findtypefortablename find type table gettablename table suggesttypenamefornewtable type table suggestfieldname field getname
+MTHSIG4	getname str isfield field
+MTHSIG0	findtypefortablename find type table set classorinterfacetypedetails type details managedentities managed entities tablenamepattern table pattern
+MTHSIG1	gettablename table classorinterfacetypedetails type details classorinterfacetypedetails type details
+PACKAGE	springframework roo addon dbre
+MTHSIG2	suggesttypenamefornewtable type table tablenamepattern table pattern javapackage javapackage
+MTHSIG3	suggestfieldname field
+VARIABLES	managedentities managed entities tablenamepattern table pattern managedentity managed entity classorinterfacetypedetails type details tablenamepattern table pattern javapackage str isfield field tablename table tablename table annotation nameattribute attribute tableattribute table attribute result result isdelimchar delim

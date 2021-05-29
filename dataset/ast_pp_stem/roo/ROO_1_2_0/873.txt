@@ -1,0 +1,52 @@
+MTHSIG4	setpackagingproviderid set packag provid document pom 
+MTHSIG5	getgroupid group javapackag toplevelpackag top level 
+VARSIG33	projectoper project oper projectoper project oper 
+MTHSIG6	getprojectnam project nullableprojectnam nullabl project modul javapackag toplevelpackag top level 
+VARSIG32	modulenam modul 
+MTHSIG7	getartifactid artifact nullableprojectnam nullabl project modul javapackag toplevelpackag top level 
+VARSIG31	ioexcept except 
+MTHSIG0	abstractpackagingprovid packag provid pomtempl pom templat 
+MTHSIG1	getid 
+PACKAGE	springframework roo project packag 
+MTHSIG2	createartifact creat artifact javapackag toplevelpackag top level nullableprojectnam nullabl project javavers version gav parentpom parent pom modul projectoper project oper projectoper project oper 
+MTHSIG3	createpom creat pom javapackag toplevelpackag top level projectnam project javavers version gav parentpom parent pom modul projectoper project oper projectoper project oper 
+MTHSIG8	setgroupidandpar set group parent projectgroupid project group gav parentpom parent pom element root document pom 
+VARSIG30	projectoper project oper projectoper project oper 
+MTHSIG9	createotherartifact creat artifact javapackag toplevelpackag top level modul projectoper project oper projectoper project oper 
+CLASSES	abstractpackagingprovid packag provid 
+VARSIG29	modul 
+VARSIG28	javapackag toplevelpackag top level 
+METHODS	abstractpackagingprovid packag provid getid createartifact creat artifact createpom creat pom setpackagingproviderid set packag provid getgroupid group getprojectnam project getartifactid artifact setgroupidandpar set group parent createotherartifact creat artifact setuplog jconfigur set log configur getpomtempl pom templat getfullyqualifiedmodulenam fulli qualifi modul 
+VARSIG23	javapackag toplevelpackag top level 
+VARSIG22	modul 
+VARSIG21	nullableprojectnam nullabl project 
+VARSIG20	javapackag toplevelpackag top level 
+VARSIG27	document pom 
+VARSIG26	element root 
+VARSIG25	gav parentpom parent pom 
+VARSIG24	projectgroupid project group 
+VARSIG7	modul 
+VARSIG6	gav parentpom parent pom 
+VARSIG9	javapackag toplevelpackag top level 
+VARSIG8	projectoper project oper projectoper project oper 
+VARSIG3	javapackag toplevelpackag top level 
+VARSIG2	pomtempl pom templat 
+VARSIG5	javavers version 
+VARSIG4	nullableprojectnam nullabl project 
+COMMENTS	conveni superclass core parti addon implement link packagingprovid packag provid templat gof pattern constant pom properti store packag provid provid field constructor uniqu packag type link packagingprovid packag provid getid type packag pom requir pomtempl pom templat path packag type type pom templat rel link getresourceasstream resourc stream templat parent element groupid group artifactid artifact version element parent element remov requir todo find document remov creat maven pom subclass pom templat set parent pom parent set groupid group result link getgroupid group omit element parent parent groupid group maven practic set artifactid artifact result link getartifactid artifact set packag result link getnam set project result link getprojectnam project replac occurr link version placehold version assumpt pom templat life easier write link packagingprovid packag provid toplevelpackag top level project modul modul top level requir projectnam project project user blank javavers version version substitut pom requir parentpom parent pom maven coordin parent pom modul unqualifi maven modul pom belong projectoper project oper inject circular depend path newli creat pom read pom templat classpath user element tradit place ensur templat groupid group parent artifactid artifact version packag version write pom disk store link packagingprovid packag provid pom properti call roo packag provid properti subclass overrid awar roo work pom xml file link packagingprovid packag provid pom dom document pom creat return groupid group project modul creat implement simpli fulli qualifi subclass overrid strategi toplevelpackag top level project modul modul top level requir return text insert pom pom element implement project blank element subclass overrid strategi nullableprojectnam nullabl project project enter user blank modul modul creat blank root modul toplevelpackag top level project modul modul top level requir blank requir return text insert pom pom element implement simpli deleg link getprojectnam project subclass overrid strategi nullableprojectnam nullabl project project enter user blank modul modul creat blank root modul toplevelpackag top level project modul modul top level requir blank artifactid artifact set maven groupid group id parent project projectgroupid project group project project groupid group requir parentpom parent pom maven coordin parent pom root root element pom document requir pom pom document requir parent pom remov parent element parent parent groupid group artifactid artifact version project groupid group maven practic inherit groupid group parent project groupid group explicit subclass overrid creat requir file directori pom gener link createpom creat pom implement set log log configur file root modul toplevelpackag top level modul unqualifi modul creat empti root modul projectoper project oper can inject creat circular depend return rel path link packagingprovid packag provid pom templat blank path return fulli qualifi modul rel focus modul modulenam modul blank root modul projectoper project oper 
+VARSIG19	modul 
+VARSIG1	 
+VARSIG18	nullableprojectnam nullabl project 
+VARSIG0	 
+VARSIG17	javapackag toplevelpackag top level 
+VARSIG12	gav parentpom parent pom 
+VARSIG11	javavers version 
+VARSIG10	projectnam project 
+VARSIG16	document pom 
+VARSIG15	element versionel version element 
+VARSIG14	projectoper project oper projectoper project oper 
+VARSIG13	modul 
+MTHSIG11	getpomtempl pom templat 
+MTHSIG12	getfullyqualifiedmodulenam fulli qualifi modul modulenam modul projectoper project oper projectoper project oper 
+MTHSIG10	setuplog jconfigur set log configur 
+VARIABLES	pomtempl pom templat toplevelpackag top level nullableprojectnam nullabl project javavers version parentpom parent pom modul projectoper project oper toplevelpackag top level projectnam project javavers version parentpom parent pom modul projectoper project oper versionel version element pom toplevelpackag top level nullableprojectnam nullabl project modul toplevelpackag top level nullableprojectnam nullabl project modul toplevelpackag top level projectgroupid project group parentpom parent pom root pom toplevelpackag top level modul projectoper project oper modulenam modul projectoper project oper logger version version placehold version element roo packag provid properti applicationcontextoper applic context oper filemanag file manag pathresolv path resolv pomtempl pom templat pompath pom path pom root mavennam maven artifactid artifact existingversionel exist version element versionel version element pompath pom path propertiesel properti element parentpomel parent pom element projectgroupidel project group element log jconfigfil log config file templat focusedmodulenam focus modul 

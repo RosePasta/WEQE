@@ -1,0 +1,23 @@
+VARSIG7	tilestemplatename tiles template
+VARSIG6	tilesviewname tiles view
+VARSIG9	
+VARSIG8	viewlocation view location
+VARSIG3	webmvcconfigname web mvc config
+VARSIG2	pathresolver path resolver pathresolver path resolver
+VARSIG5	ioexception exception ioe
+VARSIG4	saxexception sax exception
+COMMENTS	operations manage tiles view definitions creates configuration object setup artifacts tiles layout engine foldername folder folder view artifacts specific add domain object stored located web inf views filemanager file manager file manager virtual filesystem operations pathresolver path resolver path resolver webmvcconfigname web mvc config configuration tilesconfigurer tiles configurer resides adds view definition views xml tiles configuration tilesviewname tiles view simple view list update views nested folders owner list owner tilestemplatename tiles template template admin templatelocation template location location template web application web inf views owner list jspx definition exist adds view definition views xml tiles configuration simple view list update find menu item category exists attempt save tiles view definition actual file detected disk changed updated created build representation jsp mutablefile mutable file write contents jspcontent jsp content file verify file changed write file file existing file contents wrote file file existed contained content behaviour
+CLASSES	tilesoperations tiles operations
+VARSIG1	filemanager file manager filemanager file manager
+VARSIG0	foldername folder
+METHODS	tilesoperations tiles operations addviewdefinition add view definition removeviewdefinition remove view definition writetodiskifnecessary write disk
+VARSIG12	publicid
+VARSIG11	ioexception exception ioe
+VARSIG10	ioexception exception ignoreandjustoverwriteit ignore overwrite
+MTHSIG0	tilesoperations tiles operations foldername folder filemanager file manager filemanager file manager pathresolver path resolver pathresolver path resolver webmvcconfigname web mvc config
+MTHSIG1	addviewdefinition add view definition tilesviewname tiles view tilestemplatename tiles template viewlocation view location
+PACKAGE	springframework roo addon mvc jsp
+MTHSIG2	removeviewdefinition remove view definition
+MTHSIG3	writetodiskifnecessary write disk
+VARSIG13	systemid system
+VARIABLES	foldername folder filemanager file manager pathresolver path resolver webmvcconfigname web mvc config ioe tilesviewname tiles view tilestemplatename tiles template viewlocation view location ignoreandjustoverwriteit ignore overwrite ioe publicid systemid system root filemanager file manager pathresolver path resolver simplebeanname simple bean template template tilesview tiles view viewfile view file builder definition putattribute attribute element bytearrayoutputstream array output stream transformer jspcontent jsp content tilesdefinition tiles definition mutablefile mutable file existing

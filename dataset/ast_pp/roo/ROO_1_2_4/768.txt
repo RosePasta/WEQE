@@ -1,0 +1,8 @@
+MTHSIG0	setup set
+MTHSIG1	testfocusontypethatcannotbelocated test focus type located
+PACKAGE	springframework roo classpath operations
+COMMENTS	unit test link classpathoperationsimpl classpath operations impl fixture set invoke check
+CLASSES	classpathoperationsimpltest classpath operations impl test
+VARIABLES	expected classpathoperations classpath operations mocktypelocationservice mock type location service mocktype mock type typename type
+VARSIG0	nullpointerexception pointer exception expected
+METHODS	setup set testfocusontypethatcannotbelocated test focus type located

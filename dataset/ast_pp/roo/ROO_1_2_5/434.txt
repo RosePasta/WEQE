@@ -1,0 +1,29 @@
+VARSIG7	modulename module
+VARSIG6	element configuration
+VARSIG9	element configuration
+VARSIG8	element dependencyelement dependency element
+VARSIG3	javapackage permissionevaluatorpackage permission evaluator
+VARSIG2	javapackage permissionevaluatorpackage permission evaluator
+VARSIG5	javapackage permissionevaluatorpackage permission evaluator
+VARSIG4	ioexception exception ioe
+COMMENTS	security installation services parse configuration xml file add pom properties add dependencies pom copy template copy template include view controller handler webmvc config xml type exists copy template permit installation web project roo version spring security installed
+VARSIG1	ioexception exception ioe
+VARSIG0	ioexception exception ioe
+MTHSIG4	issecurityinstallationpossible security installation
+VARSIG12	modulename module
+MTHSIG5	isservicepermissionevaluatorinstallationpossible service permission evaluator installation
+VARSIG11	element property
+MTHSIG6	updatedependencies update dependencies element configuration modulename module
+VARSIG10	modulename module
+MTHSIG7	updatepomproperties update pom properties element configuration modulename module
+MTHSIG0	installsecurity install security
+MTHSIG1	createpermissionevaluator create permission evaluator javapackage permissionevaluatorpackage permission evaluator
+PACKAGE	springframework roo addon security
+MTHSIG2	installpermissionevaluatortemplate install permission evaluator template javapackage permissionevaluatorpackage permission evaluator
+MTHSIG3	installpermissionevaluator install permission evaluator javapackage permissionevaluatorpackage permission evaluator
+VARSIG13	dependency dependency
+MTHSIG8	getname
+MTHSIG9	isinstalledinmodule installed module modulename module
+CLASSES	securityoperationsimpl security operations impl
+METHODS	installsecurity install security createpermissionevaluator create permission evaluator installpermissionevaluatortemplate install permission evaluator template installpermissionevaluator install permission evaluator issecurityinstallationpossible security installation isservicepermissionevaluatorinstallationpossible service permission evaluator installation updatedependencies update dependencies updatepomproperties update pom properties getname isinstalledinmodule installed module
+VARIABLES	ioe ioe permissionevaluatorpackage permission evaluator permissionevaluatorpackage permission evaluator ioe permissionevaluatorpackage permission evaluator configuration modulename module dependencyelement dependency element configuration modulename module property modulename module dependency spring security filemanager file manager pathresolver path resolver projectoperations project operations tilesoperations tiles operations typemanagementservice type management service metadataservice metadata service configuration destination inputstream input stream outputstream output stream loginpage login inputstream input stream outputstream output stream webxmlpath web xml path webxmldocument web xml document webconfigpath web config path webconfigdocument web config document webconfig web config viewcontroller view controller focusedsrcmainjava focused src permissionevaluatorclass permission evaluator identifier classannotationmetadata annotation metadata classmid mid classbuilder builder destination inputstream input stream content dependencies securitydependencies security dependencies databaseproperties database properties pom

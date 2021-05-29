@@ -1,0 +1,15 @@
+VARSIG2	methodparameter parameter callerparameters caller parameters
+COMMENTS	unit test link repositoryjpalayerprovider repository jpa layer provider fixture asserts link repositoryjpalayerprovider repository jpa layer provider generates expected call parameters expectedmethodcall expected call methodkey key callerparameters caller parameters set invoke check sets mock link repositoryjpalocator repository jpa locator link persistencememberlocator persistence member locator mock repository test entity invoke check invoke check
+CLASSES	repositoryjpalayerprovidertest repository jpa layer provider test
+VARSIG1	methodmetadatacustomdatakey metadata custom data key methodkey key
+VARSIG0	expectedmethodcall expected call
+METHODS	assertmethodcall call setup set setupmockrepository set mock repository testgetadditionsfornonrepositorylayermethod test additions repository layer testgetadditionswhennorepositoriesexist test additions repositories exist testgetfindalladditions test find additions testgetflushadditions test flush additions
+MTHSIG4	testgetadditionswhennorepositoriesexist test additions repositories exist
+MTHSIG5	testgetfindalladditions test find additions
+MTHSIG6	testgetflushadditions test flush additions
+MTHSIG0	assertmethodcall call expectedmethodcall expected call methodmetadatacustomdatakey metadata custom data key methodkey key methodparameter parameter callerparameters caller parameters
+MTHSIG1	setup set
+PACKAGE	springframework roo addon layers repository jpa
+MTHSIG2	setupmockrepository set mock repository
+MTHSIG3	testgetadditionsfornonrepositorylayermethod test additions repository layer
+VARIABLES	expectedmethodcall expected call methodkey key callerparameters caller parameters caller mid layerprovider layer provider mockidtype mock type mockrepositorylocator mock repository locator mocktargetentity mock target entity additions mockrepositorydetails mock repository details mockfieldmetadata mock field metadata mockrepositorytype mock repository type additions additions entityparameter entity parameter

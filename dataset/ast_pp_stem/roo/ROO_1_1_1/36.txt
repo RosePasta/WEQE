@@ -1,0 +1,49 @@
+MTHSIG4	readschemafrominputstream read schema input stream inputstream input stream inputstream input stream 
+VARSIG34	except 
+MTHSIG5	readdatabasestructurefrominputstreamwithdom read databas structur input stream dom inputstream input stream inputstream input stream 
+VARSIG33	emptystackexcept empti stack except 
+MTHSIG6	addindic add indic tabl tabl element tableel tabl element indextyp type indextyp type 
+VARSIG32	inputstream input stream inputstream input stream 
+MTHSIG7	getdocu document inputstream input stream inputstream input stream 
+VARSIG31	except 
+MTHSIG0	writedatabasestructuretooutputstream write databas structur output stream databas databas outputstream output stream outputstream output stream 
+MTHSIG1	addforeignkeyel add foreign kei element set foreignkei foreign kei foreignkei foreign export element tableel tabl element document document 
+PACKAGE	springframework roo addon dbre model 
+MTHSIG2	createoptionel creat option element kei document document 
+MTHSIG3	readschemafrominputstreamwithdom read schema input stream dom inputstream input stream inputstream input stream 
+MTHSIG8	readdatabasestructurefrominputstream read databas structur input stream inputstream input stream inputstream input stream 
+VARSIG30	inputstream input stream inputstream input stream 
+CLASSES	databasexmlutil databas xml util 
+VARSIG29	element indexcolumnel column element 
+VARSIG28	element element 
+METHODS	writedatabasestructuretooutputstream write databas structur output stream addforeignkeyel add foreign kei element createoptionel creat option element readschemafrominputstreamwithdom read schema input stream dom readschemafrominputstream read schema input stream readdatabasestructurefrominputstreamwithdom read databas structur input stream dom addindic add indic getdocu document readdatabasestructurefrominputstream read databas structur input stream 
+VARSIG23	element optionel option element 
+VARSIG22	element foreignkeyel foreign kei element 
+VARSIG21	element columnel column element 
+VARSIG20	element tableel tabl element 
+VARSIG27	indextyp type indextyp type 
+VARSIG26	element tableel tabl element 
+VARSIG25	tabl tabl 
+VARSIG24	element referenceel refer element 
+VARSIG7	export 
+VARSIG6	set foreignkei foreign kei foreignkei foreign 
+VARSIG9	document document 
+VARSIG8	element tableel tabl element 
+VARSIG3	column column 
+VARSIG2	tabl tabl 
+VARSIG5	indexcolumn column indexcolumn column 
+VARSIG4	 
+COMMENTS	assist convert link databas xml dom sax don process option element 
+VARSIG19	element optionel option element 
+VARSIG1	outputstream output stream outputstream output stream 
+VARSIG18	inputstream input stream inputstream input stream 
+VARSIG0	databas databas 
+VARSIG17	except 
+VARSIG12	kei 
+VARSIG11	refer refer 
+VARSIG10	foreignkei foreign kei foreignkei foreign kei 
+VARSIG16	inputstream input stream inputstream input stream 
+VARSIG15	inputstream input stream inputstream input stream 
+VARSIG14	document document 
+VARSIG13	 
+VARIABLES	databas outputstream output stream tabl column indexcolumn column foreignkei foreign export tableel tabl element document foreignkei foreign kei refer kei document inputstream input stream inputstream input stream inputstream input stream optionel option element tableel tabl element columnel column element foreignkeyel foreign kei element optionel option element referenceel refer element tabl tableel tabl element indextyp type element indexcolumnel column element inputstream input stream inputstream input stream local foreign foreign tabl descript refer updat delet exclud tabl includ tabl indextyp type document comment databaseel databas element tableel tabl element columnel column element indexel element indexcolumnel column element transform foreignkeyel foreign kei element foreigntablenam foreign tabl referenceel refer element option document databaseel databas element spf parser contenthandl content handler document databaseel databas element databas optionel option element tableel tabl element tabl columnel column element type datatypeandnam data type datatyp data type typenam type size columns column size decimaldigit decim digit precisionscal precis scale column foreignkeyel foreign kei element foreignkei foreign kei referenceel refer element refer element indexcolumnel column element indexcolumn column builder spf parser contenthandl content handler 

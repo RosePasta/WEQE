@@ -1,0 +1,22 @@
+VARSIG7	clioption cli option key backingtype backing type mandatory optioncontext option context project unspecifieddefaultvalue unspecified form backing type controller exposes web tier javatype type backingtype backing type
+VARSIG6	clioption cli option key mandatory path controller object created javatype type controller
+VARSIG9	clioption cli option key disallowedoperations disallowed operations mandatory comma separated list operations create update delete allowed generated controller disallowedoperations disallowed operations
+VARSIG8	clioption cli option key path mandatory base path controller listens restful res tful requests defaults simple form backing object path
+VARSIG3	clioption cli option key path mandatory base path controller listens restful res tful requests defaults simple form backing object path
+VARSIG2	clioption cli option key entity mandatory optioncontext option context project unspecifieddefaultvalue unspecified entity object controller exposes web tier javatype type entity
+VARSIG5	clioption cli option key mandatory optioncontext option context update controllers javapackage javapackage
+VARSIG4	clioption cli option key disallowedoperations disallowed operations mandatory comma separated list operations create update delete allowed generated controller disallowedoperations disallowed operations
+COMMENTS	commands mvc controller add roo shell
+CLASSES	controllercommands controller commands
+VARSIG1	clioption cli option key mandatory path controller object created javatype type controller
+VARSIG0	clioption cli option key mandatory optioncontext option context update controllers javapackage javapackage
+METHODS	generateall generate isnewcontrolleravailable controller isscaffoldavailable scaffold newcontroller controller webmvcall web mvc webmvcscaffold web mvc scaffold
+MTHSIG4	webmvcall web mvc javapackage javapackage
+MTHSIG5	webmvcscaffold web mvc scaffold javatype type controller javatype type backingtype backing type path disallowedoperations disallowed operations
+VARSIG10	operation
+MTHSIG0	generateall generate javapackage javapackage
+MTHSIG1	isnewcontrolleravailable controller
+PACKAGE	springframework roo addon web mvc controller
+MTHSIG2	isscaffoldavailable scaffold
+MTHSIG3	newcontroller controller javatype type controller javatype type entity path disallowedoperations disallowed operations
+VARIABLES	javapackage controller entity path disallowedoperations disallowed operations javapackage controller backingtype backing type path disallowedoperations disallowed operations operation logger controlleroperations controller operations metadataservice metadata service projectoperations project operations typelocationservice type location service cid disallowedoperationset disallowed operation set disallowedoperationstokens disallowed operations tokens targetpath target path pluralmetadata plural metadata

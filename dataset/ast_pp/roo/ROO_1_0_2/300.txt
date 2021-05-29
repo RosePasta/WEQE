@@ -1,0 +1,12 @@
+MTHSIG0	tokenize remainingbuffer remaining buffer
+VARSIG3	stringbuilder builder currentoption current option
+MTHSIG1	store map stringbuilder builder currentoption current option stringbuilder builder currentvalue current
+VARSIG2	map
+PACKAGE	springframework roo shell
+VARSIG4	stringbuilder builder currentvalue current
+COMMENTS	converts buffer tokenized structure properly treats quotes option delimiters expects option names preceded single dash call option marker treats spaces option tokenizer token option marker considered returned map element empty key single remainingbuffer remaining buffer tokenize map option names dashes values option values quotes removed verify correct number quotes they exit interested token series current token series ended store ended token series current token series ended start delimited token simply empty ignore roo start option marker strip store token token starts tokens store processing token started iteration store standard token standard token option unquoted spaces existing content add space store token token starts tokens store processing token started iteration store ordinary token store strip empty option returned roo option marker option marker verify isn
+CLASSES	parserutils parser utils
+VARIABLES	remainingbuffer remaining buffer currentoption current option currentvalue current result currentoption current option currentvalue current inquotes quotes count split currenttoken current token tokenlessdelimiters token delimiters tokenlessdelimiters token delimiters lastindex tokenlessdelimiters token delimiters option
+VARSIG1	
+VARSIG0	remainingbuffer remaining buffer
+METHODS	tokenize store

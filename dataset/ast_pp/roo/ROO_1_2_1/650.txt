@@ -1,0 +1,38 @@
+VARSIG7	javasymbolname symbol methodname
+VARSIG6	javasymbolname symbol methodname
+VARSIG9	proposedname proposed
+VARSIG8	list javatype type parameters
+VARSIG3	javatype type typename type
+VARSIG2	javasymbolname symbol fieldname field
+VARSIG5	javatype type annotation
+VARSIG4	javasymbolname symbol fieldname field
+COMMENTS	immutable representation members aspect type type equivalent calling link getextendstypes types checking type returned list type supertype checked required locates constructor parameter types parameters locate parameters constructor locates field fieldname field locate field locates type typename type locate required returns names dynamic finders list lists classes type empty empty link list extend single link list support interfaces support special declare parents destinationtype destination type superclasstype superclass type feature itds permits effectively multiple inheritance unmodifiable representation classes type empty searches inheritance hierarchy field located fieldname field locate required field searches inheritance hierarchy locates declared fields annotated annotation annotation locate required located fields empty lists classes type empty link list support interfaces support special declare parents destinationtype destination type someinterfacetype type feature itds unmodifiable representation classes type empty layering component service repository returns domain entities managed component returns empty list list empty searches inheritance hierarchy located parameters account methodname locate required searches inheritance hierarchy parameters located methodname locate required parameters locate parameters locates methods superclasses methods generates unique field starting proposed adding underscores unique proposedname proposed proposed field required that unique governor memberfindingutils member finding utils getfield field springframework roo classpath details memberholdingtypedetails member holding type details javasymbolname symbol type types equivalent calling link getimplementstypes types checking types returned list type interfaces checked required type equivalent calling link getimplementstypes types checking type returned list type checked required
+VARSIG1	list javatype type parameters
+VARSIG0	javatype type type
+MTHSIG4	getdeclaredfields declared fields
+MTHSIG5	getdeclaredinitializers declared initializers
+VARSIG11	javatype type interfacetype type
+MTHSIG6	getdeclaredinnertype declared type javatype type typename type
+VARSIG10	javatype type type
+MTHSIG7	getdeclaredinnertypes declared types
+MTHSIG0	extendstype type javatype type type
+MTHSIG1	getdeclaredconstructor declared constructor list javatype type parameters
+PACKAGE	springframework roo classpath details
+MTHSIG2	getdeclaredconstructors declared constructors
+MTHSIG3	getdeclaredfield declared field javasymbolname symbol fieldname field
+MTHSIG20	implementstype type javatype type interfacetype type
+MTHSIG8	getdeclaredmethods declared methods
+MTHSIG9	getdynamicfindernames dynamic finder names
+MTHSIG17	getmethods methods
+MTHSIG18	getuniquefieldname unique field proposedname proposed
+MTHSIG15	getmethod javasymbolname symbol methodname
+MTHSIG16	getmethod javasymbolname symbol methodname list javatype type parameters
+MTHSIG13	getimplementstypes types
+MTHSIG14	getlayerentities layer entities
+MTHSIG11	getfield field javasymbolname symbol fieldname field
+MTHSIG12	getfieldswithannotation fields annotation javatype type annotation
+CLASSES	memberholdingtypedetails member holding type details
+METHODS	extendstype type getdeclaredconstructor declared constructor getdeclaredconstructors declared constructors getdeclaredfield declared field getdeclaredfields declared fields getdeclaredinitializers declared initializers getdeclaredinnertype declared type getdeclaredinnertypes declared types getdeclaredmethods declared methods getdynamicfindernames dynamic finder names getextendstypes types getfield field getfieldswithannotation fields annotation getimplementstypes types getlayerentities layer entities getmethod getmethod getmethods methods getuniquefieldname unique field implementsany implementstype type
+MTHSIG19	implementsany javatype type type
+MTHSIG10	getextendstypes types
+VARIABLES	type parameters fieldname field typename type fieldname field annotation methodname methodname parameters proposedname proposed type interfacetype type

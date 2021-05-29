@@ -1,0 +1,16 @@
+VARSIG3	execution executions
+VARSIG2	dependency dependency
+VARSIG5	projecttype project type projecttype project type
+VARSIG4	dependency dependency
+COMMENTS	mutability services link projectmetadata project metadata attempts add dependency dependency exists link projectmetadata project metadata isdependencyregistered dependency registered dependency silently returns dependency exception thrown called link projectmetadata project metadata disk representation modified reason dependency add required attempts remove dependency dependency exist link projectmetadata project metadata isdependencyregistered dependency registered dependency silently returns located dependency removed exception thrown called link projectmetadata project metadata disk representation modified reason dependency remove required attempts add build plugin dependency dependency exists link projectmetadata project metadata isbuildplugindependencyregistered build plugin dependency registered dependency silently returns dependency exception thrown called link projectmetadata project metadata disk representation modified reason dependency add required execution specifications build plugin optional attempts remove build plugin dependency dependency exist link projectmetadata project metadata isbuildplugindependencyregistered build plugin dependency registered dependency silently returns located dependency removed exception thrown called link projectmetadata project metadata disk representation modified reason dependency remove required attempts update project packaging type defined link projecttype project type project packaging defined create definition exception thrown called link projectmetadata project metadata disk representation modified reason projecttype project type update required
+CLASSES	projectmetadataprovider project metadata provider
+VARSIG1	dependency dependency
+VARSIG0	dependency dependency
+METHODS	adddependency add dependency removedependency remove dependency addbuildplugindependency add build plugin dependency removebuildplugindependency remove build plugin dependency updateprojecttype update project type
+MTHSIG4	updateprojecttype update project type projecttype project type projecttype project type
+MTHSIG0	adddependency add dependency dependency dependency
+MTHSIG1	removedependency remove dependency dependency dependency
+PACKAGE	springframework roo project
+MTHSIG2	addbuildplugindependency add build plugin dependency dependency dependency execution executions
+MTHSIG3	removebuildplugindependency remove build plugin dependency dependency dependency
+VARIABLES	dependency dependency dependency executions dependency projecttype project type

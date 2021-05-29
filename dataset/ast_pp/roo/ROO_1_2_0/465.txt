@@ -1,0 +1,37 @@
+VARSIG7	map javatype type list methodmetadata metadata tostringmethods methods
+VARSIG6	map javatype type map object javasymbolname symbol compositeprimarykeytypes composite primary key types
+VARSIG9	entry javatype type map object javasymbolname symbol entry
+VARSIG8	javatype type formbackingobject form backing object
+VARSIG3	map javatype type membertypeadditions member type additions findmethods find methods
+VARSIG2	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG5	set javatype type relevantdomaintypes relevant domain types
+VARSIG4	map javatype type javatype type idtypes types
+COMMENTS	represents metadata application wide conversion service generates methods afterpropertiesset properties set overrides initializingbean initializing bean lifecycle parent installlabelconverters install label converters formatterregistry formatter registry registry registers converter methods converter scaffolded domain types associations constants fields production constructor identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata findmethods find methods idtypes types types domain types generate converters required domain type relevantdomaintypes relevant domain types types generate converters required compositeprimarykeytypes composite primary key types required conversion type returns type converter generated targettype target type type converted required methodname generate required idtype type type target type required generated
+VARSIG19	javatype type idtype type
+VARSIG1	javatype type aspectname aspect
+VARSIG18	javasymbolname symbol methodname
+VARSIG0	identifier
+VARSIG17	javatype type targettype target type
+MTHSIG4	gettostringconvertermethod converter javatype type targettype target type javasymbolname symbol methodname list methodmetadata metadata tostringmethods methods
+VARSIG12	javatype type targettype target type
+MTHSIG5	getstringtotypeconvertermethod type converter javatype type targettype target type javasymbolname symbol methodname javatype type idtype type
+VARSIG11	javasymbolname symbol jsonmethodname json
+MTHSIG6	gettotypeconvertermethod type converter javatype type targettype target type javasymbolname symbol methodname membertypeadditions member type additions findmethod find javatype type idtype type
+VARSIG10	javatype type targettype target type
+MTHSIG7	getafterpropertiessetmethod properties set
+MTHSIG0	conversionservicemetadata conversion service metadata identifier javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata map javatype type membertypeadditions member type additions findmethods find methods map javatype type javatype type idtypes types set javatype type relevantdomaintypes relevant domain types map javatype type map object javasymbolname symbol compositeprimarykeytypes composite primary key types map javatype type list methodmetadata metadata tostringmethods methods
+VARSIG16	list methodmetadata metadata tostringmethods methods
+MTHSIG1	getinstalllabelconvertersmethod install label converters
+VARSIG15	javasymbolname symbol methodname
+PACKAGE	springframework roo addon web mvc controller converter
+MTHSIG2	getjsontoconvertermethod json converter javatype type targettype target type javasymbolname symbol jsonmethodname json
+VARSIG14	javatype type targettype target type
+MTHSIG3	gettojsonconvertermethod json converter javatype type targettype target type javasymbolname symbol jsonmethodname json
+VARSIG13	javasymbolname symbol jsonmethodname json
+CLASSES	conversionservicemetadata conversion service metadata
+METHODS	conversionservicemetadata conversion service metadata getinstalllabelconvertersmethod install label converters getjsontoconvertermethod json converter gettojsonconvertermethod json converter gettostringconvertermethod converter getstringtotypeconvertermethod type converter gettotypeconvertermethod type converter getafterpropertiessetmethod properties set
+VARSIG23	javatype type idtype type
+VARSIG22	membertypeadditions member type additions findmethod find
+VARSIG21	javasymbolname symbol methodname
+VARSIG20	javatype type targettype target type
+VARIABLES	identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata findmethods find methods idtypes types relevantdomaintypes relevant domain types compositeprimarykeytypes composite primary key types tostringmethods methods formbackingobject form backing object entry targettype target type jsonmethodname json targettype target type jsonmethodname json targettype target type methodname tostringmethods methods targettype target type methodname idtype type targettype target type methodname findmethod find idtype type base converter install label converters findmethods find methods idtypes types relevantdomaintypes relevant domain types compositeprimarykeytypes composite primary key types tostringmethods methods sortedrelevantdomaintypes sorted relevant domain types bodybuilder body builder methodnames names simplename simple toidmethodname totypemethodname type totypeconvertermethod type converter stringtotypemethodname type targettype target type jsonmethodnames json names jsontoconvertermethod json converter tojsonconvertermethod json converter parametertype parameter type parameternames parameter names methodname converterjavatype converter type base name base typename type bodybuilder body builder methodname converterjavatype converter type base name base targettypename target type bodybuilder body builder converterjavatype converter type targettypename target type bodybuilder body builder converterjavatype converter type idtypename type bodybuilder body builder totypeconvertermethod type converter converterjavatype converter type bodybuilder body builder methodname bodybuilder body builder

@@ -1,0 +1,33 @@
+VARSIG7	runtimeexcept runtim except 
+VARSIG6	commandcallback command callback callback 
+VARSIG9	runtimeexcept runtim except 
+VARSIG8	commandcallback command callback callback 
+VARSIG3	throwabl 
+VARSIG2	interruptedexcept interrupt except ignoreandcontinu ignor 
+VARSIG5	componentcontext compon context context 
+VARSIG4	throwabl 
+COMMENTS	implement link processmanag process manag poll minimum poll neg denot auto scale time poll complet pass work directori current roo project check haven start event listen call time proper process manag statu check place completestartup complet startup start thread undertak background poll unsynchron lookup termin statu avoid block termin thread bother poll proper check determin thread run don sit wait call millisecond check thread lock processmanagerstatu process manag statu don poll failur background poll thread die regist initi monitor request lost requir compon undomanag undo manag roo safe call termin earlier request oper flush undo manag hold written disk file monitor servic guarante scan repeat detect happen result event notif work clear undo histori wrong attempt undo todo review consult christian st clear activ process manag activeprocessmanag activ process manag clearactiveprocessmanag clear activ process manag acquir lock thread hold process manag statu millisecond poll execut complet execut time millisecond pass poll manual interv assist debug develop mode undertak undo oper minimumdelaybetweenpol minimum delai poll millisecond pass poll thread lock process manag statu control process manag termin background timer thread thread start termin accord shut manual poll timer kick poll neg minimum delai poll auto scale poll fast durat slide scale poll record complet time ensur don poll comput millisecond ensur correctli reflect 
+VARSIG1	frameworkev framework event event 
+VARSIG0	componentcontext compon context context 
+MTHSIG4	dotransaction transaction commandcallback command callback callback 
+VARSIG12	minimumdelaybetweenpol minimum delai poll 
+MTHSIG5	execut commandcallback command callback callback 
+VARSIG11	developmentmod develop mode 
+MTHSIG6	getlastpolldur poll durat 
+VARSIG10	throwabl 
+MTHSIG7	getminimumdelaybetweenpol minimum delai poll 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	backgroundpol background poll 
+PACKAGE	springframework roo process manag intern 
+MTHSIG2	completestartup complet startup 
+MTHSIG3	deactiv componentcontext compon context context 
+VARSIG13	throwabl 
+MTHSIG8	isdevelopmentmod develop mode 
+MTHSIG9	logexcept log except throwabl 
+MTHSIG13	timerbasedpol timer base poll 
+MTHSIG11	setminimumdelaybetweenpol set minimum delai poll minimumdelaybetweenpol minimum delai poll 
+MTHSIG12	termin 
+CLASSES	defaultprocessmanag process manag 
+METHODS	activ backgroundpol background poll completestartup complet startup deactiv dotransaction transaction execut getlastpolldur poll durat getminimumdelaybetweenpol minimum delai poll isdevelopmentmod develop mode logexcept log except setdevelopmentmod set develop mode setminimumdelaybetweenpol set minimum delai poll termin timerbasedpol timer base poll 
+MTHSIG10	setdevelopmentmod set develop mode developmentmod develop mode 
+VARIABLES	context event ignoreandcontinu ignor context callback callback developmentmod develop mode minimumdelaybetweenpol minimum delai poll logger developmentmod develop mode filemonitorservic file monitor servic lastpolldur poll durat lastpolltim poll time minimumdelaybetweenpol minimum delai poll startlevel start level undomanag undo manag workingdir work dir result root messag trace effectiveminimumdelaybetweenpol effect minimum delai poll start 

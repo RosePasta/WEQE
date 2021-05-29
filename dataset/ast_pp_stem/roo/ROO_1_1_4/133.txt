@@ -1,0 +1,111 @@
+MTHSIG28	isrequestfactorycompat request factori compat javatyp type type 
+MTHSIG29	getdestinationjavatyp destin type javatyp type physicaltyp physic type gwttype gwt type mirrortyp mirror type projectmetadata project metadata projectmetadata project metadata 
+MTHSIG26	isenum physicaltypemetadata physic type metadata ptmd 
+MTHSIG27	isembedd embedd physicaltypemetadata physic type metadata ptmd 
+MTHSIG24	isent entiti javatyp type type 
+MTHSIG25	iscollectiontyp collect type javatyp type returntyp type 
+MTHSIG22	isprimit primit javatyp type type 
+MTHSIG23	isent entiti physicaltypemetadata physic type metadata ptmd 
+MTHSIG4	buildtyp build type gwttype gwt type type 
+MTHSIG5	getsourcepath sourc path 
+MTHSIG6	getproxymethod proxi method classorinterfacetypedetail type detail governortypedetail governor type detail 
+MTHSIG7	getrequestmethod request method classorinterfacetypedetail type detail governortypedetail governor type detail 
+MTHSIG0	getgwtsideleaftyp gwt side leaf type javatyp type type projectmetadata project metadata projectmetadata project metadata javatyp type governortyp governor type requesttyp request type 
+MTHSIG1	getextendstyp type classorinterfacetypedetail type detail childtyp child type 
+MTHSIG2	isgwtmodulexmlpres gwt modul xml 
+MTHSIG3	getgwtmodulexml gwt modul xml 
+MTHSIG20	istypecommon type common javatyp type type 
+VARSIG70	builder 
+MTHSIG21	isenum javatyp type type 
+MTHSIG8	setrequestmethod set request list methodmetadata metadata requestmethod request method classorinterfacetypedetail type detail governortypedetail governor type detail memberdetail member detail memberdetail member detail object tagkei tag kei 
+MTHSIG9	isvalidmethodreturntyp valid type methodmetadata metadata memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+MTHSIG33	convertmodifi convert modifi builder 
+MTHSIG34	getprojectmetadata project metadata 
+METHODS	getgwtsideleaftyp gwt side leaf type getextendstyp type isgwtmodulexmlpres gwt modul xml getgwtmodulexml gwt modul xml buildtyp build type getsourcepath sourc path getproxymethod proxi method getrequestmethod request method setrequestmethod set request isvalidmethodreturntyp valid type ismethodreturntypesinsourcepath type sourc path isdomainobject domain object createabstractbuild creat builder buildtyp build type displaywarn displai warn checkprimit check primit convertprimitivetyp convert primit type isallowablereturntyp allow type isallowablereturntyp allow type iscommontyp common type istypecommon type common isenum isprimit primit isent entiti isent entiti iscollectiontyp collect type isenum isembedd embedd isrequestfactorycompat request factori compat getdestinationjavatyp destin type ispublicaccessor accessor isdomainobject domain object resolvetyp resolv type convertmodifi convert modifi getprojectmetadata project metadata 
+VARSIG67	javatyp type 
+VARSIG66	physicaltypemetadata physic type metadata ptmd 
+VARSIG65	javatyp type returntyp type 
+VARSIG64	methodmetadata metadata 
+VARSIG69	javatyp type genericparamtyp type 
+VARSIG68	javatyp type type 
+MTHSIG31	isdomainobject domain object javatyp type returntyp type physicaltypemetadata physic type metadata ptmd 
+MTHSIG32	resolvetyp resolv type javatyp type javatyp type type 
+MTHSIG30	ispublicaccessor accessor methodmetadata metadata 
+VARSIG63	projectmetadata project metadata projectmetadata project metadata 
+VARSIG62	gwttype gwt type mirrortyp mirror type 
+VARSIG61	javatyp type physicaltyp physic type 
+VARSIG60	javatyp type type 
+COMMENTS	basic implement link gwttypeservic gwt type servic type arg client side domain type domain type list set return domain type list list type projectmetadata project metadata governortyp governor type gwt side leaf type javatyp type behaviour type consist concret type depend 
+VARSIG19	classorinterfacetypedetail type detail governortypedetail governor type detail 
+VARSIG18	list methodmetadata metadata requestmethod request method 
+VARSIG17	classorinterfacetypedetail type detail governortypedetail governor type detail 
+VARSIG12	ioexcept except 
+VARSIG11	except 
+VARSIG10	systemid system 
+VARSIG16	methodmetadata metadata 
+VARSIG15	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG14	classorinterfacetypedetail type detail governortypedetail governor type detail 
+VARSIG13	element sourcepathel sourc path element 
+MTHSIG17	isallowablereturntyp allow type methodmetadata metadata 
+MTHSIG18	isallowablereturntyp allow type javatyp type type 
+MTHSIG15	checkprimit check primit javatyp type type 
+MTHSIG16	convertprimitivetyp convert primit type javatyp type type 
+MTHSIG13	buildtyp build type gwttype gwt type desttyp dest type classorinterfacetypedetail type detail templateclass templat list memberholdingtypedetail member hold type detail extendstyp type 
+MTHSIG14	displaywarn displai warn warn 
+MTHSIG11	isdomainobject domain object javatyp type type 
+MTHSIG12	createabstractbuild creat builder classorinterfacetypedetailsbuild type detail builder concreteclass concret list memberholdingtypedetail member hold type detail extendstypesdetail type detail 
+MTHSIG19	iscommontyp common type javatyp type type 
+MTHSIG10	ismethodreturntypesinsourcepath type sourc path methodmetadata metadata memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail list sourcepath sourc path 
+VARIABLES	type projectmetadata project metadata governortyp governor type requesttyp request type childtyp child type javatyp type type templatetypedetail templat type detail publicid systemid system sourcepathel sourc path element governortypedetail governor type detail memberholdingtypedetail member hold type detail governortypedetail governor type detail requestmethod request method governortypedetail governor type detail memberdetail member detail tagkei tag kei memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail sourcepath sourc path sourcepath sourc path type concreteclass concret extendstypesdetail type detail extendstypedetail type detail constructormetadata constructor metadata type typetyp type type paramnam desttyp dest type templateclass templat extendstyp type fieldnam field fieldbuild field builder methodnam methodbuild builder innertypenam type innertyp type warn type type type type type type type ptmd type returntyp type ptmd ptmd type physicaltyp physic type mirrortyp mirror type projectmetadata project metadata returntyp type ptmd type genericparamtyp type builder logger filemanag file manag gwtfilemanag gwt file manag gwttemplateservic gwt templat servic metadataservic metadata servic memberdetailsscann member detail scanner projectoper project oper warn warningtim warn timer elementtyp element type ptmd extendstyp type supertypeid type supertyp type gwtmodulexml gwt modul xml potentialxmlfil potenti xml file projectmetadata project metadata watchedmethod watch method templatetypedetail templat type detail typestobewritten type written mutablegwtxml mutabl gwt xml gwtxmldoc gwt xml doc builder gwtxmlroot gwt xml root sourcepath sourc path sourcepathel sourc path element path proxymethod proxi method memberdetail member detail memberholdingtypedetail member hold type detail requestmethod request method memberdetail member detail gwttype gwt type methodbuild builder returntyp type propertynam properti propertytyp properti type insourcepath sourc path collectiontypeinsourcepath collect type sourc path ptmd concretetyp concret type abstractnam abstracttyp type abstractid builder abstractconstructor constructor typemap type map newtyp type paramtyp type typeparam type bodybuild bodi builder type templateclassbuild templat builder abstractclassbuild builder fieldstoremov field remov abstractfieldbuild field builder methodstoremov method remov abstractmethodbuild builder builder innertypebuild type builder annotationmetadata annot metadata annotationmetadata annot metadata typemap type map typecountmatch type count match 
+VARSIG39	javasymbolnam symbol fieldnam field 
+VARSIG34	javatyp type typetyp type type 
+VARSIG33	annotatedjavatyp annot type type 
+VARSIG32	constructormetadata constructor metadata constructormetadata constructor metadata 
+VARSIG31	memberholdingtypedetail member hold type detail extendstypedetail type detail 
+VARSIG38	list memberholdingtypedetail member hold type detail extendstyp type 
+VARSIG37	classorinterfacetypedetail type detail templateclass templat 
+PACKAGE	springframework roo addon gwt 
+VARSIG36	gwttype gwt type desttyp dest type 
+VARSIG35	javasymbolnam symbol paramnam 
+VARSIG30	list memberholdingtypedetail member hold type detail extendstypesdetail type detail 
+CLASSES	gwttypeserviceimpl gwt type servic impl 
+VARSIG29	classorinterfacetypedetailsbuild type detail builder concreteclass concret 
+VARSIG28	javatyp type type 
+VARSIG23	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG22	methodmetadata metadata 
+VARSIG21	object tagkei tag kei 
+VARSIG20	memberdetail member detail memberdetail member detail 
+VARSIG27	sourcepath sourc path 
+VARSIG26	list sourcepath sourc path 
+VARSIG25	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG24	methodmetadata metadata 
+VARSIG7	gwttype gwt type type 
+VARSIG6	illegalstateexcept illeg except 
+VARSIG9	publicid 
+VARSIG8	classorinterfacetypedetail type detail templatetypedetail templat type detail 
+VARSIG3	requesttyp request type 
+VARSIG2	javatyp type governortyp governor type 
+VARSIG5	javatyp type javatyp type 
+VARSIG4	classorinterfacetypedetail type detail childtyp child type 
+VARSIG1	projectmetadata project metadata projectmetadata project metadata 
+VARSIG0	javatyp type type 
+VARSIG56	javatyp type type 
+VARSIG55	physicaltypemetadata physic type metadata ptmd 
+VARSIG54	javatyp type type 
+VARSIG53	javatyp type type 
+VARSIG59	physicaltypemetadata physic type metadata ptmd 
+VARSIG58	physicaltypemetadata physic type metadata ptmd 
+VARSIG57	javatyp type returntyp type 
+VARSIG52	javatyp type type 
+VARSIG51	javatyp type type 
+VARSIG50	javatyp type type 
+VARSIG45	except 
+VARSIG44	classorinterfacetypedetailsbuild type detail builder innertyp type 
+VARSIG43	javatyp type innertypenam type 
+VARSIG42	methodmetadatabuild metadata builder methodbuild builder 
+VARSIG49	methodmetadata metadata 
+VARSIG48	javatyp type type 
+VARSIG47	javatyp type type 
+VARSIG46	warn 
+VARSIG41	javasymbolnam symbol methodnam 
+VARSIG40	fieldmetadatabuild field metadata builder fieldbuild field builder 

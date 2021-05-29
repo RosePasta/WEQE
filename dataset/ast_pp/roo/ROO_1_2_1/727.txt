@@ -1,0 +1,102 @@
+MTHSIG28	updatechanges update typename type remove
+MTHSIG29	updatetypecache update type cache
+MTHSIG26	processtypeswithtag process types tag object tag locatedtypecallback located type callback callback
+MTHSIG27	updateattributecache update attribute cache memberholdingtypedetails member holding type details cid
+MTHSIG24	lookupclassorinterfacetypedetails lookup type details physicaltypeidentifier physical type identifier
+MTHSIG25	processtypeswithannotation process types annotation list javatype type annotationstodetect annotations detect locatedtypecallback located type callback callback
+MTHSIG22	inittypemap init type map
+MTHSIG23	isinproject project javatype type javatype type
+MTHSIG4	findclassesorinterfacedetailswithtag find classes details tag object tag
+MTHSIG5	findtypeswithannotation find types annotation javatype type annotationstodetect annotations detect
+MTHSIG6	findtypeswithannotation find types annotation list javatype type annotationstodetect annotations detect
+MTHSIG7	getparentpath parent path javatype type javatype type
+MTHSIG0	cachetype cache type filecanonicalpath file canonical path
+MTHSIG1	discovertypes discover types
+MTHSIG2	doespathindicatejavatype path type filecanonicalpath file canonical path
+MTHSIG3	findclassesorinterfacedetailswithannotation find classes details annotation javatype type annotationstodetect annotations detect
+MTHSIG20	gettypesformodule types module modulepath module path
+MTHSIG21	hastypechanged type changed requestingclass requesting javatype type javatype type
+MTHSIG8	getphysicalpath physical path javatype type javatype type
+MTHSIG9	getphysicaltypecanonicalpath physical type canonical path javatype type javatype type logicalpath logical path path
+METHODS	cachetype cache type discovertypes discover types doespathindicatejavatype path type findclassesorinterfacedetailswithannotation find classes details annotation findclassesorinterfacedetailswithtag find classes details tag findtypeswithannotation find types annotation findtypeswithannotation find types annotation getparentpath parent path getphysicalpath physical path getphysicaltypecanonicalpath physical type canonical path getphysicaltypecanonicalpath physical type canonical path getphysicaltypeidentifier physical type identifier getphysicaltypeidentifier physical type identifier getpotentialtoplevelpackagesformodule potential top level packages module getproposedjavatype proposed type gettoplevelpackageformodule top level module gettypedetails type details gettypedetails type details gettypepath type path gettypesformodule types module gettypesformodule types module hastypechanged type changed inittypemap init type map isinproject project lookupclassorinterfacetypedetails lookup type details processtypeswithannotation process types annotation processtypeswithtag process types tag updateattributecache update attribute cache updatechanges update updatetypecache update type cache
+VARSIG66	change
+VARSIG65	requestingclass requesting
+VARSIG64	remove
+VARSIG63	typename type
+VARSIG62	object customdata custom data
+VARSIG61	object previouscustomdata previous custom data
+VARSIG60	annotationmetadata annotation metadata annotationmetadata annotation metadata
+COMMENTS	implementation link typelocationservice type location service performance reasons automatically caches queries cache invalidated file system change drop cache retrieve list paths discovered modified invocation side focused module depend type type module determine javatype type file methods obtains fresh copy link classorinterfacetypedetails type details physical type physicaltypeidentifier physical type identifier lookup required requested details unavailable cache doesn annotation processing call project processed cache updated cache doesn tag processing call project processed cache updated update type cache
+VARSIG19	javatype type type
+VARSIG18	physicaltypeid physical type
+VARSIG17	logicalpath logical path path
+VARSIG12	typepath type path
+VARSIG11	javatype type javatype type
+VARSIG10	classorinterfacetypedetails type details located
+VARSIG16	javatype type javatype type
+VARSIG15	physicalpath physical path physicalpath physical path
+VARSIG14	pom pom
+VARSIG13	javatype type javatype type
+MTHSIG17	gettypedetails type details physicaltypeid physical type
+MTHSIG18	gettypepath type path javatype type javatype type
+MTHSIG15	gettoplevelpackageformodule top level module pom module
+MTHSIG16	gettypedetails type details javatype type type
+MTHSIG13	getpotentialtoplevelpackagesformodule potential top level packages module pom module
+MTHSIG14	getproposedjavatype proposed type filecanonicalpath file canonical path
+MTHSIG11	getphysicaltypeidentifier physical type identifier javatype type type
+MTHSIG12	getphysicaltypeidentifier physical type identifier filecanonicalpath file canonical path
+MTHSIG19	gettypesformodule types module pom module
+MTHSIG10	getphysicaltypecanonicalpath physical type canonical path physicaltypeid physical type
+VARIABLES	filecanonicalpath file canonical path change filecanonicalpath file canonical path annotationstodetect annotations detect located object tag located annotationstodetect annotations detect annotationstodetect annotations detect located javatype type typepath type path javatype type pom physicalpath physical path javatype type path physicaltypeid physical type type filecanonicalpath file canonical path physicalpath physical path module typename type discoveredpackage discovered entry filecanonicalpath file canonical path physicalpath physical path module typename type discoveredpackage discovered discoveredpackage discovered entry type physicaltypeid physical type javatype type module typename type modulepath module path requestingclass requesting javatype type typeidentifier type identifier changedid changed pom path file javatype type physicaltypeidentifier physical type identifier annotationstodetect annotations detect callback annotationtype annotation type annotationtype annotation type locatedmid located mid tag callback locatedmid located mid cid previousannotation previous annotation annotationmetadata annotation metadata previouscustomdata previous custom data customdata custom data typename type remove requestingclass requesting change files ant path filemanager file manager filemonitorservice file monitor service metadataservice metadata service projectoperations project operations typecache type cache typeresolutionservice type resolution service annotationtomidmap annotation mid map changemap change map dirtyfiles dirty files discoveredtypes discovered types typecustomdatamap type custom data map tagtomidmap tag mid map typeannotationmap type annotation map cid type types types types relativepath relative path parentpath parent path pathlocation path location logicalpath logical path javatype type pom canonicalfilepath canonical file path containingphysicalpath physical path logicalpath logical path physicaltypeidentifier physical type identifier typedirectory type directory simpletypename simple type javapackage javatype type module reducedpath reduced path path packagemap map moduletypes module types toplevelpackages top level packages type typesegments type segments discoveredpackages discovered packages typesegment type segment longestpackage longest relativepath relative path moduleforfileidentifier module file identifier modulecanonicalpath module canonical path packagemap map moduletypes module types uniquetypepackages unique type packages typepackage type typesegments type segments discoveredpackages discovered packages typesegment type segment packagelist list sortedpackagemap sorted map longestpackage longest toplevelpackage top level cacheddetails cached details physicaltypemetadata physical type metadata physicaltypeid physical type typenames type names javatypes types changessincelastrequest request alljavafiles files physicaltypemetadata physical type metadata located located previousannotations previous annotations midset mid set previouscustomdataset previous custom data set midset mid set
+VARSIG39	typename type
+VARSIG34	map entry set entry
+VARSIG33	discoveredpackage discovered
+VARSIG32	
+VARSIG31	
+VARSIG38	pom module
+VARSIG37	javatype type javatype type
+PACKAGE	springframework roo classpath
+VARSIG36	physicaltypeid physical type
+VARSIG35	javatype type type
+VARSIG30	discoveredpackage discovered
+CLASSES	typelocationserviceimpl type location service impl
+VARSIG29	typename type
+VARSIG28	pom module
+VARSIG23	typename type
+VARSIG22	pom module
+VARSIG21	physicalpath physical path physicalpath physical path
+VARSIG20	filecanonicalpath file canonical path
+VARSIG27	physicalpath physical path physicalpath physical path
+VARSIG26	filecanonicalpath file canonical path
+VARSIG25	map entry set entry
+VARSIG24	discoveredpackage discovered
+VARSIG7	classorinterfacetypedetails type details located
+VARSIG6	object tag
+VARSIG9	list javatype type annotationstodetect annotations detect
+VARSIG8	javatype type annotationstodetect annotations detect
+VARSIG3	javatype type annotationstodetect annotations detect
+VARSIG2	filecanonicalpath file canonical path
+VARSIG5	classorinterfacetypedetails type details object
+VARSIG4	classorinterfacetypedetails type details located
+VARSIG1	change
+VARSIG0	filecanonicalpath file canonical path
+VARSIG56	locatedtypecallback located type callback callback
+VARSIG55	object tag
+VARSIG54	locatedmid located mid
+VARSIG53	javatype type annotationtype annotation type
+VARSIG59	javatype type previousannotation previous annotation
+VARSIG58	memberholdingtypedetails member holding type details cid
+VARSIG57	locatedmid located mid
+VARSIG52	javatype type annotationtype annotation type
+VARSIG51	locatedtypecallback located type callback callback
+VARSIG50	list javatype type annotationstodetect annotations detect
+VARSIG45	pom pom
+VARSIG44	changedid changed
+VARSIG43	typeidentifier type identifier
+VARSIG42	javatype type javatype type
+VARSIG49	physicaltypeidentifier physical type identifier
+VARSIG48	javatype type javatype type
+VARSIG47	filedetails file details file
+VARSIG46	physicalpath physical path path
+VARSIG41	requestingclass requesting
+VARSIG40	modulepath module path

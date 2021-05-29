@@ -1,0 +1,10 @@
+MTHSIG0	setup set
+MTHSIG1	testnamesareuniqueandnotblank test names unique blank
+PACKAGE	springframework roo addon layers repository mongo
+MTHSIG2	testparametertypesarenotnull test parameter types
+COMMENTS	unit test link repositorymongolayermethod repository mongo layer fixture
+CLASSES	repositorymongolayermethodtest repository mongo layer test
+VARIABLES	mockidtype mock type mocktargetentity mock target entity names
+VARSIG1	repositorymongolayermethod repository mongo layer
+VARSIG0	repositorymongolayermethod repository mongo layer
+METHODS	setup set testnamesareuniqueandnotblank test names unique blank testparametertypesarenotnull test parameter types

@@ -1,0 +1,34 @@
+VARSIG7	downstreamdepend downstream depend 
+VARSIG6	upstreamdepend upstream depend 
+VARSIG9	downstreamdepend downstream depend 
+VARSIG8	upstreamdepend upstream depend 
+VARSIG3	deleteupstream delet upstream 
+VARSIG2	downstreamdepend downstream depend 
+VARSIG5	downstreamdepend downstream depend 
+VARSIG4	upstreamdepend upstream depend 
+COMMENTS	implement link metadatadependencyregistri metadata depend registri implement thread safe access singl thread time enforc process manag semant avoid cost synchron kei upstream depend list kei downstream depend list maintain upstream kei map maintain downstream kei map acquir delet delet maintain upstream kei map exist maintain downstream kei map exist simplest outcom relationship exist don variabl don care downstream depend walk upstream depend depend parent depend graph verifi presenc propos downstream depend build set repres eventu upstream depend upstream depend depend valid upstream depend propos downstream dispatch fine grain instanc specif depend ensur upstreamdepend upstream depend downstream that care isvaliddepend valid depend dispatch coars grain specif depend upstream specif handl specif dispatch previou loop don notifi downstream direct instanc specif depend notifi previou loop don notifi upstream downstream doesn sens notifi event condit instanc regist receiv specif notif instanc caus event fire dispatch gener purpos addit listen 
+VARSIG1	downstreamdepend downstream depend 
+VARSIG18	metadatanotificationlisten metadata notif listen listen 
+VARSIG0	upstreamdepend upstream depend 
+VARSIG17	downstream 
+MTHSIG4	getupstream upstream downstreamdepend downstream depend 
+VARSIG12	upstream 
+MTHSIG5	isvaliddepend valid depend upstreamdepend upstream depend downstreamdepend downstream depend 
+VARSIG11	downstreamdepend downstream depend 
+MTHSIG6	buildsetofallupstreamdepend build set upstream depend set downstreamdepend downstream depend 
+VARSIG10	set 
+MTHSIG7	addnotificationlisten add notif listen metadatanotificationlisten metadata notif listen listen 
+MTHSIG0	registerdepend regist depend upstreamdepend upstream depend downstreamdepend downstream depend 
+VARSIG16	downstream 
+MTHSIG1	deregisterdepend deregist depend downstreamdepend downstream depend 
+VARSIG15	upstreamdepend upstream depend 
+PACKAGE	springframework roo metadata intern 
+MTHSIG2	deregisterdepend deregist depend upstreamdepend upstream depend downstreamdepend downstream depend 
+VARSIG14	metadatanotificationlisten metadata notif listen listen 
+MTHSIG3	getdownstream downstream upstreamdepend upstream depend 
+VARSIG13	metadatanotificationlisten metadata notif listen listen 
+MTHSIG8	removenotificationlisten remov notif listen metadatanotificationlisten metadata notif listen listen 
+MTHSIG9	notifydownstream notifi downstream upstreamdepend upstream depend 
+CLASSES	defaultmetadatadependencyregistri metadata depend registri 
+METHODS	registerdepend regist depend deregisterdepend deregist depend deregisterdepend deregist depend getdownstream downstream getupstream upstream isvaliddepend valid depend buildsetofallupstreamdepend build set upstream depend addnotificationlisten add notif listen removenotificationlisten remov notif listen notifydownstream notifi downstream 
+VARIABLES	upstreamdepend upstream depend downstreamdepend downstream depend downstreamdepend downstream depend deleteupstream delet upstream upstreamdepend upstream depend downstreamdepend downstream depend upstreamdepend upstream depend downstreamdepend downstream depend upstreamdepend upstream depend downstreamdepend downstream depend downstreamdepend downstream depend upstream listen listen upstreamdepend upstream depend downstream downstream listen metadatalogg metadata logger upstreamkei upstream kei downstreamkei downstream kei metadataservic metadata servic listen downstream upstream upstream upstreamtodelet upstream delet downstream upstream downstream upstream downstream allupstream upstream upstream notifieddownstream notifi downstream responsibleclass respons asclass responsibleclass respons responsibleclass respons 

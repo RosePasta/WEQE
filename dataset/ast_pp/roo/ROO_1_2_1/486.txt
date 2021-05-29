@@ -1,0 +1,23 @@
+VARSIG7	element
+VARSIG6	element root
+VARSIG9	element root
+VARSIG8	document document
+VARSIG3	flowname flow
+VARSIG2	ioexception exception
+VARSIG5	document document
+VARSIG4	flowname flow
+COMMENTS	web flow configuration operations link webflowoperations web flow operations installwebflow install web flow
+CLASSES	webflowoperationsimpl web flow operations impl
+VARSIG1	resolvedtargetdirectorypath resolved target directory path
+VARSIG0	templatefilename template file
+METHODS	copytemplate copy template getflowid flow installwebflow install web flow installwebflowconfiguration install web flow configuration iswebflowinstallationpossible web flow installation updateconfiguration update configuration
+MTHSIG4	iswebflowinstallationpossible web flow installation
+MTHSIG5	updateconfiguration update configuration
+VARSIG11	element repositoryelement repository element
+VARSIG10	element webflowdependencyelement web flow dependency element
+MTHSIG0	copytemplate copy template templatefilename template file resolvedtargetdirectorypath resolved target directory path
+MTHSIG1	getflowid flow flowname flow
+PACKAGE	springframework roo addon web flow
+MTHSIG2	installwebflow install web flow flowname flow
+MTHSIG3	installwebflowconfiguration install web flow configuration
+VARIABLES	templatefilename template file resolvedtargetdirectorypath resolved target directory path flowname flow flowname flow document root document root webflowdependencyelement web flow dependency element repositoryelement repository element filemanager file manager jspoperations jsp operations menuoperations menu operations pathresolver path resolver projectoperations project operations tilesoperations tiles operations webmvcoperations web mvc operations inputstream input stream outputstream output stream flowid flow webrelativeflowpath web relative flow path resolvedflowpath resolved flow path resolvedflowdefinitionpath resolved flow definition path flowmenucategory flow menu category flowmenuname flow menu resolvedspringconfigpath resolved spring config path webmvcconfigpath web mvc config path importswf swf configuration focusedmodulename focused module dependencyelements dependency elements repositoryelements repository elements

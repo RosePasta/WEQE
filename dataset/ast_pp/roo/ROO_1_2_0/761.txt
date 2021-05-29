@@ -1,0 +1,11 @@
+MTHSIG0	createdirectory create directory undomanager undo manager undomanager undo manager filenameresolver filename resolver filenameresolver filename resolver file actual
+MTHSIG1	reset
+VARSIG2	file actual
+PACKAGE	springframework roo file undo
+MTHSIG2	undo
+COMMENTS	link undoableoperation undoable operation create directory including parents note created instance internally track uppermost directory created remove directory undo operation constants fields figure directory delete
+CLASSES	createdirectory create directory
+VARIABLES	undomanager undo manager filenameresolver filename resolver actual logger filenameresolver filename resolver actual deletefrom delete parent success
+VARSIG1	filenameresolver filename resolver filenameresolver filename resolver
+VARSIG0	undomanager undo manager undomanager undo manager
+METHODS	createdirectory create directory reset undo

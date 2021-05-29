@@ -1,0 +1,13 @@
+VARSIG2	file locat 
+COMMENTS	link abstractpathresolv path resolv permit subclass regist path detail 
+CLASSES	pathinform path 
+VARSIG1	sourc 
+VARSIG0	path path 
+METHODS	pathinform path getpath path issourc sourc getloc locat tostr 
+MTHSIG4	tostr 
+MTHSIG0	pathinform path path path sourc file locat 
+MTHSIG1	getpath path 
+PACKAGE	springframework roo project 
+MTHSIG2	issourc sourc 
+MTHSIG3	getloc locat 
+VARIABLES	path sourc locat path sourc locat tsc 

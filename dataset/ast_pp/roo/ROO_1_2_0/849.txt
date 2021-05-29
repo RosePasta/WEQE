@@ -1,0 +1,41 @@
+VARSIG7	logicalpath logical path logicalpath logical path
+VARSIG6	relativepath relative path
+VARSIG9	physicalpath physical path modulepath module path
+VARSIG8	sourceonly source
+VARSIG3	projectdirectory project directory
+VARSIG2	componentcontext component context context
+VARSIG5	logicalpath logical path path
+VARSIG4	path subpath path
+COMMENTS	fields osgi component methods pathresolvingstrategy path resolving strategy methods locates link physicalpath physical path construed parent presented identifier identifier locate parent required matching parent
+VARSIG19	javatype type javatype type
+VARSIG1	pathresolvingstrategy path resolving strategy pathresolvingstrategy path resolving strategy
+VARSIG18	path path
+VARSIG0	pathresolvingstrategy path resolving strategy pathresolvingstrategy path resolving strategy
+VARSIG17	path path
+MTHSIG4	getphysicalpaths physical paths
+VARSIG12	logicalpath logical path path
+MTHSIG5	getidentifier identifier logicalpath logical path path relativepath relative path
+VARSIG11	physicalpath physical path
+MTHSIG6	getroot root logicalpath logical path logicalpath logical path
+VARSIG10	identifier
+MTHSIG7	getpaths paths sourceonly source
+MTHSIG0	bindpathresolvingstrategy bind path resolving strategy pathresolvingstrategy path resolving strategy pathresolvingstrategy path resolving strategy
+VARSIG16	path path
+MTHSIG1	unbindpathresolvingstrategy unbind path resolving strategy pathresolvingstrategy path resolving strategy pathresolvingstrategy path resolving strategy
+VARSIG15	relativepath relative path
+PACKAGE	springframework roo project
+MTHSIG2	activate componentcontext component context context
+VARSIG14	path path
+MTHSIG3	populatepaths populate paths projectdirectory project directory
+VARSIG13	javatype type javatype type
+MTHSIG8	getapplicablephysicalpath applicable physical path identifier
+MTHSIG9	getcanonicalpath canonical path logicalpath logical path path javatype type javatype type
+MTHSIG13	getfocusedcanonicalpath focused canonical path path path javatype type javatype type
+MTHSIG14	isactive active
+MTHSIG11	getfocusedroot focused root path path
+MTHSIG12	getfocusedpath focused path path path
+CLASSES	defaultpathresolvingstrategy path resolving strategy
+METHODS	bindpathresolvingstrategy bind path resolving strategy unbindpathresolvingstrategy unbind path resolving strategy activate populatepaths populate paths getphysicalpaths physical paths getidentifier identifier getroot root getpaths paths getapplicablephysicalpath applicable physical path getcanonicalpath canonical path getfocusedidentifier focused identifier getfocusedroot focused root getfocusedpath focused path getfocusedcanonicalpath focused canonical path isactive active
+VARSIG20	pathresolvingstrategy path resolving strategy otherstrategy strategy
+MTHSIG10	getfocusedidentifier focused identifier path path relativepath relative path
+VARIABLES	pathresolvingstrategy path resolving strategy pathresolvingstrategy path resolving strategy context projectdirectory project directory subpath path path relativepath relative path logicalpath logical path sourceonly source modulepath module path identifier path javatype type path relativepath relative path path path path javatype type otherstrategy strategy otherpathresolvingstrategies path resolving strategies rootmodulepaths root module paths pathinfo path info root result possibleparent parent

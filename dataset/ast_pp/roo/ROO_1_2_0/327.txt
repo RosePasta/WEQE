@@ -1,0 +1,22 @@
+VARSIG7	metadataidentificationstring metadata identification
+VARSIG6	logicalpath logical path path
+VARSIG9	metadataidentificationstring metadata identification
+VARSIG8	metadataidentificationstring metadata identification
+VARSIG3	repositoryjpaannotationvalues repository jpa annotation values annotationvalues annotation values
+VARSIG2	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG5	javatype type javatype type
+VARSIG4	javatype type identifiertype identifier type
+COMMENTS	metadata link roojparepository roo jpa repository constants constructor identifier identifier item metadata required aspectname aspect type required governorphysicaltypemetadata governor physical type metadata governor expected link classorinterfacetypedetails type details required annotationvalues annotation values required identifiertype identifier type type entity entity identifier field required user user repository extend spring data data jparepository jpa repository doesn extend jpaspecificationexecutor jpa specification executor foo query specification build
+CLASSES	repositoryjpametadata repository jpa metadata
+VARSIG1	javatype type aspectname aspect
+VARSIG0	identifier
+METHODS	repositoryjpametadata repository jpa metadata getmetadataidentifertype metadata identifer type createidentifier create identifier getjavatype type getpath path isvalid valid tostring
+MTHSIG4	getpath path metadataidentificationstring metadata identification
+MTHSIG5	isvalid valid metadataidentificationstring metadata identification
+MTHSIG6	tostring
+MTHSIG0	repositoryjpametadata repository jpa metadata identifier javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata repositoryjpaannotationvalues repository jpa annotation values annotationvalues annotation values javatype type identifiertype identifier type
+MTHSIG1	getmetadataidentifertype metadata identifer type
+PACKAGE	springframework roo addon layers repository jpa
+MTHSIG2	createidentifier create identifier javatype type javatype type logicalpath logical path path
+MTHSIG3	getjavatype type metadataidentificationstring metadata identification
+VARIABLES	identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata annotationvalues annotation values identifiertype identifier type javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification metadataidentificationstring metadata identification type type spring jpa repository spring jpa specification executor tsc

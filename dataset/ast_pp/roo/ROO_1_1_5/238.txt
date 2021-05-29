@@ -1,0 +1,37 @@
+VARSIG7	javasymbolname symbol methodname
+VARSIG6	classorinterfacetypedetails type details managedbean managed bean
+VARSIG9	term
+VARSIG8	list javatype type paramtypes types
+VARSIG3	set classorinterfacetypedetails type details managedbeans managed beans
+VARSIG2	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG5	javatype type annotationtype annotation type
+VARSIG4	projectname project
+COMMENTS	metadata link roojsfmenubean roo jsf menu bean add managedbean managed bean annotation required add sessionscoped session scoped annotation required add menu model field add constructor add model field accessor add application accessor create representation desired output inflector failed roo don pluralize
+VARSIG1	javatype type aspectname aspect
+VARSIG0	identifier
+MTHSIG4	getmenumodelfield menu model field
+VARSIG12	path path
+MTHSIG5	getconstructor constructor
+VARSIG11	javatype type javatype type
+MTHSIG6	getmodelaccessormethod model accessor
+VARSIG10	runtimeexception runtime exception
+MTHSIG7	getapplicationaccessormethod application accessor
+MTHSIG0	jsfmenubeanmetadata jsf menu bean metadata identifier javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata set classorinterfacetypedetails type details managedbeans managed beans projectname project
+MTHSIG1	getmanagedbeanannotation managed bean annotation
+VARSIG15	metadataidentificationstring metadata identification
+PACKAGE	springframework roo addon jsf
+MTHSIG2	getsessionscopedannotation session scoped annotation
+VARSIG14	metadataidentificationstring metadata identification
+MTHSIG3	gettypeannotation type annotation javatype type annotationtype annotation type
+VARSIG13	metadataidentificationstring metadata identification
+MTHSIG8	methodexists exists javasymbolname symbol methodname list javatype type paramtypes types
+MTHSIG9	getinflectorplural inflector plural term
+MTHSIG15	isvalid valid metadataidentificationstring metadata identification
+MTHSIG13	getjavatype type metadataidentificationstring metadata identification
+MTHSIG14	getpath path metadataidentificationstring metadata identification
+MTHSIG11	getmetadataidentifertype metadata identifer type
+MTHSIG12	createidentifier create identifier javatype type javatype type path path
+CLASSES	jsfmenubeanmetadata jsf menu bean metadata
+METHODS	jsfmenubeanmetadata jsf menu bean metadata getmanagedbeanannotation managed bean annotation getsessionscopedannotation session scoped annotation gettypeannotation type annotation getmenumodelfield menu model field getconstructor constructor getmodelaccessormethod model accessor getapplicationaccessormethod application accessor methodexists exists getinflectorplural inflector plural tostring getmetadataidentifertype metadata identifer type createidentifier create identifier getjavatype type getpath path isvalid valid
+MTHSIG10	tostring
+VARIABLES	identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata managedbeans managed beans projectname project annotationtype annotation type managedbean managed bean methodname paramtypes types term javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification metadataidentificationstring metadata identification type type primefaces menu model managedbeans managed beans projectname project annotationbuilder annotation builder fieldname field field imports fieldbuilder field builder constructor imports bodybuilder body builder annotation includeonmenuvalue include menu entity plural constructorbuilder constructor builder methodname imports bodybuilder body builder methodbuilder builder methodname bodybuilder body builder methodbuilder builder tsc

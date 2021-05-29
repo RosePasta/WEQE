@@ -1,0 +1,19 @@
+VARSIG7	clioption cli option key includetables include tables mandatory specifieddefaultvalue optioncontext option context include tables tables include reverse engineering multiple table names quoted list separated spaces set includetables include tables
+VARSIG6	clioption cli option key enableviews enable views mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified reverse engineer database views view
+VARSIG9	clioption cli option key includenonportableattributes include portable attributes mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified include portable jpa column attributes columndefinition includenonportableattributes include portable attributes
+VARSIG8	clioption cli option key excludetables exclude tables mandatory specifieddefaultvalue optioncontext option context exclude tables tables exclude reverse engineering multiple table names quoted list separated spaces set excludetables exclude tables
+VARSIG3	clioption cli option key schema mandatory optioncontext option context schema database schema names multiple schema names quoted list separated spaces set schema schemas
+VARSIG2	clioption cli option key enableviews enable views mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified display database views view
+VARSIG5	clioption cli option key testautomatically test automatically mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified create automatic integration tests entities testautomatically test automatically
+VARSIG4	clioption cli option key mandatory entities javapackage destinationpackage destination
+COMMENTS	shell commands link dbreoperations dbre operations fields
+CLASSES	dbrecommands dbre commands
+VARSIG1	clioption cli option key file mandatory file save metadata file file
+VARSIG0	clioption cli option key schema mandatory optioncontext option context schema database schema names multiple schema names quoted list separated spaces set schema schemas
+METHODS	isdbreavailable dbre displaydatabasemetadata display database metadata serializedatabasemetadata serialize database metadata
+VARSIG10	clioption cli option key activerecord active record mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified generate crud active record methods entity activerecord active record
+MTHSIG0	isdbreavailable dbre
+MTHSIG1	displaydatabasemetadata display database metadata set schema schemas file file view
+PACKAGE	springframework roo addon dbre
+MTHSIG2	serializedatabasemetadata serialize database metadata set schema schemas javapackage destinationpackage destination testautomatically test automatically view set includetables include tables set excludetables exclude tables includenonportableattributes include portable attributes activerecord active record
+VARIABLES	schemas file view schemas destinationpackage destination testautomatically test automatically view includetables include tables excludetables exclude tables includenonportableattributes include portable attributes activerecord active record dbreoperations dbre operations

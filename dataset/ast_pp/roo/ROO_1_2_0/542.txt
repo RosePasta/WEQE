@@ -1,0 +1,26 @@
+VARSIG7	list completion completions
+VARSIG6	optioncontext option context
+VARSIG9	existingdata existing data
+VARSIG8	requiredtype required type
+VARSIG3	text
+VARSIG2	optioncontext option context
+VARSIG5	requiredtype required type
+VARSIG4	text
+COMMENTS	link converter link javapackage support top level symbol denote user user top level shell character represents current project module module top level fields replaces link top level symbol text current project module module top level text formed trailing dot shouldn happen there project time
+VARSIG1	requiredtype required type
+VARSIG0	
+MTHSIG4	supports requiredtype required type optioncontext option context
+VARSIG12	pom pom
+MTHSIG5	getallpossiblevalues values list completion completions requiredtype required type existingdata existing data optioncontext option context methodtarget target target
+VARSIG11	methodtarget target target
+MTHSIG6	getcompletionsforallknownpackages completions packages
+VARSIG10	optioncontext option context
+MTHSIG0	convertfromtext convert text requiredtype required type optioncontext option context
+MTHSIG1	converttofullyqualifiedpackagename convert fully qualified text
+PACKAGE	springframework roo classpath converters
+MTHSIG2	replacetoplevelpackagesymbol replace top level symbol text
+MTHSIG3	gettoplevelpackage top level
+VARSIG13	type
+CLASSES	javapackageconverter converter
+METHODS	convertfromtext convert text converttofullyqualifiedpackagename convert fully qualified replacetoplevelpackagesymbol replace top level symbol gettoplevelpackage top level supports getallpossiblevalues values getcompletionsforallknownpackages completions packages
+VARIABLES	requiredtype required type optioncontext option context text text requiredtype required type optioncontext option context completions requiredtype required type existingdata existing data optioncontext option context target pom type top level symbol filemanager file manager lastused projectoperations project operations typelocationservice type location service result normalisedtext normalised text toplevelpackage top level textwithoutsymbol text symbol completions

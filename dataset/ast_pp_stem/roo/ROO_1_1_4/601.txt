@@ -1,0 +1,50 @@
+MTHSIG4	createdirectori creat directori fileidentifi file identifi 
+MTHSIG5	readfil read file fileidentifi file identifi 
+MTHSIG6	createfil creat file fileidentifi file identifi 
+MTHSIG7	delet fileidentifi file identifi 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	deactiv componentcontext compon context context 
+PACKAGE	springframework roo process manag intern 
+MTHSIG2	exist fileidentifi file identifi 
+MTHSIG3	getinputstream input stream fileidentifi file identifi 
+MTHSIG8	updatefil updat file fileidentifi file identifi 
+MTHSIG9	findmatchingantpath find match ant path antpath ant path 
+CLASSES	defaultfilemanag file manag 
+METHODS	activ deactiv exist getinputstream input stream createdirectori creat directori readfil read file createfil creat file delet updatefil updat file findmatchingantpath find match ant path createorupdatetextfileifrequir creat updat text file requir createorupdatetextfileifrequir creat updat text file requir commit clear scan onundoev undo event createorupdatetextfileifrequir creat updat text file requir 
+VARSIG23	fileidentifi file identifi 
+VARSIG22	undoev undo event event 
+VARSIG21	fileidentifi file identifi 
+VARSIG20	writeimmedi write 
+VARSIG27	ioexcept except 
+VARSIG26	ioexcept except 
+VARSIG25	descriptionofchang descript chang 
+VARSIG24	newcont content 
+VARSIG7	fileidentifi file identifi 
+VARSIG6	ioexcept except 
+VARSIG9	ioexcept except 
+VARSIG8	fileidentifi file identifi 
+VARSIG3	fileidentifi file identifi 
+VARSIG2	fileidentifi file identifi 
+VARSIG5	fileidentifi file identifi 
+VARSIG4	ioexcept except ioe 
+COMMENTS	implement link filemanag file manag kei file identifi textual content kei file identifi descript chang flush reset event verifi file chang 
+VARSIG19	descriptionofchang descript chang 
+VARSIG1	componentcontext compon context context 
+VARSIG18	newcont content 
+VARSIG0	componentcontext compon context context 
+VARSIG17	fileidentifi file identifi 
+VARSIG12	fileidentifi file identifi 
+VARSIG11	ioexcept except 
+VARSIG10	fileidentifi file identifi 
+VARSIG16	writeimmedi write 
+VARSIG15	newcont content 
+VARSIG14	fileidentifi file identifi 
+VARSIG13	antpath ant path 
+MTHSIG15	onundoev undo event undoev undo event event 
+MTHSIG16	createorupdatetextfileifrequir creat updat text file requir fileidentifi file identifi newcont content descriptionofchang descript chang 
+MTHSIG13	clear 
+MTHSIG14	scan 
+MTHSIG11	createorupdatetextfileifrequir creat updat text file requir fileidentifi file identifi newcont content descriptionofchang descript chang writeimmedi write 
+MTHSIG12	commit 
+MTHSIG10	createorupdatetextfileifrequir creat updat text file requir fileidentifi file identifi newcont content writeimmedi write 
+VARIABLES	context context fileidentifi file identifi fileidentifi file identifi ioe fileidentifi file identifi fileidentifi file identifi fileidentifi file identifi fileidentifi file identifi fileidentifi file identifi antpath ant path fileidentifi file identifi newcont content writeimmedi write fileidentifi file identifi newcont content descriptionofchang descript chang writeimmedi write fileidentifi file identifi event fileidentifi file identifi newcont content descriptionofchang descript chang filenameresolv filenam resolv filemonitorservic file monitor servic processmanag process manag undomanag undo manag deferredfilewrit defer file write deferreddescriptionofchang defer descript file actual actual parentdirectori parent directori render actual actual render deferreddescriptionofchang defer descript chang newcont content mutablefil mutabl file file exist 

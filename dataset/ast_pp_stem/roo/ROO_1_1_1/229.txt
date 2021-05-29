@@ -1,0 +1,83 @@
+VARSIG39	linesperresult line result 
+MTHSIG4	installaddon instal add addonbundlesymbolicnam add bundl symbol bsn 
+VARSIG34	onlyrelevantbundl relev bundl 
+MTHSIG5	installaddon instal add bundlekei bundl kei 
+VARSIG33	requirescommand requir command 
+MTHSIG6	installaddon instal addon bundlevers bundl version bundlevers bundl version bsn 
+VARSIG32	compatibleonli compat 
+MTHSIG7	removeaddon remov add bundlesymbolicnam bundl symbol bsn 
+VARSIG31	trustedonli trust 
+MTHSIG0	activ componentcontext compon context context 
+VARSIG38	maxresult max 
+MTHSIG1	addoninfo add info addonbundlesymbolicnam add bundl symbol bsn 
+VARSIG37	linkedlist link list bundl bundl 
+PACKAGE	springframework roo addon roobot client 
+MTHSIG2	addoninfo add info bundlekei bundl kei 
+VARSIG36	cmd 
+MTHSIG3	addoninfo add info bundl bundl bundlevers bundl version bundlevers bundl version 
+VARSIG35	bundl bundl 
+MTHSIG8	searchaddon search add on showfeedback feedback searchterm search term refresh linesperresult line result maxresult max trustedonli trust compatibleonli compat requirescommand requir command 
+VARSIG30	list bundl bundl 
+MTHSIG9	listaddon list add on refresh linesperresult line result maxresult max trustedonli trust compatibleonli compat requirescommand requir command 
+CLASSES	addonroobotoperationsimpl add roo bot oper impl 
+VARSIG29	requirescommand requir command 
+VARSIG28	compatibleonli compat 
+METHODS	activ addoninfo add info addoninfo add info addoninfo add info installaddon instal add installaddon instal add installaddon instal addon removeaddon remov add searchaddon search add on listaddon list add on filterlist filter list printresultlist print result list istrustedkei trust kei getaddoncach add cach populatebundlecach popul bundl cach countbundl count bundl loginfo log info iscompat compat getversionforcompat version compat verifyrepositori verifi repositori 
+VARSIG23	term 
+VARSIG22	bundl bundl 
+VARSIG21	requirescommand requir command 
+VARSIG20	compatibleonli compat 
+VARSIG27	trustedonli trust 
+VARSIG26	maxresult max 
+VARSIG25	linesperresult line result 
+VARSIG24	refresh 
+VARSIG7	command 
+VARSIG6	bundlevers bundl version version 
+VARSIG9	addonbundlesymbolicnam add bundl symbol bsn 
+VARSIG8	comment comment 
+VARSIG3	bundlekei bundl kei 
+VARSIG2	addonbundlesymbolicnam add bundl symbol bsn 
+VARSIG5	bundlevers bundl version bundlevers bundl version 
+VARSIG4	bundl bundl 
+COMMENTS	implement command roo shell pgp verif requir bundl instal log need refresh set relev bundl problem add refresh handl http wasn eager startup time attempt let displai error reason startup time fail quietli appear acquir url let fallback normal protocol handler local develop test interest major minor secur reason accept httppgp add version 
+VARSIG19	trustedonli trust 
+VARSIG1	ioexcept except 
+VARSIG18	maxresult max 
+VARSIG0	componentcontext compon context context 
+VARSIG17	linesperresult line result 
+VARSIG12	bsn 
+VARSIG56	element resourc 
+VARSIG11	bundlevers bundl version bundlevers bundl version 
+VARSIG55	repourl repo url 
+VARSIG10	bundlekei bundl kei 
+VARSIG54	version 
+VARSIG53	content 
+VARSIG16	refresh 
+VARSIG15	searchterm search term 
+VARSIG14	showfeedback feedback 
+VARSIG13	bundlesymbolicnam bundl symbol bsn 
+VARSIG57	except 
+VARSIG52	label 
+VARSIG51	ioexcept except 
+VARSIG50	throwabl ignor 
+MTHSIG17	iscompat compat version 
+MTHSIG18	getversionforcompat version compat 
+MTHSIG15	countbundl count bundl 
+MTHSIG16	loginfo log info label content 
+MTHSIG13	getaddoncach add cach refresh 
+MTHSIG14	populatebundlecach popul bundl cach startuptim startup time 
+MTHSIG11	printresultlist print result list linkedlist link list bundl bundl maxresult max linesperresult line result 
+MTHSIG12	istrustedkei trust kei list pgppublickeyr pgp kei ring keyid kei 
+MTHSIG19	verifyrepositori verifi repositori repourl repo url 
+VARSIG45	startuptim startup time 
+VARSIG44	refresh 
+VARSIG43	pgppublickeyr pgp kei ring keyr kei ring 
+VARSIG42	keyid kei 
+VARSIG49	element shell 
+VARSIG48	element versionel version element 
+VARSIG47	element commentel comment element 
+VARSIG46	element bundleel bundl element 
+MTHSIG10	filterlist filter list list bundl bundl trustedonli trust compatibleonli compat requirescommand requir command onlyrelevantbundl relev bundl 
+VARIABLES	context bsn bundlekei bundl kei bundl bundlevers bundl version version command comment bsn bundlekei bundl kei bundlevers bundl version bsn bsn showfeedback feedback searchterm search term refresh linesperresult line result maxresult max trustedonli trust compatibleonli compat requirescommand requir command bundl term refresh linesperresult line result maxresult max trustedonli trust compatibleonli compat requirescommand requir command bundl trustedonli trust compatibleonli compat requirescommand requir command onlyrelevantbundl relev bundl bundl cmd bundl maxresult max linesperresult line result bundl keyid kei keyr kei ring refresh startuptim startup time bundleel bundl element commentel comment element versionel version element shell ignor label content version repourl repo url resourc bundlecach bundl cach searchresultcach search result cach shell pgpservic pgp servic urlinputstreamservic url input stream servic log prop context roobot xml url dateformat format bsnstring bsn bundl bundl command bsnstring bsn bundl bundl success count requireswrappedcoredep requir wrap core dep success count onlyrelevantbundl relev bundl term hit latest bundl filteredsearchresult filter search bundl filteredlist filter list filteredlist filter list latest matchingcommand match command bundleid bundl latest bundlekei bundl kei split lpr pgpkei pgp kei success dbf url httpurl http url failuremessag failur messag zip bao buffer length bai roobotxml roobot xml bsn comment bundl signedbi sign pgpkei pgp kei pgpsign pgp sign command versionbuild version builder versionmicro version micro versionqualifi version qualifi roovers roo version split version bundl split dbf doc obrurl obr url 
+VARSIG41	list pgppublickeyr pgp kei ring 
+VARSIG40	bundl bundl 

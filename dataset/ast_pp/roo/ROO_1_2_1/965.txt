@@ -1,0 +1,19 @@
+VARSIG7	methodtarget target target
+VARSIG6	optioncontext option context
+VARSIG9	requiredtype required type
+VARSIG8	
+VARSIG3	list completion completions
+VARSIG2	optioncontext option context
+VARSIG5	existingdata existing data
+VARSIG4	requiredtype required type
+COMMENTS	commands converter include word command
+CLASSES	availablecommandsconverter commands converter
+VARSIG1	requiredtype required type
+VARSIG0	text
+METHODS	convertfromtext convert text getallpossiblevalues values supports
+VARSIG10	optioncontext option context
+MTHSIG0	convertfromtext convert text text requiredtype required type optioncontext option context
+MTHSIG1	getallpossiblevalues values list completion completions requiredtype required type existingdata existing data optioncontext option context methodtarget target target
+PACKAGE	springframework roo shell converters
+MTHSIG2	supports requiredtype required type optioncontext option context
+VARIABLES	text requiredtype required type optioncontext option context completions requiredtype required type existingdata existing data optioncontext option context target requiredtype required type optioncontext option context cmd

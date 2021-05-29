@@ -1,0 +1,48 @@
+VARSIG7	methodmetadatabuild metadata builder mutat 
+VARSIG6	methodmetadatabuild metadata builder accessor 
+VARSIG9	fieldmetadata field metadata field 
+VARSIG8	identifi identifi 
+VARSIG3	identifierannotationvalu identifi annot valu annotationvalu annot valu 
+VARSIG2	physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+VARSIG5	fieldmetadatabuild field metadata builder field 
+VARSIG4	list identifi identifierserviceresult identifi servic result 
+COMMENTS	metadata link rooidentifi roo identifi constant field link identifierservic identifi servic popul link identifiermetadataproviderimpl identifi metadata provid impl add embedd annot add declar field accessor mutat parameteris constructor arg constructor provid add custom data tag roo identifi type creat represent desir output locat declar field parent defin locat creat declar field return field return locat declar field add field annot add field declar governor remov field modifi remov field annot creat identifi field comput column requir add length attribut string add precis scale attribut numer field add jsr tempor annot field roo locat accessor method link getfieldbuild field builder return field creat accessor automat produc declar field accessor return comput name accessor produc locat mutat method link getfieldbuild field builder return field creat mutat automat produc declar field mutat return comput name mutat produc locat parameteris constructor consist field field constructor search exist constructor exist parameteris constructor creat constructor locat arg constructor defin arg constructor return irrespect access modifi defin arg constructor creat creat link rooidentifi roo identifi noargconstructor arg constructor constructor declar sourc file constructor creat access modifi constructor constructor produc search exist constructor exist arg constructor creat constructor 
+VARSIG19	fieldmetadatabuild field metadata builder field 
+VARSIG1	javatyp type aspectnam aspect 
+VARSIG18	list fieldmetadatabuild field metadata builder field 
+VARSIG0	identifi 
+VARSIG17	fieldmetadatabuild field metadata builder field 
+MTHSIG4	setdateannot set annot columndefinit column definit list annotationmetadatabuild annot metadata builder annot 
+VARSIG12	list annotationmetadatabuild annot metadata builder annot 
+MTHSIG5	hasfield field list fieldmetadata field metadata declaredfield declar field fieldmetadata field metadata idfield field 
+VARSIG11	columndefinit column definit 
+MTHSIG6	getaccessor accessor list fieldmetadatabuild field metadata builder field 
+VARSIG10	identifi identifi 
+MTHSIG7	getmut mutat list fieldmetadatabuild field metadata builder field 
+MTHSIG0	identifiermetadata identifi metadata identifi javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata identifierannotationvalu identifi annot valu annotationvalu annot valu list identifi identifierserviceresult identifi servic result 
+VARSIG16	list fieldmetadatabuild field metadata builder field 
+MTHSIG1	getembeddableannot embedd annot 
+VARSIG15	fieldmetadata field metadata declaredfield declar field 
+PACKAGE	springframework roo addon jpa identifi 
+MTHSIG2	getfieldbuild field builder 
+VARSIG14	fieldmetadata field metadata idfield field 
+MTHSIG3	getcolumnbuild column builder identifi identifi 
+VARSIG13	list fieldmetadata field metadata declaredfield declar field 
+MTHSIG8	getparameterizedconstructor parameter constructor list fieldmetadatabuild field metadata builder field 
+MTHSIG9	getnoargconstructor arg constructor 
+MTHSIG13	getpath path metadataidentificationstr metadata identif 
+MTHSIG14	isvalid valid metadataidentificationstr metadata identif 
+MTHSIG11	createidentifi creat identifi javatyp type javatyp type logicalpath logic path path 
+MTHSIG12	getjavatyp type metadataidentificationstr metadata identif 
+CLASSES	identifiermetadata identifi metadata 
+METHODS	identifiermetadata identifi metadata getembeddableannot embedd annot getfieldbuild field builder getcolumnbuild column builder setdateannot set annot hasfield field getaccessor accessor getmut mutat getparameterizedconstructor parameter constructor getnoargconstructor arg constructor getmetadataidentifiertyp metadata identifi type createidentifi creat identifi getjavatyp type getpath path isvalid valid 
+VARSIG23	javatyp type javatyp type 
+VARSIG22	fieldmetadatabuild field metadata builder field 
+VARSIG21	fieldmetadatabuild field metadata builder field 
+VARSIG20	list fieldmetadatabuild field metadata builder field 
+VARSIG27	metadataidentificationstr metadata identif 
+VARSIG26	metadataidentificationstr metadata identif 
+VARSIG25	metadataidentificationstr metadata identif 
+VARSIG24	logicalpath logic path path 
+MTHSIG10	getmetadataidentifiertyp metadata identifi type 
+VARIABLES	identifi aspectnam aspect governorphysicaltypemetadata governor physic type metadata annotationvalu annot valu identifierserviceresult identifi servic result field accessor mutat identifi field identifi columndefinit column definit annot declaredfield declar field idfield field declaredfield declar field field field field field field field field javatyp type path metadataidentificationstr metadata identif metadataidentificationstr metadata identif metadataidentificationstr metadata identif type type publicnoargconstructor arg constructor identifierserviceresult identifi servic result field annotationbuild annot builder declaredfield declar field field annot idfield field iter field transientannotatedfield annot field fieldbuild field builder annot columnbuild column builder columnbuild column builder temporaltyp tempor type temporalbuild tempor builder datetimeformatbuild time format builder accessor requiredaccessornam requir accessor accessor mutat requiredmutatornam requir mutat parametertyp paramet type mutat parametertyp paramet type result parameternam paramet name bodybuild bodi builder fieldnam field constructorbuild constructor builder parametertyp paramet type result bodybuild bodi builder constructorbuild constructor builder 

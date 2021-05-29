@@ -1,0 +1,31 @@
+VARSIG7	pgpdescript pgp descript 
+VARSIG6	pgpkei pgp kei 
+VARSIG9	map command 
+VARSIG8	roovers roo version 
+VARSIG3	presentationnam present 
+VARSIG2	version 
+VARSIG5	descript 
+VARSIG4	size 
+COMMENTS	 
+VARSIG1	obrurl obr url 
+VARSIG0	uri 
+MTHSIG4	getpresentationnam present 
+VARSIG12	bundlevers bundl version 
+MTHSIG5	getsiz size 
+VARSIG11	bundlevers bundl version 
+MTHSIG6	getroovers roo version 
+VARSIG10	list bundlevers bundl version version 
+MTHSIG7	getdescript descript 
+MTHSIG0	bundlevers bundl version uri obrurl obr url version presentationnam present size descript pgpkei pgp kei pgpdescript pgp descript roovers roo version map command 
+MTHSIG1	geturi uri 
+PACKAGE	springframework roo addon roobot client model 
+MTHSIG2	getobrurl obr url 
+MTHSIG3	getvers version 
+MTHSIG8	getcommand command 
+MTHSIG9	getpgpkei pgp kei 
+MTHSIG11	getsummari summari 
+MTHSIG12	orderbyvers order version list bundlevers bundl version version 
+CLASSES	bundlevers bundl version 
+METHODS	bundlevers bundl version geturi uri getobrurl obr url getvers version getpresentationnam present getsiz size getroovers roo version getdescript descript getcommand command getpgpkei pgp kei getpgpdescript pgp descript getsummari summari orderbyvers order version 
+MTHSIG10	getpgpdescript pgp descript 
+VARIABLES	uri obrurl obr url version presentationnam present size descript pgpkei pgp kei pgpdescript pgp descript roovers roo version command version uri obrurl obr url version presentationnam present size descript command pgpkei pgp kei pgpdescript pgp descript roovers roo version 

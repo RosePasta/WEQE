@@ -1,0 +1,15 @@
+VARSIG3	file directory
+VARSIG2	fileoperation file operation notifyon notify
+VARSIG5	collection fileoperation file operation notifyon notify
+VARSIG4	watchsubtree watch subtree
+COMMENTS	request monitor directory fields constructor accepts array operations directory directory monitor existing directory watchsubtree watch subtree monitor directories directory notifyon notify operations notify can empty constructor accepts collection operations directory directory monitor existing directory watchsubtree watch subtree monitor directories directory notifyon notify operations notify can empty files folders directory monitored unlimited depth
+CLASSES	directorymonitoringrequest directory monitoring request
+VARSIG1	watchsubtree watch subtree
+VARSIG0	file file
+METHODS	directorymonitoringrequest directory monitoring request directorymonitoringrequest directory monitoring request iswatchsubtree watch subtree tostring
+MTHSIG0	directorymonitoringrequest directory monitoring request file file watchsubtree watch subtree fileoperation file operation notifyon notify
+MTHSIG1	directorymonitoringrequest directory monitoring request file directory watchsubtree watch subtree collection fileoperation file operation notifyon notify
+PACKAGE	springframework roo file monitor
+MTHSIG2	iswatchsubtree watch subtree
+MTHSIG3	tostring
+VARIABLES	file watchsubtree watch subtree notifyon notify directory watchsubtree watch subtree notifyon notify watchsubtree watch subtree tsc

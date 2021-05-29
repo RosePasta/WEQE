@@ -1,0 +1,74 @@
+MTHSIG28	addproperty add property property property
+MTHSIG29	removeproperty remove property property property
+MTHSIG26	removebuildplugin remove build plugin plugin plugin
+MTHSIG27	buildpluginupdate build plugin update plugin plugin
+MTHSIG24	removepluginrepository remove plugin repository repository repository
+MTHSIG25	addbuildplugin add build plugin plugin plugin
+MTHSIG22	addpluginrepositories add plugin repositories list repository repositories
+MTHSIG23	addpluginrepository add plugin repository repository repository
+MTHSIG4	removedependencylistener remove dependency listener dependencylistener dependency listener listener
+VARSIG34	resource resource
+MTHSIG5	addrepositorylistener add repository listener repositorylistener repository listener listener
+VARSIG33	resource resource
+MTHSIG6	removerepositorylistener remove repository listener repositorylistener repository listener listener
+VARSIG32	filter filter
+MTHSIG7	addpluginrepositorylistener add plugin repository listener repositorylistener repository listener listener
+VARSIG31	filter filter
+MTHSIG0	isprojectavailable project
+MTHSIG1	getprojectmetadata project metadata
+PACKAGE	springframework roo project
+MTHSIG2	getpathresolver path resolver
+MTHSIG3	adddependencylistener add dependency listener dependencylistener dependency listener listener
+MTHSIG20	addrepository add repository repository repository
+MTHSIG21	removerepository remove repository repository repository
+MTHSIG8	removepluginrepositorylistener remove plugin repository listener repositorylistener repository listener listener
+VARSIG30	property property
+MTHSIG9	addpluginlistener add plugin listener pluginlistener plugin listener listener
+MTHSIG33	removeresource remove resource resource resource
+CLASSES	projectoperations project operations
+VARSIG29	property property
+VARSIG28	plugin plugin
+METHODS	isprojectavailable project getprojectmetadata project metadata getpathresolver path resolver adddependencylistener add dependency listener removedependencylistener remove dependency listener addrepositorylistener add repository listener removerepositorylistener remove repository listener addpluginrepositorylistener add plugin repository listener removepluginrepositorylistener remove plugin repository listener addpluginlistener add plugin listener removepluginlistener remove plugin listener addpropertylistener add property listener removepropertylistener remove property listener updateprojecttype update project type adddependencies add dependencies adddependency add dependency adddependency add dependency removedependency remove dependency removedependency remove dependency addrepositories add repositories addrepository add repository removerepository remove repository addpluginrepositories add plugin repositories addpluginrepository add plugin repository removepluginrepository remove plugin repository addbuildplugin add build plugin removebuildplugin remove build plugin buildpluginupdate build plugin update addproperty add property removeproperty remove property addfilter add filter removefilter remove filter addresource add resource removeresource remove resource
+VARSIG23	list repository repositories
+VARSIG22	repository repository
+VARSIG21	repository repository
+VARSIG20	list repository repositories
+VARSIG27	plugin plugin
+VARSIG26	plugin plugin
+VARSIG25	repository repository
+VARSIG24	repository repository
+MTHSIG31	removefilter remove filter filter filter
+MTHSIG32	addresource add resource resource resource
+MTHSIG30	addfilter add filter filter filter
+VARSIG7	pluginlistener plugin listener listener
+VARSIG6	pluginlistener plugin listener listener
+VARSIG9	propertylistener property listener listener
+VARSIG8	propertylistener property listener listener
+VARSIG3	repositorylistener repository listener listener
+VARSIG2	repositorylistener repository listener listener
+VARSIG5	repositorylistener repository listener listener
+VARSIG4	repositorylistener repository listener listener
+COMMENTS	specifies methods project operations determines project project exists returns link projectmetadata project metadata project link projectmetadata project metadata object convenience link pathresolver path resolver project project link projectmetadata project metadata link pathresolver path resolver project unavailable register listener track build dependencies listener dependencylistener dependency listener register remove dependency listener change tracking listener dependencylistener dependency listener remove register listener track repositories listener repositorylistener repository listener register remove repository listener change tracking listener repositorylistener repository listener remove register listener track plugin repositories listener repositorylistener repository listener register remove plugin repository listener change tracking listener repositorylistener repository listener remove register listener track build plugins listener pluginlistener plugin listener register remove build plugin listener change tracking listener pluginlistener plugin listener remove register listener track pom properties remove property listener change tracking listener propertylistener property listener remove updates project type projecttype project type projecttype project type update addition jar dependencies pom convenient parties instruct users cli add support projects requiring user manually edit pom xml write add dependencies list dependencies add required addition jar dependency pom convenient parties instruct users cli add support projects requiring user manually edit pom xml write add dependency dependency add required addition jar dependency pom convenient parties instruct users cli add support projects requiring user manually edit pom xml write add groupid group group dependency required artifactid artifact artifact dependency required version version dependency required removal jar dependency pom convenient parties instruct users cli remove unwanted dependency projects requiring user manually edit pom xml write add dependency dependency remove required remove existing jar dependency pom convenient parties instruct users cli remove unwanted dependency projects requiring user manually edit pom xml write add groupid group group dependency required artifactid artifact artifact dependency required version version dependency required addition repositories pom convenient parties instruct users cli add support projects requiring user manually edit pom xml write add repositories list repositories add required addition repository pom convenient parties instruct users cli add support projects requiring user manually edit pom xml write add repository repository add required remove existing repository pom convenient parties instruct users cli remove unwanted repository projects requiring user manually edit pom xml write add repository repository remove required addition plugin repositories pom convenient parties instruct users cli add support projects requiring user manually edit pom xml write add repositories list plugin repositories add required addition plugin repository pom convenient parties instruct users cli add support projects requiring user manually edit pom xml write add repository plugin repository add required remove existing plugin repository pom convenient parties instruct users cli remove unwanted plugin repository projects requiring user manually edit pom xml write add repository plugin repository remove required addition build plugin pom convenient parties instruct users cli add build capability projects requiring user manually edit pom xml write add plugin build plugin add required remove existing build plugin pom convenient parties instruct users cli remove unwanted build plugin projects requiring user manually edit pom xml write add plugin build plugin remove required verifies build plugin silently returns removes build plugin matches link projectmetadata project metadata getbuildpluginsexcludingversion build plugins excluding version plugin adds presented plugin plugin build plugin update required addition property pom convenient parties instruct users cli add support projects requiring user manually edit pom xml write add property pom property add required remove existing property pom convenient parties instruct users cli remove unwanted property projects requiring user manually edit pom xml write add property pom property remove required addition filter pom convenient parties instruct users cli add support projects requiring user manually edit pom xml write add filter filter add required remove existing filter pom convenient parties instruct users cli remove unwanted filter projects requiring user manually edit pom xml write add filter filter remove required addition resource pom convenient parties instruct users cli add support projects requiring user manually edit pom xml write add resource resource add required remove existing resource pom convenient parties instruct users cli remove unwanted resource projects requiring user manually edit pom xml write add resource resource remove required
+VARSIG19	version
+VARSIG1	dependencylistener dependency listener listener
+VARSIG18	artifactid artifact
+VARSIG0	dependencylistener dependency listener listener
+VARSIG17	groupid group
+VARSIG12	dependency dependency
+VARSIG11	list dependency dependencies
+VARSIG10	projecttype project type projecttype project type
+VARSIG16	dependency dependency
+VARSIG15	version
+VARSIG14	artifactid artifact
+VARSIG13	groupid group
+MTHSIG17	removedependency remove dependency dependency dependency
+MTHSIG18	removedependency remove dependency groupid group artifactid artifact version
+MTHSIG15	adddependency add dependency dependency dependency
+MTHSIG16	adddependency add dependency groupid group artifactid artifact version
+MTHSIG13	updateprojecttype update project type projecttype project type projecttype project type
+MTHSIG14	adddependencies add dependencies list dependency dependencies
+MTHSIG11	addpropertylistener add property listener propertylistener property listener listener
+MTHSIG12	removepropertylistener remove property listener propertylistener property listener listener
+MTHSIG19	addrepositories add repositories list repository repositories
+MTHSIG10	removepluginlistener remove plugin listener pluginlistener plugin listener listener
+VARIABLES	listener listener listener listener listener listener listener listener listener listener projecttype project type dependencies dependency groupid group artifactid artifact version dependency groupid group artifactid artifact version repositories repository repository repositories repository repository plugin plugin plugin property property filter filter resource resource

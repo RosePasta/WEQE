@@ -1,0 +1,39 @@
+VARSIG7	importmetadata metadata animport
+VARSIG6	collection importmetadata metadata imports
+VARSIG9	annotationmetadata annotation metadata annotationmetadata annotation metadata
+VARSIG8	declaredmethodannotationdetails declared annotation details declaredmethodannotationdetails declared annotation details
+VARSIG3	javatype type aspect
+VARSIG2	classorinterfacetypedetails type details governor
+VARSIG5	declaredfieldannotationdetails declared field annotation details declaredfieldannotationdetails declared field annotation details
+VARSIG4	privilegedaspect privileged aspect
+COMMENTS	assists building link itdtypedetails type details instance methods include constructor accept arguments automatically ignore attempt add link identifiablejavastructure identifiable structure declaredbymetadataid declared metadata instance constructed addition accepts link invocablemembermetadata invocable member metadata verify link invocablemembermetadata invocable member metadata getbody body detects programming errors result requesting member included providing actual executable body member constructor based existing existing required constructor declaredbymetadataid declared metadata governor required aspect required privilegedaspect privileged aspect addannotation add annotation set aspects code declare precedence aspect declaration aspects
+VARSIG1	declaredbymetadataid declared metadata
+VARSIG0	itdtypedetails type details existing
+VARSIG17	methodmetadatabuilder metadata builder
+MTHSIG4	addmethodannotation add annotation declaredmethodannotationdetails declared annotation details declaredmethodannotationdetails declared annotation details
+VARSIG12	constructormetadatabuilder constructor metadata builder
+MTHSIG5	addtypeannotation add type annotation annotationmetadata annotation metadata annotationmetadata annotation metadata
+VARSIG11	annotationmetadatabuilder annotation metadata builder
+MTHSIG6	setdeclareprecedence set declare precedence javatype type aspects
+VARSIG10	javatype type aspects
+MTHSIG7	build
+MTHSIG0	itdtypedetailsbuilder type details builder itdtypedetails type details existing
+VARSIG16	classorinterfacetypedetailsbuilder type details builder cid
+MTHSIG1	itdtypedetailsbuilder type details builder declaredbymetadataid declared metadata classorinterfacetypedetails type details governor javatype type aspect privilegedaspect privileged aspect
+VARSIG15	javatype type type
+PACKAGE	springframework roo classpath details
+MTHSIG2	addfieldannotation add field annotation declaredfieldannotationdetails declared field annotation details declaredfieldannotationdetails declared field annotation details
+VARSIG14	fieldmetadatabuilder field metadata builder
+MTHSIG3	addimports add imports collection importmetadata metadata imports
+VARSIG13	javatype type type
+MTHSIG8	getimportregistrationresolver registration resolver
+MTHSIG9	onaddannotation add annotation annotationmetadatabuilder annotation metadata builder
+MTHSIG15	onaddmethod add methodmetadatabuilder metadata builder
+MTHSIG13	onaddimplementtype add implement type javatype type type
+MTHSIG14	onaddinnertype add type classorinterfacetypedetailsbuilder type details builder cid
+MTHSIG11	onaddextendstypes add types javatype type type
+MTHSIG12	onaddfield add field fieldmetadatabuilder field metadata builder
+CLASSES	itdtypedetailsbuilder type details builder
+METHODS	itdtypedetailsbuilder type details builder itdtypedetailsbuilder type details builder addfieldannotation add field annotation addimports add imports addmethodannotation add annotation addtypeannotation add type annotation setdeclareprecedence set declare precedence build getimportregistrationresolver registration resolver onaddannotation add annotation onaddconstructor add constructor onaddextendstypes add types onaddfield add field onaddimplementtype add implement type onaddinnertype add type onaddmethod add
+MTHSIG10	onaddconstructor add constructor constructormetadatabuilder constructor metadata builder
+VARIABLES	existing declaredbymetadataid declared metadata governor aspect privilegedaspect privileged aspect declaredfieldannotationdetails declared field annotation details imports animport declaredmethodannotationdetails declared annotation details annotationmetadata annotation metadata aspects type type cid aspect fieldannotations field annotations governor importregistrationresolver registration resolver methodannotations annotations privilegedaspect privileged aspect declareprecedence declare precedence declaredby declared hasannotation annotation declaredby declared hasannotation annotation

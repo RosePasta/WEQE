@@ -1,0 +1,45 @@
+VARSIG7	ioexcept except 
+VARSIG6	except ignor 
+VARSIG9	revcommit rev commit commit 
+VARSIG8	maxhistori max histori 
+VARSIG3	repositori repositori 
+VARSIG2	revstr 
+VARSIG5	incorrectobjecttypeexcept incorrect object type except 
+VARSIG4	missingobjectexcept miss object except 
+COMMENTS	oper git addon commit commit 
+VARSIG19	messag 
+VARSIG1	except 
+VARSIG18	except 
+VARSIG0	messag 
+VARSIG17	messag 
+MTHSIG4	isautomaticcommit automat commit 
+VARSIG12	except 
+MTHSIG5	isgitcommandavail git command 
+VARSIG11	pushresult push result result 
+MTHSIG6	isgitinstallationposs git instal 
+VARSIG10	except 
+MTHSIG7	log maxhistori max histori 
+MTHSIG0	commitallchang commit messag 
+VARSIG16	revstr 
+MTHSIG1	findcommit find commit revstr repositori repositori 
+VARSIG15	except 
+PACKAGE	springframework roo addon git 
+MTHSIG2	getrepositori repositori 
+VARSIG14	messag 
+MTHSIG3	hasdotgit dot git 
+VARSIG13	noofcommitstorevert commit revert 
+MTHSIG8	push 
+MTHSIG9	reset noofcommitstorevert commit revert messag 
+MTHSIG13	setup 
+MTHSIG11	revertlastcommit revert commit messag 
+MTHSIG12	setconfig set config categori kei 
+CLASSES	gitoperationsimpl git oper impl 
+METHODS	commitallchang commit findcommit find commit getrepositori repositori hasdotgit dot git isautomaticcommit automat commit isgitcommandavail git command isgitinstallationposs git instal log push reset revertcommit revert commit revertlastcommit revert commit setconfig set config setup 
+VARSIG23	ioexcept except 
+VARSIG22	 
+VARSIG21	kei 
+VARSIG20	categori 
+VARSIG25	ioexcept except 
+VARSIG24	except 
+MTHSIG10	revertcommit revert commit revstr messag 
+VARIABLES	messag revstr repositori ignor maxhistori max histori commit result noofcommitstorevert commit revert messag revstr messag messag categori kei logger revis delimit filemanag file manag pathresolv path resolv person repositori git statu rev walk commit repositori git counter git repositori commit git repositori commit git repositori repositori gitignor git ignor inputstream input stream outputstream output stream 

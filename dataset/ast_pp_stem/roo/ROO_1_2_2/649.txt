@@ -1,0 +1,37 @@
+VARSIG7	importmetadata metadata animport 
+VARSIG6	collect importmetadata metadata import 
+VARSIG9	annotationmetadata annot metadata annotationmetadata annot metadata 
+VARSIG8	declaredmethodannotationdetail declar annot detail declaredmethodannotationdetail declar annot detail 
+VARSIG3	javatyp type aspect 
+VARSIG2	classorinterfacetypedetail type detail governor 
+VARSIG5	declaredfieldannotationdetail declar field annot detail declaredfieldannotationdetail declar field annot detail 
+VARSIG4	privilegedaspect privileg aspect 
+COMMENTS	assist build link itdtypedetail type detail instanc method includ constructor accept argument automat ignor attempt add link identifiablejavastructur identifi structur declaredbymetadataid declar metadata instanc construct addit accept link invocablemembermetadata invoc member metadata verifi link invocablemembermetadata invoc member metadata getbodi bodi detect program error result request member includ provid actual execut bodi member constructor base exist exist requir constructor declaredbymetadataid declar metadata governor requir aspect requir privilegedaspect privileg aspect addannot add annot 
+VARSIG1	declaredbymetadataid declar metadata 
+VARSIG0	itdtypedetail type detail exist 
+MTHSIG4	addmethodannot add annot declaredmethodannotationdetail declar annot detail declaredmethodannotationdetail declar annot detail 
+VARSIG12	javatyp type type 
+MTHSIG5	addtypeannot add type annot annotationmetadata annot metadata annotationmetadata annot metadata 
+VARSIG11	constructormetadatabuild constructor metadata builder 
+MTHSIG6	build 
+VARSIG10	annotationmetadatabuild annot metadata builder 
+MTHSIG7	getimportregistrationresolv registr resolv 
+MTHSIG0	itdtypedetailsbuild type detail builder itdtypedetail type detail exist 
+VARSIG16	methodmetadatabuild metadata builder 
+MTHSIG1	itdtypedetailsbuild type detail builder declaredbymetadataid declar metadata classorinterfacetypedetail type detail governor javatyp type aspect privilegedaspect privileg aspect 
+VARSIG15	classorinterfacetypedetailsbuild type detail builder cid 
+PACKAGE	springframework roo classpath detail 
+MTHSIG2	addfieldannot add field annot declaredfieldannotationdetail declar field annot detail declaredfieldannotationdetail declar field annot detail 
+VARSIG14	javatyp type type 
+MTHSIG3	addimport add import collect importmetadata metadata import 
+VARSIG13	fieldmetadatabuild field metadata builder 
+MTHSIG8	onaddannot add annot annotationmetadatabuild annot metadata builder 
+MTHSIG9	onaddconstructor add constructor constructormetadatabuild constructor metadata builder 
+MTHSIG13	onaddinnertyp add type classorinterfacetypedetailsbuild type detail builder cid 
+MTHSIG14	onaddmethod add methodmetadatabuild metadata builder 
+MTHSIG11	onaddfield add field fieldmetadatabuild field metadata builder 
+MTHSIG12	onaddimplementtyp add implement type javatyp type type 
+CLASSES	itdtypedetailsbuild type detail builder 
+METHODS	itdtypedetailsbuild type detail builder itdtypedetailsbuild type detail builder addfieldannot add field annot addimport add import addmethodannot add annot addtypeannot add type annot build getimportregistrationresolv registr resolv onaddannot add annot onaddconstructor add constructor onaddextendstyp add type onaddfield add field onaddimplementtyp add implement type onaddinnertyp add type onaddmethod add 
+MTHSIG10	onaddextendstyp add type javatyp type type 
+VARIABLES	exist declaredbymetadataid declar metadata governor aspect privilegedaspect privileg aspect declaredfieldannotationdetail declar field annot detail import animport declaredmethodannotationdetail declar annot detail annotationmetadata annot metadata type type cid aspect fieldannot field annot governor importregistrationresolv registr resolv methodannot annot privilegedaspect privileg aspect declaredbi declar hasannot annot declaredbi declar hasannot annot 

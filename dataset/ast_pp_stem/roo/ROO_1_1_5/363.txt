@@ -1,0 +1,19 @@
+VARSIG7	embeddedprovid embed provid provid 
+VARSIG6	embeddedprovid embed provid provid 
+VARSIG3	viewnam view 
+VARSIG2	embeddedprovid embed provid provid 
+VARSIG5	embeddedprovid embed provid provid 
+VARSIG4	map option 
+COMMENTS	implement oper roo shell 
+CLASSES	embeddedoperationsimpl embed oper impl 
+VARSIG1	viewnam view 
+VARSIG0	url 
+METHODS	iscommandavail command emb instal getembeddedprovid embed provid bindembeddedprovid bind embed provid unbindembeddedprovid unbind embed provid 
+MTHSIG4	bindembeddedprovid bind embed provid embeddedprovid embed provid provid 
+MTHSIG5	unbindembeddedprovid unbind embed provid embeddedprovid embed provid provid 
+MTHSIG0	iscommandavail command 
+MTHSIG1	emb url viewnam view 
+PACKAGE	springframework roo addon web mvc embed 
+MTHSIG2	instal viewnam view map option 
+MTHSIG3	getembeddedprovid embed provid 
+VARIABLES	url viewnam view provid viewnam view option provid provid provid logger metadataservic metadata servic mutex provid 

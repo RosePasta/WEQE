@@ -1,0 +1,32 @@
+VARSIG7	methodid 
+VARSIG6	list classorinterfacetypedetail type detail mockserviceinterfac mock servic interfac 
+VARSIG9	methodparamet paramet methodparamet paramet 
+VARSIG8	expectedmethodsignatur expect signatur 
+VARSIG3	findentriesmethod find entri 
+VARSIG2	updatemethod updat 
+VARSIG5	plural 
+VARSIG4	plural 
+COMMENTS	unit test link servicelayerprovid servic layer provid constant fixtur mock set mock link classorinterfacetypedetail type detail servic link rooservic roo servic annot specifi name findallmethod find blank savemethod save blank updatemethod updat blank findentriesmethod find entri blank mock set mock link metadataservic metadata servic plural text test entiti type plural assert link servicelayerprovid servic layer provid paramet signatur plural mockserviceinterfac mock servic interfac empti methodid expectedmethodsignatur expect signatur addit expect methodparamet paramet set invok check set invok check 
+VARSIG1	savemethod save 
+VARSIG0	findallmethod find 
+MTHSIG4	testgetadditionsforentitywithnullpluralmetadata test addit entiti plural metadata 
+MTHSIG5	testgetadditionsforentitywithnullpluraltext test addit entiti plural text 
+MTHSIG6	testgetadditionsforentitywithnoservic test addit entiti servic 
+MTHSIG7	testgetadditionswhenserviceannotationvaluesunavail test addit servic annot valu unavail 
+MTHSIG0	setup set 
+MTHSIG1	getmockservic mock servic findallmethod find savemethod save updatemethod updat findentriesmethod find entri 
+PACKAGE	springframework roo addon layer servic 
+MTHSIG2	setuppluralmetadata set plural metadata plural 
+MTHSIG3	assertaddit addit plural list classorinterfacetypedetail type detail mockserviceinterfac mock servic interfac methodid expectedmethodsignatur expect signatur methodparamet paramet methodparamet paramet 
+MTHSIG8	testgetadditionsforbogusmethod test addit bogu 
+MTHSIG9	testgetadditionsforfindallmethodwhenserviceprovidesit test addit find servic 
+MTHSIG15	testgetadditionsforfindentriesmethodwhenserviceprovidesit test addit find entri servic 
+MTHSIG16	testgetadditionsforfindentriesmethodwhenservicedoesnotprovideit test addit find entri servic provid 
+MTHSIG13	testgetadditionsforupdatemethodwhenserviceprovidesit test addit updat servic 
+MTHSIG14	testgetadditionsforupdatemethodwhenservicedoesnotprovideit test addit updat servic provid 
+MTHSIG11	testgetadditionsforsavemethodwhenserviceprovidesit test addit save servic 
+MTHSIG12	testgetadditionsforsavemethodwhenservicedoesnotprovideit test addit save servic provid 
+CLASSES	servicelayerprovidertest servic layer provid test 
+METHODS	setup set getmockservic mock servic setuppluralmetadata set plural metadata assertaddit addit testgetadditionsforentitywithnullpluralmetadata test addit entiti plural metadata testgetadditionsforentitywithnullpluraltext test addit entiti plural text testgetadditionsforentitywithnoservic test addit entiti servic testgetadditionswhenserviceannotationvaluesunavail test addit servic annot valu unavail testgetadditionsforbogusmethod test addit bogu testgetadditionsforfindallmethodwhenserviceprovidesit test addit find servic testgetadditionsforfindallmethodwhenservicedoesnotprovideit test addit find servic provid testgetadditionsforsavemethodwhenserviceprovidesit test addit save servic testgetadditionsforsavemethodwhenservicedoesnotprovideit test addit save servic provid testgetadditionsforupdatemethodwhenserviceprovidesit test addit updat servic testgetadditionsforupdatemethodwhenservicedoesnotprovideit test addit updat servic provid testgetadditionsforfindentriesmethodwhenserviceprovidesit test addit find entri servic testgetadditionsforfindentriesmethodwhenservicedoesnotprovideit test addit find entri servic provid 
+MTHSIG10	testgetadditionsforfindallmethodwhenservicedoesnotprovideit test addit find servic provid 
+VARIABLES	findallmethod find savemethod save updatemethod updat findentriesmethod find entri plural plural mockserviceinterfac mock servic interfac methodid expectedmethodsignatur expect signatur methodparamet paramet size paramet start paramet bogu caller mid servic mid mocktargettyp mock target type mockidtyp mock type mockmetadataservic mock metadata servic mockserviceannotationvaluesfactori mock servic annot valu factori mockserviceinterfaceloc mock servic locat mocktypelocationservic mock type locat servic provid pluralid plural mockserviceinterfac mock servic mockservicetyp mock servic type mockserviceannotationvalu mock servic annot valu mockpluralmetadata mock plural metadata addit addit mockserviceinterfac mock servic mockserviceinterfac mock servic mockserviceinterfac mock servic mockserviceinterfac mock servic mockserviceinterfac mock servic methodparamet paramet mockserviceinterfac mock servic methodparamet paramet mockserviceinterfac mock servic methodparamet paramet mockserviceinterfac mock servic methodparamet paramet mockserviceinterfac mock servic mockserviceinterfac mock servic 

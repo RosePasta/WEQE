@@ -1,0 +1,25 @@
+VARSIG7	metadataidentificationstring metadata identification
+VARSIG6	javatype type type
+VARSIG9	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG8	javatype type aspectname aspect
+VARSIG3	componentcontext component context context
+VARSIG2	logicalpath logical path path
+VARSIG5	itdtypedetails type details itdtypedetails type details
+VARSIG4	metadataidentificationstring metadata identification
+COMMENTS	implementation link repositorymongometadataprovider repository mongo metadata provider determine governor metadata hoping hear javatype type itds remember entity javatype type matches metadata identification start clearing previous association
+VARSIG1	javatype type javatype type
+VARSIG0	componentcontext component context context
+MTHSIG4	getitduniquenessfilenamesuffix uniqueness filename suffix
+MTHSIG5	getlocalmidtorequest local mid request itdtypedetails type details itdtypedetails type details
+MTHSIG6	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+VARSIG10	itdfilename filename
+MTHSIG7	getprovidestype type
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	createlocalidentifier create local identifier javatype type javatype type logicalpath logical path path
+PACKAGE	springframework roo addon layers repository mongo
+MTHSIG2	deactivate componentcontext component context context
+MTHSIG3	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+MTHSIG8	registermatchers register matchers
+CLASSES	repositorymongometadataproviderimpl repository mongo metadata provider impl
+METHODS	activate createlocalidentifier create local identifier deactivate getgovernorphysicaltypeidentifier governor physical type identifier getitduniquenessfilenamesuffix uniqueness filename suffix getlocalmidtorequest local mid request getmetadata metadata getprovidestype type registermatchers register matchers
+VARIABLES	context javatype type path context metadataidentificationstring metadata identification itdtypedetails type details type metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename customdatakeydecorator custom data key decorator domaintypetorepositorymidmap domain type repository mid map repositorymidtodomaintypemap repository mid domain type map javatype type path governor localmid local mid memberholdingtypedetails member holding type details localmidtype local mid type annotationvalues annotation values domaintype domain type identifiertype identifier type oldentity entity

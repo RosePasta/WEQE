@@ -1,0 +1,13 @@
+VARSIG3	javatype type controllertype controller type
+VARSIG2	javatype type finderentity finder entity
+VARSIG4	javatype type entitytype entity type
+COMMENTS	implementation link webfinderoperations web finder operations find entities finders find controllers entities physical type mutable details
+CLASSES	webfinderoperationsimpl web finder operations impl
+VARSIG1	classorinterfacetypedetails type details cod
+VARSIG0	classorinterfacetypedetails type details cod
+METHODS	annotateall annotate annotatetype annotate type iswebfinderinstallationpossible web finder installation
+MTHSIG0	annotateall annotate
+MTHSIG1	annotatetype annotate type javatype type controllertype controller type javatype type entitytype entity type
+PACKAGE	springframework roo addon web mvc controller finder
+MTHSIG2	iswebfinderinstallationpossible web finder installation
+VARIABLES	cod cod finderentity finder entity controllertype controller type entitytype entity type controlleroperations controller operations metadataservice metadata service typelocationservice type location service typemanagementservice type management service finderentities finder entities ptm webscaffoldannotationvalues web scaffold annotation values ptm webscaffoldannotationvalues web scaffold annotation values ptd cid cidbuilder cid builder

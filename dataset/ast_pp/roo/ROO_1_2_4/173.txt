@@ -1,0 +1,9 @@
+MTHSIG0	register eventbus event bus eventbus event bus
+MTHSIG1	onauthfailure failure gaeauthenticationfailureevent gae authentication failure event requestevent request event
+PACKAGE	top level segment
+COMMENTS	minimal failure handler takes user login
+CLASSES	reloadonauthenticationfailure reload authentication failure
+VARIABLES	eventbus event bus requestevent request event
+VARSIG1	gaeauthenticationfailureevent gae authentication failure event requestevent request event
+VARSIG0	eventbus event bus eventbus event bus
+METHODS	register onauthfailure failure

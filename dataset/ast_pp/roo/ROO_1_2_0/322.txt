@@ -1,0 +1,9 @@
+MTHSIG0	isrepositorycommandavailable repository command
+MTHSIG1	repository javatype type interfacetype type javatype type domaintype domain type
+PACKAGE	springframework roo addon layers repository jpa
+COMMENTS	commands jpa repository add fields
+CLASSES	repositoryjpacommands repository jpa commands
+VARIABLES	interfacetype type domaintype domain type repositoryjpaoperations repository jpa operations
+VARSIG1	clioption cli option key entity unspecifieddefaultvalue unspecified optioncontext option context update project mandatory domain entity repository expose javatype type domaintype domain type
+VARSIG0	clioption cli option key mandatory apply annotation javatype type interfacetype type
+METHODS	isrepositorycommandavailable repository command repository

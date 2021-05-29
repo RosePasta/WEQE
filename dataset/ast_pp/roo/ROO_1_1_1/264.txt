@@ -1,0 +1,28 @@
+VARSIG7	methodmetadata metadata
+VARSIG6	memberholdingtypedetails member holding type details memberholder member holder
+VARSIG9	methodmetadata metadata
+VARSIG8	itdtypedetails type details itdtypedetails type details
+VARSIG3	javatype type aspectname aspect
+VARSIG2	metadataidentificationstring metadata identification
+VARSIG5	itdfilename filename
+VARSIG4	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+COMMENTS	link tostringmetadata metadata avoid bim deprecating add methods care track determine presents interested accessors care formally request update scan process determine governor path stored produce local mid request request local mid
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+MTHSIG4	ismethodofinterest interest methodmetadata metadata
+VARSIG12	javatype type javatype type
+MTHSIG5	getitduniquenessfilenamesuffix uniqueness filename suffix
+VARSIG11	metadataidentificationstring metadata identification
+MTHSIG6	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+VARSIG10	methodmetadata metadata
+MTHSIG7	createlocalidentifier create local identifier javatype type javatype type path path
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo addon tostring
+MTHSIG2	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+MTHSIG3	getlocalmidtorequest local mid request itdtypedetails type details itdtypedetails type details
+VARSIG13	path path
+MTHSIG8	getprovidestype type
+CLASSES	tostringmetadataprovider metadata provider
+METHODS	activate deactivate getmetadata metadata getlocalmidtorequest local mid request ismethodofinterest interest getitduniquenessfilenamesuffix uniqueness filename suffix getgovernorphysicaltypeidentifier governor physical type identifier createlocalidentifier create local identifier getprovidestype type
+VARIABLES	context context metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename memberholder member holder itdtypedetails type details metadataidentificationstring metadata identification javatype type path memberdetails member details locatedaccessors located accessors governortype governor type providestype type itdpath path localmid local mid javatype type path physicaltypeidentifier physical type identifier

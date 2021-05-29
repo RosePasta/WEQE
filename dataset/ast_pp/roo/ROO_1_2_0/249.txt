@@ -1,0 +1,34 @@
+VARSIG7	declaredbymetadataid declared metadata
+VARSIG6	javasymbolname symbol fieldname field
+VARSIG9	javatype type targettype target type
+VARSIG8	asynchronous
+VARSIG3	javatype type targettype target type
+VARSIG2	jmsdestinationtype jms destination type destinationtype destination type
+VARSIG5	asynchronous
+VARSIG4	javasymbolname symbol fieldname field
+COMMENTS	jms configuration operations fields create field create creates injected sends jms message fieldname field declaredbymetadataid declared metadata asynchronous jms message asynchronously builder ensures spring config files elements properties support asynchronous tasks create content people started determine canonical filename check file doesn exist destination configured add
+VARSIG1	
+VARSIG0	jmsprovider jms provider jmsprovider jms provider
+VARSIG17	physicaltypeidentifier physical type identifier
+MTHSIG4	injectjmstemplate inject jms template javatype type targettype target type javasymbolname symbol fieldname field asynchronous
+VARSIG12	jmsprovider jms provider jmsprovider jms provider
+MTHSIG5	createsendmessagemethod create send message javasymbolname symbol fieldname field declaredbymetadataid declared metadata asynchronous
+VARSIG11	jmsdestinationtype jms destination type destinationtype destination type
+MTHSIG6	ensurespringasynchronoussupportenabled ensure spring asynchronous support enabled
+VARSIG10	
+MTHSIG7	addjmslistener add jms listener javatype type targettype target type jmsdestinationtype jms destination type destinationtype destination type
+MTHSIG0	isjmsinstallationpossible jms installation
+VARSIG16	
+MTHSIG1	ismanagejmsavailable manage jms
+VARSIG15	document appctx app ctx
+PACKAGE	springframework roo addon jms
+MTHSIG2	hasjmscontext jms context
+VARSIG14	element dependencyelement dependency element
+MTHSIG3	installjms install jms jmsprovider jms provider jmsprovider jms provider jmsdestinationtype jms destination type destinationtype destination type
+VARSIG13	element dependencyelement dependency element
+MTHSIG8	updateconfiguration update configuration jmsprovider jms provider jmsprovider jms provider
+MTHSIG9	adddefaultdestination add destination document appctx app ctx
+CLASSES	jmsoperationsimpl jms operations impl
+METHODS	isjmsinstallationpossible jms installation ismanagejmsavailable manage jms hasjmscontext jms context installjms install jms injectjmstemplate inject jms template createsendmessagemethod create send message ensurespringasynchronoussupportenabled ensure spring asynchronous support enabled addjmslistener add jms listener updateconfiguration update configuration adddefaultdestination add destination getphysicallocationcanonicalpath physical location canonical path
+MTHSIG10	getphysicallocationcanonicalpath physical location canonical path physicaltypeidentifier physical type identifier
+VARIABLES	jmsprovider jms provider destinationtype destination type targettype target type fieldname field asynchronous fieldname field declaredbymetadataid declared metadata asynchronous targettype target type destinationtype destination type jmsprovider jms provider dependencyelement dependency element dependencyelement dependency element appctx app ctx physicaltypeidentifier physical type identifier filemanager file manager projectoperations project operations propfileoperations prop file operations typelocationservice type location service typemanagementservice type management service jmscontextpath jms context path document root destination listenercontainer listener container targettypedetails target type details declaredbymetadataid declared metadata cidbuilder cid builder parametertypes parameter types parameternames parameter names bodybuilder body builder methodbuilder builder contextpath context path appcontext app context root declaredbymetadataid declared metadata methods parametertypes parameter types parameternames parameter names bodybuilder body builder cidbuilder cid builder physicallocationcanonicalpath physical location canonical path jmscontextpath jms context path document root listenercontainer listener container jmslistener jms listener bean configuration dependencies springdependencies spring dependencies jmsdependencies jms dependencies root jmstemplate jms template defaultdestination destination javatype type path

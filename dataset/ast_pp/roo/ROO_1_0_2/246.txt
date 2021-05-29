@@ -1,0 +1,38 @@
+VARSIG7	ioexception exception ioe
+VARSIG6	fileidentifier file identifier
+VARSIG9	ioexception exception
+VARSIG8	fileidentifier file identifier
+VARSIG3	filemonitorservice file monitor service filemonitorservice file monitor service
+VARSIG2	metadatadependencyregistry metadata dependency registry metadatadependencyregistry metadata dependency registry
+VARSIG5	fileidentifier file identifier
+VARSIG4	classpathsearcher classpath searcher classpathsearcher classpath searcher
+COMMENTS	implementation link filemanager file manager acquire project metadata verify path exists ensure monitored root assume monitored processmanager process manager create directory notifications happen start monitoring explicitly perform scan directories monitor avoid operation validity
+VARSIG19	antpath ant path
+VARSIG1	undomanager undo manager undomanager undo manager
+VARSIG18	path
+VARSIG0	metadataservice metadata service metadataservice metadata service
+VARSIG17	downstreamdependency downstream dependency
+MTHSIG4	readfile read file fileidentifier file identifier
+VARSIG12	ioexception exception
+MTHSIG5	createfile create file fileidentifier file identifier
+VARSIG11	fileidentifier file identifier
+MTHSIG6	delete fileidentifier file identifier
+VARSIG10	fileidentifier file identifier
+MTHSIG7	updatefile update file fileidentifier file identifier
+MTHSIG0	defaultfilemanager file manager metadataservice metadata service metadataservice metadata service undomanager undo manager undomanager undo manager metadatadependencyregistry metadata dependency registry metadatadependencyregistry metadata dependency registry filemonitorservice file monitor service filemonitorservice file monitor service classpathsearcher classpath searcher classpathsearcher classpath searcher
+VARSIG16	upstreamdependency upstream dependency
+MTHSIG1	exists fileidentifier file identifier
+VARSIG15	fileidentifier file identifier
+PACKAGE	springframework roo process manager internal
+MTHSIG2	getinputstream input stream fileidentifier file identifier
+VARSIG14	ioexception exception
+MTHSIG3	createdirectory create directory fileidentifier file identifier
+VARSIG13	fileidentifier file identifier
+MTHSIG8	notify upstreamdependency upstream dependency downstreamdependency downstream dependency
+MTHSIG9	findmatchingantpath find matching ant path antpath ant path
+MTHSIG11	scan
+CLASSES	defaultfilemanager file manager
+METHODS	defaultfilemanager file manager exists getinputstream input stream createdirectory create directory readfile read file createfile create file delete updatefile update file notify findmatchingantpath find matching ant path findmatchingclasspathresources find matching classpath resources scan
+VARSIG20	antpath ant path
+MTHSIG10	findmatchingclasspathresources find matching classpath resources antpath ant path
+VARIABLES	metadataservice metadata service undomanager undo manager metadatadependencyregistry metadata dependency registry filemonitorservice file monitor service classpathsearcher classpath searcher fileidentifier file identifier fileidentifier file identifier ioe fileidentifier file identifier fileidentifier file identifier fileidentifier file identifier fileidentifier file identifier fileidentifier file identifier upstreamdependency upstream dependency downstreamdependency downstream dependency antpath ant path antpath ant path metadataservice metadata service undomanager undo manager filemonitorservice file monitor service notifiablefilemonitorservice notifiable file monitor service filenameresolver filename resolver pathsregistered paths registered classpathsearcher classpath searcher file actual filedetails file details actual parentdirectory parent directory actual actual pathresolver path resolver notifyon notify fileidentifier file identifier file request

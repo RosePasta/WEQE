@@ -1,0 +1,13 @@
+VARSIG2	clioption cli option key mandatory number milliseconds poll minimumdelaybetweenpoll minimum delay poll
+COMMENTS	commands file system monitoring process management manual polling
+CLASSES	processmanagercommands process manager commands
+VARSIG1	clioption cli option key enabled mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified activates development mode enabled
+VARSIG0	componentcontext component context context
+METHODS	activate developmentmode development mode poll pollinginfo polling info pollingspeed polling speed
+MTHSIG4	pollingspeed polling speed minimumdelaybetweenpoll minimum delay poll
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	developmentmode development mode enabled
+PACKAGE	springframework roo process manager
+MTHSIG2	poll
+MTHSIG3	pollinginfo polling info
+VARIABLES	context enabled minimumdelaybetweenpoll minimum delay poll processmanager process manager shell originalsetting original setting duration minimum

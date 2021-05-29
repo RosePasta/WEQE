@@ -1,0 +1,38 @@
+VARSIG7	artifactid artifact 
+VARSIG6	groupid group 
+VARSIG9	configur configur 
+VARSIG8	version 
+VARSIG3	groupid group 
+VARSIG2	version 
+VARSIG5	version 
+VARSIG4	artifactid artifact 
+COMMENTS	simplifi immut represent maven build plugin structur model maven creat immut link plugin groupid group group requir artifactid artifact artifact requir version version requir conveni constructor groupid group group requir artifactid artifact artifact requir version version requir conveni constructor groupid group group requir artifactid artifact artifact requir version version requir configur configur plugin option depend depend plugin option execut execut plugin option conveni constructor xml element repres maven plugin pars requir pars configur pars execut pars depend pars exclus list depend 
+VARSIG1	javasymbolnam symbol artifactid artifact 
+VARSIG18	plugin 
+VARSIG0	javapackag groupid group 
+VARSIG17	object obj 
+MTHSIG4	getgroupid group 
+VARSIG12	element plugin 
+MTHSIG5	getartifactid artifact 
+VARSIG11	list execut execut 
+MTHSIG6	getvers version 
+VARSIG10	list depend depend 
+MTHSIG7	getconfigur configur 
+MTHSIG0	plugin javapackag groupid group javasymbolnam symbol artifactid artifact version 
+VARSIG16	element exclus 
+MTHSIG1	plugin groupid group artifactid artifact version 
+VARSIG15	element depend 
+PACKAGE	springframework roo project 
+MTHSIG2	plugin groupid group artifactid artifact version configur configur list depend depend list execut execut 
+VARSIG14	element goal 
+MTHSIG3	plugin element plugin 
+VARSIG13	element execut 
+MTHSIG8	getdepend depend 
+MTHSIG9	getexecut execut 
+MTHSIG13	tostr 
+MTHSIG11	equal object obj 
+MTHSIG12	compareto compar plugin 
+CLASSES	plugin 
+METHODS	plugin plugin plugin plugin getgroupid group getartifactid artifact getvers version getconfigur configur getdepend depend getexecut execut hashcod hash code equal compareto compar tostr 
+MTHSIG10	hashcod hash code 
+VARIABLES	groupid group artifactid artifact version groupid group artifactid artifact version groupid group artifactid artifact version configur depend execut plugin execut goal depend exclus obj groupid group artifactid artifact version configur depend execut versionel version element configur executionlist execut list executionid execut executionphas execut phase phase goal goallist goal list dependencylist depend list dependencygroupid depend group groupid group dependencyartifactid depend artifact artifactid artifact dependencyvers depend version version dependencyel depend element exclusionlist exclus list exclusionel exclus element exclusionid exclus exclusionartifact exclus artifact exclusionartifactid exclus artifact result tsc 

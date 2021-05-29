@@ -1,0 +1,40 @@
+VARSIG7	runtimeexcept runtim except 
+VARSIG6	object 
+VARSIG9	 
+VARSIG8	except ignoreit ignor 
+VARSIG3	filenotfoundexcept file except trytheclassloaderinstead loader 
+VARSIG2	clioption cli option kei linenumb number mandatori specifieddefaultvalu unspecifieddefaultvalu unspecifi displai number execut script linenumb number 
+VARSIG5	 
+VARSIG4	ioexcept except 
+COMMENTS	base link shell implement find resourc classload abort script process wrong command attempt support simpl block comment singl pair support inlin comment start valid command option http helloworld fail roo convert tab charact whitespac roo reli execut strategi log throwabl root exceptionutil except util extractrootcaus extract root logger log level fine root getmessag messag subclass log execut form command invok command complet command return return except note attempt command form miss mandatori argument present command execut attempt case invok attempt execut command implement special handl script command indic command success implement behav consist link abstractshel shell subclass encourag simpli overrid link logcommandtooutput log command output overrid fine tune output logic pars comment remov success command success subclass write log command form output free subclass need implement logic link logcommandifrequir log command requir implement invok link getexitshellrequest exit shell request monitor attempt exit shell releas resourc output log file processedlin process append type output exclud charact logger sever processedlin process base implement link shell setpromptpath set prompt path design simpl shell implement advanc implement support ansi code overrid set link shellprompt shell prompt variabl path set empti format special ansi code determin svn version attempt svn version manifest develop mode svnversion extern tool build version detail obtain directori current shell instanc note call link gethomeasstr subclass provid directori locat environ specif strategi path link gethomeasstr exist refer directori directori return path link gethomeasstr exist refer file except thrown path link gethomeasstr exist creat directori fail except thrown directori current shell instanc guarante exist directori 
+VARSIG1	clioption cli option kei file file locat execut mandatori file resourc 
+VARSIG0	executionstrategi execut strategi executionstrategi execut strategi 
+MTHSIG4	logcommandtooutput log command output processedlin process 
+VARSIG12	path 
+MTHSIG5	setpromptpath set prompt path path 
+VARSIG11	processedlin process 
+MTHSIG6	getexitshellrequest exit shell request 
+VARSIG10	success 
+MTHSIG7	requestexit request exit 
+MTHSIG0	abstractshel shell executionstrategi execut strategi executionstrategi execut strategi 
+VARSIG16	except ignoreandmoveon ignor move 
+MTHSIG1	script file resourc linenumb number 
+VARSIG15	clioption cli option kei special version flag extra 
+PACKAGE	springframework roo shell intern 
+MTHSIG2	executecommand execut command 
+VARSIG14	 
+MTHSIG3	logcommandifrequir log command requir success 
+VARSIG13	object properti 
+MTHSIG8	inlinecom inlin comment 
+MTHSIG9	blockcommentbegin block comment 
+MTHSIG17	gethomeasstr 
+MTHSIG15	getshellprompt shell prompt 
+MTHSIG16	gethom 
+MTHSIG13	version extra 
+MTHSIG14	versioninfo version info 
+MTHSIG11	prop 
+MTHSIG12	 
+CLASSES	abstractshel shell 
+METHODS	abstractshel shell script executecommand execut command logcommandifrequir log command requir logcommandtooutput log command output setpromptpath set prompt path getexitshellrequest exit shell request requestexit request exit inlinecom inlin comment blockcommentbegin block comment blockcommentfinish block comment finish prop version versioninfo version info getshellprompt shell prompt gethom gethomeasstr 
+MTHSIG10	blockcommentfinish block comment finish 
+VARIABLES	executionstrategi execut strategi resourc linenumb number trytheclassloaderinstead loader ignoreit ignor success processedlin process path properti extra ignoreandmoveon ignor move logger inblockcom block comment exitshellrequest exit shell request executionstrategi execut strategi shellprompt shell prompt completionkei complet start inputstream input stream success lh parseresult pars result result properti data svnrev svn rev classcontain contain manifesturl manifest url manifest locat input formalbuild formal build roohom roo 

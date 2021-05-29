@@ -1,0 +1,12 @@
+MTHSIG0	gettemplatepath template path loadingclass loading relativefilename relative filename
+VARSIG3	templatefilename template filename
+MTHSIG1	gettemplate template clazz templatefilename template filename
+VARSIG2	clazz
+PACKAGE	springframework roo support util
+MTHSIG2	templateutils template utils
+COMMENTS	utilities dealing templates commonly roo add ons determines path requested template clazz owns template required templatefilename template filename filename template required full classloader specific path template link fileutils file utils getpath path acquires link inputstream input stream requested classloader derived template clazz owns template required templatefilename template filename filename template required input stream exception thrown link fileutils file utils getinputstream input stream constructor prevent instantiation
+CLASSES	templateutils template utils
+VARIABLES	loadingclass loading relativefilename relative filename clazz templatefilename template filename
+VARSIG1	relativefilename relative filename
+VARSIG0	loadingclass loading
+METHODS	gettemplatepath template path gettemplate template templateutils template utils

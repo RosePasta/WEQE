@@ -1,0 +1,12 @@
+MTHSIG0	isdbreavailable dbre
+VARSIG3	clioption cli option key mandatory optioncontext option context update entities javapackage destinationpackage destination
+MTHSIG1	displaydatabasemetadata display database metadata schema schema file file
+VARSIG2	clioption cli option key schema mandatory database schema schema schema
+PACKAGE	springframework roo addon dbre
+MTHSIG2	serializedatabasemetadata serialize database metadata schema schema javapackage destinationpackage destination
+COMMENTS	commands dbre addon roo shell
+CLASSES	dbrecommands dbre commands
+VARIABLES	schema file schema destinationpackage destination dbreoperations dbre operations
+VARSIG1	clioption cli option key file mandatory file save metadata file file
+VARSIG0	clioption cli option key schema mandatory database schema schema schema
+METHODS	isdbreavailable dbre displaydatabasemetadata display database metadata serializedatabasemetadata serialize database metadata

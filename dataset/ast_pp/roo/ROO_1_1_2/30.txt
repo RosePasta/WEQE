@@ -1,0 +1,34 @@
+VARSIG7	attributes attributes
+VARSIG6	qname
+VARSIG9	attributename attribute
+VARSIG8	attributes attributes
+VARSIG3	attributes attributes
+VARSIG2	qname
+VARSIG5	localname local
+VARSIG4	uri
+COMMENTS	link contenthandler content handler implementation converting roo dbre xml file link database object
+VARSIG1	localname local
+VARSIG0	uri
+VARSIG17	
+MTHSIG4	gettable table attributes attributes
+VARSIG12	attributes attributes
+MTHSIG5	getcolumn column attributes attributes
+VARSIG11	attributes attributes
+MTHSIG6	getcolumnerrormessage column error message attributename attribute
+VARSIG10	
+MTHSIG7	getforeignkey foreign key attributes attributes
+MTHSIG0	databasecontenthandler database content handler
+VARSIG16	key
+MTHSIG1	getdatabase database
+VARSIG15	attributes attributes
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	startelement start element uri localname local qname attributes attributes
+VARSIG14	indextype type indextype type
+MTHSIG3	endelement element uri localname local qname
+VARSIG13	attributes attributes
+MTHSIG8	getreference reference attributes attributes
+MTHSIG9	getindex attributes attributes indextype type indextype type
+CLASSES	databasecontenthandler database content handler
+METHODS	databasecontenthandler database content handler getdatabase database startelement start element endelement element gettable table getcolumn column getcolumnerrormessage column error message getforeignkey foreign key getreference reference getindex getindexcolumn column
+MTHSIG10	getindexcolumn column attributes attributes
+VARIABLES	uri localname local qname attributes uri localname local qname attributes attributes attributename attribute attributes attributes attributes indextype type attributes key stack database tables destinationpackage destination tmp option foreignkey foreign key table table type datatypeandname data type datatype data type typename type size columnsize column size decimaldigits decimal digits precisionscale precision scale column foreignkey foreign key key

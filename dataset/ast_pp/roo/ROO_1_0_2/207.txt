@@ -1,0 +1,8 @@
+MTHSIG0	getmeaningfulname meaningful file file
+PACKAGE	springframework roo file undo internal
+COMMENTS	link filenameresolver filename resolver simply returns canonical file paths
+CLASSES	defaultfilenameresolver filename resolver
+VARIABLES	file ioe
+VARSIG1	ioexception exception ioe
+VARSIG0	file file
+METHODS	getmeaningfulname meaningful

@@ -1,0 +1,34 @@
+VARSIG7	asynchron 
+VARSIG6	declaredbymetadataid declar metadata 
+VARSIG9	javatyp type targettyp target type 
+VARSIG8	physicaltypeidentifi physic type identifi 
+VARSIG3	 
+VARSIG2	javatyp type targettyp target type 
+VARSIG5	javasymbolnam symbol fieldnam field 
+VARSIG4	jmsdestinationtyp jm destin type destinationtyp destin type 
+COMMENTS	jm configur oper destin configur add creat content peopl start determin canon filenam check file doesn exist creat inject send jm messag fieldnam field declaredbymetadataid declar metadata asynchron jm messag asynchron builder ensur spring config file element properti support asynchron task creat field creat 
+VARSIG1	 
+VARSIG0	document appctx app ctx 
+VARSIG17	element dependencyel depend element 
+MTHSIG4	getphysicallocationcanonicalpath physic locat canon path physicaltypeidentifi physic type identifi 
+VARSIG12	jmsprovid jm provid jmsprovid jm provid 
+MTHSIG5	hasjmscontext jm context 
+VARSIG11	asynchron 
+MTHSIG6	injectjmstempl inject jm templat javatyp type targettyp target type javasymbolnam symbol fieldnam field asynchron 
+VARSIG10	javasymbolnam symbol fieldnam field 
+MTHSIG7	installjm instal jm jmsprovid jm provid jmsprovid jm provid jmsdestinationtyp jm destin type destinationtyp destin type 
+MTHSIG0	adddefaultdestin add destin document appctx app ctx 
+VARSIG16	element dependencyel depend element 
+MTHSIG1	addjmslisten add jm listen javatyp type targettyp target type jmsdestinationtyp jm destin type destinationtyp destin type 
+VARSIG15	jmsprovid jm provid jmsprovid jm provid 
+PACKAGE	springframework roo addon jm 
+MTHSIG2	createsendmessagemethod creat send messag javasymbolnam symbol fieldnam field declaredbymetadataid declar metadata asynchron 
+VARSIG14	jmsdestinationtyp jm destin type destinationtyp destin type 
+MTHSIG3	ensurespringasynchronoussupporten ensur spring asynchron support enabl 
+VARSIG13	 
+MTHSIG8	isjmsinstallationposs jm instal 
+MTHSIG9	ismanagejmsavail manag jm 
+CLASSES	jmsoperationsimpl jm oper impl 
+METHODS	adddefaultdestin add destin addjmslisten add jm listen createsendmessagemethod creat send messag ensurespringasynchronoussupporten ensur spring asynchron support enabl getphysicallocationcanonicalpath physic locat canon path hasjmscontext jm context injectjmstempl inject jm templat installjm instal jm isjmsinstallationposs jm instal ismanagejmsavail manag jm updateconfigur updat configur 
+MTHSIG10	updateconfigur updat configur jmsprovid jm provid jmsprovid jm provid 
+VARIABLES	appctx app ctx targettyp target type destinationtyp destin type fieldnam field declaredbymetadataid declar metadata asynchron physicaltypeidentifi physic type identifi targettyp target type fieldnam field asynchron jmsprovid jm provid destinationtyp destin type jmsprovid jm provid dependencyel depend element dependencyel depend element filemanag file manag projectoper project oper propfileoper prop file oper typelocationservic type locat servic typemanagementservic type manag servic root jmstemplat jm templat defaultdestin destin declaredbymetadataid declar metadata method parametertyp paramet type parameternam paramet name bodybuild bodi builder cidbuild cid builder physicallocationcanonicalpath physic locat canon path jmscontextpath jm context path document root listenercontain listen contain jmslisten jm listen bean parametertyp paramet type parameternam paramet name bodybuild bodi builder methodbuild builder contextpath context path appcontext app context root javatyp type path targettypedetail target type detail declaredbymetadataid declar metadata cidbuild cid builder jmscontextpath jm context path document root destin listenercontain listen contain configur depend springdepend spring depend jmsdepend jm depend 

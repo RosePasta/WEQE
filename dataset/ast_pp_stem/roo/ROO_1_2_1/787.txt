@@ -1,0 +1,81 @@
+MTHSIG24	updatechang updat filecanonicalpath file canon path remov 
+MTHSIG22	scanal scan 
+MTHSIG23	scannotifi scan notifi 
+VARSIG39	entri file entri 
+MTHSIG4	getdirtyfil dirti file requestingclass request 
+VARSIG34	sortedset sort set filedetail file detail result 
+MTHSIG5	getfilecreationev file creation event monitoringrequest monitor request request map file priorfil prior file 
+VARSIG33	file currentdirectori current directori 
+MTHSIG6	getfiledeletionev file delet event monitoringrequest monitor request request map file priorfil prior file 
+VARSIG32	antpath ant path 
+MTHSIG7	getfileupdateev file updat event monitoringrequest monitor request request map file priorfil prior file 
+VARSIG31	monitoringrequest monitor request request 
+MTHSIG0	add fileeventlisten file event listen 
+VARSIG38	monitoringrequest monitor request request 
+MTHSIG1	add monitoringrequest monitor request request 
+VARSIG37	fileeventlisten file event listen 
+PACKAGE	springframework roo file monitor poll 
+MTHSIG2	computeentri comput entri map file map file currentfil current file includesubtre includ subtre 
+VARSIG36	ioexcept except 
+MTHSIG3	findmatchingantpath find match ant path antpath ant path 
+VARSIG35	file 
+MTHSIG20	remov fileeventlisten file event listen 
+MTHSIG21	remov monitoringrequest monitor request request 
+MTHSIG8	getmonitor monitor 
+VARSIG30	fileeventlisten file event listen 
+MTHSIG9	isdirti dirti 
+CLASSES	pollingfilemonitorservic poll file monitor servic 
+VARSIG29	fileev file event event 
+VARSIG28	list fileev file event eventstopublish event publish 
+METHODS	add add computeentri comput entri findmatchingantpath find match ant path getdirtyfil dirti file getfilecreationev file creation event getfiledeletionev file delet event getfileupdateev file updat event getmonitor monitor isdirti dirti isexcludeddirectori exclud directori isnotificationunderknownmonitoringrequest notif monitor request iswithin norequestsorchang request notifychang notifi chang notifycr notifi creat notifydelet notifi delet publish publishrequestedfileev publish request file event recursiveantmatch recurs ant match remov remov scanal scan scannotifi scan notifi updatechang updat 
+VARSIG23	filepath file path 
+VARSIG22	monitoringrequest monitor request request 
+VARSIG21	monitoringrequest monitor request request 
+VARSIG20	filecanonicalpath file canon path 
+VARSIG27	filecanonicalpath file canon path 
+VARSIG26	filecanonicalpath file canon path 
+VARSIG25	filecanonicalpath file canon path 
+VARSIG24	ioexcept except 
+VARSIG7	ioexcept except 
+VARSIG6	includesubtre includ subtre 
+VARSIG9	antpath ant path 
+VARSIG8	file file 
+VARSIG3	ioexcept except ioe 
+VARSIG2	monitoringrequest monitor request exist 
+VARSIG5	file currentfil current file 
+VARSIG4	map file map 
+COMMENTS	simpl poll base link filemonitorservic file monitor servic implement iter link monitoringrequest monitor request instanc build activ file time execut compar activ file time execut link monitoringrequest monitor request event fire event fire process complet link monitoringrequest monitor request examin implement recogn link fileoper file oper renam event implement ignor monitor file filenam start period hidden file link fileoper file oper delet event implement link fileev file event time equal time delet file modifi time repres delet time time delet detect ensur exist monitor request don overlap request amend exist request ignor request request exist request directori monitor tree request directori exist request ignor request unnecessari exist request directori request remov exist request request incorpor add entri map kei map file object link file lastmodifi modifi time invok file file file invok file directori file directori invok file directori subdirectori includesubtre includ subtre comput start directori refer ant path condit base ensur detect charact charact path start ant express doesn exist there find search process skip file doesn exist record notif updat prior execut map isn notifi process skip file suddenli exist shouldn notifi delet record notif updat prior execut map isn notifi process skip file doesn exist record notif updat prior execut map isn notifi remov creat list decid store notif monitor request interest request roo detail filecanonicalpath file canon path notif directori directori directori file publish event need assum caller acquir synchronis lock eventstopublish event publish publish empti file check handl file updat creat delet execut locat file current directori patch ant path antpath ant path match requir currentdirectori current directori exist directori search requir result append locat file requir advis cessat monitor build content monitor locat perform comparison data previou execut locat creat modifi file file exist execut file notifi modifi file notifi locat delet file file notifi data previou execut newli monitor locat record monitor locat locat content readi execut discard creat delet notif correctli discov loop explicitli handl undiscov updat notif ident millisecond updat occur 
+VARSIG19	path 
+VARSIG1	monitoringrequest monitor request request 
+VARSIG18	entri file entri 
+VARSIG0	fileeventlisten file event listen 
+VARSIG17	monitoringrequest monitor request request 
+VARSIG12	map file priorfil prior file 
+VARSIG11	monitoringrequest monitor request request 
+VARSIG10	requestingclass request 
+VARSIG16	map file priorfil prior file 
+VARSIG15	monitoringrequest monitor request request 
+VARSIG14	map file priorfil prior file 
+VARSIG13	monitoringrequest monitor request request 
+VARSIG50	requestingclass request 
+MTHSIG17	publish list fileev file event eventstopublish event publish 
+MTHSIG18	publishrequestedfileev publish request file event 
+MTHSIG15	notifycr notifi creat filecanonicalpath file canon path 
+MTHSIG16	notifydelet notifi delet filecanonicalpath file canon path 
+MTHSIG13	norequestsorchang request 
+MTHSIG14	notifychang notifi chang filecanonicalpath file canon path 
+MTHSIG11	isnotificationunderknownmonitoringrequest notif monitor request filecanonicalpath file canon path 
+MTHSIG12	iswithin monitoringrequest monitor request request filepath file path 
+MTHSIG19	recursiveantmatch recurs ant match antpath ant path file currentdirectori current directori sortedset sort set filedetail file detail result 
+VARSIG45	ioexcept except 
+VARSIG44	entri file entri 
+VARSIG43	ioexcept except 
+VARSIG42	ioexcept except 
+VARSIG49	remov 
+VARSIG48	filecanonicalpath file canon path 
+VARSIG47	canonicalpath canon path 
+VARSIG46	entri file entri 
+MTHSIG10	isexcludeddirectori exclud directori path 
+VARIABLES	request exist ioe map currentfil current file includesubtre includ subtre file antpath ant path requestingclass request request priorfil prior file request priorfil prior file request priorfil prior file request entri path filecanonicalpath file canon path request request filepath file path filecanonicalpath file canon path filecanonicalpath file canon path filecanonicalpath file canon path eventstopublish event publish event request antpath ant path currentdirectori current directori result request entri request entri entri entri canonicalpath canon path filecanonicalpath file canon path remov requestingclass request allfil file changemap chang map fileeventlisten file event listen lock notifychang notifi chang notifycr notifi creat notifydelet notifi delet priorexecut prior execut request dmr existingdmr exist dmr existingdmrpath exist dmr path newdmrpath dmr path file result newpath path somepath path changessincelastrequest request copyofchangessincelastrequest copi request createev creat event iter filepath file path thisfil file deleteev delet event iter filepath file path thisfil file updateev updat event iter filepath file path thisfil file monitor priorfil prior file hassrc src requestcanonicalpath request canon path dmr eventspublish event publish eventstopublish event publish priorfil prior file listfil list file eventstopublish event publish priorfil prior file thisfil file lastmodifi modifi includesubtre includ subtre currentexecut current execut eventstopublish event publish priorfil prior file thisfil file currenttimestamp current timestamp previoustimestamp previou timestamp deletedfil delet file file 
+VARSIG41	entri file entri 
+VARSIG40	monitoringrequest monitor request request 

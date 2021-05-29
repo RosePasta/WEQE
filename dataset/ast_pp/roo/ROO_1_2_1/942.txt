@@ -1,0 +1,25 @@
+VARSIG7	logicalpath logical path logicalpath logical path
+VARSIG6	issource source
+VARSIG8	rootpath root path
+VARSIG3	expectedidentifier expected identifier
+VARSIG2	relativepath relative path
+VARSIG5	pom pom
+VARSIG4	module
+COMMENTS	unit test link mavenpathresolvingstrategy maven path resolving strategy fixture asserts calling link mavenpathresolvingstrategy maven path resolving strategy getidentifier identifier logicalpath logical path parameters expected identifier pom pom mock link pommanagementservice pom management service module module module returned link logicalpath logical path relativepath relative path expectedidentifier expected identifier set invoke check set invoke check set invoke check
+VARSIG1	module
+VARSIG0	pom pom
+MTHSIG4	setup set
+MTHSIG5	setupmodulepaths set module paths
+MTHSIG6	testgetallpaths test paths
+MTHSIG7	testgetidentifierfornewmodulewithemptyrelativepath test identifier module empty relative path
+MTHSIG0	assertidentifier identifier pom pom module relativepath relative path expectedidentifier expected identifier
+MTHSIG1	getmockcontextualpath mock contextual path module pom pom
+PACKAGE	springframework roo project
+MTHSIG2	getmockmodulepath mock module path issource source logicalpath logical path logicalpath logical path
+MTHSIG3	getmockpom mock pom rootpath root path
+MTHSIG8	testgetidentifierforrootmodulewithemptyrelativepath test identifier root module empty relative path
+MTHSIG9	testgetidentifierforrootmodulewithnonemptyrelativepath test identifier root module empty relative path
+CLASSES	mavenpathresolvingstrategytest maven path resolving strategy test
+METHODS	assertidentifier identifier getmockcontextualpath mock contextual path getmockmodulepath mock module path getmockpom mock pom setup set setupmodulepaths set module paths testgetallpaths test paths testgetidentifierfornewmodulewithemptyrelativepath test identifier module empty relative path testgetidentifierforrootmodulewithemptyrelativepath test identifier root module empty relative path testgetidentifierforrootmodulewithnonemptyrelativepath test identifier root module empty relative path testgetsourcepaths test source paths
+MTHSIG10	testgetsourcepaths test source paths
+VARIABLES	pom module relativepath relative path expectedidentifier expected identifier module pom issource source logicalpath logical path rootpath root path module path relative pom pom path root module mocknonsourcepath mock source path mockpommanagementservice mock pom management service mocksourcepath mock source path strategy mockcontextualpath mock contextual path identifier mockcontextualpath mock contextual path mockmodulepath mock module path mockpom mock pom mockmodulesourcepath mock module source path mockmodulenonsourcepath mock module source path mockpom mock pom modulepathids module path ids mockparentpom mock parent pom expectedidentifier expected identifier expectedidentifier expected identifier relativepath relative path expectedidentifier expected identifier modulepathids module path ids

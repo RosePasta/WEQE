@@ -1,0 +1,18 @@
+VARSIG7	scaffoldmobileactivities scaffold mobile activities scaffoldmobileactivities scaffold mobile activities
+VARSIG6	placecontroller place controller placecontroller place controller
+VARSIG8	placehistoryfactory place history factory placehistoryfactory place history factory
+VARSIG3	scaffoldmobileshell scaffold mobile shell shell
+VARSIG2	eventbus event bus eventbus event bus
+VARSIG5	eventbus event bus eventbus event bus
+VARSIG4	applicationrequestfactory application request factory requestfactory request factory
+COMMENTS	mobile application browsing entities root activity entities list resources mobile add handlers setup activities hide loading message user shell todo jlabanca rootlayoutpanel root layout panel docklayoutpanel dock layout panel add remote logging handler left side pick types entities wrap scaffoldmobileactivities scaffold mobile activities intercept activity requests remember activity button support defer scaffoldmobileactivities scaffold mobile activities clear placepicker place picker select top level update title edit buttons update title update button update edit button activity body activitymanager activity manager listens placechange place change events finds activity browser history integration
+CLASSES	scaffoldmobileapp scaffold mobile app
+VARSIG1	acceptsonewidget accepts widget panel
+VARSIG0	widget widget
+METHODS	getmobilelistresources mobile list resources scaffoldmobileapp scaffold mobile app init
+MTHSIG0	getmobilelistresources mobile list resources
+MTHSIG1	scaffoldmobileapp scaffold mobile app scaffoldmobileshell scaffold mobile shell shell applicationrequestfactory application request factory requestfactory request factory eventbus event bus eventbus event bus placecontroller place controller placecontroller place controller scaffoldmobileactivities scaffold mobile activities scaffoldmobileactivities scaffold mobile activities placehistoryfactory place history factory placehistoryfactory place history factory
+PACKAGE	top level segment
+MTHSIG2	
+MTHSIG3	init
+VARIABLES	widget panel eventbus event bus shell requestfactory request factory eventbus event bus placecontroller place controller scaffoldmobileactivities scaffold mobile activities placehistoryfactory place history factory widget root place res lastactivity activity log shell scaffoldmobileactivities scaffold mobile activities requestfactory request factory eventbus event bus placecontroller place controller placehistoryfactory place history factory loading

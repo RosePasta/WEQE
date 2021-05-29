@@ -1,0 +1,50 @@
+MTHSIG4	focusmodul focu modul pom modul 
+MTHSIG5	iscreateprojectavail creat project 
+MTHSIG6	isdependencymodificationallow depend modif allow 
+MTHSIG7	ismodulecreationallow modul creation allow 
+MTHSIG0	adddepend add depend groupid group artifactid artifact version classifi dependencyscop depend scope scope 
+MTHSIG1	addrepositori add repositori url 
+PACKAGE	springframework roo project 
+MTHSIG2	createmodul creat modul modulenam modul javapackag toplevelpackag top level integ majorjavavers major version gav parentpom parent pom packagingprovid packag provid packag artifactid artifact 
+MTHSIG3	createproject creat project javapackag toplevelpackag top level projectnam project integ majorjavavers major version gav parentpom parent pom packagingprovid packag provid packag 
+MTHSIG8	ismodulefocusallow modul focu allow 
+MTHSIG9	isperformcommandallow perform command allow 
+CLASSES	mavencommand maven command 
+METHODS	adddepend add depend addrepositori add repositori createmodul creat modul createproject creat project focusmodul focu modul iscreateprojectavail creat project isdependencymodificationallow depend modif allow ismodulecreationallow modul creation allow ismodulefocusallow modul focu allow isperformcommandallow perform command allow mvn removedepend remov depend removerepositori remov repositori runassembl assembl runclean clean runeclips runpackag runtest test 
+VARSIG23	clioption cli option kei version mandatori version depend version 
+VARSIG22	clioption cli option kei artifactid artifact mandatori artifact depend artifactid artifact 
+VARSIG21	clioption cli option kei groupid group mandatori group depend groupid group 
+VARSIG20	clioption cli option kei mavencommand maven command mandatori user maven command test test command 
+VARSIG26	clioption cli option kei url mandatori url repositori url 
+VARSIG25	clioption cli option kei mandatori repositori 
+VARSIG24	clioption cli option kei classifi classifi depend classifi 
+VARSIG7	clioption cli option kei url mandatori url repositori url 
+VARSIG6	clioption cli option kei mandatori repositori 
+VARSIG9	clioption cli option kei toplevelpackag top level mandatori optioncontext option context updat uppermost groupid group maven roo roo shell javapackag toplevelpackag top level 
+VARSIG8	clioption cli option kei modulenam modul mandatori modul modulenam modul 
+VARSIG3	clioption cli option kei classifi classifi depend classifi 
+VARSIG2	clioption cli option kei version mandatori version depend version 
+VARSIG5	clioption cli option kei mandatori repositori 
+VARSIG4	clioption cli option kei scope scope depend dependencyscop depend scope scope 
+COMMENTS	shell command link mavenoper maven oper launch mvn command 
+VARSIG19	clioption cli option kei modulenam modul mandatori modul focu pom modul 
+VARSIG1	clioption cli option kei artifactid artifact mandatori artifact depend artifactid artifact 
+VARSIG18	clioption cli option kei packag maven packag project unspecifieddefaultvalu unspecifi jarpackag jar packag packagingprovid packag provid packag 
+VARSIG0	clioption cli option kei groupid group mandatori group depend groupid group 
+VARSIG17	clioption cli option kei parent maven coordin parent pom form groupid group artifactid artifact version gav parentpom parent pom 
+VARSIG12	clioption cli option kei packag maven packag modul unspecifieddefaultvalu unspecifi jarpackag jar packag packagingprovid packag provid packag 
+VARSIG11	clioption cli option kei parent maven coordin parent pom form groupid group artifactid artifact version gav parentpom parent pom 
+VARSIG10	clioption cli option kei forc major version auto detect unspecifi integ majorjavavers major version 
+VARSIG16	clioption cli option kei forc major version auto detect unspecifi integ majorjavavers major version 
+VARSIG15	clioption cli option kei projectnam project project segment projectnam project 
+VARSIG14	clioption cli option kei toplevelpackag top level mandatori optioncontext option context updat uppermost groupid group maven roo roo shell javapackag toplevelpackag top level 
+VARSIG13	clioption cli option kei artifactid artifact artifact modul default modulenam modul artifactid artifact 
+MTHSIG17	runtest test 
+MTHSIG15	runeclips 
+MTHSIG16	runpackag 
+MTHSIG13	runassembl assembl 
+MTHSIG14	runclean clean 
+MTHSIG11	removedepend remov depend groupid group artifactid artifact version classifi 
+MTHSIG12	removerepositori remov repositori url 
+MTHSIG10	mvn command 
+VARIABLES	groupid group artifactid artifact version classifi scope url modulenam modul toplevelpackag top level majorjavavers major version parentpom parent pom packag artifactid artifact toplevelpackag top level projectnam project majorjavavers major version parentpom parent pom packag modul command groupid group artifactid artifact version classifi url depend add command depend remov command modul creat command modul focu command perform assembl command perform clean command perform command command perform command perform command perform test command project command repositori add command repositori remov command mavenoper maven oper 

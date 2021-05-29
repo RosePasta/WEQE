@@ -1,0 +1,13 @@
+VARSIG3	 
+VARSIG2	lang 
+COMMENTS	listen osgi servic event regist unregist addon 
+CLASSES	ncompon compon 
+VARSIG1	local local 
+VARSIG0	 
+METHODS	bindlanguag bind languag getlanguag languag getsupportedlanguag support languag unbindlanguag unbind languag 
+MTHSIG0	bindlanguag bind languag 
+MTHSIG1	getlanguag languag local local 
+PACKAGE	springframework roo addon web mvc jsp 
+MTHSIG2	getsupportedlanguag support languag 
+MTHSIG3	unbindlanguag unbind languag 
+VARIABLES	local lang nset set mutex set 

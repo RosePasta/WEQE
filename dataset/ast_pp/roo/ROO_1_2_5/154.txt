@@ -1,0 +1,27 @@
+VARSIG7	upstreamdependency upstream dependency
+VARSIG6	metadataidentificationstring metadata identification
+VARSIG9	classorinterfacetypedetails type details proxycid proxy cid
+VARSIG8	downstreamdependency downstream dependency
+VARSIG3	stringattributevalue attribute attributevalue attribute
+VARSIG2	metadataidentificationstring metadata identification
+VARSIG5	methodmetadata metadata
+VARSIG4	stringattributevalue attribute attributevalue attribute
+COMMENTS	remove annotations proxy physical type changed determine local metadata identification proceed downstream dependency relationship registered registered event delivered instance specific downstream dependency processed create classorinterfacetypedetailsbuilder type details builder proxy overridden proxy created inherit entityproxy entity proxy extension defined
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+MTHSIG4	getprovidestype type
+VARSIG12	list exclusionlist exclusion list
+MTHSIG5	notify upstreamdependency upstream dependency downstreamdependency downstream dependency
+VARSIG11	list methodmetadata metadata proxymethods proxy methods
+MTHSIG6	updateproxy update proxy classorinterfacetypedetails type details proxy list methodmetadata metadata proxymethods proxy methods list exclusionlist exclusion list list readonlylist read list
+VARSIG10	classorinterfacetypedetails type details proxy
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo addon gwt proxy
+MTHSIG2	metadataidentificationstring metadata identification
+VARSIG14	methodmetadata metadata
+MTHSIG3	getgovernor governor metadataidentificationstring metadata identification
+VARSIG13	list readonlylist read list
+CLASSES	gwtproxymetadataproviderimpl gwt proxy metadata provider impl
+METHODS	activate deactivate getgovernor governor getprovidestype type notify updateproxy update proxy
+VARIABLES	context context metadataidentificationstring metadata identification attributevalue attribute attributevalue attribute metadataidentificationstring metadata identification upstreamdependency upstream dependency downstreamdependency downstream dependency proxycid proxy cid proxy proxymethods proxy methods exclusionlist exclusion list readonlylist read list gwtfilemanager gwt file manager gwttypeservice gwt type service projectoperations project operations typelocationservice type location service proxy mirrorannotation mirror annotation mirroredtype mirrored type exclusionlist exclusion list excludeattribute exclude attribute excludearrayattribute exclude array attribute excludestringattribute exclude attribute readonlylist read list readonlyattribute read attribute readonlyarrayattribute read array attribute readonlystringattribute read attribute mirroreddetails mirrored details modulename module proxymethods proxy methods convertedproxymethods converted proxy methods sourcepackages source packages gwttype gwt type methodbuilder builder convertedmethod converted metadata governortypename governor type governortypepath governor type path physicaltypeid physical type cid annotationmetadata annotation metadata attributevalue attribute mirrorname mirror typename type typepath type path typename type typepath type path cidbuilder cid builder destinationmetadataid destination metadata methods propertyname property abstractaccessormethodbuilder accessor builder abstractmutatormethodbuilder mutator builder

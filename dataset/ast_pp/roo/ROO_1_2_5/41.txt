@@ -1,0 +1,33 @@
+VARSIG7	clioption cli option key flaggraphic flag graphic mandatory fully qualified path flag png file file flaggraphic flag graphic
+VARSIG6	clioption cli option key language mandatory full language label language
+VARSIG9	clioption cli option key projectname project mandatory provide custom project top level projectname project
+VARSIG8	clioption cli option key description mandatory description addon surround text quotes description
+VARSIG3	clioption cli option key toplevelpackage top level mandatory optioncontext option context update top level addon javapackage tlp
+VARSIG2	clioption cli option key projectname project mandatory provide custom project top level projectname project
+VARSIG5	clioption cli option key messagebundle message bundle mandatory fully qualified path messages properties file file messagebundle message bundle
+VARSIG4	clioption cli option key locale mandatory locale abbreviation specific locale locale
+COMMENTS	commands addon create add roo shell
+VARSIG19	clioption cli option key docurl doc url mandatory dependency documentation url docurl doc url
+VARSIG1	clioption cli option key description mandatory description addon surround text quotes description
+VARSIG18	clioption cli option key licenseurl license url mandatory dependency license url lincenseurl lincense url
+VARSIG0	clioption cli option key toplevelpackage top level mandatory optioncontext option context update top level addon javapackage tlp
+VARSIG17	clioption cli option key vendorname vendor mandatory dependency vendor vendorname vendor
+MTHSIG4	wrapper javapackage tlp groupid group artifactid artifact version vendorname vendor lincenseurl lincense url docurl doc url description projectname project osgiimports osgi imports
+VARSIG12	clioption cli option key projectname project mandatory provide custom project top level projectname project
+VARSIG11	clioption cli option key description mandatory description addon surround text quotes description
+VARSIG10	clioption cli option key toplevelpackage top level mandatory optioncontext option context update top level addon javapackage tlp
+MTHSIG0	advanced javapackage tlp description projectname project
+VARSIG16	clioption cli option key version mandatory dependency version version
+MTHSIG1	javapackage tlp locale locale file messagebundle message bundle language file flaggraphic flag graphic description projectname project
+VARSIG15	clioption cli option key artifactid artifact mandatory dependency artifact artifactid artifact
+PACKAGE	springframework roo addon creator
+MTHSIG2	iscreateaddonavailable create addon
+VARSIG14	clioption cli option key groupid group mandatory dependency group groupid group
+MTHSIG3	simple javapackage tlp description projectname project
+VARSIG13	clioption cli option key toplevelpackage top level mandatory optioncontext option context update top level wrapper bundle javapackage tlp
+CLASSES	creatorcommands creator commands
+METHODS	advanced iscreateaddonavailable create addon simple wrapper
+VARSIG22	clioption cli option key osgiimports osgi imports mandatory contents osgi manifest osgiimports osgi imports
+VARSIG21	clioption cli option key projectname project mandatory provide custom project top level projectname project
+VARSIG20	clioption cli option key description mandatory description bundle keywords tags search integration description
+VARIABLES	tlp description projectname project tlp locale messagebundle message bundle language flaggraphic flag graphic description projectname project tlp description projectname project tlp groupid group artifactid artifact version vendorname vendor lincenseurl lincense url docurl doc url description projectname project osgiimports osgi imports creatoroperations creator operations

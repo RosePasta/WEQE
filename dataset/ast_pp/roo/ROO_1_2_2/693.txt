@@ -1,0 +1,22 @@
+VARSIG7	integer sizemin size min
+VARSIG6	integer sizemax size max
+VARSIG3	javatype type genericparametertypename parameter type
+VARSIG2	javasymbolname symbol fieldname field
+VARSIG5	javatype type genericparametertypename parameter type
+VARSIG4	list annotationmetadatabuilder annotation metadata builder annotations
+COMMENTS	type collection jsr size annotation max attribute defaults link integer max jsr size annotation min attribute defaults
+CLASSES	collectionfield collection field
+VARSIG1	javatype type fieldtype field type
+VARSIG0	physicaltypeidentifier physical type identifier
+METHODS	collectionfield collection field decorateannotationslist decorate annotations list getgenericparametertypename parameter type getinitializer initializer getsizemax size max getsizemin size min setgenericparametertypename set parameter type setsizemax set size max setsizemin set size min
+MTHSIG4	getsizemax size max
+MTHSIG5	getsizemin size min
+MTHSIG6	setgenericparametertypename set parameter type javatype type genericparametertypename parameter type
+MTHSIG7	setsizemax set size max integer sizemax size max
+MTHSIG0	collectionfield collection field physicaltypeidentifier physical type identifier javatype type fieldtype field type javasymbolname symbol fieldname field javatype type genericparametertypename parameter type
+MTHSIG1	decorateannotationslist decorate annotations list list annotationmetadatabuilder annotation metadata builder annotations
+PACKAGE	springframework roo classpath operations jsr jsr
+MTHSIG2	getgenericparametertypename parameter type
+MTHSIG3	getinitializer initializer
+VARIABLES	physicaltypeidentifier physical type identifier fieldtype field type fieldname field genericparametertypename parameter type annotations genericparametertypename parameter type sizemax size max sizemin size min genericparametertypename parameter type sizemax size max sizemin size min attrs
+MTHSIG8	setsizemin set size min integer sizemin size min

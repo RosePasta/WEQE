@@ -1,0 +1,12 @@
+MTHSIG0	isdbreavailable dbre
+VARSIG3	javapackage destinationpackage destination
+MTHSIG1	displaydatabasemetadata display database metadata schema schema file file
+VARSIG2	schema schema
+PACKAGE	springframework roo addon dbre
+MTHSIG2	reverseengineerdatabase reverse engineer database schema schema javapackage destinationpackage destination
+COMMENTS	commands link dbreoperationsimpl dbre operations impl displays metadata schema screen writes file filename schema display required file write output screen introspects schema entities disk created updated deleted schema introspect required destinationpackage destination entities stored introspected entities failing project project top level
+CLASSES	dbreoperations dbre operations
+VARIABLES	schema file schema destinationpackage destination
+VARSIG1	file file
+VARSIG0	schema schema
+METHODS	isdbreavailable dbre displaydatabasemetadata display database metadata reverseengineerdatabase reverse engineer database

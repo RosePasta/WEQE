@@ -1,0 +1,24 @@
+VARSIG7	methodname
+VARSIG6	callermid caller mid
+VARSIG9	list methodparameter parameter parameters
+VARSIG8	javatype type serviceinterface service
+VARSIG3	javatype type idtype type
+VARSIG2	javatype type targetentity target entity
+VARSIG5	classorinterfacetypedetails type details serviceinterface service
+VARSIG4	methodparameter parameter methodparameters parameters
+COMMENTS	link springframework roo classpath layers layerprovider layer provider application application service layer fields check service layer check entity plural form loop service interfaces claim support target entity values rooservice roo service annotation service check implemented service service additions caller additions services entity provide returns additions caller order invoke domain entity callermid caller mid caller caller metadata required methodname invoked required serviceinterface service domain service type required parameternames parameter names names parameters passed caller set additions supported service builder add autowired field type service generate additions object includes call setters unit tests
+CLASSES	servicelayerprovider service layer provider
+VARSIG1	methodidentifier identifier
+VARSIG0	callermid caller mid
+METHODS	getmembertypeadditions member type additions getmethodadditions additions getlayerposition layer position setmetadataservice set metadata service setserviceannotationvaluesfactory set service annotation values factory setserviceinterfacelocator set service locator
+MTHSIG4	setserviceannotationvaluesfactory set service annotation values factory serviceannotationvaluesfactory service annotation values factory serviceannotationvaluesfactory service annotation values factory
+VARSIG12	serviceinterfacelocator service locator serviceinterfacelocator service locator
+MTHSIG5	setserviceinterfacelocator set service locator serviceinterfacelocator service locator serviceinterfacelocator service locator
+VARSIG11	serviceannotationvaluesfactory service annotation values factory serviceannotationvaluesfactory service annotation values factory
+VARSIG10	metadataservice metadata service metadataservice metadata service
+MTHSIG0	getmembertypeadditions member type additions callermid caller mid methodidentifier identifier javatype type targetentity target entity javatype type idtype type methodparameter parameter methodparameters parameters
+MTHSIG1	getmethodadditions additions callermid caller mid methodname javatype type serviceinterface service list methodparameter parameter parameters
+PACKAGE	springframework roo addon layers service
+MTHSIG2	getlayerposition layer position
+MTHSIG3	setmetadataservice set metadata service metadataservice metadata service metadataservice metadata service
+VARIABLES	callermid caller mid methodidentifier identifier targetentity target entity idtype type methodparameters parameters serviceinterface service callermid caller mid methodname serviceinterface service parameters metadataservice metadata service serviceannotationvaluesfactory service annotation values factory serviceinterfacelocator service locator metadataservice metadata service serviceannotationvaluesfactory service annotation values factory serviceinterfacelocator service locator typelocationservice type location service parametertypes parameter types pluralid plural pluralmetadata plural metadata annotationvalues annotation values methodname methodadditions additions cidbuilder cid builder fieldname field

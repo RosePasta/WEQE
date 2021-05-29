@@ -1,0 +1,27 @@
+VARSIG7	javatyp type aspectnam aspect 
+VARSIG6	metadataidentificationstr metadata identif 
+VARSIG9	itdfilenam filenam 
+VARSIG8	physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+VARSIG3	componentcontext compon context context 
+VARSIG2	logicalpath logic path path 
+VARSIG5	javatyp type javatyp type 
+VARSIG4	metadataidentificationstr metadata identif 
+COMMENTS	implement link dbremetadataprovid dbre metadata provid pars annot expect abort databas couldn deseri occur dbre xml file delet empti governor type detail safe search databas manag entiti 
+VARSIG1	javatyp type javatyp type 
+VARSIG0	componentcontext compon context context 
+MTHSIG4	getidentifierhold identifi holder javatyp type javatyp type 
+VARSIG12	metadataidentificationstr metadata identif 
+MTHSIG5	getitduniquenessfilenamesuffix uniqu filenam suffix 
+VARSIG11	javatyp type domaintyp domain type 
+MTHSIG6	getmetadata metadata metadataidentificationstr metadata identif javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata itdfilenam filenam 
+VARSIG10	classorinterfacetypedetail type detail managedent manag entiti 
+MTHSIG7	getprovidestyp type 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	createlocalidentifi creat local identifi javatyp type javatyp type logicalpath logic path path 
+PACKAGE	springframework roo addon dbre 
+MTHSIG2	deactiv componentcontext compon context context 
+MTHSIG3	getgovernorphysicaltypeidentifi governor physic type identifi metadataidentificationstr metadata identif 
+MTHSIG8	getversionfield version field javatyp type domaintyp domain type metadataidentificationstr metadata identif 
+CLASSES	dbremetadataproviderimpl dbre metadata provid impl 
+METHODS	activ createlocalidentifi creat local identifi deactiv getgovernorphysicaltypeidentifi governor physic type identifi getidentifierhold identifi holder getitduniquenessfilenamesuffix uniqu filenam suffix getmetadata metadata getprovidestyp type getversionfield version field 
+VARIABLES	context javatyp type path context metadataidentificationstr metadata identif javatyp type metadataidentificationstr metadata identif aspectnam aspect governorphysicaltypemetadata governor physic type metadata itdfilenam filenam managedent manag entiti domaintyp domain type metadataidentificationstr metadata identif dbremodelservic dbre model servic typemanagementservic type manag servic javatyp type path identifierfield identifi field identifierfield identifi field embeddedidfield embed field embeddedidfield embed field annotationvalu annot valu databas javatyp type identifierhold identifi holder versionfield version field managedent manag entiti mid dbremetadata dbre metadata updatedgovernor updat governor 

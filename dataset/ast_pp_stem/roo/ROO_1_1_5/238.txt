@@ -1,0 +1,37 @@
+VARSIG7	javasymbolnam symbol methodnam 
+VARSIG6	classorinterfacetypedetail type detail managedbean manag bean 
+VARSIG9	term 
+VARSIG8	list javatyp type paramtyp type 
+VARSIG3	set classorinterfacetypedetail type detail managedbean manag bean 
+VARSIG2	physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+VARSIG5	javatyp type annotationtyp annot type 
+VARSIG4	projectnam project 
+COMMENTS	metadata link roojsfmenubean roo jsf menu bean add managedbean manag bean annot requir add sessionscop session scope annot requir add menu model field add constructor add model field accessor add applic accessor creat represent desir output inflector fail roo don plural 
+VARSIG1	javatyp type aspectnam aspect 
+VARSIG0	identifi 
+MTHSIG4	getmenumodelfield menu model field 
+VARSIG12	path path 
+MTHSIG5	getconstructor constructor 
+VARSIG11	javatyp type javatyp type 
+MTHSIG6	getmodelaccessormethod model accessor 
+VARSIG10	runtimeexcept runtim except 
+MTHSIG7	getapplicationaccessormethod applic accessor 
+MTHSIG0	jsfmenubeanmetadata jsf menu bean metadata identifi javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata set classorinterfacetypedetail type detail managedbean manag bean projectnam project 
+MTHSIG1	getmanagedbeanannot manag bean annot 
+VARSIG15	metadataidentificationstr metadata identif 
+PACKAGE	springframework roo addon jsf 
+MTHSIG2	getsessionscopedannot session scope annot 
+VARSIG14	metadataidentificationstr metadata identif 
+MTHSIG3	gettypeannot type annot javatyp type annotationtyp annot type 
+VARSIG13	metadataidentificationstr metadata identif 
+MTHSIG8	methodexist exist javasymbolnam symbol methodnam list javatyp type paramtyp type 
+MTHSIG9	getinflectorplur inflector plural term 
+MTHSIG15	isvalid valid metadataidentificationstr metadata identif 
+MTHSIG13	getjavatyp type metadataidentificationstr metadata identif 
+MTHSIG14	getpath path metadataidentificationstr metadata identif 
+MTHSIG11	getmetadataidentifertyp metadata identif type 
+MTHSIG12	createidentifi creat identifi javatyp type javatyp type path path 
+CLASSES	jsfmenubeanmetadata jsf menu bean metadata 
+METHODS	jsfmenubeanmetadata jsf menu bean metadata getmanagedbeanannot manag bean annot getsessionscopedannot session scope annot gettypeannot type annot getmenumodelfield menu model field getconstructor constructor getmodelaccessormethod model accessor getapplicationaccessormethod applic accessor methodexist exist getinflectorplur inflector plural tostr getmetadataidentifertyp metadata identif type createidentifi creat identifi getjavatyp type getpath path isvalid valid 
+MTHSIG10	tostr 
+VARIABLES	identifi aspectnam aspect governorphysicaltypemetadata governor physic type metadata managedbean manag bean projectnam project annotationtyp annot type managedbean manag bean methodnam paramtyp type term javatyp type path metadataidentificationstr metadata identif metadataidentificationstr metadata identif metadataidentificationstr metadata identif type type primefac menu model managedbean manag bean projectnam project annotationbuild annot builder fieldnam field field import fieldbuild field builder constructor import bodybuild bodi builder annot includeonmenuvalu includ menu entiti plural constructorbuild constructor builder methodnam import bodybuild bodi builder methodbuild builder methodnam bodybuild bodi builder methodbuild builder tsc 

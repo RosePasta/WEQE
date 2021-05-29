@@ -1,0 +1,10 @@
+MTHSIG0	createloginurl create login url destinationurl destination url
+MTHSIG1	createlogouturl create logout url destinationurl destination url
+PACKAGE	top level segment
+MTHSIG2	getcurrentuser current user
+COMMENTS	service object reduces visible api link google appengine api users userservice user service needed work limitation requestfactory request factory handle overloaded service methods
+CLASSES	userservicewrapper user service wrapper
+VARIABLES	destinationurl destination url destinationurl destination url
+VARSIG1	destinationurl destination url
+VARSIG0	destinationurl destination url
+METHODS	createloginurl create login url createlogouturl create logout url getcurrentuser current user

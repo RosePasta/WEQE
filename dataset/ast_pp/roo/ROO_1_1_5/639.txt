@@ -1,0 +1,156 @@
+MTHSIG28	removeresourcelistener remove resource listener resourcelistener resource listener listener
+MTHSIG29	sendresourceadditionnotifications send resource addition notifications resource resource
+MTHSIG26	sendfilterremovalnotifications send filter removal notifications filter filter
+MTHSIG27	addresourcelistener add resource listener resourcelistener resource listener listener
+MTHSIG24	removefilterlistener remove filter listener filterlistener filter listener listener
+MTHSIG25	sendfilteradditionnotifications send filter addition notifications filter filter
+MTHSIG22	sendpropertyremovalnotifications send property removal notifications property property
+MTHSIG23	addfilterlistener add filter listener filterlistener filter listener listener
+MTHSIG4	removedependencylistener remove dependency listener dependencylistener dependency listener listener
+VARSIG78	plugin plugin
+MTHSIG5	senddependencyadditionnotifications send dependency addition notifications dependency dependency
+VARSIG77	plugin plugin
+MTHSIG6	senddependencyremovalnotifications send dependency removal notifications dependency dependency
+VARSIG76	list plugin plugins
+MTHSIG7	addrepositorylistener add repository listener repositorylistener repository listener listener
+VARSIG75	repository repository
+MTHSIG0	isprojectavailable project
+MTHSIG1	getprojectmetadata project metadata
+MTHSIG2	getpathresolver path resolver
+MTHSIG3	adddependencylistener add dependency listener dependencylistener dependency listener listener
+VARSIG79	list plugin plugins
+MTHSIG20	removepropertylistener remove property listener propertylistener property listener listener
+VARSIG70	repository repository
+MTHSIG21	sendpropertyadditionnotifications send property addition notifications property property
+MTHSIG8	removerepositorylistener remove repository listener repositorylistener repository listener listener
+VARSIG74	repository repository
+MTHSIG9	sendrepositoryadditionnotifications send repository addition notifications repository repository
+VARSIG73	repository repository
+VARSIG72	list repository repositories
+VARSIG71	repository repository
+MTHSIG39	removedependency remove dependency groupid group artifactid artifact version classifier
+MTHSIG37	removedependencies remove dependencies list dependency dependencies
+MTHSIG38	removedependency remove dependency dependency dependency
+MTHSIG35	adddependency add dependency groupid group artifactid artifact version dependencyscope dependency scope scope
+MTHSIG36	adddependency add dependency groupid group artifactid artifact version
+MTHSIG33	adddependency add dependency dependency dependency
+MTHSIG34	adddependency add dependency groupid group artifactid artifact version dependencyscope dependency scope scope classifier
+METHODS	isprojectavailable project getprojectmetadata project metadata getpathresolver path resolver adddependencylistener add dependency listener removedependencylistener remove dependency listener senddependencyadditionnotifications send dependency addition notifications senddependencyremovalnotifications send dependency removal notifications addrepositorylistener add repository listener removerepositorylistener remove repository listener sendrepositoryadditionnotifications send repository addition notifications sendrepositoryremovalnotifications send repository removal notifications addpluginrepositorylistener add plugin repository listener removepluginrepositorylistener remove plugin repository listener sendpluginrepositoryadditionnotifications send plugin repository addition notifications sendpluginrepositoryremovalnotifications send plugin repository removal notifications addpluginlistener add plugin listener removepluginlistener remove plugin listener sendpluginadditionnotifications send plugin addition notifications sendpluginremovalnotifications send plugin removal notifications addpropertylistener add property listener removepropertylistener remove property listener sendpropertyadditionnotifications send property addition notifications sendpropertyremovalnotifications send property removal notifications addfilterlistener add filter listener removefilterlistener remove filter listener sendfilteradditionnotifications send filter addition notifications sendfilterremovalnotifications send filter removal notifications addresourcelistener add resource listener removeresourcelistener remove resource listener sendresourceadditionnotifications send resource addition notifications sendresourceremovalnotifications send resource removal notifications updateprojecttype update project type adddependencies add dependencies adddependency add dependency adddependency add dependency adddependency add dependency adddependency add dependency removedependencies remove dependencies removedependency remove dependency removedependency remove dependency removedependency remove dependency addrepositories add repositories addrepository add repository removerepository remove repository addpluginrepositories add plugin repositories addpluginrepository add plugin repository removepluginrepository remove plugin repository addbuildplugins add build plugins addbuildplugin add build plugin removebuildplugins remove build plugins removebuildplugin remove build plugin updatebuildplugin update build plugin buildpluginupdate build plugin update addproperty add property removeproperty remove property addfilter add filter removefilter remove filter addresource add resource removeresource remove resource
+VARSIG67	version
+VARSIG66	artifactid artifact
+VARSIG65	groupid group
+VARSIG64	classifier
+VARSIG69	repository repository
+VARSIG68	list repository repositories
+MTHSIG31	updateprojecttype update project type projecttype project type projecttype project type
+MTHSIG32	adddependencies add dependencies list dependency dependencies
+MTHSIG30	sendresourceremovalnotifications send resource removal notifications resource resource
+VARSIG63	version
+VARSIG62	artifactid artifact
+VARSIG61	groupid group
+VARSIG60	dependency dependency
+COMMENTS	common project operations subclassed project specific operations subclass exists quit delete existing plugin version add plugin
+VARSIG19	pluginlistener plugin listener listener
+VARSIG18	pluginlistener plugin listener listener
+VARSIG17	repositorylistener repository listener listener
+VARSIG12	repositorylistener repository listener listener
+VARSIG11	repositorylistener repository listener listener
+VARSIG10	repository repository
+VARSIG16	repository repository
+VARSIG15	repositorylistener repository listener listener
+VARSIG14	repository repository
+VARSIG13	repositorylistener repository listener listener
+VARSIG91	resource resource
+VARSIG90	resource resource
+MTHSIG17	sendpluginadditionnotifications send plugin addition notifications plugin plugin
+MTHSIG18	sendpluginremovalnotifications send plugin removal notifications plugin plugin
+MTHSIG15	addpluginlistener add plugin listener pluginlistener plugin listener listener
+MTHSIG16	removepluginlistener remove plugin listener pluginlistener plugin listener listener
+MTHSIG13	sendpluginrepositoryadditionnotifications send plugin repository addition notifications repository repository
+MTHSIG14	sendpluginrepositoryremovalnotifications send plugin repository removal notifications repository repository
+MTHSIG11	addpluginrepositorylistener add plugin repository listener repositorylistener repository listener listener
+MTHSIG12	removepluginrepositorylistener remove plugin repository listener repositorylistener repository listener listener
+MTHSIG19	addpropertylistener add property listener propertylistener property listener listener
+VARSIG89	filter filter
+VARSIG88	filter filter
+VARSIG87	property property
+VARSIG86	property property
+VARSIG81	plugin plugin
+MTHSIG10	sendrepositoryremovalnotifications send repository removal notifications repository repository
+VARSIG80	plugin plugin
+VARIABLES	listener listener dependency listener dependency listener listener listener repository listener repository listener listener listener repository listener repository listener listener listener plugin listener plugin listener listener listener property listener property listener listener listener filter listener filter listener listener listener resource listener resource listener projecttype project type dependencies dependency dependency groupid group artifactid artifact version scope classifier groupid group artifactid artifact version scope groupid group artifactid artifact version dependencies dependency dependency groupid group artifactid artifact version classifier groupid group artifactid artifact version repositories repository repository repository repositories repository repository repository plugins plugin plugin plugins plugin plugin plugin existingplugin existing plugin existing plugin property property filter filter resource resource metadataservice metadata service projectmetadataprovider project metadata provider listeners repositorylisteners repository listeners pluginrepositorylisteners plugin repository listeners pluginlisteners plugin listeners propertylisteners property listeners filterlisteners filter listeners resourcelisteners resource listeners projectmetadata project metadata dependency dependency projectmetadata project metadata
+VARSIG85	plugin plugin
+VARSIG84	plugin existing
+VARSIG83	plugin existingplugin existing plugin
+VARSIG82	plugin plugin
+VARSIG39	resourcelistener resource listener listener
+VARSIG34	filter filter
+VARSIG33	filterlistener filter listener listener
+VARSIG32	filter filter
+VARSIG31	filterlistener filter listener listener
+VARSIG38	resource resource
+VARSIG37	resourcelistener resource listener listener
+PACKAGE	springframework roo project
+VARSIG36	resourcelistener resource listener listener
+VARSIG35	filterlistener filter listener listener
+VARSIG30	filterlistener filter listener listener
+CLASSES	abstractprojectoperations project operations
+VARSIG29	propertylistener property listener listener
+VARSIG28	property property
+VARSIG23	pluginlistener plugin listener listener
+VARSIG22	plugin plugin
+VARSIG21	pluginlistener plugin listener listener
+VARSIG20	plugin plugin
+VARSIG27	propertylistener property listener listener
+VARSIG26	property property
+VARSIG25	propertylistener property listener listener
+VARSIG24	propertylistener property listener listener
+VARSIG7	repositorylistener repository listener listener
+VARSIG6	repositorylistener repository listener listener
+MTHSIG48	addbuildplugin add build plugin plugin plugin
+VARSIG9	repositorylistener repository listener listener
+MTHSIG49	removebuildplugins remove build plugins list plugin plugins
+VARSIG8	repository repository
+MTHSIG46	removepluginrepository remove plugin repository repository repository
+VARSIG3	dependencylistener dependency listener listener
+MTHSIG47	addbuildplugins add build plugins list plugin plugins
+VARSIG2	dependency dependency
+MTHSIG44	addpluginrepositories add plugin repositories list repository repositories
+VARSIG5	dependencylistener dependency listener listener
+MTHSIG45	addpluginrepository add plugin repository repository repository
+VARSIG4	dependency dependency
+VARSIG1	dependencylistener dependency listener listener
+VARSIG0	dependencylistener dependency listener listener
+VARSIG56	artifactid artifact
+VARSIG55	groupid group
+VARSIG54	dependencyscope dependency scope scope
+VARSIG53	version
+VARSIG59	dependency dependency
+VARSIG58	list dependency dependencies
+VARSIG57	version
+MTHSIG42	addrepository add repository repository repository
+MTHSIG43	removerepository remove repository repository repository
+MTHSIG40	removedependency remove dependency groupid group artifactid artifact version
+MTHSIG41	addrepositories add repositories list repository repositories
+VARSIG52	artifactid artifact
+VARSIG51	groupid group
+VARSIG50	classifier
+MTHSIG57	addresource add resource resource resource
+MTHSIG58	removeresource remove resource resource resource
+MTHSIG55	addfilter add filter filter filter
+MTHSIG56	removefilter remove filter filter filter
+VARSIG45	dependency dependency
+VARSIG44	dependency dependency
+VARSIG43	list dependency dependencies
+VARSIG42	projecttype project type projecttype project type
+VARSIG49	dependencyscope dependency scope scope
+VARSIG48	version
+VARSIG47	artifactid artifact
+VARSIG46	groupid group
+MTHSIG53	addproperty add property property property
+MTHSIG54	removeproperty remove property property property
+MTHSIG51	updatebuildplugin update build plugin plugin plugin
+MTHSIG52	buildpluginupdate build plugin update plugin plugin
+VARSIG41	resourcelistener resource listener listener
+MTHSIG50	removebuildplugin remove build plugin plugin plugin
+VARSIG40	resource resource

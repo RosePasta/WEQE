@@ -1,0 +1,10 @@
+MTHSIG0	installsecur instal secur 
+MTHSIG1	isinstallsecurityavail instal secur 
+PACKAGE	springframework roo addon secur 
+MTHSIG2	ispermissionevaluatorcommandavail permiss evalu command 
+MTHSIG3	setuppermissionevalu setup permiss evalu javapackag evaluatorpackag evalu 
+COMMENTS	command secur add roo shell 
+CLASSES	securitycommand secur command 
+VARIABLES	evaluatorpackag evalu securityoper secur oper 
+VARSIG0	clioption cli option kei mandatori optioncontext option context project add permiss evalu javapackag evaluatorpackag evalu 
+METHODS	installsecur instal secur isinstallsecurityavail instal secur ispermissionevaluatorcommandavail permiss evalu command setuppermissionevalu setup permiss evalu 

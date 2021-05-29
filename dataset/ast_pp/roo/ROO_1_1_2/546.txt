@@ -1,0 +1,44 @@
+VARSIG7	fileidentifier file identifier
+VARSIG6	ioexception exception
+VARSIG9	ioexception exception
+VARSIG8	fileidentifier file identifier
+VARSIG3	fileidentifier file identifier
+VARSIG2	fileidentifier file identifier
+VARSIG5	fileidentifier file identifier
+VARSIG4	ioexception exception ioe
+COMMENTS	implementation link filemanager file manager key file identifier textual content verify file changed flush reset event
+VARSIG19	newcontents contents
+VARSIG1	componentcontext component context context
+VARSIG18	fileidentifier file identifier
+VARSIG0	componentcontext component context context
+VARSIG17	fileidentifier file identifier
+MTHSIG4	createdirectory create directory fileidentifier file identifier
+VARSIG12	fileidentifier file identifier
+MTHSIG5	readfile read file fileidentifier file identifier
+VARSIG11	ioexception exception
+MTHSIG6	createfile create file fileidentifier file identifier
+VARSIG10	fileidentifier file identifier
+MTHSIG7	delete fileidentifier file identifier
+MTHSIG0	activate componentcontext component context context
+VARSIG16	writeimmediately write
+MTHSIG1	deactivate componentcontext component context context
+VARSIG15	newcontents contents
+PACKAGE	springframework roo process manager internal
+MTHSIG2	exists fileidentifier file identifier
+VARSIG14	fileidentifier file identifier
+MTHSIG3	getinputstream input stream fileidentifier file identifier
+VARSIG13	antpath ant path
+MTHSIG8	updatefile update file fileidentifier file identifier
+MTHSIG9	findmatchingantpath find matching ant path antpath ant path
+MTHSIG15	onundoevent undo event undoevent undo event event
+MTHSIG13	createorupdatetextfileifrequired create update text file required fileidentifier file identifier newcontents contents
+MTHSIG14	clear
+MTHSIG11	createorupdatetextfileifrequired create update text file required fileidentifier file identifier newcontents contents writeimmediately write
+MTHSIG12	commit
+CLASSES	defaultfilemanager file manager
+METHODS	activate deactivate exists getinputstream input stream createdirectory create directory readfile read file createfile create file delete updatefile update file findmatchingantpath find matching ant path scan createorupdatetextfileifrequired create update text file required commit createorupdatetextfileifrequired create update text file required clear onundoevent undo event
+VARSIG22	undoevent undo event event
+VARSIG21	ioexception exception ioe
+VARSIG20	ioexception exception
+MTHSIG10	scan
+VARIABLES	context context fileidentifier file identifier fileidentifier file identifier ioe fileidentifier file identifier fileidentifier file identifier fileidentifier file identifier fileidentifier file identifier fileidentifier file identifier antpath ant path fileidentifier file identifier newcontents contents writeimmediately write fileidentifier file identifier fileidentifier file identifier newcontents contents ioe event undomanager undo manager filemonitorservice file monitor service processmanager process manager filenameresolver filename resolver deferredfilewrites deferred file writes file actual actual parentdirectory parent directory renderer actual actual renderer newcontents contents mutablefile mutable file existing

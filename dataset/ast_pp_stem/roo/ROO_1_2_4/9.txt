@@ -1,0 +1,22 @@
+VARSIG3	password 
+VARSIG2	email 
+MTHSIG11	login email password cloudcontrollerurl cloud control url 
+VARSIG4	cloudcontrollerurl cloud control url 
+COMMENTS	 
+CLASSES	cloudfoundrysess cloud foundri session 
+VARSIG1	servicevendor servic vendor 
+VARSIG0	provisionedservicenam provis servic 
+METHODS	clearstoredlogindetail clear store login detail getapplicationmemoryopt applic memori option getapplicationnam applic name getboundurlmap bound url map getclient client getprovisionedservic provis servic getprovisionedservic provis servic getservic servic getservicetyp servic type getstoredemail store email getstoredurl store url login 
+MTHSIG4	getclient client 
+MTHSIG5	getprovisionedservic provis servic provisionedservicenam provis servic 
+MTHSIG6	getprovisionedservic provis servic 
+MTHSIG7	getservic servic servicevendor servic vendor 
+MTHSIG0	clearstoredlogindetail clear store login detail 
+MTHSIG1	getapplicationmemoryopt applic memori option 
+PACKAGE	springframework roo addon cloud foundri 
+MTHSIG2	getapplicationnam applic name 
+MTHSIG3	getboundurlmap bound url map 
+MTHSIG10	getstoredurl store url 
+VARIABLES	provisionedservicenam provis servic servicevendor servic vendor email password cloudcontrollerurl cloud control url 
+MTHSIG8	getservicetyp servic type 
+MTHSIG9	getstoredemail store email 

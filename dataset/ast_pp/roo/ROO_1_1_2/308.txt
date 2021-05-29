@@ -1,0 +1,12 @@
+MTHSIG0	embed url viewname view
+VARSIG3	map options
+MTHSIG1	install viewname view map options
+VARSIG2	viewname view
+PACKAGE	springframework roo addon web mvc embedded provider
+VARSIG4	unsupportedencodingexception unsupported encoding exception ignore
+COMMENTS	provider embed micro blog messages url specific install expected format http twitter search springroo spring roo
+CLASSES	microbloggingembeddedprovider microblogging embedded provider
+VARIABLES	url viewname view viewname view options ignore options searchterm search term twitter
+VARSIG1	viewname view
+VARSIG0	url
+METHODS	embed install

@@ -1,0 +1,62 @@
+MTHSIG26	initializeindices initialize indices table table
+MTHSIG27	addjointables add join tables table table
+MTHSIG24	initializeimportedkeys initialize imported table table
+MTHSIG25	initializeexportedkeys initialize exported table table
+MTHSIG22	initialize
+MTHSIG23	initializecolumns initialize columns table table
+MTHSIG4	setdestinationpackage set destination javapackage destinationpackage destination
+MTHSIG5	getschema schema
+MTHSIG6	gettables tables
+MTHSIG7	gettablenames table names
+MTHSIG0	database
+MTHSIG1	getname
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	setname set
+MTHSIG3	getdestinationpackage destination
+MTHSIG20	getjointables join tables
+MTHSIG21	isjointable join table table table
+MTHSIG8	settables set tables set table tables
+MTHSIG9	addtable add table table table
+CLASSES	database
+VARSIG28	table table
+METHODS	database getname setname set getdestinationpackage destination setdestinationpackage set destination getschema schema gettables tables gettablenames table names settables set tables addtable add table hastables tables findtable find table getincludetables include tables getincludetablesstr include tables str setincludetables set include tables setincludetables set include tables getexcludetables exclude tables getexcludetablesstr exclude tables str setexcludetables set exclude tables setexcludetables set exclude tables getjointables join tables isjointable join table initialize initializecolumns initialize columns initializeimportedkeys initialize imported initializeexportedkeys initialize exported initializeindices initialize indices addjointables add join tables
+VARSIG23	foreignkey foreign key exportedkey exported key
+VARSIG22	table table
+VARSIG21	reference reference
+VARSIG20	foreignkey foreign key foreignkey foreign key
+VARSIG27	indexcolumn column indexcolumn column
+VARSIG26	
+VARSIG25	table table
+VARSIG24	reference reference
+VARSIG7	set includetables include tables
+VARSIG6	table table
+VARSIG9	set excludetables exclude tables
+VARSIG8	includetablesstr include tables str
+VARSIG3	set table tables
+VARSIG2	table table
+VARSIG5	
+VARSIG4	table table
+COMMENTS	represents database model tables database database model defaults catalog schema javapackage entities created tables join tables included tables excluded tables initialises model establishing relationships elements model foreign mark repeated columns insertable updatable determines table join table identified join table table primary foreign pointing entity tables columns
+VARSIG19	map entry column set foreignkey foreign key entryset entry set
+VARSIG1	javapackage destinationpackage destination
+VARSIG18	reference reference
+VARSIG0	
+VARSIG17	foreignkey foreign key foreignkey foreign key
+VARSIG12	jointable join table jointable join table
+VARSIG11	table table
+VARSIG10	excludetablesstr exclude tables str
+VARSIG16	table table
+VARSIG15	column column
+VARSIG14	table table
+VARSIG13	table table
+MTHSIG17	getexcludetablesstr exclude tables str
+MTHSIG18	setexcludetables set exclude tables set excludetables exclude tables
+MTHSIG15	setincludetables set include tables includetablesstr include tables str
+MTHSIG16	getexcludetables exclude tables
+MTHSIG13	getincludetablesstr include tables str
+MTHSIG14	setincludetables set include tables set includetables include tables
+MTHSIG11	findtable find table
+MTHSIG12	getincludetables include tables
+MTHSIG19	setexcludetables set exclude tables excludetablesstr exclude tables str
+MTHSIG10	hastables tables
+VARIABLES	destinationpackage destination table tables table table includetables include tables includetablesstr include tables str excludetables exclude tables excludetablesstr exclude tables str table jointable join table table table column table foreignkey foreign key reference entryset entry set foreignkey foreign key reference table exportedkey exported key reference table indexcolumn column table serialversionuid serial version uid destinationpackage destination tables jointables join tables includetables include tables excludetables exclude tables tablenames table names keysequencemap key sequence map keysequence key sequence repeatedcolumns repeated columns foreigntablename foreign table targettable target table localcolumn local column fkset set foreigncolumn foreign column foreignkeys foreign reference keysequencemap key sequence map keysequence key sequence foreigntablename foreign table targettable target table localcolumn local column foreigncolumn foreign column column equals iter column

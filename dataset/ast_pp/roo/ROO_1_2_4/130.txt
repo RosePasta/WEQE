@@ -1,0 +1,27 @@
+VARSIG7	clioption cli option key commitcount commit count mandatory number commits reset integer history
+VARSIG6	clioption cli option key maxmessages max messages mandatory number commit messages display integer count
+VARSIG9	clioption cli option key revstring rev mandatory commit revstr
+VARSIG8	clioption cli option key message mandatory commit message message
+VARSIG3	clioption cli option key repourl repo url mandatory url remote repository repourl repo url
+VARSIG2	clioption cli option key email mandatory user email email
+VARSIG5	clioption cli option key automaticcommit automatic commit mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified enable automatic commit successful execution roo shell command automaticcommit automatic commit
+VARSIG4	clioption cli option key colorcoding color coding mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified enable color coding commands shell color
+COMMENTS	commands addon git
+VARSIG1	clioption cli option key username user mandatory user username user
+VARSIG0	clioption cli option key message mandatory commit message message
+MTHSIG4	isgitsetupavailable git setup
+MTHSIG5	log integer count
+VARSIG11	clioption cli option key message mandatory commit message message
+MTHSIG6	push
+VARSIG10	clioption cli option key message mandatory commit message message
+MTHSIG7	resetlast reset integer history message
+MTHSIG0	config
+MTHSIG1	config message
+PACKAGE	springframework roo addon git
+MTHSIG2	config username user email repourl repo url color automaticcommit automatic commit
+MTHSIG3	iscommandavailable command
+MTHSIG8	revertcommit revert commit revstr message
+MTHSIG9	revertlast revert message
+CLASSES	gitcommands git commands
+METHODS	config config config iscommandavailable command isgitsetupavailable git setup log push resetlast reset revertcommit revert commit revertlast revert
+VARIABLES	message username user email repourl repo url color automaticcommit automatic commit count history message revstr message message gitoperations git operations

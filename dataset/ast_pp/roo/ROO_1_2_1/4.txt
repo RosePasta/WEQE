@@ -1,0 +1,11 @@
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	getcloudfoundryproduct cloud foundry product dictionary bundleheaders bundle headers
+VARSIG2	cloudcredentials cloud credentials credentials
+PACKAGE	springframework roo addon cloud foundry
+MTHSIG2	getuaaawareinstance uaa aware instance cloudcredentials cloud credentials credentials
+COMMENTS	osgi link appcloudclientfactory app cloud client factory implementation todo overwritten activate todo replace call versionhelper version helper getproductfromdictionary product dictionary uaa
+CLASSES	appcloudclientfactoryimpl app cloud client factory impl
+VARIABLES	context bundleheaders bundle headers credentials cloud foundry product bundle version product uaaservice uaa service bundleversion bundle version gitcommithash git commit hash loginurl login url requestfactory request factory
+VARSIG1	dictionary bundleheaders bundle headers
+VARSIG0	componentcontext component context context
+METHODS	activate getcloudfoundryproduct cloud foundry product getuaaawareinstance uaa aware instance

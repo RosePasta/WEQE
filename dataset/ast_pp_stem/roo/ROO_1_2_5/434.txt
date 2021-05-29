@@ -1,0 +1,29 @@
+VARSIG7	modulenam modul 
+VARSIG6	element configur 
+VARSIG9	element configur 
+VARSIG8	element dependencyel depend element 
+VARSIG3	javapackag permissionevaluatorpackag permiss evalu 
+VARSIG2	javapackag permissionevaluatorpackag permiss evalu 
+VARSIG5	javapackag permissionevaluatorpackag permiss evalu 
+VARSIG4	ioexcept except ioe 
+COMMENTS	secur instal servic pars configur xml file add pom properti add depend pom copi templat copi templat includ view control handler webmvc config xml type exist copi templat permit instal web project roo version spring secur instal 
+VARSIG1	ioexcept except ioe 
+VARSIG0	ioexcept except ioe 
+MTHSIG4	issecurityinstallationposs secur instal 
+VARSIG12	modulenam modul 
+MTHSIG5	isservicepermissionevaluatorinstallationposs servic permiss evalu instal 
+VARSIG11	element properti 
+MTHSIG6	updatedepend updat depend element configur modulenam modul 
+VARSIG10	modulenam modul 
+MTHSIG7	updatepomproperti updat pom properti element configur modulenam modul 
+MTHSIG0	installsecur instal secur 
+MTHSIG1	createpermissionevalu creat permiss evalu javapackag permissionevaluatorpackag permiss evalu 
+PACKAGE	springframework roo addon secur 
+MTHSIG2	installpermissionevaluatortempl instal permiss evalu templat javapackag permissionevaluatorpackag permiss evalu 
+MTHSIG3	installpermissionevalu instal permiss evalu javapackag permissionevaluatorpackag permiss evalu 
+VARSIG13	depend depend 
+MTHSIG8	getnam 
+MTHSIG9	isinstalledinmodul instal modul modulenam modul 
+CLASSES	securityoperationsimpl secur oper impl 
+METHODS	installsecur instal secur createpermissionevalu creat permiss evalu installpermissionevaluatortempl instal permiss evalu templat installpermissionevalu instal permiss evalu issecurityinstallationposs secur instal isservicepermissionevaluatorinstallationposs servic permiss evalu instal updatedepend updat depend updatepomproperti updat pom properti getnam isinstalledinmodul instal modul 
+VARIABLES	ioe ioe permissionevaluatorpackag permiss evalu permissionevaluatorpackag permiss evalu ioe permissionevaluatorpackag permiss evalu configur modulenam modul dependencyel depend element configur modulenam modul properti modulenam modul depend spring secur filemanag file manag pathresolv path resolv projectoper project oper tilesoper tile oper typemanagementservic type manag servic metadataservic metadata servic configur destin inputstream input stream outputstream output stream loginpag login inputstream input stream outputstream output stream webxmlpath web xml path webxmldocu web xml document webconfigpath web config path webconfigdocu web config document webconfig web config viewcontrol view control focusedsrcmainjava focus src permissionevaluatorclass permiss evalu identifi classannotationmetadata annot metadata classmid mid classbuild builder destin inputstream input stream content depend securitydepend secur depend databaseproperti databas properti pom 

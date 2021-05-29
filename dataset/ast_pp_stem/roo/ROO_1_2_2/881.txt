@@ -1,0 +1,38 @@
+VARSIG7	path path 
+VARSIG6	relativepath rel path 
+VARSIG9	identifi 
+VARSIG8	path path 
+VARSIG3	path path 
+VARSIG2	javatyp type javatyp type 
+VARSIG5	path path 
+VARSIG4	javatyp type javatyp type 
+COMMENTS	link pathresolv path resolv implement subclass creat common build system structur mutex 
+VARSIG1	logicalpath logic path path 
+VARSIG0	pathresolvingstrategi path resolv strategi strategi 
+MTHSIG4	getfocusedpath focus path path path 
+VARSIG12	identifi 
+MTHSIG5	getfocusedroot focus root path path 
+VARSIG11	relativepath rel path 
+MTHSIG6	getfriendlynam friendli identifi 
+VARSIG10	logicalpath logic path path 
+MTHSIG7	getidentifi identifi logicalpath logic path path relativepath rel path 
+MTHSIG0	bindpathresolvingstrategi bind path resolv strategi pathresolvingstrategi path resolv strategi strategi 
+VARSIG16	pathresolvingstrategi path resolv strategi strategi 
+MTHSIG1	getcanonicalpath canon path logicalpath logic path path javatyp type javatyp type 
+VARSIG15	pathresolvingstrategi path resolv strategi pathresolvingstrategi path resolv strategi 
+PACKAGE	springframework roo project 
+MTHSIG2	getfocusedcanonicalpath focus canon path path path javatyp type javatyp type 
+VARSIG14	logicalpath logic path path 
+MTHSIG3	getfocusedidentifi focus identifi path path relativepath rel path 
+VARSIG13	identifi 
+MTHSIG8	getpath path identifi 
+MTHSIG9	getpath path 
+MTHSIG15	unbindpathresolvingstrategi unbind path resolv strategi pathresolvingstrategi path resolv strategi strategi 
+MTHSIG13	getsourcepath sourc path 
+MTHSIG14	getstrategi strategi 
+MTHSIG11	getroot root 
+MTHSIG12	getroot root logicalpath logic path path 
+CLASSES	delegatepathresolv deleg path resolv 
+METHODS	bindpathresolvingstrategi bind path resolv strategi getcanonicalpath canon path getfocusedcanonicalpath focus canon path getfocusedidentifi focus identifi getfocusedpath focus path getfocusedroot focus root getfriendlynam friendli getidentifi identifi getpath path getpath path getrelativeseg rel segment getroot root getroot root getsourcepath sourc path getstrategi strategi unbindpathresolvingstrategi unbind path resolv strategi 
+MTHSIG10	getrelativeseg rel segment identifi 
+VARIABLES	strategi path javatyp type path javatyp type path relativepath rel path path path identifi path relativepath rel path identifi identifi path pathresolvingstrategi path resolv strategi strategi lock pathresolvingstrategi path resolv strategi chosenstrategi chosen strategi 

@@ -1,0 +1,33 @@
+VARSIG7	metadataidentificationstring metadata identification
+VARSIG6	webmvcoperations web mvc operations mvcoperations mvc operations
+VARSIG9	jspfilename jsp filename
+VARSIG8	findername finder
+VARSIG3	pathresolver path resolver pathresolver path resolver
+VARSIG2	filemanager file manager filemanager file manager
+VARSIG5	classpathoperations classpath operations classpathoperations classpath operations
+VARSIG4	menuoperations menu operations menuoperations menu operations
+COMMENTS	listens link webscaffoldmetadata web scaffold metadata produces jsps requested metadata ensure notified metadata web scaffold metadata initial creation work mids metadata depend javatype type path web scaffold controller can scaffold don manage jsps time shouldn needed notified change web scaffold metadata metadatadependencyregistry metadata dependency registry registerdependency register dependency webscaffoldmetadatakey web scaffold metadata key metadataidentificationstring metadata identification lookup metadata entity creating abort couldn find dependent metadata can hold entity needing build jsps informed dependent metadata shouldn notifications trickle webscaffoldmetadatakey web scaffold metadata key metadatadependencyregistry metadata dependency registry registerdependency register dependency beaninfometadatakey bean info metadata key metadataidentificationstring metadata identification metadatadependencyregistry metadata dependency registry registerdependency register dependency webscaffoldmetadatakey web scaffold metadata key metadataidentificationstring metadata identification maintaining view webscaffoldmetadata web scaffold metadata getannotationvalues annotation values isshow holding directory controller webscaffoldmetadata web scaffold metadata getannotationvalues annotation values islist list directory jsps webscaffoldmetadata web scaffold metadata getannotationvalues annotation values isshow add create menu item add list menu item add find menu item clean links finders removed write tiles definition disk changed updated created build representation jsp mutablefile mutable file write contents jspcontent jsp content file verify file changed write file file existing file contents wrote file file existed contained content include field shouldn mutator user include version field shouldn mutator user physical type changed determine local metadata identification proceed downstream dependency relationship registered registered event delivered instance specific downstream dependency processed
+VARSIG19	exception
+VARSIG1	metadatadependencyregistry metadata dependency registry metadatadependencyregistry metadata dependency registry
+VARSIG18	imagepath image path
+VARSIG0	metadataservice metadata service metadataservice metadata service
+VARSIG17	downstreamdependency downstream dependency
+MTHSIG4	hasmutator mutator fieldmetadata field metadata fieldmetadata field metadata
+VARSIG12	ioexception exception ioe
+MTHSIG5	notify upstreamdependency upstream dependency downstreamdependency downstream dependency
+VARSIG11	ioexception exception ignoreandjustoverwriteit ignore overwrite
+MTHSIG6	getprovidestype type
+VARSIG10	nodelist node list towrite write
+MTHSIG7	installimage install image imagepath image path
+MTHSIG0	jspmetadatalistener jsp metadata listener metadataservice metadata service metadataservice metadata service metadatadependencyregistry metadata dependency registry metadatadependencyregistry metadata dependency registry filemanager file manager filemanager file manager pathresolver path resolver pathresolver path resolver menuoperations menu operations menuoperations menu operations classpathoperations classpath operations classpathoperations classpath operations webmvcoperations web mvc operations mvcoperations mvc operations
+VARSIG16	upstreamdependency upstream dependency
+MTHSIG1	metadataidentificationstring metadata identification
+VARSIG15	methodmetadata metadata mutator
+PACKAGE	springframework roo addon mvc jsp
+MTHSIG2	writetodiskifnecessary write disk jspfilename jsp filename nodelist node list towrite write
+VARSIG14	fieldmetadata field metadata fieldmetadata field metadata
+MTHSIG3	getelegiblefields elegible fields
+VARSIG13	methodmetadata metadata
+CLASSES	jspmetadatalistener jsp metadata listener
+METHODS	jspmetadatalistener jsp metadata listener writetodiskifnecessary write disk getelegiblefields elegible fields hasmutator mutator notify getprovidestype type installimage install image
+VARIABLES	metadataservice metadata service metadatadependencyregistry metadata dependency registry filemanager file manager pathresolver path resolver menuoperations menu operations classpathoperations classpath operations mvcoperations mvc operations metadataidentificationstring metadata identification findername finder jspfilename jsp filename towrite write ignoreandjustoverwriteit ignore overwrite ioe fieldmetadata field metadata mutator upstreamdependency upstream dependency downstreamdependency downstream dependency imagepath image path metadatadependencyregistry metadata dependency registry filemanager file manager metadataservice metadata service beaninfometadata bean info metadata menuoperations menu operations jspoperations jsp operations pathresolver path resolver javatype type path webscaffoldmetadatakey web scaffold metadata key webscaffoldmetadata web scaffold metadata beaninfometadatakey bean info metadata key entitymetadatakey entity metadata key beaninfometadata bean info metadata entitymetadata entity metadata findermetadatakey finder metadata key findermetadata finder metadata projectmetadata project metadata elegiblefields elegible fields helper controllerpath controller path destinationdirectory destination directory file tilesoperations tiles operations listpath list path showpath path controllerid controller listpath list path listpath list path allowedmenuitems allowed menu items listpath list path bytearrayoutputstream array output stream jspcontent jsp content mutablefile mutable file existing fields propertyname property field javatype type path imagefile image file

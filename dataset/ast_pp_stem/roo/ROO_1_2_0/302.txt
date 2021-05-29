@@ -1,0 +1,127 @@
+MTHSIG28	getautocompleteenummethod auto complet fieldmetadata field metadata autocompletefield auto complet field 
+MTHSIG29	getautocompleteapplicationtypemethod auto complet applic type fieldmetadata field metadata field 
+MTHSIG26	getlengthvaldatorstr length valdat fieldvalueid field number minvalu min number maxvalu max 
+MTHSIG27	getfileuploadlistenermethod file upload listen fieldmetadata field metadata field 
+MTHSIG24	getlongrangevaldatorstr rang valdat fieldvalueid field bigdecim big decim minvalu min bigdecim big decim maxvalu max 
+MTHSIG25	getdoublerangevaldatorstr rang valdat fieldvalueid field bigdecim big decim minvalu min bigdecim big decim maxvalu max 
+MTHSIG22	getsizeminormax size min max fieldmetadata field metadata field attrnam attr 
+MTHSIG23	getcolumnlength column length fieldmetadata field metadata field 
+MTHSIG4	hasscopeannot scope annot 
+MTHSIG5	getlisttyp list type javatyp type parametertyp paramet type 
+MTHSIG6	getpanelgridfield panel grid field action paneltyp panel type 
+MTHSIG7	getinitmethod init methodmetadata metadata identifieraccessor identifi accessor 
+MTHSIG0	jsfmanagedbeanmetadata jsf manag bean metadata identifi javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata jsfmanagedbeanannotationvalu jsf manag bean annot valu annotationvalu annot valu plural map methodmetadatacustomdatakei metadata custom data kei membertypeaddit member type addit crudaddit crud addit set fieldmetadata field metadata locatedfield locat field methodmetadata metadata identifieraccessor identifi accessor 
+MTHSIG1	addotherfieldsandmethod add field method 
+MTHSIG2	getmanagedbeanannot manag bean annot beannam bean 
+MTHSIG3	getscopeannot scope annot 
+MTHSIG20	isnul nullabl fieldmetadata field metadata field 
+VARSIG70	logicalpath logic path path 
+MTHSIG21	getminormax min max fieldmetadata field metadata field javatyp type annotationtyp annot type 
+MTHSIG8	getentityaccessormethod entiti accessor 
+MTHSIG9	getoneditmethod edit 
+VARSIG73	metadataidentificationstr metadata identif 
+VARSIG72	metadataidentificationstr metadata identif 
+VARSIG71	metadataidentificationstr metadata identif 
+MTHSIG39	getsetvalueexpress set express fieldvalueid field fieldnam field 
+MTHSIG37	getcomponentcr compon creation componentnam compon 
+MTHSIG38	getsetvalueexpress set express inputfieldvar input field fieldnam field classnam 
+MTHSIG35	gethandledialogclosemethod handl dialog close 
+MTHSIG36	getfileuploadmethodnam file upload fieldnam field 
+MTHSIG33	getdeletemethod delet membertypeaddit member type addit removemethod remov 
+MTHSIG34	getresetmethod reset 
+METHODS	jsfmanagedbeanmetadata jsf manag bean metadata addotherfieldsandmethod add field method getmanagedbeanannot manag bean annot getscopeannot scope annot hasscopeannot scope annot getlisttyp list type getpanelgridfield panel grid field getinitmethod init getentityaccessormethod entiti accessor getoneditmethod edit getfindallentitiesmethod find entiti getpanelgridaccessormethod panel grid accessor getpanelgridmutatormethod panel grid mutat getpopulatepanelmethod popul panel getautoccompleteitemlabelvalu auto ccomplet item label setregexpatternvalidationstr set regex pattern valid getallowtyperegex type regex getselectedfieldnam select field getaddtopaneltext add panel text getaddchildtocompon add child compon isnul nullabl getminormax min max getsizeminormax size min max getcolumnlength column length getlongrangevaldatorstr rang valdat getdoublerangevaldatorstr rang valdat getlengthvaldatorstr length valdat getfileuploadlistenermethod file upload listen getautocompleteenummethod auto complet getautocompleteapplicationtypemethod auto complet applic type getdisplaycreatedialogmethod displai creat dialog getdisplaylistmethod displai list getpersistmethod persist getdeletemethod delet getresetmethod reset gethandledialogclosemethod handl dialog close getfileuploadmethodnam file upload getcomponentcr compon creation getsetvalueexpress set express getsetvalueexpress set express getsetcompletemethod set complet isinversesideofrelationship invers side relationship tostr getmetadataidentifertyp metadata identif type createidentifi creat identifi getjavatyp type getpath path isvalid valid 
+VARSIG67	javatyp type annotationtyp annot type 
+VARSIG66	fieldmetadata field metadata field 
+VARSIG65	fieldnam field 
+VARSIG64	fieldvalueid field 
+VARSIG69	javatyp type javatyp type 
+VARSIG68	javatyp type annotationtyp annot type 
+MTHSIG31	getdisplaylistmethod displai list 
+MTHSIG32	getpersistmethod persist membertypeaddit member type addit mergemethod merg membertypeaddit member type addit persistmethod persist methodmetadata metadata identifieraccessor identifi accessor 
+MTHSIG30	getdisplaycreatedialogmethod displai creat dialog 
+VARSIG63	fieldnam field 
+VARSIG62	fieldvalueid field 
+VARSIG61	classnam 
+VARSIG60	fieldnam field 
+COMMENTS	metadata link roojsfmanagedbean roo jsf manag bean constant field add managedbean manag bean annot requir add sessionscop session scope annot requir add builderfield builder field add buildermethod builder method add builderfield builder field builder buildermethod builder method creat represent desir output method field label field bodybuild bodi builder appendformallin append formal commandbutton command button fieldvalueid field getcomponentcr compon creation commandbutton command button bodybuild bodi builder appendformallin append formal fieldvalueid field addactionlisten add action listen filedownloadactionlisten file download action listen expressionfactori express factori createvalueexpress creat express elcontext context beannam bean fieldnam field streamedcont stream content streamedcont stream content bodybuild bodi builder appendformallin append formal fieldvalueid field setvalu set download bodybuild bodi builder appendformallin append formal fieldvalueid field setajax set ajax todo code work view panel refresh download field todo work bodybuild bodi builder appendformallin append formal converternam convert setpattern set pattern simpledateformat simpl format dateformat format getdateinst instanc dateformat format topattern pattern builder getimportregistrationresolv registr resolv addimport add import format simpl format todo work bodybuild bodi builder appendformallin append formal fieldvalueid field setpattern set pattern simpledateformat simpl format dateformat format getdateinst instanc dateformat format topattern pattern paramet type add messag input field 
+VARSIG19	action action 
+VARSIG18	membertypeaddit member type addit findallmethod find 
+VARSIG17	javasymbolnam symbol allentitiesfieldnam entiti field 
+VARSIG12	javatyp type parametertyp paramet type 
+VARSIG11	beannam bean 
+VARSIG10	fieldmetadata field metadata field 
+VARSIG16	fieldmetadata field metadata field 
+VARSIG15	fieldmetadata field metadata field 
+VARSIG14	methodmetadata metadata identifieraccessor identifi accessor 
+VARSIG13	action paneltyp panel type 
+MTHSIG17	getselectedfieldnam select field fieldnam field 
+MTHSIG18	getaddtopaneltext add panel text componentid compon 
+MTHSIG15	setregexpatternvalidationstr set regex pattern valid fieldmetadata field metadata field fieldvalueid field invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+MTHSIG16	getallowtyperegex type regex allowedtyp allow type 
+MTHSIG13	getpopulatepanelmethod popul panel action action 
+MTHSIG14	getautoccompleteitemlabelvalu auto ccomplet item label fieldmetadata field metadata field fieldnam field 
+MTHSIG11	getpanelgridaccessormethod panel grid accessor action action 
+MTHSIG12	getpanelgridmutatormethod panel grid mutat action action 
+MTHSIG19	getaddchildtocompon add child compon componentid compon childcomponentid child compon 
+MTHSIG10	getfindallentitiesmethod find entiti javasymbolnam symbol allentitiesfieldnam entiti field membertypeaddit member type addit findallmethod find 
+VARIABLES	identifi aspectnam aspect governorphysicaltypemetadata governor physic type metadata annotationvalu annot valu plural crudaddit crud addit locatedfield locat field identifieraccessor identifi accessor fieldbuild field builder field beannam bean parametertyp paramet type paneltyp panel type identifieraccessor identifi accessor field field allentitiesfieldnam entiti field findallmethod find action action action field field fieldnam field applicationtypefield applic type field field fieldvalueid field bodybuild bodi builder allowedtyp allow type fieldnam field componentid compon componentid compon childcomponentid child compon field field annotationtyp annot type field attrnam attr field fieldvalueid field minvalu min maxvalu max fieldvalueid field minvalu min maxvalu max fieldvalueid field minvalu min maxvalu max field autocompletefield auto complet field field mergemethod merg persistmethod persist identifieraccessor identifi accessor removemethod remov field fieldnam field componentnam compon inputfieldvar input field fieldnam field classnam fieldvalueid field fieldnam field fieldvalueid field fieldnam field field annotationtyp annot type annotationtyp annot type javatyp type path metadataidentificationstr metadata identif metadataidentificationstr metadata identif metadataidentificationstr metadata identif applic type kei applic type field kei enumer kei crud addit kei list view field kei paramet type kei paramet type manag bean kei paramet type plural kei type type creat dialog visibl data visibl column html panel grid locatedfield locat field entiti beannam bean plural entitynam entiti builderfield builder field buildermethod builder method action findallmethod find mergemethod merg persistmethod persist removemethod remov allentitiesfieldnam entiti field entitylisttyp entiti list type customdata custom data fieldnam field parametertyp paramet type selectedfieldnam select field listtyp list type bodybuild bodi builder fieldnam field streamedcontentfieldnam stream content field annot contenttyp content type fileextens file extens bodybuild bodi builder annot annotationbuild annot builder annotationbuild annot builder methodnam bodybuild bodi builder methodbuild builder bodybuild bodi builder methodnam bodybuild bodi builder customdata custom data fieldnam field parametertyp paramet type entityaccessormethodcal entiti accessor call methodnam bodybuild bodi builder fieldnam field methodnam bodybuild bodi builder methodnam suffix suffix suffix suffix methodbuild builder bodybuild bodi builder customdata custom data fieldtyp field type simpletypenam simpl type fieldnam field fieldlabelid field label minvalu min maxvalu max sizeminvalu size min sizemaxvalu size max requir istextarea textarea fieldvalueid field converternam convert htmloutputtextstr html output text str inputtextstr input text str componentidstr compon str requiredstr requir str annot contenttyp content type allowedtyp allow type autouploadattr auto upload attr parametertyp paramet type parametertypesimpletypenam paramet type simpl type parametertypefieldnam paramet type field parametertypemanagedbeannam paramet type manag bean parametertypeplur paramet type plural convertertyp convert type convertertyp convert type applicationtypefield applic type field patternannot pattern annot regexpattr regexp attr builder annot annot valu bodybuild bodi builder bodybuild bodi builder bodybuild bodi builder fieldnam field methodnam parametertyp paramet type parameternam paramet name bodybuild bodi builder methodnam parametertyp paramet type parameternam paramet name returntyp type simpletypenam simpl type bodybuild bodi builder methodnam parametertyp paramet type parameternam paramet name crudaddit crud addit findallmethod find simpletypenam simpl type bodybuild bodi builder applicationtypefield applic type field accessormethodnam accessor returntyp type methodnam bodybuild bodi builder methodnam bodybuild bodi builder methodnam bodybuild bodi builder methodnam bodybuild bodi builder methodnam bodybuild bodi builder customdata custom data methodnam parametertyp paramet type parameternam paramet name bodybuild bodi builder annot tsc 
+VARSIG39	fieldmetadata field metadata field 
+VARSIG34	fieldmetadata field metadata field 
+VARSIG33	childcomponentid child compon 
+VARSIG32	componentid compon 
+VARSIG31	componentid compon 
+VARSIG38	attrnam attr 
+VARSIG37	fieldmetadata field metadata field 
+PACKAGE	springframework roo addon jsf managedbean 
+VARSIG36	javatyp type annotationtyp annot type 
+VARSIG35	fieldmetadata field metadata field 
+VARSIG30	fieldnam field 
+CLASSES	jsfmanagedbeanmetadata jsf manag bean metadata 
+VARSIG29	allowedtyp allow type 
+VARSIG28	invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+VARSIG23	fieldmetadata field metadata field 
+VARSIG22	fieldmetadata field metadata field 
+VARSIG21	action action 
+VARSIG20	action action 
+VARSIG27	fieldvalueid field 
+VARSIG26	fieldmetadata field metadata field 
+VARSIG25	fieldmetadata field metadata applicationtypefield applic type field 
+VARSIG24	fieldnam field 
+VARSIG7	methodmetadata metadata identifieraccessor identifi accessor 
+VARSIG6	set fieldmetadata field metadata locatedfield locat field 
+VARSIG9	methodmetadatabuild metadata builder 
+VARSIG8	fieldmetadatabuild field metadata builder fieldbuild field builder 
+MTHSIG46	getpath path metadataidentificationstr metadata identif 
+VARSIG3	jsfmanagedbeanannotationvalu jsf manag bean annot valu annotationvalu annot valu 
+MTHSIG47	isvalid valid metadataidentificationstr metadata identif 
+VARSIG2	physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+MTHSIG44	createidentifi creat identifi javatyp type javatyp type logicalpath logic path path 
+VARSIG5	map methodmetadatacustomdatakei metadata custom data kei membertypeaddit member type addit crudaddit crud addit 
+MTHSIG45	getjavatyp type metadataidentificationstr metadata identif 
+VARSIG4	plural 
+VARSIG1	javatyp type aspectnam aspect 
+VARSIG0	identifi 
+VARSIG56	fieldmetadata field metadata field 
+VARSIG55	membertypeaddit member type addit removemethod remov 
+VARSIG54	methodmetadata metadata identifieraccessor identifi accessor 
+VARSIG53	membertypeaddit member type addit persistmethod persist 
+VARSIG59	inputfieldvar input field 
+VARSIG58	componentnam compon 
+VARSIG57	fieldnam field 
+MTHSIG42	tostr 
+MTHSIG43	getmetadataidentifertyp metadata identif type 
+MTHSIG40	getsetcompletemethod set complet fieldvalueid field fieldnam field 
+MTHSIG41	isinversesideofrelationship invers side relationship fieldmetadata field metadata field javatyp type annotationtyp annot type 
+VARSIG52	membertypeaddit member type addit mergemethod merg 
+VARSIG51	fieldmetadata field metadata field 
+VARSIG50	fieldmetadata field metadata autocompletefield auto complet field 
+VARSIG45	bigdecim big decim maxvalu max 
+VARSIG44	bigdecim big decim minvalu min 
+VARSIG43	fieldvalueid field 
+VARSIG42	bigdecim big decim maxvalu max 
+VARSIG49	fieldmetadata field metadata field 
+VARSIG48	number maxvalu max 
+VARSIG47	number minvalu min 
+VARSIG46	fieldvalueid field 
+VARSIG41	bigdecim big decim minvalu min 
+VARSIG40	fieldvalueid field 

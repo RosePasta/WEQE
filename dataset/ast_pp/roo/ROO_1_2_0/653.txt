@@ -1,0 +1,27 @@
+VARSIG7	clioption cli option key optioncontext option context update project mandatory create javatype type
+VARSIG6	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+VARSIG9	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+VARSIG8	clioption cli option key path mandatory unspecifieddefaultvalue unspecified focused src specifieddefaultvalue focused src source directory create logicalpath logical path path
+VARSIG3	clioption cli option key path mandatory unspecifieddefaultvalue unspecified focused src specifieddefaultvalue focused src source directory create logicalpath logical path path
+VARSIG2	clioption cli option key rooannotations roo annotations mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue generated common roo annotations rooannotations roo annotations
+VARSIG5	clioption cli option key mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue generated marked createabstract create
+VARSIG4	clioption cli option key mandatory unspecifieddefaultvalue unspecified lang object superclass defaults lang object javatype type superclass
+COMMENTS	shell commands creating classes interfaces enums fields
+VARSIG1	clioption cli option key optioncontext option context update project mandatory create javatype type
+VARSIG0	clioption cli option key mandatory optioncontext option context update project type focus javatype type type
+MTHSIG4	createenum create javatype type logicalpath logical path path permitreservedwords permit reserved
+VARSIG12	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+MTHSIG5	enumconstant constant javatype type javasymbolname symbol fieldname field permitreservedwords permit reserved
+VARSIG11	clioption cli option key path mandatory unspecifieddefaultvalue unspecified focused src specifieddefaultvalue focused src source directory create logicalpath logical path path
+VARSIG10	clioption cli option key optioncontext option context update project mandatory create javatype type
+MTHSIG0	isprojectavailable project
+MTHSIG1	focus javatype type type
+VARSIG15	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+PACKAGE	springframework roo classpath operations
+MTHSIG2	createclass create javatype type rooannotations roo annotations logicalpath logical path path javatype type superclass createabstract create permitreservedwords permit reserved
+VARSIG14	clioption cli option key mandatory constant javasymbolname symbol fieldname field
+MTHSIG3	createinterface create javatype type logicalpath logical path path permitreservedwords permit reserved
+VARSIG13	clioption cli option key mandatory unspecifieddefaultvalue unspecified optioncontext option context update project receive field javatype type
+CLASSES	classpathcommands classpath commands
+METHODS	isprojectavailable project focus createclass create createinterface create createenum create enumconstant constant
+VARIABLES	type rooannotations roo annotations path superclass createabstract create permitreservedwords permit reserved path permitreservedwords permit reserved path permitreservedwords permit reserved fieldname field permitreservedwords permit reserved classpathoperations classpath operations

@@ -1,0 +1,28 @@
+VARSIG7	stringbuild builder 
+VARSIG6	pgppublickeyr pgp kei ring keyr kei ring 
+VARSIG9	algid alg 
+VARSIG8	pgppublickeyr pgp kei ring keyr kei ring 
+VARSIG3	clioption cli option kei keyid kei mandatori kei view pgpkeyid pgp kei keyid kei 
+VARSIG2	clioption cli option kei keyid kei mandatori kei remov trust pgpkeyid pgp kei keyid kei 
+VARSIG5	pgpkeyid pgp kei keyid kei 
+VARSIG4	clioption cli option kei keyid kei mandatori kei trust pgpkeyid pgp kei keyid kei 
+COMMENTS	enabl user manag roo pgp keystor kei liner 
+VARSIG1	pgpkeyid pgp kei kei 
+VARSIG0	pgppublickeyr pgp kei ring keyr kei ring 
+MTHSIG4	untrust pgpkeyid pgp kei keyid kei 
+MTHSIG5	keyview kei view pgpkeyid pgp kei keyid kei 
+VARSIG11	 
+MTHSIG6	trust pgpkeyid pgp kei keyid kei 
+VARSIG10	stringbuild builder 
+MTHSIG7	getkeysummaryifposs kei summari pgpkeyid pgp kei keyid kei 
+MTHSIG0	pgpstatu pgp statu 
+MTHSIG1	listtrustedkei list trust 
+PACKAGE	springframework roo felix pgp 
+MTHSIG2	refreshkeysfromserv refresh server 
+MTHSIG3	automatictrust automat trust 
+MTHSIG8	formatkeyr format kei ring stringbuild builder pgppublickeyr pgp kei ring keyr kei ring 
+MTHSIG9	getalgorithm algorithm algid alg 
+CLASSES	pgpcommand pgp command 
+METHODS	pgpstatu pgp statu listtrustedkei list trust refreshkeysfromserv refresh server automatictrust automat trust untrust keyview kei view trust getkeysummaryifposs kei summari formatkeyr format kei ring getalgorithm algorithm appendlin append 
+MTHSIG10	appendlin append stringbuild builder 
+VARIABLES	keyr kei ring kei keyid kei keyid kei keyid kei keyid kei keyr kei ring keyr kei ring algid alg pgpservic pgp servic keyr kei ring keyr kei ring refreshoutcom refresh outcom outcom keyr kei ring keyr kei ring keyr kei ring keyr kei ring pgpkei pgp kei userid user id userid user sdf pgpkei pgp kei useriditer user iter userid user signatureiter signatur iter signatur 

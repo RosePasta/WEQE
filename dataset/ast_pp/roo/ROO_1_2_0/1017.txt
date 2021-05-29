@@ -1,0 +1,51 @@
+MTHSIG4	backonedirectory directory fileidentifier file identifier
+MTHSIG5	removetrailingseparator remove trailing separator path
+MTHSIG6	matchesantpath matches ant path antpattern ant pattern canonicalpath canonical path
+MTHSIG7	removeleadingandtrailingseparators remove leading trailing separators path
+MTHSIG0	deleterecursively delete recursively file file
+MTHSIG1	copyrecursively copy recursively file source file destination deletedestinationonexit delete destination exit
+PACKAGE	springframework roo support util
+MTHSIG2	denotesabsolutepath denotes absolute path filename file
+MTHSIG3	getfirstdirectory directory fileidentifier file identifier
+MTHSIG8	ensuretrailingseparator ensure trailing separator path
+MTHSIG9	getsystemdependentpath system dependent path pathelements path elements
+CLASSES	fileutils file utils
+METHODS	deleterecursively delete recursively copyrecursively copy recursively denotesabsolutepath denotes absolute path getfirstdirectory directory backonedirectory directory removetrailingseparator remove trailing separator matchesantpath matches ant path removeleadingandtrailingseparators remove leading trailing separators ensuretrailingseparator ensure trailing separator getsystemdependentpath system dependent path getsystemdependentpath system dependent path getcanonicalpath canonical path getfileseparatorasregex file separator regex getpath path getfile file getinputstream input stream read fileutils file utils
+VARSIG23	urisyntaxexception uri syntax exception
+VARSIG22	filename
+VARSIG21	loadingclass loading
+VARSIG20	relativefilename relative filename
+VARSIG27	ioexception exception
+VARSIG26	file file
+VARSIG25	filename
+VARSIG24	loadingclass loading
+VARSIG7	filename file
+VARSIG6	ioexception exception ioe
+VARSIG9	fileidentifier file identifier
+VARSIG8	fileidentifier file identifier
+VARSIG3	file destination
+VARSIG2	file source
+VARSIG5	file
+VARSIG4	deletedestinationonexit delete destination exit
+COMMENTS	utilities handling link file instances constants relative file path current directory valid platforms roo supports doesn check backslash colon issues paths windows deletes link file link file refers directory contents directory including directories deleted link file exist returns file delete required file exist file fully deleted failure deleting copies source directory destination source exist destination exist created destination exist directory file source existing source directory required destination destination directory required deletedestinationonexit delete destination exit mark created destinations deletion exit copy successful directory copy checks filename file denotes absolute path file system windows includes paths drive letters start check performed file exists filename file file absolute path filename file absolute path current check drive letter returns path represents directory path directory parent directory file fileidentifier file identifier path parse required returns file system path element fileidentifier file identifier removes trailing link file separator path path path modify modified path canonical path matches ant style pattern antpattern ant pattern pattern check can blank canonicalpath canonical path path check can blank removes leading trailing link file separator path path path modify path modified ensures path trailing link file separator path path modify can normalised path returns operating system dependent path consisting elements separated link file separator pathelements path elements path elements uppermost can empty blank returns operating system dependent path consisting elements separated link file separator pathelements path elements path elements uppermost can empty blank returns canonical path link file file file find canonical path canonical path file returns platform specific file separator regular expression blank regex escape backslashes determines path requested file relative loadingclass loading file relative required relativefilename relative filename file relative required full classloader specific path file slashes file separatorchar separator correct classloader paths file system paths loads file classpath loadingclass loading load file required filename file load relative required file file input stream illegalargumentexception illegal argument exception file loads file classpath loadingclass loading load file required filename file load relative required file file input stream illegalargumentexception illegal argument exception file returns contents file file file read existing file contents illegalstateexception illegal exception errors constructor prevent instantiation
+VARSIG19	loadingclass loading
+VARSIG1	file
+VARSIG18	ioexception exception ioe
+VARSIG0	file file
+VARSIG17	file file
+VARSIG12	canonicalpath canonical path
+VARSIG11	antpattern ant pattern
+VARSIG10	path
+VARSIG16	collection pathelements path elements
+VARSIG15	pathelements path elements
+VARSIG14	path
+VARSIG13	path
+MTHSIG17	fileutils file utils
+MTHSIG15	getinputstream input stream loadingclass loading filename
+MTHSIG16	read file file
+MTHSIG13	getpath path loadingclass loading relativefilename relative filename
+MTHSIG14	getfile file loadingclass loading filename
+MTHSIG11	getcanonicalpath canonical path file file
+MTHSIG12	getfileseparatorasregex file separator regex
+MTHSIG10	getsystemdependentpath system dependent path collection pathelements path elements
+VARIABLES	file source destination deletedestinationonexit delete destination exit ioe filename file fileidentifier file identifier fileidentifier file identifier path antpattern ant pattern canonicalpath canonical path path path pathelements path elements pathelements path elements file ioe loadingclass loading relativefilename relative filename loadingclass loading filename loadingclass loading filename file backslash escaped backslash current directory windows drive prefix windows drive path path matcher fileseparator file separator url inputstream input stream

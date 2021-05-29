@@ -1,0 +1,24 @@
+VARSIG7	identifierfield identifier field
+VARSIG6	javatype type identifiertype identifier type
+VARSIG9	javatype type entity
+VARSIG8	identifiercolumn identifier column
+VARSIG3	list annotationmetadatabuilder annotation metadata builder annotations
+VARSIG2	javatype type superclass
+VARSIG5	serializable
+VARSIG4	javatype type
+COMMENTS	common set operations entities checks existence meta inf persistence xml meta inf persistence xml exists creates entity entity required createabstract create entity superclass entity annotations entity entity annotations creates jpa embeddable embeddable required serializable link serializable creates jpa identifier identifiertype identifier type identifier type identifierfield identifier field identifier field identifiercolumn identifier column identifier column creates integration test entity automatically produces data demand dod exist silently returns integration test file exists entity entity produce integration test required creates data demand dod provider entity silently returns dod exists entity produce dod provider required dod required path location dod required
+CLASSES	entityoperations entity operations
+VARSIG1	createabstract create
+VARSIG0	javatype type
+METHODS	ispersistentclassavailable persistent newentity entity newembeddableclass embeddable newidentifier identifier newintegrationtest integration test newdod dod
+MTHSIG4	newintegrationtest integration test javatype type entity
+VARSIG12	path path
+MTHSIG5	newdod dod javatype type entity javatype type path path
+VARSIG11	javatype type
+VARSIG10	javatype type entity
+MTHSIG0	ispersistentclassavailable persistent
+MTHSIG1	newentity entity javatype type createabstract create javatype type superclass list annotationmetadatabuilder annotation metadata builder annotations
+PACKAGE	springframework roo addon entity
+MTHSIG2	newembeddableclass embeddable javatype type serializable
+MTHSIG3	newidentifier identifier javatype type identifiertype identifier type identifierfield identifier field identifiercolumn identifier column
+VARIABLES	createabstract create superclass annotations serializable identifiertype identifier type identifierfield identifier field identifiercolumn identifier column entity entity path

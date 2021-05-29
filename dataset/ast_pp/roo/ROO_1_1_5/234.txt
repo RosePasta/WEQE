@@ -1,0 +1,32 @@
+VARSIG7	memberdetails member details memberdetails member details
+VARSIG6	itdfilename filename
+VARSIG9	fieldmetadata field metadata field
+VARSIG8	metadataidentificationstring metadata identification
+VARSIG3	metadataidentificationstring metadata identification
+VARSIG2	itdtypedetails type details itdtypedetails type details
+VARSIG5	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG4	javatype type aspectname aspect
+COMMENTS	implementation link jsfmanagedbeanformmetadataprovider jsf managed bean form metadata provider metadatadependencyregistry metadata dependency registry addnotificationlistener add notification listener metadatadependencyregistry metadata dependency registry removenotificationlistener remove notification listener determine governor metadata hoping hear javatype type itds parse annotation expect lookup entity entity metadata informed dependent metadata remember entity javatype type matches metadata identification start clearing previous association methodmetadata metadata memberfindingutils member finding utils getmethods methods memberdetails member details track metadatadependencyregistry metadata dependency registry registerdependency register dependency getdeclaredbymetadataid declared metadata metadataidentificationstring metadata identification beaninfoutils bean info utils ismutatormethod mutator beaninfoutils bean info utils isaccessormethod accessor getcustomdata custom data keyset key set persistencecustomdatakeys persistence custom data identifier accessor getcustomdata custom data keyset key set persistencecustomdatakeys persistence custom data version accessor fieldmetadata field metadata field beaninfoutils bean info utils getfieldforpropertyname field property memberdetails member details beaninfoutils bean info utils getpropertynameforjavabeanmethod property bean field ismethodofinterest interest memberdetails member details locatedmutators located mutators add locatedmutators located mutators
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+MTHSIG4	findfieldsandmutators find fields mutators memberdetails member details memberdetails member details metadataidentificationstring metadata identification
+VARSIG12	javatype type javatype type
+MTHSIG5	ismethodofinterest interest methodmetadata metadata memberdetails member details memberdetails member details
+VARSIG11	memberdetails member details memberdetails member details
+MTHSIG6	isapplicationtype application type javatype type javatype type
+VARSIG10	methodmetadata metadata
+MTHSIG7	getitduniquenessfilenamesuffix uniqueness filename suffix
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+VARSIG15	path path
+PACKAGE	springframework roo addon jsf
+MTHSIG2	getlocalmidtorequest local mid request itdtypedetails type details itdtypedetails type details
+VARSIG14	javatype type javatype type
+MTHSIG3	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+VARSIG13	metadataidentificationstring metadata identification
+MTHSIG8	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+MTHSIG9	createlocalidentifier create local identifier javatype type javatype type path path
+CLASSES	jsfmanagedbeanformmetadataproviderimpl jsf managed bean form metadata provider impl
+METHODS	activate deactivate getlocalmidtorequest local mid request getmetadata metadata findfieldsandmutators find fields mutators ismethodofinterest interest isapplicationtype application type getitduniquenessfilenamesuffix uniqueness filename suffix getgovernorphysicaltypeidentifier governor physical type identifier createlocalidentifier create local identifier getprovidestype type
+MTHSIG10	getprovidestype type
+VARIABLES	context context itdtypedetails type details metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename memberdetails member details metadataidentificationstring metadata identification field memberdetails member details javatype type metadataidentificationstring metadata identification javatype type path entitytomanagedbeandmidmap entity managed beand mid map managedbeanmidtoentitymap managed bean mid entity map localmid local mid annotationvalues annotation values entitytype entity type memberdetails member details persistencememberholdingtypedetails persistence member holding type details oldentity entity pluralmetadata plural metadata plural locatedfieldsandmutators located fields mutators locatedfieldsandmutators located fields mutators capitalizedfieldname capitalized field methodprefix prefix accessor mutator field javatype type path

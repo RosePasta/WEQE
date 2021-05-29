@@ -1,0 +1,103 @@
+MTHSIG28	issetupcommandavail setup command 
+MTHSIG29	roundtwodecim decim 
+MTHSIG26	setup 
+MTHSIG27	iscloudfoundrycommandavail cloud foundri command 
+MTHSIG24	renameapp renam app appnam app newappnam app 
+MTHSIG25	clearstoredlogindetail clear store login detail 
+MTHSIG22	map appnam app url 
+MTHSIG23	unmap map appnam app url 
+MTHSIG4	createservic creat servic servic bind 
+MTHSIG5	deleteservic delet servic servic 
+MTHSIG6	bindservic bind servic servic appnam app 
+MTHSIG7	unbindservic unbind servic servic appnam app 
+MTHSIG0	info 
+MTHSIG1	regist email password 
+MTHSIG2	login email password cloudcontrollerurl cloud control url 
+MTHSIG3	servic 
+MTHSIG20	file appnam app path instanc 
+MTHSIG21	stat appnam app 
+MTHSIG8	app 
+MTHSIG9	push appnam app integ instanc integ memori path list url 
+MTHSIG33	getinteg integ potentialint potenti 
+METHODS	info regist login servic createservic creat servic deleteservic delet servic bindservic bind servic unbindservic unbind servic app push start restart delet updat instanc mem crash crashlog crash log log file stat map unmap map renameapp renam app clearstoredlogindetail clear store login detail setup iscloudfoundrycommandavail cloud foundri command issetupcommandavail setup command roundtwodecim decim executecommand execut command formatdurationinsecond format durat second getappl applic getinteg integ 
+MTHSIG31	formatdurationinsecond format durat second second 
+MTHSIG32	getappl applic appnam app 
+MTHSIG30	executecommand execut command cloudcommand cloud command command 
+VARSIG63	charact 
+VARSIG62	potentialint potenti 
+VARSIG61	except 
+VARSIG60	appnam app 
+COMMENTS	oper cloud foundri add todo move tabl render stuff separ sfw shell feel free addonoperationsimpl add oper impl talk syso logger call limit debug ship releas rid execut replac obviou failur illegalstateexcept thetext text argument root except cloudfoundryoperationsimpl cloud foundryoper impl extend abstractflashingobject flash object jdkurlinputstreamservic jdk url input stream servic login cloud control url default url effort encrypt usernam password prefer api ensur prefer api understand cloud control url usernam password appli todo cloud environ profil applic config 
+VARSIG19	integ instanc 
+VARSIG18	appnam app 
+VARSIG17	servic 
+VARSIG12	servic 
+VARSIG11	servic 
+VARSIG10	serviceconfigur servic configur serviceconfigur servic configur 
+VARSIG16	cloudappl cloud applic applic 
+VARSIG15	appnam app 
+VARSIG14	servic 
+VARSIG13	appnam app 
+MTHSIG17	crash appnam app 
+MTHSIG18	crashlog crash log appnam app instanc 
+MTHSIG15	instanc appnam app number 
+MTHSIG16	mem appnam app integ memsiz mem size 
+MTHSIG13	delet appnam app 
+MTHSIG14	updat appnam app 
+MTHSIG11	appnam app 
+MTHSIG12	restart appnam app 
+MTHSIG19	log appnam app instanc 
+MTHSIG10	start appnam app 
+VARIABLES	email password email password cloudcontrollerurl cloud control url servic servic servic bind serviceconfigur servic configur servic servic appnam app servic appnam app applic servic appnam app instanc memori path url appnam app appnam app appnam app appnam app appnam app appnam app number appnam app memsiz mem size appnam app crash appnam app instanc appnam app instanc appnam app path instanc appnam app instancestat instanc stat appnam app url appnam app url appnam app newappnam app cloudappl cloud applic failuremessag failur messag successmessag success messag gerund failuremessag failur messag successmessag success messag failuremessag failur messag command second appnam app potentialint potenti logger session client cloudinfo cloud info successmessag success messag failuremessag failur messag finalemail email finalpassword password globalservic global servic localservic local servic tabl tabl failuremessag failur messag successmessag success messag cloudservic cloud servic serviceconfigur servic configur failuremessag failur messag successmessag success messag failuremessag failur messag successmessag success messag failuremessag failur messag successmessag success messag applic tabl uri servic filetodeploi file deploi failuremessag failur messag successmessag success messag finalmem mem cloudappl cloud applic finalurl url finalinst instanc failuremessag failur messag successmessag success messag failuremessag failur messag successmessag success messag failuremessag failur messag successmessag success messag failuremessag failur messag successmessag success messag instanc instancesinfo instanc info shelltabl shell tabl crash tabl failuremessag failur messag successmessag success messag instanceindex instanc stderrlog stderr log stdoutlog instanceindex instanc file stat tabl instanc usag cpu memori disk uptim formatteduptim format uptim failuremessag failur messag successmessag success messag applic uri failuremessag failur messag successmessag success messag applic uri failuremessag failur messag successmessag success messag twodform form failuremessag failur messag successmessag success messag gerund displaysuccessmessag displai success messag timer statusind statu indic statuscount statu count timertask timer task secondsinminut second minut secondsinhour second hour secondsindai second dai dai remaind hour minut sec 
+VARSIG39	path 
+VARSIG34	appnam app 
+VARSIG33	crashinfo crash info crash 
+VARSIG32	appnam app 
+VARSIG31	integ memsiz mem size 
+VARSIG38	appnam app 
+VARSIG37	instanc 
+PACKAGE	springframework roo addon cloud foundri 
+VARSIG36	appnam app 
+VARSIG35	instanc 
+VARSIG30	appnam app 
+CLASSES	cloudfoundryoperationsimpl cloud foundri oper impl 
+VARSIG29	number 
+VARSIG28	appnam app 
+VARSIG23	appnam app 
+VARSIG22	list url 
+VARSIG21	path 
+VARSIG20	integ memori 
+VARSIG27	appnam app 
+VARSIG26	appnam app 
+VARSIG25	appnam app 
+VARSIG24	appnam app 
+VARSIG7	servic 
+VARSIG6	cloudservic cloud servic servic 
+VARSIG9	bind 
+VARSIG8	 
+VARSIG3	password 
+VARSIG2	email 
+VARSIG5	serviceconfigur servic configur servic 
+VARSIG4	cloudcontrollerurl cloud control url 
+VARSIG1	password 
+VARSIG0	email 
+VARSIG56	failuremessag failur messag 
+VARSIG55	successmessag success messag 
+VARSIG54	failuremessag failur messag 
+VARSIG53	gerund 
+VARSIG59	second 
+VARSIG58	except 
+VARSIG57	cloudcommand cloud command command 
+VARSIG52	successmessag success messag 
+VARSIG51	failuremessag failur messag 
+VARSIG50	 
+VARSIG45	appnam app 
+VARSIG44	url 
+VARSIG43	appnam app 
+VARSIG42	instancestat instanc stat instancestat instanc stat 
+VARSIG49	cloudappl cloud applic cloudappl cloud applic 
+VARSIG48	newappnam app 
+VARSIG47	appnam app 
+VARSIG46	url 
+VARSIG41	appnam app 
+VARSIG40	instanc 

@@ -1,0 +1,15 @@
+VARSIG3	javatype type entity
+VARSIG2	transactional
+VARSIG4	javatype type javatype type
+COMMENTS	link integrationtestoperationsimpl integration test operations impl checks existence meta inf persistence xml meta inf persistence xml exists creates integration test entity automatically produces data demand dod exist silently returns integration test file exists entity entity produce integration test required creates integration test entity automatically produces data demand dod exist silently returns integration test file exists entity entity produce integration test required transactional test wrapped spring transaction creates mock test entity silently returns mock test file exists entity produce mock test required creates test stub silently returns test file exists javatype type produce test stub required
+CLASSES	integrationtestoperations integration test operations
+VARSIG1	javatype type entity
+VARSIG0	javatype type entity
+METHODS	isintegrationtestinstallationpossible integration test installation newintegrationtest integration test newintegrationtest integration test newmocktest mock test newteststub test stub
+MTHSIG4	newteststub test stub javatype type javatype type
+MTHSIG0	isintegrationtestinstallationpossible integration test installation
+MTHSIG1	newintegrationtest integration test javatype type entity
+PACKAGE	springframework roo addon test
+MTHSIG2	newintegrationtest integration test javatype type entity transactional
+MTHSIG3	newmocktest mock test javatype type entity
+VARIABLES	entity entity transactional entity javatype type

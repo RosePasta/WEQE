@@ -1,0 +1,9 @@
+MTHSIG0	getname
+MTHSIG1	isinstalledinmodule installed module modulename module
+PACKAGE	springframework roo addon jpa
+COMMENTS	implementation link gaeoperations gae operations fields
+CLASSES	gaeoperationsimpl gae operations impl
+VARIABLES	modulename module buildplugin build plugin projectoperations project operations pom
+VARSIG1	plugin buildplugin build plugin
+VARSIG0	modulename module
+METHODS	getname isinstalledinmodule installed module

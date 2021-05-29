@@ -1,0 +1,12 @@
+MTHSIG0	activ componentcontext compon context context 
+VARSIG3	shellstatu shell statu newstatu statu 
+MTHSIG1	deactiv componentcontext compon context context 
+VARSIG2	shellstatu shell statu oldstatu statu 
+PACKAGE	springframework roo uaa 
+MTHSIG2	onshellstatuschang shell statu chang shellstatu shell statu oldstatu statu shellstatu shell statu newstatu statu 
+COMMENTS	link shellstatuslisten shell statu listen determin bundl symbol execut shell command regist featur uaa field handl regist bsn target instanc oppos declar don fact add type inherit type prevent add detect uaaregistrationservic uaa registr servic deal determin bsn bsn regist 
+CLASSES	shelllisteninguaaregistrationfacil shell listen uaa registr facil 
+VARIABLES	context context oldstatu statu newstatu statu shell uaaregistrationservic uaa registr servic uaaservic uaa servic bundlecontext bundl context parseresult pars result typenam type bundlesymbolicnam bundl symbol 
+VARSIG1	componentcontext compon context context 
+VARSIG0	componentcontext compon context context 
+METHODS	activ deactiv onshellstatuschang shell statu chang 

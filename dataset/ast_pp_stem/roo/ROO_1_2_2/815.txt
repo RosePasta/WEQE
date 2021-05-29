@@ -1,0 +1,8 @@
+MTHSIG0	notifi upstreamdepend upstream depend downstreamdepend downstream depend 
+PACKAGE	springframework roo metadata 
+COMMENTS	implement process metadata notif invok notifi implement sourc metadata identif request notifi destin metadata identif event sourc destin metadata identif link metadataidentificationutil metadata identif util isidentifyingclass identifi link metadataidentificationutil metadata identif util isidentifyinginst identifi instanc sourc metadata identif present link metadataidentificationutil metadata identif util isvalid valid except thrown process metadata genuin fatal oper simpl failur metadata safe link metadataitem metadata item isvalid valid expect metadata depend metadata call upstreamdepend upstream depend upstream sourc event mandatori valid downstreamdepend downstream depend downstream destin event downstream target 
+CLASSES	metadatanotificationlisten metadata notif listen 
+VARIABLES	upstreamdepend upstream depend downstreamdepend downstream depend 
+VARSIG1	downstreamdepend downstream depend 
+VARSIG0	upstreamdepend upstream depend 
+METHODS	notifi 

@@ -1,0 +1,26 @@
+VARSIG7	layerposition layer position
+VARSIG6	javatype type idtype type
+VARSIG9	metadataidentificationstring metadata identification
+VARSIG8	collection methodparameter parameter methodparameters parameters
+VARSIG3	metadataidentificationstring metadata identification
+VARSIG2	layerprovider layer provider provider
+VARSIG5	javatype type targetentity target entity
+VARSIG4	methodidentifier identifier
+COMMENTS	link layerservice layer service implementation sorts link layerprovider layer provider descending order position mutex
+VARSIG1	layerprovider layer provider provider provider
+VARSIG0	layerprovider layer provider provider provider
+VARSIG12	javatype type idtype type
+VARSIG11	javatype type targetentity target entity
+VARSIG10	methodidentifier identifier
+MTHSIG0	bindlayerprovider bind layer provider layerprovider layer provider provider
+VARSIG16	layerprovider layer provider provider
+MTHSIG1	getmembertypeadditions member type additions metadataidentificationstring metadata identification methodidentifier identifier javatype type targetentity target entity javatype type idtype type layerposition layer position collection methodparameter parameter methodparameters parameters
+VARSIG15	layerprovider layer provider provider
+PACKAGE	springframework roo classpath layers
+MTHSIG2	getmembertypeadditions member type additions metadataidentificationstring metadata identification methodidentifier identifier javatype type targetentity target entity javatype type idtype type layerposition layer position methodparameter parameter methodparameters parameters
+VARSIG14	methodparameter parameter methodparameters parameters
+MTHSIG3	unbindlayerprovider unbind layer provider layerprovider layer provider provider
+VARSIG13	layerposition layer position
+CLASSES	layerserviceimpl layer service impl
+METHODS	bindlayerprovider bind layer provider getmembertypeadditions member type additions getmembertypeadditions member type additions unbindlayerprovider unbind layer provider
+VARIABLES	provider provider provider provider provider metadataidentificationstring metadata identification methodidentifier identifier targetentity target entity idtype type layerposition layer position methodparameters parameters metadataidentificationstring metadata identification methodidentifier identifier targetentity target entity idtype type layerposition layer position methodparameters parameters provider provider serialversionuid serial version uid difference mutex providers methodparametersarray parameters array additions

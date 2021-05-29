@@ -1,0 +1,56 @@
+MTHSIG22	hassamecoordin coordin depend depend 
+MTHSIG4	depend element depend 
+MTHSIG5	getgroupid group 
+MTHSIG6	getartifactid artifact 
+MTHSIG7	getversionid version 
+MTHSIG0	depend groupid group artifactid artifact version dependencytyp depend type type dependencyscop depend scope scope classifi 
+MTHSIG1	depend groupid group artifactid artifact version dependencytyp depend type type dependencyscop depend scope scope 
+PACKAGE	springframework roo project 
+MTHSIG2	depend groupid group artifactid artifact version 
+MTHSIG3	depend groupid group artifactid artifact version collect depend exclus 
+MTHSIG20	addexclus add exclus exclusiongroupid exclus group exclusionartifactid exclus artifact 
+MTHSIG21	getel element document document 
+MTHSIG8	getvers version 
+MTHSIG9	gettyp type 
+CLASSES	depend 
+METHODS	depend depend depend depend depend getgroupid group getartifactid artifact getversionid version getvers version gettyp type getscop scope getclassifi classifi getsystempath system path getexclus exclus hashcod hash code equal compareto compar comparecoordin compar coordin getsimpledescript simpl descript tostr addexclus add exclus getel element hassamecoordin coordin 
+VARSIG23	exclusiongroupid exclus group 
+VARSIG22	depend 
+VARSIG21	depend 
+VARSIG20	object obj 
+VARSIG27	depend depend 
+VARSIG26	depend exclus 
+VARSIG25	document document 
+VARSIG24	exclusionartifactid exclus artifact 
+VARSIG7	artifactid artifact 
+VARSIG6	groupid group 
+VARSIG9	dependencytyp depend type type 
+VARSIG8	version 
+VARSIG3	dependencytyp depend type type 
+VARSIG2	version 
+VARSIG5	classifi 
+VARSIG4	dependencyscop depend scope scope 
+COMMENTS	simplifi immut represent depend structur model maven ivi replac releas osgi centric model maven doc minim set match depend refer dependencymanag depend manag groupid group artifactid artifact type classifi http maven guid introduct introduct depend mechan html depend scope field identifi identifi creat immut link depend groupid group group requir artifactid artifact artifact requir version version requir type depend type requir scope depend scope requir classifi depend classifi requir construct depend type scope groupid group group requir artifactid artifact artifact requir version version requir type depend type requir scope depend scope requir construct compil scope jar depend groupid group group requir artifactid artifact artifact requir version version requir construct compil scope jar depend option exclus groupid group group requir artifactid artifact artifact requir version version requir exclus exclus depend construct link depend maven style element depend pars requir test maven format pom attribut support maven pom attribut support maven pars exclus test ivi format todo implement exclus parser ivi format list exclus compar depend depend identifi coordin version depend depend compar requir link compar compareto compar object simpl descript consol output add exclus depend exclusiongroupid exclus group groupid group depend exclud requir exclusionartifactid exclus artifact artifactid artifact depend exclud requir return xml element depend document parent xml document element xml don jar xml don compil add exclus link depend maven coordin call link equal object compar field basic coordin depend depend check coordin 
+VARSIG19	element exclus 
+VARSIG1	artifactid artifact 
+VARSIG18	element depend 
+VARSIG0	groupid group 
+VARSIG17	collect depend exclus 
+VARSIG12	artifactid artifact 
+VARSIG11	groupid group 
+VARSIG10	dependencyscop depend scope scope 
+VARSIG16	version 
+VARSIG15	artifactid artifact 
+VARSIG14	groupid group 
+VARSIG13	version 
+MTHSIG17	comparecoordin compar coordin depend 
+MTHSIG18	getsimpledescript simpl descript 
+MTHSIG15	equal object obj 
+MTHSIG16	compareto compar depend 
+MTHSIG13	getexclus exclus 
+MTHSIG14	hashcod hash code 
+MTHSIG11	getclassifi classifi 
+MTHSIG12	getsystempath system path 
+MTHSIG19	tostr 
+MTHSIG10	getscop scope 
+VARIABLES	groupid group artifactid artifact version type scope classifi groupid group artifactid artifact version type scope groupid group artifactid artifact version groupid group artifactid artifact version exclus depend exclus obj exclusiongroupid exclus group exclusionartifactid exclus artifact document exclus depend groupid group artifactid artifact type classifi scope exclus version systempath system path versionel version element exclusionlist exclus list exclusion exclus exclusionid exclus exclusionartifact exclus artifact exclusionartifactid exclus artifact prime result result result tsc dependencyel depend element typeel type element exclusionsel exclus element exclusionel exclus element 

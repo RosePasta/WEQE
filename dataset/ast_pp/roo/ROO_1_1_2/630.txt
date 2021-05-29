@@ -1,0 +1,13 @@
+VARSIG3	stringbuilder builder currentoption current option
+VARSIG2	map
+VARSIG4	stringbuilder builder currentvalue current
+COMMENTS	utilities parsing converts buffer tokenized structure properly treats quotes option delimiters expects option names preceded single dash call option marker treats spaces option tokenizer token option marker considered returned map element empty key single remainingbuffer remaining buffer tokenize map option names dashes values option values quotes removed verify correct number quotes they exit store token interested token series store ended token series current token series ended start delimited token simply empty ignore roo start option marker strip store token token starts tokens store processing token started iteration store standard token standard token option unquoted spaces existing content add space store token token starts tokens store processing token started iteration store ordinary token store strip empty option returned roo option marker option marker verify isn
+CLASSES	parserutils parser utils
+VARSIG1	
+VARSIG0	remainingbuffer remaining buffer
+METHODS	parserutils parser utils tokenize store
+MTHSIG0	parserutils parser utils
+MTHSIG1	tokenize remainingbuffer remaining buffer
+PACKAGE	springframework roo shell
+MTHSIG2	store map stringbuilder builder currentoption current option stringbuilder builder currentvalue current
+VARIABLES	remainingbuffer remaining buffer currentoption current option currentvalue current result currentoption current option currentvalue current inquotes quotes count split currenttoken current token tokenlessdelimiters token delimiters tokenlessdelimiters token delimiters tokenlessdelimiters token delimiters lastindex tokenlessdelimiters token delimiters option

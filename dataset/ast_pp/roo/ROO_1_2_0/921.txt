@@ -1,0 +1,33 @@
+VARSIG7	groupid group
+VARSIG6	list execution expectedexecutions expected executions
+VARSIG9	version
+VARSIG8	artifactid artifact
+VARSIG3	expectedversion expected version
+VARSIG2	expectedartifactid expected artifact
+VARSIG5	list dependency expecteddependencies expected dependencies
+VARSIG4	configuration expectedconfiguration expected configuration
+COMMENTS	unit test link plugin constants expect groupid group asserts constructing link plugin xml rise properties xml xml construct link plugin expectedgroupid expected group expectedartifactid expected artifact expectedversion expected version expectedconfiguration expected configuration expecteddependencies expected dependencies expectedexecutions expected executions exception set invoke check invoke check set invoke check asserts link plugin expected values groupid group artifactid artifact version configuration dependencies executions actual set invoke check asserts plugin returns expected xml pom element plugin plugin check xml required document document create element required expectedxml expected xml expected xml element blank invoke check
+VARSIG1	expectedgroupid expected group
+VARSIG0	xml
+MTHSIG4	assertpluginfromxml plugin xml xml expectedgroupid expected group expectedartifactid expected artifact expectedversion expected version configuration expectedconfiguration expected configuration list dependency expecteddependencies expected dependencies list execution expectedexecutions expected executions
+VARSIG12	list execution executions
+MTHSIG5	testgroupartifactversionconstructor test group artifact version constructor
+VARSIG11	list dependency dependencies
+MTHSIG6	testfullconstructor test full constructor
+VARSIG10	configuration configuration
+MTHSIG7	assertpluginequals plugin equals groupid group artifactid artifact version configuration configuration list dependency dependencies list execution executions plugin actual
+MTHSIG0	testxmlelementconstructorwithartifactandversion test xml element constructor artifact version
+VARSIG16	expectedxml expected xml
+MTHSIG1	testxmlelementconstructorwithgroupartifactandversion test xml element constructor group artifact version
+VARSIG15	document document
+PACKAGE	springframework roo project
+MTHSIG2	testxmlelementconstructorwithonedependency test xml element constructor dependency
+VARSIG14	plugin plugin
+MTHSIG3	testxmlelementconstructorwithoneexecution test xml element constructor execution
+VARSIG13	plugin actual
+MTHSIG8	testgetelementforminimalplugin test element minimal plugin
+MTHSIG9	testgetelementformaximalplugin test element maximal plugin
+CLASSES	plugintest plugin test
+METHODS	testxmlelementconstructorwithartifactandversion test xml element constructor artifact version testxmlelementconstructorwithgroupartifactandversion test xml element constructor group artifact version testxmlelementconstructorwithonedependency test xml element constructor dependency testxmlelementconstructorwithoneexecution test xml element constructor execution assertpluginfromxml plugin xml testgroupartifactversionconstructor test group artifact version constructor testfullconstructor test full constructor assertpluginequals plugin equals testgetelementforminimalplugin test element minimal plugin testgetelementformaximalplugin test element maximal plugin assertelement element
+MTHSIG10	assertelement element plugin plugin document document expectedxml expected xml
+VARIABLES	xml expectedgroupid expected group expectedartifactid expected artifact expectedversion expected version expectedconfiguration expected configuration expecteddependencies expected dependencies expectedexecutions expected executions groupid group artifactid artifact version configuration dependencies executions actual plugin document expectedxml expected xml dependencies executions dependency artifact dependency group dependency version execution goal execution execution phase plugin artifact plugin group plugin version plugin xml plugin xml gav plugin xml dependency execution configuration xml plugin configuration xml plugin xml execution expecteddependency expected dependency executionconfiguration execution configuration execution pluginelement plugin element plugin plugin mockconfiguration mock configuration mockdependencies mock dependencies mockexecutions mock executions plugin mininal plugin xml dependency xml execution xml maximal plugin xml mockpluginconfiguration mock plugin configuration document mockdependency mock dependency dependencyelement dependency element mockexecution mock execution executionelement execution element plugin element

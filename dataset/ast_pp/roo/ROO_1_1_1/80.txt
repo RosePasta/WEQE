@@ -1,0 +1,16 @@
+VARSIG7	clioption cli option key findername finder mandatory finder generated finder list command javasymbolname symbol findername finder
+VARSIG6	clioption cli option key mandatory unspecifieddefaultvalue unspecified optioncontext option context update project controller entity finders generated javatype type typename type
+VARSIG3	requiredstring required
+VARSIG2	clioption cli option key filter mandatory comma separated list strings filter included filter
+VARSIG5	requiredstring required
+VARSIG4	finder
+COMMENTS	commands finder add roo shell
+CLASSES	findercommands finder commands
+VARSIG1	clioption cli option key depth mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue depth attribute combinations generated finders integer depth
+VARSIG0	clioption cli option key mandatory unspecifieddefaultvalue unspecified optioncontext option context update project controller entity finders generated javatype type typename type
+METHODS	isfindercommandavailable finder command listfinders list finders installfinders install finders
+MTHSIG0	isfindercommandavailable finder command
+MTHSIG1	listfinders list finders javatype type typename type integer depth filter
+PACKAGE	springframework roo addon finder
+MTHSIG2	installfinders install finders javatype type typename type javasymbolname symbol findername finder
+VARIABLES	typename type depth filter requiredstring required finder requiredstring required typename type findername finder finderoperations finder operations requiredentries required entries result include

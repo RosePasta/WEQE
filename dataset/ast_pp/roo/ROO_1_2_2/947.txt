@@ -1,0 +1,22 @@
+VARSIG3	
+VARSIG2	packagingprovider packaging provider mockpackagingprovider mock packaging provider
+VARSIG5	packagingprovider packaging provider provider
+VARSIG4	isdefault
+COMMENTS	unit test link packagingproviderconverter packaging provider converter fixture asserts can converted link packagingprovider packaging provider convert blank mocks object test set invoke check set invoke check
+CLASSES	packagingproviderconvertertest packaging provider converter test
+VARSIG1	nullpointerexception pointer exception expected
+VARSIG0	
+METHODS	assertinvalidstring invalid setup set setupmockpackagingprovider set mock packaging provider testconvertemptystring test convert empty testconvertnullstring test convert testconvertpartialstring test convert partial testconvertunknownstring test convert unknown testconvertvalidstring test convert valid testdoesnotsupportwrongtype test support wrong type testgetallpossiblevalues test values testsupportscorrecttype test supports correct type
+MTHSIG4	testconvertnullstring test convert
+MTHSIG5	testconvertpartialstring test convert partial
+MTHSIG6	testconvertunknownstring test convert unknown
+MTHSIG7	testconvertvalidstring test convert valid
+MTHSIG0	assertinvalidstring invalid
+MTHSIG1	setup set
+PACKAGE	springframework roo project packaging
+MTHSIG2	setupmockpackagingprovider set mock packaging provider packagingprovider packaging provider mockpackagingprovider mock packaging provider isdefault
+MTHSIG3	testconvertemptystring test convert empty
+MTHSIG10	testsupportscorrecttype test supports correct type
+VARIABLES	expected mockpackagingprovider mock packaging provider isdefault provider core jar core war custom jar converter mockcorejarpackaging mock core jar packaging mockcustomjarpackaging mock custom jar packaging mockpackagingproviderregistry mock packaging provider registry mockwarpackaging mock war packaging packagingprovider packaging provider providers expectedcompletions expected completions completions addspace add space
+MTHSIG8	testdoesnotsupportwrongtype test support wrong type
+MTHSIG9	testgetallpossiblevalues test values

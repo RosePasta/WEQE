@@ -1,0 +1,13 @@
+VARSIG3	clioption cli option kei bundlesymbolicnam bundl symbol mandatori bundl symbol addon interest bundlesymbolicnam bundl symbol bsn 
+VARSIG2	clioption cli option kei bundlesymbolicnam bundl symbol mandatori bundl symbol addon interest addonbundlesymbolicnam add bundl symbol bsn 
+COMMENTS	command add 
+CLASSES	addoncommand add command 
+VARSIG1	clioption cli option kei refresh mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu bundl symbol addon interest refresh 
+VARSIG0	clioption cli option kei bundlesymbolicnam bundl symbol mandatori bundl symbol addon interest addonbundlesymbolicnam add bundl symbol bsn 
+METHODS	info refresh instal remov 
+MTHSIG0	info addonbundlesymbolicnam add bundl symbol bsn 
+MTHSIG1	refresh refresh 
+PACKAGE	springframework roo addon roobot client 
+MTHSIG2	instal addonbundlesymbolicnam add bundl symbol bsn 
+MTHSIG3	remov bundlesymbolicnam bundl symbol bsn 
+VARIABLES	bsn refresh bsn bsn oper 

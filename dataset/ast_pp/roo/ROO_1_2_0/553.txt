@@ -1,0 +1,47 @@
+VARSIG7	constructormatcher constructor matcher constructortagger constructor tagger
+VARSIG6	methodmetadata metadata
+VARSIG9	typematcher type matcher typetagger type tagger
+VARSIG8	constructormetadata constructor metadata constructor
+VARSIG3	fieldmatcher field matcher fieldtagger field tagger
+VARSIG2	memberholdingtypedetails member holding type details memberholdingtypedetails member holding type details
+VARSIG5	methodmatcher matcher methodtagger tagger
+VARSIG4	fieldmetadata field metadata field
+COMMENTS	implementation link customdatakeydecorator custom data key decorator fields locate requests add custom data identifiable structures returns plural term inflector attention rooplural roo plural account getplural plural term term pluralized locale locale pluralized term inflector failed roo don pluralize don reference osgi unload
+VARSIG19	matcher customdataaccessor custom data accessor matcher
+VARSIG1	memberdetails member details memberdetails member details
+VARSIG18	addingclass adding
+VARSIG0	requestingclass requesting
+VARSIG17	runtimeexception runtime exception
+MTHSIG4	registermatchers register matchers addingclass adding matcher customdataaccessor custom data accessor matchers
+VARSIG12	memberdetails member details memberdetails member details
+MTHSIG5	unregistermatchers unregister matchers addingclass adding
+VARSIG11	requestingclass requesting
+MTHSIG6	unregistermatchers unregister matchers addingclass adding
+VARSIG10	memberholdingtypedetails member holding type details typedetails type details
+MTHSIG7	getmethodtaggers taggers
+MTHSIG0	decorate requestingclass requesting memberdetails member details memberdetails member details
+VARSIG16	locale locale
+MTHSIG1	decoratetypes decorate types requestingclass requesting memberdetails member details memberdetails member details
+VARSIG15	term
+PACKAGE	springframework roo classpath customdata taggers
+MTHSIG2	getinflectorplural inflector plural term locale locale
+VARSIG14	memberholdingtypedetails member holding type details typedetails type details
+MTHSIG3	registermatcher register matcher addingclass adding matcher customdataaccessor custom data accessor matcher
+VARSIG13	typematcher type matcher typetagger type tagger
+MTHSIG8	getfieldtaggers field taggers
+VARSIG30	matcher customdataaccessor custom data accessor matcher
+MTHSIG9	getconstructortaggers constructor taggers
+CLASSES	customdatakeydecoratorimpl custom data key decorator impl
+VARSIG29	matcher customdataaccessor custom data accessor matcher
+VARSIG28	matcher customdataaccessor custom data accessor matcher
+METHODS	decorate decoratetypes decorate types getinflectorplural inflector plural registermatcher register matcher registermatchers register matchers unregistermatchers unregister matchers unregistermatchers unregister matchers getmethodtaggers taggers getfieldtaggers field taggers getconstructortaggers constructor taggers gettypetaggers type taggers
+VARSIG23	addingclass adding
+VARSIG22	matcher customdataaccessor custom data accessor matcher
+VARSIG21	matcher customdataaccessor custom data accessor matchers
+VARSIG20	addingclass adding
+VARSIG27	matcher customdataaccessor custom data accessor matcher
+VARSIG26	addingclass adding
+VARSIG25	taggerkey tagger key
+VARSIG24	taggerkey tagger key
+MTHSIG10	gettypetaggers type taggers
+VARIABLES	requestingclass requesting memberdetails member details memberholdingtypedetails member holding type details fieldtagger field tagger field methodtagger tagger constructortagger constructor tagger constructor typetagger type tagger typedetails type details requestingclass requesting memberdetails member details typetagger type tagger typedetails type details term locale addingclass adding matcher addingclass adding matchers matcher addingclass adding taggerkey tagger key taggerkey tagger key addingclass adding matcher matcher matcher matcher taggermap tagger map pluralmap plural map memberdetailsbuilder member details builder memberdetailsbuilder member details builder toremove remove methodtaggers taggers fieldtaggers field taggers constructortaggers constructor taggers typetaggers type taggers

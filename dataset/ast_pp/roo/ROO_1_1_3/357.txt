@@ -1,0 +1,24 @@
+VARSIG7	element body
+VARSIG6	foldername folder
+VARSIG9	ioexception exception ioe
+VARSIG8	ioexception exception ignoreandjustoverwriteit ignore overwrite
+VARSIG3	viewlocation view location
+VARSIG2	tilestemplatename tiles template
+VARSIG5	foldername folder
+VARSIG4	
+COMMENTS	operations manage tiles view definitions springframework roo addon mvc jsp tilesoperationsi tiles operations addviewdefinition add view definition lang lang lang lang definition exist springframework roo addon mvc jsp tilesoperationsi tiles operations removeviewdefinition remove view definition lang find menu item category exists springframework roo addon mvc jsp tilesoperationsi tiles operations writetodiskifnecessary write disk build representation jsp mutablefile mutable file write contents jspcontent jsp content file verify file changed write file file existing file contents wrote file file existed contained content behaviour
+CLASSES	tilesoperationsimpl tiles operations impl
+VARSIG1	tilesviewname tiles view
+VARSIG0	foldername folder
+METHODS	addviewdefinition add view definition removeviewdefinition remove view definition writetodiskifnecessary write disk getrootelement root element
+VARSIG12	ioexception exception ioe
+VARSIG11	saxexception sax exception
+VARSIG10	foldername folder
+MTHSIG0	addviewdefinition add view definition foldername folder tilesviewname tiles view tilestemplatename tiles template viewlocation view location
+MTHSIG1	removeviewdefinition remove view definition foldername folder
+PACKAGE	springframework roo addon web mvc jsp tiles
+MTHSIG2	writetodiskifnecessary write disk foldername folder element body
+VARSIG14	systemid system
+MTHSIG3	getrootelement root element foldername folder
+VARSIG13	publicid
+VARIABLES	foldername folder tilesviewname tiles view tilestemplatename tiles template viewlocation view location foldername folder foldername folder body ignoreandjustoverwriteit ignore overwrite ioe foldername folder ioe publicid systemid system filemanager file manager projectoperations project operations root definition putattribute attribute root element bytearrayoutputstream array output stream transformer viewcontent view content tilesdefinition tiles definition mutablefile mutable file existing tilesview tiles view viewfile view file builder

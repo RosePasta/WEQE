@@ -1,0 +1,33 @@
+VARSIG7	javasymbolname symbol constantname constant
+VARSIG6	physicaltypeidentifier physical type identifier
+VARSIG9	annotationmetadata annotation metadata annotation
+VARSIG8	fieldmetadata field metadata fieldmetadata field metadata
+VARSIG3	javatype type superclass
+VARSIG2	physicaltypeidentifier physical type identifier
+VARSIG5	classorinterfacetypedetails type details details
+VARSIG4	javatype type requiredclassorinterface required
+COMMENTS	convenience methods create source code install jsr validation api required determine canonical filename check file doesn exist compute physical location physical type mutable details ensure physical type mutable details automatically add jsr bean validation api support current jsr support jsr annotation version represents version user user dependency list verify requested entity exists file exists verify requested entity exists check requested entity jpa entity proceed file exists entity entity lookup required type details exception parsed
+VARSIG1	path path
+VARSIG0	javatype type javatype type
+MTHSIG4	getphysicallocationcanonicalpath physical location canonical path physicaltypeidentifier physical type identifier
+VARSIG12	javatype type
+MTHSIG5	getsuperclass superclass javatype type superclass
+VARSIG11	javatype type entity
+MTHSIG6	getclassorinterface javatype type requiredclassorinterface required
+VARSIG10	javatype type entity
+MTHSIG7	generateclassfile generate file classorinterfacetypedetails type details details
+MTHSIG0	getpathresolver path resolver
+MTHSIG1	isprojectavailable project
+PACKAGE	springframework roo classpath operations
+MTHSIG2	ispersistentclassavailable persistent
+VARSIG14	javatype type entity
+MTHSIG3	getphysicallocationcanonicalpath physical location canonical path javatype type javatype type path path
+VARSIG13	path path
+MTHSIG8	addenumconstant add constant physicaltypeidentifier physical type identifier javasymbolname symbol constantname constant
+MTHSIG9	addfield add field fieldmetadata field metadata fieldmetadata field metadata
+MTHSIG11	newdod dod javatype type entity javatype type path path
+MTHSIG12	getentity entity javatype type entity
+CLASSES	classpathoperationsimpl classpath operations impl
+METHODS	getpathresolver path resolver isprojectavailable project ispersistentclassavailable persistent getphysicallocationcanonicalpath physical location canonical path getphysicallocationcanonicalpath physical location canonical path getsuperclass superclass getclassorinterface generateclassfile generate file addenumconstant add constant addfield add field newintegrationtest integration test newdod dod getentity entity
+MTHSIG10	newintegrationtest integration test javatype type entity
+VARIABLES	javatype type path physicaltypeidentifier physical type identifier superclass requiredclassorinterface required details physicaltypeidentifier physical type identifier constantname constant fieldmetadata field metadata annotation entity entity path entity projectoperations project operations physicaltypemetadataprovider physical type metadata provider metadataservice metadata service filemanager file manager memberdetailsscanner member details scanner projectmetadata project metadata pathresolver path resolver relativepath relative path physicallocationcanonicalpath physical location canonical path pathresolver path resolver javatype type path relativepath relative path physicallocationcanonicalpath physical location canonical path superclassmetadataid superclass metadata superclassmetadata superclass metadata superclassphysicaldetails superclass physical details physicallocationcanonicalpath physical location canonical path tocreate create ptm ptd mutabletypedetails mutable type details ptm ptd mutabletypedetails mutable type details jsr required jsr required classorinterfacetypedetails type details declaredbymetadataid declared metadata annotations config methods methodannotations annotations methodbuilder builder typedetailsbuilder type details builder classorinterfacetypedetails type details memberdetails member details entityannotation entity annotation declaredbymetadataid declared metadata annotations dodconfig dod config typedetailsbuilder type details builder physicaltypeidentifier physical type identifier ptm ptd

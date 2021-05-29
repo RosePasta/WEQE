@@ -1,0 +1,9 @@
+MTHSIG0	setup set
+MTHSIG1	testgettypefromstringwhenfilecontainsnotypes test type file types
+PACKAGE	springframework roo classpath javaparser
+MTHSIG2	testgettypefromstringwhenfilecontainsnosuchtype test type file type
+MTHSIG3	testgettypefromstringwhenfilecontainsthattype test type file type
+COMMENTS	unit test link javaparsertypeparsingservice parser type parsing service constants fixture set invoke check set invoke check set invoke check
+CLASSES	javaparsertypeparsingservicetest parser type parsing service test
+VARIABLES	declared mid empty file typeparsingservice type parsing service mockmetadataservice mock metadata service mocktypelocationservice mock type location service mocktargettype mock target type locatedtype located type source file mocktargettype mock target type locatedtype located type mocktargettype mock target type mocktypedeclaration mock type declaration mockclassorinterfacetypedetails mock type details mockbuilder mock builder locatedtype located type
+METHODS	setup set testgettypefromstringwhenfilecontainsnotypes test type file types testgettypefromstringwhenfilecontainsnosuchtype test type file type testgettypefromstringwhenfilecontainsthattype test type file type

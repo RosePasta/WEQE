@@ -1,0 +1,14 @@
+COMMENTS	unit test link mavenoperationsimpl maven operations impl constants fixture mocks object test set dependency remove invoke check set invoke check set invoke check set invoke check
+CLASSES	mavenoperationsimpltest maven operations impl test
+VARSIG1	modulenames module names
+VARSIG0	expectedresult expected result
+METHODS	setup set testremovedependencytwicewhenitexistsonce test remove dependency exists testgetfocusedmodulewhennomodulesexist test focused module modules exist testgetfocusedmodulewhenchildmodulehasfocus test focused module child module focus testcannotfocusmodulewhenoneorlessmodulesexist test focus module modules exist testcannotfocusmodulewhenmorethanonemoduleexists test focus module module exists assertmodulefocusallowed module focus allowed
+MTHSIG4	testcannotfocusmodulewhenoneorlessmodulesexist test focus module modules exist
+MTHSIG5	testcannotfocusmodulewhenmorethanonemoduleexists test focus module module exists
+MTHSIG6	assertmodulefocusallowed module focus allowed expectedresult expected result modulenames module names
+MTHSIG0	setup set
+MTHSIG1	testremovedependencytwicewhenitexistsonce test remove dependency exists
+PACKAGE	springframework roo project
+MTHSIG2	testgetfocusedmodulewhennomodulesexist test focused module modules exist
+MTHSIG3	testgetfocusedmodulewhenchildmodulehasfocus test focused module child module focus
+VARIABLES	expectedresult expected result modulenames module names artifact classifier group pom path simple description version projectoperations project operations mockfilemanager mock file manager mockmetadataservice mock metadata service mockpathresolver mock path resolver mockpommanagementservice mock pom management service mockprojectmetadata mock project metadata pom dependency removed pom dependency removed mockdependency mock dependency pom dependencies expectedpom expected pom mockchildpom mock child pom mockchildmetadata mock child metadata

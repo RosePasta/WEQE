@@ -1,0 +1,32 @@
+VARSIG7	set includetables include tables
+VARSIG6	view
+VARSIG9	exception
+VARSIG8	set excludetables exclude tables
+VARSIG3	exception
+VARSIG2	displayaddons display add ons
+VARSIG5	schema schema
+VARSIG4	exception
+COMMENTS	implementation link dbremodelservice dbre model service required properties ignore elements
+VARSIG1	exception
+VARSIG0	displayaddons display add ons
+MTHSIG4	getdbrexmlpath dbre xml path
+VARSIG12	displayonly display
+MTHSIG5	refreshdatabase refresh database schema schema view set includetables include tables set excludetables exclude tables
+VARSIG11	outputstream output stream outputstream output stream
+MTHSIG6	serializedatabase serialize database database database outputstream output stream outputstream output stream displayonly display
+VARSIG10	database database
+MTHSIG7	cachedatabase cache database database database
+MTHSIG0	supportsschema supports schema displayaddons display add ons
+VARSIG16	element propertyelement property element
+MTHSIG1	getschemas schemas displayaddons display add ons
+VARSIG15	exception
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	getdatabasefromcache database cache
+VARSIG14	displayaddons display add ons
+MTHSIG3	getdatabase database
+VARSIG13	database database
+MTHSIG8	getconnection connection displayaddons display add ons
+MTHSIG9	getconnectionpropertiesfromdatanucleusconfiguration connection properties data nucleus configuration
+CLASSES	dbremodelserviceimpl dbre model service impl
+METHODS	supportsschema supports schema getschemas schemas getdatabasefromcache database cache getdatabase database getdbrexmlpath dbre xml path refreshdatabase refresh database serializedatabase serialize database cachedatabase cache database getconnection connection getconnectionpropertiesfromdatanucleusconfiguration connection properties data nucleus configuration
+VARIABLES	displayaddons display add ons displayaddons display add ons schema view includetables include tables excludetables exclude tables database outputstream output stream displayonly display database displayaddons display add ons propertyelement property element connectionprovider connection provider filemanager file manager projectoperations project operations propfileoperations prop file operations lastschema schema cachedintrospections cached introspections connection databasemetadata database meta data schematerm schema term connection introspector dbrexmlpath dbre xml path filedetails file details inputstream input stream database connection introspector database connectionproperties connection properties connectionproperties connection properties persistencexmlpath persistence xml path filedetails file details document builder propertyelements property elements properties key

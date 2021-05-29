@@ -1,0 +1,19 @@
+VARSIG7	embeddedprovider embedded provider provider
+VARSIG6	embeddedprovider embedded provider provider
+VARSIG3	viewname view
+VARSIG2	embeddedprovider embedded provider provider
+VARSIG5	embeddedprovider embedded provider provider
+VARSIG4	map options
+COMMENTS	implementation operations roo shell
+CLASSES	embeddedoperationsimpl embedded operations impl
+VARSIG1	viewname view
+VARSIG0	url
+METHODS	iscommandavailable command embed install getembeddedproviders embedded providers bindembeddedprovider bind embedded provider unbindembeddedprovider unbind embedded provider
+MTHSIG4	bindembeddedprovider bind embedded provider embeddedprovider embedded provider provider
+MTHSIG5	unbindembeddedprovider unbind embedded provider embeddedprovider embedded provider provider
+MTHSIG0	iscommandavailable command
+MTHSIG1	embed url viewname view
+PACKAGE	springframework roo addon web mvc embedded
+MTHSIG2	install viewname view map options
+MTHSIG3	getembeddedproviders embedded providers
+VARIABLES	url viewname view provider viewname view options provider provider provider logger metadataservice metadata service mutex providers

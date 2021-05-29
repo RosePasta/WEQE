@@ -1,0 +1,19 @@
+VARSIG7	file dir 
+VARSIG6	zipoutputstream zip output stream zo 
+VARSIG8	 
+VARSIG3	ioexcept except 
+VARSIG2	filenotfoundexcept file except 
+VARSIG5	file base 
+VARSIG4	file directori 
+COMMENTS	oper backup add window format legal form filenam roo don directori target base skip exist backup file skip file start 
+CLASSES	backupoper backup oper 
+VARSIG1	filemanag file manag filemanag file manag 
+VARSIG0	metadataservic metadata servic metadataservic metadata servic 
+METHODS	backupoper backup oper isbackupavail backup backup zip getpathresolv path resolv 
+MTHSIG4	getpathresolv path resolv 
+MTHSIG0	backupoper backup oper metadataservic metadata servic metadataservic metadata servic filemanag file manag filemanag file manag 
+MTHSIG1	isbackupavail backup 
+PACKAGE	springframework roo addon backup 
+MTHSIG2	backup 
+MTHSIG3	zip file directori file base zipoutputstream zip output stream zo 
+VARIABLES	metadataservic metadata servic filemanag file manag directori base zo dir metadataservic metadata servic filemanag file manag logger projectmetadata project metadata start projectdirectori project directori file zo millisecond file buffer read direntri dir entri entri projectmetadata project metadata 

@@ -1,0 +1,14 @@
+VARSIG2	fetch 
+COMMENTS	fetch type option set relationship 
+CLASSES	fetch 
+VARSIG1	object obj 
+VARSIG0	kei 
+METHODS	fetch getkei kei hashcod hash code equal compareto compar tostr 
+MTHSIG4	compareto compar fetch 
+MTHSIG5	tostr 
+MTHSIG0	fetch kei 
+MTHSIG1	getkei kei 
+PACKAGE	springframework roo classpath oper 
+MTHSIG2	hashcod hash code 
+MTHSIG3	equal object obj 
+VARIABLES	kei obj kei eager lazi tsc 

@@ -1,0 +1,49 @@
+MTHSIG4	getphysicallocationcanonicalpath physical location canonical path physicaltypeidentifier physical type identifier
+MTHSIG5	getclassorinterface javatype type requiredclassorinterface required
+MTHSIG6	findclassorinterface find javatype type requiredclassorinterface required
+MTHSIG7	processtypeswithtag process types tag object tag locatedtypecallback located type callback callback
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo classpath
+MTHSIG2	notify upstreamdependency upstream dependency downstreamdependency downstream dependency
+MTHSIG3	getphysicallocationcanonicalpath physical location canonical path javatype type javatype type path path
+MTHSIG8	processtypeswithannotation process types annotation list javatype type annotationstodetect annotations detect locatedtypecallback located type callback callback
+MTHSIG9	findtypeswithannotation find types annotation list javatype type annotationstodetect annotations detect
+CLASSES	typelocationserviceimpl type location service impl
+VARSIG28	runtimeexception runtime exception
+METHODS	activate deactivate notify getphysicallocationcanonicalpath physical location canonical path getphysicallocationcanonicalpath physical location canonical path getclassorinterface findclassorinterface find processtypeswithtag process types tag processtypeswithannotation process types annotation findtypeswithannotation find types annotation findtypeswithannotation find types annotation findclassesorinterfacedetailswithannotation find classes details annotation findclassesorinterfacedetailswithtag find classes details tag getclassorinterfacetypedetails type details getprojectjavatypes project types
+VARSIG23	object tag
+VARSIG22	classorinterfacetypedetails type details located
+VARSIG21	javatype type annotationstodetect annotations detect
+VARSIG20	javatype type annotationstodetect annotations detect
+VARSIG27	filedetails file details file
+VARSIG26	path path
+VARSIG25	physicaltypemid physical type mid
+VARSIG24	classorinterfacetypedetails type details located
+VARSIG7	javatype type requiredclassorinterface required
+VARSIG6	physicaltypeidentifier physical type identifier
+VARSIG9	object tag
+VARSIG8	javatype type requiredclassorinterface required
+VARSIG3	downstreamdependency downstream dependency
+VARSIG2	upstreamdependency upstream dependency
+VARSIG5	path path
+VARSIG4	javatype type javatype type
+COMMENTS	implementation link typelocationservice type location service performance reasons automatically caches queries invalidating cache link physicaltypemetadata physical type metadata notification received change drop cache store cache store cache ditch roo let work path
+VARSIG19	classorinterfacetypedetails type details located
+VARSIG1	componentcontext component context context
+VARSIG18	list javatype type annotationstodetect annotations detect
+VARSIG0	componentcontext component context context
+VARSIG17	locatedphysicaltypemid located physical type mid
+VARSIG12	locatedphysicaltypemid located physical type mid
+VARSIG11	classorinterfacetypedetails type details cid
+VARSIG10	locatedtypecallback located type callback callback
+VARSIG16	javatype type annotation
+VARSIG15	classorinterfacetypedetails type details cid
+VARSIG14	locatedtypecallback located type callback callback
+VARSIG13	list javatype type annotationstodetect annotations detect
+MTHSIG13	getclassorinterfacetypedetails type details physicaltypemid physical type mid
+MTHSIG14	getprojectjavatypes project types path path
+MTHSIG11	findclassesorinterfacedetailswithannotation find classes details annotation javatype type annotationstodetect annotations detect
+MTHSIG12	findclassesorinterfacedetailswithtag find classes details tag object tag
+MTHSIG10	findtypeswithannotation find types annotation javatype type annotationstodetect annotations detect
+VARIABLES	context context upstreamdependency upstream dependency downstreamdependency downstream dependency javatype type path physicaltypeidentifier physical type identifier requiredclassorinterface required requiredclassorinterface required tag callback cid locatedphysicaltypemid located physical type mid annotationstodetect annotations detect callback cid annotation locatedphysicaltypemid located physical type mid annotationstodetect annotations detect located annotationstodetect annotations detect annotationstodetect annotations detect located tag located physicaltypemid physical type mid path file filemanager file manager dependencyregistry dependency registry metadataservice metadata service physicaltypemetadataprovider physical type metadata provider projectoperations project operations memberdetailsscanner member details scanner cache tagbasedcache tag based cache relativepath relative path javatype type path relativepath relative path metadataidentificationstring metadata identification physicaltypemetadata physical type metadata physicaltypedetails physical type details metadataidentificationstring metadata identification physicaltypemetadata physical type metadata physicaltypedetails physical type details locatedphysicaltypemids located physical type mids memberdetails member details located locatedphysicaltypemids located physical type mids located types types types physicaltypemetadata physical type metadata pathresolver path resolver srcroot src root projecttypes project types fullpath full path javatype type locatedpath located path physicaltypemid physical type mid located

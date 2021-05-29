@@ -1,0 +1,34 @@
+VARSIG7	viewname view
+VARSIG6	path
+VARSIG9	category
+VARSIG8	title
+VARSIG3	logicalpath logical path webapppath webapp path
+VARSIG2	preferredmapping preferred mapping
+VARSIG5	logicalpath logical path webapppath webapp path
+VARSIG4	language
+COMMENTS	operations create view layer resources installs common view artifacts needed mvc scaffolding focused module installs common view artifacts needed mvc scaffolding module modulename module module install artifacts empty root module creates spring mvc controller request mappings assigned commence installs additional languages web mvc app language language webapppath webapp path creates spring mvc view path view create required foo title title view required category menu category required viewname view mapping view adopt required webapppath webapp path installs spring mvc view path view create required foo viewname view mapping view adopt required title title view required category menu category required document jspx document view webapppath webapp path replaces existing tag library latest version set backup flag backup application backup wether application backed prior replacing tagx library webapppath webapp path
+VARSIG1	javatype type controller
+VARSIG18	logicalpath logical path webapppath webapp path
+VARSIG0	modulename module
+VARSIG17	backup
+MTHSIG4	installcommonviewartefacts install common view artefacts modulename module
+VARSIG12	viewname view
+MTHSIG5	createmanualcontroller create manual controller javatype type controller preferredmapping preferred mapping logicalpath logical path webapppath webapp path
+VARSIG11	path
+MTHSIG6	installi install language logicalpath logical path webapppath webapp path
+VARSIG10	logicalpath logical path webapppath webapp path
+MTHSIG7	installview install view path viewname view title category logicalpath logical path webapppath webapp path
+MTHSIG0	ismvcinstallationpossible mvc installation
+VARSIG16	logicalpath logical path webapppath webapp path
+MTHSIG1	iscontrolleravailable controller
+VARSIG15	document document
+PACKAGE	springframework roo addon web mvc jsp
+MTHSIG2	isinstalllanguagecommandavailable install language command
+VARSIG14	category
+MTHSIG3	installcommonviewartefacts install common view artefacts
+VARSIG13	title
+MTHSIG8	installview install view path viewname view title category document document logicalpath logical path webapppath webapp path
+MTHSIG9	updatetags update tags backup logicalpath logical path webapppath webapp path
+CLASSES	jspoperations jsp operations
+METHODS	ismvcinstallationpossible mvc installation iscontrolleravailable controller isinstalllanguagecommandavailable install language command installcommonviewartefacts install common view artefacts installcommonviewartefacts install common view artefacts createmanualcontroller create manual controller installi install installview install view installview install view updatetags update tags
+VARIABLES	modulename module controller preferredmapping preferred mapping webapppath webapp path language webapppath webapp path path viewname view title category webapppath webapp path path viewname view title category document webapppath webapp path backup webapppath webapp path

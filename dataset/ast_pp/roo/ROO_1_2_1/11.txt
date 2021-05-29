@@ -1,0 +1,43 @@
+VARSIG7	invalidkeyspecexception invalid key spec exception
+VARSIG6	opmode
+VARSIG9	nosuchalgorithmexception algorithm exception
+VARSIG8	nosuchpaddingexception padding exception
+VARSIG3	generalsecurityexception general security exception
+VARSIG2	opmode
+VARSIG5	encodedentry encoded entry
+VARSIG4	encodedentries encoded entries
+COMMENTS	user user cloud preferences pipe constructor preferencesservice preferences service service load preferences required clears stored link cloudcredentials cloud credentials encrypts decrypts input opmode input bytes operate required opmode operation perform link cipher suitable constants array decodes encoded decrypted preferences set link cloudcredentials cloud credentials encodedentries encoded entries encoded convert blank set flushes preferences persistent store preferences flush returns stored link cloudcredentials cloud credentials set returns stored credentials url url url match list empty url returns email addresses stored credentials list duplicates returns email addresses stored credentials url cloudcontrollerurl cloud controller url url match blank list duplicates empty url blank returns stored password url email address cloudcontrollerurl cloud controller url email isn returns urls stored credentials list duplicates stores credentials stored newcredentials credentials credentials store required valid credentials write existing valid write
+VARSIG19	email
+VARSIG1	input
+VARSIG18	cloudcontrollerurl cloud controller url
+VARSIG0	preferencesservice preferences service preferencesservice preferences service
+VARSIG17	cloudcredentials cloud credentials storedcredentials stored credentials
+MTHSIG4	flush
+VARSIG12	unsupportedencodingexception unsupported encoding exception
+MTHSIG5	getcipher cipher opmode
+VARSIG11	unsupportedencodingexception unsupported encoding exception
+MTHSIG6	getstoredcredentials stored credentials
+VARSIG10	invalidkeyexception invalid key exception
+MTHSIG7	getstoredcredentialsforurl stored credentials url url
+MTHSIG0	cloudpreferences cloud preferences preferencesservice preferences service preferencesservice preferences service
+VARSIG16	cloudcontrollerurl cloud controller url
+MTHSIG1	clearstoredlogindetails clear stored login details
+VARSIG15	cloudcredentials cloud credentials storedcredentials stored credentials
+PACKAGE	springframework roo addon cloud foundry
+MTHSIG2	crypt input opmode
+VARSIG14	cloudcredentials cloud credentials cloudcredentials cloud credentials
+MTHSIG3	decodeloginprefentries decode login pref entries encodedentries encoded entries
+VARSIG13	url
+MTHSIG8	getstoredemails stored emails
+MTHSIG9	getstoredemails stored emails cloudcontrollerurl cloud controller url
+MTHSIG11	getstoredurls stored urls
+MTHSIG12	storecredentials store credentials cloudcredentials cloud credentials newcredentials credentials
+CLASSES	cloudpreferences cloud preferences
+METHODS	cloudpreferences cloud preferences clearstoredlogindetails clear stored login details crypt decodeloginprefentries decode login pref entries flush getcipher cipher getstoredcredentials stored credentials getstoredcredentialsforurl stored credentials url getstoredemails stored emails getstoredemails stored emails getstoredpassword stored password getstoredurls stored urls storecredentials store credentials
+VARSIG23	cloudcredentials cloud credentials storedcredentials stored credentials
+VARSIG22	cloudcredentials cloud credentials newcredentials credentials
+VARSIG21	cloudcredentials cloud credentials storedcredentials stored credentials
+VARSIG20	cloudcredentials cloud credentials storedcredential stored credential
+VARSIG24	unsupportedencodingexception unsupported encoding exception
+MTHSIG10	getstoredpassword stored password cloudcontrollerurl cloud controller url email
+VARIABLES	preferencesservice preferences service input opmode encodedentries encoded entries encodedentry encoded entry opmode url cloudcredentials cloud credentials storedcredentials stored credentials cloudcontrollerurl cloud controller url storedcredentials stored credentials cloudcontrollerurl cloud controller url email storedcredential stored credential storedcredentials stored credentials newcredentials credentials storedcredentials stored credentials charset cloud foundry key delimiter delimiter regex roo key preferences cipher set keyspec key spec keyfactory key factory skey cipher encodedprefs encoded prefs decryptedprefs decrypted prefs matches storedemails stored emails storedemails stored emails storedurls stored urls entries encodedentries encoded entries encryptedentries encrypted entries

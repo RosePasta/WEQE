@@ -1,0 +1,92 @@
+MTHSIG28	updatedependencies update dependencies element configuration jsfimplementation jsf implementation jsfimplementation jsf implementation jsflibrary jsf library jsflibrary jsf library
+MTHSIG29	updaterepositories update repositories element configuration jsfimplementation jsf implementation jsfimplementation jsf implementation jsflibrary jsf library jsflibrary jsf library
+MTHSIG26	setup jsfimplementation jsf implementation jsfimplementation jsf implementation jsflibrary jsf library jsflibrary jsf library theme theme
+MTHSIG27	updateconfiguration update configuration jsfimplementation jsf implementation jsfimplementation jsf implementation jsflibrary jsf library jsflibrary jsf library
+MTHSIG24	isjsfinstallationpossible jsf installation
+MTHSIG25	isscaffoldormediaadditionavailable scaffold media addition
+MTHSIG22	installi install javapackage destinationpackage destination
+MTHSIG23	isinstalledinmodule installed module modulename module
+VARSIG39	javapackage destinationpackage destination
+MTHSIG4	createconverter create converter javapackage javapackage javatype type entity
+VARSIG34	templatename template
+MTHSIG5	createmanagedbean create managed bean javatype type managedbean managed bean javatype type entity beanname bean includeonmenu include menu
+VARSIG33	jsflibrary jsf library jsflibrary jsf library
+MTHSIG6	createorupdatewebxml create update web xml jsfimplementation jsf implementation jsfimplementation jsf implementation theme theme
+VARSIG32	jsfimplementation jsf implementation jsfimplementation jsf implementation
+MTHSIG7	generateall generate javapackage destinationpackage destination
+VARSIG31	list jsflibrary jsf library jsflibraries jsf libraries
+MTHSIG0	addmediasuurce add media suurce url mediaplayer media player mediaplayer media player
+VARSIG38	ioexception exception
+MTHSIG1	addorremovelistener add remove listener jsfimplementation jsf implementation jsfimplementation jsf implementation document document
+VARSIG37	javapackage destinationpackage destination
+PACKAGE	springframework roo addon jsf
+MTHSIG2	changeprimefacestheme change prime faces theme theme theme document document
+VARSIG36	ioexception exception
+MTHSIG3	copyentitytypepage copy entity type javatype type entity beanname bean plural
+VARSIG35	javapackage destinationpackage destination
+MTHSIG20	installbean install bean templatename template javapackage destinationpackage destination
+MTHSIG21	installfacesconfig install faces config javapackage destinationpackage destination
+MTHSIG8	generatemanagedbeans generate managed beans javapackage destinationpackage destination
+VARSIG30	list jsfimplementation jsf implementation jsfimplementations jsf implementations
+MTHSIG9	getdependencies dependencies xpathexpression path expression element configuration
+CLASSES	jsfoperationsimpl jsf operations impl
+VARSIG29	jsflibrary jsf library
+VARSIG28	element configuration
+METHODS	addmediasuurce add media suurce addorremovelistener add remove listener changeprimefacestheme change prime faces theme copyentitytypepage copy entity type createconverter create converter createmanagedbean create managed bean createorupdatewebxml create update web xml generateall generate generatemanagedbeans generate managed beans getdependencies dependencies getexistingordefaultjsfimplementation existing jsf implementation getexistingordefaultjsflibrary existing jsf library getfacesconfigfile faces config file getjsfimplementationxpath jsf implementation path getjsflibraryxpath jsf library path getname getunwantedjsfimplementations unwanted jsf implementations getunwantedjsflibraries unwanted jsf libraries getwebxmlfile web xml file hasfacesconfig faces config installbean install bean installfacesconfig install faces config installi install isinstalledinmodule installed module isjsfinstallationpossible jsf installation isscaffoldormediaadditionavailable scaffold media addition setup updateconfiguration update configuration updatedependencies update dependencies updaterepositories update repositories
+VARSIG23	xpathexpression path expression
+VARSIG22	classorinterfacetypedetails type details cid
+VARSIG21	javapackage destinationpackage destination
+VARSIG20	javapackage destinationpackage destination
+VARSIG27	jsfimplementation jsf implementation
+VARSIG26	element configuration
+VARSIG25	element dependencyelement dependency element
+VARSIG24	element configuration
+VARSIG7	document document
+VARSIG6	theme theme
+VARSIG9	beanname bean
+VARSIG8	javatype type entity
+VARSIG3	mediatype media type
+VARSIG2	mediaplayer media player
+VARSIG5	document document
+VARSIG4	jsfimplementation jsf implementation jsfimplementation jsf implementation
+COMMENTS	implementation link jsfoperations jsf operations add theme pom update web xml primefaces theme content create type annotation converter type exists create type annotation managed bean create javax faces convert converter entity create jsf managed bean entity check persistent type jsf metadata listening jsf managed bean entity listening managed bean add update pom xml jsf primefaces dependencies repositories jsf implementation user query pom determine existing jsf dependency oracle mojarra jsf component libraru user query pom determine existing jsf dependency primefaces prime faces remove redundant dependencies don remove update pom
+VARSIG19	theme theme
+VARSIG1	mediaplayer media player mediaplayer media player
+VARSIG18	jsfimplementation jsf implementation jsfimplementation jsf implementation
+VARSIG0	url
+VARSIG17	includeonmenu include menu
+VARSIG12	javapackage javapackage
+VARSIG56	element repositoryelement repository element
+VARSIG11	ioexception exception
+VARSIG55	element repositoryelement repository element
+VARSIG10	plural
+VARSIG54	jsflibrary jsf library jsflibrary jsf library
+VARSIG53	jsfimplementation jsf implementation jsfimplementation jsf implementation
+VARSIG16	beanname bean
+VARSIG15	javatype type entity
+VARSIG14	javatype type managedbean managed bean
+VARSIG13	javatype type entity
+VARSIG52	element configuration
+VARSIG51	element dependencyelement dependency element
+VARSIG50	element dependencyelement dependency element
+MTHSIG17	getunwantedjsflibraries unwanted jsf libraries jsflibrary jsf library jsflibrary jsf library
+MTHSIG18	getwebxmlfile web xml file
+MTHSIG15	getname
+MTHSIG16	getunwantedjsfimplementations unwanted jsf implementations jsfimplementation jsf implementation jsfimplementation jsf implementation
+MTHSIG13	getjsfimplementationxpath jsf implementation path list jsfimplementation jsf implementation jsfimplementations jsf implementations
+MTHSIG14	getjsflibraryxpath jsf library path list jsflibrary jsf library jsflibraries jsf libraries
+MTHSIG11	getexistingordefaultjsflibrary existing jsf library element configuration
+MTHSIG12	getfacesconfigfile faces config file
+MTHSIG19	hasfacesconfig faces config
+VARSIG45	jsflibrary jsf library jsflibrary jsf library
+VARSIG44	jsfimplementation jsf implementation jsfimplementation jsf implementation
+VARSIG43	theme theme
+VARSIG42	jsflibrary jsf library jsflibrary jsf library
+VARSIG49	element dependencyelement dependency element
+VARSIG48	jsflibrary jsf library jsflibrary jsf library
+VARSIG47	jsfimplementation jsf implementation jsfimplementation jsf implementation
+VARSIG46	element configuration
+MTHSIG10	getexistingordefaultjsfimplementation existing jsf implementation element configuration
+VARIABLES	url mediaplayer media player mediatype media type jsfimplementation jsf implementation document theme document entity beanname bean plural javapackage entity managedbean managed bean entity beanname bean includeonmenu include menu jsfimplementation jsf implementation theme destinationpackage destination destinationpackage destination cid xpathexpression path expression configuration dependencyelement dependency element configuration configuration jsfimplementations jsf implementations jsflibraries jsf libraries jsfimplementation jsf implementation jsflibrary jsf library templatename template destinationpackage destination destinationpackage destination destinationpackage destination modulename module jsfimplementation jsf implementation jsflibrary jsf library theme jsfimplementation jsf implementation jsflibrary jsf library configuration jsfimplementation jsf implementation jsflibrary jsf library dependencyelement dependency element dependencyelement dependency element dependencyelement dependency element configuration jsfimplementation jsf implementation jsflibrary jsf library repositoryelement repository element repositoryelement repository element dependency xpath jsf implementation xpath jsf library xpath myfaces listener mojarra listener primefaces themes version repository xpath metadatadependencyregistry metadata dependency registry metadataservice metadata service pathresolver path resolver projectoperations project operations shell typelocationservice type location service typemanagementservice type management service mainpage document root element paraelement para element mediaelement media element root webappelement web app element listenerelement listener element themename theme root contextparamelement context element paramvalueelement element domaintypefile domain type file inputstream input stream input convertertype converter type annotationbuilder annotation builder declaredbymetadataid declared metadata cidbuilder cid builder managedbeanpackage managed bean managedbeantypename managed bean type utilpackage util entitytypedetails entity type details pluralmetadata plural metadata annotationbuilder annotation builder managedbeanpath managed bean path resourceidentifier resource identifier declaredbymetadataid declared metadata cidbuilder cid builder webxmlpath web xml path document projectname project entity path downstreamjsfmetadataid downstream jsf metadata managedbean managed bean beanname bean dependencies pom existingjsfimplementation existing jsf implementation jsfdependencyelement jsf dependency element pom existingjsfimplementation existing jsf implementation jsfdependencyelement jsf dependency element builder builder unwantedjsfimplementations unwanted jsf implementations unwantedjsflibraries unwanted jsf libraries beanname bean javatype type physicaltypeidentifier physical type identifier physicalpath physical path inputstream input stream input inputstream input stream input packagepath path ndirectory directory webapppath web app path webapppath webapp path configuration requireddependencyelements required dependency elements jsfimplementationdependencyelements jsf implementation dependency elements jsflibrarydependencyelements jsf library dependency elements jsfdependencyelements jsf dependency elements redundantdependencyelements redundant dependency elements unwantedjsfimplementations unwanted jsf implementations unwantedjsflibraries unwanted jsf libraries repositories jsfrepositoryelements jsf repository elements jsflibraryrepositoryelements jsf library repository elements
+VARSIG41	jsfimplementation jsf implementation jsfimplementation jsf implementation
+VARSIG40	modulename module

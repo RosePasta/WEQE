@@ -1,0 +1,32 @@
+VARSIG7	javatyp type type 
+VARSIG6	methodmetadatabuild metadata builder 
+VARSIG9	annotationmetadatabuild annot metadata builder 
+VARSIG8	javatyp type type 
+VARSIG3	privilegedaspect privileg aspect 
+VARSIG2	javatyp type aspect 
+VARSIG5	fieldmetadatabuild field metadata builder 
+VARSIG4	constructormetadatabuild constructor metadata builder 
+COMMENTS	assist build link itdtypedetail type detail instanc method includ constructor accept argument automat ignor attempt add link identifiablejavastructur identifi structur link declaredbymetadataid declar metadata instanc construct addit accept link invocablemembermetadata invoc member metadata verifi link invocablemembermetadata invoc member metadata getbodi bodi detect program error result request member includ provid actual execut bodi member addannot add annot 
+VARSIG1	classorinterfacetypedetail type detail governor 
+VARSIG0	declaredbymetadataid declar metadata 
+MTHSIG4	onaddfield add field fieldmetadatabuild field metadata builder 
+VARSIG12	classorinterfacetypedetail type detail classorinterfacetypedetail type detail 
+MTHSIG5	onaddmethod add methodmetadatabuild metadata builder 
+VARSIG11	declaredmethodannotationdetail declar annot detail declaredmethodannotationdetail declar annot detail 
+MTHSIG6	onaddextendstyp add type javatyp type type 
+VARSIG10	declaredfieldannotationdetail declar field annot detail declaredfieldannotationdetail declar field annot detail 
+MTHSIG7	onaddimplementtyp add implement type javatyp type type 
+MTHSIG0	itdtypedetailsbuild type detail builder declaredbymetadataid declar metadata classorinterfacetypedetail type detail governor javatyp type aspect privilegedaspect privileg aspect 
+MTHSIG1	build 
+PACKAGE	springframework roo classpath detail 
+MTHSIG2	getimportregistrationresolv registr resolv 
+MTHSIG3	onaddconstructor add constructor constructormetadatabuild constructor metadata builder 
+VARSIG13	annotationmetadata annot metadata annotationmetadata annot metadata 
+MTHSIG8	onaddannot add annot annotationmetadatabuild annot metadata builder 
+MTHSIG9	addfieldannot add field annot declaredfieldannotationdetail declar field annot detail declaredfieldannotationdetail declar field annot detail 
+MTHSIG11	addinnertyp add type classorinterfacetypedetail type detail classorinterfacetypedetail type detail 
+MTHSIG12	addtypeannot add type annot annotationmetadata annot metadata annotationmetadata annot metadata 
+CLASSES	itdtypedetailsbuild type detail builder 
+METHODS	itdtypedetailsbuild type detail builder build getimportregistrationresolv registr resolv onaddconstructor add constructor onaddfield add field onaddmethod add onaddextendstyp add type onaddimplementtyp add implement type onaddannot add annot addfieldannot add field annot addmethodannot add annot addinnertyp add type addtypeannot add type annot 
+MTHSIG10	addmethodannot add annot declaredmethodannotationdetail declar annot detail declaredmethodannotationdetail declar annot detail 
+VARIABLES	declaredbymetadataid declar metadata governor aspect privilegedaspect privileg aspect type type declaredfieldannotationdetail declar field annot detail declaredmethodannotationdetail declar annot detail classorinterfacetypedetail type detail annotationmetadata annot metadata governor aspect privilegedaspect privileg aspect importregistrationresolv registr resolv innertyp type fieldannot field annot methodannot annot declaredbi declar declaredbi declar 

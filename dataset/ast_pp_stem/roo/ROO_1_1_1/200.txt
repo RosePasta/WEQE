@@ -1,0 +1,32 @@
+VARSIG7	clioption cli option kei artifactid artifact mandatori artifact depend javasymbolnam symbol artifactid artifact 
+VARSIG6	clioption cli option kei groupid group mandatori group depend javapackag groupid group 
+VARSIG9	clioption cli option kei mavencommand maven command mandatori user maven command test test extra 
+VARSIG8	clioption cli option kei version mandatori version depend version 
+VARSIG3	clioption cli option kei groupid group mandatori group depend javapackag groupid group 
+VARSIG2	clioption cli option kei mandatori forc major version auto detect unspecifi integ majorjavavers major version 
+VARSIG5	clioption cli option kei version mandatori version depend version 
+VARSIG4	clioption cli option kei artifactid artifact mandatori artifact depend javasymbolnam symbol artifactid artifact 
+COMMENTS	ensur separ thread log roo nix mac window 
+VARSIG1	clioption cli option kei projectnam project mandatori project segment projectnam project 
+VARSIG0	clioption cli option kei toplevelpackag top level mandatori optioncontext option context updat uppermost groupid group maven roo roo shell javapackag toplevelpackag top level 
+MTHSIG4	removedepend remov depend javapackag groupid group javasymbolnam symbol artifactid artifact version 
+VARSIG12	processmanag process manag processmanag process manag 
+MTHSIG5	isperformcommandallow perform command allow 
+VARSIG11	inputstream input stream inputstream input stream 
+MTHSIG6	runpackag 
+VARSIG10	interruptedexcept interrupt except 
+MTHSIG7	runeclips 
+MTHSIG0	iscreateprojectavail creat project 
+MTHSIG1	createproject creat project javapackag toplevelpackag top level projectnam project integ majorjavavers major version 
+PACKAGE	springframework roo addon maven 
+MTHSIG2	isdependencymodificationallow depend modif allow 
+VARSIG14	ioexcept except ignor 
+MTHSIG3	adddepend add depend javapackag groupid group javasymbolnam symbol artifactid artifact version 
+VARSIG13	ioexcept except ioe 
+MTHSIG8	runtest test 
+MTHSIG9	runassembl assembl 
+MTHSIG11	mvn extra 
+CLASSES	mavencommand maven command 
+METHODS	iscreateprojectavail creat project createproject creat project isdependencymodificationallow depend modif allow adddepend add depend removedepend remov depend isperformcommandallow perform command allow runpackag runeclips runtest test runassembl assembl runclean clean mvn 
+MTHSIG10	runclean clean 
+VARIABLES	toplevelpackag top level projectnam project majorjavavers major version groupid group artifactid artifact version groupid group artifactid artifact version extra inputstream input stream processmanag process manag ioe ignor logger mavenoper maven oper processmanag process manag root cmd input error inputstream input stream processmanag process manag 

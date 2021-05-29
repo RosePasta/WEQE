@@ -1,0 +1,30 @@
+VARSIG7	clioption cli option key identifierfield identifier field mandatory jpa identifier field entity identifierfield identifier field
+VARSIG6	clioption cli option key catalog mandatory jpa table catalog entity catalog
+VARSIG9	clioption cli option key identifiertype identifier type mandatory optioncontext option context lang project unspecifieddefaultvalue unspecified lang specifieddefaultvalue lang data type jpa identifier field defaults lang javatype type identifiertype identifier type
+VARSIG8	clioption cli option key identifiercolumn identifier column mandatory jpa identifier field column entity identifiercolumn identifier column
+VARSIG3	clioption cli option key testautomatically test automatically mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified create automatic integration tests entity testautomatically test automatically
+VARSIG2	clioption cli option key mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified generated marked createabstract create
+VARSIG5	clioption cli option key schema mandatory jpa table schema entity schema
+VARSIG4	clioption cli option key table mandatory jpa table entity table
+COMMENTS	shell commands creating entities integration tests data demand dod classes can test reject attempts entity test clashes data demand roo happen user insists permitreservedwords permit reserved roo create entity entity annotations produce entity create entity identifier required
+VARSIG19	clioption cli option key optioncontext option context update project mandatory create javatype type
+VARSIG1	clioption cli option key mandatory unspecifieddefaultvalue unspecified lang object superclass defaults lang object javatype type superclass
+VARSIG18	clioption cli option key entityname entity mandatory refer entity queries entityname entity
+VARSIG0	clioption cli option key optioncontext option context update project mandatory entity create javatype type
+VARSIG17	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+VARSIG12	clioption cli option key inheritancetype inheritance type mandatory jpa inheritance inheritancetype inheritance type inheritancetype inheritance type
+VARSIG11	clioption cli option key versioncolumn version column mandatory jpa version field column entity versioncolumn version column
+VARSIG10	clioption cli option key versionfield version field mandatory jpa version field entity versionfield version field
+MTHSIG0	ispersistentclassavailable persistent
+VARSIG16	clioption cli option key transactionmanager transaction manager mandatory transaction manager transactionmanager transaction manager
+MTHSIG1	newpersistenceclassjpa persistence jpa javatype type javatype type superclass createabstract create testautomatically test automatically table schema catalog identifierfield identifier field identifiercolumn identifier column javatype type identifiertype identifier type versionfield version field versioncolumn version column inheritancetype inheritance type inheritancetype inheritance type mappedsuperclass mapped superclass serializable persistenceunit persistence unit transactionmanager transaction manager permitreservedwords permit reserved entityname entity
+VARSIG15	clioption cli option key persistenceunit persistence unit mandatory persistence unit persistence xml file persistenceunit persistence unit
+PACKAGE	springframework roo addon entity
+MTHSIG2	createembeddableclass create embeddable javatype type serializable permitreservedwords permit reserved
+VARSIG14	clioption cli option key serializable mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue generated implement serializable serializable
+VARSIG13	clioption cli option key mappedsuperclass mapped superclass mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified apply mappedsuperclass mapped superclass entity mappedsuperclass mapped superclass
+CLASSES	entitycommands entity commands
+METHODS	ispersistentclassavailable persistent newpersistenceclassjpa persistence jpa createembeddableclass create embeddable
+VARSIG21	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+VARSIG20	clioption cli option key serializable mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue generated implement serializable serializable
+VARIABLES	superclass createabstract create testautomatically test automatically table schema catalog identifierfield identifier field identifiercolumn identifier column identifiertype identifier type versionfield version field versioncolumn version column inheritancetype inheritance type mappedsuperclass mapped superclass serializable persistenceunit persistence unit transactionmanager transaction manager permitreservedwords permit reserved entityname entity serializable permitreservedwords permit reserved entityoperations entity operations integrationtestoperations integration test operations annotations rooentitybuilder roo entity builder

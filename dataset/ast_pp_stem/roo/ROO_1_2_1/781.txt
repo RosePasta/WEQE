@@ -1,0 +1,14 @@
+VARSIG3	collect fileoper file oper notifyon notifi 
+VARSIG2	file resourc 
+COMMENTS	repres request monitor file system locat factori monitor oper file directori link fileoper file oper creat link fileoper file oper renam link fileoper file oper updat link fileoper file oper delet resourc resourc monitor current directori monitor request factori monitor oper directori tree link fileoper file oper creat link fileoper file oper renam link fileoper file oper updat link fileoper file oper delet directori directori monitor current directori monitor request constructor resourc file monitor requir notifyon notifi file oper notifi can empti file monitor return oper monitor unmodifi collect element 
+CLASSES	monitoringrequest monitor request 
+VARSIG1	directori 
+VARSIG0	resourc 
+METHODS	getinitialmonitoringrequest initi monitor request getinitialsubtreemonitoringrequest initi tree monitor request monitoringrequest monitor request getfil file getnotifyon notifi 
+MTHSIG4	getnotifyon notifi 
+MTHSIG0	getinitialmonitoringrequest initi monitor request resourc 
+MTHSIG1	getinitialsubtreemonitoringrequest initi tree monitor request directori 
+PACKAGE	springframework roo file monitor 
+MTHSIG2	monitoringrequest monitor request file resourc collect fileoper file oper notifyon notifi 
+MTHSIG3	getfil file 
+VARIABLES	resourc directori resourc notifyon notifi mre mre notifyon notifi resourc 

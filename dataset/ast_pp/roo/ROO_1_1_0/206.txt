@@ -1,0 +1,19 @@
+VARSIG7	path path
+VARSIG6	javatype type javatype type
+VARSIG3	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG2	javatype type aspectname aspect
+VARSIG5	metadataidentificationstring metadata identification
+VARSIG4	itdfilename filename
+COMMENTS	link pluralmetadata plural metadata ensure notified metadata physical types initial creation
+CLASSES	pluralmetadataproviderimpl plural metadata provider impl
+VARSIG1	metadataidentificationstring metadata identification
+VARSIG0	componentcontext component context context
+METHODS	activate getmetadata metadata getitduniquenessfilenamesuffix uniqueness filename suffix getgovernorphysicaltypeidentifier governor physical type identifier createlocalidentifier create local identifier getprovidestype type
+MTHSIG4	createlocalidentifier create local identifier javatype type javatype type path path
+MTHSIG5	getprovidestype type
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+PACKAGE	springframework roo addon plural
+MTHSIG2	getitduniquenessfilenamesuffix uniqueness filename suffix
+MTHSIG3	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+VARIABLES	context metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename metadataidentificationstring metadata identification javatype type path javatype type path physicaltypeidentifier physical type identifier

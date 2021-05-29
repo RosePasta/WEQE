@@ -1,0 +1,15 @@
+VARSIG6	buffer
+VARSIG3	buffer
+VARSIG2	list candidates
+VARSIG5	list completion candidates
+VARSIG4	cursor
+COMMENTS	link simpleparser simple parser populates list completion candidates required compatibility sts versions buffer cursor candidates populates list completion candidates buffer cursor candidates
+CLASSES	parser
+VARSIG1	cursor
+VARSIG0	buffer
+METHODS	complete completeadvanced complete advanced parse
+MTHSIG0	complete buffer cursor list candidates
+MTHSIG1	completeadvanced complete advanced buffer cursor list completion candidates
+PACKAGE	springframework roo shell
+MTHSIG2	parse buffer
+VARIABLES	buffer cursor candidates buffer cursor candidates buffer

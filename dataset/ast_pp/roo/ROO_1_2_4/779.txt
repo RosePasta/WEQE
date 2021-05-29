@@ -1,0 +1,36 @@
+VARSIG7	annotationmetadata annotation metadata parameterannotation parameter annotation
+VARSIG6	annotatedjavatype annotated type methodparameter parameter
+VARSIG9	javatype type javatype type
+VARSIG8	javatype type parameter
+VARSIG3	set javasymbolname symbol typeparameters type parameters
+VARSIG2	methodmetadata metadata
+VARSIG5	annotationmetadata annotation metadata annotation
+VARSIG4	javatype type parameter
+COMMENTS	parser implementation link methodmetadata metadata create type add type arguments presented type handle arrays start basic add level annotations parameter annotations add parameters including individual annotations type parameters add parameter annotations applicable parameter type compute parameter compute parameter type add type arguments presented type handle arrays create parser parameter add list parameters add exceptions set body set body body fake javaparser parser parse easiest build simple source required parse locate add verify exists current match parameter types add compilation unit convert parser modifier jdk modifier add declared type parameters list type parameters compute type compute body lookup parameters names
+VARSIG19	methoddeclaration declaration methoddeclaration declaration
+VARSIG1	list bodydeclaration body declaration members
+VARSIG18	declaredbymetadataid declared metadata
+VARSIG0	compilationunitservices compilation unit services compilationunitservices compilation unit services
+VARSIG17	set javasymbolname symbol typeparameters type parameters
+VARSIG12	bodydeclaration body declaration
+VARSIG11	parseexception parse exception
+VARSIG10	ioexception exception
+MTHSIG0	addmethod add compilationunitservices compilation unit services compilationunitservices compilation unit services list bodydeclaration body declaration members methodmetadata metadata set javasymbolname symbol typeparameters type parameters
+VARSIG16	compilationunitservices compilation unit services compilationunitservices compilation unit services
+MTHSIG1	getinstance instance declaredbymetadataid declared metadata methoddeclaration declaration methoddeclaration declaration compilationunitservices compilation unit services compilationunitservices compilation unit services set javasymbolname symbol typeparameters type parameters
+VARSIG15	methoddeclaration declaration methoddeclaration declaration
+PACKAGE	springframework roo classpath antlrjavaparser details
+MTHSIG2	javaparsermethodmetadatabuilder parser metadata builder declaredbymetadataid declared metadata methoddeclaration declaration methoddeclaration declaration compilationunitservices compilation unit services compilationunitservices compilation unit services set javasymbolname symbol typeparameters type parameters
+VARSIG14	declaredbymetadataid declared metadata
+MTHSIG3	build
+VARSIG13	annotatedjavatype annotated type existingparameter existing parameter
+CLASSES	javaparsermethodmetadatabuilder parser metadata builder
+METHODS	addmethod add getinstance instance javaparsermethodmetadatabuilder parser metadata builder build
+VARSIG23	parameter
+VARSIG22	typeparameter type parameter candidate
+VARSIG21	set javasymbolname symbol typeparameters type parameters
+VARSIG20	compilationunitservices compilation unit services compilationunitservices compilation unit services
+VARSIG26	annotationexpr annotation expr annotation
+VARSIG25	nameexpr expr throwstype type
+VARSIG24	annotationexpr annotation expr candidate
+VARIABLES	compilationunitservices compilation unit services members typeparameters type parameters parameter annotation methodparameter parameter parameterannotation parameter annotation parameter javatype type existingparameter existing parameter declaredbymetadataid declared metadata methoddeclaration declaration compilationunitservices compilation unit services typeparameters type parameters declaredbymetadataid declared metadata methoddeclaration declaration compilationunitservices compilation unit services typeparameters type parameters candidate candidate throwstype type annotation returntype type importedtype imported type cit typeargs type annotations parameters parameterannotations parameter annotations parametername parameter parametertype parameter type type cit typeargs type throwstypes types importedtype imported type bais types bodydeclarations body declarations methodmetadata metadata matchesfully matches fully parametertype parameter type annotations body declaredbymetadataid declared metadata methodname modifier parameternames parameter names parametertypes parameter types returntype type throwstypes types fulltypeparameters full type parameters params currenttypeparam current type parametertype parameter type annotationslist annotations list annotations annotationmetadata annotation metadata throwing methodmetadatabuilder metadata builder

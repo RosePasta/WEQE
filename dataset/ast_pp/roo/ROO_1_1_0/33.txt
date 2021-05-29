@@ -1,0 +1,46 @@
+VARSIG7	jointable join table jointable join table
+VARSIG6	table table
+VARSIG9	table table
+VARSIG8	table table
+VARSIG3	set sequence sequences
+VARSIG2	set table tables
+VARSIG5	table table
+VARSIG4	
+COMMENTS	represents database model tables database database model database link schema schema tables join tables database sequences initialises model establishing relationships elements model foreign mark repeated columns insertable updatable determines table join table identified join table table primary foreign pointing entity tables columns
+VARSIG19	reference reference
+VARSIG1	schema schema
+VARSIG18	foreignkey foreign key exportedkey exported key
+VARSIG0	
+VARSIG17	table table
+MTHSIG4	getsequences sequences
+VARSIG12	foreignkey foreign key foreignkey foreign key
+MTHSIG5	setsequences set sequences set sequence sequences
+VARSIG11	table table
+MTHSIG6	hastables tables
+VARSIG10	column column
+MTHSIG7	findtable find table
+MTHSIG0	database schema schema set table tables
+VARSIG16	reference reference
+MTHSIG1	getname
+VARSIG15	foreignkey foreign key foreignkey foreign key
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	getschema schema
+VARSIG14	map entry column sortedset sorted set foreignkey foreign key entryset entry set
+MTHSIG3	gettables tables
+VARSIG13	reference reference
+MTHSIG8	getjointables join tables
+MTHSIG9	isjointable join table table table
+MTHSIG15	addjointables add join tables table table
+MTHSIG16	tostring
+MTHSIG13	initializeexportedkeys initialize exported table table
+MTHSIG14	initializeindices initialize indices table table
+MTHSIG11	initializecolumns initialize columns table table
+MTHSIG12	initializeforeignkeys initialize foreign table table
+CLASSES	database
+METHODS	database getname getschema schema gettables tables getsequences sequences setsequences set sequences hastables tables findtable find table getjointables join tables isjointable join table initialize initializecolumns initialize columns initializeforeignkeys initialize foreign initializeexportedkeys initialize exported initializeindices initialize indices addjointables add join tables tostring
+VARSIG23	table table
+VARSIG22	indexcolumn column indexcolumn column
+VARSIG21	
+VARSIG20	table table
+MTHSIG10	initialize
+VARIABLES	schema tables sequences table table jointable join table table table column table foreignkey foreign key reference entryset entry set foreignkey foreign key reference table exportedkey exported key reference table indexcolumn column table serialversionuid serial version uid schema tables jointables join tables sequences keysequencemap key sequence map keysequence key sequence repeatedcolumns repeated columns foreigntablename foreign table targettable target table localcolumn local column fkset set foreigncolumn foreign column foreignkeys foreign reference keysequencemap key sequence map keysequence key sequence foreigntablename foreign table targettable target table localcolumn local column foreigncolumn foreign column column equals iter column outputstream output stream

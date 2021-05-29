@@ -1,0 +1,25 @@
+VARSIG7	classorinterfacetypedetails type details cid
+VARSIG6	path
+VARSIG9	set disallowedoperations disallowed operations
+VARSIG8	javatype type entity
+VARSIG3	path
+VARSIG2	set disallowedoperations disallowed operations
+VARSIG5	classorinterfacetypedetails type details entitydetails entity details
+VARSIG4	javapackage javapackage
+COMMENTS	implementation link controlleroperations controller operations existing controller mapped path create annotation requestmapping request mapping myobject create annotation controller create annotation roowebscaffold roo web scaffold path test formbackingobject form backing object myobject object check persistent type web scaffold metadata listening controller entity listening controller add existing controller mapped path path required controller
+VARSIG1	javatype type entity
+VARSIG0	javatype type controller
+MTHSIG4	iscontrollerinstallationpossible controller installation
+VARSIG12	operation
+MTHSIG5	isnewcontrolleravailable controller
+VARSIG11	javasymbolname symbol pathname path
+MTHSIG6	setup
+VARSIG10	path
+MTHSIG0	createautomaticcontroller create automatic controller javatype type controller javatype type entity set disallowedoperations disallowed operations path
+MTHSIG1	generateall generate javapackage javapackage
+PACKAGE	springframework roo addon web mvc controller
+MTHSIG2	getexistingcontroller existing controller path
+MTHSIG3	getroowebscaffoldannotation roo web scaffold annotation javatype type entity set disallowedoperations disallowed operations path javasymbolname symbol pathname path
+CLASSES	controlleroperationsimpl controller operations impl
+METHODS	createautomaticcontroller create automatic controller generateall generate getexistingcontroller existing controller getroowebscaffoldannotation roo web scaffold annotation iscontrollerinstallationpossible controller installation isnewcontrolleravailable controller setup
+VARIABLES	controller entity disallowedoperations disallowed operations path javapackage entitydetails entity details path cid entity disallowedoperations disallowed operations path pathname path operation logger path dependencyregistry dependency registry metadataservice metadata service pathresolver path resolver projectoperations project operations typelocationservice type location service typemanagementservice type management service webmvcoperations web mvc operations existingcontroller existing controller annotations cidbuilder cid builder controllerpath controller path resourceidentifier resource identifier declaredbymetadataid declared metadata requestmappingattributes request mapping attributes controllerattributes controller attributes entitytype entity type entitypath entity path downstreamwebscaffoldmetadataid downstream web scaffold metadata pluralmetadata plural metadata controller mappingattribute mapping attribute mapping roowebscaffoldattributes roo web scaffold attributes

@@ -1,0 +1,64 @@
+MTHSIG4	addbooleanattribute add attribute key
+VARSIG34	annotationattributevalue annotation attribute element
+MTHSIG5	addcharattribute add attribute key
+VARSIG33	annotationattributevalue annotation attribute
+MTHSIG6	addclassattribute add attribute key fullyqualifiedtypename fully qualified type
+VARSIG32	
+MTHSIG7	addclassattribute add attribute key javatype type javatype type
+VARSIG31	key
+MTHSIG0	annotationmetadatabuilder annotation metadata builder
+MTHSIG1	annotationmetadatabuilder annotation metadata builder annotationmetadata annotation metadata existing
+PACKAGE	springframework roo classpath details annotations
+MTHSIG2	annotationmetadatabuilder annotation metadata builder javatype type annotationtype annotation type
+VARSIG36	list annotationattributevalue annotation attribute attributes
+MTHSIG3	annotationmetadatabuilder annotation metadata builder javatype type annotationtype annotation type list annotationattributevalue annotation attribute attributes
+VARSIG35	javatype type annotationtype annotation type
+MTHSIG20	setattributes set attributes list annotationattributevalue annotation attribute attributes
+MTHSIG21	build
+MTHSIG8	adddoubleattribute add attribute key floatingprecisiononly floating precision
+VARSIG30	
+MTHSIG9	addenumattribute add attribute key fullyqualifiedtypename fully qualified type enumconstant constant
+CLASSES	annotationmetadatabuilder annotation metadata builder
+VARSIG29	key
+VARSIG28	
+METHODS	annotationmetadatabuilder annotation metadata builder annotationmetadatabuilder annotation metadata builder annotationmetadatabuilder annotation metadata builder annotationmetadatabuilder annotation metadata builder addbooleanattribute add attribute addcharattribute add attribute addclassattribute add attribute addclassattribute add attribute adddoubleattribute add attribute addenumattribute add attribute addenumattribute add attribute addenumattribute add attribute addenumattribute add attribute addintegerattribute add integer attribute addlongattribute add attribute addstringattribute add attribute addattribute add attribute getannotationtype annotation type setannotationtype set annotation type getattributes attributes setattributes set attributes build
+VARSIG23	javatype type fullyqualifiedtypename fully qualified type
+VARSIG22	key
+VARSIG21	enumconstant constant
+VARSIG20	javatype type fullyqualifiedtypename fully qualified type
+VARSIG27	key
+VARSIG26	enumdetails details details
+VARSIG25	key
+VARSIG24	javasymbolname symbol enumconstant constant
+VARSIG7	key
+VARSIG6	
+VARSIG9	key
+VARSIG8	
+VARSIG3	javatype type annotationtype annotation type
+VARSIG2	javatype type annotationtype annotation type
+VARSIG5	key
+VARSIG4	list annotationattributevalue annotation attribute attributes
+COMMENTS	builder link annotationmetadata annotation metadata add replace existing annotation attribute care preserve location locate existing attribute key replace match remove existing element element place
+VARSIG19	key
+VARSIG1	javasymbolname symbol attributename attribute
+VARSIG18	enumconstant constant
+VARSIG0	annotationmetadata annotation metadata existing
+VARSIG17	fullyqualifiedtypename fully qualified type
+VARSIG12	javatype type javatype type
+VARSIG11	key
+VARSIG10	fullyqualifiedtypename fully qualified type
+VARSIG16	key
+VARSIG15	floatingprecisiononly floating precision
+VARSIG14	
+VARSIG13	key
+MTHSIG17	getannotationtype annotation type
+MTHSIG18	setannotationtype set annotation type javatype type annotationtype annotation type
+MTHSIG15	addstringattribute add attribute key
+MTHSIG16	addattribute add attribute annotationattributevalue annotation attribute
+MTHSIG13	addintegerattribute add integer attribute key
+MTHSIG14	addlongattribute add attribute key
+MTHSIG11	addenumattribute add attribute key javatype type fullyqualifiedtypename fully qualified type javasymbolname symbol enumconstant constant
+MTHSIG12	addenumattribute add attribute key enumdetails details details
+MTHSIG19	getattributes attributes
+MTHSIG10	addenumattribute add attribute key javatype type fullyqualifiedtypename fully qualified type enumconstant constant
+VARIABLES	existing attributename attribute annotationtype annotation type annotationtype annotation type attributes key key key fullyqualifiedtypename fully qualified type key javatype type key floatingprecisiononly floating precision key fullyqualifiedtypename fully qualified type enumconstant constant key fullyqualifiedtypename fully qualified type enumconstant constant key fullyqualifiedtypename fully qualified type enumconstant constant key details key key key element annotationtype annotation type attributes annotationtype annotation type attributes details details details foundat

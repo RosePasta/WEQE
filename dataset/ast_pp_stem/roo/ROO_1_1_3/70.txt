@@ -1,0 +1,73 @@
+MTHSIG28	getfindmethod find 
+MTHSIG29	getgaefindmethodbodi gae find bodi 
+MTHSIG26	getcountmethod count 
+MTHSIG27	getfindallmethod find 
+MTHSIG24	addtransactionalannot add transact annot list annotationmetadatabuild annot metadata builder annot 
+MTHSIG25	getentitymanagermethod entiti manag 
+MTHSIG22	getdelegatemethod deleg javasymbolnam symbol methodnam entitymanagerdeleg entiti manag deleg 
+MTHSIG23	addtransactionalannot add transact annot list annotationmetadatabuild annot metadata builder annot ispersistmethod persist 
+MTHSIG4	gettypeannot type annot javatyp type annotationtyp annot type 
+MTHSIG5	gettableannot tabl annot 
+MTHSIG6	getinheritanceannot inherit annot 
+MTHSIG7	getdiscriminatorcolumnannot discrimin column annot 
+MTHSIG0	entitymetadata entiti metadata identifi javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata entitymetadata entiti metadata parent projectmetadata project metadata projectmetadata project metadata entityannotationvalu entiti annot valu annotationvalu annot valu noargconstructor arg constructor plural memberdetail member detail memberdetail member detail list identifi identifierserviceresult identifi servic result 
+MTHSIG1	processannot process annot list identifi identifierserviceresult identifi servic result 
+PACKAGE	springframework roo addon entiti 
+MTHSIG2	getentityannot entiti annot 
+MTHSIG3	getmappedsuperclassannot map superclass annot 
+MTHSIG20	getclearmethod clear 
+MTHSIG21	getmergemethod merg 
+MTHSIG8	getentitymanagerfield entiti manag field 
+MTHSIG9	getnoargconstructor arg constructor 
+MTHSIG39	getpath path metadataidentificationstr metadata identif 
+MTHSIG37	createidentifi creat identifi javatyp type javatyp type path path 
+MTHSIG38	getjavatyp type metadataidentificationstr metadata identif 
+MTHSIG35	tostr 
+MTHSIG36	getmetadataidentifiertyp metadata identifi type 
+MTHSIG33	getplur plural 
+MTHSIG34	getentitynam entiti 
+CLASSES	entitymetadata entiti metadata 
+METHODS	entitymetadata entiti metadata processannot process annot getentityannot entiti annot getmappedsuperclassannot map superclass annot gettypeannot type annot gettableannot tabl annot getinheritanceannot inherit annot getdiscriminatorcolumnannot discrimin column annot getentitymanagerfield entiti manag field getnoargconstructor arg constructor getidentifierfield identifi field getidentifierfield identifi field getidentifieraccessor identifi accessor getidentifiermut identifi mutat getversionfield version field getversionaccessor version accessor getversionmut version mutat getpersistmethod persist getremovemethod remov getflushmethod flush getclearmethod clear getmergemethod merg getdelegatemethod deleg addtransactionalannot add transact annot addtransactionalannot add transact annot getentitymanagermethod entiti manag getcountmethod count getfindallmethod find getfindmethod find getgaefindmethodbodi gae find bodi getfindentriesmethod find entri addsuppresswarn add suppress warn getdynamicfind dynam finder getplur plural getentitynam entiti tostr getmetadataidentifiertyp metadata identifi type createidentifi creat identifi getjavatyp type getpath path isvalid valid 
+VARSIG23	path path 
+VARSIG22	javatyp type javatyp type 
+VARSIG21	list annotationmetadatabuild annot metadata builder annot 
+VARSIG20	javasymbolnam symbol 
+VARSIG26	metadataidentificationstr metadata identif 
+VARSIG25	metadataidentificationstr metadata identif 
+VARSIG24	metadataidentificationstr metadata identif 
+MTHSIG31	addsuppresswarn add suppress warn list annotationmetadatabuild annot metadata builder annot 
+MTHSIG32	getdynamicfind dynam finder 
+MTHSIG30	getfindentriesmethod find entri 
+VARSIG7	plural 
+VARSIG6	noargconstructor arg constructor 
+VARSIG9	list identifi identifierserviceresult identifi servic result 
+VARSIG8	memberdetail member detail memberdetail member detail 
+VARSIG3	entitymetadata entiti metadata parent 
+VARSIG2	physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+VARSIG5	entityannotationvalu entiti annot valu annotationvalu annot valu 
+VARSIG4	projectmetadata project metadata projectmetadata project metadata 
+COMMENTS	metadata link rooentiti roo entiti process valu annot add entiti mappedsuperclass map superclass annot add tabl annot requir add inherit annot requir add discriminatorcolumn discrimin column requir determin entitymanag entiti manag field access guarante access arg constructor provid add identifi field accessor add version field accessor add helper method add method creat represent desir output potenti identifi identifierservic identifi servic identifi user provid identifi attribut rooentiti roo entiti user identifi let identifierservic identifi servic offer theoret requir base discriminatorcolumn discrimin column javadoc doc hibern appear fail miss locat entiti manag field parent defin provid field gener expect field name entitymanag entiti manag type javax persist entitymanag entiti manag requir annot persistencecontext persist context exist field doesn meet requir add underscor prefix entitymanag entiti manag time uniqu meet requir creat entiti manag field return parent requir guarante locat ourself comput requir field verifi candid suitabl candid simpli field subclass inherit field subsequ subclass won candid isn entitymanag entiti manag candid doesn persistencecontext persist context annot valid candid candid let creat locat arg constructor defin arg constructor return irrespect access modifi defin arg constructor creat creat link noargconstructor arg constructor constructor declar sourc file constructor creat access modifi constructor constructor produc comput mutat paramet search exist constructor exist arg constructor user defin arg constructor metadata instanc prohibit make arg constructor constructor appli quit creat constructor locat identifi field parent defin provid field parent defin locat creat declar inherit field link javax persist link javax persist embeddedid embed embeddedid embed annot identifi return field locat field creat detail contain link rooentiti roo entiti identifi return locat exist field javax persist locat exist field javax persist embeddedid embed forc ensur isn field call comput uniqu fatal situat dai comput requir field usabl field creat comput column requir roo generatedvalu gener strategi generationtyp gener type tabl root governor declar inherit strategi inheritancetyp inherit type tabl user altern column add length attribut field add precis scale attribut numer field locat identifi accessor link getidentifierfield identifi field return field creat field declar entiti accessor automat produc declar accessor return locat identifi field comput accessor produc user field locat exist accessor exist requir accessor uniqu declar field produc accessor locat identifi mutat link getidentifierfield identifi field return field creat field declar entiti mutat automat produc declar mutat return todo temporari workaround support web data bind approach review locat identifi field comput accessor produc user field locat exist mutat exist requir mutat uniqu declar field produc mutat locat version field parent defin provid field parent defin locat creat declar inherit field annot javax persist version version return field locat field creat detail contain link rooentiti roo entiti version locat exist field version quit stage user doesn version field ensur isn field call version comput uniqu fatal situat dai comput requir field usabl field creat locat version accessor link getversionfield version field return field creat version field declar entiti accessor automat produc declar version accessor version field declar there version field won accessor parent parent respons provid accessor comput accessor produc user field locat exist accessor exist requir accessor uniqu declar field produc accessor locat version mutat link getversionfield version field return field creat version field declar entiti mutat automat produc declar mutat version field declar todo temporari workaround support web data bind approach review locat version field comput mutat produc there version field won mutat user field locat exist mutat exist requir mutat uniqu declar field produc mutat persist remov flush return clear return merg return definit find build locat user defin tagmethod tag usermethod user tag creat address inject entiti manag field getentitymanag entiti manag acquir entiti manag except acquir persist tagmethod tag methodbuild builder build tag util entitymanag entiti manag method entiti manag util user code return null parent requir guarante definit find build locat user defin creat creat anonym arg constructor jpa entiti handl method instanti argument constructor entiti compli jpa arg constructor requir count definit find build locat user defin creat find definit find build locat user defin creat find definit find build locat user defin creat find entri definit find build locat user defin creat dynam custom finder return empti list pluralis return empti entitynam entiti dynamicfinderservic dynam finder servic gener jpa queri entitynam entiti entitynam entiti attribut 
+VARSIG19	methodmetadata metadata 
+VARSIG1	javatyp type aspectnam aspect 
+VARSIG18	list annotationmetadatabuild annot metadata builder annot 
+VARSIG0	identifi 
+VARSIG17	ispersistmethod persist 
+VARSIG12	list fieldmetadata field metadata identifierfield identifi field 
+VARSIG11	javatyp type annotationtyp annot type 
+VARSIG10	list identifi identifierserviceresult identifi servic result 
+VARSIG16	list annotationmetadatabuild annot metadata builder annot 
+VARSIG15	entitymanagerdeleg entiti manag deleg 
+VARSIG14	javasymbolnam symbol methodnam 
+VARSIG13	javatyp type identifiertyp identifi type 
+MTHSIG40	isvalid valid metadataidentificationstr metadata identif 
+MTHSIG17	getpersistmethod persist 
+MTHSIG18	getremovemethod remov 
+MTHSIG15	getversionaccessor version accessor 
+MTHSIG16	getversionmut version mutat 
+MTHSIG13	getidentifiermut identifi mutat 
+MTHSIG14	getversionfield version field 
+MTHSIG11	getidentifierfield identifi field list fieldmetadata field metadata identifierfield identifi field javatyp type identifiertyp identifi type 
+MTHSIG12	getidentifieraccessor identifi accessor 
+MTHSIG19	getflushmethod flush 
+MTHSIG10	getidentifierfield identifi field 
+VARIABLES	identifi aspectnam aspect governorphysicaltypemetadata governor physic type metadata parent projectmetadata project metadata annotationvalu annot valu noargconstructor arg constructor plural memberdetail member detail identifierserviceresult identifi servic result identifierserviceresult identifi servic result annotationtyp annot type identifierfield identifi field identifiertyp identifi type methodnam entitymanagerdeleg entiti manag deleg annot ispersistmethod persist annot annot javatyp type path metadataidentificationstr metadata identif metadataidentificationstr metadata identif metadataidentificationstr metadata identif entiti manag type type embed entiti manag persist context column queri parent annotationvalu annot valu memberdetail member detail noargconstructor arg constructor plural identifiercolumn identifi column identifiertyp identifi type identifierfield identifi field identifiercolumndefinit identifi column definit identifiercolumns identifi column size identifierscal identifi scale isgaeen gae enabl isdatanucleusen data nucleu enabl isvmforceen mforc enabl annot attributenam attribut name entityannot entiti annot entitybuild entiti builder annotationbuild annot builder tableannot tabl annot tabl schema catalog tablebuild tabl builder inheritancejavatyp inherit type inheritancebuild inherit builder fieldnam field fieldsymbolnam field symbol candid annot annotationbuild annot builder fieldbuild field builder paramtyp type result bodybuild bodi builder constructorbuild constructor builder idfield field idfield field embeddedidfield embed field idfield field fieldnam field annot hasidclass annotationtyp annot type generationtyp gener type inherit enumattributevalu attribut detail generatedvaluebuild gener builder columnnam column columnbuild column builder requiredaccessornam requir accessor bodybuild bodi builder requiredmutatornam requir mutat paramtyp type paramnam name bodybuild bodi builder methodbuild builder result versionfield version field versiontyp version type versioncolumn version column verfield ver field fieldnam field annot columnbuild column builder fieldbuild field builder version result requiredaccessornam requir accessor bodybuild bodi builder methodbuild builder version requiredmutatornam requir mutat paramtyp type paramnam name bodybuild bodi builder methodbuild builder paramtyp type usermethod user annot bodybuild bodi builder entitymanagermethod entiti manag entitymanagerfieldnam entiti manag field returntyp type methodbuild builder transactionalbuild transact builder methodnam paramtyp type returntyp type usermethod user bodybuild bodi builder param type type newmodifi modifi modifi methodbuild builder methodnam paramtyp type paramnam name returntyp type usermethod user annot typenam type bodybuild bodi builder modifi methodbuild builder methodnam paramtyp type paramnam name typeparam type param returntyp type usermethod user annot typenam type bodybuild bodi builder modifi methodbuild builder idfieldnam field methodnam paramtyp type paramnam name returntyp type usermethod user annot bodybuild bodi builder modifi methodbuild builder bodybuild bodi builder typenam type idfieldnam field methodnam paramtyp type paramnam name typeparam type param returntyp type usermethod user annot typenam type bodybuild bodi builder modifi methodbuild builder attribut result tsc 

@@ -1,0 +1,18 @@
+VARSIG7	set includetables include tables
+VARSIG6	view
+VARSIG9	includenonportableattributes include portable attributes
+VARSIG8	set excludetables exclude tables
+VARSIG3	schema schema
+VARSIG2	view
+VARSIG5	testautomatically test automatically
+VARSIG4	javapackage destinationpackage destination
+COMMENTS	database reverse engineering operations returns dbre commands executed dbre commands displays metadata schema screen writes file filename schema schema introspect required file write output screen view database views displayed introspects database schema entities disk created updated deleted schema schema reverse engineer required destinationpackage destination entities stored project project top level testautomatically test automatically create automatic integration tests generated entities view database views displayed includetables include tables set tables include reverse engineering excludetables exclude tables set tables exclude reverse engineering includenonportableattributes include portable attributes include portable jpa column attributes columndefinition
+CLASSES	dbreoperations dbre operations
+VARSIG1	file file
+VARSIG0	schema schema
+METHODS	isdbreavailable dbre displaydatabasemetadata display database metadata reverseengineerdatabase reverse engineer database
+MTHSIG0	isdbreavailable dbre
+MTHSIG1	displaydatabasemetadata display database metadata schema schema file file view
+PACKAGE	springframework roo addon dbre
+MTHSIG2	reverseengineerdatabase reverse engineer database schema schema javapackage destinationpackage destination testautomatically test automatically view set includetables include tables set excludetables exclude tables includenonportableattributes include portable attributes
+VARIABLES	schema file view schema destinationpackage destination testautomatically test automatically view includetables include tables excludetables exclude tables includenonportableattributes include portable attributes

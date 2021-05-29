@@ -1,0 +1,12 @@
+MTHSIG0	activate componentcontext component context context
+VARSIG3	shellstatus shell status newstatus status
+MTHSIG1	deactivate componentcontext component context context
+VARSIG2	shellstatus shell status oldstatus status
+PACKAGE	springframework roo uaa
+MTHSIG2	onshellstatuschange shell status change shellstatus shell status oldstatus status shellstatus shell status newstatus status
+COMMENTS	link shellstatuslistener shell status listener determines bundle symbolic executed shell command registers feature uaa handle registering bsn target instance opposed declaring don fact add type inherited type prevent add detected uaaregistrationservice uaa registration service deals determining bsn bsns registered
+CLASSES	shelllisteninguaaregistrationfacility shell listening uaa registration facility
+VARIABLES	context context oldstatus status newstatus status shell uaaregistrationservice uaa registration service uaaservice uaa service bundlecontext bundle context parseresult parse result typename type bundlesymbolicname bundle symbolic
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+METHODS	activate deactivate onshellstatuschange shell status change

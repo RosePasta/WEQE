@@ -1,0 +1,18 @@
+VARSIG3	javasymbolnam symbol fieldnam field 
+VARSIG2	fieldmetadata field metadata fieldmetadata field metadata 
+VARSIG5	methodmetadata metadata methodmetadata metadata 
+VARSIG4	javasymbolnam symbol 
+COMMENTS	repres mutabl oper link classorinterfacetypedetail type detail instanc type annot empti add type level annot exist annot link javatyp type defin type annot add requir remov type level annot link javatyp type annot exist annotationtyp annot type remov requir add field field exist fieldmetadata field metadata add requir remov exist field field exist fieldnam field remov requir add paramet type exist methodmetadata metadata add requir 
+CLASSES	mutableclassorinterfacetypedetail mutabl type detail 
+VARSIG1	javatyp type annotationtyp annot type 
+VARSIG0	annotationmetadata annot metadata annot 
+METHODS	gettypeannot type annot addtypeannot add type annot removetypeannot remov type annot addfield add field removefield remov field addenumconst add constant addmethod add 
+MTHSIG4	removefield remov field javasymbolnam symbol fieldnam field 
+MTHSIG5	addenumconst add constant javasymbolnam symbol 
+MTHSIG6	addmethod add methodmetadata metadata methodmetadata metadata 
+MTHSIG0	gettypeannot type annot 
+MTHSIG1	addtypeannot add type annot annotationmetadata annot metadata annot 
+PACKAGE	springframework roo classpath detail 
+MTHSIG2	removetypeannot remov type annot javatyp type annotationtyp annot type 
+MTHSIG3	addfield add field fieldmetadata field metadata fieldmetadata field metadata 
+VARIABLES	annot annotationtyp annot type fieldmetadata field metadata fieldnam field methodmetadata metadata 

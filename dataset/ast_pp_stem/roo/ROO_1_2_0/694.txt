@@ -1,0 +1,49 @@
+MTHSIG4	getdynamicfindernam dynam finder name 
+MTHSIG5	getfield field 
+MTHSIG6	getmethod javasymbolnam symbol methodnam 
+MTHSIG7	getmethod javasymbolnam symbol methodnam list javatyp type paramet 
+MTHSIG0	memberdetailsimpl member detail impl collect memberholdingtypedetail member hold type detail detail 
+MTHSIG1	getannot annot javatyp type type 
+PACKAGE	springframework roo classpath scanner 
+MTHSIG2	getconstructor constructor 
+MTHSIG3	getdetail detail 
+MTHSIG8	getmethod javasymbolnam symbol methodnam list javatyp type paramet excludingmid exclud mid 
+MTHSIG9	getmethod method 
+CLASSES	memberdetailsimpl member detail impl 
+VARSIG28	javatyp type generictyp type 
+METHODS	memberdetailsimpl member detail impl getannot annot getconstructor constructor getdetail detail getdynamicfindernam dynam finder name getfield field getmethod getmethod getmethod getmethod method getmethodswithtag method tag getmostconcretemethodwithtag concret tag ismethoddeclaredbyanoth declar isrequestingannotatedwith request annot getpersistentfieldtyp persist field type 
+VARSIG23	requestingmid request mid 
+VARSIG22	annotationmetadata annot metadata annotationmetadata annot metadata 
+VARSIG21	declaredbymetadataid declar metadata 
+VARSIG20	list javatyp type parametertyp paramet type 
+VARSIG27	methodmetadata metadata 
+VARSIG26	persistencememberloc persist member locat persistencememberloc persist member locat 
+VARSIG25	javatyp type thistyp type 
+VARSIG24	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG7	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG6	javasymbolnam symbol methodnam 
+VARSIG9	list javatyp type paramet 
+VARSIG8	javasymbolnam symbol methodnam 
+VARSIG3	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG2	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG5	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG4	memberholdingtypedetail member hold type detail mhtd 
+COMMENTS	implement link memberdetail member detail field construct instanc detail member holder store instanc interest accessor method persist identifi version field interest field jpa field immut field 
+VARSIG19	javasymbolnam symbol methodnam 
+VARSIG1	javatyp type type 
+VARSIG18	object tagkei tag kei 
+VARSIG0	collect memberholdingtypedetail member hold type detail detail 
+VARSIG17	methodmetadata metadata 
+VARSIG12	list javatyp type paramet 
+VARSIG11	javasymbolnam symbol methodnam 
+VARSIG10	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG16	object tagkei tag kei 
+VARSIG15	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG14	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG13	excludingmid exclud mid 
+MTHSIG13	isrequestingannotatedwith request annot annotationmetadata annot metadata annotationmetadata annot metadata requestingmid request mid 
+MTHSIG14	getpersistentfieldtyp persist field type javatyp type thistyp type persistencememberloc persist member locat persistencememberloc persist member locat 
+MTHSIG11	getmostconcretemethodwithtag concret tag object tagkei tag kei 
+MTHSIG12	ismethoddeclaredbyanoth declar javasymbolnam symbol methodnam list javatyp type parametertyp paramet type declaredbymetadataid declar metadata 
+MTHSIG10	getmethodswithtag method tag object tagkei tag kei 
+VARIABLES	detail type memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail mhtd memberholdingtypedetail member hold type detail methodnam memberholdingtypedetail member hold type detail methodnam paramet memberholdingtypedetail member hold type detail methodnam paramet excludingmid exclud mid memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail tagkei tag kei tagkei tag kei methodnam parametertyp paramet type declaredbymetadataid declar metadata annotationmetadata annot metadata requestingmid request mid memberholdingtypedetail member hold type detail thistyp type persistencememberloc persist member locat generictyp type detail result dynamicfindernam dynam finder name result result result identifieraccessor identifi accessor versionaccessor version accessor fieldtyp field type field returntyp type 

@@ -1,0 +1,11 @@
+MTHSIG0	iscreateprojectavailable create project
+MTHSIG1	getprojectroot project root
+VARSIG2	integer majorjavaversion major version
+PACKAGE	springframework roo addon maven
+MTHSIG2	createproject create project javapackage toplevelpackage top level projectname project integer majorjavaversion major version
+COMMENTS	methods link mavenoperationsimpl maven operations impl
+CLASSES	mavenoperations maven operations
+VARIABLES	toplevelpackage top level projectname project majorjavaversion major version
+VARSIG1	projectname project
+VARSIG0	javapackage toplevelpackage top level
+METHODS	iscreateprojectavailable create project getprojectroot project root createproject create project

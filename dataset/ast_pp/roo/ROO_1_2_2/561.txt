@@ -1,0 +1,15 @@
+VARSIG7	logicalpath logical path path
+VARSIG6	foldername folder
+VARSIG3	tilestemplatename tiles template
+VARSIG2	tilesviewname tiles view
+VARSIG5	
+VARSIG4	viewlocation view location
+COMMENTS	methods manipulating tiles view configuration files adds view definition views xml tiles configuration folder foldername folder folder web inf views path attribute link webscaffoldmetadata web scaffold metadata blank update views file leading slash tilesviewname tiles view simple view list update views nested folders owner list owner leading slash tilestemplatename tiles template template admin viewlocation view location location view web application web inf views owner list jspx removes view definition views xml tiles configuration folder simple view remove list update foldername folder folder web inf views blank update views file leading slash
+CLASSES	tilesoperations tiles operations
+VARSIG1	logicalpath logical path path
+VARSIG0	foldername folder
+METHODS	addviewdefinition add view definition removeviewdefinition remove view definition
+MTHSIG0	addviewdefinition add view definition foldername folder logicalpath logical path path tilesviewname tiles view tilestemplatename tiles template viewlocation view location
+MTHSIG1	removeviewdefinition remove view definition foldername folder logicalpath logical path path
+PACKAGE	springframework roo addon web mvc jsp tiles
+VARIABLES	foldername folder path tilesviewname tiles view tilestemplatename tiles template viewlocation view location foldername folder path template template

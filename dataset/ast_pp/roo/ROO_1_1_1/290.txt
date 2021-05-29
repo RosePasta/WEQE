@@ -1,0 +1,16 @@
+VARSIG3	message
+VARSIG2	ioexception exception ioe
+COMMENTS	easy create link mutablefile mutable file creating file file system records write operations outputstream output stream link getoutputasstring output
+CLASSES	stubmutablefile stub mutable file
+VARSIG1	ioexception exception ioe
+VARSIG0	file file
+METHODS	stubmutablefile stub mutable file stubmutablefile stub mutable file getcanonicalpath canonical path getinputstream input stream getoutputstream output stream setdescriptionofchange set description change getoutputasstring output
+MTHSIG4	getoutputstream output stream
+MTHSIG5	setdescriptionofchange set description change message
+MTHSIG6	getoutputasstring output
+MTHSIG0	stubmutablefile stub mutable file
+MTHSIG1	stubmutablefile stub mutable file file file
+PACKAGE	springframework roo addon web mvc controller
+MTHSIG2	getcanonicalpath canonical path
+MTHSIG3	getinputstream input stream
+VARIABLES	file ioe ioe message file output

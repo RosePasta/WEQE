@@ -1,0 +1,14 @@
+COMMENTS	
+CLASSES	localebean locale bean
+VARSIG1	localestring locale
+VARSIG0	locale locale
+METHODS	init getlocale locale setlocale set locale getlocales locales getselectedlocale selected locale setselectedlocale set selected locale setselectedlocale set selected locale
+MTHSIG4	getselectedlocale selected locale
+MTHSIG5	setselectedlocale set selected locale
+MTHSIG6	setselectedlocale set selected locale localestring locale
+MTHSIG0	init
+MTHSIG1	getlocale locale
+PACKAGE	
+MTHSIG2	setlocale set locale locale locale
+MTHSIG3	getlocales locales
+VARIABLES	locale localestring locale locale items supportedlocales supported locales locale supportedlocales supported locales locale

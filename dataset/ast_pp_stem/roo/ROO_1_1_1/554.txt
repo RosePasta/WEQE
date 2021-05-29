@@ -1,0 +1,38 @@
+VARSIG7	element depend 
+VARSIG6	list depend exclus 
+VARSIG9	element exclus 
+VARSIG8	illegalargumentexcept illeg argument except 
+VARSIG3	groupid group 
+VARSIG2	version 
+VARSIG5	version 
+VARSIG4	artifactid artifact 
+COMMENTS	simplifi immut represent depend structur model maven ivi replac releas osgi centric model conveni constructor produc jar depend groupid group group requir artifactid artifact artifact requir version version requir conveni constructor produc jar depend groupid group group requir artifactid artifact artifact requir version version requir exclus exclus depend conveni constructor xml element repres maven depend pars requir test maven format pom attribut support maven jar reassign pom attribut support maven pars exclus test ivi format todo implement exclus parser ivi format creat immut link depend groupid group group requir artifactid artifact artifact requir versionid version version requir type depend type requir scope depend scope requir list exclus simpl descript consol output 
+VARSIG1	artifactid artifact 
+VARSIG0	groupid group 
+MTHSIG4	getgroupid group 
+VARSIG12	versionid version 
+MTHSIG5	getartifactid artifact 
+VARSIG11	javasymbolnam symbol artifactid artifact 
+MTHSIG6	getversionid version 
+VARSIG10	javapackag groupid group 
+MTHSIG7	gettyp type 
+MTHSIG0	depend groupid group artifactid artifact version 
+VARSIG16	depend 
+MTHSIG1	depend groupid group artifactid artifact version list depend exclus 
+VARSIG15	object obj 
+PACKAGE	springframework roo project 
+MTHSIG2	depend element depend 
+VARSIG14	dependencyscop depend scope scope 
+MTHSIG3	depend javapackag groupid group javasymbolnam symbol artifactid artifact versionid version dependencytyp depend type type dependencyscop depend scope scope 
+VARSIG13	dependencytyp depend type type 
+MTHSIG8	getscop scope 
+MTHSIG9	getsystempath system path 
+MTHSIG15	tostr 
+MTHSIG13	compareto compar depend 
+MTHSIG14	getsimpledescript simpl descript 
+MTHSIG11	hashcod hash code 
+MTHSIG12	equal object obj 
+CLASSES	depend 
+METHODS	depend depend depend depend getgroupid group getartifactid artifact getversionid version gettyp type getscop scope getsystempath system path getexclus exclus hashcod hash code equal compareto compar getsimpledescript simpl descript tostr 
+MTHSIG10	getexclus exclus 
+VARIABLES	groupid group artifactid artifact version groupid group artifactid artifact version exclus depend exclus groupid group artifactid artifact versionid version type scope obj groupid group artifactid artifact version type scope exclus systempath system path versionel version element path exclusionlist exclus list exclusion exclus exclusionid exclus exclusionartifact exclus artifact exclusionartifactid exclus artifact result tsc 

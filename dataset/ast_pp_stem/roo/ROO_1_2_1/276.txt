@@ -1,0 +1,88 @@
+VARSIG39	clioption cli option kei hostnam host mandatori host hostnam host 
+MTHSIG4	databaseset databas set kei 
+VARSIG34	clioption cli option kei persistenceunit persist unit mandatori persist unit persist xml file persistenceunit persist unit 
+MTHSIG5	deactiv componentcontext compon context context 
+VARSIG33	clioption cli option kei transactionmanag transact manag mandatori transact manag transactionmanag transact manag 
+MTHSIG6	getentityannotationbuild entiti annot builder tabl schema catalog identifierfield identifi field identifiercolumn identifi column javatyp type identifiertyp identifi type versionfield version field versioncolumn version column javatyp type versiontyp version type inheritancetyp inherit type inheritancetyp inherit type mappedsuperclass map superclass persistenceunit persist unit transactionmanag transact manag entitynam entiti sequencenam sequenc activerecord activ record 
+VARSIG32	clioption cli option kei password mandatori password password 
+MTHSIG7	getentityannotationtyp entiti annot type activerecord activ record 
+VARSIG31	clioption cli option kei usernam user mandatori usernam usernam user 
+MTHSIG0	activ componentcontext compon context context 
+VARSIG38	clioption cli option kei jndidatasourc jndi data sourc mandatori jndi datasourc jndi 
+MTHSIG1	createembeddableclass creat embedd javatyp type serializ permitreservedword permit reserv 
+VARSIG37	clioption cli option kei applicationid applic mandatori unspecifieddefaultvalu unspecifi project project googl app engin applic identifi applicationid applic 
+PACKAGE	springframework roo addon jpa 
+MTHSIG2	databaseproperti databas properti 
+VARSIG36	clioption cli option kei databas mandatori databas support jdbcdatabas jdbc databas jdbcdatabas jdbc databas 
+MTHSIG3	databaseremov databas remov kei 
+VARSIG35	clioption cli option kei provid mandatori persist provid support ormprovid orm provid ormprovid orm provid 
+MTHSIG8	hasdatabaseproperti databas properti 
+VARSIG30	clioption cli option kei databasenam databas mandatori databas databasenam databas 
+MTHSIG9	installjpa instal jpa ormprovid orm provid ormprovid orm provid jdbcdatabas jdbc databas jdbcdatabas jdbc databas applicationid applic jndi hostnam host databasenam databas usernam user password transactionmanag transact manag persistenceunit persist unit 
+CLASSES	jpacommand jpa command 
+VARSIG29	clioption cli option kei hostnam host mandatori host hostnam host 
+VARSIG28	clioption cli option kei jndidatasourc jndi data sourc mandatori jndi datasourc jndi 
+METHODS	activ createembeddableclass creat embedd databaseproperti databas properti databaseremov databas remov databaseset databas set deactiv getentityannotationbuild entiti annot builder getentityannotationtyp entiti annot type hasdatabaseproperti databas properti installjpa instal jpa installpersist instal persist isjdk orhigh jdk higher isjpasetupavail jpa setup ispersistentclassavail persist newpersistenceclassjpa persist jpa 
+VARSIG23	activerecord activ record 
+VARSIG67	clioption cli option kei activerecord activ record mandatori specifieddefaultvalu unspecifieddefaultvalu unspecifi gener crud activ record method entiti activerecord activ record 
+VARSIG22	sequencenam sequenc 
+VARSIG66	clioption cli option kei sequencenam sequenc mandatori sequenc increment sequenc driven primari sequencenam sequenc 
+VARSIG21	entitynam entiti 
+VARSIG65	clioption cli option kei entitynam entiti mandatori refer entiti queri entitynam entiti 
+VARSIG20	transactionmanag transact manag 
+VARSIG64	clioption cli option kei permitreservedword permit reserv mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu reserv roo permitreservedword permit reserv 
+VARSIG27	clioption cli option kei applicationid applic mandatori unspecifieddefaultvalu unspecifi project project googl app engin applic identifi applicationid applic 
+VARSIG26	clioption cli option kei databas mandatori databas support jdbcdatabas jdbc databas jdbcdatabas jdbc databas 
+VARSIG25	clioption cli option kei provid mandatori persist provid support ormprovid orm provid ormprovid orm provid 
+VARSIG24	activerecord activ record 
+VARSIG63	clioption cli option kei transactionmanag transact manag mandatori transact manag transactionmanag transact manag 
+VARSIG62	clioption cli option kei persistenceunit persist unit mandatori persist unit persist xml file persistenceunit persist unit 
+VARSIG61	clioption cli option kei serializ mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu gener implement serializ serializ 
+VARSIG60	clioption cli option kei equal mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu gener implement equal hashcod hash code method equal 
+VARSIG7	componentcontext compon context context 
+VARSIG6	clioption cli option kei mandatori vale properti kei 
+VARSIG9	schema 
+VARSIG8	tabl 
+VARSIG3	clioption cli option kei permitreservedword permit reserv mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu reserv roo permitreservedword permit reserv 
+VARSIG2	clioption cli option kei serializ mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu gener implement serializ serializ 
+VARSIG5	clioption cli option kei kei mandatori properti kei chang kei 
+VARSIG4	clioption cli option kei kei mandatori properti kei remov kei 
+COMMENTS	command jpa add roo shell return builder entiti annot newli creat jpa entiti tabl schema catalog identifierfield identifi field identifiercolumn identifi column identifiertyp identifi type versionfield version field versioncolumn version column versiontyp version type inheritancetyp inherit type mappedsuperclass map superclass persistenceunit persist unit transactionmanag transact manag entitynam entiti sequencenam sequenc activerecord activ record gener activ record crud method entiti builder attribut appli jpa entiti activ record attribut appli entiti crud activ record method return type annot entiti activerecord activ record entiti crud activ record method gener type can test reject attempt entiti test clash data demand roo happen user insist permitreservedword permit reserv roo creat entiti entiti annot produc entiti creat entiti identifi requir 
+VARSIG19	persistenceunit persist unit 
+VARSIG1	clioption cli option kei optioncontext option context updat project mandatori creat javatyp type 
+VARSIG18	mappedsuperclass map superclass 
+VARSIG0	componentcontext compon context context 
+VARSIG17	inheritancetyp inherit type inheritancetyp inherit type 
+VARSIG12	identifiercolumn identifi column 
+VARSIG56	clioption cli option kei versioncolumn version column mandatori jpa version field column entiti versioncolumn version column 
+VARSIG11	identifierfield identifi field 
+VARSIG55	clioption cli option kei versionfield version field mandatori jpa version field entiti versionfield version field 
+VARSIG10	catalog 
+VARSIG54	clioption cli option kei identifiertyp identifi type mandatori optioncontext option context lang project unspecifieddefaultvalu unspecifi lang specifieddefaultvalu lang data type jpa identifi field default lang javatyp type identifiertyp identifi type 
+VARSIG53	clioption cli option kei identifiercolumn identifi column mandatori jpa identifi field column entiti identifiercolumn identifi column 
+VARSIG16	javatyp type versiontyp version type 
+VARSIG15	versioncolumn version column 
+VARSIG59	clioption cli option kei mappedsuperclass map superclass mandatori specifieddefaultvalu unspecifieddefaultvalu unspecifi appli mappedsuperclass map superclass entiti mappedsuperclass map superclass 
+VARSIG14	versionfield version field 
+VARSIG58	clioption cli option kei inheritancetyp inherit type mandatori jpa inherit appli base inheritancetyp inherit type inheritancetyp inherit type 
+VARSIG13	javatyp type identifiertyp identifi type 
+VARSIG57	clioption cli option kei versiontyp version type mandatori optioncontext option context lang project unspecifieddefaultvalu unspecifi lang integ data type jpa version field default lang integ javatyp type versiontyp version type 
+VARSIG52	clioption cli option kei identifierfield identifi field mandatori jpa identifi field entiti identifierfield identifi field 
+VARSIG51	clioption cli option kei catalog mandatori jpa tabl catalog entiti catalog 
+VARSIG50	clioption cli option kei schema mandatori jpa tabl schema entiti schema 
+MTHSIG13	ispersistentclassavail persist 
+MTHSIG14	newpersistenceclassjpa persist jpa javatyp type javatyp type superclass createabstract creat testautomat test automat tabl schema catalog identifierfield identifi field identifiercolumn identifi column javatyp type identifiertyp identifi type versionfield version field versioncolumn version column javatyp type versiontyp version type inheritancetyp inherit type inheritancetyp inherit type mappedsuperclass map superclass equal serializ persistenceunit persist unit transactionmanag transact manag permitreservedword permit reserv entitynam entiti sequencenam sequenc activerecord activ record 
+MTHSIG11	isjdk orhigh jdk higher 
+MTHSIG12	isjpasetupavail jpa setup 
+VARSIG45	clioption cli option kei optioncontext option context updat project mandatori entiti creat javatyp type 
+VARSIG44	clioption cli option kei persistenceunit persist unit mandatori persist unit persist xml file persistenceunit persist unit 
+VARSIG43	clioption cli option kei transactionmanag transact manag mandatori transact manag transactionmanag transact manag 
+VARSIG42	clioption cli option kei password mandatori password password 
+VARSIG49	clioption cli option kei tabl mandatori jpa tabl entiti tabl 
+VARSIG48	clioption cli option kei testautomat test automat mandatori specifieddefaultvalu unspecifieddefaultvalu unspecifi creat automat integr test entiti testautomat test automat 
+VARSIG47	clioption cli option kei mandatori specifieddefaultvalu unspecifieddefaultvalu unspecifi gener mark createabstract creat 
+VARSIG46	clioption cli option kei mandatori unspecifieddefaultvalu unspecifi lang object superclass default lang object javatyp type superclass 
+MTHSIG10	installpersist instal persist ormprovid orm provid ormprovid orm provid jdbcdatabas jdbc databas jdbcdatabas jdbc databas applicationid applic jndi hostnam host databasenam databas usernam user password transactionmanag transact manag persistenceunit persist unit 
+VARIABLES	context serializ permitreservedword permit reserv kei kei context tabl schema catalog identifierfield identifi field identifiercolumn identifi column identifiertyp identifi type versionfield version field versioncolumn version column versiontyp version type inheritancetyp inherit type mappedsuperclass map superclass persistenceunit persist unit transactionmanag transact manag entitynam entiti sequencenam sequenc activerecord activ record activerecord activ record ormprovid orm provid jdbcdatabas jdbc databas applicationid applic jndi hostnam host databasenam databas usernam user password transactionmanag transact manag persistenceunit persist unit ormprovid orm provid jdbcdatabas jdbc databas applicationid applic jndi hostnam host databasenam databas usernam user password transactionmanag transact manag persistenceunit persist unit superclass createabstract creat testautomat test automat tabl schema catalog identifierfield identifi field identifiercolumn identifi column identifiertyp identifi type versionfield version field versioncolumn version column versiontyp version type inheritancetyp inherit type mappedsuperclass map superclass equal serializ persistenceunit persist unit transactionmanag transact manag permitreservedword permit reserv entitynam entiti sequencenam sequenc activerecord activ record logger roo equal builder roo bean builder roo serializ builder roo builder integrationtestoper integr test oper jpaoper jpa oper projectoper project oper propfileoper prop file oper staticfieldconvert field convert entityannotationbuild entiti annot builder ver annotationbuild annot builder 
+VARSIG41	clioption cli option kei usernam user mandatori usernam usernam user 
+VARSIG40	clioption cli option kei databasenam databas mandatori databas databasenam databas 

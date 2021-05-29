@@ -1,0 +1,52 @@
+MTHSIG4	getchildelementsbytagnam child element tag element element childelenam child el 
+MTHSIG5	getchildelementsbytagnam child element tag element element childelementnam child element name 
+MTHSIG6	getchildelementvaluebytagnam child element tag element element childelementnam child element 
+MTHSIG7	getchildtextcont child text content element parent child 
+MTHSIG0	createchildel creat child element tagnam tag node parent document document 
+MTHSIG1	createchildifnotexist creat child exist tagnam tag node parent document document 
+PACKAGE	springframework roo support util 
+MTHSIG2	findfirstelementbynam find element element root 
+MTHSIG3	getchildelementbytagnam child element tag element element childelementnam child element 
+MTHSIG8	gettextcont text content node node defaultvalu 
+VARSIG30	node node 
+MTHSIG9	gettextvalu text element valueel element 
+CLASSES	domutil dom util 
+VARSIG29	element elementtodelet element delet 
+VARSIG28	element searchbas search base 
+METHODS	createchildel creat child element createchildifnotexist creat child exist findfirstelementbynam find element getchildelementbytagnam child element tag getchildelementsbytagnam child element tag getchildelementsbytagnam child element tag getchildelementvaluebytagnam child element tag getchildtextcont child text content gettextcont text content gettextvalu text nodenameequ node equal nodenamematch node match nodenamematch node match removeel remov element removetextnod remov text node domutil dom util 
+VARSIG23	node node 
+VARSIG22	desirednam desir 
+VARSIG21	node node 
+VARSIG20	element valueel element 
+VARSIG27	xpath path 
+VARSIG26	desirednam desir 
+VARSIG25	node node 
+VARSIG24	collect desirednam desir name 
+VARSIG7	element root 
+VARSIG6	 
+VARSIG9	childelementnam child element 
+VARSIG8	element element 
+VARSIG3	tagnam tag 
+VARSIG2	document document 
+VARSIG5	document document 
+VARSIG4	node parent 
+COMMENTS	conveni method work dom api work dom node dom element dom node dom element creat child element parent avoid type develop call link document createel creat element forget append relev parent tagnam tag child requir parent parent node requir document document parent child belong requir creat element return child node tag creat exist tagnam tag child tag creat requir parent parent child requir document document parent requir exist creat child child add check root element find child element match suppli return link element exist element requir root parent dom element requir element discov return child element identifi element dom element analyz childelementnam child element child element dom element instanc retriev child element dom element match element direct child level element depth contrast dom api api getelementsbytagnam element tag element dom element analyz childelenam child el child element list child dom element instanc dom element dom element getelementsbytagnam element tag retriev child element dom element match element name direct child level element depth contrast dom api api getelementsbytagnam element tag element dom element analyz childelementnam child element name child element name list child dom element instanc dom element dom element getelementsbytagnam element tag return child element identifi element dom element analyz childelementnam child element child element extract text child element return text content child parent tag parent parent search requir child child search requir child child child text content return text content link node safe node defaultvalu node node node gettextcont text content extract text dom element ignor xml comment append characterdata charact data node entityrefer entiti refer node singl exclud comment node characterdata charact data entityrefer entiti refer comment namespac awar equal comparison return link node getlocalnam local link node getnodenam node equal desirednam desir return node requir desirednam desir requir match node node local desir name node desirednam desir name match node node local desir node desirednam desir remov element match xpath path express rel element xpath path xpath path element remov blank searchbas search base element xpath path express rel remov empti text node node node element empti text node remov constructor prevent instanti 
+VARSIG19	defaultvalu 
+VARSIG1	node parent 
+VARSIG18	node node 
+VARSIG0	tagnam tag 
+VARSIG17	child 
+VARSIG12	element element 
+VARSIG11	childelenam child el 
+VARSIG10	element element 
+VARSIG16	element parent 
+VARSIG15	childelementnam child element 
+VARSIG14	element element 
+VARSIG13	childelementnam child element name 
+MTHSIG15	domutil dom util 
+MTHSIG13	removeel remov element xpath path element searchbas search base 
+MTHSIG14	removetextnod remov text node node node 
+MTHSIG11	nodenamematch node match node node collect desirednam desir name 
+MTHSIG12	nodenamematch node match node node desirednam desir 
+MTHSIG10	nodenameequ node equal node node desirednam desir 
+VARIABLES	tagnam tag parent document tagnam tag parent document root element childelementnam child element element childelenam child el element childelementnam child element name element childelementnam child element parent child node defaultvalu valueel element node desirednam desir node desirednam desir name node desirednam desir xpath path searchbas search base elementtodelet element delet node child existingchild exist child node childelenamelist child el list childel child el node child children item parentnod parent node children child 

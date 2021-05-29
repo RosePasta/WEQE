@@ -1,0 +1,51 @@
+MTHSIG26	getdialect dialect
+MTHSIG24	readprimarykeynames read primary key names
+MTHSIG25	readsequences read sequences
+MTHSIG22	readindices read indices
+MTHSIG23	findindex find set indices
+MTHSIG4	setcatalog set catalog catalog
+MTHSIG5	getschema schema
+MTHSIG6	getschemapattern schema pattern
+MTHSIG7	setschema set schema schema schema
+MTHSIG0	schemaintrospector schema introspector connection connection schema schema
+MTHSIG1	schemaintrospector schema introspector connection connection
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	getconnection connection
+MTHSIG3	getcatalog catalog
+MTHSIG20	getcascadeaction cascade action actionvalue action
+MTHSIG21	readexportedkeys read exported
+MTHSIG8	gettablenamepattern table pattern
+MTHSIG9	settablenamepattern set table pattern tablenamepattern table pattern
+CLASSES	schemaintrospector schema introspector
+METHODS	schemaintrospector schema introspector schemaintrospector schema introspector getconnection connection getcatalog catalog setcatalog set catalog getschema schema getschemapattern schema pattern setschema set schema gettablenamepattern table pattern settablenamepattern set table pattern getcolumnnamepattern column pattern setcolumnnamepattern set column pattern gettypes types settypes set types getschemas schemas getdatabase database readtables read tables ignoretables ignore tables readcolumns read columns readforeignkeys read foreign getcascadeaction cascade action readexportedkeys read exported readindices read indices findindex find readprimarykeynames read primary key names readsequences read sequences getdialect dialect
+VARSIG7	types
+VARSIG6	columnnamepattern column pattern
+VARSIG9	sqlexception sql exception
+VARSIG8	columnname column
+VARSIG3	catalog
+VARSIG2	connection connection
+VARSIG5	tablenamepattern table pattern
+VARSIG4	schema schema
+COMMENTS	creates link database database model live database jdbc check tables oracle recycle bin tables ignore type catching sqlexception sql exception oracle throwing exception attempting retrieve indices deleted tables exist oracle oracle recycle bin
+VARSIG1	schema schema
+VARSIG18	exception
+VARSIG0	connection connection
+VARSIG17	sqlexception sql exception
+VARSIG12	
+VARSIG11	sqlexception sql exception
+VARSIG10	actionvalue action
+VARSIG16	sqlexception sql exception
+VARSIG15	sqlexception sql exception
+VARSIG14	
+VARSIG13	set indices
+MTHSIG17	ignoretables ignore tables
+MTHSIG18	readcolumns read columns
+MTHSIG15	getdatabase database
+MTHSIG16	readtables read tables
+MTHSIG13	settypes set types types
+MTHSIG14	getschemas schemas
+MTHSIG11	setcolumnnamepattern set column pattern columnnamepattern column pattern
+MTHSIG12	gettypes types
+MTHSIG19	readforeignkeys read foreign
+MTHSIG10	getcolumnnamepattern column pattern
+VARIABLES	connection schema connection catalog schema tablenamepattern table pattern columnnamepattern column pattern types columnname column actionvalue action indices types connection databasemetadata database meta data catalog schema tablenamepattern table pattern columnnamepattern column pattern types schemas database tables table column ignore columns column columnsize column size foreignkeys foreign foreigntablename foreign table key foreignkey foreign key reference cascadeaction cascade action exportedkeys exported foreigntablename foreign table key foreignkey foreign key reference indices type indexname indexcolumn column columnnames column names sequences dialect pstmt productname product

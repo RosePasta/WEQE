@@ -1,0 +1,35 @@
+VARSIG7	file file
+VARSIG6	path
+VARSIG9	fileidentifier file identifier
+VARSIG8	ioexception exception ioe
+VARSIG3	deletedestinationonexit delete destination exit
+VARSIG2	file destination
+VARSIG5	ioexception exception ioe
+VARSIG4	file
+COMMENTS	utilities handling link file instances relative file path current directory valid platforms roo supports returns file system path element fileidentifier file identifier copies source directory destination source exist destination exist created destination exist directory file source existing source directory required destination destination directory required deletedestinationonexit delete destination exit mark created destinations deletion exit copy successful directory copy ensures path trailing link file separator path path modify can normalised path returns canonical path link file file file find canonical path canonical path file returns platform specific file separator regular expression blank regex escape backslashes returns path represents directory path directory parent directory file fileidentifier file identifier path parse required loads file classpath loadingclass loading load file required filename file load relative required file file input stream nullpointerexception pointer exception file determines path requested file relative loadingclass loading file relative required relativefilename relative filename file relative required full classloader specific path file slashes file separatorchar separator correct classloader paths file system paths returns operating system dependent path consisting elements separated link file separator pathelements path elements path elements uppermost can empty blank returns operating system dependent path consisting elements separated link file separator pathelements path elements path elements uppermost can empty blank canonical path matches ant style pattern antpattern ant pattern pattern check can blank canonicalpath canonical path path check can blank constructor prevent instantiation
+VARSIG1	file source
+VARSIG0	fileidentifier file identifier
+VARSIG17	canonicalpath canonical path
+MTHSIG4	getfileseparatorasregex file separator regex
+VARSIG12	loadingclass loading
+MTHSIG5	getfirstdirectory directory fileidentifier file identifier
+VARSIG11	filename
+MTHSIG6	getinputstream input stream loadingclass loading filename
+VARSIG10	loadingclass loading
+MTHSIG7	getpath path loadingclass loading relativefilename relative filename
+MTHSIG0	backonedirectory directory fileidentifier file identifier
+VARSIG16	antpattern ant pattern
+MTHSIG1	copyrecursively copy recursively file source file destination deletedestinationonexit delete destination exit
+VARSIG15	pathelements path elements
+PACKAGE	springframework roo support util
+MTHSIG2	ensuretrailingseparator ensure trailing separator path
+VARSIG14	collection pathelements path elements
+MTHSIG3	getcanonicalpath canonical path file file
+VARSIG13	relativefilename relative filename
+MTHSIG8	getsystemdependentpath system dependent path collection pathelements path elements
+MTHSIG9	getsystemdependentpath system dependent path pathelements path elements
+MTHSIG11	fileutils file utils
+CLASSES	fileutils file utils
+METHODS	backonedirectory directory copyrecursively copy recursively ensuretrailingseparator ensure trailing separator getcanonicalpath canonical path getfileseparatorasregex file separator regex getfirstdirectory directory getinputstream input stream getpath path getsystemdependentpath system dependent path getsystemdependentpath system dependent path matchesantpath matches ant path fileutils file utils
+MTHSIG10	matchesantpath matches ant path antpattern ant pattern canonicalpath canonical path
+VARIABLES	fileidentifier file identifier source destination deletedestinationonexit delete destination exit ioe path file ioe fileidentifier file identifier loadingclass loading filename loadingclass loading relativefilename relative filename pathelements path elements pathelements path elements antpattern ant pattern canonicalpath canonical path backslash current directory escaped backslash path matcher fileseparator file separator inputstream input stream

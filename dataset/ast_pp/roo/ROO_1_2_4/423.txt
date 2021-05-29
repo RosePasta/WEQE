@@ -1,0 +1,124 @@
+MTHSIG28	upgradeaddon upgrade add addonbundlesymbolicname add bundle symbolic bsn
+MTHSIG29	upgradeaddon upgrade add bundleid bundle
+MTHSIG26	removeaddon remove add bundlesymbolicname bundle symbolic bsn
+MTHSIG27	searchaddons search add ons showfeedback feedback searchterms search terms refresh linesperresult lines result maxresults max trustedonly trusted compatibleonly compatible communityonly community requirescommand requires command
+MTHSIG24	printresultlist print result list collection bundle bundles maxresults max linesperresult lines result
+MTHSIG25	printseparator print separator
+MTHSIG22	populatebundlecache populate bundle cache document roobotxml roobot xml
+MTHSIG23	printaddonstats print addon stats
+MTHSIG4	checkaddonstabilitylevel check add stability level addonstabilitylevel add stability level addonstabilitylevel add stability level
+VARSIG78	addonstabilitylevel add stability level addonstabilitylevel addon stability level
+MTHSIG5	countbundles count bundles
+VARSIG77	bundle bundle
+MTHSIG6	deactivate componentcontext component context context
+VARSIG76	bundleid bundle
+MTHSIG7	filterlist filter list list bundle bundles trustedonly trusted compatibleonly compatible communityonly community requirescommand requires command onlyrelevantbundles relevant bundles
+VARSIG75	addonbundlesymbolicname add bundle symbolic bsn
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	addoninfo add info addonbundlesymbolicname add bundle symbolic bsn
+MTHSIG2	addoninfo add info bundle bundle bundleversion bundle version bundleversion bundle version
+MTHSIG3	addoninfo add info bundlekey bundle key
+VARSIG79	entry bundle entry
+MTHSIG20	loginfo log info label content
+VARSIG70	maxresults max
+MTHSIG21	populatebundlecache populate bundle cache startuptime startup time
+MTHSIG8	findaddons find addons showfeedback feedback searchterms search terms refresh linesperresult lines result maxresults max trustedonly trusted compatibleonly compatible communityonly community requirescommand requires command
+VARSIG74	requirescommand requires command
+MTHSIG9	getaddoncache add cache refresh
+VARSIG73	communityonly community
+VARSIG72	compatibleonly compatible
+VARSIG71	trustedonly trusted
+MTHSIG33	verifyrepository verify repository repourl repo url
+METHODS	activate addoninfo add info addoninfo add info addoninfo add info checkaddonstabilitylevel check add stability level countbundles count bundles deactivate filterlist filter list findaddons find addons getaddoncache add cache getupgradablebundles upgradable bundles getversionforcompatibility version compatibility installaddon install addon installaddon install add installaddon install add installorupgradeaddon install upgrade add isbundleinstalled bundle installed iscompatible compatible istrustedkey trusted key listaddons list add ons loginfo log info populatebundlecache populate bundle cache populatebundlecache populate bundle cache printaddonstats print addon stats printresultlist print result list printseparator print separator removeaddon remove add searchaddons search add ons upgradeaddon upgrade add upgradeaddon upgrade add upgradeaddons upgrade add ons upgradesavailable upgrades upgradesettings upgrade settings verifyrepository verify repository
+VARSIG67	searchterms search terms
+VARSIG66	showfeedback feedback
+VARSIG65	bundlesymbolicname bundle symbolic bsn
+VARSIG64	bundle bundle
+VARSIG69	linesperresult lines result
+VARSIG68	refresh
+MTHSIG31	upgradesavailable upgrades addonstabilitylevel add stability level addonstabilitylevel addon stability level
+MTHSIG32	upgradesettings upgrade settings addonstabilitylevel add stability level addonstabilitylevel add stability level
+MTHSIG30	upgradeaddons upgrade add ons
+VARSIG63	linesperresult lines result
+VARSIG62	maxresults max
+VARSIG61	collection bundle bundles
+VARSIG60	element shell
+COMMENTS	implementation commands roo shell refresh set relevance bundles problem add pgp verification required bundle installed log needed refresh handle http wasn eager startup time attempt let display error reason startup time fail quietly appears acquire url let fall normal protocol handler local development testing list add ons core roo interested major minor security reasons accept httppgp add versions prevent thread presented roo shell
+VARSIG19	searchterms search terms
+VARSIG18	showfeedback feedback
+VARSIG17	cmd
+VARSIG12	compatibleonly compatible
+VARSIG11	trustedonly trusted
+VARSIG10	list bundle bundles
+VARSIG16	bundle bundle
+VARSIG15	onlyrelevantbundles relevant bundles
+VARSIG14	requirescommand requires command
+VARSIG13	communityonly community
+MTHSIG17	iscompatible compatible version
+MTHSIG18	istrustedkey trusted key list pgppublickeyring pgp key ring keyid key
+MTHSIG15	installorupgradeaddon install upgrade add bundleversion bundle version bundleversion bundle version bsn install
+MTHSIG16	isbundleinstalled bundle installed bundle search
+MTHSIG13	installaddon install add addonbundlesymbolicname add bundle symbolic bsn
+MTHSIG14	installaddon install add bundlekey bundle key
+MTHSIG11	getversionforcompatibility version compatibility
+MTHSIG12	installaddon install addon bundleversion bundle version bundleversion bundle version bsn
+MTHSIG19	listaddons list add ons refresh linesperresult lines result maxresults max trustedonly trusted compatibleonly compatible communityonly community requirescommand requires command
+VARSIG81	illegalstateexception illegal exception ignore
+MTHSIG10	getupgradablebundles upgradable bundles addonstabilitylevel add stability level asl
+VARSIG80	addonstabilitylevel add stability level addonstabilitylevel add stability level
+VARIABLES	context bsn bundle bundleversion bundle version version entry comment bundlekey bundle key addonstabilitylevel add stability level context bundles trustedonly trusted compatibleonly compatible communityonly community requirescommand requires command onlyrelevantbundles relevant bundles bundle cmd showfeedback feedback searchterms search terms refresh linesperresult lines result maxresults max trustedonly trusted compatibleonly compatible communityonly community requirescommand requires command bundle term refresh asl bundle bundleversion bundle version bsn bsn bundlekey bundle key bundleversion bundle version bsn install search bundle version keyid key keyring key ring refresh linesperresult lines result maxresults max trustedonly trusted compatibleonly compatible communityonly community requirescommand requires command label content startuptime startup time roobotxml roobot xml bundleelement bundle element commentelement comment element versionelement version element shell bundles maxresults max linesperresult lines result bundle bsn showfeedback feedback searchterms search terms refresh linesperresult lines result maxresults max trustedonly trusted compatibleonly compatible communityonly community requirescommand requires command bsn bundleid bundle bundle addonstabilitylevel addon stability level entry addonstabilitylevel add stability level ignore repourl repo url resource addon upgrade stability level logger upgrade bsn list pgpservice pgp service preferencesservice preferences service shell urlinputstreamservice url input stream service bundlecache bundle cache context dateformat format mutex prefs rooboteagerdownload roo bot eager download roobotindexdownload roo bot download roobotxmlurl roo bot xml url searchresultcache search result cache bundlecontext bundle context roobot bsnstring bsn bundle bundle bundles filteredlist filtered list latest matchingcommand matching command onlyrelevantbundles relevant bundles terms hits latest bundles filteredsearchresults filtered search bundles bundlecontext bundle context bundleversion bundle version roobotbundleversion roo bot bundle version ebv exisingbundleversion exising bundle version status bsnstring bsn bundle bundle count requireswrappedcoredependency requires wrapped core dependency success bundlecontext bundle context bsn pgpkey pgp key bundles filteredlist filtered list split success bais baos dbf httpurl http url failuremessage failure message zip roobotxml roobot xml bsn comments bundle signedby signed pgpkey pgp key pgpsigned pgp signed commands versionbuilder version builder versionmicro version micro versionqualifier version qualifier rooversion roo version split version msg currentlevel current level currentlevelbundles current level bundles anylevelbundles level bundles plussize size bundleid bundle latest bundlekey bundle key split lpr success count status result bsnstring bsn bundle bundleversion bundle version status bundle bundleversion bundle version status addonstabilitylevel addon stability level bundles upgraded bundleversion bundle version status bundles latest success dbf doc obrurl obr url bais baos zip buffer length
+VARSIG84	exception
+VARSIG83	element resource
+VARSIG82	repourl repo url
+VARSIG39	bundle search
+VARSIG34	addonbundlesymbolicname add bundle symbolic bsn
+VARSIG33	bsn
+VARSIG32	bundleversion bundle version bundleversion bundle version
+VARSIG31	osgi framework bundle bundle
+VARSIG38	install
+VARSIG37	bsn
+PACKAGE	springframework roo addon roobot client
+VARSIG36	bundleversion bundle version bundleversion bundle version
+VARSIG35	bundlekey bundle key
+VARSIG30	addonstabilitylevel add stability level asl
+CLASSES	addonroobotoperationsimpl add roo bot operations impl
+VARSIG29	refresh
+VARSIG28	term
+VARSIG23	trustedonly trusted
+VARSIG22	maxresults max
+VARSIG21	linesperresult lines result
+VARSIG20	refresh
+VARSIG27	bundle bundle
+VARSIG26	requirescommand requires command
+VARSIG25	communityonly community
+VARSIG24	compatibleonly compatible
+VARSIG7	bundlekey bundle key
+VARSIG6	comment comment
+VARSIG9	componentcontext component context context
+VARSIG8	addonstabilitylevel add stability level addonstabilitylevel add stability level
+VARSIG3	bundleversion bundle version bundleversion bundle version
+VARSIG2	bundle bundle
+VARSIG5	entry entry
+VARSIG4	bundleversion bundle version version
+VARSIG1	addonbundlesymbolicname add bundle symbolic bsn
+VARSIG0	componentcontext component context context
+VARSIG56	document roobotxml roobot xml
+VARSIG55	throwable
+VARSIG54	startuptime startup time
+VARSIG53	content
+VARSIG59	element versionelement version element
+VARSIG58	element commentelement comment element
+VARSIG57	element bundleelement bundle element
+VARSIG52	label
+VARSIG51	requirescommand requires command
+VARSIG50	communityonly community
+VARSIG45	refresh
+VARSIG44	pgppublickeyring pgp key ring keyring key ring
+VARSIG43	keyid key
+VARSIG42	list pgppublickeyring pgp key ring
+VARSIG49	compatibleonly compatible
+VARSIG48	trustedonly trusted
+VARSIG47	maxresults max
+VARSIG46	linesperresult lines result
+VARSIG41	version
+VARSIG40	osgi framework bundle bundle

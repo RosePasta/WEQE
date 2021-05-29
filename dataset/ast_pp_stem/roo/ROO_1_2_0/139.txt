@@ -1,0 +1,98 @@
+MTHSIG28	updategaehelp updat gae helper 
+MTHSIG29	copydirectorycont copi directori content 
+MTHSIG26	updatedepend updat depend element configur 
+MTHSIG27	updatewebxml updat web xml 
+MTHSIG24	getpompath pom path 
+MTHSIG25	updaterepositori updat repositori element configur 
+MTHSIG22	updateeclipseplugin updat plugin 
+MTHSIG23	updatebuildoutputdirectori updat build output directori 
+MTHSIG4	isscaffoldavail scaffold 
+MTHSIG5	setup 
+MTHSIG6	proxyal proxi javapackag proxypackag proxi 
+MTHSIG7	proxytyp proxi type javapackag proxypackag proxi javatyp type type 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	getnam 
+MTHSIG2	isinstalledinmodul instal modul modulenam modul 
+MTHSIG3	isgwtinstallationposs gwt instal 
+MTHSIG20	createscaffold creat scaffold classorinterfacetypedetail type detail proxi 
+MTHSIG21	updatescaffoldboilerpl updat scaffold boiler plate 
+MTHSIG8	requestal request javapackag proxypackag proxi 
+MTHSIG9	requesttyp request type javapackag requestpackag request javatyp type type 
+MTHSIG35	removeiffound remov xpath element webxmlroot web xml root 
+MTHSIG36	getgaehookup gae hookup 
+MTHSIG33	processtempl process templat input segmentpackag segment 
+MTHSIG34	updatebuildplugin updat build plugin isgaeen gae enabl 
+METHODS	activ getnam isinstalledinmodul instal modul isgwtinstallationposs gwt instal isscaffoldavail scaffold setup proxyal proxi proxytyp proxi type requestal request requesttyp request type proxyandrequestal proxi request proxyandrequesttyp proxi request type scaffoldal scaffold scaffoldtyp scaffold type updategaeconfigur updat gae configur addpackagetogwtxml add gwt xml createproxi creat proxi createrequestinterfaceifnecessari creat request createrequestinterfac creat request getroogwtrequestannot roo gwt request annot createscaffold creat scaffold updatescaffoldboilerpl updat scaffold boiler plate updateeclipseplugin updat plugin updatebuildoutputdirectori updat build output directori getpompath pom path updaterepositori updat repositori updatedepend updat depend updatewebxml updat web xml updategaehelp updat gae helper copydirectorycont copi directori content copydirectorycont copi directori content deleteuntouchedsetupfil delet untouch setup file updatefil updat file processtempl process templat updatebuildplugin updat build plugin removeiffound remov getgaehookup gae hookup 
+MTHSIG31	deleteuntouchedsetupfil delet untouch setup file sourceantpath sourc ant path targetdirectori target directori 
+MTHSIG32	updatefil updat file sourceantpath sourc ant path targetdirectori target directori segmentpackag segment overwrit 
+MTHSIG30	copydirectorycont copi directori content gwtpath gwt path gwtpath gwt path 
+COMMENTS	implement link gwtoper gwt oper constant field instal web piec instal add gwt natur builder name maven plugin add outputdirectori output directori build element pom add pom repositori add depend updat web xml updat gwt maven plugin updat gaehelp gae helper type ensur gwt maven plugin gae enabl disabl environ updat appengin sdk denot gae type add appengin api sdk depend pom xml file copi miss file gae chang enabl build entiti entiti requestcontext request context note don gener entir roogwtrequest roo gwt request annot invok metadata provid take gener remain code declar servicenam servic annot analog base addon work ad trigger annot let metadata provid metadata provid correctli respond project entiti entiti creat gwt request requir destinationpackag destin creat request requir trigger gwtrequestmetadataprovid gwt request metadata provid finish gener code gwtrequestmetadataprovid gwt request metadata provid doesn exclud method activ add requir crud method updat plugin pom gwt detail load pom add gwt buildcommand build command add gwt projectnatur set pom pom output directori output directori set read pom creat file targetfilenam target filenam delet read templat insert user user output file user updat pom 
+VARSIG19	javapackag requestpackag request 
+VARSIG18	javapackag proxypackag proxi 
+VARSIG17	classorinterfacetypedetail type detail proxi 
+VARSIG12	javapackag proxyandrequestpackag proxi request 
+VARSIG11	javatyp type type 
+VARSIG10	javapackag requestpackag request 
+VARSIG16	javapackag requestpackag request 
+VARSIG15	javapackag proxypackag proxi 
+VARSIG14	javatyp type type 
+VARSIG13	javapackag proxyandrequestpackag proxi request 
+MTHSIG17	createrequestinterfaceifnecessari creat request classorinterfacetypedetail type detail entiti javapackag destinationpackag destin 
+MTHSIG18	createrequestinterfac creat request classorinterfacetypedetail type detail entiti javapackag destinationpackag destin 
+MTHSIG15	addpackagetogwtxml add gwt xml javapackag sourcepackag sourc 
+MTHSIG16	createproxi creat proxi classorinterfacetypedetail type detail entiti javapackag destinationpackag destin 
+MTHSIG13	scaffoldtyp scaffold type javapackag proxypackag proxi javapackag requestpackag request javatyp type type 
+MTHSIG14	updategaeconfigur updat gae configur 
+MTHSIG11	proxyandrequesttyp proxi request type javapackag proxyandrequestpackag proxi request javatyp type type 
+MTHSIG12	scaffoldal scaffold javapackag proxypackag proxi javapackag requestpackag request 
+MTHSIG19	getroogwtrequestannot roo gwt request annot classorinterfacetypedetail type detail entiti 
+MTHSIG10	proxyandrequestal proxi request javapackag proxyandrequestpackag proxi request 
+VARIABLES	context modulenam modul buildplugin build plugin proxyorrequest proxi request proxypackag proxi entiti proxypackag proxi type proxypackag proxi entiti requestpackag request type proxyandrequestpackag proxi request proxyandrequestpackag proxi request type proxypackag proxi requestpackag request proxi proxypackag proxi requestpackag request type sourcepackag sourc entiti destinationpackag destin entiti destinationpackag destin entiti destinationpackag destin entiti proxi existingannot exist annot configur repositoryel repositori element repositoryel repositori element configur dependencyel depend element path gwtpath gwt path sourceantpath sourc ant path targetdirectori target directori url sourceantpath sourc ant path targetdirectori target directori segmentpackag segment overwrit url input segmentpackag segment isgaeen gae enabl pluginel plugin element plugin xpath webxmlroot web xml root toremov remov gwt build command gwt project natur maven plugin output directori filemanag file manag gwttemplateservic gwt templat servic gwttypeservic gwt type servic metadataservic metadata servic persistencememberloc persist member locat projectoper project oper typelocationservic type locat servic typemanagementservic type manag servic webmvcoper web mvc oper context wasgaeen gae enabl pom toppackagenam top gwtconfig gwt config gwtalreadysetup gwt setup sourceantpath sourc ant path targetdirectori target directori cidbuild cid builder annotationmetadata annot metadata annotationmetadatabuild annot metadata builder annotationmetadata annot metadata annotationmetadatabuild annot metadata builder configur entiti request entiti proxi request isgaeen gae enabl hasgaestatechang gae chang rootpath root path file configur gaedepend gae depend gwtconfig gwt config moduleroot modul root toplevelpackag top level relativepackag rel existingproxi exist proxi proxytyp proxi type focusedmodul focus modul proxylogicalpath proxi logic path cidbuild cid builder attributevalu attribut valu stringattributevalu attribut locat locatorattributevalu locat attribut readonlyvalu read valu versionfield version field idfield field readonlyattribut read attribut requesttyp request type focusedsrcmainjava focus src requestbuild request builder entityattributevalu entiti attribut gwtrequestattributevalu gwt request attribut valu annotationmetadata annot metadata booleanattributevalu attribut cidbuild cid builder annotationmetadatabuild annot metadata builder targetdirectori target directori pom document root additionalbuildcommandsel addit build command element gwtbuildcommandel gwt build command element nameel element additionalprojectnaturesel addit project natur element gwtprojectnatureel gwt project natur element pom document root outputdirectoryel output directori element buildel build element repositori gwtrepositori gwt repositori gwtpluginrepositori gwt plugin repositori depend gwtdepend gwt depend webxmlpath web xmlpath webxml web xml root displaynam displai webresourcecollect web resourc collect rolenam role name userdataconstraint user data constraint filter filtermap filter map securityconstraint secur constraint sourceantpath sourc ant path segmentpackag segment targetdirectori target directori sourceantpath sourc ant path targetdirectori target directori path uri filenam file targetfilenam target filenam input exist path url filenam file targetfilenam target filenam input toplevelpackag top level xpathexpress path express pluginel plugin element defaultplugin plugin builder 
+VARSIG39	targetdirectori target directori 
+VARSIG34	element configur 
+VARSIG33	element repositoryel repositori element 
+VARSIG32	element repositoryel repositori element 
+VARSIG31	element configur 
+VARSIG38	sourceantpath sourc ant path 
+VARSIG37	gwtpath gwt path gwtpath gwt path 
+PACKAGE	springframework roo addon gwt 
+VARSIG36	gwtpath gwt path path 
+VARSIG35	element dependencyel depend element 
+VARSIG30	annotationmetadatabuild annot metadata builder existingannot exist annot 
+CLASSES	gwtoperationsimpl gwt oper impl 
+VARSIG29	classorinterfacetypedetail type detail proxi 
+VARSIG28	classorinterfacetypedetail type detail entiti 
+VARSIG23	javapackag destinationpackag destin 
+VARSIG22	classorinterfacetypedetail type detail entiti 
+VARSIG21	javapackag sourcepackag sourc 
+VARSIG20	javatyp type type 
+VARSIG27	javapackag destinationpackag destin 
+VARSIG26	classorinterfacetypedetail type detail entiti 
+VARSIG25	javapackag destinationpackag destin 
+VARSIG24	classorinterfacetypedetail type detail entiti 
+VARSIG7	javatyp type type 
+VARSIG6	javapackag proxypackag proxi 
+VARSIG9	classorinterfacetypedetail type detail entiti 
+VARSIG8	javapackag proxypackag proxi 
+VARSIG3	classorinterfacetypedetail type detail proxyorrequest proxi request 
+VARSIG2	plugin buildplugin build plugin 
+VARSIG5	classorinterfacetypedetail type detail entiti 
+VARSIG4	javapackag proxypackag proxi 
+VARSIG1	modulenam modul 
+VARSIG0	componentcontext compon context context 
+VARSIG55	element toremov remov 
+VARSIG54	element webxmlroot web xml root 
+VARSIG53	xpath 
+VARSIG52	plugin plugin 
+VARSIG51	element pluginel plugin element 
+VARSIG50	isgaeen gae enabl 
+VARSIG45	overwrit 
+VARSIG44	segmentpackag segment 
+VARSIG43	targetdirectori target directori 
+VARSIG42	sourceantpath sourc ant path 
+VARSIG49	segmentpackag segment 
+VARSIG48	input 
+VARSIG47	ioexcept except 
+VARSIG46	url url 
+VARSIG41	ioexcept except 
+VARSIG40	url url 

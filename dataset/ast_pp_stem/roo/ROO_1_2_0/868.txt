@@ -1,0 +1,43 @@
+VARSIG7	gav parentpom parent pom 
+VARSIG6	javapackag toplevelpackag top level 
+VARSIG9	packagingprovid packag provid selectedpackagingprovid select packag provid 
+VARSIG8	modulenam modul 
+VARSIG3	gav parentpom parent pom 
+VARSIG2	integ majorjavavers major version 
+VARSIG5	packagingprovid packag provid selectedpackagingprovid select packag provid 
+VARSIG4	packagingprovid packag provid selectedpackagingprovid select packag provid 
+COMMENTS	implement link mavenoper maven oper constant field return project project target version pom format majorjavavers major version major version user auto detect blank valid version detect major version workaround roo run roo ensur separ thread log roo close outputstream output stream avoid block maven command expect input roo field constructor inputstream input stream processmanag process manag nix mac window 
+VARSIG19	element element 
+VARSIG1	projectnam project 
+VARSIG18	element modulesel modul element 
+VARSIG0	javapackag toplevelpackag top level 
+VARSIG17	modulenam modul 
+MTHSIG4	getpackagingprovid packag provid packagingprovid packag provid selectedpackagingprovid select packag provid 
+VARSIG12	modulenam modul 
+MTHSIG5	createmodul creat modul javapackag toplevelpackag top level gav parentpom parent pom modulenam modul packagingprovid packag provid selectedpackagingprovid select packag provid integ majorjavavers major version 
+VARSIG11	modulenam modul 
+MTHSIG6	updateparentmodulepom updat parent modul pom modulenam modul 
+VARSIG10	integ majorjavavers major version 
+MTHSIG7	addmoduledeclar add modul declar modulenam modul document pomdocu pom document element root 
+MTHSIG0	iscreateprojectavail creat project 
+VARSIG16	element root 
+MTHSIG1	iscreatemoduleavail creat modul 
+VARSIG15	document pomdocu pom document 
+PACKAGE	springframework roo project 
+MTHSIG2	getprojectroot project root 
+VARSIG14	element root 
+MTHSIG3	createproject creat project javapackag toplevelpackag top level projectnam project integ majorjavavers major version gav parentpom parent pom packagingprovid packag provid selectedpackagingprovid select packag provid 
+VARSIG13	document pomdocu pom document 
+MTHSIG8	createmoduleselementifnecessari creat modul element document pomdocu pom document element root 
+MTHSIG9	ismodulealreadypres modul modulenam modul element modulesel modul element 
+MTHSIG11	executemvncommand execut mvn command extra 
+CLASSES	mavenoperationsimpl maven oper impl 
+METHODS	iscreateprojectavail creat project iscreatemoduleavail creat modul getprojectroot project root createproject creat project getpackagingprovid packag provid createmodul creat modul updateparentmodulepom updat parent modul pom addmoduledeclar add modul declar createmoduleselementifnecessari creat modul element ismodulealreadypres modul getjavavers version executemvncommand execut mvn command 
+VARSIG23	inputstream input stream inputstream input stream 
+VARSIG22	interruptedexcept interrupt except 
+VARSIG21	extra 
+VARSIG20	integ majorjavavers major version 
+VARSIG25	ioexcept except 
+VARSIG24	processmanag process manag processmanag process manag 
+MTHSIG10	getjavavers version integ majorjavavers major version 
+VARIABLES	toplevelpackag top level projectnam project majorjavavers major version parentpom parent pom selectedpackagingprovid select packag provid selectedpackagingprovid select packag provid toplevelpackag top level parentpom parent pom modulenam modul selectedpackagingprovid select packag provid majorjavavers major version modulenam modul modulenam modul pomdocu pom document root pomdocu pom document root modulenam modul modulesel modul element element majorjavavers major version extra inputstream input stream processmanag process manag logger packagingproviderregistri packag provid registri processmanag process manag packagingprovid packag provid packagingprovid packag provid pathtonewpom path pom parentpompath parent pom path parentpomdocu parent pom document parentpomroot parent pom root addmodulemessag add modul messag modulesel modul element modulesel modul element repositori ver root cmd input error reader processmanag process manag 

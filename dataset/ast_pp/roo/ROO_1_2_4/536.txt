@@ -1,0 +1,9 @@
+MTHSIG0	gettestinstance test instance javatype type javatype type
+MTHSIG1	testinstanceswithdifferentjavatypesarenotequal test instances types equal
+PACKAGE	springframework roo addon web mvc controller details
+MTHSIG2	testinstanceswithsamejavatypesareequal test instances types equal
+COMMENTS	unit test link javatypemetadatadetails type metadata details creates test instance link javatype type javatype type instance set invoke check set invoke check
+CLASSES	javatypemetadatadetailstest type metadata details test
+VARIABLES	javatype type mockjavatype mock type mockjavatype mock type javatypemetadatadetails type metadata details otherjavatypemetadatadetails type metadata details mockjavatype mock type javatypemetadatadetails type metadata details otherjavatypemetadatadetails type metadata details
+VARSIG0	javatype type javatype type
+METHODS	gettestinstance test instance testinstanceswithdifferentjavatypesarenotequal test instances types equal testinstanceswithsamejavatypesareequal test instances types equal

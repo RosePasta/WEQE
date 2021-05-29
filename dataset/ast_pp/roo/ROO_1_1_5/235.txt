@@ -1,0 +1,46 @@
+VARSIG7	javatype type annotationtype annotation type
+VARSIG6	list methodmetadata metadata locatedaccessors located accessors
+VARSIG9	list javatype type paramtypes types
+VARSIG8	javasymbolname symbol methodname
+MTHSIG24	getpath path metadataidentificationstring metadata identification
+VARSIG3	jsfannotationvalues jsf annotation values annotationvalues annotation values
+MTHSIG25	isvalid valid metadataidentificationstring metadata identification
+VARSIG2	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+MTHSIG22	createidentifier create identifier javatype type javatype type path path
+VARSIG5	plural
+MTHSIG23	getjavatype type metadataidentificationstring metadata identification
+VARSIG4	memberdetails member details memberdetails member details
+COMMENTS	metadata link roojsfmanagedbean roo jsf managed bean add managedbean managed bean annotation required add sessionscoped session scoped annotation required add fields add methods create representation desired output create getasobject object create getasstring
+VARSIG1	javatype type aspectname aspect
+VARSIG0	identifier
+MTHSIG4	getentityfield entity field
+VARSIG12	metadataidentificationstring metadata identification
+MTHSIG5	getallentitiesfield entities field
+VARSIG11	path path
+MTHSIG6	getentitylisttype entity list type
+VARSIG10	javatype type javatype type
+MTHSIG7	gettablevisiblefield table visible field
+MTHSIG0	jsfmanagedbeanmetadata jsf managed bean metadata identifier javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata jsfannotationvalues jsf annotation values annotationvalues annotation values memberdetails member details memberdetails member details plural list methodmetadata metadata locatedaccessors located accessors
+MTHSIG1	getmanagedbeanannotation managed bean annotation
+PACKAGE	springframework roo addon jsf
+MTHSIG2	getsessionscopedannotation session scoped annotation
+VARSIG14	metadataidentificationstring metadata identification
+MTHSIG3	gettypeannotation type annotation javatype type annotationtype annotation type
+VARSIG13	metadataidentificationstring metadata identification
+MTHSIG20	tostring
+MTHSIG21	getmetadataidentifertype metadata identifer type
+MTHSIG8	getcreateentitymethod create entity
+MTHSIG9	getentityaccessormethod entity accessor
+MTHSIG17	gettablevisiblemutatormethod table visible mutator
+MTHSIG18	getconverterinnertype converter type
+MTHSIG15	getresetmethod reset
+MTHSIG16	gettablevisibleaccessormethod table visible accessor
+MTHSIG13	getpersistmethod persist
+MTHSIG14	getdeletemethod delete
+MTHSIG11	getgetallentitiesmethod entities
+MTHSIG12	getfindallentitiesmethod find entities
+CLASSES	jsfmanagedbeanmetadata jsf managed bean metadata
+METHODS	jsfmanagedbeanmetadata jsf managed bean metadata getmanagedbeanannotation managed bean annotation getsessionscopedannotation session scoped annotation gettypeannotation type annotation getentityfield entity field getallentitiesfield entities field getentitylisttype entity list type gettablevisiblefield table visible field getcreateentitymethod create entity getentityaccessormethod entity accessor getentitymutatormethod entity mutator getgetallentitiesmethod entities getfindallentitiesmethod find entities getpersistmethod persist getdeletemethod delete getresetmethod reset gettablevisibleaccessormethod table visible accessor gettablevisiblemutatormethod table visible mutator getconverterinnertype converter type methodexists exists tostring getmetadataidentifertype metadata identifer type createidentifier create identifier getjavatype type getpath path isvalid valid
+MTHSIG19	methodexists exists javasymbolname symbol methodname list javatype type paramtypes types
+MTHSIG10	getentitymutatormethod entity mutator
+VARIABLES	identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata annotationvalues annotation values memberdetails member details plural locatedaccessors located accessors annotationtype annotation type methodname paramtypes types javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification metadataidentificationstring metadata identification type type entitytype entity type plural locatedaccessors located accessors identifieraccessormethod identifier accessor persistmethod persist mergemethod merge removemethod remove findallmethod find annotationbuilder annotation builder fieldname field field fieldbuilder field builder fieldname field field fieldbuilder field builder paramtypes types fieldname field field fieldbuilder field builder methodname bodybuilder body builder methodbuilder builder methodname bodybuilder body builder methodbuilder builder methodname parametertypes parameter types parameternames parameter names fieldname field bodybuilder body builder methodbuilder builder methodname fieldname field bodybuilder body builder methodbuilder builder methodname fieldname field bodybuilder body builder methodbuilder builder methodname fieldname field bodybuilder body builder methodbuilder builder methodname fieldname field bodybuilder body builder methodbuilder builder methodname bodybuilder body builder methodbuilder builder methodname bodybuilder body builder methodbuilder builder methodname parametertypes parameter types parameternames parameter names bodybuilder body builder methodbuilder builder innertype type uicomponent component facescontext faces context converter imports paramtypes types parameternames parameter names typename type bodybuilder body builder getasobjectparametertypes object parameter types getasobjectmethod object getasstringparametertypes parameter types getasstringmethod typedetailsbuilder type details builder tsc

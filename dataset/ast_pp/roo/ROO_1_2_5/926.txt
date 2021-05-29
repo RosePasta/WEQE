@@ -1,0 +1,26 @@
+VARSIG7	pom pom
+VARSIG6	object obj
+VARSIG3	module
+VARSIG2	modulepluspath module path
+VARSIG5	logicalpath logical path
+VARSIG4	path path
+COMMENTS	link path context specific project module physical location file system pass instance link pathresolver path resolver character appears module path textual representation link logicalpath logical path character feasibly occur module link path creates instance path module path path set required module blank instance creates link logicalpath logical path parsing concatenation optional module mandatory path modulepluspath module path consisting optional module link module path separator path precisely module module path separator path constructor module module path blank path path module required returns module path empty returns display link logicalpath logical path blank returns path component link logicalpath logical path path returns physical path logical path relative pom pom path root owning module root entire user project
+VARSIG1	module
+VARSIG0	path path
+MTHSIG4	equals object obj
+MTHSIG5	getmodule module
+MTHSIG6	getname
+MTHSIG7	getpath path
+MTHSIG0	getinstance instance path path module
+MTHSIG1	getinstance instance modulepluspath module path
+PACKAGE	springframework roo project
+MTHSIG2	logicalpath logical path module path path
+MTHSIG3	compareto compare logicalpath logical path
+MTHSIG8	getpathrelativetopom path relative pom pom pom
+MTHSIG9	hashcode hash code
+MTHSIG11	isprojectroot project root
+MTHSIG12	tostring
+CLASSES	logicalpath logical path
+METHODS	getinstance instance getinstance instance logicalpath logical path compareto compare equals getmodule module getname getpath path getpathrelativetopom path relative pom hashcode hash code ismoduleroot module root isprojectroot project root tostring
+MTHSIG10	ismoduleroot module root
+VARIABLES	path module modulepluspath module path module path obj pom module path separator separatorindex separator path module module path

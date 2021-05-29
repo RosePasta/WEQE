@@ -1,0 +1,42 @@
+VARSIG7	layerposition layer position
+VARSIG6	javatype type idtype type
+VARSIG9	metadataidentificationstring metadata identification
+VARSIG8	collection methodparameter parameter methodparameters parameters
+VARSIG3	metadataidentificationstring metadata identification
+VARSIG2	layerprovider layer provider provider
+VARSIG5	javatype type targetentity target entity
+VARSIG4	methodidentifier identifier
+COMMENTS	link layerservice layer service implementation sorts link layerprovider layer provider descending order position mutex
+VARSIG19	javatype type idtype type
+VARSIG1	layerprovider layer provider provider provider
+VARSIG18	javatype type targetentity target entity
+VARSIG0	layerprovider layer provider provider provider
+VARSIG17	methodidentifier identifier
+MTHSIG4	getmembertypeadditions member type additions metadataidentificationstring metadata identification methodidentifier identifier javatype type targetentity target entity javatype type idtype type layerposition layer position autowire methodparameter parameter methodparameters parameters
+VARSIG12	javatype type idtype type
+MTHSIG5	unbindlayerprovider unbind layer provider layerprovider layer provider provider
+VARSIG11	javatype type targetentity target entity
+VARSIG10	methodidentifier identifier
+MTHSIG0	bindlayerprovider bind layer provider layerprovider layer provider provider
+VARSIG16	metadataidentificationstring metadata identification
+MTHSIG1	getmembertypeadditions member type additions metadataidentificationstring metadata identification methodidentifier identifier javatype type targetentity target entity javatype type idtype type layerposition layer position collection methodparameter parameter methodparameters parameters
+VARSIG15	collection methodparameter parameter methodparameters parameters
+PACKAGE	springframework roo classpath layers
+MTHSIG2	getmembertypeadditions member type additions metadataidentificationstring metadata identification methodidentifier identifier javatype type targetentity target entity javatype type idtype type layerposition layer position autowire collection methodparameter parameter methodparameters parameters
+VARSIG14	autowire
+MTHSIG3	getmembertypeadditions member type additions metadataidentificationstring metadata identification methodidentifier identifier javatype type targetentity target entity javatype type idtype type layerposition layer position methodparameter parameter methodparameters parameters
+VARSIG13	layerposition layer position
+VARSIG30	layerprovider layer provider provider
+CLASSES	layerserviceimpl layer service impl
+VARSIG29	layerprovider layer provider provider
+VARSIG28	methodparameter parameter methodparameters parameters
+METHODS	bindlayerprovider bind layer provider getmembertypeadditions member type additions getmembertypeadditions member type additions getmembertypeadditions member type additions getmembertypeadditions member type additions unbindlayerprovider unbind layer provider
+VARSIG23	methodidentifier identifier
+VARSIG22	metadataidentificationstring metadata identification
+VARSIG21	methodparameter parameter methodparameters parameters
+VARSIG20	layerposition layer position
+VARSIG27	autowire
+VARSIG26	layerposition layer position
+VARSIG25	javatype type idtype type
+VARSIG24	javatype type targetentity target entity
+VARIABLES	provider provider provider provider provider metadataidentificationstring metadata identification methodidentifier identifier targetentity target entity idtype type layerposition layer position methodparameters parameters metadataidentificationstring metadata identification methodidentifier identifier targetentity target entity idtype type layerposition layer position autowire methodparameters parameters metadataidentificationstring metadata identification methodidentifier identifier targetentity target entity idtype type layerposition layer position methodparameters parameters metadataidentificationstring metadata identification methodidentifier identifier targetentity target entity idtype type layerposition layer position autowire methodparameters parameters provider provider serialversionuid serial version uid difference mutex providers methodparametersarray parameters array methodparametersarray parameters array additions

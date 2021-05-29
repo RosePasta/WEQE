@@ -1,0 +1,21 @@
+VARSIG7	metadataidentificationstring metadata identification
+VARSIG6	itdfilename filename
+VARSIG9	path path
+VARSIG8	javatype type javatype type
+VARSIG3	metadataidentificationstring metadata identification
+VARSIG2	filemanager file manager filemanager file manager
+VARSIG5	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG4	javatype type aspectname aspect
+COMMENTS	link pluralmetadata plural metadata
+CLASSES	pluralmetadataprovider plural metadata provider
+VARSIG1	metadatadependencyregistry metadata dependency registry metadatadependencyregistry metadata dependency registry
+VARSIG0	metadataservice metadata service metadataservice metadata service
+METHODS	pluralmetadataprovider plural metadata provider getmetadata metadata getitduniquenessfilenamesuffix uniqueness filename suffix getgovernorphysicaltypeidentifier governor physical type identifier createlocalidentifier create local identifier getprovidestype type
+MTHSIG4	createlocalidentifier create local identifier javatype type javatype type path path
+MTHSIG5	getprovidestype type
+MTHSIG0	pluralmetadataprovider plural metadata provider metadataservice metadata service metadataservice metadata service metadatadependencyregistry metadata dependency registry metadatadependencyregistry metadata dependency registry filemanager file manager filemanager file manager
+MTHSIG1	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+PACKAGE	springframework roo addon plural
+MTHSIG2	getitduniquenessfilenamesuffix uniqueness filename suffix
+MTHSIG3	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+VARIABLES	metadataservice metadata service metadatadependencyregistry metadata dependency registry filemanager file manager metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename metadataidentificationstring metadata identification javatype type path javatype type path physicaltypeidentifier physical type identifier

@@ -1,0 +1,19 @@
+VARSIG7	password 
+VARSIG6	usernam user 
+VARSIG8	persistenceunit persist unit 
+VARSIG3	applicationid applic 
+VARSIG2	jndi 
+VARSIG5	databasenam databas 
+VARSIG4	hostnam host 
+COMMENTS	command link jpaoperationsimpl jpa oper impl respons manag jpa artifact meta inf persist xml applicationcontext applic context xml databas properti project pom xml ormprovid orm provid orm provid select hibern openjpa open jpa eclipselink link databas databas hsql mysql sql jndi jndi datasourc applicationid applic googl app engin applic identifi default project project hostnam host host databas databasenam databas databas usernam user usernam connect databas password password connect databas persistenceunit persist unit persist unit defin persist xml file 
+CLASSES	jpaoper jpa oper 
+VARSIG1	jdbcdatabas jdbc databas databas 
+VARSIG0	ormprovid orm provid ormprovid orm provid 
+METHODS	isjpainstallationposs jpa instal isjpainstal jpa instal hasdatabaseproperti databas properti configurejpa configur jpa getdatabaseproperti databas properti 
+MTHSIG4	getdatabaseproperti databas properti 
+MTHSIG0	isjpainstallationposs jpa instal 
+MTHSIG1	isjpainstal jpa instal 
+PACKAGE	springframework roo addon jpa 
+MTHSIG2	hasdatabaseproperti databas properti 
+MTHSIG3	configurejpa configur jpa ormprovid orm provid ormprovid orm provid jdbcdatabas jdbc databas databas jndi applicationid applic hostnam host databasenam databas usernam user password persistenceunit persist unit 
+VARIABLES	ormprovid orm provid databas jndi applicationid applic hostnam host databasenam databas usernam user password persistenceunit persist unit 

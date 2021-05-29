@@ -1,0 +1,16 @@
+VARSIG3	undoen undo enabl 
+VARSIG2	undolisten undo listen undolisten undo listen 
+COMMENTS	abil undo file system note complex file system provid full access file lock api simplifi code implement file system effort basi design reli robust guarante fail safe undo semant regist undoabl oper link stack undoableoper undoabl oper regist link stack requir replai undo link stack guarante clear link stack oper return link undoableoper undoabl oper undo remaind link stack execut command guarante link stack empti element undon reset link undoableoper undoabl oper link stack undon reset undo link stack guarante clear link stack execut command guarante link stack empti element reset caller wish link undomanag undo manag flush content exact mean flush implement depend guarante chang undo stack simpli notifi link undolisten undo listen undolisten undo listen regist undo listen requir undolisten undo listen remov regist undo listen requir undoen undo enabl enabl disabl undo featur debug default 
+CLASSES	undomanag undo manag 
+VARSIG1	undolisten undo listen undolisten undo listen 
+VARSIG0	undoableoper undoabl oper undoableoper undoabl oper 
+METHODS	add undo reset flush addundolisten add undo listen removeundolisten remov undo listen setundoen set undo enabl 
+MTHSIG4	addundolisten add undo listen undolisten undo listen undolisten undo listen 
+MTHSIG5	removeundolisten remov undo listen undolisten undo listen undolisten undo listen 
+MTHSIG6	setundoen set undo enabl undoen undo enabl 
+MTHSIG0	add undoableoper undoabl oper undoableoper undoabl oper 
+MTHSIG1	undo 
+PACKAGE	springframework roo file undo 
+MTHSIG2	reset 
+MTHSIG3	flush 
+VARIABLES	undoableoper undoabl oper undolisten undo listen undolisten undo listen undoen undo enabl 

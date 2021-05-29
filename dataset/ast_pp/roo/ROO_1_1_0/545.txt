@@ -1,0 +1,69 @@
+MTHSIG28	removefilter remove filter filter filter
+MTHSIG29	addresource add resource resource resource
+MTHSIG26	removeproperty remove property property property
+MTHSIG27	addfilter add filter filter filter
+MTHSIG24	buildpluginupdate build plugin update plugin plugin
+MTHSIG25	addproperty add property property property
+MTHSIG22	addbuildplugin add build plugin plugin plugin
+MTHSIG23	removebuildplugin remove build plugin plugin plugin
+MTHSIG4	addrepositorylistener add repository listener repositorylistener repository listener listener
+MTHSIG5	removerepositorylistener remove repository listener repositorylistener repository listener listener
+MTHSIG6	addpluginrepositorylistener add plugin repository listener repositorylistener repository listener listener
+VARSIG32	resource resource
+MTHSIG7	removepluginrepositorylistener remove plugin repository listener repositorylistener repository listener listener
+VARSIG31	resource resource
+MTHSIG0	isdependencymodificationallowed dependency modification allowed
+MTHSIG1	isperformcommandallowed perform command allowed
+PACKAGE	springframework roo project
+MTHSIG2	adddependencylistener add dependency listener dependencylistener dependency listener listener
+MTHSIG3	removedependencylistener remove dependency listener dependencylistener dependency listener listener
+MTHSIG20	addpluginrepository add plugin repository repository repository
+MTHSIG21	removepluginrepository remove plugin repository repository repository
+MTHSIG8	addpluginlistener add plugin listener pluginlistener plugin listener listener
+VARSIG30	filter filter
+MTHSIG9	removepluginlistener remove plugin listener pluginlistener plugin listener listener
+CLASSES	projectoperations project operations
+VARSIG29	filter filter
+VARSIG28	property property
+METHODS	isdependencymodificationallowed dependency modification allowed isperformcommandallowed perform command allowed adddependencylistener add dependency listener removedependencylistener remove dependency listener addrepositorylistener add repository listener removerepositorylistener remove repository listener addpluginrepositorylistener add plugin repository listener removepluginrepositorylistener remove plugin repository listener addpluginlistener add plugin listener removepluginlistener remove plugin listener addpropertylistener add property listener removepropertylistener remove property listener updateprojecttype update project type adddependency add dependency adddependency add dependency removedependency remove dependency removedependency remove dependency dependencyupdate dependency update addrepository add repository removerepository remove repository addpluginrepository add plugin repository removepluginrepository remove plugin repository addbuildplugin add build plugin removebuildplugin remove build plugin buildpluginupdate build plugin update addproperty add property removeproperty remove property addfilter add filter removefilter remove filter addresource add resource removeresource remove resource
+VARSIG23	repository repository
+VARSIG22	repository repository
+VARSIG21	repository repository
+VARSIG20	repository repository
+VARSIG27	property property
+VARSIG26	plugin plugin
+VARSIG25	plugin plugin
+VARSIG24	plugin plugin
+MTHSIG30	removeresource remove resource resource resource
+VARSIG7	pluginlistener plugin listener listener
+VARSIG6	pluginlistener plugin listener listener
+VARSIG9	propertylistener property listener listener
+VARSIG8	propertylistener property listener listener
+VARSIG3	repositorylistener repository listener listener
+VARSIG2	repositorylistener repository listener listener
+VARSIG5	repositorylistener repository listener listener
+VARSIG4	repositorylistener repository listener listener
+COMMENTS	specifies methods project operations register listener track build dependencies listener dependencylistener dependency listener register remove dependency listener change tracking listener dependencylistener dependency listener remove register listener track repositories listener repositorylistener repository listener register remove repository listener change tracking listener repositorylistener repository listener remove register listener track plugin repositories listener repositorylistener repository listener register remove plugin repository listener change tracking listener repositorylistener repository listener remove register listener track build plugins listener pluginlistener plugin listener register remove build plugin listener change tracking listener pluginlistener plugin listener remove register listener track pom properties remove property listener change tracking listener propertylistener property listener remove updates project type projecttype project type projecttype project type update addition jar dependency pom convenient parties instruct users cli add support projects requiring user manually edit pom xml write add dependency add required addition jar dependency pom convenient parties instruct users cli add support projects requiring user manually edit pom xml write add groupid group group dependency required artifactid artifact artifact dependency required version version dependency required removal jar dependency pom convenient parties instruct users cli remove unwanted dependency projects requiring user manually edit pom xml write add dependency remove required remove existing jar dependency pom convenient parties instruct users cli remove unwanted dependency projects requiring user manually edit pom xml write add groupid group group dependency required artifactid artifact artifact dependency required version version dependency required verifies dependency silently returns removes dependency matches link projectmetadata project metadata getdependenciesexcludingversion dependencies excluding version dependency adds presented dependency dependency dependency add required addition repository pom convenient parties instruct users cli add support projects requiring user manually edit pom xml write add repository repository add required remove existing repository pom convenient parties instruct users cli remove unwanted repository projects requiring user manually edit pom xml write add repository repository remove required addition plugin repository pom convenient parties instruct users cli add support projects requiring user manually edit pom xml write add repository plugin repository add required remove existing plugin repository pom convenient parties instruct users cli remove unwanted plugin repository projects requiring user manually edit pom xml write add repository plugin repository remove required addition build plugin pom convenient parties instruct users cli add build capability projects requiring user manually edit pom xml write add plugin build plugin add required remove existing build plugin pom convenient parties instruct users cli remove unwanted build plugin projects requiring user manually edit pom xml write add plugin build plugin remove required verifies build plugin silently returns removes build plugin matches link projectmetadata project metadata getbuildpluginsexcludingversion build plugins excluding version plugin adds presented plugin plugin build plugin update required addition property pom convenient parties instruct users cli add support projects requiring user manually edit pom xml write add property pom property add required remove existing property pom convenient parties instruct users cli remove unwanted property projects requiring user manually edit pom xml write add property pom property remove required addition filter pom convenient parties instruct users cli add support projects requiring user manually edit pom xml write add filter filter add required remove existing filter pom convenient parties instruct users cli remove unwanted filter projects requiring user manually edit pom xml write add filter filter remove required addition resource pom convenient parties instruct users cli add support projects requiring user manually edit pom xml write add resource resource add required remove existing resource pom convenient parties instruct users cli remove unwanted resource projects requiring user manually edit pom xml write add resource resource remove required
+VARSIG19	dependency dependency
+VARSIG1	dependencylistener dependency listener listener
+VARSIG18	version
+VARSIG0	dependencylistener dependency listener listener
+VARSIG17	javasymbolname symbol artifactid artifact
+VARSIG12	javapackage groupid group
+VARSIG11	dependency dependency
+VARSIG10	projecttype project type projecttype project type
+VARSIG16	javapackage groupid group
+VARSIG15	dependency dependency
+VARSIG14	version
+VARSIG13	javasymbolname symbol artifactid artifact
+MTHSIG17	dependencyupdate dependency update dependency dependency
+MTHSIG18	addrepository add repository repository repository
+MTHSIG15	removedependency remove dependency dependency dependency
+MTHSIG16	removedependency remove dependency javapackage groupid group javasymbolname symbol artifactid artifact version
+MTHSIG13	adddependency add dependency dependency dependency
+MTHSIG14	adddependency add dependency javapackage groupid group javasymbolname symbol artifactid artifact version
+MTHSIG11	removepropertylistener remove property listener propertylistener property listener listener
+MTHSIG12	updateprojecttype update project type projecttype project type projecttype project type
+MTHSIG19	removerepository remove repository repository repository
+MTHSIG10	addpropertylistener add property listener propertylistener property listener listener
+VARIABLES	listener listener listener listener listener listener listener listener listener listener projecttype project type dependency groupid group artifactid artifact version dependency groupid group artifactid artifact version dependency repository repository repository repository plugin plugin plugin property property filter filter resource resource

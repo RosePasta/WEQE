@@ -1,0 +1,23 @@
+VARSIG6	canonicalpath canonical path
+VARSIG3	modulenames module names
+VARSIG2	exception
+VARSIG5	modulename module
+VARSIG4	modulename module
+COMMENTS	unit test link pommanagementserviceimpl pom management service impl constants fixture sets working directory service test relativepath relative path desired working directory relative project ioexception exception set invoke check set invoke check set invoke check set invoke check set invoke check set invoke check
+CLASSES	pommanagementserviceimpltest pom management service impl test
+VARSIG1	relativepath relative path
+VARSIG0	relativepath relative path
+METHODS	setup set setupworkingdirectory set working directory testgetpomswhennopomsaredirty test poms poms dirty testgetpomswhenonenonexistantpomisdirty test poms existant pom dirty getcanonicalpath canonical path testgetpomswhenoneemptypomisdirty test poms empty pom dirty verifyprojectmetadatanotification verify project metadata notification getmockpom mock pom testgetpomofsinglemoduleprojectwhenparenthasnorelativepath test pom single module project parent relative path testgetpomsofmultimoduleprojectwhenparentandchildaredirty test poms multi module project parent child dirty testgetpomsofmultimoduleprojectwhenchildisdirty test poms multi module project child dirty
+MTHSIG4	getcanonicalpath canonical path relativepath relative path
+MTHSIG5	testgetpomswhenoneemptypomisdirty test poms empty pom dirty
+MTHSIG6	verifyprojectmetadatanotification verify project metadata notification modulenames module names
+MTHSIG7	getmockpom mock pom modulename module canonicalpath canonical path
+MTHSIG0	setup set
+MTHSIG1	setupworkingdirectory set working directory relativepath relative path
+PACKAGE	springframework roo project
+MTHSIG2	testgetpomswhennopomsaredirty test poms poms dirty
+MTHSIG3	testgetpomswhenonenonexistantpomisdirty test poms existant pom dirty
+MTHSIG10	testgetpomsofmultimoduleprojectwhenchildisdirty test poms multi module project child dirty
+VARIABLES	relativepath relative path relativepath relative path modulenames module names modulename module modulename module canonicalpath canonical path root module service mockfilemanager mock file manager mockfilemonitorservice mock file monitor service mockmetadatadependencyregistry mock metadata dependency registry mockmetadataservice mock metadata service mockpomfactory mock pom factory mockshell mock shell mockcomponentcontext mock component context mockbundlecontext mock bundle context workingdirectory working directory dirtyfiles dirty files poms dirtyfiles dirty files poms systemdependentpath system dependent path resource dirtyfiles dirty files poms projectmetadataid project metadata mockpom mock pom canonicalpath canonical path mockpom mock pom poms rootpom root pom rootpomcanonicalpath root pom canonical path childpom child pom childpomcanonicalpath child pom canonical path dirtyfiles dirty files mockrootpom mock root pom childmodulename child module mockchildpom mock child pom poms expectedpoms expected poms rootpom root pom rootpomcanonicalpath root pom canonical path childpom child pom childpomcanonicalpath child pom canonical path dirtyfiles dirty files mockrootpom mock root pom childmodulename child module mockchildpom mock child pom poms expectedpoms expected poms
+MTHSIG8	testgetpomofsinglemoduleprojectwhenparenthasnorelativepath test pom single module project parent relative path
+MTHSIG9	testgetpomsofmultimoduleprojectwhenparentandchildaredirty test poms multi module project parent child dirty

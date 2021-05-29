@@ -1,0 +1,23 @@
+VARSIG7	exception
+VARSIG6	element element
+VARSIG9	exception
+VARSIG8	exception
+VARSIG3	projectoperations project operations projectoperations project operations
+VARSIG2	metadataservice metadata service metadataservice metadata service
+VARSIG5	exception
+VARSIG4	ioexception exception
+COMMENTS	operations create view layer resources note sequence matters artifacts loaded file exists verify servlet application context exists file exists persistence layer installed filter installed verify middle tier application context exists file exists
+CLASSES	webmvcoperations web mvc operations
+VARSIG1	pathresolver path resolver pathresolver path resolver
+VARSIG0	filemanager file manager filemanager file manager
+METHODS	webmvcoperations web mvc operations installmvcartefacts install mvc artefacts copyurlrewrite copy url rewrite createwebxml create web xml updatejpawebxml update jpa web xml createwebapplicationcontext create web application context updatedependencies update dependencies
+MTHSIG4	updatejpawebxml update jpa web xml
+MTHSIG5	createwebapplicationcontext create web application context
+MTHSIG6	updatedependencies update dependencies
+VARSIG10	element dependency
+MTHSIG0	webmvcoperations web mvc operations filemanager file manager filemanager file manager pathresolver path resolver pathresolver path resolver metadataservice metadata service metadataservice metadata service projectoperations project operations projectoperations project operations
+MTHSIG1	installmvcartefacts install mvc artefacts
+PACKAGE	springframework roo addon web mvc controller
+MTHSIG2	copyurlrewrite copy url rewrite
+MTHSIG3	createwebxml create web xml
+VARIABLES	filemanager file manager pathresolver path resolver metadataservice metadata service projectoperations project operations element dependency filemanager file manager pathresolver path resolver metadataservice metadata service projectoperations project operations urlrewritefilename urlrewrite filename projectmetadata project metadata servletctxfilename servlet ctx filename templateinputstream template input stream webxml web xml rootelement root element servletnames servlet names urlpattern url pattern mutablefile mutable file persistence webxmlpath web xml path webxmlmutablefile web xml mutable file webxml web xml root firstfiltermapping filter mapping filter filtername filter filterclass filter filtermapping filter mapping filtername filter urlmapping url mapping projectmetadata project metadata pathresolver path resolver templateinputstream template input stream pom rootelement root element mutablefile mutable file templateinputstream template input stream dependencydoc dependency doc dependencieselement dependencies element springdependencies spring dependencies

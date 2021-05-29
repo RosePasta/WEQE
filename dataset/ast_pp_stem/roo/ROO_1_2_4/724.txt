@@ -1,0 +1,23 @@
+VARSIG7	integ sizemax size max 
+VARSIG6	regexp 
+VARSIG8	integ sizemin size min 
+VARSIG3	javatyp type fieldtyp field type 
+VARSIG2	physicaltypeidentifi physic type identifi 
+VARSIG5	list annotationmetadatabuild annot metadata builder annot 
+VARSIG4	javasymbolnam symbol fieldnam field 
+COMMENTS	extra valid properti properti jsr pattern annot jsr size annot max attribut default link integ max jsr size annot min attribut default 
+CLASSES	stringfield field 
+VARSIG1	javasymbolnam symbol fieldnam field 
+VARSIG0	physicaltypeidentifi physic type identifi 
+METHODS	stringfield field stringfield field decorateannotationslist decor annot list getregexp regexp getsizemax size max getsizemin size min setregexp set regexp setsizemax set size max setsizemin set size min 
+MTHSIG4	getsizemax size max 
+MTHSIG5	getsizemin size min 
+MTHSIG6	setregexp set regexp regexp 
+MTHSIG7	setsizemax set size max integ sizemax size max 
+MTHSIG0	stringfield field physicaltypeidentifi physic type identifi javasymbolnam symbol fieldnam field 
+MTHSIG1	stringfield field physicaltypeidentifi physic type identifi javatyp type fieldtyp field type javasymbolnam symbol fieldnam field 
+PACKAGE	springframework roo classpath oper jsr jsr 
+MTHSIG2	decorateannotationslist decor annot list list annotationmetadatabuild annot metadata builder annot 
+MTHSIG3	getregexp regexp 
+VARIABLES	physicaltypeidentifi physic type identifi fieldnam field physicaltypeidentifi physic type identifi fieldtyp field type fieldnam field annot regexp sizemax size max sizemin size min regexp sizemax size max sizemin size min attr attr 
+MTHSIG8	setsizemin set size min integ sizemin size min 

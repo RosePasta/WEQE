@@ -1,0 +1,124 @@
+MTHSIG28	upgradeaddon upgrad add addonbundlesymbolicnam add bundl symbol bsn 
+MTHSIG29	upgradeaddon upgrad add bundleid bundl 
+MTHSIG26	removeaddon remov add bundlesymbolicnam bundl symbol bsn 
+MTHSIG27	searchaddon search add on showfeedback feedback searchterm search term refresh linesperresult line result maxresult max trustedonli trust compatibleonli compat communityonli commun requirescommand requir command 
+MTHSIG24	printresultlist print result list collect bundl bundl maxresult max linesperresult line result 
+MTHSIG25	printsepar print separ 
+MTHSIG22	populatebundlecach popul bundl cach document roobotxml roobot xml 
+MTHSIG23	printaddonstat print addon stat 
+MTHSIG4	checkaddonstabilitylevel check add stabil level addonstabilitylevel add stabil level addonstabilitylevel add stabil level 
+VARSIG78	addonstabilitylevel add stabil level addonstabilitylevel addon stabil level 
+MTHSIG5	countbundl count bundl 
+VARSIG77	bundl bundl 
+MTHSIG6	deactiv componentcontext compon context context 
+VARSIG76	bundleid bundl 
+MTHSIG7	filterlist filter list list bundl bundl trustedonli trust compatibleonli compat communityonli commun requirescommand requir command onlyrelevantbundl relev bundl 
+VARSIG75	addonbundlesymbolicnam add bundl symbol bsn 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	addoninfo add info addonbundlesymbolicnam add bundl symbol bsn 
+MTHSIG2	addoninfo add info bundl bundl bundlevers bundl version bundlevers bundl version 
+MTHSIG3	addoninfo add info bundlekei bundl kei 
+VARSIG79	entri bundl entri 
+MTHSIG20	loginfo log info label content 
+VARSIG70	maxresult max 
+MTHSIG21	populatebundlecach popul bundl cach startuptim startup time 
+MTHSIG8	findaddon find addon showfeedback feedback searchterm search term refresh linesperresult line result maxresult max trustedonli trust compatibleonli compat communityonli commun requirescommand requir command 
+VARSIG74	requirescommand requir command 
+MTHSIG9	getaddoncach add cach refresh 
+VARSIG73	communityonli commun 
+VARSIG72	compatibleonli compat 
+VARSIG71	trustedonli trust 
+MTHSIG33	verifyrepositori verifi repositori repourl repo url 
+METHODS	activ addoninfo add info addoninfo add info addoninfo add info checkaddonstabilitylevel check add stabil level countbundl count bundl deactiv filterlist filter list findaddon find addon getaddoncach add cach getupgradablebundl upgrad bundl getversionforcompat version compat installaddon instal addon installaddon instal add installaddon instal add installorupgradeaddon instal upgrad add isbundleinstal bundl instal iscompat compat istrustedkei trust kei listaddon list add on loginfo log info populatebundlecach popul bundl cach populatebundlecach popul bundl cach printaddonstat print addon stat printresultlist print result list printsepar print separ removeaddon remov add searchaddon search add on upgradeaddon upgrad add upgradeaddon upgrad add upgradeaddon upgrad add on upgradesavail upgrad upgradeset upgrad set verifyrepositori verifi repositori 
+VARSIG67	searchterm search term 
+VARSIG66	showfeedback feedback 
+VARSIG65	bundlesymbolicnam bundl symbol bsn 
+VARSIG64	bundl bundl 
+VARSIG69	linesperresult line result 
+VARSIG68	refresh 
+MTHSIG31	upgradesavail upgrad addonstabilitylevel add stabil level addonstabilitylevel addon stabil level 
+MTHSIG32	upgradeset upgrad set addonstabilitylevel add stabil level addonstabilitylevel add stabil level 
+MTHSIG30	upgradeaddon upgrad add on 
+VARSIG63	linesperresult line result 
+VARSIG62	maxresult max 
+VARSIG61	collect bundl bundl 
+VARSIG60	element shell 
+COMMENTS	implement command roo shell refresh set relev bundl problem add pgp verif requir bundl instal log need refresh handl http wasn eager startup time attempt let displai error reason startup time fail quietli appear acquir url let fall normal protocol handler local develop test list add on core roo interest major minor secur reason accept httppgp add version prevent thread present roo shell 
+VARSIG19	searchterm search term 
+VARSIG18	showfeedback feedback 
+VARSIG17	cmd 
+VARSIG12	compatibleonli compat 
+VARSIG11	trustedonli trust 
+VARSIG10	list bundl bundl 
+VARSIG16	bundl bundl 
+VARSIG15	onlyrelevantbundl relev bundl 
+VARSIG14	requirescommand requir command 
+VARSIG13	communityonli commun 
+MTHSIG17	iscompat compat version 
+MTHSIG18	istrustedkei trust kei list pgppublickeyr pgp kei ring keyid kei 
+MTHSIG15	installorupgradeaddon instal upgrad add bundlevers bundl version bundlevers bundl version bsn instal 
+MTHSIG16	isbundleinstal bundl instal bundl search 
+MTHSIG13	installaddon instal add addonbundlesymbolicnam add bundl symbol bsn 
+MTHSIG14	installaddon instal add bundlekei bundl kei 
+MTHSIG11	getversionforcompat version compat 
+MTHSIG12	installaddon instal addon bundlevers bundl version bundlevers bundl version bsn 
+MTHSIG19	listaddon list add on refresh linesperresult line result maxresult max trustedonli trust compatibleonli compat communityonli commun requirescommand requir command 
+VARSIG81	illegalstateexcept illeg except ignor 
+MTHSIG10	getupgradablebundl upgrad bundl addonstabilitylevel add stabil level asl 
+VARSIG80	addonstabilitylevel add stabil level addonstabilitylevel add stabil level 
+VARIABLES	context bsn bundl bundlevers bundl version version entri comment bundlekei bundl kei addonstabilitylevel add stabil level context bundl trustedonli trust compatibleonli compat communityonli commun requirescommand requir command onlyrelevantbundl relev bundl bundl cmd showfeedback feedback searchterm search term refresh linesperresult line result maxresult max trustedonli trust compatibleonli compat communityonli commun requirescommand requir command bundl term refresh asl bundl bundlevers bundl version bsn bsn bundlekei bundl kei bundlevers bundl version bsn instal search bundl version keyid kei keyr kei ring refresh linesperresult line result maxresult max trustedonli trust compatibleonli compat communityonli commun requirescommand requir command label content startuptim startup time roobotxml roobot xml bundleel bundl element commentel comment element versionel version element shell bundl maxresult max linesperresult line result bundl bsn showfeedback feedback searchterm search term refresh linesperresult line result maxresult max trustedonli trust compatibleonli compat communityonli commun requirescommand requir command bsn bundleid bundl bundl addonstabilitylevel addon stabil level entri addonstabilitylevel add stabil level ignor repourl repo url resourc addon upgrad stabil level logger upgrad bsn list pgpservic pgp servic preferencesservic prefer servic shell urlinputstreamservic url input stream servic bundlecach bundl cach context dateformat format mutex pref rooboteagerdownload roo bot eager download roobotindexdownload roo bot download roobotxmlurl roo bot xml url searchresultcach search result cach bundlecontext bundl context roobot bsnstring bsn bundl bundl bundl filteredlist filter list latest matchingcommand match command onlyrelevantbundl relev bundl term hit latest bundl filteredsearchresult filter search bundl bundlecontext bundl context bundlevers bundl version roobotbundlevers roo bot bundl version ebv exisingbundlevers exis bundl version statu bsnstring bsn bundl bundl count requireswrappedcoredepend requir wrap core depend success bundlecontext bundl context bsn pgpkei pgp kei bundl filteredlist filter list split success bai bao dbf httpurl http url failuremessag failur messag zip roobotxml roobot xml bsn comment bundl signedbi sign pgpkei pgp kei pgpsign pgp sign command versionbuild version builder versionmicro version micro versionqualifi version qualifi roovers roo version split version msg currentlevel current level currentlevelbundl current level bundl anylevelbundl level bundl plussiz size bundleid bundl latest bundlekei bundl kei split lpr success count statu result bsnstring bsn bundl bundlevers bundl version statu bundl bundlevers bundl version statu addonstabilitylevel addon stabil level bundl upgrad bundlevers bundl version statu bundl latest success dbf doc obrurl obr url bai bao zip buffer length 
+VARSIG84	except 
+VARSIG83	element resourc 
+VARSIG82	repourl repo url 
+VARSIG39	bundl search 
+VARSIG34	addonbundlesymbolicnam add bundl symbol bsn 
+VARSIG33	bsn 
+VARSIG32	bundlevers bundl version bundlevers bundl version 
+VARSIG31	osgi framework bundl bundl 
+VARSIG38	instal 
+VARSIG37	bsn 
+PACKAGE	springframework roo addon roobot client 
+VARSIG36	bundlevers bundl version bundlevers bundl version 
+VARSIG35	bundlekei bundl kei 
+VARSIG30	addonstabilitylevel add stabil level asl 
+CLASSES	addonroobotoperationsimpl add roo bot oper impl 
+VARSIG29	refresh 
+VARSIG28	term 
+VARSIG23	trustedonli trust 
+VARSIG22	maxresult max 
+VARSIG21	linesperresult line result 
+VARSIG20	refresh 
+VARSIG27	bundl bundl 
+VARSIG26	requirescommand requir command 
+VARSIG25	communityonli commun 
+VARSIG24	compatibleonli compat 
+VARSIG7	bundlekei bundl kei 
+VARSIG6	comment comment 
+VARSIG9	componentcontext compon context context 
+VARSIG8	addonstabilitylevel add stabil level addonstabilitylevel add stabil level 
+VARSIG3	bundlevers bundl version bundlevers bundl version 
+VARSIG2	bundl bundl 
+VARSIG5	entri entri 
+VARSIG4	bundlevers bundl version version 
+VARSIG1	addonbundlesymbolicnam add bundl symbol bsn 
+VARSIG0	componentcontext compon context context 
+VARSIG56	document roobotxml roobot xml 
+VARSIG55	throwabl 
+VARSIG54	startuptim startup time 
+VARSIG53	content 
+VARSIG59	element versionel version element 
+VARSIG58	element commentel comment element 
+VARSIG57	element bundleel bundl element 
+VARSIG52	label 
+VARSIG51	requirescommand requir command 
+VARSIG50	communityonli commun 
+VARSIG45	refresh 
+VARSIG44	pgppublickeyr pgp kei ring keyr kei ring 
+VARSIG43	keyid kei 
+VARSIG42	list pgppublickeyr pgp kei ring 
+VARSIG49	compatibleonli compat 
+VARSIG48	trustedonli trust 
+VARSIG47	maxresult max 
+VARSIG46	linesperresult line result 
+VARSIG41	version 
+VARSIG40	osgi framework bundl bundl 

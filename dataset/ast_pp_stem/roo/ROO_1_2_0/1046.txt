@@ -1,0 +1,100 @@
+MTHSIG28	testremovenonmatchingsuffixfromstr test remov match suffix 
+MTHSIG29	testremovenullprefixfromnullstr test remov prefix 
+MTHSIG26	testremovenonemptysuffixfromemptystr test remov empti suffix empti 
+MTHSIG27	testremovematchingsuffixfromstr test remov match suffix 
+MTHSIG24	testremovenullsuffixfromemptystr test remov suffix empti 
+MTHSIG25	testremoveemptysuffixfromemptystr test remov empti suffix empti 
+MTHSIG22	testremoveemptysuffixfromnullstr test remov empti suffix 
+MTHSIG23	testremovenonemptysuffixfromnullstr test remov empti suffix 
+MTHSIG4	testhastext test text 
+MTHSIG5	testhastext test text 
+MTHSIG6	testcountoccurr test count occurr 
+MTHSIG7	testcountoccurrencesnul test count occurr 
+MTHSIG0	testpadright test pad 
+MTHSIG1	testpadright test pad 
+MTHSIG2	testpadleft test pad left 
+MTHSIG3	testpadleft test pad left 
+MTHSIG20	testprefixnonemptywithexistingprefix test prefix empti exist prefix 
+MTHSIG21	testremovenullsuffixfromnullstr test remov suffix 
+MTHSIG8	testrepeatnul test repeat 
+MTHSIG9	testrepeatemptystr test repeat empti 
+MTHSIG39	testsuffixnullwithnonempti test suffix empti 
+MTHSIG37	testsuffixnullwithnul test suffix 
+MTHSIG38	testsuffixnullwithempti test suffix empti 
+MTHSIG35	testremovematchingprefixfromstr test remov match prefix 
+MTHSIG36	testremovenonmatchingprefixfromstr test remov match prefix 
+MTHSIG33	testremoveemptyprefixfromemptystr test remov empti prefix empti 
+MTHSIG34	testremovenonemptyprefixfromemptystr test remov empti prefix empti 
+METHODS	testpadright test pad testpadright test pad testpadleft test pad left testpadleft test pad left testhastext test text testhastext test text testcountoccurr test count occurr testcountoccurrencesnul test count occurr testrepeatnul test repeat testrepeatemptystr test repeat empti testrepeatspac test repeat space testrepeatsinglecharact test repeat singl charact testrepeatmultiplecharact test repeat multipl charact testprefixnullwithnul test prefix testprefixnullwithempti test prefix empti testprefixnullwithnonempti test prefix empti testprefixemptywithnul test prefix empti testprefixemptywithempti test prefix empti empti testprefixemptywithnonempti test prefix empti empti testprefixnonemptywithnewprefix test prefix empti prefix testprefixnonemptywithexistingprefix test prefix empti exist prefix testremovenullsuffixfromnullstr test remov suffix testremoveemptysuffixfromnullstr test remov empti suffix testremovenonemptysuffixfromnullstr test remov empti suffix testremovenullsuffixfromemptystr test remov suffix empti testremoveemptysuffixfromemptystr test remov empti suffix empti testremovenonemptysuffixfromemptystr test remov empti suffix empti testremovematchingsuffixfromstr test remov match suffix testremovenonmatchingsuffixfromstr test remov match suffix testremovenullprefixfromnullstr test remov prefix testremoveemptyprefixfromnullstr test remov empti prefix testremovenonemptyprefixfromnullstr test remov empti prefix testremovenullprefixfromemptystr test remov prefix empti testremoveemptyprefixfromemptystr test remov empti prefix empti testremovenonemptyprefixfromemptystr test remov empti prefix empti testremovematchingprefixfromstr test remov match prefix testremovenonmatchingprefixfromstr test remov match prefix testsuffixnullwithnul test suffix testsuffixnullwithempti test suffix empti testsuffixnullwithnonempti test suffix empti testsuffixemptywithnul test suffix empti testsuffixemptywithempti test suffix empti empti testsuffixemptywithnonempti test suffix empti empti testsuffixnonemptywithnewsuffix test suffix empti suffix testsuffixnonemptywithexistingsuffix test suffix empti exist suffix testnullequalsnul test equal testemptydoesnotequalnul test empti equal testnulldoesnotequalempti test equal empti testupperdoesnotequallow test upper equal teststringequalsitself test equal testnullcollectiontodelimitedstr test collect delimit testemptycollectiontodelimitedstr test empti collect delimit testsingletoncollectiontodelimitedstr test singleton collect delimit testdoubletoncollectiontodelimitedstr test doubleton collect delimit testnullisblank test blank testemptystringisblank test empti blank testsinglespacestringisblank test singl space blank testwhitespaceisblank test whitespac blank testnonblankstringisnotblank test blank blank testarraytodelimitedstringwithnullarrai test arrai delimit arrai testarraytodelimitedstringwithemptyarrai test arrai delimit empti arrai testarraytodelimitedstringwithsingleelementarrai test arrai delimit singl element arrai testarraytodelimitedstringwithmultielementarrai test arrai delimit multi element arrai testdefaultifemptywhenvalueisnullandnodefault test empti default testdefaultifemptywhenvalueisemptyandnodefault test empti empti default testdefaultifemptywhenvalueisnullandonedefault test empti testdefaultifemptywhenvalueisemptyandonedefault test empti empti testdefaultifemptywhenallvaluesareblank test empti valu blank testdefaultifemptywhenvalueisemptyandtwodefault test empti empti default testreplaceallwhennoargumentsareblank test replac argument blank testreplaceallwhenreplacementisnul test replac replac testreplaceallwhenreplacementisempti test replac replac empti testreplaceallwhenreplacementiswhitespac test replac replac whitespac testreplaceallwhentoreplaceisnul test replac replac testreplaceallwhentoreplaceisempti test replac replac empti testreplaceallwhentoreplaceiswhitespac test replac replac white space testreplaceallwhenoriginalisnul test replac origin testreplaceallwhenoriginalisempti test replac origin empti testreplacefirstwhenoriginalisnul test replac origin testreplacefirstwhenoriginalisempti test replac origin empti testreplacefirstwhenoriginaliswhitespac test replac origin whitespac testreplacefirstwhentoreplaceisnul test replac replac testreplacefirstwhentoreplaceisempti test replac replac empti testreplacefirstwhentoreplaceiswhitespac test replac replac whitespac testreplacefirstwhenreplacementisnul test replac replac testreplacefirstwhenreplacementisempti test replac replac empti testreplacefirstwhenreplacementiswhitespac test replac replac whitespac testreplacefirstwhennoargumentsareblank test replac argument blank testsubstringafterlast test substr testcontain test testtrimtoempti test trim empti testtrimtoempti test trim empti testtrimtoempti test trim empti 
+MTHSIG31	testremovenonemptyprefixfromnullstr test remov empti prefix 
+MTHSIG32	testremovenullprefixfromemptystr test remov prefix empti 
+MTHSIG30	testremoveemptyprefixfromnullstr test remov empti prefix 
+MTHSIG88	testsubstringafterlast test substr 
+MTHSIG89	testcontain test 
+COMMENTS	unit test link stringutil util deliber chose charact special mean regex origin separ expect result 
+MTHSIG86	testreplacefirstwhenreplacementiswhitespac test replac replac whitespac 
+MTHSIG87	testreplacefirstwhennoargumentsareblank test replac argument blank 
+MTHSIG84	testreplacefirstwhenreplacementisnul test replac replac 
+MTHSIG85	testreplacefirstwhenreplacementisempti test replac replac empti 
+MTHSIG82	testreplacefirstwhentoreplaceisempti test replac replac empti 
+MTHSIG83	testreplacefirstwhentoreplaceiswhitespac test replac replac whitespac 
+MTHSIG80	testreplacefirstwhenoriginaliswhitespac test replac origin whitespac 
+MTHSIG81	testreplacefirstwhentoreplaceisnul test replac replac 
+MTHSIG17	testprefixemptywithempti test prefix empti empti 
+MTHSIG18	testprefixemptywithnonempti test prefix empti empti 
+MTHSIG15	testprefixnullwithnonempti test prefix empti 
+MTHSIG16	testprefixemptywithnul test prefix empti 
+MTHSIG13	testprefixnullwithnul test prefix 
+MTHSIG14	testprefixnullwithempti test prefix empti 
+MTHSIG11	testrepeatsinglecharact test repeat singl charact 
+MTHSIG12	testrepeatmultiplecharact test repeat multipl charact 
+MTHSIG19	testprefixnonemptywithnewprefix test prefix empti prefix 
+MTHSIG90	testtrimtoempti test trim empti 
+MTHSIG10	testrepeatspac test repeat space 
+VARIABLES	scenario scenario substr scenario scenario path path path 
+MTHSIG91	testtrimtoempti test trim empti 
+MTHSIG92	testtrimtoempti test trim empti 
+MTHSIG68	testdefaultifemptywhenvalueisemptyandtwodefault test empti empti default 
+MTHSIG69	testreplaceallwhennoargumentsareblank test replac argument blank 
+MTHSIG66	testdefaultifemptywhenvalueisemptyandonedefault test empti empti 
+MTHSIG67	testdefaultifemptywhenallvaluesareblank test empti valu blank 
+PACKAGE	springframework roo support util 
+MTHSIG64	testdefaultifemptywhenvalueisemptyandnodefault test empti empti default 
+MTHSIG65	testdefaultifemptywhenvalueisnullandonedefault test empti 
+MTHSIG62	testarraytodelimitedstringwithmultielementarrai test arrai delimit multi element arrai 
+MTHSIG63	testdefaultifemptywhenvalueisnullandnodefault test empti default 
+MTHSIG60	testarraytodelimitedstringwithemptyarrai test arrai delimit empti arrai 
+MTHSIG61	testarraytodelimitedstringwithsingleelementarrai test arrai delimit singl element arrai 
+MTHSIG79	testreplacefirstwhenoriginalisempti test replac origin empti 
+MTHSIG77	testreplaceallwhenoriginalisempti test replac origin empti 
+MTHSIG78	testreplacefirstwhenoriginalisnul test replac origin 
+CLASSES	stringutilstest util test 
+MTHSIG75	testreplaceallwhentoreplaceiswhitespac test replac replac white space 
+MTHSIG76	testreplaceallwhenoriginalisnul test replac origin 
+MTHSIG73	testreplaceallwhentoreplaceisnul test replac replac 
+MTHSIG74	testreplaceallwhentoreplaceisempti test replac replac empti 
+MTHSIG71	testreplaceallwhenreplacementisempti test replac replac empti 
+MTHSIG72	testreplaceallwhenreplacementiswhitespac test replac replac whitespac 
+MTHSIG70	testreplaceallwhenreplacementisnul test replac replac 
+MTHSIG48	testupperdoesnotequallow test upper equal 
+MTHSIG49	teststringequalsitself test equal 
+MTHSIG46	testemptydoesnotequalnul test empti equal 
+MTHSIG47	testnulldoesnotequalempti test equal empti 
+MTHSIG44	testsuffixnonemptywithexistingsuffix test suffix empti exist suffix 
+MTHSIG45	testnullequalsnul test equal 
+VARSIG1	scenario 
+VARSIG0	scenario 
+MTHSIG42	testsuffixemptywithnonempti test suffix empti empti 
+MTHSIG43	testsuffixnonemptywithnewsuffix test suffix empti suffix 
+MTHSIG40	testsuffixemptywithnul test suffix empti 
+MTHSIG41	testsuffixemptywithempti test suffix empti empti 
+MTHSIG59	testarraytodelimitedstringwithnullarrai test arrai delimit arrai 
+MTHSIG57	testwhitespaceisblank test whitespac blank 
+MTHSIG58	testnonblankstringisnotblank test blank blank 
+MTHSIG55	testemptystringisblank test empti blank 
+MTHSIG56	testsinglespacestringisblank test singl space blank 
+MTHSIG53	testdoubletoncollectiontodelimitedstr test doubleton collect delimit 
+MTHSIG54	testnullisblank test blank 
+MTHSIG51	testemptycollectiontodelimitedstr test empti collect delimit 
+MTHSIG52	testsingletoncollectiontodelimitedstr test singleton collect delimit 
+MTHSIG50	testnullcollectiontodelimitedstr test collect delimit 

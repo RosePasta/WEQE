@@ -1,0 +1,16 @@
+VARSIG3	button newbutton button 
+VARSIG2	hasdata data displai 
+VARSIG5	widget widget 
+VARSIG4	clickev click event event 
+COMMENTS	implement proxylistview proxi list view type proxi 
+CLASSES	abstractproxylistview proxi list view 
+VARSIG1	widget root 
+VARSIG0	deleg deleg 
+METHODS	ashasdata data aswidget widget setdeleg set deleg init initwidget init widget 
+MTHSIG4	initwidget init widget widget widget 
+MTHSIG0	ashasdata data 
+MTHSIG1	aswidget widget 
+PACKAGE	top level client scaffold place 
+MTHSIG2	setdeleg set deleg deleg deleg 
+MTHSIG3	init widget root hasdata data displai button newbutton button 
+VARIABLES	deleg root displai newbutton button event widget displai deleg 

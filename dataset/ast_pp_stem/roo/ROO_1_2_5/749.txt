@@ -1,0 +1,114 @@
+MTHSIG28	isinproject project javatyp type javatyp type 
+MTHSIG29	lookupclassorinterfacetypedetail lookup type detail physicaltypeidentifi physic type identifi 
+MTHSIG26	hastypechang type chang requestingclass request javatyp type javatyp type 
+MTHSIG27	inittypemap init type map 
+MTHSIG24	gettypesformodul type modul pom modul 
+MTHSIG25	gettypesformodul type modul modulepath modul path 
+MTHSIG22	gettypedetail type detail physicaltypeid physic type 
+MTHSIG23	gettypepath type path javatyp type javatyp type 
+MTHSIG4	cachetyp cach type filecanonicalpath file canon path 
+MTHSIG5	discovertyp discov type 
+MTHSIG6	doespathindicatejavatyp path type filecanonicalpath file canon path 
+MTHSIG7	findclassesorinterfacedetailswithannot find class detail annot javatyp type annotationstodetect annot detect 
+MTHSIG0	getallpackag packag leafpackag leaf 
+MTHSIG1	getlowestcommonpackag lowest common typecount type count map collect typesbypackag type 
+MTHSIG2	getpackagefromtyp type typenam type 
+MTHSIG3	sortbykeylength sort kei length map maptosort map sort 
+MTHSIG20	gettypesbypackag type iter typesinmodul type modul set typepackag type packag 
+VARSIG70	typenam type 
+MTHSIG21	gettypedetail type detail javatyp type type 
+MTHSIG8	findclassesorinterfacedetailswithtag find class detail tag object tag 
+MTHSIG9	findtypeswithannot find type annot javatyp type annotationstodetect annot detect 
+VARSIG73	chang 
+VARSIG72	requestingclass request 
+VARSIG71	remov 
+MTHSIG33	updatechang updat typenam type remov 
+MTHSIG34	updatetypecach updat type cach 
+METHODS	getallpackag packag getlowestcommonpackag lowest common getpackagefromtyp type sortbykeylength sort kei length cachetyp cach type discovertyp discov type doespathindicatejavatyp path type findclassesorinterfacedetailswithannot find class detail annot findclassesorinterfacedetailswithtag find class detail tag findtypeswithannot find type annot findtypeswithannot find type annot getparentpath parent path getphysicalpath physic path getphysicaltypecanonicalpath physic type canon path getphysicaltypecanonicalpath physic type canon path getphysicaltypeidentifi physic type identifi getphysicaltypeidentifi physic type identifi getpotentialtoplevelpackagesformodul potenti top level packag modul getproposedjavatyp propos type gettoplevelpackageformodul top level modul gettypesbypackag type gettypedetail type detail gettypedetail type detail gettypepath type path gettypesformodul type modul gettypesformodul type modul hastypechang type chang inittypemap init type map isinproject project lookupclassorinterfacetypedetail lookup type detail processtypeswithannot process type annot processtypeswithtag process type tag updateattributecach updat attribut cach updatechang updat updatetypecach updat type cach 
+VARSIG67	annotationmetadata annot metadata annotationmetadata annot metadata 
+VARSIG66	javatyp type previousannot previou annot 
+VARSIG65	memberholdingtypedetail member hold type detail cid 
+VARSIG64	locatedmid locat mid 
+VARSIG69	object customdata custom data 
+VARSIG68	object previouscustomdata previou custom data 
+MTHSIG31	processtypeswithtag process type tag object tag locatedtypecallback locat type callback callback 
+MTHSIG32	updateattributecach updat attribut cach memberholdingtypedetail member hold type detail cid 
+MTHSIG30	processtypeswithannot process type annot list javatyp type annotationstodetect annot detect locatedtypecallback locat type callback callback 
+VARSIG63	locatedtypecallback locat type callback callback 
+VARSIG62	object tag 
+VARSIG61	locatedmid locat mid 
+VARSIG60	javatyp type annotationtyp annot type 
+COMMENTS	implement link typelocationservic type locat servic perform reason automat cach queri cach invalid file system return packag lead foo bar return foo foo bar leafpackag leaf fulli qualifi pars requir iter return lowest level number type typecount type count number type typesbypackag type map name type name type parent packag requir number type sort kei map length type map map valu maptosort map sort map sort chang sort version map chang drop cach retriev list path discov modifi invoc determin javatyp type file build map modul modul packag type there type foo bar foo baz map foo bar foo baz foo foo bar foo baz foo bar foo bar foo baz foo baz packag type set typesinmodul type modul type modul question typepackag type packag set add type type map laid obtain fresh copi link classorinterfacetypedetail type detail physic type physicaltypeidentifi physic type identifi lookup requir request detail unavail cach doesn annot process call project process cach updat cach doesn tag process call project process cach updat updat type cach 
+VARSIG19	classorinterfacetypedetail type detail locat 
+VARSIG18	list javatyp type annotationstodetect annot detect 
+VARSIG17	javatyp type annotationstodetect annot detect 
+VARSIG12	javatyp type annotationstodetect annot detect 
+VARSIG11	filecanonicalpath file canon path 
+VARSIG10	chang 
+VARSIG16	classorinterfacetypedetail type detail locat 
+VARSIG15	object tag 
+VARSIG14	classorinterfacetypedetail type detail object 
+VARSIG13	classorinterfacetypedetail type detail locat 
+MTHSIG17	getpotentialtoplevelpackagesformodul potenti top level packag modul pom modul 
+MTHSIG18	getproposedjavatyp propos type filecanonicalpath file canon path 
+MTHSIG15	getphysicaltypeidentifi physic type identifi javatyp type type 
+MTHSIG16	getphysicaltypeidentifi physic type identifi filecanonicalpath file canon path 
+MTHSIG13	getphysicaltypecanonicalpath physic type canon path javatyp type javatyp type logicalpath logic path path 
+MTHSIG14	getphysicaltypecanonicalpath physic type canon path physicaltypeid physic type 
+MTHSIG11	getparentpath parent path javatyp type javatyp type 
+MTHSIG12	getphysicalpath physic path javatyp type javatyp type 
+MTHSIG19	gettoplevelpackageformodul top level modul pom modul 
+MTHSIG10	findtypeswithannot find type annot list javatyp type annotationstodetect annot detect 
+VARIABLES	kei kei kei kei leafpackag leaf typecount type count typesbypackag type entri typenam type maptosort map sort kei filecanonicalpath file canon path chang filecanonicalpath file canon path annotationstodetect annot detect locat object tag locat annotationstodetect annot detect annotationstodetect annot detect locat javatyp type typepath type path javatyp type pom physicalpath physic path javatyp type path physicaltypeid physic type type filecanonicalpath file canon path physicalpath physic path modul typenam type discoveredpackag discov entri filecanonicalpath file canon path physicalpath physic path modul typesinmodul type modul typepackag type packag typenam type discoveredpackag discov type physicaltypeid physic type javatyp type modul typenam type modulepath modul path requestingclass request javatyp type typeidentifi type identifi changedid chang pom path file javatyp type physicaltypeidentifi physic type identifi annotationstodetect annot detect callback annotationtyp annot type annotationtyp annot type locatedmid locat mid tag callback locatedmid locat mid cid previousannot previou annot annotationmetadata annot metadata previouscustomdata previou custom data customdata custom data typenam type remov requestingclass request chang length compar file ant path discoveredpackag discov packag typeseg type segment typeseg type segment typesbysortedpackag type sort longestpackag longest toplevelpackag top level thispackag typesinpackag type sortedmap sort map filemanag file manag filemonitorservic file monitor servic metadataservic metadata servic projectoper project oper typecach type cach typeresolutionservic type resolut servic annotationtomidmap annot mid map changemap chang map dirtyfil dirti file discoveredtyp discov type typecustomdatamap type custom data map tagtomidmap tag mid map typeannotationmap type annot map cid type type type type relativepath rel path parentpath parent path pathloc path locat logicalpath logic path javatyp type pom canonicalfilepath canon file path containingphysicalpath physic path logicalpath logic path physicaltypeidentifi physic type identifi typedirectori type directori simpletypenam simpl type javapackag javatyp type modul reducedpath reduc path path packagemap map moduletyp modul type toplevelpackag top level packag type typeseg type segment discoveredpackag discov packag typeseg type segment longestpackag longest relativepath rel path moduleforfileidentifi modul file identifi modulecanonicalpath modul canon path typesbypackag type typepackag type cacheddetail cach detail physicaltypemetadata physic type metadata physicaltypeid physic type typenam type name javatyp type changessincelastrequest request alljavafil file physicaltypemetadata physic type metadata locat locat previousannot previou annot midset mid set previouscustomdataset previou custom data set midset mid set 
+VARSIG39	set typepackag type packag 
+VARSIG34	map entri set entri 
+VARSIG33	discoveredpackag discov 
+VARSIG32	typenam type 
+VARSIG31	pom modul 
+VARSIG38	iter typesinmodul type modul 
+VARSIG37	pom modul 
+PACKAGE	springframework roo classpath 
+VARSIG36	physicalpath physic path physicalpath physic path 
+VARSIG35	filecanonicalpath file canon path 
+VARSIG30	physicalpath physic path physicalpath physic path 
+CLASSES	typelocationserviceimpl type locat servic impl 
+VARSIG29	filecanonicalpath file canon path 
+VARSIG28	javatyp type type 
+VARSIG23	pom pom 
+VARSIG22	javatyp type javatyp type 
+VARSIG21	typepath type path 
+VARSIG20	javatyp type javatyp type 
+VARSIG27	physicaltypeid physic type 
+VARSIG26	logicalpath logic path path 
+VARSIG25	javatyp type javatyp type 
+VARSIG24	physicalpath physic path physicalpath physic path 
+VARSIG7	map maptosort map sort 
+VARSIG6	typenam type 
+VARSIG9	filecanonicalpath file canon path 
+VARSIG8	kei 
+VARSIG3	typecount type count 
+VARSIG2	leafpackag leaf 
+VARSIG5	entri collect entri 
+VARSIG4	map collect typesbypackag type 
+VARSIG1	kei kei 
+VARSIG0	kei kei 
+VARSIG56	physicaltypeidentifi physic type identifi 
+VARSIG55	javatyp type javatyp type 
+VARSIG54	filedetail file detail file 
+VARSIG53	physicalpath physic path path 
+VARSIG59	javatyp type annotationtyp annot type 
+VARSIG58	locatedtypecallback locat type callback callback 
+VARSIG57	list javatyp type annotationstodetect annot detect 
+VARSIG52	pom pom 
+VARSIG51	changedid chang 
+VARSIG50	typeidentifi type identifi 
+VARSIG45	pom modul 
+VARSIG44	javatyp type javatyp type 
+VARSIG43	physicaltypeid physic type 
+VARSIG42	javatyp type type 
+VARSIG49	javatyp type javatyp type 
+VARSIG48	requestingclass request 
+VARSIG47	modulepath modul path 
+VARSIG46	typenam type 
+VARSIG41	discoveredpackag discov 
+VARSIG40	typenam type 

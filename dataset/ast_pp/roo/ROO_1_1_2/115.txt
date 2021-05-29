@@ -1,0 +1,84 @@
+MTHSIG24	buildtype build type gwttype gwt type desttype dest type classorinterfacetypedetails type details templateclass template list memberholdingtypedetails member holding type details extendstypes types
+MTHSIG22	resolvetypes resolve types javatype type javatype type typed
+MTHSIG23	createabstractbuilder create builder classorinterfacetypedetailsbuilder type details builder concreteclass concrete list memberholdingtypedetails member holding type details extendstypesdetails types details
+VARSIG39	memberholdingtypedetails member holding type details extendstypedetails type details
+MTHSIG4	isonemethodsequal methods equal methodmetadata metadata methodmetadata metadata
+VARSIG34	javatype type
+MTHSIG5	aremethodsequal methods equal methodmetadata metadata methodmetadata metadata
+VARSIG33	projectmetadata project metadata projectmetadata project metadata
+MTHSIG6	getdestinationjavatype destination type gwttype gwt type type projectmetadata project metadata projectmetadata project metadata
+VARSIG32	gwttype gwt type mirrortype mirror type
+MTHSIG7	getfullyqualifiedtypename fully qualified type gwttype gwt type gwttype gwt type projectmetadata project metadata projectmetadata project metadata
+VARSIG31	javatype type physicaltype physical type
+MTHSIG0	gwtutils gwt utils
+VARSIG38	list memberholdingtypedetails member holding type details extendstypesdetails types details
+MTHSIG1	getmirrortypemap mirror type map projectmetadata project metadata projectmetadata project metadata javatype type governortype governor type
+VARSIG37	classorinterfacetypedetailsbuilder type details builder concreteclass concrete
+PACKAGE	springframework roo addon gwt
+MTHSIG2	isrequestmethod request entitymetadata entity metadata entitymetadata entity metadata methodmetadata metadata methodmetadata metadata
+VARSIG36	javatype type genericparamtype type
+MTHSIG3	hasrequiredentitymethods required entity methods entitymetadata entity metadata entitymetadata entity metadata
+VARSIG35	javatype type typed
+MTHSIG20	methodbuildersequal builders equal methodmetadatabuilder metadata builder methodmetadatabuilder metadata builder
+MTHSIG21	getdestinationjavatype destination type javatype type physicaltype physical type gwttype gwt type mirrortype mirror type projectmetadata project metadata projectmetadata project metadata
+MTHSIG8	convertmodifier convert modifier builder
+VARSIG30	methodmetadatabuilder metadata builder
+MTHSIG9	checkprimitive check primitive javatype type type
+CLASSES	gwtutils gwt utils
+VARSIG29	methodmetadatabuilder metadata builder
+VARSIG28	javatype type type
+METHODS	gwtutils gwt utils getmirrortypemap mirror type map isrequestmethod request hasrequiredentitymethods required entity methods isonemethodsequal methods equal aremethodsequal methods equal getdestinationjavatype destination type getfullyqualifiedtypename fully qualified type convertmodifier convert modifier checkprimitive check primitive ismappable mappable convertprimitivetype convert primitive type isallowablereturntype allowable type iscommontype common type isdomainobject domain object isenum isentity entity isembeddable embeddable iscollectiontype collection type isrequestfactorycompatible request factory compatible methodbuildersequal builders equal getdestinationjavatype destination type resolvetypes resolve types createabstractbuilder create builder buildtype build type
+VARSIG23	physicaltypemetadata physical type metadata ptmd
+VARSIG22	javatype type returntype type
+VARSIG21	javatype type type
+VARSIG20	javatype type type
+VARSIG27	javatype type returntype type
+VARSIG26	physicaltypemetadata physical type metadata ptmd
+VARSIG25	physicaltypemetadata physical type metadata ptmd
+VARSIG24	physicaltypemetadata physical type metadata ptmd
+VARSIG7	methodmetadata metadata
+VARSIG6	methodmetadata metadata
+VARSIG9	methodmetadata metadata
+VARSIG8	methodmetadata metadata
+VARSIG3	entitymetadata entity metadata entitymetadata entity metadata
+VARSIG2	gwttype gwt type mirrortype mirror type
+VARSIG5	entitymetadata entity metadata entitymetadata entity metadata
+VARSIG4	methodmetadata metadata methodmetadata metadata
+COMMENTS	utility methods gwt add physicaltype physical type mirrortype mirror type mirror producing required projectmetadata project metadata mid mirror applicable current governor type consist concrete type depend
+VARSIG19	javatype type type
+VARSIG1	javatype type governortype governor type
+VARSIG18	entitymetadata entity metadata entitymetadata entity metadata
+VARSIG0	projectmetadata project metadata projectmetadata project metadata
+VARSIG17	classorinterfacetypedetails type details governortypedetails governor type details
+VARSIG12	projectmetadata project metadata projectmetadata project metadata
+VARSIG11	gwttype gwt type type
+VARSIG10	methodmetadata metadata
+VARSIG53	exception
+VARSIG16	javatype type type
+VARSIG15	builder
+VARSIG14	projectmetadata project metadata projectmetadata project metadata
+VARSIG13	gwttype gwt type gwttype gwt type
+VARSIG52	classorinterfacetypedetailsbuilder type details builder innertype type
+VARSIG51	javatype type innertypename type
+VARSIG50	methodmetadatabuilder metadata builder methodbuilder builder
+MTHSIG17	isembeddable embeddable physicaltypemetadata physical type metadata ptmd
+MTHSIG18	iscollectiontype collection type javatype type returntype type
+MTHSIG15	isenum physicaltypemetadata physical type metadata ptmd
+MTHSIG16	isentity entity physicaltypemetadata physical type metadata ptmd
+MTHSIG13	iscommontype common type javatype type type
+MTHSIG14	isdomainobject domain object javatype type returntype type physicaltypemetadata physical type metadata ptmd
+MTHSIG11	convertprimitivetype convert primitive type javatype type type
+MTHSIG12	isallowablereturntype allowable type javatype type type
+MTHSIG19	isrequestfactorycompatible request factory compatible javatype type type
+VARSIG45	classorinterfacetypedetails type details templateclass template
+VARSIG44	gwttype gwt type desttype dest type
+VARSIG43	javasymbolname symbol paramname
+VARSIG42	javatype type typetype type type
+VARSIG49	javasymbolname symbol methodname
+VARSIG48	fieldmetadatabuilder field metadata builder fieldbuilder field builder
+VARSIG47	javasymbolname symbol fieldname field
+VARSIG46	list memberholdingtypedetails member holding type details extendstypes types
+MTHSIG10	ismappable mappable classorinterfacetypedetails type details governortypedetails governor type details entitymetadata entity metadata entitymetadata entity metadata
+VARIABLES	projectmetadata project metadata governortype governor type mirrortype mirror type entitymetadata entity metadata methodmetadata metadata entitymetadata entity metadata type projectmetadata project metadata gwttype gwt type projectmetadata project metadata builder type governortypedetails governor type details entitymetadata entity metadata type type type returntype type ptmd ptmd ptmd ptmd returntype type type physicaltype physical type mirrortype mirror type projectmetadata project metadata typed genericparamtype type concreteclass concrete extendstypesdetails types details extendstypedetails type details constructormetadata constructor metadata type typetype type type paramname desttype dest type templateclass template extendstypes types fieldname field fieldbuilder field builder methodname methodbuilder builder innertypename type innertype type gwttypenamingstrategy gwt type naming strategy logger mirrortypemap mirror type map typename type annotationmetadata annotation metadata annotationmetadata annotation metadata match typemap type map typecountmatch type count match concretetype concrete type abstractname abstracttype type abstractid builder abstractconstructor constructor typemap type map newtype type paramtypes types typeparam type bodybuilder body builder types templateclassbuilder template builder abstractclassbuilder builder fieldstoremove fields remove abstractfieldbuilder field builder methodstoremove methods remove abstractmethodbuilder builder builder innertypebuilder type builder
+VARSIG41	annotatedjavatype annotated type type
+VARSIG40	constructormetadata constructor metadata constructormetadata constructor metadata

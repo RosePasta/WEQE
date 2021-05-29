@@ -1,0 +1,34 @@
+VARSIG7	ioexcept except ioe 
+VARSIG6	 
+VARSIG9	path propertyfilepath properti file path 
+VARSIG8	ioexcept except ioe 
+VARSIG3	path propertyfilepath properti file path 
+VARSIG2	pathresolv path resolv pathresolv path resolv 
+VARSIG5	kei 
+VARSIG4	propertyfilenam properti filenam 
+COMMENTS	properti file configur oper properti throw except file exist propertyfilepath properti file path locat properti file requir propertyfilenam properti filenam properti file path requir kei properti kei updat requir properti set properti kei requir remov properti throw except file exist propertyfilepath properti file path locat properti file requir propertyfilenam properti filenam properti file path requir kei properti kei remov requir retriev properti return properti file exist propertyfilepath properti file path locat properti file requir propertyfilenam properti filenam properti file path requir kei properti kei retriev requir properti properti file request properti exist retriev properti properti throw except file exist propertyfilepath properti file path locat properti file requir propertyfilenam properti filenam properti file path requir includevalu includ valu append thevalu return properti file exist 
+VARSIG19	propertyfilenam properti filenam 
+VARSIG1	filemanag file manag filemanag file manag 
+VARSIG18	path propertyfilepath properti file path 
+VARSIG0	metadataservic metadata servic metadataservic metadata servic 
+VARSIG17	ioexcept except ioe 
+MTHSIG4	getproperti properti path propertyfilepath properti file path propertyfilenam properti filenam kei 
+VARSIG12	ioexcept except ioe 
+MTHSIG5	getpropertykei properti path propertyfilepath properti file path propertyfilenam properti filenam includevalu includ valu 
+VARSIG11	kei 
+VARSIG10	propertyfilenam properti filenam 
+MTHSIG0	propfileoper prop file oper metadataservic metadata servic metadataservic metadata servic filemanag file manag filemanag file manag pathresolv path resolv pathresolv path resolv 
+VARSIG16	kei 
+MTHSIG1	ispropertiescommandavail properti command 
+VARSIG15	propertyfilenam properti filenam 
+PACKAGE	springframework roo addon propfil 
+MTHSIG2	changeproperti chang properti path propertyfilepath properti file path propertyfilenam properti filenam kei 
+VARSIG14	path propertyfilepath properti file path 
+MTHSIG3	removeproperti remov properti path propertyfilepath properti file path propertyfilenam properti filenam kei 
+VARSIG13	ioexcept except ioe 
+CLASSES	propfileoper prop file oper 
+METHODS	propfileoper prop file oper ispropertiescommandavail properti command changeproperti chang properti removeproperti remov properti getproperti properti getpropertykei properti 
+VARSIG22	object kei 
+VARSIG21	ioexcept except ioe 
+VARSIG20	includevalu includ valu 
+VARIABLES	metadataservic metadata servic filemanag file manag pathresolv path resolv propertyfilepath properti file path propertyfilenam properti filenam kei ioe ioe propertyfilepath properti file path propertyfilenam properti filenam kei ioe ioe propertyfilepath properti file path propertyfilenam properti filenam kei ioe propertyfilepath properti file path propertyfilenam properti filenam includevalu includ valu ioe kei filemanag file manag pathresolv path resolv metadataservic metadata servic filepath file path mutablefil mutabl file prop filepath file path mutablefil mutabl file prop filepath file path mutablefil mutabl file prop filepath file path prop result info 

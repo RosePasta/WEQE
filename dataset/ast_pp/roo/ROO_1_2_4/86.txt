@@ -1,0 +1,66 @@
+MTHSIG28	isjointable join table
+MTHSIG29	setcatalog set catalog catalog
+MTHSIG26	isdisableversionfields disable version fields
+MTHSIG27	isdisablegeneratedidentifiers disable generated identifiers
+MTHSIG24	hashcode hash code
+MTHSIG25	isincludenonportableattributes include portable attributes
+MTHSIG22	getprimarykeys primary
+MTHSIG23	getschema schema
+MTHSIG4	addindex add
+MTHSIG5	equals object obj
+MTHSIG6	findcolumn find column
+MTHSIG7	findimportedkeybylocalcolumnname find imported key local column localcolumnname local column
+MTHSIG0	table schema schema
+MTHSIG1	addcolumn add column column column
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	addexportedkey add exported key foreignkey foreign key exportedkey exported key
+MTHSIG3	addimportedkey add imported key foreignkey foreign key foreignkey foreign key
+MTHSIG20	getname
+MTHSIG21	getprimarykeycount primary key count
+MTHSIG8	getcatalog catalog
+MTHSIG9	getcolumncount column count
+MTHSIG35	tostring
+MTHSIG33	setdisablegeneratedidentifiers set disable generated identifiers disablegeneratedidentifiers disable generated identifiers
+MTHSIG34	setjointable set join table jointable join table
+CLASSES	table
+METHODS	table addcolumn add column addexportedkey add exported key addimportedkey add imported key addindex add equals findcolumn find column findimportedkeybylocalcolumnname find imported key local column getcatalog catalog getcolumncount column count getcolumns columns getdescription description getexportedkeycountbyforeigntablename exported key count foreign table getexportedkeys exported getfullyqualifiedtablename fully qualified table getimportedkey imported key getimportedkeycount imported key count getimportedkeycountbyforeigntablename imported key count foreign table getimportedkeys imported getindices indices getname getprimarykeycount primary key count getprimarykeys primary getschema schema hashcode hash code isincludenonportableattributes include portable attributes isdisableversionfields disable version fields isdisablegeneratedidentifiers disable generated identifiers isjointable join table setcatalog set catalog setdescription set description setincludenonportableattributes set include portable attributes setdisableversionfields set disable version fields setdisablegeneratedidentifiers set disable generated identifiers setjointable set join table tostring
+VARSIG23	disablegeneratedidentifiers disable generated identifiers
+VARSIG22	disableversionfields disable version fields
+VARSIG21	includenonportableattributes include portable attributes
+VARSIG20	description
+VARSIG24	jointable join table
+MTHSIG31	setincludenonportableattributes set include portable attributes includenonportableattributes include portable attributes
+MTHSIG32	setdisableversionfields set disable version fields disableversionfields disable version fields
+MTHSIG30	setdescription set description description
+VARSIG7	
+VARSIG6	object obj
+VARSIG9	localcolumnname local column
+VARSIG8	column column
+VARSIG3	foreignkey foreign key exportedkey exported key
+VARSIG2	column column
+VARSIG5	
+VARSIG4	foreignkey foreign key foreignkey foreign key
+COMMENTS	represents table database model
+VARSIG19	catalog
+VARSIG1	schema schema
+VARSIG18	column column
+VARSIG0	
+VARSIG17	foreignkey foreign key foreignkey foreign key
+VARSIG12	foreigntablename foreign table
+VARSIG11	reference reference
+VARSIG10	foreignkey foreign key foreignkey foreign key
+VARSIG16	foreigntablename foreign table
+VARSIG15	foreignkey foreign key foreignkey foreign key
+VARSIG14	
+VARSIG13	foreignkey foreign key exportedkey exported key
+MTHSIG17	getimportedkeycountbyforeigntablename imported key count foreign table foreigntablename foreign table
+MTHSIG18	getimportedkeys imported
+MTHSIG15	getimportedkey imported key
+MTHSIG16	getimportedkeycount imported key count
+MTHSIG13	getexportedkeys exported
+MTHSIG14	getfullyqualifiedtablename fully qualified table
+MTHSIG11	getdescription description
+MTHSIG12	getexportedkeycountbyforeigntablename exported key count foreign table foreigntablename foreign table
+MTHSIG19	getindices indices
+MTHSIG10	getcolumns columns
+VARIABLES	schema column exportedkey exported key foreignkey foreign key obj column localcolumnname local column foreignkey foreign key reference foreigntablename foreign table exportedkey exported key foreignkey foreign key foreigntablename foreign table foreignkey foreign key column catalog description includenonportableattributes include portable attributes disableversionfields disable version fields disablegeneratedidentifiers disable generated identifiers jointable join table catalog columns description exportedkeys exported importedkeys imported includenonportableattributes include portable attributes disableversionfields disable version fields disablegeneratedidentifiers disable generated identifiers indices jointable join table schema count count primarykeys primary prime result

@@ -1,0 +1,29 @@
+VARSIG7	javasymbolname symbol constantname constant
+VARSIG6	physicaltypeidentifier physical type identifier
+VARSIG9	javatype type entity
+VARSIG8	fieldmetadata field metadata fieldmetadata field metadata
+VARSIG3	javatype type superclass
+VARSIG2	physicaltypeidentifier physical type identifier
+VARSIG5	classorinterfacetypedetails type details details
+VARSIG4	javatype type requiredclassorinterface required
+COMMENTS	common set operations types obtains superclass exception superclass requested parsed superclass requested superclass superclass requested required lang object obtains requested link javatype type assuming exists time parsed assumption met exception thrown requiredclassorinterface required parsed required details returns creates location details exception thrown exists details create required adds constant existing physicaltypeidentifier physical type identifier add required constantname constant constant required adds field existing exception thrown exist modified field requested declared fieldmetadata field metadata add required creates integration test entity automatically produces data demand exist silently returns integration test file exists entity produce integration test required creates data demand provider entity silently returns dod exists entity produce data demand provider required data demand required path location data demand required
+VARSIG1	path path
+VARSIG0	javatype type javatype type
+MTHSIG4	getsuperclass superclass javatype type superclass
+VARSIG12	path path
+MTHSIG5	getclassorinterface javatype type requiredclassorinterface required
+VARSIG11	javatype type
+MTHSIG6	generateclassfile generate file classorinterfacetypedetails type details details
+VARSIG10	javatype type entity
+MTHSIG7	addenumconstant add constant physicaltypeidentifier physical type identifier javasymbolname symbol constantname constant
+MTHSIG0	isprojectavailable project
+MTHSIG1	ispersistentclassavailable persistent
+PACKAGE	springframework roo classpath operations
+MTHSIG2	getphysicallocationcanonicalpath physical location canonical path javatype type javatype type path path
+MTHSIG3	getphysicallocationcanonicalpath physical location canonical path physicaltypeidentifier physical type identifier
+MTHSIG8	addfield add field fieldmetadata field metadata fieldmetadata field metadata
+MTHSIG9	newintegrationtest integration test javatype type entity
+CLASSES	classpathoperations classpath operations
+METHODS	isprojectavailable project ispersistentclassavailable persistent getphysicallocationcanonicalpath physical location canonical path getphysicallocationcanonicalpath physical location canonical path getsuperclass superclass getclassorinterface generateclassfile generate file addenumconstant add constant addfield add field newintegrationtest integration test newdod dod
+MTHSIG10	newdod dod javatype type entity javatype type path path
+VARIABLES	javatype type path physicaltypeidentifier physical type identifier superclass requiredclassorinterface required details physicaltypeidentifier physical type identifier constantname constant fieldmetadata field metadata entity entity path

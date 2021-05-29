@@ -1,0 +1,47 @@
+VARSIG7	constructormatcher constructor matcher constructortagger constructor tagger
+VARSIG6	methodmetadata metadata
+VARSIG9	typematcher type matcher typetagger type tagger
+VARSIG8	constructormetadata constructor metadata constructor
+VARSIG3	fieldmatcher field matcher fieldtagger field tagger
+VARSIG2	memberholdingtypedetails member holding type details memberholdingtypedetails member holding type details
+VARSIG5	methodmatcher matcher methodtagger tagger
+VARSIG4	fieldmetadata field metadata field
+COMMENTS	implementation link customdatakeydecorator custom data key decorator locate requests add custom data identifiable structures returns plural term inflector attention rooplural roo plural account getplural plural term term pluralized locale locale pluralized term inflector failed roo don pluralize don reference osgi unload
+VARSIG19	runtimeexception runtime exception
+VARSIG1	memberdetails member details memberdetails member details
+VARSIG18	locale locale
+VARSIG0	requestingclass requesting
+VARSIG17	term
+MTHSIG4	getinflectorplural inflector plural term locale locale
+VARSIG12	memberdetails member details memberdetails member details
+MTHSIG5	getmethodtaggers taggers
+VARSIG11	requestingclass requesting
+MTHSIG6	gettypetaggers type taggers
+VARSIG10	memberholdingtypedetails member holding type details typedetails type details
+MTHSIG7	registermatcher register matcher addingclass adding matcher customdataaccessor custom data accessor matcher
+MTHSIG0	decorate requestingclass requesting memberdetails member details memberdetails member details
+VARSIG16	matcher customdataaccessor custom data accessor matcher
+MTHSIG1	decoratetypes decorate types requestingclass requesting memberdetails member details memberdetails member details
+VARSIG15	matcher customdataaccessor custom data accessor matcher
+PACKAGE	springframework roo classpath customdata taggers
+MTHSIG2	getconstructortaggers constructor taggers
+VARSIG14	memberholdingtypedetails member holding type details typedetails type details
+MTHSIG3	getfieldtaggers field taggers
+VARSIG13	typematcher type matcher typetagger type tagger
+MTHSIG8	registermatchers register matchers addingclass adding matcher customdataaccessor custom data accessor matchers
+VARSIG30	taggerkey tagger key
+MTHSIG9	unregistermatchers unregister matchers addingclass adding
+CLASSES	customdatakeydecoratorimpl custom data key decorator impl
+VARSIG29	taggerkey tagger key
+VARSIG28	addingclass adding
+METHODS	decorate decoratetypes decorate types getconstructortaggers constructor taggers getfieldtaggers field taggers getinflectorplural inflector plural getmethodtaggers taggers gettypetaggers type taggers registermatcher register matcher registermatchers register matchers unregistermatchers unregister matchers unregistermatchers unregister matchers
+VARSIG23	matcher customdataaccessor custom data accessor matcher
+VARSIG22	addingclass adding
+VARSIG21	matcher customdataaccessor custom data accessor matcher
+VARSIG20	matcher customdataaccessor custom data accessor matcher
+VARSIG27	addingclass adding
+VARSIG26	matcher customdataaccessor custom data accessor matcher
+VARSIG25	matcher customdataaccessor custom data accessor matchers
+VARSIG24	addingclass adding
+MTHSIG10	unregistermatchers unregister matchers addingclass adding
+VARIABLES	requestingclass requesting memberdetails member details memberholdingtypedetails member holding type details fieldtagger field tagger field methodtagger tagger constructortagger constructor tagger constructor typetagger type tagger typedetails type details requestingclass requesting memberdetails member details typetagger type tagger typedetails type details matcher matcher term locale matcher matcher addingclass adding matcher addingclass adding matchers matcher addingclass adding addingclass adding taggerkey tagger key taggerkey tagger key pluralmap plural map taggermap tagger map memberdetailsbuilder member details builder memberdetailsbuilder member details builder constructortaggers constructor taggers fieldtaggers field taggers methodtaggers taggers typetaggers type taggers toremove remove

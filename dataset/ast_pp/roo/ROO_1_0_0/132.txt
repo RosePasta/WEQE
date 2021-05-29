@@ -1,0 +1,19 @@
+VARSIG7	list javatype type throwstypes types
+VARSIG6	list annotationmetadata annotation metadata annotations
+VARSIG8	body
+VARSIG3	javatype type returntype type
+VARSIG2	javasymbolname symbol methodname
+VARSIG5	list javasymbolname symbol parameternames parameter names
+VARSIG4	list annotatedjavatype annotated type parameters
+COMMENTS	implementation link methodmetadata metadata
+CLASSES	defaultmethodmetadata metadata
+VARSIG1	modifier
+VARSIG0	declaredbymetadataid declared metadata
+METHODS	defaultmethodmetadata metadata getmethodname getreturntype type getthrowstypes types tostring
+MTHSIG4	tostring
+MTHSIG0	defaultmethodmetadata metadata declaredbymetadataid declared metadata modifier javasymbolname symbol methodname javatype type returntype type list annotatedjavatype annotated type parameters list javasymbolname symbol parameternames parameter names list annotationmetadata annotation metadata annotations list javatype type throwstypes types body
+MTHSIG1	getmethodname
+PACKAGE	springframework roo classpath details
+MTHSIG2	getreturntype type
+MTHSIG3	getthrowstypes types
+VARIABLES	declaredbymetadataid declared metadata modifier methodname returntype type parameters parameternames parameter names annotations throwstypes types body methodname returntype type throwstypes types tsc

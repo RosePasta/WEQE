@@ -1,0 +1,76 @@
+MTHSIG28	update appname app
+MTHSIG26	unbindservice unbind service service appname app
+MTHSIG27	unmap map appname app url
+MTHSIG24	stats appname app
+MTHSIG25	appname app
+MTHSIG22	setup
+MTHSIG23	start appname app
+VARSIG39	appname app
+MTHSIG4	crashlogs crash logs appname app instance
+VARSIG34	appname app
+MTHSIG5	createservice create service service bind
+VARSIG33	appname app
+MTHSIG6	delete appname app
+VARSIG32	newappname app
+MTHSIG7	deleteservice delete service service
+VARSIG31	appname app
+MTHSIG0	apps
+VARSIG38	appname app
+MTHSIG1	bindservice bind service service appname app
+VARSIG37	service
+PACKAGE	springframework roo addon cloud foundry
+MTHSIG2	clearstoredlogindetails clear stored login details
+VARSIG36	appname app
+MTHSIG3	crashes appname app
+VARSIG35	appname app
+MTHSIG20	restart appname app
+MTHSIG21	services
+MTHSIG8	files appname app path instance
+VARSIG30	password
+MTHSIG9	info
+CLASSES	cloudfoundryoperations cloud foundry operations
+VARSIG29	email
+VARSIG28	list urls
+METHODS	apps bindservice bind service clearstoredlogindetails clear stored login details crashes crashlogs crash logs createservice create service delete deleteservice delete service files info instances iscloudfoundrycommandavailable cloud foundry command issetupcommandavailable setup command login logs map mem push register renameapp rename app restart services setup start stats unbindservice unbind service unmap map update
+VARSIG23	integer memsize mem size
+VARSIG22	appname app
+VARSIG21	url
+VARSIG20	appname app
+VARSIG27	path
+VARSIG26	integer memory
+VARSIG25	integer instances
+VARSIG24	appname app
+VARSIG7	bind
+VARSIG6	
+VARSIG9	service
+VARSIG8	appname app
+VARSIG3	appname app
+VARSIG2	appname app
+VARSIG5	service
+VARSIG4	instance
+COMMENTS	operations offered cloud foundry add check cloud foundry commands shell depends user logged cloud foundry availability check cloud foundry setup command shell availability initial setup cloud foundry target project
+VARSIG19	instance
+VARSIG1	appname app
+VARSIG18	appname app
+VARSIG0	service
+VARSIG17	cloudcontrollerurl cloud controller url
+VARSIG12	instance
+VARSIG11	path
+VARSIG10	appname app
+VARSIG16	password
+VARSIG15	email
+VARSIG14	number
+VARSIG13	appname app
+MTHSIG17	push appname app integer instances integer memory path list urls
+MTHSIG18	register email password
+MTHSIG15	map appname app url
+MTHSIG16	mem appname app integer memsize mem size
+MTHSIG13	login email password cloudcontrollerurl cloud controller url
+MTHSIG14	logs appname app instance
+MTHSIG11	iscloudfoundrycommandavailable cloud foundry command
+MTHSIG12	issetupcommandavailable setup command
+MTHSIG19	renameapp rename app appname app newappname app
+MTHSIG10	instances appname app number
+VARIABLES	service appname app appname app appname app instance service bind appname app service appname app path instance appname app number email password cloudcontrollerurl cloud controller url appname app instance appname app url appname app memsize mem size appname app instances memory path urls email password appname app newappname app appname app appname app appname app appname app service appname app appname app url appname app
+VARSIG41	appname app
+VARSIG40	url

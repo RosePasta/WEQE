@@ -1,0 +1,12 @@
+MTHSIG0	loggingcommands logging commands staticfieldconverter field converter staticfieldconverter field converter loggingoperations logging operations loggingoperations logging operations
+VARSIG3	clioption cli option key mandatory append logging level loggerpackage logger loggerappender logger appender
+MTHSIG1	isconfigureloggingavailable configure logging
+VARSIG2	clioption cli option key level mandatory log level configure loglevel log level loglevel log level
+PACKAGE	springframework roo addon logging
+MTHSIG2	configurelogging configure logging loglevel log level loglevel log level loggerpackage logger loggerappender logger appender
+COMMENTS	commands logging add roo shell
+CLASSES	loggingcommands logging commands
+VARIABLES	staticfieldconverter field converter loggingoperations logging operations loglevel log level loggerappender logger appender loggingoperations logging operations
+VARSIG1	loggingoperations logging operations loggingoperations logging operations
+VARSIG0	staticfieldconverter field converter staticfieldconverter field converter
+METHODS	loggingcommands logging commands isconfigureloggingavailable configure logging configurelogging configure logging

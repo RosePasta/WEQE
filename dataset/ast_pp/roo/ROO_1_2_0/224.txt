@@ -1,0 +1,12 @@
+MTHSIG0	destroy
+VARSIG3	filterconfig filter config config
+MTHSIG1	dofilter filter servletrequest servlet request servletrequest servlet request servletresponse servlet response servletresponse servlet response filterchain filter chain filterchain filter chain
+VARSIG2	filterchain filter chain filterchain filter chain
+PACKAGE	top level segment
+MTHSIG2	init filterconfig filter config config
+COMMENTS	servlet filter handles basic gae user authentication
+CLASSES	gaeauthfilter gae filter
+VARIABLES	servletrequest servlet request servletresponse servlet response filterchain filter chain config userservice user service request response requesturl request url
+VARSIG1	servletresponse servlet response servletresponse servlet response
+VARSIG0	servletrequest servlet request servletrequest servlet request
+METHODS	destroy dofilter filter init

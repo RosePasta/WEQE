@@ -1,0 +1,26 @@
+VARSIG6	path path
+VARSIG3	artifactid artifact
+VARSIG2	groupid group
+VARSIG5	dependencytype dependency type type
+VARSIG4	version
+COMMENTS	unit test link pom set invoke check set invoke check set invoke check set invoke check set invoke check set invoke check set invoke check set invoke check set invoke check set invoke check set invoke check
+VARSIG1	dependency dependencies
+VARSIG0	packaging
+MTHSIG4	testcannotaddalreadyregistereddependency test add registered dependency
+MTHSIG5	testcannotaddnewdependencyofhighertype test add dependency higher type
+MTHSIG6	testcannotaddnulldependency test add dependency
+MTHSIG7	testdefaultpackaging test packaging
+MTHSIG0	getminimalpom minimal pom packaging dependency dependencies
+MTHSIG1	getmockdependency mock dependency groupid group artifactid artifact version dependencytype dependency type type
+PACKAGE	springframework roo project maven
+MTHSIG2	testcanaddnewdependencyoflowertype test add dependency type
+MTHSIG3	testcanaddnewdependencywhenowntypeisnonstandard test add dependency type standard
+MTHSIG8	testgetasdependency test dependency
+MTHSIG9	testgetmodulepathsforminimaljarpom test module paths minimal jar pom
+MTHSIG13	testhasdependencyexcludingversionwhendependencyisnull test dependency excluding version dependency
+MTHSIG11	testhasdependencyexcludingversionwhendependencyhasdifferenttype test dependency excluding version dependency type
+MTHSIG12	testhasdependencyexcludingversionwhendependencyhasdifferentversion test dependency excluding version dependency version
+CLASSES	pomtest pom test
+METHODS	getminimalpom minimal pom getmockdependency mock dependency testcanaddnewdependencyoflowertype test add dependency type testcanaddnewdependencywhenowntypeisnonstandard test add dependency type standard testcannotaddalreadyregistereddependency test add registered dependency testcannotaddnewdependencyofhighertype test add dependency higher type testcannotaddnulldependency test add dependency testdefaultpackaging test packaging testgetasdependency test dependency testgetmodulepathsforminimaljarpom test module paths minimal jar pom testhasdependencyexcludingversionwhendependencyhasdifferentgroupid test dependency excluding version dependency group testhasdependencyexcludingversionwhendependencyhasdifferenttype test dependency excluding version dependency type testhasdependencyexcludingversionwhendependencyhasdifferentversion test dependency excluding version dependency version testhasdependencyexcludingversionwhendependencyisnull test dependency excluding version dependency
+MTHSIG10	testhasdependencyexcludingversionwhendependencyhasdifferentgroupid test dependency excluding version dependency group
+VARIABLES	packaging dependencies groupid group artifactid artifact version type path artifact dependency artifact dependency group group jar pom project root root module version war mockdependency mock dependency mocknewdependency mock dependency pom mocknewdependency mock dependency pom mockexistingdependency mock existing dependency pom mocknewdependency mock dependency pom pom pom dependency pom expectedpaths expected paths modulepath module path moduelpathid moduel path mockexistingdependency mock existing dependency pom mockotherdependency mock dependency mockexistingdependency mock existing dependency pom mockotherdependency mock dependency existingversion existing version mockexistingdependency mock existing dependency pom mockotherdependency mock dependency pom

@@ -1,0 +1,42 @@
+VARSIG7	required
+VARSIG6	primarykey primary key
+VARSIG9	autoincrement auto increment
+VARSIG8	unique
+MTHSIG24	tostring
+VARSIG3	columnsize column size
+VARSIG2	typename type
+MTHSIG22	hashcode hash code
+VARSIG5	description
+MTHSIG23	equals object obj
+VARSIG4	scale
+COMMENTS	represents column database model roo
+VARSIG1	datatype data type
+VARSIG0	
+MTHSIG4	getdatatype data type
+MTHSIG5	gettypename type
+VARSIG11	object obj
+MTHSIG6	getcolumnsize column size
+VARSIG10	defaultvalue
+MTHSIG7	getscale scale
+MTHSIG0	column datatype data type typename type columnsize column size scale
+MTHSIG1	initialize
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	getname
+MTHSIG3	getescapedname escaped
+MTHSIG20	getdefaultvalue
+MTHSIG21	setdefaultvalue set defaultvalue
+MTHSIG8	getdescription description
+MTHSIG9	setdescription set description description
+MTHSIG17	setautoincrement set auto increment autoincrement auto increment
+MTHSIG18	getjdbctype jdbc type
+MTHSIG15	setunique set unique unique
+MTHSIG16	isautoincrement auto increment
+MTHSIG13	setrequired set required required
+MTHSIG14	isunique unique
+MTHSIG11	setprimarykey set primary key primarykey primary key
+MTHSIG12	isrequired required
+CLASSES	column
+METHODS	column initialize getname getescapedname escaped getdatatype data type gettypename type getcolumnsize column size getscale scale getdescription description setdescription set description isprimarykey primary key setprimarykey set primary key isrequired required setrequired set required isunique unique setunique set unique isautoincrement auto increment setautoincrement set auto increment getjdbctype jdbc type getjavatype type getdefaultvalue setdefaultvalue set hashcode hash code equals tostring
+MTHSIG19	getjavatype type
+MTHSIG10	isprimarykey primary key
+VARIABLES	datatype data type typename type columnsize column size scale description primarykey primary key required unique autoincrement auto increment defaultvalue obj datatype data type typename type columnsize column size scale description primarykey primary key required unique autoincrement auto increment jdbctype jdbc type javatype type defaultvalue prime result

@@ -1,0 +1,14 @@
+VARSIG2	jmsdestinationtype jms destination type
+COMMENTS	jms destination types jms add
+CLASSES	jmsdestinationtype jms destination type
+VARSIG1	object obj
+VARSIG0	type
+METHODS	jmsdestinationtype jms destination type gettype type equals compareto compare tostring getkey key
+MTHSIG4	tostring
+MTHSIG5	getkey key
+MTHSIG0	jmsdestinationtype jms destination type type
+MTHSIG1	gettype type
+PACKAGE	springframework roo addon jms
+MTHSIG2	equals object obj
+MTHSIG3	compareto compare jmsdestinationtype jms destination type
+VARIABLES	type obj type topic durable topic queue result tsc

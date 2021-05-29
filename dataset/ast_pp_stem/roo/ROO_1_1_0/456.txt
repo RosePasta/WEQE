@@ -1,0 +1,13 @@
+VARSIG3	throwabl 
+VARSIG2	throwabl 
+COMMENTS	implement link undomanag undo manag undo fail reset mode reset mode 
+CLASSES	defaultundomanag undo manag 
+VARSIG1	undoableoper undoabl oper undoableoper undoabl oper 
+VARSIG0	componentcontext compon context context 
+METHODS	activ add reset undo 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	add undoableoper undoabl oper undoableoper undoabl oper 
+PACKAGE	springframework roo file undo 
+MTHSIG2	reset 
+MTHSIG3	undo 
+VARIABLES	context undoableoper undoabl oper stack undomod undo mode 

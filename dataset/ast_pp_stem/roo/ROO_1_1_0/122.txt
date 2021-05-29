@@ -1,0 +1,49 @@
+MTHSIG4	oncancel cancel 
+MTHSIG5	onrangechang rang chang hasdata data listview list view 
+MTHSIG6	onstop 
+MTHSIG7	select entityproxyid entiti proxi proxyid proxi 
+MTHSIG0	abstractproxylistact proxi list activ placecontrol place control placecontrol place control proxylistview proxi list view view proxytyp proxi type 
+MTHSIG1	createclick creat click 
+PACKAGE	top level client scaffold place 
+MTHSIG2	getview view 
+MTHSIG3	maystop 
+MTHSIG8	start acceptsonewidget accept widget displai eventbu event bu eventbu event bu 
+MTHSIG9	updat writeoper write oper writeoper write oper entityproxyid entiti proxi proxyid proxi 
+CLASSES	abstractproxylistact proxi list activ 
+METHODS	abstractproxylistact proxi list activ createclick creat click getview view maystop oncancel cancel onrangechang rang chang onstop select start updat createrangerequest creat rang request firecountrequest fire count request showdetail detail firerangerequest fire rang request getlastpag init updat updateselect updat select 
+VARSIG23	list respons 
+VARSIG22	entityproxyid entiti proxi proxyid proxi 
+VARSIG21	respons 
+VARSIG20	respons 
+VARSIG24	place newplac place 
+VARSIG7	entityproxyid entiti proxi proxyid proxi 
+VARSIG6	list valu 
+VARSIG9	eventbu event bu eventbu event bu 
+VARSIG8	acceptsonewidget accept widget displai 
+VARSIG3	rangechangeev rang chang event event 
+VARSIG2	proxytyp proxi type 
+VARSIG5	hasdata data listview list view 
+VARSIG4	selectionchangeev select chang event event 
+COMMENTS	activ displai list link entityproxi entiti proxi activ usabl stop restart subclass provid link proxylistview proxi list view implement request full count implement find rang entiti respond detail command properti requir view request type link entityproxi entiti proxi list map updat individu row record chang inherit view view kei provid call tabl data activ dead need select record clear select call don selectionmodel select model flash code simpl clear select select proxi relev creat presum record list fetch item call user choos record view implement send link placecontrol place control link proxyplac proxi place record chosen record activ dead activ dead 
+VARSIG19	receiv list callback 
+VARSIG1	proxylistview proxi list view view 
+VARSIG18	rang rang 
+VARSIG0	placecontrol place control placecontrol place control 
+VARSIG17	proxyplac proxi place proxyplac proxi place 
+VARSIG12	writeoper write oper writeoper write oper 
+VARSIG11	placechangeev place chang event event 
+VARSIG10	entityproxychang entiti proxi chang event 
+VARSIG16	record 
+VARSIG15	receiv callback 
+VARSIG14	rang rang 
+VARSIG13	entityproxyid entiti proxi proxyid proxi 
+MTHSIG17	updat entityproxyid entiti proxi proxyid proxi 
+MTHSIG18	updateselect updat select place newplac place 
+MTHSIG15	getlastpag 
+MTHSIG16	init 
+MTHSIG13	proxyplac proxi place proxyplac proxi place 
+MTHSIG14	firerangerequest fire rang request rang rang receiv list callback 
+MTHSIG11	firecountrequest fire count request receiv callback 
+MTHSIG12	showdetail detail record 
+MTHSIG10	createrangerequest creat rang request rang rang 
+VARIABLES	placecontrol place control view proxytyp proxi type event event listview list view valu proxyid proxi displai eventbu event bu event event writeoper write oper proxyid proxi rang callback record proxyplac proxi place rang callback respons respons proxyid proxi respons newplac place idtorow row idtoproxi proxi placecontrol place control selectionmodel select model proxyclass proxi rangechangehandl rang chang handler view displai hasdata data keyprovid kei provid selectedobject select object rang callback row proxi proxyid proxi select selectm select tabl row pages size remnant row proxyplac proxi place 

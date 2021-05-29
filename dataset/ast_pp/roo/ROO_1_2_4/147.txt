@@ -1,0 +1,143 @@
+MTHSIG28	isrequestfactorycompatible request factory compatible javatype type type
+MTHSIG29	istypecommon type common javatype type type
+MTHSIG26	isprimitive primitive javatype type type
+MTHSIG27	ispublicaccessor accessor methodmetadata metadata
+MTHSIG24	isenum javatype type type
+MTHSIG25	ismethodreturntypeinsourcepath type source path methodmetadata metadata memberholdingtypedetails member holding type details memberholdingtypedetail member holding type detail iterable javapackage sourcepackages source packages
+MTHSIG22	isentity entity javatype type type
+MTHSIG23	isenum classorinterfacetypedetails type details ptmd
+MTHSIG4	checkprimitive check primitive javatype type type
+VARSIG78	classorinterfacetypedetails type details entity
+MTHSIG5	convertmodifier convert modifier builder
+VARSIG77	classorinterfacetypedetails type details request
+MTHSIG6	createabstractbuilder create builder classorinterfacetypedetailsbuilder type details builder concreteclass concrete list memberholdingtypedetails member holding type details extendstypesdetails types details modulename module
+VARSIG76	classorinterfacetypedetails type details entity
+MTHSIG7	displaywarning display warning warning
+VARSIG75	classorinterfacetypedetails type details request
+MTHSIG0	addsourcepath add source path sourcepath source path modulename module
+MTHSIG1	anyexistingsourcepathsincludepath existing source paths include path sourcepath source path iterable element sourceelements source elements
+MTHSIG2	buildtype build type gwttype gwt type desttype dest type classorinterfacetypedetails type details templateclass template list memberholdingtypedetails member holding type details extendstypes types modulename module
+MTHSIG3	buildtype build type gwttype gwt type type list classorinterfacetypedetails type details templatetypedetails template type details modulename module
+VARSIG79	classorinterfacetypedetails type details proxy
+MTHSIG20	isdomainobject domain object javatype type returntype type classorinterfacetypedetails type details ptmd
+VARSIG70	javapackage sourcepackage source
+MTHSIG21	isembeddable embeddable classorinterfacetypedetails type details ptmd
+MTHSIG8	getextendstypes types classorinterfacetypedetails type details childtype child type
+VARSIG74	classorinterfacetypedetails type details proxy
+MTHSIG9	getgwtmodulexml gwt module xml modulename module
+VARSIG73	classorinterfacetypedetails type details locator
+VARSIG72	memberholdingtypedetails member holding type details memberholdingtypedetail member holding type detail
+VARSIG71	methodmetadata metadata
+MTHSIG39	lookupunmanagedrequestfromproxy lookup unmanaged request proxy classorinterfacetypedetails type details proxy
+MTHSIG37	lookuprequestfromentity lookup request entity classorinterfacetypedetails type details entity
+MTHSIG38	lookuprequestfromproxy lookup request proxy classorinterfacetypedetails type details proxy
+MTHSIG35	lookupproxyfromentity lookup proxy entity classorinterfacetypedetails type details entity
+MTHSIG36	lookupproxyfromrequest lookup proxy request classorinterfacetypedetails type details request
+MTHSIG33	lookupentityfromproxy lookup entity proxy classorinterfacetypedetails type details proxy
+MTHSIG34	lookupentityfromrequest lookup entity request classorinterfacetypedetails type details request
+METHODS	addsourcepath add source path anyexistingsourcepathsincludepath existing source paths include path buildtype build type buildtype build type checkprimitive check primitive convertmodifier convert modifier createabstractbuilder create builder displaywarning display warning getextendstypes types getgwtmodulexml gwt module xml getgwtsideleaftype gwt side leaf type getgwtxmldocument gwt xml document getproxymethods proxy methods getservicelocator service locator getsourcepackages source packages isallowablereturntype allowable type isallowablereturntype allowable type iscollectiontype collection type iscommontype common type isdomainobject domain object isdomainobject domain object isembeddable embeddable isentity entity isenum isenum ismethodreturntypeinsourcepath type source path isprimitive primitive ispublicaccessor accessor isrequestfactorycompatible request factory compatible istypecommon type common istypeinanysourcepackage type source isvalidmethodreturntype valid type lookupentityfromlocator lookup entity locator lookupentityfromproxy lookup entity proxy lookupentityfromrequest lookup entity request lookupproxyfromentity lookup proxy entity lookupproxyfromrequest lookup proxy request lookuprequestfromentity lookup request entity lookuprequestfromproxy lookup request proxy lookupunmanagedrequestfromproxy lookup unmanaged request proxy lookupunmanagedrequestfromentity lookup unmanaged request entity lookuplocatorfromentity lookup locator entity lookuptargetfromx lookup target lookuptargetservicefromrequest lookup target service request lookupxfromentity lookup entity resolvetypes resolve types
+VARSIG67	javatype type type
+VARSIG66	javatype type type
+VARSIG65	methodmetadata metadata
+VARSIG64	javatype type type
+VARSIG69	iterable javapackage sourcepackages source packages
+VARSIG68	javatype type type
+MTHSIG31	isvalidmethodreturntype valid type methodmetadata metadata memberholdingtypedetails member holding type details memberholdingtypedetail member holding type detail
+MTHSIG32	lookupentityfromlocator lookup entity locator classorinterfacetypedetails type details locator
+MTHSIG30	istypeinanysourcepackage type source javatype type type iterable javapackage sourcepackages source packages
+VARSIG63	iterable javapackage sourcepackages source packages
+VARSIG62	memberholdingtypedetails member holding type details memberholdingtypedetail member holding type detail
+VARSIG61	methodmetadata metadata
+VARSIG60	javatype type type
+COMMENTS	basic implementation link gwttypeservice gwt type service type consist concrete type depend type arg client side domain type domain type list set returns domain type list list returntype type projectmetadata project metadata governortype governor type gwt side leaf type javatype type behaviour project type collection project type
+VARSIG19	modulename module
+VARSIG18	list classorinterfacetypedetails type details templatetypedetails template type details
+VARSIG17	gwttype gwt type type
+VARSIG12	methodmetadatabuilder metadata builder methodbuilder builder
+VARSIG11	javasymbolname symbol methodname
+VARSIG10	fieldmetadatabuilder field metadata builder fieldbuilder field builder
+VARSIG16	exception
+VARSIG15	classorinterfacetypedetailsbuilder type details builder innertypebuilder type builder
+VARSIG14	javatype type innertypename type
+VARSIG13	annotatedjavatype annotated type
+VARSIG91	javatype type genericparamtype type
+VARSIG90	javatype type typed
+MTHSIG17	iscollectiontype collection type javatype type returntype type
+MTHSIG18	iscommontype common type javatype type type
+MTHSIG15	isallowablereturntype allowable type javatype type type
+MTHSIG16	isallowablereturntype allowable type methodmetadata metadata
+MTHSIG13	getservicelocator service locator modulename module
+MTHSIG14	getsourcepackages source packages modulename module
+MTHSIG11	getgwtxmldocument gwt xml document gwtmodulecanonicalpath gwt module canonical path
+MTHSIG12	getproxymethods proxy methods classorinterfacetypedetails type details governortypedetails governor type details
+MTHSIG19	isdomainobject domain object javatype type type
+VARSIG89	javatype type
+VARSIG88	classorinterfacetypedetails type details cid
+VARSIG87	javatype type annotations
+VARSIG86	classorinterfacetypedetails type details entity
+VARSIG81	classorinterfacetypedetails type details entity
+MTHSIG10	getgwtsideleaftype gwt side leaf type javatype type returntype type javatype type governortype governor type requesttype request type convertprimitive convert primitive
+VARSIG80	classorinterfacetypedetails type details proxy
+VARIABLES	sourcepath source path modulename module sourcepath source path sourceelements source elements sourceelement source element desttype dest type templateclass template extendstypes types modulename module fieldname field fieldbuilder field builder methodname methodbuilder builder innertypename type innertypebuilder type builder type templatetypedetails template type details modulename module templatetypedetail template type detail type builder concreteclass concrete extendstypesdetails types details modulename module extendstypedetails type details constructor type typetype type type paramname warning childtype child type javatype type modulename module filedetails file details returntype type governortype governor type requesttype request type convertprimitive convert primitive gwtmodulecanonicalpath gwt module canonical path publicid systemid system governortypedetails governor type details memberholdingtypedetails member holding type details modulename module modulename module sourcepathelement source path element type returntype type type type returntype type ptmd ptmd type ptmd type memberholdingtypedetail member holding type detail sourcepackages source packages type type type type sourcepackages source packages sourcepackage source memberholdingtypedetail member holding type detail locator proxy request entity request entity proxy proxy entity entity annotatedtype annotated type annotations request entity annotations cid typed genericparamtype type logger path filemanager file manager gwtfilemanager gwt file manager memberdetailsscanner member details scanner metadataservice metadata service persistencememberlocator persistence member locator projectoperations project operations typelocationservice type location service warnings warningtimer warning timer gwtxmlpath gwt xml path gwtxmldoc gwt xml doc gwtxmlroot gwt xml root sourceelements source elements firstsourceelement source element newsourceelement source element types templateclassbuilder template builder abstractclassbuilder builder fieldstoremove fields remove abstractfieldbuilder field builder methodstoremove methods remove params abstractmethodbuilder builder builder interfaceinnertypebuilder type builder watchedmethods watched methods typestobewritten types written concretetype concrete type abstractname abstracttype type abstractid cidbuilder cid builder abstractconstructor constructor typemap type map newtype type parametertypes parameter types typeparam type bodybuilder body builder extendstypes types supertypeid type supertype type logicalpath logical path gwtmodulexml gwt module xml paths elementtype element type convertedjavatype converted type ptmd typedetails type details proxy builder inputstream input stream proxymethods proxy methods memberdetails member details gwtxmldoc gwt xml doc gwtxmlroot gwt xml root toplevelpackage top level sourcepackages source packages relativepackage relative ptmd annotationmetadata annotation metadata returntype type insourcepath source path returntype type propertyname property annotation attributevalue attribute proxytype proxy type annotation attributevalue attribute servicenametype service type annotation attributevalue attribute servicenametype service type annotation attributevalue attribute targettype target type annotationmetadata annotation metadata attributevalue attribute typemap type map typecountmatch type count match
+VARSIG85	classorinterfacetypedetails type details request
+VARSIG84	javatype type annotations
+VARSIG83	classorinterfacetypedetails type details annotatedtype annotated type
+VARSIG82	classorinterfacetypedetails type details entity
+VARSIG39	convertprimitive convert primitive
+VARSIG34	modulename module
+VARSIG33	javatype type javatype type
+VARSIG32	classorinterfacetypedetails type details childtype child type
+VARSIG31	warning
+VARSIG38	requesttype request type
+VARSIG37	javatype type governortype governor type
+PACKAGE	springframework roo addon gwt
+VARSIG36	javatype type returntype type
+VARSIG35	filedetails file details filedetails file details
+VARSIG30	javasymbolname symbol paramname
+CLASSES	gwttypeserviceimpl gwt type service impl
+VARSIG29	javatype type typetype type type
+VARSIG28	annotatedjavatype annotated type type
+VARSIG23	classorinterfacetypedetailsbuilder type details builder concreteclass concrete
+VARSIG22	builder
+VARSIG21	javatype type type
+VARSIG20	classorinterfacetypedetails type details templatetypedetail template type detail
+VARSIG27	constructormetadata constructor metadata constructor
+VARSIG26	memberholdingtypedetails member holding type details extendstypedetails type details
+VARSIG25	modulename module
+VARSIG24	list memberholdingtypedetails member holding type details extendstypesdetails types details
+VARSIG7	list memberholdingtypedetails member holding type details extendstypes types
+VARSIG6	classorinterfacetypedetails type details templateclass template
+VARSIG9	javasymbolname symbol fieldname field
+VARSIG8	modulename module
+VARSIG3	iterable element sourceelements source elements
+VARSIG2	sourcepath source path
+MTHSIG44	lookupxfromentity lookup entity classorinterfacetypedetails type details entity javatype type annotations
+VARSIG5	gwttype gwt type desttype dest type
+MTHSIG45	resolvetypes resolve types javatype type javatype type typed
+VARSIG4	element sourceelement source element
+VARSIG1	modulename module
+VARSIG0	sourcepath source path
+VARSIG56	classorinterfacetypedetails type details ptmd
+VARSIG55	javatype type returntype type
+VARSIG54	javatype type type
+VARSIG53	javatype type type
+VARSIG59	classorinterfacetypedetails type details ptmd
+VARSIG58	javatype type type
+VARSIG57	classorinterfacetypedetails type details ptmd
+MTHSIG42	lookuptargetfromx lookup target classorinterfacetypedetails type details annotatedtype annotated type javatype type annotations
+MTHSIG43	lookuptargetservicefromrequest lookup target service request classorinterfacetypedetails type details request
+MTHSIG40	lookupunmanagedrequestfromentity lookup unmanaged request entity classorinterfacetypedetails type details entity
+MTHSIG41	lookuplocatorfromentity lookup locator entity classorinterfacetypedetails type details entity
+VARSIG52	javatype type returntype type
+VARSIG51	methodmetadata metadata
+VARSIG50	javatype type type
+VARSIG45	memberholdingtypedetails member holding type details memberholdingtypedetails member holding type details
+VARSIG44	classorinterfacetypedetails type details governortypedetails governor type details
+VARSIG43	exception
+VARSIG42	systemid system
+VARSIG49	element sourcepathelement source path element
+VARSIG48	modulename module
+VARSIG47	modulename module
+VARSIG46	methodmetadata metadata
+VARSIG41	publicid
+VARSIG40	gwtmodulecanonicalpath gwt module canonical path

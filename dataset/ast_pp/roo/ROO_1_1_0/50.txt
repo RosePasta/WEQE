@@ -1,0 +1,23 @@
+VARSIG3	column column
+VARSIG2	ordinalposition ordinal position
+MTHSIG11	tostring
+VARSIG5	object obj
+VARSIG4	size
+COMMENTS	represents column database model
+CLASSES	indexcolumn column
+VARSIG1	
+VARSIG0	
+METHODS	indexcolumn column getname setname set getordinalposition ordinal position setordinalposition set ordinal position getcolumn column setcolumn set column getsize size setsize set size hashcode hash code equals tostring
+MTHSIG4	setordinalposition set ordinal position ordinalposition ordinal position
+MTHSIG5	getcolumn column
+MTHSIG6	setcolumn set column column column
+MTHSIG7	getsize size
+MTHSIG0	indexcolumn column
+MTHSIG1	getname
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	setname set
+MTHSIG3	getordinalposition ordinal position
+MTHSIG10	equals object obj
+VARIABLES	ordinalposition ordinal position column size obj serialversionuid serial version uid ordinalposition ordinal position column size prime result
+MTHSIG8	setsize set size size
+MTHSIG9	hashcode hash code

@@ -1,0 +1,22 @@
+VARSIG6	ioexception exception ignoreit ignore
+VARSIG3	responsibleclass responsible
+VARSIG2	message
+VARSIG5	ioexception exception ignore
+VARSIG4	
+COMMENTS	implementation link metadatalogger metadata logger fields key responsible nanos occupied key responsible number times timing record created responsible current event stack figure indentation level existing timer stack clock add duration existing duration start timer update timings summary update invocation count overwrite existing don append failing unix endings roo tail working nanos nanos
+CLASSES	defaultmetadatalogger metadata logger
+VARSIG1	key
+VARSIG0	trace
+METHODS	defaultmetadatalogger metadata logger gettracelevel trace level settracelevel set trace level gettimings timings startevent start event stopevent event log starttimer start timer stoptimer timer logtofile log file
+MTHSIG4	startevent start event
+MTHSIG5	stopevent event
+MTHSIG6	log message
+MTHSIG7	starttimer start timer responsibleclass responsible
+MTHSIG0	defaultmetadatalogger metadata logger
+MTHSIG1	gettracelevel trace level
+PACKAGE	springframework roo metadata
+MTHSIG2	settracelevel set trace level trace
+MTHSIG3	gettimings timings
+VARIABLES	trace key message responsibleclass responsible ignore ignoreit ignore tracelevel trace level eventnumber event number filelog file log eventstack event stack timerstack timer stack timings invocations mutex result eventidentifier event identifier indentationlevel indentation level hex timerentry timer entry timerentry timer entry timerentry timer entry responsibleclass responsible existingsummary existing summary existinginvocations existing invocations responsibleclass responsible clockstartedorresumed clock started resumed duration
+MTHSIG8	stoptimer timer
+MTHSIG9	logtofile log file

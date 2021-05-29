@@ -1,0 +1,24 @@
+VARSIG7	min 
+VARSIG6	max 
+VARSIG3	list annotationmetadatabuild annot metadata builder annot 
+VARSIG2	javasymbolnam symbol fieldnam field 
+VARSIG5	integ digitsinteg digit integ 
+VARSIG4	integ digitsfract digit fraction 
+COMMENTS	jsr digit annot set digitsinteg digit integ jsr digit annot set digitsfract digit fraction jsr max annot jsr min annot 
+CLASSES	numericfield numer field 
+VARSIG1	javatyp type fieldtyp field type 
+VARSIG0	physicaltypeidentifi physic type identifi 
+METHODS	numericfield numer field decorateannotationslist decor annot list getdigitsfract digit fraction getdigitsinteg digit integ getmax max getmin min isdigitssetcorrectli digit set correctli setdigitsfract set digit fraction setdigitsinteg set digit integ setmax set max setmin set min 
+MTHSIG4	getmax max 
+MTHSIG5	getmin min 
+MTHSIG6	isdigitssetcorrectli digit set correctli 
+MTHSIG7	setdigitsfract set digit fraction integ digitsfract digit fraction 
+MTHSIG0	numericfield numer field physicaltypeidentifi physic type identifi javatyp type fieldtyp field type javasymbolnam symbol fieldnam field 
+MTHSIG1	decorateannotationslist decor annot list list annotationmetadatabuild annot metadata builder annot 
+PACKAGE	springframework roo classpath oper jsr jsr 
+MTHSIG2	getdigitsfract digit fraction 
+MTHSIG3	getdigitsinteg digit integ 
+MTHSIG10	setmin set min min 
+VARIABLES	physicaltypeidentifi physic type identifi fieldtyp field type fieldnam field annot digitsfract digit fraction digitsinteg digit integ max min digitsfract digit fraction digitsinteg digit integ max min attr attr attr 
+MTHSIG8	setdigitsinteg set digit integ integ digitsinteg digit integ 
+MTHSIG9	setmax set max max 

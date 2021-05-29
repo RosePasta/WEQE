@@ -1,0 +1,19 @@
+VARSIG3	metadataidentificationstr metadata identif 
+VARSIG2	metadataidentificationstr metadata identif 
+VARSIG4	map entri metadataitem metadata item eldest 
+COMMENTS	basic link metadatacach metadata cach store element lru basi constant field 
+CLASSES	abstractmetadatacach metadata cach 
+VARSIG1	metadataitem metadata item metadataitem metadata item 
+VARSIG0	maxcapac max capac 
+METHODS	abstractmetadatacach metadata cach getcaches cach size setmaxcapac set max capac getmaxcapac max capac getfromcach cach evict evictal evict init 
+MTHSIG4	metadataitem metadata item metadataitem metadata item 
+MTHSIG5	getfromcach cach metadataidentificationstr metadata identif 
+MTHSIG6	evict metadataidentificationstr metadata identif 
+MTHSIG7	evictal evict 
+MTHSIG0	abstractmetadatacach metadata cach 
+MTHSIG1	getcaches cach size 
+PACKAGE	springframework roo metadata intern 
+MTHSIG2	setmaxcapac set max capac maxcapac max capac 
+MTHSIG3	getmaxcapac max capac 
+VARIABLES	maxcapac max capac metadataitem metadata item metadataidentificationstr metadata identif metadataidentificationstr metadata identif eldest hashtableloadfactor hash tabl load factor map maxcapac max capac hashtablecapac hash tabl capac serialversionuid serial version uid 
+MTHSIG8	init 

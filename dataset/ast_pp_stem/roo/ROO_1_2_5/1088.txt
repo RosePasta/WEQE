@@ -1,0 +1,27 @@
+COMMENTS	unit test link fileutil file util invok check set invok set invok check set invok check set invok check invok check 
+VARSIG1	expectedfirstdirectori expect directori 
+VARSIG0	path 
+MTHSIG4	testensuretrailingseparatorforpathwithnotrailingsepar test ensur trail separ path trail separ 
+MTHSIG5	testensuretrailingseparatorforpathwithonetrailingsepar test ensur trail separ path trail separ 
+MTHSIG6	testensuretrailingseparatorfrompathwithmultipletrailingsepar test ensur trail separ path multipl trail separ 
+MTHSIG7	testgetcanonicalpathforinvalidfil test canon path invalid file 
+MTHSIG0	assertfirstdirectori directori path expectedfirstdirectori expect directori 
+MTHSIG1	testbackonedirectori test directori 
+PACKAGE	springframework roo support util 
+MTHSIG2	testensuretrailingseparatorforemptypath test ensur trail separ empti path 
+MTHSIG3	testensuretrailingseparatorfornullpath test ensur trail separ path 
+MTHSIG8	testgetcanonicalpathfornullfil test canon path file 
+MTHSIG9	testgetcanonicalpathforvalidfil test canon path valid file 
+MTHSIG17	testgetsystemdependentpathfromnoel test system depend path element 
+MTHSIG18	testgetsystemdependentpathfromnullarrai test system depend path arrai 
+MTHSIG15	testgetpath test path 
+MTHSIG16	testgetsystemdependentpathfrommultipleel test system depend path multipl element 
+MTHSIG13	testgetinputstreamoffileinsubdirectori test input stream file directori 
+MTHSIG14	testgetinputstreamofinvalidfil test input stream invalid file 
+MTHSIG11	testgetfirstdirectoryofexistingdirectori test directori exist directori 
+MTHSIG12	testgetfirstdirectoryofexistingfil test directori exist file 
+CLASSES	fileutilstest file util test 
+METHODS	assertfirstdirectori directori testbackonedirectori test directori testensuretrailingseparatorforemptypath test ensur trail separ empti path testensuretrailingseparatorfornullpath test ensur trail separ path testensuretrailingseparatorforpathwithnotrailingsepar test ensur trail separ path trail separ testensuretrailingseparatorforpathwithonetrailingsepar test ensur trail separ path trail separ testensuretrailingseparatorfrompathwithmultipletrailingsepar test ensur trail separ path multipl trail separ testgetcanonicalpathforinvalidfil test canon path invalid file testgetcanonicalpathfornullfil test canon path file testgetcanonicalpathforvalidfil test canon path valid file testgetfileseparatorasregex test file separ regex testgetfirstdirectoryofexistingdirectori test directori exist directori testgetfirstdirectoryofexistingfil test directori exist file testgetinputstreamoffileinsubdirectori test input stream file directori testgetinputstreamofinvalidfil test input stream invalid file testgetpath test path testgetsystemdependentpathfrommultipleel test system depend path multipl element testgetsystemdependentpathfromnoel test system depend path element testgetsystemdependentpathfromnullarrai test system depend path arrai testgetsystemdependentpathfromoneel test system depend path element 
+MTHSIG19	testgetsystemdependentpathfromoneel test system depend path element 
+MTHSIG10	testgetfileseparatorasregex test file separ regex 
+VARIABLES	path expectedfirstdirectori expect directori miss file test file firstdirectori directori path path path invalidfil invalid file validfil valid file canonicalpath canon path actualpath actual path regex currentdirectori current directori pathel path element url file directori firstdirectori directori inputstream input stream content expectedpath expect path 

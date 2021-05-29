@@ -1,0 +1,28 @@
+VARSIG7	malformedurlexcept malform url except 
+VARSIG6	object 
+VARSIG9	email 
+VARSIG8	url 
+VARSIG3	url 
+VARSIG2	password 
+VARSIG5	encodedfield encod field 
+VARSIG4	encod 
+COMMENTS	credenti log cloud constructor read relev entri map properti map read requir constructor accept distinct valu email email address log blank password password email address blank url url log blank return url credenti set account detail match credenti url url check email email check credenti complet attempt login 
+VARSIG1	email 
+VARSIG0	map properti 
+MTHSIG4	equal object 
+MTHSIG5	getemail email 
+MTHSIG6	getpassword password 
+MTHSIG7	geturl url 
+MTHSIG0	cloudcredenti cloud credenti map properti 
+MTHSIG1	cloudcredenti cloud credenti email password url 
+PACKAGE	springframework roo addon cloud foundri 
+MTHSIG2	decod encod 
+MTHSIG3	encod 
+MTHSIG8	geturlobject url object 
+MTHSIG9	hashcod hash code 
+MTHSIG11	isvalid valid 
+MTHSIG12	tostr 
+CLASSES	cloudcredenti cloud credenti 
+METHODS	cloudcredenti cloud credenti cloudcredenti cloud credenti decod encod equal getemail email getpassword password geturl url geturlobject url object hashcod hash code issameaccount account isvalid valid tostr 
+MTHSIG10	issameaccount account url email 
+VARIABLES	properti email password url encod encodedfield encod field url email email kei password kei url kei email password url map encodedfield encod field valuepair pair decod builder clouldcredenti clould credenti result 

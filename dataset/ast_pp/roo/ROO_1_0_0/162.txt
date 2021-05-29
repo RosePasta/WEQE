@@ -1,0 +1,114 @@
+MTHSIG4	insertfield insert field fielddetails field details fielddetails field details permitreservedwords permit reserved transientmodifier modifier
+VARSIG78	clioption cli option key mappedby mapped mandatory field referenced type owns relationship javasymbolname symbol mappedby mapped
+MTHSIG5	addfieldnumber add field number javasymbolname symbol fieldname field javatype type fieldtype field type javatype type typename type notnull nullrequired required decimalmin decimal min decimalmax decimal max min max column comment transientmodifier modifier primitive permitreservedwords permit reserved
+VARSIG77	clioption cli option key mandatory unspecifieddefaultvalue unspecified optioncontext option context update project receive field javatype type typename type
+MTHSIG6	addfieldstring add field javasymbolname symbol fieldname field javatype type typename type notnull nullrequired required decimalmin decimal min decimalmax decimal max integer sizemin size min integer sizemax size max regexp column comment transientmodifier modifier permitreservedwords permit reserved
+VARSIG76	clioption cli option key element mandatory entity contained set javatype type element
+MTHSIG7	addfielddatejpa add field jpa javasymbolname symbol fieldname field javatype type fieldtype field type datefieldpersistencetype field persistence type persistencetype persistence type javatype type typename type notnull nullrequired required column comment transientmodifier modifier permitreservedwords permit reserved datetime time dateformat format datetime time timeformat time format
+VARSIG75	clioption cli option key fieldname field mandatory field add javasymbolname symbol fieldname field
+MTHSIG0	fieldcommands field commands staticfieldconverter field converter staticfieldconverter field converter classpathoperations classpath operations classpathoperations classpath operations
+MTHSIG1	isjdkfieldmanagementavailable jdk field management
+MTHSIG2	isjpafieldmanagementavailable jpa field management
+MTHSIG3	insertfield insert field javasymbolname symbol fieldname field javatype type fieldtype field type javatype type typename type notnull nullrequired required comment transientmodifier modifier permitreservedwords permit reserved
+VARSIG79	clioption cli option key notnull mandatory specifieddefaultvalue notnull
+VARSIG70	clioption cli option key joincolumnname join column mandatory jpa join column joincolumnname join column
+MTHSIG8	addfieldboolean add field javasymbolname symbol fieldname field javatype type typename type notnull nullrequired required assertfalse asserttrue column comment primitive transientmodifier modifier permitreservedwords permit reserved
+VARSIG74	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+MTHSIG9	addfieldreferencejpa add field reference jpa javasymbolname symbol fieldname field javatype type fieldtype field type javatype type typename type notnull nullrequired required joincolumnname join column fetch fetch comment transientmodifier modifier permitreservedwords permit reserved
+VARSIG73	clioption cli option key mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue mark field transientmodifier modifier
+VARSIG72	clioption cli option key comment mandatory optional comment javadocs docs comment
+VARSIG71	clioption cli option key fetch mandatory fetch semantics jpa level fetch fetch
+METHODS	fieldcommands field commands isjdkfieldmanagementavailable jdk field management isjpafieldmanagementavailable jpa field management insertfield insert field insertfield insert field addfieldnumber add field number addfieldstring add field addfielddatejpa add field jpa addfieldboolean add field addfieldreferencejpa add field reference jpa addfieldsetjpa add field set jpa addfieldenum add field
+VARSIG67	clioption cli option key mandatory unspecifieddefaultvalue unspecified optioncontext option context update project receive field javatype type typename type
+VARSIG66	clioption cli option key type mandatory optioncontext option context project type entity reference javatype type fieldtype field type
+VARSIG65	clioption cli option key fieldname field mandatory field add javasymbolname symbol fieldname field
+VARSIG64	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+VARSIG69	clioption cli option key nullrequired required mandatory specifieddefaultvalue nullrequired required
+VARSIG68	clioption cli option key notnull mandatory specifieddefaultvalue notnull
+VARSIG63	clioption cli option key mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue mark field transientmodifier modifier
+VARSIG62	clioption cli option key primitive mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue primitive type primitive
+VARSIG61	clioption cli option key comment mandatory optional comment javadocs docs comment
+VARSIG60	clioption cli option key column mandatory jpa column column
+COMMENTS	additional shell commands link classpathoperations classpath operations separate decide check jpa registration
+VARSIG19	clioption cli option key decimalmax decimal max mandatory bigdecimal big decimal based representation maximum decimalmax decimal max
+VARSIG18	clioption cli option key decimalmin decimal min mandatory bigdecimal big decimal based representation minimum decimalmin decimal min
+VARSIG17	clioption cli option key nullrequired required mandatory specifieddefaultvalue nullrequired required
+VARSIG12	transientmodifier modifier
+VARSIG11	permitreservedwords permit reserved
+VARSIG10	fielddetails field details fielddetails field details
+VARSIG16	clioption cli option key notnull mandatory specifieddefaultvalue notnull
+VARSIG15	clioption cli option key mandatory unspecifieddefaultvalue unspecified optioncontext option context update project receive field javatype type typename type
+VARSIG14	clioption cli option key type mandatory optioncontext option context number type entity javatype type fieldtype field type
+VARSIG13	clioption cli option key fieldname field mandatory field add javasymbolname symbol fieldname field
+VARSIG92	clioption cli option key nullrequired required mandatory specifieddefaultvalue nullrequired required
+VARSIG91	clioption cli option key notnull mandatory specifieddefaultvalue notnull
+VARSIG90	clioption cli option key mandatory unspecifieddefaultvalue unspecified optioncontext option context update project receive field javatype type typename type
+VARSIG96	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+VARSIG95	clioption cli option key mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue mark field transientmodifier modifier
+VARSIG94	clioption cli option key comment mandatory optional comment javadocs docs comment
+VARSIG93	clioption cli option key enumtype type mandatory fetch semantics jpa level enumtype type enumtype type
+MTHSIG11	addfieldenum add field javasymbolname symbol fieldname field javatype type fieldtype field type javatype type typename type notnull nullrequired required enumtype type enumtype type comment transientmodifier modifier permitreservedwords permit reserved
+VARSIG89	clioption cli option key type mandatory type field javatype type fieldtype field type
+VARSIG88	clioption cli option key fieldname field mandatory field add javasymbolname symbol fieldname field
+VARSIG87	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+VARSIG86	clioption cli option key mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue mark field transientmodifier modifier
+VARSIG81	clioption cli option key sizemin size min mandatory minimum length integer sizemin size min
+MTHSIG10	addfieldsetjpa add field set jpa javasymbolname symbol fieldname field javatype type element javatype type typename type javasymbolname symbol mappedby mapped notnull nullrequired required integer sizemin size min integer sizemax size max cardinality cardinality fetch fetch comment transientmodifier modifier permitreservedwords permit reserved
+VARSIG80	clioption cli option key nullrequired required mandatory specifieddefaultvalue nullrequired required
+VARIABLES	staticfieldconverter field converter classpathoperations classpath operations fieldname field fieldtype field type typename type notnull nullrequired required comment transientmodifier modifier permitreservedwords permit reserved fielddetails field details permitreservedwords permit reserved transientmodifier modifier fieldname field fieldtype field type typename type notnull nullrequired required decimalmin decimal min decimalmax decimal max min max column comment transientmodifier modifier primitive permitreservedwords permit reserved fieldname field typename type notnull nullrequired required decimalmin decimal min decimalmax decimal max sizemin size min sizemax size max regexp column comment transientmodifier modifier permitreservedwords permit reserved fieldname field fieldtype field type persistencetype persistence type typename type notnull nullrequired required column comment transientmodifier modifier permitreservedwords permit reserved dateformat format timeformat time format fieldname field typename type notnull nullrequired required assertfalse asserttrue column comment primitive transientmodifier modifier permitreservedwords permit reserved fieldname field fieldtype field type typename type notnull nullrequired required joincolumnname join column fetch comment transientmodifier modifier permitreservedwords permit reserved fieldname field element typename type mappedby mapped notnull nullrequired required sizemin size min sizemax size max cardinality fetch comment transientmodifier modifier permitreservedwords permit reserved fieldname field fieldtype field type typename type notnull nullrequired required enumtype type comment transientmodifier modifier permitreservedwords permit reserved classpathoperations classpath operations legalnumericprimitives legal numeric primitives physicaltypeidentifier physical type identifier usetype type fielddetails field details annotations initializer collectionfield collection field mod fieldmetadata field metadata physicaltypeidentifier physical type identifier usetype type fielddetails field details physicaltypeidentifier physical type identifier fielddetails field details physicaltypeidentifier physical type identifier fielddetails field details physicaltypeidentifier physical type identifier fielddetails field details physicaltypeidentifier physical type identifier fielddetails field details physicaltypeidentifier physical type identifier params fielddetails field details physicaltypeidentifier physical type identifier fielddetails field details
+VARSIG85	clioption cli option key comment mandatory optional comment javadocs docs comment
+VARSIG84	clioption cli option key fetch mandatory fetch semantics jpa level fetch fetch
+VARSIG83	clioption cli option key cardinality mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue relationship cardinarily jpa level cardinality cardinality
+VARSIG82	clioption cli option key sizemax size max mandatory maximum length integer sizemax size max
+VARSIG39	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+VARSIG34	clioption cli option key sizemax size max mandatory maximum length integer sizemax size max
+VARSIG33	clioption cli option key sizemin size min mandatory minimum length integer sizemin size min
+VARSIG32	clioption cli option key decimalmax decimal max mandatory bigdecimal big decimal based representation maximum decimalmax decimal max
+VARSIG31	clioption cli option key decimalmin decimal min mandatory bigdecimal big decimal based representation minimum decimalmin decimal min
+VARSIG38	clioption cli option key mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue mark field transientmodifier modifier
+VARSIG37	clioption cli option key comment mandatory optional comment javadocs docs comment
+PACKAGE	springframework roo classpath operations
+VARSIG36	clioption cli option key column mandatory jpa column column
+VARSIG35	clioption cli option key regexp mandatory required regular expression pattern regexp
+VARSIG30	clioption cli option key nullrequired required mandatory specifieddefaultvalue nullrequired required
+CLASSES	fieldcommands field commands
+VARSIG29	clioption cli option key notnull mandatory specifieddefaultvalue notnull
+VARSIG28	clioption cli option key mandatory unspecifieddefaultvalue unspecified optioncontext option context update project receive field javatype type typename type
+VARSIG23	clioption cli option key comment mandatory optional comment javadocs docs comment
+VARSIG22	clioption cli option key column mandatory jpa column column
+VARSIG21	clioption cli option key max mandatory maximum max
+VARSIG20	clioption cli option key min mandatory minimum min
+VARSIG27	clioption cli option key fieldname field mandatory field add javasymbolname symbol fieldname field
+VARSIG26	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+VARSIG25	clioption cli option key primitive mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue primitive type primitive
+VARSIG24	clioption cli option key mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue mark field transientmodifier modifier
+VARSIG7	clioption cli option key comment mandatory optional comment javadocs docs comment
+VARSIG6	clioption cli option key nullrequired required mandatory specifieddefaultvalue nullrequired required
+VARSIG9	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+VARSIG8	clioption cli option key mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue mark field transientmodifier modifier
+VARSIG3	clioption cli option key type mandatory type field javatype type fieldtype field type
+VARSIG2	clioption cli option key fieldname field mandatory field javasymbolname symbol fieldname field
+VARSIG5	clioption cli option key notnull mandatory specifieddefaultvalue notnull
+VARSIG4	clioption cli option key mandatory unspecifieddefaultvalue unspecified optioncontext option context update project receive field javatype type typename type
+VARSIG1	classpathoperations classpath operations classpathoperations classpath operations
+VARSIG0	staticfieldconverter field converter staticfieldconverter field converter
+VARSIG56	clioption cli option key notnull mandatory specifieddefaultvalue notnull
+VARSIG55	clioption cli option key mandatory unspecifieddefaultvalue unspecified optioncontext option context update project receive field javatype type typename type
+VARSIG54	clioption cli option key fieldname field mandatory field add javasymbolname symbol fieldname field
+VARSIG53	clioption cli option key timeformat time format mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue style time format datetime time timeformat time format
+VARSIG59	clioption cli option key asserttrue mandatory specifieddefaultvalue asserttrue
+VARSIG58	clioption cli option key assertfalse mandatory specifieddefaultvalue assertfalse
+VARSIG57	clioption cli option key nullrequired required mandatory specifieddefaultvalue nullrequired required
+VARSIG52	clioption cli option key dateformat format mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue style format datetime time dateformat format
+VARSIG51	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+VARSIG50	clioption cli option key mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue mark field transientmodifier modifier
+VARSIG45	clioption cli option key nullrequired required mandatory specifieddefaultvalue nullrequired required
+VARSIG44	clioption cli option key notnull mandatory specifieddefaultvalue notnull
+VARSIG43	clioption cli option key mandatory unspecifieddefaultvalue unspecified optioncontext option context update project receive field javatype type typename type
+VARSIG42	clioption cli option key persistencetype persistence type mandatory type persistent storage datefieldpersistencetype field persistence type persistencetype persistence type
+VARSIG49	clioption cli option key comment mandatory optional comment javadocs docs comment
+VARSIG48	clioption cli option key column mandatory jpa column column
+VARSIG47	clioption cli option key mandatory specifieddefaultvalue
+VARSIG46	clioption cli option key mandatory specifieddefaultvalue
+VARSIG41	clioption cli option key type mandatory optioncontext option context type entity javatype type fieldtype field type
+VARSIG40	clioption cli option key fieldname field mandatory field add javasymbolname symbol fieldname field

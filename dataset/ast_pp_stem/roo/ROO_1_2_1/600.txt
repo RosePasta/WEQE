@@ -1,0 +1,94 @@
+MTHSIG28	init memberholdingtypedetail member hold type detail exist 
+MTHSIG29	onaddconstructor add constructor constructormetadatabuild constructor metadata builder constructorbuild constructor builder 
+MTHSIG26	getextendstyp type 
+MTHSIG27	getimplementstyp type 
+MTHSIG24	getdeclaredinnertyp declar type 
+MTHSIG25	getdeclaredmethod declar method 
+MTHSIG22	getdeclaredfield declar field 
+MTHSIG23	getdeclarediniti declar initi 
+VARSIG39	collect classorinterfacetypedetailsbuild type detail builder declaredinnertyp declar type 
+MTHSIG4	addconstructor add constructor constructormetadatabuild constructor metadata builder constructorbuild constructor builder 
+VARSIG34	collect methodmetadatabuild metadata builder methodstoremov method remov 
+MTHSIG5	addextendstyp add type javatyp type extendstyp type 
+VARSIG33	methodmetadatabuild metadata builder methodbuild builder 
+MTHSIG6	addfield add field fieldmetadata field metadata field 
+VARSIG32	classorinterfacetypedetailsbuild type detail builder innertyp type 
+MTHSIG7	addfield add field fieldmetadatabuild field metadata builder fieldbuild field builder 
+VARSIG31	initializermetadatabuild initi metadata builder initi 
+MTHSIG0	abstractmemberholdingtypedetailsbuild member hold type detail builder memberholdingtypedetail member hold type detail exist 
+VARSIG38	collect initializermetadatabuild initi metadata builder declarediniti declar initi 
+MTHSIG1	abstractmemberholdingtypedetailsbuild member hold type detail builder declaredbymetadataid declaredbi metadata 
+VARSIG37	collect fieldmetadatabuild field metadata builder declaredfield declar field 
+PACKAGE	springframework roo classpath detail 
+MTHSIG2	abstractmemberholdingtypedetailsbuild member hold type detail builder declaredbymetadataid declaredbi metadata memberholdingtypedetail member hold type detail exist 
+VARSIG36	collect constructormetadatabuild constructor metadata builder declaredconstructor declar constructor 
+MTHSIG3	addconstructor add constructor constructormetadata constructor metadata constructor 
+VARSIG35	javatyp type supertyp type 
+MTHSIG20	cleardeclaredmethod clear declar method 
+MTHSIG21	getdeclaredconstructor declar constructor 
+MTHSIG8	addimplementstyp add type javatyp type implementstyp type 
+VARSIG30	javatyp type implementstyp type 
+MTHSIG9	addimport add import collect importmetadata metadata import 
+MTHSIG39	setdeclaredfield set declar field collect fieldmetadatabuild field metadata builder declaredfield declar field 
+MTHSIG37	removeextendstyp remov type javatyp type supertyp type 
+MTHSIG38	setdeclaredconstructor set declar constructor collect constructormetadatabuild constructor metadata builder declaredconstructor declar constructor 
+MTHSIG35	onaddmethod add methodmetadatabuild metadata builder methodbuild builder 
+MTHSIG36	removeal remov collect methodmetadatabuild metadata builder methodstoremov method remov 
+MTHSIG33	onaddiniti add initi initializermetadatabuild initi metadata builder initi 
+MTHSIG34	onaddinnertyp add type classorinterfacetypedetailsbuild type detail builder innertyp type 
+CLASSES	abstractmemberholdingtypedetailsbuild member hold type detail builder 
+VARSIG29	fieldmetadatabuild field metadata builder fieldbuild field builder 
+VARSIG28	javatyp type extendstyp type 
+METHODS	abstractmemberholdingtypedetailsbuild member hold type detail builder abstractmemberholdingtypedetailsbuild member hold type detail builder abstractmemberholdingtypedetailsbuild member hold type detail builder addconstructor add constructor addconstructor add constructor addextendstyp add type addfield add field addfield add field addimplementstyp add type addimport add import addiniti add initi addinnertyp add type addinnertyp add type addmethod add addmethod add buildconstructor build constructor buildfield build field buildiniti build initi buildinnertyp build type buildmethod build method cleardeclaredmethod clear declar method getdeclaredconstructor declar constructor getdeclaredfield declar field getdeclarediniti declar initi getdeclaredinnertyp declar type getdeclaredmethod declar method getextendstyp type getimplementstyp type init onaddconstructor add constructor onaddextendstyp add type onaddfield add field onaddimplementtyp add implement type onaddiniti add initi onaddinnertyp add type onaddmethod add removeal remov removeextendstyp remov type setdeclaredconstructor set declar constructor setdeclaredfield set declar field setdeclarediniti set declar initi setdeclaredinnertyp set declar type setdeclaredmethod set declar method setextendstyp set type setimplementstyp set type 
+VARSIG23	fieldmetadata field metadata element 
+VARSIG22	constructormetadata constructor metadata element 
+VARSIG21	memberholdingtypedetail member hold type detail exist 
+VARSIG20	methodmetadatabuild metadata builder builder 
+VARSIG27	constructormetadatabuild constructor metadata builder constructorbuild constructor builder 
+VARSIG26	initializermetadata initi metadata element 
+VARSIG25	classorinterfacetypedetail type detail element 
+VARSIG24	methodmetadata metadata element 
+MTHSIG31	onaddfield add field fieldmetadatabuild field metadata builder fieldbuild field builder 
+MTHSIG32	onaddimplementtyp add implement type javatyp type implementstyp type 
+MTHSIG30	onaddextendstyp add type javatyp type extendstyp type 
+VARSIG7	fieldmetadata field metadata field 
+VARSIG6	javatyp type extendstyp type 
+VARSIG9	javatyp type implementstyp type 
+VARSIG8	fieldmetadatabuild field metadata builder fieldbuild field builder 
+VARSIG3	memberholdingtypedetail member hold type detail exist 
+VARSIG2	declaredbymetadataid declaredbi metadata 
+MTHSIG44	setimplementstyp set type collect javatyp type implementstyp type 
+VARSIG5	constructormetadatabuild constructor metadata builder constructorbuild constructor builder 
+VARSIG4	constructormetadata constructor metadata constructor 
+COMMENTS	link builder assist build link memberholdingtypedetail member hold type detail implement type link memberholdingtypedetail member hold type detail built constructor exist constructor declaredbymetadataid declaredbi metadata constructor declaredbymetadataid declaredbi metadata exist add import builder import import add origin check declaredmid declar match doesn sens model type thought ad enclosingtyp enclos type attribut prototyp felt hack term disabl mid comparison reason time jtt add builder add builder chang add builder methodbuild builder builder add mid doesn match builder builder mid builder chang remov declar method builder return declar method builder unmodifi copi list return type built instanc extend copi modifi return list modifi builder todo improv encapsul return defens copi updat caller list subclass perform action builder implement methodbuild builder remov method builder methodstoremov method remov builder chang result list removeal remov collect ensur type built extend type supertyp type type remov supertyp set builder constructor declar declaredconstructor declar constructor set builder field declar type built declaredfield declar field builder set set builder initi type built declarediniti declar initi builder set set builder type type built declaredinnertyp declar type builder set set declar method builder equival call link addmethod add methodmetadatabuild metadata builder item link iter declaredmethod declar method method set link iter defens copi set type built instanc extend extendstyp type set type implement type built implementstyp type 
+VARSIG19	classorinterfacetypedetailsbuild type detail builder cidbuild cid builder 
+VARSIG1	declaredbymetadataid declaredbi metadata 
+VARSIG18	initializermetadatabuild initi metadata builder builder 
+VARSIG0	memberholdingtypedetail member hold type detail exist 
+VARSIG17	fieldmetadatabuild field metadata builder builder 
+VARSIG12	classorinterfacetypedetail type detail innertyp type 
+VARSIG11	initializermetadatabuild initi metadata builder initi 
+VARSIG10	collect importmetadata metadata import 
+VARSIG16	constructormetadatabuild constructor metadata builder builder 
+VARSIG15	methodmetadatabuild metadata builder methodbuild builder 
+VARSIG14	methodmetadata metadata 
+VARSIG13	classorinterfacetypedetailsbuild type detail builder innertyp type 
+MTHSIG42	setdeclaredmethod set declar method iter methodmetadatabuild metadata builder declaredmethod declar method 
+MTHSIG43	setextendstyp set type collect javatyp type extendstyp type 
+MTHSIG40	setdeclarediniti set declar initi collect initializermetadatabuild initi metadata builder declarediniti declar initi 
+MTHSIG41	setdeclaredinnertyp set declar type collect classorinterfacetypedetailsbuild type detail builder declaredinnertyp declar type 
+MTHSIG17	buildiniti build initi 
+MTHSIG18	buildinnertyp build type 
+MTHSIG15	buildconstructor build constructor 
+MTHSIG16	buildfield build field 
+MTHSIG13	addmethod add methodmetadata metadata 
+MTHSIG14	addmethod add methodmetadatabuild metadata builder methodbuild builder 
+MTHSIG11	addinnertyp add type classorinterfacetypedetail type detail innertyp type 
+MTHSIG12	addinnertyp add type classorinterfacetypedetailsbuild type detail builder innertyp type 
+MTHSIG19	buildmethod build method 
+VARSIG43	collect javatyp type implementstyp type 
+VARSIG42	collect javatyp type extendstyp type 
+MTHSIG10	addiniti add initi initializermetadatabuild initi metadata builder initi 
+VARIABLES	exist declaredbymetadataid declaredbi metadata declaredbymetadataid declaredbi metadata exist constructor constructorbuild constructor builder extendstyp type field fieldbuild field builder implementstyp type import initi innertyp type innertyp type methodbuild builder builder builder builder cidbuild cid builder builder exist element element element element element constructorbuild constructor builder extendstyp type fieldbuild field builder implementstyp type initi innertyp type methodbuild builder methodstoremov method remov supertyp type declaredconstructor declar constructor declaredfield declar field declarediniti declar initi declaredinnertyp declar type declaredmethod declar method methodbuild builder extendstyp type implementstyp type declaredconstructor declar constructor declaredfield declar field declarediniti declar initi declaredinnertyp declar type declaredmethod declar method extendstyp type implementstyp type result result result result result 
+VARSIG41	methodmetadatabuild metadata builder methodbuild builder 
+VARSIG40	iter methodmetadatabuild metadata builder declaredmethod declar method 

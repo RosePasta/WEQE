@@ -1,0 +1,90 @@
+MTHSIG24	xmlutil xml util 
+MTHSIG22	findfirstelementbynam find element element root 
+MTHSIG23	removetextnod remov text node node node 
+VARSIG39	xpathexpress path express 
+MTHSIG4	writexml write xml transform transform outputstream output stream outputstream output stream document document 
+VARSIG34	xpathexpress path express 
+MTHSIG5	writeformattedxml write format xml outputstream output stream outputstream output stream document document 
+VARSIG33	node parent 
+MTHSIG6	comparenod compar node node node node node node node 
+VARSIG32	xpathexpress path express 
+MTHSIG7	nodetostr node node node 
+VARSIG31	len 
+MTHSIG0	stringtoel element xml 
+VARSIG38	element root 
+MTHSIG1	createtextel creat text element document document tagnam tag text 
+VARSIG37	xpathexpress path express 
+PACKAGE	springframework roo support util 
+MTHSIG2	readxml read xml inputstream input stream inputstream input stream 
+VARSIG36	xpathexpressionexcept path express except 
+MTHSIG3	writexml write xml outputstream output stream outputstream output stream document document 
+VARSIG35	node root 
+MTHSIG20	gettextcont text content path element parentel parent element 
+MTHSIG21	gettextcont text content path element parentel parent element valueifnul 
+MTHSIG8	createunixstreamresultforentri creat unix stream result entri outputstream output stream outputstream output stream 
+VARSIG30	 
+MTHSIG9	findfirstel find element xpathexpress path express node parent 
+CLASSES	xmlutil xml util 
+VARSIG29	str 
+VARSIG28	 
+METHODS	stringtoel element createtextel creat text element readxml read xml writexml write xml writexml write xml writeformattedxml write format xml comparenod compar node nodetostr node createunixstreamresultforentri creat unix stream result entri findfirstel find element findnod find node findrequiredel find requir element findel find element findfirstattribut find attribut createindentingtransform creat indent transform getdocumentbuild document builder getrootel root element getconfigur configur convertid convert assertelementleg element legal gettextcont text content gettextcont text content findfirstelementbynam find element removetextnod remov text node xmlutil xml util 
+VARSIG23	transformerexcept transform except 
+VARSIG22	node node 
+VARSIG21	node node node 
+VARSIG20	node node node 
+VARSIG27	len 
+VARSIG26	 
+VARSIG25	cbuf 
+VARSIG24	outputstream output stream outputstream output stream 
+VARSIG7	inputstream input stream inputstream input stream 
+VARSIG6	text 
+VARSIG9	outputstream output stream outputstream output stream 
+VARSIG8	except 
+VARSIG3	saxexcept sax except 
+VARSIG2	parserconfigurationexcept parser configur except 
+VARSIG5	tagnam tag 
+VARSIG4	document document 
+COMMENTS	util xml usag constant return xml root link element link document xml xml convert blank xml blank creat link element text document document element tagnam tag element element tag requir text text set element read xml document suppli input stream document inputstream input stream input stream read requir stream close complet document illegalstateexcept illeg except stream read write xml document outputstream output stream pre configur roo transform outputstream output stream output stream write stream close complet document document write write xml document outputstream output stream transform transform transform xmlutil xml util createindentingtransform creat indent transform outputstream output stream output stream write stream close complet document document write write xml document outputstream output stream detect jdk support dom level format pretti print configur fall format offer trax outputstream output stream output stream write stream close complet document document write note format pretti print dom configur paramet set jdk fall domimplementationregistri dom implement registri fall trax domimplementationregistri dom implement registri fall trax domconfigur dom configur format pretti print paramet fall trax domimplementationl dom implement fall trax dom dom core support fall trax compar dom link node node compar represent node xml string node node node node node node xml represent node node xml represent node node document clone normal side effect document normal comparison take place remov format interfer comparison convert link node node xml node element xml represent node creat link streamresult stream result wrap outputstream output stream link outputstreamwrit output stream writer transform window end unix end window consist roo roo templat outputstream output stream streamresult stream result unsupportedencodingexcept unsupport encod except search parent element child element match xpath path express note xpath path parser namespac awar find element xpath path express bean http xpathexpress path express xpathexpress path express requir parent parent dom element requir element discov link element check root element find child node match xpath path express suppli return link node exist note xpath path parser namespac awar find element xpath path express bean http xpathexpress path express xpath path express requir root parent dom element requir node discov check root element find child element match xpath path express suppli link element exist return link element exist note xpath path parser namespac awar find element xpath path express bean http xpathexpress path express xpath path express requir root parent dom element requir element discov except thrown check root element find child element match xpath path express suppli return link list link element exist note xpath path parser namespac awar find element xpath path express bean http xpathexpress path express xpathexpress path express root parent dom element link list type link element discov empti list check element find attribut match xpath path express suppli return link node exist xpathexpress path express xpathexpress path express requir element requir node discov transform indent entri charact document builder factori setnamespaceawar set namespac awar return root element xml file clazz open file requir xmlfilepath xml file path path xml file rel requir element document getdocumentel document element return root element addon addon configur file clazz own configur configur root element convert xhtml compliant jspx css css selector spec compliant replac propos clean check present element illeg charact malform xml element content xml element illegalargumentexcept illeg argument except element text illeg charact note regular express legal charact slower profil approach check root element find child element match suppli return link element exist element requir root parent dom element requir element discov link domutil dom util findfirstelementbynam find element element remov empti text node node node element empti text node remov link domutil dom util removetextnod remov text node node constructor prevent instanti 
+VARSIG19	lsexcept except lse 
+VARSIG1	ioexcept except 
+VARSIG18	except 
+VARSIG0	xml 
+VARSIG17	nosuchmethoderror error nsme 
+VARSIG12	outputstream output stream outputstream output stream 
+VARSIG56	valueifnul 
+VARSIG11	transform transform 
+VARSIG55	element parentel parent element 
+VARSIG10	document document 
+VARSIG54	path 
+VARSIG53	element parentel parent element 
+VARSIG16	document document 
+VARSIG15	outputstream output stream outputstream output stream 
+VARSIG59	node node 
+VARSIG14	except 
+VARSIG58	element root 
+VARSIG13	document document 
+VARSIG57	 
+VARSIG52	path 
+VARSIG51	element 
+VARSIG50	propos 
+MTHSIG17	getconfigur configur clazz 
+MTHSIG18	convertid convert propos 
+MTHSIG15	getdocumentbuild document builder 
+MTHSIG16	getrootel root element clazz xmlfilepath xml file path 
+MTHSIG13	findfirstattribut find attribut xpathexpress path express element element 
+MTHSIG14	createindentingtransform creat indent transform 
+MTHSIG11	findrequiredel find requir element xpathexpress path express element root 
+MTHSIG12	findel find element xpathexpress path express element root 
+MTHSIG19	assertelementleg element legal element 
+VARSIG45	except 
+VARSIG44	xpathexpressionexcept path express except 
+VARSIG43	element element 
+VARSIG42	xpathexpress path express 
+VARSIG49	clazz 
+VARSIG48	xmlfilepath xml file path 
+VARSIG47	clazz 
+VARSIG46	parserconfigurationexcept parser configur except 
+MTHSIG10	findnod find node xpathexpress path express node root 
+VARIABLES	xml document tagnam tag text inputstream input stream outputstream output stream document transform outputstream output stream document outputstream output stream document nsme lse node node node node node outputstream output stream cbuf len str len xpathexpress path express parent xpathexpress path express root xpathexpress path express root xpathexpress path express root xpathexpress path express element clazz xmlfilepath xml file path clazz propos element path parentel parent element path parentel parent element valueifnul root node factori compiledexpressioncach compil express cach transformerfactori transform factori xpath element streamresult stream result domimplement dom implement domimplementationl dom implement registri lsserial serial domconfigur dom configur lsoutput output writer writer orig filter lengthdiff length diff node node expr element element node expr attr expr transform inputstream input stream element 
+VARSIG41	xpathexpressionexcept path express except 
+VARSIG40	element root 

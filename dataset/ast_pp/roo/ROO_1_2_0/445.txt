@@ -1,0 +1,18 @@
+MTHSIG11	istransactional transactional
+COMMENTS	represents parsed link roointegrationtest roo integration test annotation annotation
+CLASSES	integrationtestannotationvalues integration test annotation values
+VARSIG0	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+METHODS	integrationtestannotationvalues integration test annotation values getentity entity iscount count isfind find isfindentries find entries isfindall find getfindallmaximum find maximum isflush flush ispersist persist isremove remove ismerge merge istransactional transactional
+MTHSIG4	isfindentries find entries
+MTHSIG5	isfindall find
+MTHSIG6	getfindallmaximum find maximum
+MTHSIG7	isflush flush
+MTHSIG0	integrationtestannotationvalues integration test annotation values physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+MTHSIG1	getentity entity
+PACKAGE	springframework roo addon test
+MTHSIG2	iscount count
+MTHSIG3	isfind find
+MTHSIG10	ismerge merge
+VARIABLES	governorphysicaltypemetadata governor physical type metadata entity count find findentries find entries findall find findallmaximum find maximum flush persist remove merge transactional
+MTHSIG8	ispersist persist
+MTHSIG9	isremove remove

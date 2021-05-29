@@ -1,0 +1,49 @@
+MTHSIG4	getphysicallocationcanonicalpath physic locat canon path physicaltypeidentifi physic type identifi 
+MTHSIG5	getclassorinterfac javatyp type requiredclassorinterfac requir 
+MTHSIG6	findclassorinterfac find javatyp type requiredclassorinterfac requir 
+MTHSIG7	processtypeswithtag process type tag object tag locatedtypecallback locat type callback callback 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	deactiv componentcontext compon context context 
+PACKAGE	springframework roo classpath 
+MTHSIG2	notifi upstreamdepend upstream depend downstreamdepend downstream depend 
+MTHSIG3	getphysicallocationcanonicalpath physic locat canon path javatyp type javatyp type path path 
+MTHSIG8	processtypeswithannot process type annot list javatyp type annotationstodetect annot detect locatedtypecallback locat type callback callback 
+MTHSIG9	findtypeswithannot find type annot list javatyp type annotationstodetect annot detect 
+CLASSES	typelocationserviceimpl type locat servic impl 
+VARSIG28	runtimeexcept runtim except 
+METHODS	activ deactiv notifi getphysicallocationcanonicalpath physic locat canon path getphysicallocationcanonicalpath physic locat canon path getclassorinterfac findclassorinterfac find processtypeswithtag process type tag processtypeswithannot process type annot findtypeswithannot find type annot findtypeswithannot find type annot findclassesorinterfacedetailswithannot find class detail annot findclassesorinterfacedetailswithtag find class detail tag getclassorinterfacetypedetail type detail getprojectjavatyp project type 
+VARSIG23	object tag 
+VARSIG22	classorinterfacetypedetail type detail locat 
+VARSIG21	javatyp type annotationstodetect annot detect 
+VARSIG20	javatyp type annotationstodetect annot detect 
+VARSIG27	filedetail file detail file 
+VARSIG26	path path 
+VARSIG25	physicaltypemid physic type mid 
+VARSIG24	classorinterfacetypedetail type detail locat 
+VARSIG7	javatyp type requiredclassorinterfac requir 
+VARSIG6	physicaltypeidentifi physic type identifi 
+VARSIG9	object tag 
+VARSIG8	javatyp type requiredclassorinterfac requir 
+VARSIG3	downstreamdepend downstream depend 
+VARSIG2	upstreamdepend upstream depend 
+VARSIG5	path path 
+VARSIG4	javatyp type javatyp type 
+COMMENTS	implement link typelocationservic type locat servic perform reason automat cach queri invalid cach link physicaltypemetadata physic type metadata notif receiv chang drop cach store cach store cach ditch roo let work path 
+VARSIG19	classorinterfacetypedetail type detail locat 
+VARSIG1	componentcontext compon context context 
+VARSIG18	list javatyp type annotationstodetect annot detect 
+VARSIG0	componentcontext compon context context 
+VARSIG17	locatedphysicaltypemid locat physic type mid 
+VARSIG12	locatedphysicaltypemid locat physic type mid 
+VARSIG11	classorinterfacetypedetail type detail cid 
+VARSIG10	locatedtypecallback locat type callback callback 
+VARSIG16	javatyp type annot 
+VARSIG15	classorinterfacetypedetail type detail cid 
+VARSIG14	locatedtypecallback locat type callback callback 
+VARSIG13	list javatyp type annotationstodetect annot detect 
+MTHSIG13	getclassorinterfacetypedetail type detail physicaltypemid physic type mid 
+MTHSIG14	getprojectjavatyp project type path path 
+MTHSIG11	findclassesorinterfacedetailswithannot find class detail annot javatyp type annotationstodetect annot detect 
+MTHSIG12	findclassesorinterfacedetailswithtag find class detail tag object tag 
+MTHSIG10	findtypeswithannot find type annot javatyp type annotationstodetect annot detect 
+VARIABLES	context context upstreamdepend upstream depend downstreamdepend downstream depend javatyp type path physicaltypeidentifi physic type identifi requiredclassorinterfac requir requiredclassorinterfac requir tag callback cid locatedphysicaltypemid locat physic type mid annotationstodetect annot detect callback cid annot locatedphysicaltypemid locat physic type mid annotationstodetect annot detect locat annotationstodetect annot detect annotationstodetect annot detect locat tag locat physicaltypemid physic type mid path file filemanag file manag dependencyregistri depend registri metadataservic metadata servic physicaltypemetadataprovid physic type metadata provid projectoper project oper memberdetailsscann member detail scanner cach tagbasedcach tag base cach relativepath rel path javatyp type path relativepath rel path metadataidentificationstr metadata identif physicaltypemetadata physic type metadata physicaltypedetail physic type detail metadataidentificationstr metadata identif physicaltypemetadata physic type metadata physicaltypedetail physic type detail locatedphysicaltypemid locat physic type mid memberdetail member detail locat locatedphysicaltypemid locat physic type mid locat type type type physicaltypemetadata physic type metadata pathresolv path resolv srcroot src root projecttyp project type fullpath full path javatyp type locatedpath locat path physicaltypemid physic type mid locat 

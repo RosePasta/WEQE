@@ -1,0 +1,105 @@
+MTHSIG28	shallowcopyfieldst shallow copi field object src object dest 
+MTHSIG26	dowithfield field targetclass target fieldcallback field callback 
+MTHSIG27	dowithfield field targetclass target fieldcallback field callback fieldfilt field filter 
+MTHSIG24	dowithmethod method targetclass target methodcallback callback methodfilt filter 
+MTHSIG25	getalldeclaredmethod declar method leafclass leaf 
+MTHSIG22	makeaccess access constructor ctor 
+MTHSIG23	dowithmethod method targetclass target methodcallback callback 
+MTHSIG4	findmethod find clazz 
+MTHSIG5	findmethod find clazz parametertyp paramet type 
+MTHSIG6	invokemethod invok object target 
+MTHSIG7	invokemethod invok object target object 
+MTHSIG0	findfield find field clazz 
+MTHSIG1	findfield find field clazz type 
+MTHSIG2	setfield set field field field object target object 
+MTHSIG3	getfield field field field object target 
+MTHSIG20	makeaccess access field field 
+VARSIG70	field field 
+MTHSIG21	makeaccess access 
+MTHSIG8	invokejdbcmethod invok jdbc object target 
+MTHSIG9	invokejdbcmethod invok jdbc object target object 
+METHODS	findfield find field findfield find field setfield set field getfield field findmethod find findmethod find invokemethod invok invokemethod invok invokejdbcmethod invok jdbc invokejdbcmethod invok jdbc handlereflectionexcept handl reflect except handleinvocationtargetexcept handl invoc target except rethrowruntimeexcept rethrow runtim except rethrowexcept rethrow except handleunexpectedexcept handl unexpect except declaresexcept declar except ispublicstaticfin isequalsmethod equal ishashcodemethod hash code istostringmethod makeaccess access makeaccess access makeaccess access dowithmethod method dowithmethod method getalldeclaredmethod declar method dowithfield field dowithfield field shallowcopyfieldst shallow copi field 
+VARSIG67	 
+VARSIG66	 
+VARSIG65	field field 
+VARSIG64	object dest 
+VARSIG69	field field 
+VARSIG68	field field 
+VARSIG63	object src 
+VARSIG62	illegalaccessexcept illeg access except 
+VARSIG61	field field 
+VARSIG60	fieldfilt field filter 
+COMMENTS	simpl util work reflect api handl reflect except intend intern attempt find link field field suppli link suppli search superclass link object clazz introspect field field object attempt find link field field suppli link suppli link type search superclass link object clazz introspect field type type type field field object set field repres suppli link field field object link object target object link field set object object semant automat unwrap underli field primit type thrown except handl call link handlereflectionexcept handl reflect except except field field set target target object set field set field repres suppli link field field object link object target object link field object semant return automat wrap underli field primit type thrown except handl call link handlereflectionexcept handl reflect except except field field target target object field field field current attempt find link suppli suppli paramet search superclass object return link clazz introspect object attempt find link suppli suppli paramet type search superclass object return link clazz introspect parametertyp paramet type paramet type signatur object invok link suppli target object argument target object invok link thrown except handl call link handlereflectionexcept handl reflect except invok target target object invok invoc result invokemethod invok lang reflect object object invok link suppli target object suppli argument target object invok link thrown except handl call link handlereflectionexcept handl reflect except invok target target object invok invoc argument invoc result invok jdbc api link suppli target object argument invok target target object invok invoc result sqlexcept sql except jdbc api sqlexcept sql except rethrow invokejdbcmethod invok jdbc lang reflect object object invok jdbc api link suppli target object suppli argument invok target target object invok invoc argument invoc result sqlexcept sql except jdbc api sqlexcept sql except rethrow invokemethod invok lang reflect object object handl reflect except call check except expect thrown target underli runtimeexcept runtim except error invocationtargetexcept invoc target except root illegalstateexcept illeg except messag reflect except handl handl invoc target except call check except expect thrown target underli runtimeexcept runtim except error root illegalstateexcept illeg except invoc target except handl rethrow link throwabl except target except link invocationtargetexcept invoc target except call check except expect thrown target rethrow underli except link runtimeexcept runtim except link error link illegalstateexcept illeg except except rethrow runtimeexcept runtim except rethrown except rethrow link throwabl except target except link invocationtargetexcept invoc target except call check except expect thrown target rethrow underli except link except link error link illegalstateexcept illeg except except rethrow except rethrown except check except illegalstateexcept illeg except except root unexpect except determin explicitli declar except superclass except type propag reflect invoc declar exceptiontyp except type except except thrown wrap determin field constant field field check determin equal lang object equal determin hashcod hash code lang object hashcod hash code determin tostr lang object tostr field access explicitli set access setaccess set access call avoid unnecessari conflict jvm securitymanag secur manag activ field field access lang reflect field setaccess set access access explicitli set access setaccess set access call avoid unnecessari conflict jvm securitymanag secur manag activ access lang reflect setaccess set access constructor access explicitli set access setaccess set access call avoid unnecessari conflict jvm securitymanag secur manag activ ctor constructor access lang reflect constructor setaccess set access perform callback oper match method superclass name occur subclass superclass exclud link methodfilt filter targetclass target start callback invok dowithmethod method methodcallback callback methodfilt filter perform callback oper match method superclass name occur subclass superclass exclud link methodfilt filter targetclass target start callback invok filter determin method appli callback back inherit hierarchi declar method leaf superclass leaf method includ invok callback field target hierarchi declar field targetclass target target analyz callback invok field invok callback field target hierarchi declar field targetclass target target analyz callback invok field filter determin field appli callback back inherit hierarchi copi field declar file skip field sourc object destin subclass copi field includ inherit field design work object arg constructor illegalargumentexcept illeg argument except argument incompat action perform oper oper callback option field oper callback determin match check callback invok field hierarchi perform oper field field field oper callback option filter field oper field callback determin field match field field check pre built fieldfilt field filter match field 
+VARSIG19	 
+VARSIG18	 
+VARSIG17	parametertyp paramet type 
+VARSIG12	illegalaccessexcept illeg access except 
+VARSIG11	object target 
+VARSIG10	field field 
+VARSIG16	 
+VARSIG15	clazz 
+VARSIG14	 
+VARSIG13	clazz 
+MTHSIG17	isequalsmethod equal 
+MTHSIG18	ishashcodemethod hash code 
+MTHSIG15	declaresexcept declar except exceptiontyp except type 
+MTHSIG16	ispublicstaticfin field field 
+MTHSIG13	rethrowexcept rethrow except throwabl 
+MTHSIG14	handleunexpectedexcept handl unexpect except throwabl 
+MTHSIG11	handleinvocationtargetexcept handl invoc target except invocationtargetexcept invoc target except 
+MTHSIG12	rethrowruntimeexcept rethrow runtim except throwabl 
+MTHSIG19	istostringmethod 
+MTHSIG10	handlereflectionexcept handl reflect except except 
+VARIABLES	clazz clazz type field field target field target clazz clazz parametertyp paramet type target target target target exceptiontyp except type declaredexcept declar except field field ctor targetclass target targetclass target leafclass leaf targetclass target targetclass target field src dest field field field field searchtyp search type field searchtyp search type method declaredexcept declar except modifi parametertyp paramet type method method field srcvalu src copyabl field 
+VARSIG39	declaredexcept declar except 
+VARSIG34	throwabl 
+VARSIG33	invocationtargetexcept invoc target except 
+VARSIG32	except 
+VARSIG31	invocationtargetexcept invoc target except 
+VARSIG38	exceptiontyp except type 
+VARSIG37	 
+PACKAGE	springframework roo support util 
+VARSIG36	throwabl 
+VARSIG35	throwabl 
+VARSIG30	illegalaccessexcept illeg access except 
+CLASSES	reflectionutil reflect util 
+VARSIG29	object 
+VARSIG28	object target 
+VARSIG23	object 
+VARSIG22	object target 
+VARSIG21	 
+VARSIG20	object target 
+VARSIG27	 
+VARSIG26	object target 
+VARSIG25	 
+VARSIG24	except 
+VARSIG7	object target 
+VARSIG6	field field 
+VARSIG9	illegalaccessexcept illeg access except 
+VARSIG8	object 
+VARSIG3	 
+VARSIG2	clazz 
+VARSIG5	field field 
+VARSIG4	type 
+VARSIG1	 
+VARSIG0	clazz 
+VARSIG56	targetclass target 
+VARSIG55	 
+VARSIG54	leafclass leaf 
+VARSIG53	illegalaccessexcept illeg access except 
+VARSIG59	fieldcallback field callback 
+VARSIG58	targetclass target 
+VARSIG57	fieldcallback field callback 
+VARSIG52	 
+VARSIG51	methodfilt filter 
+VARSIG50	methodcallback callback 
+VARSIG45	 
+VARSIG44	field field 
+VARSIG43	 
+VARSIG42	 
+VARSIG49	targetclass target 
+VARSIG48	methodcallback callback 
+VARSIG47	targetclass target 
+VARSIG46	constructor ctor 
+VARSIG41	 
+VARSIG40	field field 

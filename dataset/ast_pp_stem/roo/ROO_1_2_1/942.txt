@@ -1,0 +1,25 @@
+VARSIG7	logicalpath logic path logicalpath logic path 
+VARSIG6	issourc sourc 
+VARSIG8	rootpath root path 
+VARSIG3	expectedidentifi expect identifi 
+VARSIG2	relativepath rel path 
+VARSIG5	pom pom 
+VARSIG4	modul 
+COMMENTS	unit test link mavenpathresolvingstrategi maven path resolv strategi fixtur assert call link mavenpathresolvingstrategi maven path resolv strategi getidentifi identifi logicalpath logic path paramet expect identifi pom pom mock link pommanagementservic pom manag servic modul modul modul return link logicalpath logic path relativepath rel path expectedidentifi expect identifi set invok check set invok check set invok check 
+VARSIG1	modul 
+VARSIG0	pom pom 
+MTHSIG4	setup set 
+MTHSIG5	setupmodulepath set modul path 
+MTHSIG6	testgetallpath test path 
+MTHSIG7	testgetidentifierfornewmodulewithemptyrelativepath test identifi modul empti rel path 
+MTHSIG0	assertidentifi identifi pom pom modul relativepath rel path expectedidentifi expect identifi 
+MTHSIG1	getmockcontextualpath mock contextu path modul pom pom 
+PACKAGE	springframework roo project 
+MTHSIG2	getmockmodulepath mock modul path issourc sourc logicalpath logic path logicalpath logic path 
+MTHSIG3	getmockpom mock pom rootpath root path 
+MTHSIG8	testgetidentifierforrootmodulewithemptyrelativepath test identifi root modul empti rel path 
+MTHSIG9	testgetidentifierforrootmodulewithnonemptyrelativepath test identifi root modul empti rel path 
+CLASSES	mavenpathresolvingstrategytest maven path resolv strategi test 
+METHODS	assertidentifi identifi getmockcontextualpath mock contextu path getmockmodulepath mock modul path getmockpom mock pom setup set setupmodulepath set modul path testgetallpath test path testgetidentifierfornewmodulewithemptyrelativepath test identifi modul empti rel path testgetidentifierforrootmodulewithemptyrelativepath test identifi root modul empti rel path testgetidentifierforrootmodulewithnonemptyrelativepath test identifi root modul empti rel path testgetsourcepath test sourc path 
+MTHSIG10	testgetsourcepath test sourc path 
+VARIABLES	pom modul relativepath rel path expectedidentifi expect identifi modul pom issourc sourc logicalpath logic path rootpath root path modul path rel pom pom path root modul mocknonsourcepath mock sourc path mockpommanagementservic mock pom manag servic mocksourcepath mock sourc path strategi mockcontextualpath mock contextu path identifi mockcontextualpath mock contextu path mockmodulepath mock modul path mockpom mock pom mockmodulesourcepath mock modul sourc path mockmodulenonsourcepath mock modul sourc path mockpom mock pom modulepathid modul path id mockparentpom mock parent pom expectedidentifi expect identifi expectedidentifi expect identifi relativepath rel path expectedidentifi expect identifi modulepathid modul path id 

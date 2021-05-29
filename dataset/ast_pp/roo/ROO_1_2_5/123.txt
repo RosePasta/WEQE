@@ -1,0 +1,12 @@
+MTHSIG0	installfinder install finder javatype type typename type javasymbolname symbol findername finder
+VARSIG3	integer depth
+MTHSIG1	isfinderinstallationpossible finder installation
+VARSIG2	javatype type typename type
+PACKAGE	springframework roo addon finder
+MTHSIG2	listfindersfor list finders javatype type typename type integer depth
+COMMENTS	finder add operations
+CLASSES	finderoperations finder operations
+VARIABLES	typename type findername finder typename type depth
+VARSIG1	javasymbolname symbol findername finder
+VARSIG0	javatype type typename type
+METHODS	installfinder install finder isfinderinstallationpossible finder installation listfindersfor list finders

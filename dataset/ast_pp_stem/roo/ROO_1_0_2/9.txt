@@ -1,0 +1,47 @@
+VARSIG7	methodmetadata metadata findentriesmethod find entri 
+VARSIG6	methodmetadata metadata findmethod find 
+VARSIG9	metadataservic metadata servic metadataservic metadata servic 
+VARSIG8	methodmetadata metadata persistmethod persist 
+VARSIG3	dataondemandannotationvalu data demand annot valu annotationvalu annot valu 
+VARSIG2	physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+VARSIG5	methodmetadata metadata identifieraccessor identifi accessor 
+VARSIG4	beaninfometadata bean info metadata beaninfometadata bean info metadata 
+COMMENTS	metadata link roodataondemand roo data demand findentityentri find entiti entri integ integ list entiti requir persist instanc entiti creat requir mandatori method order discoveri guarante gener consist manner scm compat kei mandatori setter invok argument mutat express entiti requir data demand instanc field exist need lookup dataondemand data demand metadata depend expect field correct reli move field field add hasn add springframework stereotyp compon annot type exist annot exist creat creat requir springframework stereotyp compon annot introduc introduc rnd field user produc demand return comput requir field verifi candid suitabl candid name clash subclass candid isn util random isn suitabl valid candid don check initi assum user thei candid let creat data field user produc demand return comput requir field type paramet field type verifi candid suitabl candid name clash subclass candid isn util list theentiti entiti isn suitabl equal verifi type param valid candid don check initi assum user thei candid let creat getnewtransientent entiti entiti return definit find build locat user defin creat modifyent modifi entiti entiti return definit find build locat user defin creat todo port fulli origin code base getrandoment random entiti entiti return definit find build locat user defin creat getspecificent specif entiti entiti return definit find build locat user defin creat init return definit find build locat user defin creat creat annot creat bodi field mutat chanc mandatori includ field shouldn mutat user includ version field gener won provid mutat version case includ sort collect user entiti hand includ field requir mark jsr notnul annot simpl invok auto box auto box auto box auto box auto box avoid circular refer roo metadata reli decid deal roo metadata basic assumpt correct physic type identifi link beaninfometadata bean info metadata link roodataondemand roo data demand creat empti metadata invalid annot valu link roodataondemand roo data demand metadata invalid 
+VARSIG19	metadataidentificationstr metadata identif 
+VARSIG1	javatyp type aspectnam aspect 
+VARSIG18	metadataidentificationstr metadata identif 
+VARSIG0	identifi 
+VARSIG17	path path 
+MTHSIG4	getdatafield data field 
+VARSIG12	methodmetadata metadata mutat 
+MTHSIG5	getnewtransiententitymethod entiti 
+VARSIG11	javatyp type entityneedingcollabor entiti need collabor 
+MTHSIG6	getmodifymethod modifi 
+VARSIG10	metadatadependencyregistri metadata depend registri metadatadependencyregistri metadata depend registri 
+MTHSIG7	getrandompersistententitymethod random persist entiti 
+MTHSIG0	dataondemandmetadata data demand metadata identifi javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata dataondemandannotationvalu data demand annot valu annotationvalu annot valu beaninfometadata bean info metadata beaninfometadata bean info metadata methodmetadata metadata identifieraccessor identifi accessor methodmetadata metadata findmethod find methodmetadata metadata findentriesmethod find entri methodmetadata metadata persistmethod persist metadataservic metadata servic metadataservic metadata servic metadatadependencyregistri metadata depend registri metadatadependencyregistri metadata depend registri 
+VARSIG16	javatyp type javatyp type 
+MTHSIG1	getcomponentannot compon annot 
+VARSIG15	javatyp type entiti 
+PACKAGE	springframework roo addon dod 
+MTHSIG2	iscomponentannotationintroduc compon annot introduc 
+VARSIG14	javatyp type entiti 
+MTHSIG3	getrndfield rnd field 
+VARSIG13	methodmetadata metadata mutatormethod mutat 
+MTHSIG20	isvalid valid metadataidentificationstr metadata identif 
+MTHSIG8	getspecificpersistententitymethod specif persist entiti 
+MTHSIG9	getinitmethod init 
+MTHSIG17	createidentifi creat identifi javatyp type javatyp type path path 
+MTHSIG18	getjavatyp type metadataidentificationstr metadata identif 
+MTHSIG15	tostr 
+MTHSIG16	getmetadataidentifertyp metadata identif type 
+MTHSIG13	getidentifierforbeaninfometadata identifi bean info metadata 
+MTHSIG14	getannotationvalu annot valu 
+MTHSIG11	getcollaboratingfieldnam collabor field javatyp type entiti 
+MTHSIG12	getcollaboratingtyp collabor type javatyp type entiti 
+CLASSES	dataondemandmetadata data demand metadata 
+METHODS	dataondemandmetadata data demand metadata getcomponentannot compon annot iscomponentannotationintroduc compon annot introduc getrndfield rnd field getdatafield data field getnewtransiententitymethod entiti getmodifymethod modifi getrandompersistententitymethod random persist entiti getspecificpersistententitymethod specif persist entiti getinitmethod init mutatordiscoveri mutat discoveri getcollaboratingfieldnam collabor field getcollaboratingtyp collabor type getidentifierforbeaninfometadata identifi bean info metadata getannotationvalu annot valu tostr getmetadataidentifertyp metadata identif type createidentifi creat identifi getjavatyp type getpath path isvalid valid 
+MTHSIG19	getpath path metadataidentificationstr metadata identif 
+VARSIG20	metadataidentificationstr metadata identif 
+MTHSIG10	mutatordiscoveri mutat discoveri 
+VARIABLES	identifi aspectnam aspect governorphysicaltypemetadata governor physic type metadata annotationvalu annot valu beaninfometadata bean info metadata identifieraccessor identifi accessor findmethod find findentriesmethod find entri persistmethod persist metadataservic metadata servic metadatadependencyregistri metadata depend registri entityneedingcollabor entiti need collabor mutat mutatormethod mutat entiti entiti javatyp type path metadataidentificationstr metadata identif metadataidentificationstr metadata identif metadataidentificationstr metadata identif type type annotationvalu annot valu beaninfometadata bean info metadata identifieraccessormethod identifi accessor findmethod find findentriesmethod find entri persistmethod persist mandatorymut mandatori mutat mutatorargu mutat argument requireddataondemandcollabor requir data demand collabor metadataservic metadata servic metadatadependencyregistri metadata depend registri fieldsaddedtoitd field collaboratortyp collabor type collaboratingfieldnam collabor field fieldsymbolnam field symbol candid annot field javatyp type javatyp type result fieldnam field fieldsymbolnam field symbol candid field fieldnam field typeparam type param fieldsymbolnam field symbol candid field methodnam paramtyp type paramnam name returntyp type usermethod user bodybuild bodi builder initi methodnam paramtyp type paramnam name returntyp type usermethod user bodybuild bodi builder methodnam paramtyp type paramnam name returntyp type usermethod user bodybuild bodi builder methodnam paramtyp type paramnam name returntyp type usermethod user bodybuild bodi builder methodnam paramtyp type paramnam name returntyp type usermethod user annot attribut bodybuild bodi builder datafield data field propertynam properti field initi collaboratingfieldnam collabor field otherprovid provid onetoon othermd tsc 

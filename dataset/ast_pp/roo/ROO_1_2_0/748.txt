@@ -1,0 +1,13 @@
+VARSIG2	file previousname previous
+COMMENTS	represents file notification message types file event notifications event link fileoperation file operation monitoring start file detected disk monitored event link fileoperation file operation monitoring finish file monitored longer monitored event link fileoperation file operation code file created updated deleted renamed file subject event file operation performed supported implementation resource implementations required support rename notifications file link fileoperation file operation renamed rename notification
+CLASSES	fileevent file event
+VARSIG1	fileoperation file operation operation
+VARSIG0	filedetails file details filedetails file details
+METHODS	fileevent file event getfiledetails file details getoperation operation getpreviousname previous tostring
+MTHSIG4	tostring
+MTHSIG0	fileevent file event filedetails file details filedetails file details fileoperation file operation operation file previousname previous
+MTHSIG1	getfiledetails file details
+PACKAGE	springframework roo file monitor event
+MTHSIG2	getoperation operation
+MTHSIG3	getpreviousname previous
+VARIABLES	filedetails file details operation previousname previous filedetails file details operation previousname previous tsc

@@ -1,0 +1,37 @@
+VARSIG7	ioexception exception
+VARSIG6	outputstream output stream
+VARSIG9	
+VARSIG8	ioexception exception
+VARSIG3	file
+VARSIG2	
+VARSIG5	inputstream input stream
+VARSIG4	file
+COMMENTS	simple utility methods file stream copying copy methods block size bytes close streams framework application code copy methods file copy contents input file output file file copy file copy number bytes copied ioexception exception errors copy contents array output file array copy file copy ioexception exception errors copy contents input file array file copy array copied ioexception exception errors copy methods inputstream input stream outputstream output stream copy contents inputstream input stream outputstream output stream closes streams stream copy stream copy number bytes copied ioexception exception errors copy contents array outputstream output stream closes stream array copy outputstream output stream copy ioexception exception errors copy contents inputstream input stream array closes stream stream copy array copied ioexception exception errors copy methods reader writer copy contents reader writer closes reader copy writer copy number characters copied ioexception exception errors copy contents output writer closes write copy writer copy ioexception exception errors copy contents reader closes reader reader copy copied ioexception exception errors copy contents file file file read copied ioexception exception errors
+VARSIG19	ioexception exception
+VARSIG1	file
+VARSIG18	writer
+VARSIG0	file
+VARSIG17	
+MTHSIG4	copy outputstream output stream
+VARSIG12	inputstream input stream
+MTHSIG5	copytobytearray copy array inputstream input stream
+VARSIG11	ioexception exception
+MTHSIG6	copy reader writer
+VARSIG10	outputstream output stream
+MTHSIG7	copy writer
+MTHSIG0	copy file file
+VARSIG16	ioexception exception
+MTHSIG1	copy file
+VARSIG15	ioexception exception
+PACKAGE	springframework roo support util
+MTHSIG2	copytobytearray copy array file
+VARSIG14	writer
+MTHSIG3	copy inputstream input stream outputstream output stream
+VARSIG13	reader
+MTHSIG8	copytostring copy reader
+MTHSIG9	copytostring copy file file
+CLASSES	filecopyutils file copy utils
+METHODS	copy copy copytobytearray copy array copy copy copytobytearray copy array copy copy copytostring copy copytostring copy
+VARSIG21	file file
+VARSIG20	reader
+VARIABLES	file buffer size instream stream outstream stream bytecount count buffer bytesread bytes read bytecount count buffer bytesread bytes read

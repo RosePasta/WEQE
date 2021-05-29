@@ -1,0 +1,9 @@
+MTHSIG0	getastext text
+MTHSIG1	setastext set text text
+PACKAGE	springframework roo file monitor
+COMMENTS	convenient link propertyeditor property editor link monitoringrequest monitoring request syntax expected editor fullyqualifiedname fully qualified fileoperationcodes file operation codes fullyqualifiedname fully qualified link file resolvable required fileoperationcodes file operation codes characters create rename update delete link fileoperation file operation required literal watch subtree valid fullyqualifiedname fully qualified link file resolvable directory optional directory object specification javadocs docs object
+CLASSES	monitoringrequesteditor monitoring request editor
+VARIABLES	ioe text req dmr segments file ops
+VARSIG1	text
+VARSIG0	ioexception exception ioe
+METHODS	getastext text setastext set text

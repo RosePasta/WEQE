@@ -1,0 +1,17 @@
+VARSIG7	requestingclass requesting
+VARSIG6	remove
+VARSIG3	changedid changed
+VARSIG2	javatype type javatype type
+VARSIG5	javatype type javatype type
+VARSIG4	itdtypedetailsid type details
+COMMENTS	implementation link itddiscoveryservice discovery service
+CLASSES	itddiscoveryserviceimpl discovery service impl
+VARSIG1	requestingclass requesting
+VARSIG0	itdtypedetails type details itdtypedetails type details
+METHODS	additdtypedetails add type details haveitdschanged itds changed removeitdtypedetails remove type details updatechanges update
+MTHSIG0	additdtypedetails add type details itdtypedetails type details itdtypedetails type details
+MTHSIG1	haveitdschanged itds changed requestingclass requesting javatype type javatype type
+PACKAGE	springframework roo classpath
+MTHSIG2	removeitdtypedetails remove type details itdtypedetailsid type details
+MTHSIG3	updatechanges update javatype type javatype type remove
+VARIABLES	itdtypedetails type details requestingclass requesting javatype type changedid changed itdtypedetailsid type details javatype type remove requestingclass requesting changemap change map itdidtotypemap type map typemap type map changessincelastrequest request type typedetailshashmap type details hash map

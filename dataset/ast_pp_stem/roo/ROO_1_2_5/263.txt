@@ -1,0 +1,21 @@
+MTHSIG13	getremovemethod remov 
+MTHSIG14	gettransactionmanag transact manag 
+MTHSIG11	getpersistenceunit persist unit 
+MTHSIG12	getpersistmethod persist 
+COMMENTS	pure crud valu pars link roojpaactiverecord roo jpa activ record annot constructor annotatedtyp annot type return prefix find entri find findfooentri find foo entri return custom finder name annot 
+CLASSES	jpacrudannotationvalu jpa crud annot valu 
+VARSIG0	memberholdingtypedetailsmetadataitem member hold type detail metadata item annotatedtyp annot type 
+METHODS	jpacrudannotationvalu jpa crud annot valu getclearmethod clear getcountmethod count getfindallmethod find getfindallsortedmethod find sort getfindentriesmethod find entri getfindentriessortedmethod find entri sort getfind finder getfindmethod find getflushmethod flush getmergemethod merg getpersistenceunit persist unit getpersistmethod persist getremovemethod remov gettransactionmanag transact manag 
+MTHSIG4	getfindallsortedmethod find sort 
+MTHSIG5	getfindentriesmethod find entri 
+MTHSIG6	getfindentriessortedmethod find entri sort 
+MTHSIG7	getfind finder 
+MTHSIG0	jpacrudannotationvalu jpa crud annot valu memberholdingtypedetailsmetadataitem member hold type detail metadata item annotatedtyp annot type 
+MTHSIG1	getclearmethod clear 
+PACKAGE	springframework roo addon jpa activerecord 
+MTHSIG2	getcountmethod count 
+MTHSIG3	getfindallmethod find 
+MTHSIG10	getmergemethod merg 
+VARIABLES	annotatedtyp annot type clearmethod clear countmethod count findallmethod find findentriesmethod find entri findallsortedmethod find sort findentriessortedmethod find entri sort finder findmethod find flushmethod flush mergemethod merg persistenceunit persist unit persistmethod persist removemethod remov transactionmanag transact manag 
+MTHSIG8	getfindmethod find 
+MTHSIG9	getflushmethod flush 

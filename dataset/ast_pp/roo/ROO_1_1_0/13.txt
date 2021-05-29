@@ -1,0 +1,49 @@
+MTHSIG4	createproject create project javapackage toplevelpackage top level type type description projectname project
+VARSIG34	exception
+MTHSIG5	installifneeded install needed targetfilename target filename javapackage toplevelpackage top level type type
+VARSIG33	packagepath path
+MTHSIG6	writetextfile write text file fullpathfromroot full path root message projectmetadata project metadata projectmetadata project metadata
+VARSIG32	locale locale
+MTHSIG7	installflaggraphic install flag graphic locale locale packagepath path
+VARSIG31	ioexception exception ioe
+MTHSIG0	iscommandavailable command
+MTHSIG1	createadvancedaddon create advanced addon javapackage toplevelpackage top level description projectname project
+PACKAGE	springframework roo addon creator
+MTHSIG2	createsimpleaddon create simple addon javapackage toplevelpackage top level description projectname project
+MTHSIG3	createi naddon create addon javapackage toplevelpackage top level language locale locale file messagebundle message bundle file flaggraphic flag graphic description projectname project
+VARSIG35	exception ignore
+VARSIG30	projectmetadata project metadata projectmetadata project metadata
+CLASSES	creatoroperationsimpl creator operations impl
+VARSIG29	message
+VARSIG28	fullpathfromroot full path root
+METHODS	iscommandavailable command createadvancedaddon create advanced addon createsimpleaddon create simple addon createi naddon create addon createproject create project installifneeded install needed writetextfile write text file installflaggraphic install flag graphic
+VARSIG23	exception
+VARSIG22	projectname project
+VARSIG21	description
+VARSIG20	type type
+VARSIG27	ioexception exception ioe
+VARSIG26	type type
+VARSIG25	javapackage toplevelpackage top level
+VARSIG24	targetfilename target filename
+VARSIG7	language
+VARSIG6	javapackage toplevelpackage top level
+VARSIG9	file messagebundle message bundle
+VARSIG8	locale locale
+VARSIG3	javapackage toplevelpackage top level
+VARSIG2	projectname project
+VARSIG5	projectname project
+VARSIG4	description
+COMMENTS	addon generation operations read template insert user user input input replace locale locale tostring output file user destination assembly xml destination configuration xml adjust roo annotation read template insert user user output file user retrieve icon file
+VARSIG19	javapackage toplevelpackage top level
+VARSIG1	description
+VARSIG18	ioexception exception ioe
+VARSIG0	javapackage toplevelpackage top level
+VARSIG17	ioexception exception
+VARSIG12	projectname project
+VARSIG11	description
+VARSIG10	file flaggraphic flag graphic
+VARSIG16	word
+VARSIG15	exception
+VARSIG14	ioexception exception
+VARSIG13	word
+VARIABLES	toplevelpackage top level description projectname project toplevelpackage top level description projectname project toplevelpackage top level language locale messagebundle message bundle flaggraphic flag graphic description projectname project word word ioe toplevelpackage top level type description projectname project targetfilename target filename toplevelpackage top level type ioe fullpathfromroot full path root message projectmetadata project metadata ioe locale packagepath path ignore filemanager file manager metadataservice metadata service pathresolver path resolver httpservice http service separator type split langwords lang langwords lang languagename language packagepath path destinationfile destination file templateinputstream template input stream input mutablefile mutable file pom rootelement root element pommutablefile pom mutable file projectmetadata project metadata tlp packagepath path filename file destinationfile destination file templateinputstream template input stream input mutablefile mutable file path file mutablefile mutable file input success countrycode country code bis zis entry expectedentryname expected entry size buffer target bos

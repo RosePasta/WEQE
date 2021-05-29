@@ -1,0 +1,30 @@
+VARSIG7	clioption cli option key scope mandatory scope dependency dependencyscope dependency scope scope
+VARSIG6	clioption cli option key classifier mandatory classifier dependency classifier
+VARSIG9	clioption cli option key artifactid artifact mandatory artifact dependency artifactid artifact
+VARSIG8	clioption cli option key groupid group mandatory group dependency groupid group
+VARSIG3	clioption cli option key groupid group mandatory group dependency groupid group
+VARSIG2	clioption cli option key mandatory forces major version auto detected unspecified integer majorjavaversion major version
+VARSIG5	clioption cli option key version mandatory version dependency version
+VARSIG4	clioption cli option key artifactid artifact mandatory artifact dependency artifactid artifact
+COMMENTS	shell commands link mavenoperations maven operations launch mvn commands
+VARSIG1	clioption cli option key projectname project mandatory project segment projectname project
+VARSIG0	clioption cli option key toplevelpackage top level mandatory optioncontext option context update uppermost groupid group maven roo roo shell javapackage toplevelpackage top level
+MTHSIG4	removedependency remove dependency groupid group artifactid artifact version classifier
+VARSIG12	clioption cli option key mavencommand maven command mandatory user maven command test test extra
+MTHSIG5	isperformcommandallowed perform command allowed
+VARSIG11	clioption cli option key classifier mandatory classifier dependency classifier
+MTHSIG6	runpackage
+VARSIG10	clioption cli option key version mandatory version dependency version
+MTHSIG7	runeclipse
+MTHSIG0	iscreateprojectavailable create project
+MTHSIG1	createproject create project javapackage toplevelpackage top level projectname project integer majorjavaversion major version
+PACKAGE	springframework roo project
+MTHSIG2	isdependencymodificationallowed dependency modification allowed
+MTHSIG3	adddependency add dependency groupid group artifactid artifact version classifier dependencyscope dependency scope scope
+MTHSIG8	runtest test
+MTHSIG9	runassembly assembly
+MTHSIG11	mvn extra
+CLASSES	mavencommands maven commands
+METHODS	iscreateprojectavailable create project createproject create project isdependencymodificationallowed dependency modification allowed adddependency add dependency removedependency remove dependency isperformcommandallowed perform command allowed runpackage runeclipse runtest test runassembly assembly runclean clean mvn
+MTHSIG10	runclean clean
+VARIABLES	toplevelpackage top level projectname project majorjavaversion major version groupid group artifactid artifact version classifier scope groupid group artifactid artifact version classifier extra mavenoperations maven operations

@@ -1,0 +1,17 @@
+VARSIG3	list abstractcom comment endcom comment 
+VARSIG2	list abstractcom comment begincom comment 
+VARSIG4	list abstractcom comment internalcom intern comment 
+COMMENTS	helper assist ad comment structur comment comment add linecom comment blockcom block comment javadoccom comment commentloc comment locat comment 
+CLASSES	commentstructur comment structur 
+VARSIG1	commentloc comment locat commentloc comment locat 
+VARSIG0	abstractcom comment comment 
+METHODS	addcom add comment getbegincom comment getendcom comment getinternalcom intern comment setbegincom set comment setendcom set comment setinternalcom set intern comment 
+MTHSIG4	setbegincom set comment list abstractcom comment begincom comment 
+MTHSIG5	setendcom set comment list abstractcom comment endcom comment 
+MTHSIG6	setinternalcom set intern comment list abstractcom comment internalcom intern comment 
+MTHSIG0	addcom add comment abstractcom comment comment commentloc comment locat commentloc comment locat 
+MTHSIG1	getbegincom comment 
+PACKAGE	springframework roo classpath detail comment 
+MTHSIG2	getendcom comment 
+MTHSIG3	getinternalcom intern comment 
+VARIABLES	comment commentloc comment locat begincom comment endcom comment internalcom intern comment commentloc comment locat begincom comment endcom comment internalcom intern comment 

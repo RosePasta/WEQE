@@ -1,0 +1,15 @@
+VARSIG3	valuechangeevent change event proxylistplace proxy list place event
+VARSIG2	placechangeevent place change event event
+VARSIG5	hasconstrainedvalue constrained proxylistplace proxy list place view
+VARSIG4	eventbus event bus eventbus event bus
+COMMENTS	drives link valuechangehandler change handler populated link proxylistplace proxy list place instances keeping sync link placecontroller place controller notion current place firing place change events selections
+CLASSES	proxylistplacepicker proxy list place picker
+VARSIG1	proxyplacetolistplace proxy place list place proxyplacetolistplace proxy place list place
+VARSIG0	placecontroller place controller placecontroller place controller
+METHODS	proxylistplacepicker proxy list place picker onplacechange place change onvaluechange change register
+MTHSIG0	proxylistplacepicker proxy list place picker placecontroller place controller placecontroller place controller proxyplacetolistplace proxy place list place proxyplacetolistplace proxy place list place
+MTHSIG1	onplacechange place change placechangeevent place change event event
+PACKAGE	top level client scaffold place
+MTHSIG2	onvaluechange change valuechangeevent change event proxylistplace proxy list place event
+MTHSIG3	register eventbus event bus eventbus event bus hasconstrainedvalue constrained proxylistplace proxy list place view
+VARIABLES	placecontroller place controller proxyplacetolistplace proxy place list place event event eventbus event bus view view placecontroller place controller proxyplacetolistplace proxy place list place placeregistration place registration viewregistration view registration

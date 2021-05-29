@@ -1,0 +1,66 @@
+VARSIG39	javatype type type
+MTHSIG4	getplural plural javatype type javatype type metadataidentificationstring metadata identification
+VARSIG34	methodmetadata metadata
+MTHSIG5	isrooidentifier roo identifier javatype type javatype type memberdetails member details memberdetails member details
+VARSIG33	methodmetadata metadata
+MTHSIG6	isenumtype type javatype type javatype type metadataservice metadata service metadataservice metadata service
+VARSIG32	metadataidentificationstring metadata identification
+MTHSIG7	isapplicationtype application type javatype type javatype type
+VARSIG31	memberdetails member details memberdetails member details
+MTHSIG0	getrelatedapplicationtypemetadata application type metadata javatype type javatype type memberdetails member details memberdetails member details metadataidentificationstring metadata identification
+VARSIG38	metadataidentificationstring metadata identification
+MTHSIG1	getdependentapplicationtypemetadata dependent application type metadata javatype type javatype type memberdetails member details memberdetails member details metadataidentificationstring metadata identification
+VARSIG37	memberdetails member details memberdetails member details
+PACKAGE	springframework roo addon web mvc controller details
+MTHSIG2	getscaffoldeligiblefieldmetadata scaffold eligible field metadata javatype type javatype type memberdetails member details memberdetails member details metadataidentificationstring metadata identification
+VARSIG36	javatype type javatype type
+MTHSIG3	getjavatypepersistencemetadatadetails type persistence metadata details javatype type javatype type memberdetails member details memberdetails member details metadataidentificationstring metadata identification
+VARSIG35	javatypepersistencemetadatadetails type persistence metadata details javatypepersistencemetadatadetails type persistence metadata details
+MTHSIG8	getdatepatterns patterns javatype type javatype type memberdetails member details memberdetails member details metadataidentificationstring metadata identification
+VARSIG30	javatype type javatype type
+MTHSIG9	getdynamicfindermethodsandfields dynamic finder methods fields javatype type javatype type memberdetails member details memberdetails member details metadataidentificationstring metadata identification
+CLASSES	webmetadataserviceimpl web metadata service impl
+VARSIG29	finder
+VARSIG28	methodmetadata metadata
+METHODS	getrelatedapplicationtypemetadata application type metadata getdependentapplicationtypemetadata dependent application type metadata getscaffoldeligiblefieldmetadata scaffold eligible field metadata getjavatypepersistencemetadatadetails type persistence metadata details getplural plural isrooidentifier roo identifier isenumtype type isapplicationtype application type getdatepatterns patterns getdynamicfindermethodsandfields dynamic finder methods fields ispersistenceidentifierorversionmethod persistence identifier version getjavatypemetadatadetails type metadata details getcontrollerpathfortype controller path type registerdependency register dependency getmemberdetails member details
+VARSIG23	metadataservice metadata service metadataservice metadata service
+VARSIG22	javatype type javatype type
+VARSIG21	memberdetails member details memberdetails member details
+VARSIG20	javatype type javatype type
+VARSIG27	metadataidentificationstring metadata identification
+VARSIG26	memberdetails member details memberdetails member details
+VARSIG25	javatype type javatype type
+VARSIG24	javatype type javatype type
+VARSIG7	metadataidentificationstring metadata identification
+VARSIG6	memberdetails member details memberdetails member details
+VARSIG9	javatype type javatype type
+VARSIG8	methodmetadata metadata
+VARSIG3	methodmetadata metadata
+VARSIG2	metadataidentificationstring metadata identification
+VARSIG5	javatype type javatype type
+VARSIG4	javatype type generictype type
+COMMENTS	implementation link webmetadataservice web metadata service retrieve metadata web scaffolding add ons interested accessor methods interested persitence identifiers version fields interested fields jpa fields immutable fields interested accessors enumerated target field memberfindingutils member finding utils getannotationoftype annotation type details getannotations annotations javatype type javax persistence enumerated interested accessors interested fields exposed mutator accessor identifiers version fields
+VARSIG19	metadataidentificationstring metadata identification
+VARSIG1	memberdetails member details memberdetails member details
+VARSIG18	javatype type javatype type
+VARSIG0	javatype type javatype type
+VARSIG17	memberholdingtypedetails member holding type details mhtd
+VARSIG12	methodmetadata metadata
+VARSIG11	metadataidentificationstring metadata identification
+VARSIG10	memberdetails member details memberdetails member details
+VARSIG16	fieldmetadata field metadata field
+VARSIG15	metadataidentificationstring metadata identification
+VARSIG14	memberdetails member details memberdetails member details
+VARSIG13	javatype type javatype type
+MTHSIG13	registerdependency register dependency upstreamdependency upstream dependency downstreamdependency stream dependency
+MTHSIG14	getmemberdetails member details javatype type javatype type
+MTHSIG11	getjavatypemetadatadetails type metadata details javatype type javatype type memberdetails member details memberdetails member details metadataidentificationstring metadata identification
+MTHSIG12	getcontrollerpathfortype controller path type javatype type type metadataidentificationstring metadata identification
+VARSIG45	javatype type javatype type
+VARSIG44	downstreamdependency stream dependency
+VARSIG43	upstreamdependency upstream dependency
+VARSIG42	annotationmetadata annotation metadata annotation
+MTHSIG10	ispersistenceidentifierorversionmethod persistence identifier version methodmetadata metadata javatypepersistencemetadatadetails type persistence metadata details javatypepersistencemetadatadetails type persistence metadata details
+VARIABLES	javatype type memberdetails member details metadataidentificationstring metadata identification generictype type javatype type memberdetails member details metadataidentificationstring metadata identification javatype type memberdetails member details metadataidentificationstring metadata identification javatype type memberdetails member details metadataidentificationstring metadata identification field mhtd javatype type metadataidentificationstring metadata identification javatype type memberdetails member details javatype type metadataservice metadata service javatype type javatype type memberdetails member details metadataidentificationstring metadata identification finder javatype type memberdetails member details metadataidentificationstring metadata identification javatypepersistencemetadatadetails type persistence metadata details javatype type memberdetails member details metadataidentificationstring metadata identification type metadataidentificationstring metadata identification coitd annotation upstreamdependency upstream dependency downstreamdependency stream dependency javatype type logger memberdetailsscanner member details scanner metadatadependencyregistry metadata dependency registry metadataservice metadata service typelocationservice type location service specialtypes special types javatypemetadatadetails type metadata details javatypepersistencemetadatadetails type persistence metadata details fieldmetadata field metadata type generictypememberdetails type member details typememberdetails type member details dependenttypes dependent types type field typememberdetails type member details javatypepersistencemetadataholder type persistence metadata holder fields propertyname property field javatypepersistencemetadatadetails type persistence metadata details idfields fields compositepkfields composite fields identifierfield identifier field identifieraccessor identifier accessor versionaccessor version accessor persistmethod persist removemethod remove mergemethod merge findallmethod find findmethod find countmethod count findentriesmethod find entries dynamicfindernames dynamic finder names pluralmetadatakey plural metadata key pluralmetadata plural metadata physicaltypemetadata physical type metadata details dates javatypepersistencemetadatadetails type persistence metadata details type fieldname field fieldmetadata field metadata annotation patternsymbol pattern symbol stylesymbol style symbol datetimeformat time format findermetadatadetails finder metadata details findermetadatakey finder metadata key findermetadata finder metadata paramnames names paramtypes types fields fieldname field field fieldmd field details webscaffoldmetadatakey web scaffold metadata key webscaffoldmetadata web scaffold metadata roowebscaffold roo web scaffold formbackingobject form backing object formbackingobjectvalue form backing object physicaltypemetadata physical type metadata classorinterfacedetails details
+VARSIG41	classorinterfacetypedetails type details coitd
+VARSIG40	metadataidentificationstring metadata identification

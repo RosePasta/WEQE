@@ -1,0 +1,29 @@
+VARSIG7	clioption cli option key mandatory path controller object created javatype type controller
+VARSIG6	clioption cli option key preferredmapping preferred mapping mandatory specific request mapping path controller foo preferredmapping preferred mapping
+VARSIG9	clioption cli option key backup mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified backup application replacing existing tag library backup
+VARSIG8	clioption cli option key preferredmapping preferred mapping mandatory specific request mapping path controller foo preferredmapping preferred mapping
+VARSIG3	clioption cli option key code mandatory language code desired bundle
+VARSIG2	clioption cli option key title mandatory title view title
+VARSIG5	clioption cli option key mandatory path controller object created javatype type controller
+VARSIG4	clioption cli option key code mandatory language code desired bundle
+COMMENTS	commands web add roo shell
+VARSIG1	clioption cli option key viewname view mandatory view mapping view adopt required viewname view
+VARSIG0	clioption cli option key path mandatory path view create required foo blah path
+MTHSIG4	lang
+VARSIG12	clioption cli option key title mandatory title view title
+MTHSIG5	language
+VARSIG11	clioption cli option key viewname view mandatory view mapping view adopt required viewname view
+MTHSIG6	newcontroller controller javatype type controller preferredmapping preferred mapping
+VARSIG10	clioption cli option key path mandatory path view create required foo blah path
+MTHSIG7	newmvcartifact mvc artifact javatype type controller preferredmapping preferred mapping
+MTHSIG0	installview install view path viewname view title
+MTHSIG1	iscontrollerclassavailable controller
+PACKAGE	springframework roo addon web mvc jsp
+MTHSIG2	isinstalllanguageavailable install language
+MTHSIG3	isprojectavailable project
+MTHSIG8	update backup
+MTHSIG9	view path viewname view title
+CLASSES	jspcommands jsp commands
+METHODS	installview install view iscontrollerclassavailable controller isinstalllanguageavailable install language isprojectavailable project lang language newcontroller controller newmvcartifact mvc artifact update view webmvcsetup web mvc setup
+MTHSIG10	webmvcsetup web mvc setup
+VARIABLES	path viewname view title controller preferredmapping preferred mapping controller preferredmapping preferred mapping backup path viewname view title logger jspoperations jsp operations pathresolver path resolver

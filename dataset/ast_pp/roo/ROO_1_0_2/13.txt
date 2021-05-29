@@ -1,0 +1,36 @@
+VARSIG7	encoding
+VARSIG6	port
+VARSIG9	password
+VARSIG8	username
+VARSIG3	projectoperations project operations projectoperations project operations
+VARSIG2	metadataservice metadata service metadataservice metadata service
+VARSIG5	mailprotocol mail protocol protocol
+VARSIG4	hostserver host server
+COMMENTS	email configuration operations physical type mutable details create content user started
+VARSIG19	javasymbolname symbol fieldname field
+VARSIG1	pathresolver path resolver pathresolver path resolver
+VARSIG18	javatype type targettype target type
+VARSIG0	filemanager file manager filemanager file manager
+VARSIG17	ioexception exception ioe
+MTHSIG4	configuretemplatemessage configure template message subject
+VARSIG12	ioexception exception ioe
+MTHSIG5	injectemailtemplate inject email template javatype type targettype target type javasymbolname symbol fieldname field
+VARSIG11	exception
+MTHSIG6	updatedependencies update dependencies
+VARSIG10	ioexception exception ioe
+MTHSIG7	getpathresolver path resolver
+MTHSIG0	mailoperations mail operations filemanager file manager filemanager file manager pathresolver path resolver pathresolver path resolver metadataservice metadata service metadataservice metadata service projectoperations project operations projectoperations project operations
+VARSIG16	exception
+MTHSIG1	isinstallemailavailable install email
+VARSIG15	ioexception exception ioe
+PACKAGE	springframework roo addon email
+MTHSIG2	ismanageemailavailable manage email
+VARSIG14	subject
+MTHSIG3	installemail install email hostserver host server mailprotocol mail protocol protocol port encoding username password
+VARSIG13	
+CLASSES	mailoperations mail operations
+METHODS	mailoperations mail operations isinstallemailavailable install email ismanageemailavailable manage email installemail install email configuretemplatemessage configure template message injectemailtemplate inject email template updatedependencies update dependencies getpathresolver path resolver
+VARSIG22	element dependency
+VARSIG21	exception
+VARSIG20	exception
+VARIABLES	filemanager file manager pathresolver path resolver metadataservice metadata service projectoperations project operations hostserver host server protocol port encoding username password ioe ioe subject ioe ioe targettype target type fieldname field dependency filemanager file manager pathresolver path resolver metadataservice metadata service projectoperations project operations emailpropspath email props path databasemutablefile database mutable file props contextpath context path contextmutablefile context mutable file appctx app ctx root installdependencies install dependencies mailbean mail bean property pelement element pelement element pelement element pelement element pelement element javamailproperties mail properties securityprops security props prop prop prop emailpropspath email props path databasemutablefile database mutable file props contextpath context path contextmutablefile context mutable file appctx app ctx root smmbean smm bean smmproperty smm property smmproperty smm property modifier annotations fieldmetadata field metadata ptm ptd mutabletypedetails mutable type details contextpath context path contextmutablefile context mutable file appctx app ctx root smmbean smm bean bodybuilder body builder declaredbymetadataid declared metadata smmannotations smm annotations paramtypes types paramnames names smmfieldmetadata smm field metadata templateinputstream template input stream dependencydoc dependency doc dependencieselement dependencies element dependencies projectmetadata project metadata

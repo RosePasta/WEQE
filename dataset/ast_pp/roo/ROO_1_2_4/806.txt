@@ -1,0 +1,20 @@
+VARSIG3	keyid key
+VARSIG2	pgpsignature pgp signature signature
+VARSIG5	object obj
+VARSIG4	pgpkeyid pgp key
+COMMENTS	represents digit hexadecimal key starts uppercase uppercase shouldn
+CLASSES	pgpkeyid pgp key
+VARSIG1	pgppublickey pgp key keyid key
+VARSIG0	keyid key
+METHODS	pgpkeyid pgp key pgpkeyid pgp key pgpkeyid pgp key pgpkeyid pgp key compareto compare equals getid hashcode hash code tostring
+MTHSIG4	compareto compare pgpkeyid pgp key
+MTHSIG5	equals object obj
+MTHSIG6	getid
+MTHSIG7	hashcode hash code
+MTHSIG0	pgpkeyid pgp key keyid key
+MTHSIG1	pgpkeyid pgp key pgppublickey pgp key keyid key
+PACKAGE	springframework roo felix pgp
+MTHSIG2	pgpkeyid pgp key pgpsignature pgp signature signature
+MTHSIG3	pgpkeyid pgp key keyid key
+VARIABLES	keyid key keyid key signature keyid key obj mask
+MTHSIG8	tostring

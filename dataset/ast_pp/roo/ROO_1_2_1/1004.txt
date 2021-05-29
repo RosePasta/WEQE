@@ -1,0 +1,29 @@
+VARSIG7	logrecord log record record
+VARSIG6	shellpromptaccessor shell prompt accessor shellpromptaccessor shell prompt accessor
+VARSIG9	logrecord log record record
+VARSIG8	exception
+VARSIG3	include
+VARSIG2	str
+VARSIG5	consolereader console reader reader
+VARSIG4	suppressduplicatemessages suppress duplicate messages
+COMMENTS	jdk logging link handler emits log messages jline link consolereader console reader text brighter requested system property roo bright works issue windows reverse combination jansi lib leaves negative flag set reset explicitly patched ansibuffer ansi buffer color code add bright code roo avoid repeating message displayed current message roo roo user semi typed debug message separated cancel typed reset appears empty ensures displayed redrawing restore formatting settings original build event indent nicely left hand side thread
+VARSIG1	code
+VARSIG0	str
+MTHSIG4	resetmessagetracking reset message tracking
+MTHSIG5	setincludethreadname set include thread include
+VARSIG11	logrecord log record event
+MTHSIG6	setsuppressduplicatemessages set suppress duplicate messages suppressduplicatemessages suppress duplicate messages
+VARSIG10	exception
+MTHSIG7	jlineloghandler log handler consolereader console reader reader shellpromptaccessor shell prompt accessor shellpromptaccessor shell prompt accessor
+MTHSIG0	cancelredrawprohibition cancel redraw prohibition
+MTHSIG1	getansibuffer ansi buffer
+PACKAGE	springframework roo shell jline
+MTHSIG2	issuppressduplicatemessages suppress duplicate messages
+MTHSIG3	prohibitredraw prohibit redraw
+MTHSIG8	close
+MTHSIG9	flush
+MTHSIG11	todisplay display logrecord log record event
+CLASSES	jlineloghandler log handler
+METHODS	cancelredrawprohibition cancel redraw prohibition getansibuffer ansi buffer issuppressduplicatemessages suppress duplicate messages prohibitredraw prohibit redraw resetmessagetracking reset message tracking setincludethreadname set include thread setsuppressduplicatemessages set suppress duplicate messages jlineloghandler log handler close flush publish todisplay display
+MTHSIG10	publish logrecord log record record
+VARIABLES	str code str include suppressduplicatemessages suppress duplicate messages reader shellpromptaccessor shell prompt accessor record record event bright colors includethreadname include thread lastmessage message redrawprohibit redraw prohibit suppressduplicatemessages suppress duplicate messages esc ansisupported ansi supported reader shellpromptaccessor shell prompt accessor userinterfacethreadname user thread todisplay display buffer cursor prohibitingredraw prohibiting redraw threadname thread eventstring event lineseparatorandindentingstring separator indenting

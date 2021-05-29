@@ -1,0 +1,12 @@
+MTHSIG0	getaction action caseinsensitivekey insensitive key
+MTHSIG1	getallactions actions
+VARSIG2	action action
+PACKAGE	springframework roo addon tailor service
+MTHSIG2	bindaction bind action action action
+MTHSIG3	unbindaction unbind action action action
+COMMENTS	locates actions osgi services type link action map actions osgi container bound dynamically felix simple names values respective osgi services
+CLASSES	defaultactionlocator action locator
+VARIABLES	caseinsensitivekey insensitive key action action actionsmap actions map actionclassname action actionclassname action
+VARSIG1	action action
+VARSIG0	caseinsensitivekey insensitive key
+METHODS	getaction action getallactions actions bindaction bind action unbindaction unbind action

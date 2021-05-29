@@ -1,0 +1,16 @@
+VARSIG3	undoenabled undo enabled
+VARSIG2	undolistener undo listener undolistener undo listener
+COMMENTS	ability undo file system note complexities file system provide full access file lock api simplify coding implementations file system effort basis designs rely robust guaranteed fail safe undo semantics registers undoable operation link stack undoableoperation undoable operation register link stack required replays undo link stack guarantees clear link stack operation returns link undoableoperation undoable operation undo remainder link stack executing command guarantees link stack empty element undone reset link undoableoperation undoable operation link stack undone resets undo link stack guarantees clear link stack executing command guarantees link stack empty element reset caller wishes link undomanager undo manager flush contents exact meaning flush implementation dependent guaranteed change undo stack simply notify link undolistener undo listener undolistener undo listener registers undo listener required undolistener undo listener removes registered undo listener required undoenabled undo enabled enables disables undo feature debugging defaults
+CLASSES	undomanager undo manager
+VARSIG1	undolistener undo listener undolistener undo listener
+VARSIG0	undoableoperation undoable operation undoableoperation undoable operation
+METHODS	add undo reset flush addundolistener add undo listener removeundolistener remove undo listener setundoenabled set undo enabled
+MTHSIG4	addundolistener add undo listener undolistener undo listener undolistener undo listener
+MTHSIG5	removeundolistener remove undo listener undolistener undo listener undolistener undo listener
+MTHSIG6	setundoenabled set undo enabled undoenabled undo enabled
+MTHSIG0	add undoableoperation undoable operation undoableoperation undoable operation
+MTHSIG1	undo
+PACKAGE	springframework roo file undo
+MTHSIG2	reset
+MTHSIG3	flush
+VARIABLES	undoableoperation undoable operation undolistener undo listener undolistener undo listener undoenabled undo enabled

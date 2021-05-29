@@ -1,0 +1,33 @@
+VARSIG7	memberholdingtypedetails member holding type details holder
+VARSIG6	javasymbolname symbol propertyname property
+VARSIG9	javasymbolname symbol fieldname field
+VARSIG8	fieldmetadata field metadata field
+VARSIG3	memberdetails member details memberdetails member details
+VARSIG2	javatype type fieldtype field type
+VARSIG5	memberdetails member details memberdetails member details
+VARSIG4	methodmetadata metadata
+COMMENTS	utility methods querying javabeans beans returns accessor field field field determine accessor accessor returns accessor field field type fieldname field field determine accessor fieldtype field type field type accessor attempts locate field represented presented bean javabean bean getter setter backs field identical cases returned memberdetails member details member holders scan required required field attempts locate field represented presented property javabean bean getter setter backs field identical cases returned memberdetails member details member holders scan required propertyname property property required field couldn find property exact scan lowercase character roo returns mutator field field field determine accessor mutator returns mutator field fieldname field field determine accessor mutator obtains property javabean bean accessor mutator determined discarding letters depending set special searching actual field search required set property returned attempts locate accessor mutator field javabean bean getter setter backs field identical cases returned field member holders scan required memberdetails member details member details scan accessor mutator presented compiles javabean bean conventions accessor methods set evaluate required presented accessor determines presented entity test entity type test entity test presented compiles javabean bean conventions mutator methods set arg evaluate required presented mutator constructor prevent instantiation
+VARSIG1	javasymbolname symbol fieldname field
+VARSIG0	fieldmetadata field metadata field
+MTHSIG4	getmutatormethodname mutator fieldmetadata field metadata field
+VARSIG12	memberdetails member details memberdetails member details
+MTHSIG5	getmutatormethodname mutator javasymbolname symbol fieldname field
+VARSIG11	fieldmetadata field metadata field
+MTHSIG6	getpropertynameforjavabeanmethod property bean methodmetadata metadata
+VARSIG10	methodmetadata metadata
+MTHSIG7	hasaccessorandmutator accessor mutator fieldmetadata field metadata field memberdetails member details memberdetails member details
+MTHSIG0	getaccessormethodname accessor fieldmetadata field metadata field
+MTHSIG1	getaccessormethodname accessor javasymbolname symbol fieldname field javatype type fieldtype field type
+VARSIG15	methodmetadata metadata
+PACKAGE	springframework roo classpath details
+MTHSIG2	getfieldforjavabeanmethod field bean memberdetails member details memberdetails member details methodmetadata metadata
+VARSIG14	javatype type entity
+MTHSIG3	getfieldforpropertyname field property memberdetails member details memberdetails member details javasymbolname symbol propertyname property
+VARSIG13	methodmetadata metadata
+MTHSIG8	isaccessormethod accessor methodmetadata metadata
+MTHSIG9	isentityreasonablynamed entity named javatype type entity
+MTHSIG11	beaninfoutils bean info utils
+CLASSES	beaninfoutils bean info utils
+METHODS	getaccessormethodname accessor getaccessormethodname accessor getfieldforjavabeanmethod field bean getfieldforpropertyname field property getmutatormethodname mutator getmutatormethodname mutator getpropertynameforjavabeanmethod property bean hasaccessorandmutator accessor mutator isaccessormethod accessor isentityreasonablynamed entity named ismutatormethod mutator beaninfoutils bean info utils
+MTHSIG10	ismutatormethod mutator methodmetadata metadata
+VARIABLES	field fieldname field fieldtype field type memberdetails member details memberdetails member details propertyname property holder field fieldname field field memberdetails member details entity capitalizedfieldname capitalized field propertyname property result

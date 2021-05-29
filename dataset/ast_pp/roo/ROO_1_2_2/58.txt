@@ -1,0 +1,22 @@
+VARSIG7	jndidatasource jndi data source
+VARSIG6	sqlexception sql exception
+VARSIG9	displayaddons display add ons
+VARSIG8	map map
+VARSIG3	displayaddons display add ons
+VARSIG2	map map
+VARSIG5	displayaddons display add ons
+VARSIG4	properties props
+COMMENTS	implementation link connectionprovider connection provider properties user password required connection
+CLASSES	connectionproviderimpl connection provider impl
+VARSIG1	sqlexception sql exception
+VARSIG0	connection connection
+METHODS	closeconnection close connection getconnection connection getconnection connection getconnectionviajndidatasource connection jndi data source getprops props
+MTHSIG4	getprops props map map
+VARSIG11	map map
+VARSIG10	exception
+MTHSIG0	closeconnection close connection connection connection
+MTHSIG1	getconnection connection map map displayaddons display add ons
+PACKAGE	springframework roo addon dbre jdbc
+MTHSIG2	getconnection connection properties props displayaddons display add ons
+MTHSIG3	getconnectionviajndidatasource connection jndi data source jndidatasource jndi data source map map displayaddons display add ons
+VARIABLES	connection map displayaddons display add ons props displayaddons display add ons jndidatasource jndi data source map displayaddons display add ons map password user jdbcdrivermanager jdbc driver manager driverclassname driver driver context datasource data source props

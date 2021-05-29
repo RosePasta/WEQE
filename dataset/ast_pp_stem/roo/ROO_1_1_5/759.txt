@@ -1,0 +1,37 @@
+VARSIG7	ioexcept except 
+VARSIG6	outputstream output stream 
+VARSIG9	 
+VARSIG8	ioexcept except 
+VARSIG3	file 
+VARSIG2	 
+VARSIG5	inputstream input stream 
+VARSIG4	file 
+COMMENTS	simpl util method file stream copi copi method block size byte close stream framework applic code copi method file copi content input file output file file copi file copi number byte copi ioexcept except error copi content arrai output file arrai copi file copi ioexcept except error copi content input file arrai file copi arrai copi ioexcept except error copi method inputstream input stream outputstream output stream copi content inputstream input stream outputstream output stream close stream stream copi stream copi number byte copi ioexcept except error copi content arrai outputstream output stream close stream arrai copi outputstream output stream copi ioexcept except error copi content inputstream input stream arrai close stream stream copi arrai copi ioexcept except error copi method reader writer copi content reader writer close reader copi writer copi number charact copi ioexcept except error copi content output writer close write copi writer copi ioexcept except error copi content reader close reader reader copi copi ioexcept except error copi content file file file read copi ioexcept except error 
+VARSIG19	ioexcept except 
+VARSIG1	file 
+VARSIG18	writer 
+VARSIG0	file 
+VARSIG17	 
+MTHSIG4	copi outputstream output stream 
+VARSIG12	inputstream input stream 
+MTHSIG5	copytobytearrai copi arrai inputstream input stream 
+VARSIG11	ioexcept except 
+MTHSIG6	copi reader writer 
+VARSIG10	outputstream output stream 
+MTHSIG7	copi writer 
+MTHSIG0	copi file file 
+VARSIG16	ioexcept except 
+MTHSIG1	copi file 
+VARSIG15	ioexcept except 
+PACKAGE	springframework roo support util 
+MTHSIG2	copytobytearrai copi arrai file 
+VARSIG14	writer 
+MTHSIG3	copi inputstream input stream outputstream output stream 
+VARSIG13	reader 
+MTHSIG8	copytostr copi reader 
+MTHSIG9	copytostr copi file file 
+CLASSES	filecopyutil file copi util 
+METHODS	copi copi copytobytearrai copi arrai copi copi copytobytearrai copi arrai copi copi copytostr copi copytostr copi 
+VARSIG21	file file 
+VARSIG20	reader 
+VARIABLES	file buffer size instream stream outstream stream bytecount count buffer bytesread byte read bytecount count buffer bytesread byte read 

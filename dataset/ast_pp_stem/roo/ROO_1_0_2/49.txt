@@ -1,0 +1,42 @@
+VARSIG7	element depend 
+VARSIG6	except 
+VARSIG9	depend depend 
+VARSIG8	element plugin 
+VARSIG3	metadataservic metadata servic metadataservic metadata servic 
+VARSIG2	filemonitorservic file monitor servic filemonitorservic file monitor servic 
+VARSIG5	metadataidentificationstr metadata identif 
+VARSIG4	metadatadependencyregistri metadata depend registri metadatadependencyregistri metadata depend registri 
+COMMENTS	link projectmetadata project metadata simplic oper implement ship roo support link projectmetadata project metadata rebuild demand expect metadataservic metadata servic cach behalf read file project top level build depend list build build plugin depend list xml don jar add exclus defin add execut defin happen pom don notifi shut happen interest evict cach entri metadataservic metadata servic remov element identifi depend occur path loop theoret declar pom 
+VARSIG19	projecttyp project type projecttyp project type 
+VARSIG1	filemanag file manag filemanag file manag 
+VARSIG18	depend depend 
+VARSIG0	pathresolv path resolv pathresolv path resolv 
+VARSIG17	goal 
+MTHSIG4	removedepend remov depend depend depend 
+VARSIG12	depend depend 
+MTHSIG5	addbuildplugindepend add build plugin depend depend depend execut execut 
+VARSIG11	depend exclus 
+MTHSIG6	removebuildplugindepend remov build plugin depend depend depend 
+VARSIG10	except 
+MTHSIG7	updateprojecttyp updat project type projecttyp project type projecttyp project type 
+MTHSIG0	mavenprojectmetadataprovid maven project metadata provid pathresolv path resolv pathresolv path resolv filemanag file manag filemanag file manag filemonitorservic file monitor servic filemonitorservic file monitor servic metadataservic metadata servic metadataservic metadata servic metadatadependencyregistri metadata depend registri metadatadependencyregistri metadata depend registri 
+VARSIG16	execut execut 
+MTHSIG1	metadataidentificationstr metadata identif 
+VARSIG15	except 
+PACKAGE	springframework roo addon maven 
+MTHSIG2	getprovidestyp type 
+VARSIG14	execut execut 
+MTHSIG3	adddepend add depend depend depend 
+VARSIG13	depend depend 
+MTHSIG8	onfileev file event fileev file event fileev file event 
+MTHSIG9	removedepend remov depend depend depend containingpath path path 
+CLASSES	mavenprojectmetadataprovid maven project metadata provid 
+METHODS	mavenprojectmetadataprovid maven project metadata provid getprovidestyp type adddepend add depend removedepend remov depend addbuildplugindepend add build plugin depend removebuildplugindepend remov build plugin depend updateprojecttyp updat project type onfileev file event removedepend remov depend 
+VARSIG23	containingpath path 
+VARSIG22	depend depend 
+VARSIG21	fileev file event fileev file event 
+VARSIG20	except 
+VARSIG26	element candid 
+VARSIG25	except 
+VARSIG24	path 
+VARIABLES	pathresolv path resolv filemanag file manag filemonitorservic file monitor servic metadataservic metadata servic metadatadependencyregistri metadata depend registri metadataidentificationstr metadata identif depend plugin depend exclus depend depend execut execut goal depend projecttyp project type fileev file event depend containingpath path path candid type pathresolv path resolv filemanag file manag metadataservic metadata servic metadatadependencyregistri metadata depend registri pom inputstream input stream document rootel root element artifactidel artifact element artifactid artifact projectnam project groupidel group element toplevelpackagestr top level toplevelpackag top level depend buildplugindepend build plugin depend mutablefil mutabl file document rootel root element depend depel dep element groupid group artifactid artifact version type exclus exclusionsel exclus element exclusionel exclus element exclusionid exclus exclusionartifactid exclus artifact mutablefil mutabl file document rootel root element plugin pluginel plugin element groupid group artifactid artifact version executionsel execut element executionel execut element executionid execut goalsel goal element goalel goal element mutablefil mutabl file document packag mutablefil mutabl file document rootel root element depend 

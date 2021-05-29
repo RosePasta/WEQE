@@ -1,0 +1,29 @@
+VARSIG7	proxy
+VARSIG6	eventbus event bus eventbus event bus
+VARSIG9	wait
+VARSIG8	suppresswarnings suppress warnings unused saved
+VARSIG3	ignore
+VARSIG2	serverfailure server failure error
+VARSIG5	acceptsonewidget accepts widget display
+VARSIG4	set violation errors
+COMMENTS	activity editing record subclasses provide access request fired save clicked instances reusable activity stopped restarted type proxy edited callbacks editordriver editor driver stopped midflight warnings maystop defeat ischanged changed check defeat call flight check called create request save request context fire save button clicked called user cancels saved implementation tells link placecontroller place controller details edited record saved comitted user canceled proxy edited mutable typically call link requestcontext request context edit entityproxy entity proxy link requestcontext request context create type matches proxy type waiting rpc response waiting response poke setters proxy call editordriver editor driver flush set waiting flag warn disable view
+VARSIG1	placecontroller place controller placecontroller place controller
+VARSIG0	proxyeditview proxy edit view view
+MTHSIG4	onstop
+MTHSIG5	saveclicked save clicked
+MTHSIG6	start acceptsonewidget accepts widget display eventbus event bus eventbus event bus
+MTHSIG7	createsaverequest create save request proxy
+MTHSIG0	abstractproxyeditactivity proxy edit activity proxyeditview proxy edit view view placecontroller place controller placecontroller place controller
+MTHSIG1	cancelclicked cancel clicked
+PACKAGE	top level client scaffold place
+MTHSIG2	maystop
+MTHSIG3	oncancel cancel
+MTHSIG8	exit saved
+MTHSIG9	getproxy proxy
+MTHSIG13	setwaiting set waiting wait
+MTHSIG11	changed
+MTHSIG12	iswaiting waiting
+CLASSES	abstractproxyeditactivity proxy edit activity
+METHODS	abstractproxyeditactivity proxy edit activity cancelclicked cancel clicked maystop oncancel cancel onstop saveclicked save clicked start createsaverequest create save request exit getproxy proxy getproxyid proxy changed iswaiting waiting setwaiting set waiting
+MTHSIG10	getproxyid proxy
+VARIABLES	view placecontroller place controller error ignore errors display eventbus event bus proxy saved wait view placecontroller place controller editordriver editor driver waiting unsavedchangeswarning unsaved warning request

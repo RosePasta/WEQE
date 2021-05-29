@@ -1,0 +1,17 @@
+VARSIG2	 
+COMMENTS	user googl app engin authent framework gae authent uniqu user servic base hash user object 
+CLASSES	gaeuserinform gae user 
+VARSIG1	redirecturl redirect url 
+VARSIG0	redirecturl redirect url 
+METHODS	getcurrentuserinform current user gaeuserinform gae user getemail email getid getloginurl login url getlogouturl logout url getnam isuserloggedin user log setid set 
+MTHSIG4	getloginurl login url 
+MTHSIG5	getlogouturl logout url 
+MTHSIG6	getnam 
+MTHSIG7	isuserloggedin user log 
+MTHSIG0	getcurrentuserinform current user redirecturl redirect url 
+MTHSIG1	gaeuserinform gae user redirecturl redirect url 
+PACKAGE	top level server 
+MTHSIG2	getemail email 
+MTHSIG3	getid 
+VARIABLES	redirecturl redirect url redirecturl redirect url userservic user servic user user user 
+MTHSIG8	setid set 

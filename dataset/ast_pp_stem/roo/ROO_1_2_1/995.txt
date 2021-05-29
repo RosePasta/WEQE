@@ -1,0 +1,116 @@
+MTHSIG4	complet buffer cursor list candid 
+VARSIG78	 
+MTHSIG5	completeadvanc complet advanc buffer cursor list complet candid 
+VARSIG77	 
+MTHSIG6	getavailabilityind avail indic command 
+VARSIG76	methodtarget target 
+MTHSIG7	getcliopt cli option annot parameterannot paramet annot 
+VARSIG75	kei 
+MTHSIG0	ismatch match buffer command strictmatch strict match 
+MTHSIG1	add commandmark command marker command 
+MTHSIG2	add convert convert 
+MTHSIG3	commandnotfound command logger logger buffer 
+VARSIG79	rawinput raw input 
+VARSIG70	rawinput raw input 
+MTHSIG8	geteverycommand command 
+VARSIG74	annot 
+MTHSIG9	getspecifiedunavailableopt unavail option set clioption cli option clioption cli option map option 
+VARSIG73	annot annot 
+VARSIG72	 
+VARSIG71	clioption cli option kei command optioncontext option context availablecommand command command provid buffer 
+METHODS	ismatch match add add commandnotfound command complet completeadvanc complet advanc getavailabilityind avail indic getcliopt cli option geteverycommand command getspecifiedunavailableopt unavail option helpreferenceguid refer guid locatetarget locat target normalis obtainhelp pars collectiontodelimitedstr collect delimit remov remov 
+VARSIG67	 
+VARSIG66	 
+VARSIG65	commandmark command marker command 
+VARSIG64	checkavailabilityind check avail indic 
+VARSIG69	 
+VARSIG68	except 
+VARSIG63	strictmatch strict match 
+VARSIG62	buffer 
+VARSIG61	ioexcept except ioe 
+VARSIG60	element 
+COMMENTS	implement link parser word buffer let word match match ensur intend match repres start command word valid match match earlier ensur didn skip word user skip word match word command abort left match word unrecognis command abort match match remov space command replac multipl space singl space includ portion buffer repres cursor posit start locat match match buffer thei present assist locat target calcul correct start posit add word target singl target provid complet servic identifi command work reason attempt pars remainingbuff remain buffer assum illegalargumentexcept illeg argument except quotat mark mismatch lookup argument target aren paramet ensur type command properli space there command haven paramet verifi command fulli complet type command provid complet fail fulli fail command fulli quit finish command argument requir clicommand cli command valid command record clioption cli option applic command list clioption cli option thei includ system list clioption cli option determin thei present edit option kei option full partial option kei edit item option map option kei thei edit handl find option option order declar signatur mandatori option fill handl suggest option kei haven present thei complet full option kei pair option kei pair full option kei pair let list option user natur skip option that manual determin mandatori unspecifieddefaultvalu unspecifi requir option bound find target paramet paramet store invok usabl convert convert happi bother user enter data handl normal mandatori option abort point suggest complet option handl complet option kei thei present type haven option form there space buffer type option kei type option kei option left lookup relev clioption cli option appli lastoptionkei option kei paramet type let convert usabl convert doesn custom convert let provid default simpl type provid simpl option common type includ candid compat buffer provid suggest lastoptionvalu option add result haven type add result thei type compat haven type full roo inlin option there multipl choic user press tab explicit option valu present space onward comput section output nice order build appendix build syntax list store order option kei option kei text figur kei empti need store detail includ mandatori syntax variabl list element figur option store individu command error report xml parser multipl notat linespecif determin duplic creat docbook doc book transform setoutputproperti set output properti outputkei output doctyp oasi dtd docbook doc book xml transform setoutputproperti set output properti outputkei output doctyp system http oasi open docbook xml docbookx dtd reflect optimis good cach reflect notic human cli clicommand cli command decid clicommand cli command moment loop ensur conflict avail indic defin skip clicommand cli command normalis raw user input readi pars rawinput raw input normalis can replac multipl space singl space trim figur there singl command offer singl command argument convers time offer singl argument normal oper locat applic target match buffer let offer inform messag user command simpli unavail point time argument convers time convert argument attempt pars user care ensur singl alia ensur user mandatori accept user option didn provid accept user didn option special token denot sought valu readi perform convers usabl convert todo fall normal simpletypeconvert simpl type convert attempt convers simpletypeconvert simpl type convert simpletypeconvert simpl type convert simpletypeconvert simpl type convert result simpletypeconvert simpl type convert convertifnecessari convert requiredtyp requir type convert option mandatori result check option user unavail command 
+VARSIG19	 
+VARSIG18	 
+VARSIG17	illegalargumentexcept illeg argument except 
+VARSIG12	complet complet 
+VARSIG11	list candid 
+VARSIG10	cursor 
+VARSIG16	methodtarget target target 
+VARSIG15	list complet candid 
+VARSIG14	cursor 
+VARSIG13	buffer 
+VARSIG92	convert convert 
+VARSIG91	cmd 
+VARSIG90	 
+MTHSIG17	remov convert convert 
+MTHSIG15	collectiontodelimitedstr collect delimit collect coll delim prefix suffix 
+MTHSIG16	remov commandmark command marker command 
+MTHSIG13	obtainhelp buffer 
+MTHSIG14	pars rawinput raw input 
+MTHSIG11	locatetarget locat target buffer strictmatch strict match checkavailabilityind check avail indic 
+MTHSIG12	normalis rawinput raw input 
+VARSIG89	commandmark command marker command 
+VARSIG88	suffix 
+VARSIG87	prefix 
+VARSIG86	delim 
+VARSIG81	clioption cli option clioption cli option 
+MTHSIG10	helpreferenceguid refer guid 
+VARSIG80	illegalargumentexcept illeg argument except 
+VARIABLES	buffer command strictmatch strict match command cmd convert logger buffer buffer cursor candid complet buffer cursor candid target annot option includ includ includ candid notyetreadi readi option kei candid currentvalu current command parameterannot paramet annot annot annot clioption cli option option clioption cli option kei suppliedopt suppli option pathnam target entri ann otherkei kei optionkei option kei ioe buffer strictmatch strict match checkavailabilityind check avail indic command rawinput raw input buffer annot kei rawinput raw input clioption cli option possiblekei kei candid coll delim prefix suffix command cmd convert compar logger commandword command lastcommandwordus command word buffertoreturn buffer lastword word bufferindex buffer buffersofarincludingthi buffer includ bufferremain buffer remain bufferlastindexofword buffer word wordsofarincludingthi word includ candid availabilityind avail indic command convert mutex avail complet result translat target startat start stopat methodtarget target cmd option parameterannot paramet annot clioption cli option clioption cli option alreadyspecifi unspecifi lastoptionkei option kei lastoptionvalu option showallremain remain paramtyp type completionvalu complet parametertyp paramet type option parametertyp paramet type allvalu valu suffix addspac add space prefix suggest clioption cli option clioption cli option result method cmd clioptionkeyset cli option kei set unavailableopt unavail option exist section method cmd sectionnam matcher builder document builtsect built section target individualcommand individu command method cmd cmdsyntax cmd syntax optionkei option optiondetail option detail option kei variablelistel variabl list element anyvar var proglist prog list safenam safe element topsect top appendix bytearrayoutputstream arrai output stream transform output result cmd remainingbuff remain buffer matchingtarget match target methodtarget target parameterannot paramet annot cmd clioption cli option result cmd input matchingtarget match target methodtarget target parameterannot paramet annot argument option clioption cli option requiredtyp requir type result sourcedfrom sourc messag result unavailableopt unavail option messag avail 
+VARSIG85	collect coll 
+VARSIG84	runtimeexcept runtim except 
+VARSIG83	convert candid 
+VARSIG82	possiblekei kei 
+VARSIG39	annot parameterannot paramet annot 
+VARSIG34	 
+VARSIG33	clioption cli option option 
+VARSIG32	runtimeexcept runtim except notyetreadi readi 
+VARSIG31	annot 
+VARSIG38	command 
+VARSIG37	complet currentvalu current 
+PACKAGE	springframework roo shell 
+VARSIG36	convert candid 
+VARSIG35	kei 
+VARSIG30	annot 
+CLASSES	simplepars simpl parser 
+VARSIG29	convert candid 
+VARSIG28	 
+VARSIG23	 
+VARSIG22	clioption cli option option 
+VARSIG21	annot 
+VARSIG20	annot annot 
+VARSIG27	clioption cli option includ 
+VARSIG26	 
+VARSIG25	clioption cli option includ 
+VARSIG24	clioption cli option includ 
+VARSIG7	logger logger 
+VARSIG6	convert convert 
+VARSIG9	buffer 
+VARSIG8	buffer 
+VARSIG3	commandmark command marker command 
+VARSIG2	strictmatch strict match 
+VARSIG5	cmd 
+VARSIG4	 
+VARSIG1	command 
+VARSIG0	buffer 
+VARSIG56	annot 
+VARSIG55	annot ann 
+VARSIG54	 
+VARSIG53	entri object entri 
+VARSIG59	element 
+VARSIG58	optionkei option kei 
+VARSIG57	otherkei kei 
+VARSIG52	 
+VARSIG51	object target 
+VARSIG50	file 
+VARSIG45	map option 
+VARSIG44	set clioption cli option clioption cli option 
+VARSIG43	 
+VARSIG42	object 
+VARSIG49	file pathnam 
+VARSIG48	suppliedopt suppli option 
+VARSIG47	kei 
+VARSIG46	clioption cli option clioption cli option 
+VARSIG41	annot annot 
+VARSIG40	annot annot 

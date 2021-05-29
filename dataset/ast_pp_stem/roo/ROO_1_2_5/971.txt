@@ -1,0 +1,20 @@
+MTHSIG13	testpomishigherthanwar test pom higher war 
+MTHSIG14	testwarishigherthanjar test war higher jar 
+MTHSIG11	testjarisnothigherthanwar test jar higher war 
+MTHSIG12	testnulldependencydoesnothavesamecoordin test depend coordin 
+COMMENTS	unit test link depend set invok check set invok check set invok check set invok check set invok check set invok check set invok check set invok check set invok check 
+CLASSES	dependencytest depend test 
+METHODS	testaddexclus test add exclus testconstructfromgav test construct gav testconstructwithcustomtypeandscop test construct custom type scope testdependencieswithdifferentversionsarenotequ test depend version equal testdependencieswithdifferentversionshavesamecoordin test depend version coordin testdependencieswithsameversionareequ test depend version equal testdependencieswithsameversionhavesamecoordin test depend version coordin testearishigherthanjar test ear higher jar testearishigherthanwar test ear higher war testgetelementforminimaldepend test element minim depend testjarisnothigherthanitself test jar higher testjarisnothigherthanwar test jar higher war testnulldependencydoesnothavesamecoordin test depend coordin testpomishigherthanwar test pom higher war testwarishigherthanjar test war higher jar 
+MTHSIG4	testdependencieswithdifferentversionshavesamecoordin test depend version coordin 
+MTHSIG5	testdependencieswithsameversionareequ test depend version equal 
+MTHSIG6	testdependencieswithsameversionhavesamecoordin test depend version coordin 
+MTHSIG7	testearishigherthanjar test ear higher jar 
+MTHSIG0	testaddexclus test add exclus 
+MTHSIG1	testconstructfromgav test construct gav 
+PACKAGE	springframework roo project 
+MTHSIG2	testconstructwithcustomtypeandscop test construct custom type scope 
+MTHSIG3	testdependencieswithdifferentversionsarenotequ test depend version equal 
+MTHSIG10	testjarisnothigherthanitself test jar higher 
+VARIABLES	depend artifact depend group depend version exclus artifact exclus group expect element minim depend depend originalexclusioncount origin exclus count mockgav mock gav depend depend depend depend depend depend equal depend depend depend depend depend depend depend depend equal depend depend depend depend depend element depend 
+MTHSIG8	testearishigherthanwar test ear higher war 
+MTHSIG9	testgetelementforminimaldepend test element minim depend 

@@ -1,0 +1,28 @@
+VARSIG7	path path 
+VARSIG6	javatyp type javatyp type 
+VARSIG9	javatyp type control 
+VARSIG8	metadataid metadata 
+VARSIG3	javatyp type aspectnam aspect 
+VARSIG2	metadataidentificationstr metadata identif 
+VARSIG5	itdfilenam filenam 
+VARSIG4	physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+COMMENTS	metadata provid link conversionservicemetadata convers servic metadata monitor notif link rooconversionservic roo convers servic link roowebscaffold roo web scaffold annot type listen scaffold domain type domain type helper method 
+VARSIG1	componentcontext compon context context 
+VARSIG0	componentcontext compon context context 
+MTHSIG4	getprovidestyp type 
+VARSIG12	javatypewrapp type wrapper domainjavatyp domain type 
+MTHSIG5	createlocalidentifi creat local identifi javatyp type javatyp type path path 
+VARSIG11	metadataid metadata 
+MTHSIG6	getgovernorphysicaltypeidentifi governor physic type identifi metadataid metadata 
+VARSIG10	linkedhashset link hash set javatypewrapp type wrapper domainjavatyp domain type 
+MTHSIG7	findformbackingobjecttyp find form back object type 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	deactiv componentcontext compon context context 
+PACKAGE	springframework roo addon web mvc control 
+MTHSIG2	getmetadata metadata metadataidentificationstr metadata identif javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata itdfilenam filenam 
+MTHSIG3	getitduniquenessfilenamesuffix uniqu filenam suffix 
+VARSIG13	javatypewrapp type wrapper relatedtyp type 
+MTHSIG8	registerdepend regist depend linkedhashset link hash set javatypewrapp type wrapper domainjavatyp domain type metadataid metadata 
+CLASSES	conversionservicemetadataproviderimpl convers servic metadata provid impl 
+METHODS	activ deactiv getmetadata metadata getitduniquenessfilenamesuffix uniqu filenam suffix getprovidestyp type createlocalidentifi creat local identifi getgovernorphysicaltypeidentifi governor physic type identifi findformbackingobjecttyp find form back object type registerdepend regist depend 
+VARIABLES	context context metadataidentificationstr metadata identif aspectnam aspect governorphysicaltypemetadata governor physic type metadata itdfilenam filenam javatyp type path metadataid metadata control domainjavatyp domain type metadataid metadata domainjavatyp domain type relatedtyp type logger typelocationservic type locat servic roojavatyp roo type javatyp type path roowebscaffold roo web scaffold formbackingobject form back object control annot javatyp type issuccess success relateddomaintyp domain type 

@@ -1,0 +1,43 @@
+VARSIG7	key
+VARSIG6	propertyfilename property filename
+VARSIG9	path propertyfilepath property file path
+VARSIG8	
+VARSIG3	
+VARSIG2	key
+VARSIG5	path propertyfilepath property file path
+VARSIG4	sorted
+COMMENTS	link propfileoperationsimpl prop file operations impl property throwing exception file exist propertyfilepath property file path location property file required propertyfilename property filename property file path required key property key update required sorted properties sorted alphabetically property set property key required property throwing exception file exist propertyfilepath property file path location property file required propertyfilename property filename property file path required key property key update required property set property key required adds property key exist propertyfilepath property file path location property file required propertyfilename property filename property file path required key property key update required property set property key required adds property key exist propertyfilepath property file path location property file required propertyfilename property filename property file path required key property key update required property set property key required sorted properties sorted alphabetically removes property throwing exception file exist propertyfilepath property file path location property file required propertyfilename property filename property file path required key property key remove required retrieves property returning property file exist propertyfilepath property file path location property file required propertyfilename property filename property file path required key property key retrieve required property property file requested property exist retrieves property property throwing exception file exist propertyfilepath property file path location property file required propertyfilename property filename property file path required includevalues include values appends thevalue returned property file exist retrieves property key pairs property throwing exception file exist propertyfilepath property file path location property file required propertyfilename property filename property file path required key pairs property file exist
+VARSIG19	propertyfilename property filename
+VARSIG1	propertyfilename property filename
+VARSIG18	path propertyfilepath property file path
+VARSIG0	path propertyfilepath property file path
+VARSIG17	sorted
+MTHSIG4	addpropertyifnotexists add property exists path propertyfilepath property file path propertyfilename property filename key sorted
+VARSIG12	
+MTHSIG5	removeproperty remove property path propertyfilepath property file path propertyfilename property filename key
+VARSIG11	key
+MTHSIG6	getproperty property path propertyfilepath property file path propertyfilename property filename key
+VARSIG10	propertyfilename property filename
+MTHSIG7	getpropertykeys property path propertyfilepath property file path propertyfilename property filename includevalues include values
+MTHSIG0	ispropertiescommandavailable properties command
+VARSIG16	
+MTHSIG1	changeproperty change property path propertyfilepath property file path propertyfilename property filename key sorted
+VARSIG15	key
+PACKAGE	springframework roo addon propfiles
+MTHSIG2	changeproperty change property path propertyfilepath property file path propertyfilename property filename key
+VARSIG14	propertyfilename property filename
+MTHSIG3	addpropertyifnotexists add property exists path propertyfilepath property file path propertyfilename property filename key
+VARSIG13	path propertyfilepath property file path
+MTHSIG8	getproperties properties path propertyfilepath property file path propertyfilename property filename
+CLASSES	propfileoperations prop file operations
+VARSIG28	propertyfilename property filename
+METHODS	ispropertiescommandavailable properties command changeproperty change property changeproperty change property addpropertyifnotexists add property exists addpropertyifnotexists add property exists removeproperty remove property getproperty property getpropertykeys property getproperties properties
+VARSIG23	key
+VARSIG22	propertyfilename property filename
+VARSIG21	path propertyfilepath property file path
+VARSIG20	key
+VARSIG27	path propertyfilepath property file path
+VARSIG26	includevalues include values
+VARSIG25	propertyfilename property filename
+VARSIG24	path propertyfilepath property file path
+VARIABLES	propertyfilepath property file path propertyfilename property filename key sorted propertyfilepath property file path propertyfilename property filename key propertyfilepath property file path propertyfilename property filename key propertyfilepath property file path propertyfilename property filename key sorted propertyfilepath property file path propertyfilename property filename key propertyfilepath property file path propertyfilename property filename key propertyfilepath property file path propertyfilename property filename includevalues include values propertyfilepath property file path propertyfilename property filename

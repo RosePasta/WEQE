@@ -1,0 +1,30 @@
+VARSIG7	metadataidentificationstring metadata identification
+VARSIG6	evictcache evict cache
+VARSIG9	upstreamdependency upstream dependency
+VARSIG8	metadataidentificationstring metadata identification
+VARSIG3	metadataprovider metadata provider provider
+VARSIG2	metadatadependencyregistry metadata dependency registry metadatadependencyregistry metadata dependency registry
+VARSIG5	metadataidentificationstring metadata identification
+VARSIG4	metadataidentificationstring metadata identification
+COMMENTS	implementation link metadataservice metadata service implementation thread safe accessed single thread time enforced process manager semantics avoid cost synchronization key metadata identification provider cache destination appears valid key valid provider let eviction requested item item isn evict cache cache isn destination provider consume notification contract provider handle notification delegate rely provider evict items cache applicable contract ensure evict item recreate destination instance meaningful operation contract notify listeners downstream instance changed clear cache verifies argument valid time delegate relevant metadata provider evict downstream dependencies metadata depended evicted metadata clear cache clear caches metadata providers support
+VARSIG1	metadataprovider metadata provider
+VARSIG0	metadataprovider metadata provider
+MTHSIG4	metadataidentificationstring metadata identification evictcache evict cache
+VARSIG12	downstream
+MTHSIG5	metadataidentificationstring metadata identification
+VARSIG11	metadataidentificationstring metadata identification
+MTHSIG6	getregisteredprovider registered provider metadataidentificationstring metadata identification
+VARSIG10	downstreamdependency downstream dependency
+MTHSIG7	notify upstreamdependency upstream dependency downstreamdependency downstream dependency
+MTHSIG0	defaultmetadataservice metadata service metadatadependencyregistry metadata dependency registry metadatadependencyregistry metadata dependency registry
+MTHSIG1	register metadataprovider metadata provider provider
+PACKAGE	springframework roo metadata internal
+MTHSIG2	deregister metadataidentificationstring metadata identification
+MTHSIG3	getregisteredproviders registered providers
+VARSIG13	metadataprovider metadata provider
+MTHSIG8	evict metadataidentificationstring metadata identification
+MTHSIG9	evictall evict
+CLASSES	defaultmetadataservice metadata service
+METHODS	defaultmetadataservice metadata service register deregister getregisteredproviders registered providers getregisteredprovider registered provider notify evict evictall evict tostring
+MTHSIG10	tostring
+VARIABLES	metadatadependencyregistry metadata dependency registry provider metadataidentificationstring metadata identification metadataidentificationstring metadata identification evictcache evict cache metadataidentificationstring metadata identification metadataidentificationstring metadata identification upstreamdependency upstream dependency downstreamdependency downstream dependency metadataidentificationstring metadata identification downstream providers sortedproviders sorted providers metadatadependencyregistry metadata dependency registry validgets valid cacheputs cache puts cachehits cache hits cachemisses cache misses cacheevictions cache evictions mid existing result mdclassid result mdclassid mdclassid tsc

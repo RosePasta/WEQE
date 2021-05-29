@@ -1,0 +1,12 @@
+MTHSIG0	setauthenticationmanag set authent manag authenticationmanag authent manag authenticationmanag authent manag 
+VARSIG3	filterchain filter chain chain 
+MTHSIG1	dofilt filter servletrequest servlet request request servletrespons servlet respons respons filterchain filter chain chain 
+VARSIG2	servletrespons servlet respons respons 
+PACKAGE	top level segment 
+VARSIG4	authenticationexcept authent except 
+COMMENTS	 
+CLASSES	googleauthenticationfilt googl authent filter 
+VARIABLES	authenticationmanag authent manag request respons chain authenticationmanag authent manag ad authenticationfailurehandl authent failur handler userservic user servic authent user email token 
+VARSIG1	servletrequest servlet request request 
+VARSIG0	authenticationmanag authent manag authenticationmanag authent manag 
+METHODS	setauthenticationmanag set authent manag dofilt filter 

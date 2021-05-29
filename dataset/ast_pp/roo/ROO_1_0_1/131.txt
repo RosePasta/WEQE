@@ -1,0 +1,24 @@
+VARSIG7	javatype type type
+VARSIG6	methodmetadata metadata
+VARSIG9	annotationmetadata annotation metadata
+VARSIG8	javatype type type
+VARSIG3	privilegedaspect privileged aspect
+VARSIG2	javatype type aspect
+VARSIG5	fieldmetadata field metadata
+VARSIG4	constructormetadata constructor metadata
+COMMENTS	assists building link itdtypedetails type details instance methods include constructor accept arguments automatically ignore attempt add link identifiablemember identifiable member link declaredbymetadataid declared metadata instance constructed addition accepts link invocablemembermetadata invocable member metadata verify link invocablemembermetadata invocable member metadata getbody body detects programming errors result requesting member included providing actual executable body member prefer users defaultitdtypedetails type details getbuilder builder immutable link defaultitdtypedetails type details representing current builder
+CLASSES	defaultitdtypedetailsbuilder type details builder
+VARSIG1	classorinterfacetypedetails type details governor
+VARSIG0	declaredbymetadataid declared metadata
+METHODS	defaultitdtypedetailsbuilder type details builder build getimportregistrationresolver registration resolver addconstructor add constructor addfield add field addmethod add addextendstype add type addimplementstype add type addtypeannotation add type annotation
+MTHSIG4	addfield add field fieldmetadata field metadata
+MTHSIG5	addmethod add methodmetadata metadata
+MTHSIG6	addextendstype add type javatype type type
+MTHSIG7	addimplementstype add type javatype type type
+MTHSIG0	defaultitdtypedetailsbuilder type details builder declaredbymetadataid declared metadata classorinterfacetypedetails type details governor javatype type aspect privilegedaspect privileged aspect
+MTHSIG1	build
+PACKAGE	springframework roo classpath details
+MTHSIG2	getimportregistrationresolver registration resolver
+MTHSIG3	addconstructor add constructor constructormetadata constructor metadata
+VARIABLES	declaredbymetadataid declared metadata governor aspect privilegedaspect privileged aspect type type declaredbymetadataid declared metadata governor aspect privilegedaspect privileged aspect importregistrationresolver registration resolver declaredconstructors declared constructors declaredfields declared fields declaredmethods declared methods extendstypes types implementstypes types typeannotations type annotations
+MTHSIG8	addtypeannotation add type annotation annotationmetadata annotation metadata

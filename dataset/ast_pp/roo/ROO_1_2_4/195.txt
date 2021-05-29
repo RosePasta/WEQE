@@ -1,0 +1,15 @@
+VARSIG3	
+VARSIG2	requestevent request event handler handler
+VARSIG4	handler handler
+COMMENTS	event posted rpc request response received implemented handlers type event called link requestevent request event fired requestevent request event link requestevent request event instance request register link requestevent request event handler link eventbus event bus eventbus event bus link eventbus event bus handler link requestevent request event handler link handlerregistration handler registration instance constructs link requestevent request event link instance returns link event link instance
+CLASSES	requestevent request event
+VARSIG1	eventbus event bus eventbus event bus
+VARSIG0	requestevent request event requestevent request event
+METHODS	register requestevent request event getassociatedtype type getstate dispatch
+MTHSIG4	dispatch handler handler
+MTHSIG0	register eventbus event bus eventbus event bus requestevent request event handler handler
+MTHSIG1	requestevent request event
+PACKAGE	top level client scaffold request
+MTHSIG2	getassociatedtype type
+MTHSIG3	getstate
+VARIABLES	requestevent request event eventbus event bus handler handler type

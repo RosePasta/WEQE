@@ -1,0 +1,34 @@
+VARSIG7	exception
+VARSIG6	idprefix prefix
+VARSIG9	list allowedfindermenuids allowed finder menu ids
+VARSIG8	javasymbolname symbol menucategoryname menu category
+VARSIG3	menuitemlabel menu item label
+VARSIG2	javasymbolname symbol menuitemid menu item
+VARSIG5	link
+VARSIG4	globalmessagecode global message code
+COMMENTS	generates jsp menu management menu items addition menu categories menu items category menu item identifier exists overwritten replaced addons determine category menu item identifiers clashes addons recommended category identifier naming convention addon intention category intention represents identifier diffentiate categories addon recommended menu item identifier naming convention addon intention menu item menucategoryname menu category identifier menu category required menuitemid menu item menu item identifier required menuitemlabel menu item label menu item label required globalmessagecode global message code global message code link menu item link required idprefix prefix prefix menu item optional menuoperations menu operations menu item prefix root element menu menu identifier allowing decorations menu check existence menu category indentifier exists create check existence menu item indentifier find menu items category starts menuitemidprefix menu item prefix attempts locate menu item remove menucategoryname menu category identifier menu category required menuitemname menu item menu item identifier required idprefix prefix prefix menu item optional menuoperations menu operations menu item prefix find menu item category exists disk changed updated created mutablefile mutable file write contents jspcontent jsp content file build representation jsp write file file existing file contents wrote file file existed contained content
+VARSIG19	exception
+VARSIG1	javasymbolname symbol menucategoryname menu category
+VARSIG18	exception
+VARSIG0	componentcontext component context context
+VARSIG17	exception
+MTHSIG4	getmenufile menu file
+VARSIG12	javasymbolname symbol menucategoryname menu category
+MTHSIG5	writetodiskifnecessary write disk document proposed
+VARSIG11	element element
+VARSIG10	exception
+MTHSIG0	activate componentcontext component context context
+VARSIG16	exception
+MTHSIG1	addmenuitem add menu item javasymbolname symbol menucategoryname menu category javasymbolname symbol menuitemid menu item menuitemlabel menu item label globalmessagecode global message code link idprefix prefix
+VARSIG15	exception
+PACKAGE	springframework roo addon web mvc jsp menu
+MTHSIG2	cleanupfindermenuitems clean finder menu items javasymbolname symbol menucategoryname menu category list allowedfindermenuids allowed finder menu ids
+VARSIG14	idprefix prefix
+MTHSIG3	cleanupmenuitem clean menu item javasymbolname symbol menucategoryname menu category javasymbolname symbol menuitemname menu item idprefix prefix
+VARSIG13	javasymbolname symbol menuitemname menu item
+CLASSES	menuoperationsimpl menu operations impl
+METHODS	activate addmenuitem add menu item cleanupfindermenuitems clean finder menu items cleanupmenuitem clean menu item getmenufile menu file writetodiskifnecessary write disk
+VARSIG22	ioexception exception ioe
+VARSIG21	exception
+VARSIG20	document proposed
+VARIABLES	context menucategoryname menu category menuitemid menu item menuitemlabel menu item label globalmessagecode global message code link idprefix prefix menucategoryname menu category allowedfindermenuids allowed finder menu ids element menucategoryname menu category menuitemname menu item idprefix prefix proposed ioe filemanager file manager pathresolver path resolver propfileoperations prop file operations menufile menu file document rootelement root element rootmenu root menu category menuitem menu item document elements document element original mutablefile mutable file bytearrayoutputstream array output stream jspcontent jsp content

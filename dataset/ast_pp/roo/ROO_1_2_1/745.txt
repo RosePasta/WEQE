@@ -1,0 +1,14 @@
+VARSIG3	methodparameter parameter parameters
+VARSIG2	
+COMMENTS	unit test link membertypeadditions member type additions asserts link membertypeadditions member type additions buildmethodcall build call util iterator builds expected call parameters expectedmethodcall expected call target parameternames parameter names set invoke check
+CLASSES	membertypeadditionstest member type additions test
+VARSIG1	target
+VARSIG0	expectedmethodcall expected call
+METHODS	assertmethodcall call testgetinvokedfieldwhenbuilderisnull test invoked field builder testgetmethodcallwithblanktargetandnoparameters test call blank target parameters testgetmethodcallwithblanktargetandtwoparameters test call blank target parameters testgetmethodcallwithtargetandnoparameters test call target parameters
+MTHSIG4	testgetmethodcallwithtargetandnoparameters test call target parameters
+MTHSIG0	assertmethodcall call expectedmethodcall expected call target methodparameter parameter parameters
+MTHSIG1	testgetinvokedfieldwhenbuilderisnull test invoked field builder
+PACKAGE	springframework roo classpath layers
+MTHSIG2	testgetmethodcallwithblanktargetandnoparameters test call blank target parameters
+MTHSIG3	testgetmethodcallwithblanktargetandtwoparameters test call blank target parameters
+VARIABLES	expectedmethodcall expected call target parameters membertypeadditions member type additions firstnameparameter parameter lastnameparameter parameter

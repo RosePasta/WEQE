@@ -1,0 +1,16 @@
+VARSIG2	responsibleclass respons 
+COMMENTS	simplifi creation nest event log metadata time statist intend concurr link metadatadependencyregistri metadata depend registri link metadataservic metadata servic metadata time simplest oper metadata provid invok link metadatalogg metadata logger identifi metadata provid respons commenc time link starttim start timer metadata provid free perform work includ call metadata metadata request link starttim start timer invoc place metadata provid complet work link stoptim timer call aggreg time link gettim time metadata log log place link startev start event invok definit event vari gener seri log call event event start call link log log messag associ activ event event conclud link stopev event call nest automat handl implement success start event call indent log output log output correctli report correl event caller invok link log suitabl link gettracelevel trace level desir user call start call failur observ requir lead except stack manag invalid detect implement free store metadata log output file file creat call link log snapshot time statist collat empti activ trace level major event event log messag event identifi messag log requir enabl level trace event deliveri default level trace level major event event increment current stack level current stack level determin indent log messag requir increment link decrementlevel decrement level invok start timer count respons timer eventu link stoptim timer time ceas count respons link starttim start timer invok responsibleclass respons respons time requir decrement current stack level stop start timer mandatori revers order timer start timer stop updat time 
+CLASSES	metadatalogg metadata logger 
+VARSIG1	trace 
+VARSIG0	messag 
+METHODS	gettim time gettracelevel trace level log settracelevel set trace level startev start event starttim start timer stopev event stoptim timer 
+MTHSIG4	startev start event 
+MTHSIG5	starttim start timer responsibleclass respons 
+MTHSIG6	stopev event 
+MTHSIG7	stoptim timer 
+MTHSIG0	gettim time 
+MTHSIG1	gettracelevel trace level 
+PACKAGE	springframework roo metadata 
+MTHSIG2	log messag 
+MTHSIG3	settracelevel set trace level trace 
+VARIABLES	messag trace responsibleclass respons 

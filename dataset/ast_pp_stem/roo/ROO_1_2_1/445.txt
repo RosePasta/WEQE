@@ -1,0 +1,14 @@
+VARSIG3	actionconfig action config config 
+VARSIG2	commandtransform command transform command 
+VARSIG5	actionconfig action config config 
+VARSIG4	commandtransform command transform command 
+COMMENTS	perform actual action applic logic process variabl config 
+CLASSES	abstractact action 
+VARSIG1	actionconfig action config config 
+VARSIG0	commandtransform command transform command 
+METHODS	execut executeimpl execut impl processconfigattribut process config attribut 
+MTHSIG0	execut commandtransform command transform command actionconfig action config config 
+MTHSIG1	executeimpl execut impl commandtransform command transform command actionconfig action config config 
+PACKAGE	springframework roo addon tailor action 
+MTHSIG2	processconfigattribut process config attribut commandtransform command transform command actionconfig action config config 
+VARIABLES	command config command config command config logger processedconfig process config processedconfig process config attribut keyiter kei iter kei processedvalu process 

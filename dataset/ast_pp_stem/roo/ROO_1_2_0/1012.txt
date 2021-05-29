@@ -1,0 +1,150 @@
+MTHSIG28	getmostspecificmethod specif targetclass target 
+MTHSIG29	isoverrid overrid targetclass target 
+MTHSIG26	getmethodcountfornam count clazz methodnam 
+MTHSIG27	hasatleastonemethodwithnam clazz methodnam 
+MTHSIG24	hasmethod clazz methodnam parametertyp paramet type 
+MTHSIG25	getmethodifavail clazz methodnam parametertyp paramet type 
+MTHSIG22	hasconstructor constructor clazz parametertyp paramet type 
+MTHSIG23	getconstructorifavail constructor clazz parametertyp paramet type 
+MTHSIG4	fornam classload loader classload loader 
+VARSIG78	collect class 
+MTHSIG5	resolveclassnam resolv classnam classload loader classload loader 
+VARSIG77	class 
+MTHSIG6	resolveprimitiveclassnam resolv primit 
+VARSIG76	clazz 
+MTHSIG7	ispres classnam 
+VARSIG75	resourcenam resourc 
+MTHSIG0	registercommonclass regist common class commonclass common class 
+MTHSIG1	getdefaultclassload loader 
+MTHSIG2	overridethreadcontextclassload overrid thread context loader classload loader classloadertous loader 
+MTHSIG3	fornam 
+VARSIG79	object instanc 
+MTHSIG20	getdescriptivetyp descript type object 
+VARSIG70	type 
+MTHSIG21	matchestypenam match type clazz typenam type 
+MTHSIG8	ispres classnam classload loader classload loader 
+VARSIG74	clazz 
+MTHSIG9	getuserclass user object instanc 
+VARSIG73	classnam 
+VARSIG72	resourcepath resourc path 
+VARSIG71	object 
+MTHSIG39	convertclassnametoresourcepath convert resourc path classnam 
+MTHSIG37	isassignablevalu assign type object 
+MTHSIG38	convertresourcepathtoclassnam convert resourc path resourcepath resourc path 
+MTHSIG35	resolveprimitiveifnecessari resolv primit clazz 
+MTHSIG36	isassign assign lhstype lh type rhstype rh type 
+MTHSIG33	isprimitivearrai primit arrai clazz 
+MTHSIG34	isprimitivewrapperarrai primit wrapper arrai clazz 
+METHODS	registercommonclass regist common class getdefaultclassload loader overridethreadcontextclassload overrid thread context loader fornam fornam resolveclassnam resolv resolveprimitiveclassnam resolv primit ispres ispres getuserclass user getuserclass user iscachesaf cach safe getshortnam getshortnam getshortnameasproperti properti getclassfilenam file getpackagenam getqualifiednam qualifi getqualifiednameforarrai qualifi arrai getqualifiedmethodnam qualifi getdescriptivetyp descript type matchestypenam match type hasconstructor constructor getconstructorifavail constructor hasmethod getmethodifavail getmethodcountfornam count hasatleastonemethodwithnam getmostspecificmethod specif isoverrid overrid getstaticmethod isprimitivewrapp primit wrapper isprimitiveorwrapp primit wrapper isprimitivearrai primit arrai isprimitivewrapperarrai primit wrapper arrai resolveprimitiveifnecessari resolv primit isassign assign isassignablevalu assign convertresourcepathtoclassnam convert resourc path convertclassnametoresourcepath convert resourc path addresourcepathtopackagepath add resourc path path classpackageasresourcepath resourc path classnamestostr name classnamestostr name getallinterfac interfac getallinterfacesforclass interfac getallinterfacesforclass interfac getallinterfacesasset interfac set getallinterfacesforclassasset interfac set getallinterfacesforclassasset interfac set createcompositeinterfac creat composit isvis visibl 
+VARSIG67	clazz 
+VARSIG66	clazz 
+VARSIG65	clazz 
+VARSIG64	clazz 
+VARSIG69	rhstype rh type 
+VARSIG68	lhstype lh type 
+MTHSIG31	isprimitivewrapp primit wrapper clazz 
+MTHSIG32	isprimitiveorwrapp primit wrapper clazz 
+MTHSIG30	getstaticmethod clazz methodnam 
+VARSIG63	clazz 
+VARSIG62	nosuchmethodexcept except 
+VARSIG61	 
+VARSIG60	methodnam 
+COMMENTS	miscellan util method intern framework common lang comprehens suit util springframework util typeutil type util reflectionutil reflect util suffix arrai name prefix intern arrai name prefix intern primit arrai name separ charact separ charact cglib separ charact file suffix map primit wrapper type kei primit type integ map primit type kei wrapper type integ map primit type kei primit type map common lang kei effici deseri remot invoc regist common class classutil util cach classload loader typic thread context classload loader classload loader load classutil util fallback call intend thread context classload loader scenario absolut classload loader refer path resourc load fornam accept classload loader refer classload loader lang thread getcontextclassload context loader access thread context classload loader fall system loader thread context loader loader overrid thread context classload loader environ environ bean classload loader bean classload loader equival thread context classload loader classloadertous loader actual classload loader thread context origin thread context classload loader overridden replac fornam return instanc primit arrai name loader prefer thread context loader classload loader load classutil util fallback instanc suppli classnotfoundexcept except linkageerror linkag error file load fornam classload loader getdefaultclassload loader spring favor classload loader explicitli link fornam classload loader replac fornam return instanc primit arrai name capabl resolv name sourc style lang thread lang thread classload loader loader loader instanc suppli classnotfoundexcept except linkageerror linkag error file load fornam classload loader lang style arrai ljava lang style arrai ljava lang style arrai swallow origin except resolv instanc support primit arrai name effect equival fornam argument differ except thrown load failur classnam classload loader loader loader instanc suppli illegalargumentexcept illeg argument except resolv file load fornam classload loader resolv primit jvm jvm name rule primit class support jvm jvm intern name primit arrai support suffix notat primit arrai support link fornam classload loader primit primit denot primit primit arrai name sit length check worthwhil primit determin link identifi suppli load depend load classnam check spring favor link ispres classload loader determin link identifi suppli load depend load classnam check classload loader loader loader depend user defin instanc simpli instanc origin cglib gener subclass instanc instanc check user defin user defin simpli origin cglib gener subclass clazz check user defin check cach safe context load classload loader parent clazz analyz classload loader classload loader cach metadata qualifi classnam classnam illegalargumentexcept illeg argument except classnam empti qualifi clazz uncapit javabean bean properti format strip clazz render standard javabean bean properti format bean introspector decapit determin file rel clazz file file determin lang lang clazz empti defin qualifi simpli compon type arrai clazz qualifi build nice qualifi arrai compon type clazz arrai qualifi arrai qualifi consist fulli qualifi qualifi descript object object type simpli compon type arrai append list implement interfac jdk proxi introspect qualifi check match user type clazz check typenam type type match determin constructor signatur essenti translat nosuchmethodexcept except clazz clazz analyz parametertyp paramet type paramet type constructor lang getmethod determin constructor signatur essenti translat nosuchmethodexcept except clazz clazz analyz parametertyp paramet type paramet type constructor lang getconstructor constructor determin signatur essenti translat nosuchmethodexcept except clazz clazz analyz methodnam parametertyp paramet type paramet type lang getmethod determin signatur essenti translat nosuchmethodexcept except clazz clazz analyz methodnam parametertyp paramet type paramet type lang getmethod number method argument type superclass includ method clazz clazz check methodnam number method superclass method suppli argument type includ method clazz clazz check methodnam target current reflect invoc find target ifoo foo bar target defaultfoo foo defaultfoo foo bar enabl attribut note contrast link springframework aop support aoputil aop util getmostspecificmethod specif resolv bridg method automat call link springframework core bridgemethodresolv bridg resolv findbridgedmethod find bridg bridg resolut desir obtain metadata origin definit invok targetclass target target current invoc implement specif target origin targetclass target doesn implement determin overrid target check targetclass target target check methodnam clazz defin paramet type illegalargumentexcept illeg argument except blank clazz check repres primit wrapper charact integ clazz check primit wrapper check repres primit primit wrapper charact integ clazz check primit primit wrapper check repres arrai primit clazz check primit arrai check repres arrai primit wrapper charact integ clazz check primit wrapper arrai resolv primit return primit wrapper type clazz check origin primit wrapper origin primit type check hand side type assign left hand side type assum set reflect consid primit wrapper class assign primit type lhstype lh type target type rhstype rh type type assign target type target type assign type springframework util typeutil type util isassign assign determin type assign assum set reflect consid primit wrapper class assign primit type type target type assign type type assign convert base resourc path base fulli qualifi resourcepath resourc path resourc path point fulli qualifi convert base fulli qualifi base resourc path classnam fulli qualifi resourc path point path suitabl classload loader getresourc resourc suitabl getresourc resourc prepend slash built file convert dot slash ad trail slash concaten resourc function build path suitabl load resourc file file link springframework core classpathresourc path resourc conveni clazz base resourcenam resourc resourc append lead slash option built resourc path lang classload loader getresourc resourc lang getresourc resourc input object consist class pathnam dot replac slash lead trail slash result concaten slash resourc fed classload loader getresourc resourc fed getresourc resourc lead slash prepend return clazz input empti result empti return path repres classload loader getresourc resourc getresourc resourc build consist name class interfac arrai basic abstractcollect collect tostr strip prefix class collect object form foo bar foo baz util abstractcollect collect tostr build consist name class interfac collect basic abstractcollect collect tostr strip prefix class collect object form foo bar foo baz util abstractcollect collect tostr interfac instanc arrai includ implement superclass instanc instanc analyz interfac interfac instanc arrai interfac arrai includ implement superclass return sole clazz analyz interfac interfac object arrai interfac arrai includ implement superclass return sole clazz analyz interfac classload loader classload loader interfac visibl accept declar interfac interfac object arrai interfac instanc set includ implement superclass instanc instanc analyz interfac interfac instanc set interfac set includ implement superclass return sole clazz analyz interfac interfac object set interfac set includ implement superclass return sole clazz analyz interfac classload loader classload loader interfac visibl accept declar interfac interfac object set creat composit interfac implement interfac singl implement build jdk proxi interfac interfac interfac merg classload loader classload loader creat composit merg lang reflect proxi getproxyclass proxi check visibl classload loader clazz check typic classload loader classload loader check 
+VARSIG19	throwabl 
+VARSIG18	classload loader classload loader 
+VARSIG17	classnam 
+VARSIG12	classload loader classload loader 
+VARSIG11	classnam 
+VARSIG10	classnotfoundexcept except 
+VARSIG16	classnam 
+VARSIG15	 
+VARSIG14	linkageerror linkag error 
+VARSIG13	classnotfoundexcept except 
+VARSIG92	classnotfoundexcept except 
+VARSIG91	classload loader classload loader 
+VARSIG90	clazz 
+MTHSIG17	getqualifiednam qualifi clazz 
+MTHSIG18	getqualifiednameforarrai qualifi arrai clazz 
+MTHSIG15	getclassfilenam file clazz 
+MTHSIG16	getpackagenam clazz 
+MTHSIG13	getshortnam clazz 
+MTHSIG14	getshortnameasproperti properti clazz 
+MTHSIG11	iscachesaf cach safe clazz classload loader classload loader 
+MTHSIG12	getshortnam classnam 
+MTHSIG19	getqualifiedmethodnam qualifi 
+VARSIG89	classload loader classload loader 
+VARSIG88	interfac 
+VARSIG87	ifc 
+VARSIG86	classload loader classload loader 
+VARSIG81	clazz 
+MTHSIG10	getuserclass user clazz 
+VARSIG80	clazz 
+VARIABLES	entri primitivetyp primit type commonclass common class clazz classloadertous loader classload loader classnam classload loader classnam classnam classload loader instanc clazz clazz classload loader classnam clazz clazz clazz clazz clazz clazz clazz typenam type clazz parametertyp paramet type clazz parametertyp paramet type clazz methodnam parametertyp paramet type clazz methodnam parametertyp paramet type clazz methodnam ifc clazz methodnam ifc targetclass target targetclass target clazz methodnam clazz clazz clazz clazz clazz lhstype lh type rhstype rh type type resourcepath resourc path classnam clazz resourcenam resourc clazz class class instanc clazz clazz classload loader instanc clazz clazz classload loader ifc interfac classload loader clazz classload loader arrai suffix intern arrai prefix primit arrai prefix separ separ cglib separ file suffix primitivewrappertypemap primit wrapper type map primitivetypetowrappermap primit type wrapper map primitivetypenamemap primit type map commonclasscach common cach primitivetyp primit type currentthread current thread threadcontextclassload thread context loader clazz elementclassnam element elementclass element elementnam element elementclass element elementnam element elementclass element classloadertous loader lastdotindex dot innerclassnam result superclass target cur lastdotindex dot nameendindex shortnam shortnam dotindex dot classnam lastdotindex dot classnam lastdotindex dot result clazz result ifc count declaredmethod declar method ifc declaredmethod declar method ifc specificmethod specif classnam packageendindex packagenam clazz ifc interfac ifc actualclass actual 
+VARSIG85	clazz 
+VARSIG84	clazz 
+VARSIG83	object instanc 
+VARSIG82	classload loader classload loader 
+VARSIG39	nosuchmethodexcept except 
+VARSIG34	typenam type 
+VARSIG33	clazz 
+VARSIG32	object 
+VARSIG31	 
+VARSIG38	parametertyp paramet type 
+VARSIG37	clazz 
+PACKAGE	springframework roo support util 
+VARSIG36	parametertyp paramet type 
+VARSIG35	clazz 
+VARSIG30	clazz 
+CLASSES	classutil util 
+VARSIG29	clazz 
+VARSIG28	clazz 
+VARSIG23	classload loader classload loader 
+VARSIG22	clazz 
+VARSIG21	clazz 
+VARSIG20	object instanc 
+VARSIG27	clazz 
+VARSIG26	clazz 
+VARSIG25	clazz 
+VARSIG24	classnam 
+VARSIG7	 
+VARSIG6	 
+MTHSIG48	getallinterfacesforclassasset interfac set clazz 
+VARSIG9	classnotfoundexcept except 
+MTHSIG49	getallinterfacesforclassasset interfac set clazz classload loader classload loader 
+VARSIG8	classload loader classload loader 
+MTHSIG46	getallinterfacesforclass interfac clazz classload loader classload loader 
+VARSIG3	clazz 
+MTHSIG47	getallinterfacesasset interfac set object instanc 
+VARSIG2	commonclass common class 
+MTHSIG44	getallinterfac interfac object instanc 
+VARSIG5	classload loader classloadertous loader 
+MTHSIG45	getallinterfacesforclass interfac clazz 
+VARSIG4	throwabl 
+VARSIG1	primitivetyp primit type 
+VARSIG0	map entri entri 
+VARSIG56	targetclass target 
+VARSIG55	 
+VARSIG54	ifc 
+VARSIG53	 
+VARSIG59	clazz 
+VARSIG58	targetclass target 
+VARSIG57	 
+MTHSIG42	classnamestostr name class 
+MTHSIG43	classnamestostr name collect class 
+MTHSIG40	addresourcepathtopackagepath add resourc path path clazz resourcenam resourc 
+MTHSIG41	classpackageasresourcepath resourc path clazz 
+VARSIG52	methodnam 
+VARSIG51	clazz 
+VARSIG50	ifc 
+VARSIG45	parametertyp paramet type 
+VARSIG44	methodnam 
+VARSIG43	clazz 
+VARSIG42	parametertyp paramet type 
+VARSIG49	 
+VARSIG48	methodnam 
+VARSIG47	clazz 
+VARSIG46	nosuchmethodexcept except 
+MTHSIG51	isvis visibl clazz classload loader classload loader 
+VARSIG41	methodnam 
+MTHSIG50	createcompositeinterfac creat composit interfac classload loader classload loader 
+VARSIG40	clazz 

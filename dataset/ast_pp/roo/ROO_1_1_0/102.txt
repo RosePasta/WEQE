@@ -1,0 +1,166 @@
+MTHSIG28	buildlistviewuixml build list view xml
+MTHSIG29	buildmobiledetailsview build mobile details view
+MTHSIG26	maybeaddimport add templatedatadictionary template data dictionary datadictionary data dictionary set importset set javatype type type
+MTHSIG27	isreadonly read
+MTHSIG24	isshared shared javatype type type
+MTHSIG25	builddatadictionary build data dictionary mirrortype mirror type desttype dest type
+MTHSIG22	writewithtemplate write template mirrortype mirror type desttype dest type templatedatadictionary template data dictionary datadictionary data dictionary
+MTHSIG23	writewithtemplate write template destfile dest file templatedatadictionary template data dictionary datadictionary data dictionary templatefile template file
+MTHSIG4	buildproxy build proxy
+VARSIG78	destinationmetadataid destination metadata
+MTHSIG5	checkprimitive check primitive javatype type returntype type
+VARSIG77	methodmetadata metadata methodmetadata meta data
+MTHSIG6	getgwtsideleaftype gwt side leaf type javatype type returntype type physicaltypemetadata physical type metadata ptmd
+VARSIG76	list methodmetadatabuilder metadata builder methods
+MTHSIG7	isdomainobject domain object javatype type returntype type physicaltypemetadata physical type metadata ptmd
+VARSIG75	destinationmetadataid destination metadata
+MTHSIG0	gwtmetadata gwt metadata identifier mirrortypenamingstrategy mirror type naming strategy mirrortypenamingstrategy mirror type naming strategy projectmetadata project metadata projectmetadata project metadata classorinterfacetypedetails type details governortypedetails governor type details path mirrortypepath mirror type path beaninfometadata bean info metadata beaninfometadata bean info metadata entitymetadata entity metadata entitymetadata entity metadata filemanager file manager filemanager file manager metadataservice metadata service metadataservice metadata service
+MTHSIG1	getalltypes types
+MTHSIG2	resolveentityinformation resolve entity
+MTHSIG3	buildactivitiesmapper build activities mapper
+VARSIG79	list methodmetadatabuilder metadata builder methods
+MTHSIG20	writewithtemplate write template destfile dest file mirrortype mirror type desttype dest type templatefile template file
+VARSIG70	destfile dest file
+MTHSIG21	writewithtemplate write template mirrortype mirror type desttype dest type templatedatadictionary template data dictionary datadictionary data dictionary templatefile template file
+MTHSIG8	iscollectiontype collection type javatype type returntype type
+VARSIG74	ioexception exception ioe
+MTHSIG9	isrequestfactoryprimitive request factory primitive javatype type returntype type
+VARSIG73	ioexception exception ignoreandjustoverwriteit ignore overwrite
+VARSIG72	filemanager file manager filemanager file manager
+VARSIG71	newcontents contents
+MTHSIG39	buildseteditoruixml build set editor xml
+MTHSIG37	buildmobileeditviewuixml build mobile edit view xml
+MTHSIG38	buildseteditor build set editor
+MTHSIG35	buildmobileeditview build mobile edit view
+MTHSIG36	buildeditviewuixml build edit view xml
+MTHSIG33	buildeditrenderer build edit renderer
+MTHSIG34	buildeditview build edit view
+METHODS	gwtmetadata gwt metadata getalltypes types resolveentityinformation resolve entity buildactivitiesmapper build activities mapper buildproxy build proxy checkprimitive check primitive getgwtsideleaftype gwt side leaf type isdomainobject domain object iscollectiontype collection type isrequestfactoryprimitive request factory primitive addreference add reference addreference add reference addimport add buildeditactivitywrapper build edit activity wrapper builddetailsactivity build details activity buildlistactivity build list activity buildmobilelistview build mobile list view buildlistview build list view writewithtemplate write template writewithtemplate write template writewithtemplate write template writewithtemplate write template writewithtemplate write template writewithtemplate write template isshared shared builddatadictionary build data dictionary maybeaddimport add isreadonly read buildlistviewuixml build list view xml buildmobiledetailsview build mobile details view buildmobiledetailsviewuixml build mobile details view xml builddetailsview build details view builddetailsviewuixml build details view xml buildeditrenderer build edit renderer buildeditview build edit view buildmobileeditview build mobile edit view buildeditviewuixml build edit view xml buildmobileeditviewuixml build mobile edit view xml buildseteditor build set editor buildseteditoruixml build set editor xml buildlisteditor build list editor buildlisteditoruixml build list editor xml write buildrequest build request buildinstancerequestmethod build instance request buildstaticrequestmethod build request buildrequestmethod build request getgwtsidemethodtype gwt side type getdestinationmetadataid destination metadata getdestinationjavatype destination type getdestinationjavatype destination type getdestinationjavatype destination type createadditionalannotation create additional annotation createannotations create annotations getkey key getdetails details getlistview list view getmetadataidentifertype metadata identifer type createidentifier create identifier getjavatype type getpath path isvalid valid
+VARSIG67	exception
+VARSIG66	exception
+VARSIG65	exception
+VARSIG64	exception
+VARSIG69	exception
+VARSIG68	exception
+MTHSIG31	builddetailsview build details view
+MTHSIG32	builddetailsviewuixml build details view xml
+MTHSIG30	buildmobiledetailsviewuixml build mobile details view xml
+VARSIG63	exception
+VARSIG62	exception
+VARSIG61	exception
+VARSIG60	exception
+COMMENTS	metadata gwt beaninfometadata bean info metadata getitdtypedetails type details getannotations annotations entitymetadata entity metadata getmappedsuperclassannotation mapped superclass annotation illegalstateexception illegal exception gwt support inheritence proxied objects remove javax persistence mappedsuperclass annotation governortypedetails governor type details getname getfullyqualifiedtypename fully qualified type order complete gwt setup gwtmetadataprovider gwt metadata provider care checks create fresh representations types responsible lookup special fields lookup find store proxyfor proxy employee proxy decide fields mapping remember natural ordering processing order proxy getters alphabetically checkprimitive check primitive returntype type store maps getter methods employeeproxy employee proxy setter methods employeeproxy employee proxy proptogwtsidetype prop gwt side type propertyname property methods proxy sorted alphabetically sense type process order fields declared database field field add datadictionary data dictionary order properties desktop client primary secondary properties mobile client determine primary property choose field favor properties types choose property favor properties types determine property add mobile properties write disk update file verify file changed mutablefile mutable file source destination content service employee google gwt requestfactory shared instancerequest instance request remove google gwt requestfactory shared request list employeeproxy employee proxy findallemployees find employees type arg client side domain type domainmethodreturntype domain type list set returns domainmethodreturntype domain type list list mandatory mandatory mandatory mandatory empty mirrortype mirror type mirror producing required mid mirror applicable current governor mirrortype mirror type mirror producing required type mirror applicable current governor sharedtype shared type shared type lookup required type shared type applicable current project newly created type annotations list complete roogwtmirroredfrom roo gwt mirrored annotation properly setup
+VARSIG19	physicaltypemetadata physical type metadata ptmd
+VARSIG18	javatype type returntype type
+VARSIG17	javatype type returntype type
+VARSIG12	methodmetadata metadata accessor
+VARSIG11	exception
+VARSIG10	methodmetadata metadata accessor
+VARSIG98	metadataidentificationstring metadata identification
+VARSIG97	metadataidentificationstring metadata identification
+VARSIG16	javasymbolname symbol propertyname property
+VARSIG15	methodmetadata metadata
+VARSIG14	javasymbolname symbol propertyname property
+VARSIG13	javasymbolname symbol propertyname property
+VARSIG92	sharedtype shared type sharedtype shared type
+VARSIG91	mirrortype mirror type mirrortype mirror type
+VARSIG90	mirrortype mirror type mirrortype mirror type
+VARSIG96	metadataidentificationstring metadata identification
+VARSIG95	path path
+VARSIG94	javatype type javatype type
+VARSIG93	javatype type servertype server type
+MTHSIG17	buildlistview build list view
+MTHSIG18	writewithtemplate write template mirrortype mirror type desttype dest type
+MTHSIG15	buildlistactivity build list activity
+MTHSIG16	buildmobilelistview build mobile list view
+MTHSIG13	buildeditactivitywrapper build edit activity wrapper
+MTHSIG14	builddetailsactivity build details activity
+MTHSIG11	addreference add reference templatedatadictionary template data dictionary datadictionary data dictionary sharedtype shared type type
+MTHSIG12	addimport add templatedatadictionary template data dictionary datadictionary data dictionary importdeclaration declaration
+MTHSIG19	writewithtemplate write template mirrortype mirror type desttype dest type templatefile template file
+VARSIG89	javatype type physicaltype physical type
+VARSIG88	mirrortype mirror type mirrortype mirror type
+VARSIG87	javatype type domainsidetype domain side type
+VARSIG86	javatype type domainmethodreturntype domain type
+VARSIG81	destinationmetadataid destination metadata
+MTHSIG10	addreference add reference templatedatadictionary template data dictionary datadictionary data dictionary mirrortype mirror type type
+VARSIG80	methodmetadata metadata methodmetadata meta data
+VARIABLES	identifier mirrortypenamingstrategy mirror type naming strategy projectmetadata project metadata governortypedetails governor type details mirrortypepath mirror type path beaninfometadata bean info metadata entitymetadata entity metadata filemanager file manager metadataservice metadata service annotation accessor accessor propertyname property propertyname property propertyname property returntype type returntype type ptmd returntype type ptmd returntype type returntype type datadictionary data dictionary type datadictionary data dictionary type datadictionary data dictionary importdeclaration declaration desttype dest type desttype dest type templatefile template file destfile dest file desttype dest type templatefile template file desttype dest type datadictionary data dictionary templatefile template file desttype dest type datadictionary data dictionary destfile dest file datadictionary data dictionary templatefile template file type desttype dest type datadictionary data dictionary importset set type destfile dest file newcontents contents filemanager file manager ignoreandjustoverwriteit ignore overwrite ioe destinationmetadataid destination metadata methods methodmetadata meta data destinationmetadataid destination metadata methods methodmetadata meta data destinationmetadataid destination metadata methods methodmetadata meta data methodreturntype type paramtype type domainmethodreturntype domain type domainsidetype domain side type mirrortype mirror type physicaltype physical type mirrortype mirror type mirrortype mirror type sharedtype shared type servertype server type javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification metadataidentificationstring metadata identification type type filemanager file manager metadataservice metadata service beaninfometadata bean info metadata entitymetadata entity metadata findallmethod find findmethod find countmethod count findentriesmethod find entries mirrortypenamingstrategy mirror type naming strategy projectmetadata project metadata governortypedetails governor type details mirrortypepath mirror type path request proxy proxydeclaredmethods proxy declared methods idpropertyname property versionpropertyname version property details listview list view returntype type result versionfield version field idfield field type datadictionary data dictionary destinationmetadataid destination metadata typeannotations type annotations constructors methods extendstypes types implementstypes types propertynames property names proptogwtsidetype prop gwt side type propertyname property field returntype type ptmd gwtsidetype gwt side type propertytomethod property methodreturntype type methodname methodparametertypes parameter types methodparameternames parameter names methodreturntype type methodname methodparametertypes parameter types methodparameternames parameter names typedetailsbuilder type details builder methodnametomethod methodname isdomainobject domain object elementtype element type isenum isdomainobject domain object type datadictionary data dictionary type datadictionary data dictionary type datadictionary data dictionary type datadictionary data dictionary destfile dest file destfile dest file destfile dest file destfile dest file templateloader template loader template ptmd javatype type proxytype proxy type datadictionary data dictionary proxyfields proxy fields primaryprop primary prop secondaryprop secondary prop dateprop prop importset set ptmd property propertiessection properties editablesection editable proptypename prop type desttype dest type destfile dest file desttype dest type desttype dest type destfile dest file desttype dest type desttype dest type destfile dest file type datadictionary data dictionary type datadictionary data dictionary desttype dest type destfile dest file desttype dest type destfile dest file type desttype dest type destfile dest file type desttype dest type destfile dest file mutablefile mutable file existing destinationmetadataid destination metadata typeannotations type annotations constructors fields methods extendstypes types implementstypes types typedetailsbuilder type details builder methodreturntypeargs type methodreturntype type methodreturntypeargs type methodreturntype type methodname methodparametertypes parameter types methodparameternames parameter names paramtypes types jtype typeparameters type parameters ptmd clientmethodtypeparameters client type parameters operationname operation methodname returns islist list packagename typename type servertypeattributes server type attributes annotations roogwtmirroredfromconfig roo gwt mirrored config
+VARSIG85	annotatedjavatype annotated type paramtype type
+VARSIG84	javatype type methodreturntype type
+VARSIG83	methodmetadata metadata methodmetadata meta data
+VARSIG82	list methodmetadatabuilder metadata builder methods
+VARSIG39	mirrortype mirror type desttype dest type
+VARSIG34	exception
+VARSIG33	exception
+VARSIG32	exception
+VARSIG31	exception
+VARSIG38	destfile dest file
+VARSIG37	templatefile template file
+PACKAGE	springframework roo addon gwt
+VARSIG36	mirrortype mirror type desttype dest type
+VARSIG35	mirrortype mirror type desttype dest type
+MTHSIG60	getpath path metadataidentificationstring metadata identification
+VARSIG30	exception
+MTHSIG61	isvalid valid metadataidentificationstring metadata identification
+CLASSES	gwtmetadata gwt metadata
+VARSIG29	importdeclaration declaration
+VARSIG28	templatedatadictionary template data dictionary datadictionary data dictionary
+VARSIG23	javatype type returntype type
+VARSIG22	javatype type returntype type
+VARSIG21	physicaltypemetadata physical type metadata ptmd
+VARSIG20	javatype type returntype type
+VARSIG27	sharedtype shared type type
+VARSIG26	templatedatadictionary template data dictionary datadictionary data dictionary
+VARSIG25	mirrortype mirror type type
+VARSIG24	templatedatadictionary template data dictionary datadictionary data dictionary
+VARSIG7	filemanager file manager filemanager file manager
+VARSIG6	entitymetadata entity metadata entitymetadata entity metadata
+MTHSIG48	getdestinationmetadataid destination metadata mirrortype mirror type mirrortype mirror type
+VARSIG9	annotationmetadata annotation metadata annotation
+MTHSIG49	getdestinationjavatype destination type javatype type physicaltype physical type mirrortype mirror type mirrortype mirror type
+VARSIG8	metadataservice metadata service metadataservice metadata service
+MTHSIG46	buildrequestmethod build request destinationmetadataid destination metadata list methodmetadatabuilder metadata builder methods methodmetadata metadata methodmetadata meta data javatype type methodreturntype type
+VARSIG3	classorinterfacetypedetails type details governortypedetails governor type details
+MTHSIG47	getgwtsidemethodtype gwt side type javatype type domainmethodreturntype domain type
+VARSIG2	projectmetadata project metadata projectmetadata project metadata
+MTHSIG44	buildinstancerequestmethod build instance request destinationmetadataid destination metadata list methodmetadatabuilder metadata builder methods methodmetadata metadata methodmetadata meta data
+VARSIG5	beaninfometadata bean info metadata beaninfometadata bean info metadata
+MTHSIG45	buildstaticrequestmethod build request destinationmetadataid destination metadata list methodmetadatabuilder metadata builder methods methodmetadata metadata methodmetadata meta data
+VARSIG4	path mirrortypepath mirror type path
+VARSIG1	mirrortypenamingstrategy mirror type naming strategy mirrortypenamingstrategy mirror type naming strategy
+VARSIG0	identifier
+VARSIG56	exception
+VARSIG55	
+VARSIG54	javatype type type
+VARSIG53	set importset set
+VARSIG59	exception
+VARSIG58	exception
+VARSIG57	exception
+MTHSIG42	write destfile dest file newcontents contents filemanager file manager filemanager file manager
+MTHSIG43	buildrequest build request
+MTHSIG40	buildlisteditor build list editor
+MTHSIG41	buildlisteditoruixml build list editor xml
+VARSIG52	templatedatadictionary template data dictionary datadictionary data dictionary
+VARSIG51	methodmetadata metadata
+VARSIG50	mirrortype mirror type desttype dest type
+MTHSIG59	getjavatype type metadataidentificationstring metadata identification
+MTHSIG57	getmetadataidentifertype metadata identifer type
+MTHSIG58	createidentifier create identifier javatype type javatype type path path
+MTHSIG55	getdetails details
+MTHSIG56	getlistview list view
+VARSIG45	templatedatadictionary template data dictionary datadictionary data dictionary
+VARSIG44	mirrortype mirror type desttype dest type
+VARSIG43	templatefile template file
+VARSIG42	templatedatadictionary template data dictionary datadictionary data dictionary
+VARSIG49	javatype type type
+VARSIG48	templatefile template file
+VARSIG47	templatedatadictionary template data dictionary datadictionary data dictionary
+VARSIG46	destfile dest file
+MTHSIG53	createannotations create annotations
+MTHSIG54	getkey key
+MTHSIG51	getdestinationjavatype destination type sharedtype shared type sharedtype shared type
+MTHSIG52	createadditionalannotation create additional annotation javatype type servertype server type
+VARSIG41	mirrortype mirror type desttype dest type
+MTHSIG50	getdestinationjavatype destination type mirrortype mirror type mirrortype mirror type
+VARSIG40	templatefile template file

@@ -1,0 +1,8 @@
+MTHSIG0	setup set
+MTHSIG1	testgetbytearraywithnullkey test array key
+PACKAGE	springframework roo classpath preferences
+MTHSIG2	testgetbytearraywithunknownkeyandnodefault test array unknown key
+COMMENTS	unit test link preferences fixture set arbitrary invoke check
+CLASSES	preferencestest preferences test
+VARIABLES	invalid key mockpreferences mock preferences preferences expectedvalue expected actualvalue actual
+METHODS	setup set testgetbytearraywithnullkey test array key testgetbytearraywithunknownkeyandnodefault test array unknown key

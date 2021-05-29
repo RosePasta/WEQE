@@ -1,0 +1,67 @@
+VARSIG39	clioption cli option kei inheritancetyp inherit type mandatori jpa inherit inheritancetyp inherit type inheritancetyp inherit type 
+MTHSIG4	focu javatyp type typenam type 
+VARSIG34	clioption cli option kei identifierfield identifi field mandatori jpa identifi field entiti identifierfield identifi field 
+MTHSIG5	createclass creat javatyp type rooannot roo annot path path javatyp type superclass createabstract creat permitreservedword permit reserv 
+VARSIG33	clioption cli option kei catalog mandatori jpa tabl catalog entiti catalog 
+MTHSIG6	createembeddedclass creat embed javatyp type serializ permitreservedword permit reserv 
+VARSIG32	clioption cli option kei schema mandatori jpa tabl schema entiti schema 
+MTHSIG7	createinterfac creat javatyp type path path permitreservedword permit reserv 
+VARSIG31	clioption cli option kei tabl mandatori jpa tabl entiti tabl 
+MTHSIG0	activ componentcontext compon context context 
+VARSIG38	clioption cli option kei versioncolumn version column mandatori jpa version field column entiti versioncolumn version column 
+MTHSIG1	deactiv componentcontext compon context context 
+VARSIG37	clioption cli option kei versionfield version field mandatori jpa version field entiti versionfield version field 
+PACKAGE	springframework roo classpath oper 
+MTHSIG2	isprojectavail project 
+VARSIG36	clioption cli option kei identifiertyp identifi type mandatori optioncontext option context lang project unspecifieddefaultvalu unspecifi lang specifieddefaultvalu lang data type jpa identifi field default lang javatyp type identifiertyp identifi type 
+MTHSIG3	ispersistentclassavail persist 
+VARSIG35	clioption cli option kei identifiercolumn identifi column mandatori jpa identifi field column entiti identifiercolumn identifi column 
+MTHSIG8	createenum creat javatyp type path path permitreservedword permit reserv 
+VARSIG30	clioption cli option kei testautomat test automat mandatori specifieddefaultvalu unspecifieddefaultvalu unspecifi creat automat integr test entiti testautomat test automat 
+MTHSIG9	enumconst constant javatyp type javasymbolnam symbol fieldnam field permitreservedword permit reserv 
+CLASSES	classpathcommand classpath command 
+VARSIG29	clioption cli option kei mandatori specifieddefaultvalu unspecifieddefaultvalu unspecifi gener mark createabstract creat 
+VARSIG28	clioption cli option kei mandatori unspecifieddefaultvalu unspecifi lang object superclass default lang object javatyp type superclass 
+METHODS	activ deactiv isprojectavail project ispersistentclassavail persist focu createclass creat createembeddedclass creat embed createinterfac creat createenum creat enumconst constant newdod dod isentityreasonablynam entiti name newintegrationtest integr test newpersistenceclassjpa persist jpa createidentifierclass creat identifi 
+VARSIG23	clioption cli option kei permitreservedword permit reserv mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu reserv roo permitreservedword permit reserv 
+VARSIG22	clioption cli option kei mandatori creat hold data demand provid default entiti dataondemand javatyp type clazz 
+VARSIG21	clioption cli option kei entiti mandatori unspecifieddefaultvalu unspecifi optioncontext option context updat project entiti data demand creat modifi requir javatyp type entiti 
+VARSIG20	clioption cli option kei permitreservedword permit reserv mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu reserv roo permitreservedword permit reserv 
+VARSIG27	clioption cli option kei optioncontext option context updat project mandatori entiti creat javatyp type 
+VARSIG26	clioption cli option kei permitreservedword permit reserv mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu reserv roo permitreservedword permit reserv 
+VARSIG25	clioption cli option kei entiti mandatori unspecifieddefaultvalu unspecifi optioncontext option context updat project entiti creat integr test javatyp type entiti 
+VARSIG24	javatyp type entiti 
+VARSIG7	clioption cli option kei mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu gener mark createabstract creat 
+VARSIG6	clioption cli option kei mandatori unspecifieddefaultvalu unspecifi lang object superclass default lang object javatyp type superclass 
+VARSIG9	clioption cli option kei optioncontext option context updat project mandatori creat javatyp type 
+VARSIG8	clioption cli option kei permitreservedword permit reserv mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu reserv roo permitreservedword permit reserv 
+VARSIG3	clioption cli option kei optioncontext option context updat project mandatori creat javatyp type 
+VARSIG2	clioption cli option kei mandatori optioncontext option context updat project type focu javatyp type typenam type 
+VARSIG5	clioption cli option kei path mandatori unspecifieddefaultvalu unspecifi src specifieddefaultvalu src sourc directori creat path path 
+VARSIG4	clioption cli option kei rooannot roo annot mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu gener common roo annot rooannot roo annot 
+COMMENTS	shell command link classpathoperationsimpl classpath oper impl check exist assum legal can test reject attempt entiti test clash data demand roo happen user insist permitreservedword permit reserv roo produc entiti creat entiti identifi requir produc identifi 
+VARSIG19	clioption cli option kei mandatori constant javasymbolnam symbol fieldnam field 
+VARSIG1	componentcontext compon context context 
+VARSIG18	clioption cli option kei mandatori unspecifieddefaultvalu unspecifi optioncontext option context updat project receiv field javatyp type 
+VARSIG0	componentcontext compon context context 
+VARSIG17	clioption cli option kei permitreservedword permit reserv mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu reserv roo permitreservedword permit reserv 
+VARSIG12	clioption cli option kei optioncontext option context updat project mandatori creat javatyp type 
+VARSIG11	clioption cli option kei permitreservedword permit reserv mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu reserv roo permitreservedword permit reserv 
+VARSIG10	clioption cli option kei serializ mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu gener implement serializ serializ 
+VARSIG16	clioption cli option kei path mandatori unspecifieddefaultvalu unspecifi src specifieddefaultvalu src sourc directori creat path path 
+VARSIG15	clioption cli option kei optioncontext option context updat project mandatori creat javatyp type 
+VARSIG14	clioption cli option kei permitreservedword permit reserv mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu reserv roo permitreservedword permit reserv 
+VARSIG13	clioption cli option kei path mandatori unspecifieddefaultvalu unspecifi src specifieddefaultvalu src sourc directori creat path path 
+MTHSIG13	newpersistenceclassjpa persist jpa javatyp type javatyp type superclass createabstract creat testautomat test automat tabl schema catalog identifierfield identifi field identifiercolumn identifi column javatyp type identifiertyp identifi type versionfield version field versioncolumn version column inheritancetyp inherit type inheritancetyp inherit type mappedsuperclass map superclass serializ persistenceunit persist unit permitreservedword permit reserv 
+MTHSIG14	createidentifierclass creat identifi javatyp type identifiertyp identifi type identifierfield identifi field identifiercolumn identifi column 
+MTHSIG11	isentityreasonablynam entiti name javatyp type entiti 
+MTHSIG12	newintegrationtest integr test javatyp type entiti permitreservedword permit reserv 
+VARSIG45	identifierfield identifi field 
+VARSIG44	javatyp type identifiertyp identifi type 
+VARSIG43	clioption cli option kei permitreservedword permit reserv mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu reserv roo permitreservedword permit reserv 
+VARSIG42	clioption cli option kei persistenceunit persist unit mandatori persist unit persist xml file persistenceunit persist unit 
+VARSIG46	identifiercolumn identifi column 
+MTHSIG10	newdod dod javatyp type entiti javatyp type clazz permitreservedword permit reserv 
+VARIABLES	context context typenam type rooannot roo annot path superclass createabstract creat permitreservedword permit reserv serializ permitreservedword permit reserv path permitreservedword permit reserv path permitreservedword permit reserv fieldnam field permitreservedword permit reserv entiti clazz permitreservedword permit reserv entiti entiti permitreservedword permit reserv superclass createabstract creat testautomat test automat tabl schema catalog identifierfield identifi field identifiercolumn identifi column identifiertyp identifi type versionfield version field versioncolumn version column inheritancetyp inherit type mappedsuperclass map superclass serializ persistenceunit persist unit permitreservedword permit reserv identifiertyp identifi type identifierfield identifi field identifiercolumn identifi column classpathoper classpath oper staticfieldconvert field convert declaredbymetadataid declar metadata extendstyp type annot modifi typedetailsbuild type detail builder declaredbymetadataid declar metadata annot modifi typedetailsbuild type detail builder declaredbymetadataid declar metadata typedetailsbuild type detail builder declaredbymetadataid declar metadata typedetailsbuild type detail builder declaredbymetadataid declar metadata declaredbymetadataid declar metadata entityannot entiti annot rooentitybuild roo entiti builder extendstyp type modifi typedetailsbuild type detail builder declaredbymetadataid declar metadata identifierannot identifi annot typedetailsbuild type detail builder 
+VARSIG41	clioption cli option kei serializ mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu gener implement serializ serializ 
+VARSIG40	clioption cli option kei mappedsuperclass map superclass mandatori specifieddefaultvalu unspecifieddefaultvalu unspecifi appli mappedsuperclass map superclass entiti mappedsuperclass map superclass 

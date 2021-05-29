@@ -1,0 +1,28 @@
+VARSIG7	clioption cli option key keyid key mandatory key view pgpkeyid pgp key keyid key
+VARSIG6	pgppublickeyring pgp key ring keyring key ring
+VARSIG9	entry pgpkeyid pgp key entry
+VARSIG8	pgppublickeyring pgp key ring keyring key ring
+VARSIG3	stringbuilder builder
+VARSIG2	
+VARSIG5	pgpkeyid pgp key keyid key
+VARSIG4	pgppublickeyring pgp key ring keyring key ring
+COMMENTS	enables user manage roo pgp keystore key liner
+VARSIG1	stringbuilder builder
+VARSIG0	algid alg
+MTHSIG4	getkeysummaryifpossible key summary pgpkeyid pgp key keyid key
+MTHSIG5	keyview key view pgpkeyid pgp key keyid key
+VARSIG11	clioption cli option key keyid key mandatory key remove trust pgpkeyid pgp key keyid key
+MTHSIG6	listtrustedkeys list trusted
+VARSIG10	clioption cli option key keyid key mandatory key trust pgpkeyid pgp key keyid key
+MTHSIG7	pgpstatus pgp status
+MTHSIG0	getalgorithm algorithm algid alg
+MTHSIG1	appendline append stringbuilder builder
+PACKAGE	springframework roo felix pgp
+MTHSIG2	automatictrust automatic trust
+MTHSIG3	formatkeyring format key ring stringbuilder builder pgppublickeyring pgp key ring keyring key ring
+MTHSIG8	refreshkeysfromserver refresh server
+MTHSIG9	trust pgpkeyid pgp key keyid key
+CLASSES	pgpcommands pgp commands
+METHODS	getalgorithm algorithm appendline append automatictrust automatic trust formatkeyring format key ring getkeysummaryifpossible key summary keyview key view listtrustedkeys list trusted pgpstatus pgp status refreshkeysfromserver refresh server trust untrust
+MTHSIG10	untrust pgpkeyid pgp key keyid key
+VARIABLES	algid alg keyring key ring keyid key keyring key ring keyid key keyring key ring entry keyid key keyid key pgpservice pgp service sdf pgpkey pgp key useriditerator user iterator userid user signatureiterator signature iterator signature keyrings key rings pgpkey pgp key userids user ids userid user keyring key ring keyrings key rings keyrings key rings key outcome keyring key ring keyring key ring

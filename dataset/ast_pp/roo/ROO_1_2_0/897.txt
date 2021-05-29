@@ -1,0 +1,29 @@
+VARSIG7	element element
+VARSIG6	enablesnapshots enable snapshots
+VARSIG9	repository
+VARSIG8	object obj
+VARSIG3	
+VARSIG2	url
+VARSIG5	url
+VARSIG4	
+COMMENTS	simplified immutable representation repository structured model maven ivy fields constructor snapshots disabled repository required repository optional url repository url required constructor snapshots optionally enabled repository required repository optional url repository url required enablesnapshots enable snapshots snapshots allowed convenience constructor creating repository instance xml element element repository definition required repository repository repository exists url repository url snapshots enabled enablesnapshots enable snapshots returns xml element repository document document create element required tagname tag element create required element
+VARSIG1	
+VARSIG0	
+MTHSIG4	getname
+MTHSIG5	geturl url
+VARSIG11	tagname tag
+MTHSIG6	isenablesnapshots enable snapshots
+VARSIG10	document document
+MTHSIG7	hashcode hash code
+MTHSIG0	repository url
+MTHSIG1	repository url enablesnapshots enable snapshots
+PACKAGE	springframework roo project
+MTHSIG2	repository element element
+MTHSIG3	getid
+MTHSIG8	equals object obj
+MTHSIG9	compareto compare repository
+MTHSIG11	getelement element document document tagname tag
+CLASSES	repository
+METHODS	repository repository repository getid getname geturl url isenablesnapshots enable snapshots hashcode hash code equals compareto compare tostring getelement element
+MTHSIG10	tostring
+VARIABLES	url url enablesnapshots enable snapshots element obj document tagname tag enablesnapshots enable snapshots url snapshotselement snapshots element result tsc repositoryelement repository element

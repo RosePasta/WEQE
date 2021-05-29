@@ -1,0 +1,45 @@
+VARSIG7	slot 
+VARSIG6	shellstatu shell statu newstatu statu 
+VARSIG9	interruptedexcept interrupt except ignor 
+VARSIG8	slot 
+VARSIG3	handler 
+VARSIG2	logger 
+VARSIG5	shellstatu shell statu oldstatu statu 
+VARSIG4	path 
+COMMENTS	featur rich jline librari provid interact shell window lack color ansi servic box implement automat detect classpath presenc jansi librari nix machin support colour ansi special effort implement written reflect order avoid hard depend jansi roo kei slot flashinfo flash info instanc kei row number eraselinefromposit eras posit roo consoleread consol reader constructor thread reader setdebug set debug printwrit print writer filewrit file writer writer debug monitor ctrl initi shutdown roo handl execut quit oper command exit shell code fall roo normal rpel process superclass ansi termin shellprompt shell prompt correct let ensur decor outputstream output stream pars ansi code reset origin shell shell color shutdown close stream encod window consol output roo setup thread ensur flash messag displai clear correctli messag expir clear expir time messag reach preserv updat window titl request request clear messag user time read didn record displai place quit displai messag displai notic find row slot basic number discov veto let candid row number own row number store popul instanc latest data displai extern call method mutex flashinfomap flash info map figur longest present displai eras posit eras clear blank achiev need eras record longer care time doansiflash ansi flash invok roo messag displai record eras posit time clean write let record time user command fail unix end roo tail work shut close file reopen need obtain roo system properti fall current work directori miss roo system properti call subclass deactiv shell 
+VARSIG19	ioexcept except ignor 
+VARSIG1	ioexcept except ioe 
+VARSIG18	integ candid 
+VARSIG0	except 
+VARSIG17	messag 
+MTHSIG4	flashmessagerender flash messag render 
+VARSIG12	slot 
+MTHSIG5	flash level level messag slot 
+VARSIG11	messag 
+MTHSIG6	doansiflash ansi flash row level level messag 
+VARSIG10	level level 
+MTHSIG7	promptloop prompt loop 
+MTHSIG0	 
+VARSIG16	level level 
+MTHSIG1	removehandl remov handler logger 
+VARSIG15	row 
+PACKAGE	springframework roo shell jline 
+MTHSIG2	setpromptpath set prompt path path 
+VARSIG14	flashinfo flash info existingflashinfo exist flash info 
+MTHSIG3	createansiwindowsread creat ansi window reader 
+VARSIG13	ioexcept except ignor 
+MTHSIG8	setdevelopmentmod set develop mode developmentmod develop mode 
+MTHSIG9	isdevelopmentmod develop mode 
+MTHSIG13	closeshel close shell 
+MTHSIG11	logcommandtooutput log command output processedlin process 
+MTHSIG12	gethomeasstr 
+CLASSES	jlineshel shell 
+METHODS	removehandl remov handler setpromptpath set prompt path createansiwindowsread creat ansi window reader flashmessagerender flash messag render flash doansiflash ansi flash promptloop prompt loop setdevelopmentmod set develop mode isdevelopmentmod develop mode openfilelogifposs open file log logcommandtooutput log command output gethomeasstr closeshel close shell 
+VARSIG23	processedlin process 
+VARSIG22	ioexcept except ignoreit ignor 
+VARSIG21	developmentmod develop mode 
+VARSIG20	ioexcept except ioe 
+VARSIG25	except 
+VARSIG24	ioexcept except ignoreit ignor 
+MTHSIG10	openfilelogifposs open file log 
+VARIABLES	ioe path oldstatu statu newstatu statu slot slot ignor level messag slot ignor existingflashinfo exist flash info row level messag candid ignor ioe developmentmod develop mode ignoreit ignor processedlin process ignoreit ignor ansi consol classnam jansi flash messag disabl reader developmentmod develop mode filelog file log statuslisten statu listen flashinfomap flash info map rowerasuremap row erasur map shutdownhookfir shutdown hook fire handler mainlogg logger rooarg roo success handler ansi ansiout ansi ansitermin ansi termin toremov remov flashinfo flash info esc buff stg flashinfo flash info buff mostfurtherleftcolnumb left col number startfrom start stg roohom roo flashmessag flash messag flashmessageuntil flash messag flashlevel flash level rownumb row number 

@@ -1,0 +1,197 @@
+MTHSIG28	getmodulenames module names
+MTHSIG29	getpathresolver path resolver
+MTHSIG26	getfocusedtoplevelpackage focused top level
+MTHSIG27	getmoduleforfileidentifier module file identifier fileidentifier file identifier
+MTHSIG24	getfocusedprojectmetadata focused project metadata
+MTHSIG25	getfocusedprojectname focused project
+MTHSIG22	getfocusedmodule focused module
+MTHSIG23	getfocusedmodulename focused module
+MTHSIG4	adddependencies add dependencies modulename module collection dependency newdependencies dependencies
+VARSIG78	collection plugin plugins
+MTHSIG5	adddependency add dependency modulename module dependency dependency
+VARSIG77	modulename module
+MTHSIG6	adddependency add dependency modulename module groupid group artifactid artifact version
+VARSIG76	plugin plugin
+MTHSIG7	adddependency add dependency modulename module groupid group artifactid artifact version dependencyscope dependency scope scope
+VARSIG75	modulename module
+MTHSIG0	getdescriptionofchange description change action collection items singular plural
+MTHSIG1	highlight text
+MTHSIG2	addbuildplugin add build plugin modulename module plugin plugin
+MTHSIG3	addbuildplugins add build plugins modulename module collection plugin plugins
+VARSIG79	modulename module
+MTHSIG20	buildpluginupdate build plugin update modulename module plugin plugin
+VARSIG70	featurenames feature names
+MTHSIG21	detectcirculardependency detect circular dependency pom module module pom module module
+MTHSIG8	adddependency add dependency modulename module groupid group artifactid artifact version dependencyscope dependency scope scope classifier
+VARSIG74	plugin plugin
+MTHSIG9	addfilter add filter modulename module filter filter
+VARSIG73	modulename module
+VARSIG72	modulename module
+VARSIG71	featurename feature
+MTHSIG39	ismodulecreationallowed module creation allowed
+MTHSIG37	isfeatureinstalledinfocusedmodule feature installed focused module featurenames feature names
+MTHSIG38	isfocusedprojectavailable focused project
+MTHSIG35	gettoplevelpackage top level modulename module
+MTHSIG36	isfeatureinstalled feature installed featurename feature
+MTHSIG33	getprojectmetadata project metadata modulename module
+MTHSIG34	getprojectname project modulename module
+METHODS	getdescriptionofchange description change highlight addbuildplugin add build plugin addbuildplugins add build plugins adddependencies add dependencies adddependency add dependency adddependency add dependency adddependency add dependency adddependency add dependency addfilter add filter addmoduledependency add module dependency addpluginrepositories add plugin repositories addpluginrepository add plugin repository addproperty add property addrepositories add repositories addrepositories add repositories addrepository add repository addrepository add repository addresource add resource bindfeature bind feature buildpluginupdate build plugin update detectcirculardependency detect circular dependency getfocusedmodule focused module getfocusedmodulename focused module getfocusedprojectmetadata focused project metadata getfocusedprojectname focused project getfocusedtoplevelpackage focused top level getmoduleforfileidentifier module file identifier getmodulenames module names getpathresolver path resolver getpomfrommodulename pom module getpoms poms getpomupdatemessage pom update message getprojectmetadata project metadata getprojectname project gettoplevelpackage top level isfeatureinstalled feature installed isfeatureinstalledinfocusedmodule feature installed focused module isfocusedprojectavailable focused project ismodulecreationallowed module creation allowed ismodulefocusallowed module focus allowed isprojectavailable project removebuildplugin remove build plugin removebuildpluginimmediately remove build plugin removebuildplugins remove build plugins removebuildplugins remove build plugins removedependencies remove dependencies removedependency remove dependency removedependency remove dependency removedependency remove dependency removedependency remove dependency removefilter remove filter removepluginrepository remove plugin repository removeproperty remove property removerepository remove repository removerepository remove repository removeresource remove resource setmodule set module unbindfeature unbind feature updatebuildplugin update build plugin updatedependencyscope update dependency scope updateprojecttype update project type
+VARSIG67	modulename module
+VARSIG66	modulename module
+VARSIG65	modulename module
+VARSIG64	collection skippeddependencies skipped dependencies
+VARSIG69	modulename module
+VARSIG68	featurename feature
+MTHSIG31	getpoms poms
+MTHSIG32	getpomupdatemessage pom update message collection addeddependencies dependencies collection removeddependencies removed dependencies collection skippeddependencies skipped dependencies
+MTHSIG30	getpomfrommodulename pom module modulename module
+VARSIG63	collection removeddependencies removed dependencies
+VARSIG62	collection addeddependencies dependencies
+VARSIG61	modulename module
+VARSIG60	fileidentifier file identifier
+VARSIG99	groupid group
+VARSIG98	modulename module
+VARSIG97	version
+VARSIG92	path
+VARSIG91	containingpath path
+VARSIG90	dependency dependency
+VARSIG96	artifactid artifact
+VARSIG95	groupid group
+VARSIG94	modulename module
+VARSIG93	element candidate
+MTHSIG17	addrepository add repository modulename module repository repository containingpath path path
+MTHSIG18	addresource add resource modulename module resource resource
+MTHSIG15	addrepositories add repositories modulename module collection repository repositories containingpath path path
+MTHSIG16	addrepository add repository modulename module repository repository
+MTHSIG13	addproperty add property modulename module property property
+MTHSIG14	addrepositories add repositories modulename module collection repository repositories
+MTHSIG11	addpluginrepositories add plugin repositories modulename module collection repository repositories
+MTHSIG12	addpluginrepository add plugin repository modulename module repository repository
+MTHSIG19	bindfeature bind feature feature feature
+VARSIG89	modulename module
+VARSIG88	dependency dependency
+VARSIG87	modulename module
+VARSIG86	dependency dependencytoremove dependency remove
+VARSIG81	writeimmediately write
+MTHSIG10	addmoduledependency add module dependency moduletodependupon module depend
+VARSIG80	collection plugin plugins
+VARIABLES	action items singular plural text modulename module plugin modulename module plugins plugin modulename module newdependencies dependencies newdependency dependency existingdependencyelement existing dependency element modulename module dependency modulename module groupid group artifactid artifact version modulename module groupid group artifactid artifact version scope modulename module groupid group artifactid artifact version scope classifier modulename module filter moduletodependupon module depend modulename module repositories modulename module repository modulename module property modulename module repositories modulename module repositories containingpath path path repository modulename module repository modulename module repository containingpath path path modulename module resource feature modulename module plugin module module module module fileidentifier file identifier modulename module addeddependencies dependencies removeddependencies removed dependencies skippeddependencies skipped dependencies modulename module modulename module modulename module featurename feature modulename module featurenames feature names featurename feature modulename module modulename module plugin modulename module plugin modulename module plugins modulename module plugins writeimmediately write plugin candidate modulename module dependenciestoremove dependencies remove dependencytoremove dependency remove modulename module dependency modulename module dependency containingpath path path candidate modulename module groupid group artifactid artifact version modulename module groupid group artifactid artifact version classifier modulename module filter candidate modulename module repository modulename module property candidate modulename module repository modulename module repository path candidate modulename module resource candidate module feature modulename module plugin existingplugin existing plugin modulename module dependency dependencyscope dependency scope modulename module projecttype project type changed removed skipped updated features filemanager file manager metadataservice metadata service pathresolver path resolver pommanagementservice pom management service shell pom document root pluginselement plugins element newplugins plugins message pom document dependencieselement dependencies element existingdependencyelements existing dependency elements addeddependencies dependencies removeddependencies removed dependencies skippeddependencies skipped dependencies inserted existingdependency existing dependency message dependency pom document root descriptionofchange description change buildelement build element existingfilter existing filter filterselement filters element focusedmodule focused module dependencyproject dependency project dependencypom dependency pom dependency pom document root descriptionofchange description change existing properties pom document repositorieselement repositories element addedrepositories repositories message pom document buildelement build element resourceselement resources element descriptionofchange description change focusedprojectmetadata focused project metadata projectmetadata project metadata iter pom pom feature feature pom document root pluginselement plugins element removedplugins removed plugins candidateplugin candidate plugin message pom document root dependencieselement dependencies element existingdependencyelements existing dependency elements removeddependencies removed dependencies iter candidate candidatedependency candidate dependency message pom document root descriptionofchange description change dependencieselement dependencies element dependency pom document root filterselement filters element descriptionofchange description change filterelements filter elements pom document root propertieselement properties element descriptionofchange description change pom document root descriptionofchange description change pom document root resourceselement resources element descriptionofchange description change resourceelements resource elements pom pom document root dependencyelement dependency element scopeelement scope element descriptionofchange description change pom document packaging descriptionofchange description change
+VARSIG85	collection dependency dependenciestoremove dependencies remove
+VARSIG84	modulename module
+VARSIG83	element candidate
+VARSIG82	plugin plugin
+VARSIG39	property property
+VARSIG34	modulename module
+VARSIG33	moduletodependupon module depend
+VARSIG32	filter filter
+VARSIG31	modulename module
+VARSIG38	modulename module
+VARSIG37	repository repository
+PACKAGE	springframework roo project
+VARSIG36	modulename module
+VARSIG35	collection repository repositories
+VARSIG30	classifier
+VARSIG29	dependencyscope dependency scope scope
+VARSIG28	version
+VARSIG23	version
+VARSIG22	artifactid artifact
+VARSIG21	groupid group
+VARSIG20	modulename module
+VARSIG27	artifactid artifact
+VARSIG26	groupid group
+VARSIG25	modulename module
+VARSIG24	dependencyscope dependency scope scope
+VARSIG56	modulename module
+VARSIG55	feature feature
+VARSIG54	resource resource
+VARSIG53	modulename module
+VARSIG59	pom module module
+VARSIG58	pom module module
+VARSIG57	plugin plugin
+VARSIG52	path
+VARSIG51	containingpath path
+VARSIG50	repository repository
+VARSIG45	path
+VARSIG44	containingpath path
+VARSIG43	collection repository repositories
+VARSIG42	modulename module
+VARSIG49	modulename module
+VARSIG48	repository repository
+VARSIG47	modulename module
+VARSIG46	repository repository
+VARSIG41	collection repository repositories
+VARSIG40	modulename module
+VARSIG120	pom module
+VARSIG121	feature feature
+VARSIG122	modulename module
+VARSIG123	plugin plugin
+VARSIG124	plugin existingplugin existing plugin
+VARSIG125	modulename module
+VARSIG126	dependency dependency
+VARSIG127	dependencyscope dependency scope dependencyscope dependency scope
+VARSIG128	modulename module
+VARSIG129	projecttype project type projecttype project type
+VARSIG110	element candidate
+VARSIG111	modulename module
+VARSIG112	repository repository
+VARSIG113	modulename module
+VARSIG114	repository repository
+VARSIG115	path
+VARSIG116	element candidate
+VARSIG117	modulename module
+VARSIG118	resource resource
+VARSIG119	element candidate
+COMMENTS	common project operations subclassed project specific operations subclass generates message addition items pom action tense action performed items items acted required empty singular singular type item required plural plural type item required message highlights text text text highlight blank highlighted text existing instances dependency artifact version exclusions haven genuine version change mention versions message remove previous looping didn encounter existing dependencies coordinates add filter add add dependency root pom existing property add property exists update todo doesn work can filter xpath path groupid group optional pom owned plugins element groupid group artifactid artifact version plugin removed remove looping plugin pom dependency remove ensure don remove dependency looping pom removes element identified dependency occurs path modulename module module remove dependency dependency dependency remove containingpath path path dependencies element path path individual dependency elements stay loop pom loop theoretically pom stay loop pom stay loop pom stay loop pom update window title project exists quit delete existing plugin version add plugin
+VARSIG19	version
+VARSIG18	artifactid artifact
+VARSIG17	groupid group
+VARSIG12	dependency newdependency dependency
+VARSIG11	collection dependency newdependencies dependencies
+VARSIG10	modulename module
+VARSIG16	modulename module
+VARSIG15	dependency dependency
+VARSIG14	modulename module
+VARSIG13	element existingdependencyelement existing dependency element
+MTHSIG60	updatedependencyscope update dependency scope modulename module dependency dependency dependencyscope dependency scope dependencyscope dependency scope
+MTHSIG61	updateprojecttype update project type modulename module projecttype project type projecttype project type
+CLASSES	abstractprojectoperations project operations
+VARSIG7	modulename module
+VARSIG109	property property
+VARSIG6	plugin plugin
+MTHSIG48	removedependency remove dependency modulename module dependency dependency containingpath path path
+VARSIG9	plugin plugin
+MTHSIG49	removedependency remove dependency modulename module groupid group artifactid artifact version
+VARSIG8	collection plugin plugins
+MTHSIG46	removedependencies remove dependencies modulename module collection dependency dependenciestoremove dependencies remove
+VARSIG3	plural
+MTHSIG47	removedependency remove dependency modulename module dependency dependency
+VARSIG2	singular
+MTHSIG44	removebuildplugins remove build plugins modulename module collection plugin plugins
+VARSIG5	modulename module
+MTHSIG45	removebuildplugins remove build plugins modulename module collection plugin plugins writeimmediately write
+VARSIG4	text
+VARSIG1	collection items
+VARSIG0	action
+VARSIG100	artifactid artifact
+MTHSIG42	removebuildplugin remove build plugin modulename module plugin plugin
+VARSIG101	version
+MTHSIG43	removebuildpluginimmediately remove build plugin modulename module plugin plugin
+VARSIG102	classifier
+MTHSIG40	ismodulefocusallowed module focus allowed
+VARSIG103	modulename module
+MTHSIG41	isprojectavailable project modulename module
+VARSIG104	filter filter
+VARSIG105	element candidate
+VARSIG106	modulename module
+VARSIG107	repository repository
+VARSIG108	modulename module
+MTHSIG59	updatebuildplugin update build plugin modulename module plugin plugin
+MTHSIG57	setmodule set module pom module
+MTHSIG58	unbindfeature unbind feature feature feature
+MTHSIG55	removerepository remove repository modulename module repository repository path
+MTHSIG56	removeresource remove resource modulename module resource resource
+MTHSIG53	removeproperty remove property modulename module property property
+MTHSIG54	removerepository remove repository modulename module repository repository
+MTHSIG51	removefilter remove filter modulename module filter filter
+MTHSIG52	removepluginrepository remove plugin repository modulename module repository repository
+MTHSIG50	removedependency remove dependency modulename module groupid group artifactid artifact version classifier

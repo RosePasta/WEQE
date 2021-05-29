@@ -1,0 +1,63 @@
+MTHSIG28	onshellstatuschange shell status change shellstatus shell status oldstatus status shellstatus shell status newstatus status
+MTHSIG26	perform commandline command
+MTHSIG27	quit
+MTHSIG24	obrdeploy obr deploy bundlesymbolicname bundle symbolic bsn
+MTHSIG25	obrstart obr start bundlesymbolicname bundle symbolic bsn
+MTHSIG22	obrlist obr list keywords
+MTHSIG23	obrinfo obr info bundlesymbolicname bundle symbolic bsn
+MTHSIG4	log psoptions options format
+MTHSIG5	find bundlesymbolicname bundle symbolic bsn
+MTHSIG6	headers bundlesymbolicname bundle symbolic bsn
+MTHSIG7	install url
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo felix
+MTHSIG2	shell commandline command
+MTHSIG3	log integer maximumentries maximum entries loglevel log level loglevel log level
+MTHSIG20	obrurlremove obr url remove url
+MTHSIG21	obrurlrefresh obr url refresh url
+MTHSIG8	start url
+MTHSIG9	uninstall bundlesymbolicname bundle symbolic bsn
+CLASSES	felixdelegator felix delegator
+VARSIG28	exception
+METHODS	activate deactivate shell log log find headers install start uninstall update resolve version scrlist scr list scrinfo scr info screnable scr enable scrdisable scr disable scrconfig scr config obrurllist obr url list obrurladd obr url add obrurlremove obr url remove obrurlrefresh obr url refresh obrlist obr list obrinfo obr info obrdeploy obr deploy obrstart obr start perform quit onshellstatuschange shell status change
+VARSIG23	clioption cli option key bundlesymbolicname bundle symbolic mandatory optioncontext option context obr specific bundle deploy bundlesymbolicname bundle symbolic bsn
+VARSIG22	clioption cli option key bundlesymbolicname bundle symbolic mandatory optioncontext option context obr specific bundle display bundlesymbolicname bundle symbolic bsn
+VARSIG21	clioption cli option key keywords mandatory keywords locate keywords
+VARSIG20	clioption cli option key url mandatory url refresh list existing urls osgi obr url list url
+VARSIG27	shellstatus shell status newstatus status
+VARSIG26	shellstatus shell status oldstatus status
+VARSIG25	commandline command
+VARSIG24	clioption cli option key bundlesymbolicname bundle symbolic mandatory optioncontext option context obr specific bundle start bundlesymbolicname bundle symbolic bsn
+VARSIG7	clioption cli option key bundlesymbolicname bundle symbolic mandatory limit specific bundle symbolic bundlesymbolicname bundle symbolic bsn
+VARSIG6	clioption cli option key bundlesymbolicname bundle symbolic mandatory bundle symbolic find bundlesymbolicname bundle symbolic bsn
+VARSIG9	clioption cli option key url mandatory url bundle url
+VARSIG8	clioption cli option key url mandatory url bundle url
+VARSIG3	clioption cli option key maximumentries maximum entries mandatory maximum number log messages display integer maximumentries maximum entries
+VARSIG2	clioption cli option key mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified command pass felix warning validation security checks performed commandline command
+VARSIG5	clioption cli option key format mandatory specifieddefaultvalue bundle unspecifieddefaultvalue unspecified bundle format bundle psoptions options format
+VARSIG4	clioption cli option key level mandatory minimum level messages display loglevel log level loglevel log level
+COMMENTS	delegates commands felix felix shell api monitors roo shell determine wishes shutdown shutdown request passed felix processing roo
+VARSIG19	clioption cli option key url mandatory url remove list existing urls osgi obr url list url
+VARSIG1	componentcontext component context context
+VARSIG18	clioption cli option key url mandatory url add http felix obr releases xml url
+VARSIG0	componentcontext component context context
+VARSIG17	clioption cli option key componentid component mandatory specific component identifier osgi scr list list component identifiers integer
+VARSIG12	clioption cli option key url mandatory url updated bundle url
+VARSIG11	clioption cli option key bundlesymbolicname bundle symbolic mandatory specific bundle update bundlesymbolicname bundle symbolic bsn
+VARSIG10	clioption cli option key bundlesymbolicname bundle symbolic mandatory specific bundle uninstall bundlesymbolicname bundle symbolic bsn
+VARSIG16	clioption cli option key componentid component mandatory specific component identifier osgi scr list list component identifiers integer
+VARSIG15	clioption cli option key componentid component mandatory specific component identifier osgi scr list list component identifiers integer
+VARSIG14	clioption cli option key bundleid bundle mandatory limit specific bundle bundlesymbolicname bundle symbolic bsn
+VARSIG13	clioption cli option key bundlesymbolicname bundle symbolic mandatory specific bundle resolve bundlesymbolicname bundle symbolic bsn
+MTHSIG17	scrconfig scr config
+MTHSIG18	obrurllist obr url list
+MTHSIG15	screnable scr enable integer
+MTHSIG16	scrdisable scr disable integer
+MTHSIG13	scrlist scr list bundlesymbolicname bundle symbolic bsn
+MTHSIG14	scrinfo scr info integer
+MTHSIG11	resolve bundlesymbolicname bundle symbolic bsn
+MTHSIG12	version
+MTHSIG19	obrurladd obr url add url
+MTHSIG10	update bundlesymbolicname bundle symbolic bsn url
+VARIABLES	context context commandline command maximumentries maximum entries loglevel log level format bsn bsn url url bsn bsn url bsn bsn url url url keywords bsn bsn bsn commandline command oldstatus status newstatus status shellservice shell service rooshell roo shell staticfieldconverter field converter context sysout sys syserr sys err printstreamout print stream printerrout print err

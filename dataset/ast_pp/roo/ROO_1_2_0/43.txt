@@ -1,0 +1,64 @@
+VARSIG39	ioexception exception ioe
+MTHSIG4	createwrapperaddon create wrapper addon javapackage toplevelpackage top level groupid group artifactid artifact version vendorname vendor lincenseurl lincense url docurl doc url osgiimports osgi imports description projectname project
+VARSIG34	targetfilename target filename
+MTHSIG5	createi naddon create addon javapackage toplevelpackage top level language locale locale file messagebundle message bundle file flaggraphic flag graphic description projectname project
+VARSIG33	document pom
+MTHSIG6	createproject create project javapackage toplevelpackage top level type type description projectname project
+VARSIG32	projectname project
+MTHSIG7	writepomfile write pom file document pom
+VARSIG31	description
+MTHSIG0	activate componentcontext component context context
+VARSIG38	projectname project
+MTHSIG1	isaddoncreatepossible addon create
+VARSIG37	type type
+PACKAGE	springframework roo addon creator
+MTHSIG2	createadvancedaddon create advanced addon javapackage toplevelpackage top level description projectname project
+VARSIG36	path path
+MTHSIG3	createsimpleaddon create simple addon javapackage toplevelpackage top level description projectname project
+VARSIG35	javapackage toplevelpackage top level
+MTHSIG8	install targetfilename target filename javapackage toplevelpackage top level path path type type projectname project
+VARSIG30	type type
+MTHSIG9	writetextfile write text file fullpathfromroot full path root message
+CLASSES	creatoroperationsimpl creator operations impl
+VARSIG29	javapackage toplevelpackage top level
+VARSIG28	ioexception exception ioe
+METHODS	activate isaddoncreatepossible addon create createadvancedaddon create advanced addon createsimpleaddon create simple addon createwrapperaddon create wrapper addon createi naddon create addon createproject create project writepomfile write pom file install writetextfile write text file installflaggraphic install flag graphic geterrormsg error msg
+VARSIG23	projectname project
+VARSIG22	description
+VARSIG21	file flaggraphic flag graphic
+VARSIG20	file messagebundle message bundle
+VARSIG27	ioexception exception
+VARSIG26	word
+VARSIG25	ioexception exception
+VARSIG24	word
+VARSIG7	javapackage toplevelpackage top level
+VARSIG6	projectname project
+VARSIG9	artifactid artifact
+VARSIG8	groupid group
+VARSIG3	projectname project
+VARSIG2	description
+VARSIG5	description
+VARSIG4	javapackage toplevelpackage top level
+COMMENTS	implementation link creatoroperations creator operations types project created simple addon advanced addon language bundle osgi wrapper osgi library constants fields read template insert user user output file user creates root files project maven pom readme txt toplevelpackage top level top level project created required type type project created required description description pom blank projectname project blank sanitised version top level project load pom template populate inputs write pom disk write root files writes maven pom disk pom pom write required destination assembly xml adjust roo annotation read template insert user user output file user retrieve icon file
+VARSIG19	locale locale
+VARSIG1	javapackage toplevelpackage top level
+VARSIG18	language
+VARSIG0	componentcontext component context context
+VARSIG17	javapackage toplevelpackage top level
+VARSIG12	lincenseurl lincense url
+VARSIG11	vendorname vendor
+VARSIG10	version
+VARSIG16	projectname project
+VARSIG15	description
+VARSIG14	osgiimports osgi imports
+VARSIG13	docurl doc url
+MTHSIG11	geterrormsg error msg localestr locale str
+VARSIG45	ioexception exception
+VARSIG44	packagepath path
+VARSIG43	locale locale
+VARSIG42	ioexception exception ioe
+VARSIG46	localestr locale str
+MTHSIG10	installflaggraphic install flag graphic locale locale packagepath path
+VARIABLES	context toplevelpackage top level description projectname project toplevelpackage top level description projectname project toplevelpackage top level groupid group artifactid artifact version vendorname vendor lincenseurl lincense url docurl doc url osgiimports osgi imports description projectname project toplevelpackage top level language locale messagebundle message bundle flaggraphic flag graphic description projectname project word word ioe toplevelpackage top level type description projectname project pom targetfilename target filename toplevelpackage top level path type projectname project ioe fullpathfromroot full path root message ioe locale packagepath path localestr locale str type icon set url pom xml filemanager file manager pathresolver path resolver projectoperations project operations httpservice http service iconseturl icon set url wrappergroupid wrapper group pom root config descriptione description split langwords lang langwords lang languagename language packagepath path destinationfile destination file templateinputstream template input stream input mutablefile mutable file pomtemplate pom template pom root rootpath root path pomfile pom file toplevelpackagename top level packagepath path destinationfile destination file templateinputstream template input stream input mutablefile mutable file path mutablefile mutable file input success countrycode country code bis zis entry expectedentryname expected entry size buffer target bos
+VARSIG41	message
+VARSIG40	fullpathfromroot full path root

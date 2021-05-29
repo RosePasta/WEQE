@@ -1,0 +1,66 @@
+VARSIG39	type type
+MTHSIG4	createwrapperaddon create wrapper addon javapackage toplevelpackage top level groupid group artifactid artifact version vendorname vendor lincenseurl lincense url docurl doc url osgiimports osgi imports description projectname project
+VARSIG34	projectname project
+MTHSIG5	createi naddon create addon javapackage toplevelpackage top level language locale locale file messagebundle message bundle file flaggraphic flag graphic description projectname project
+VARSIG33	description
+MTHSIG6	createproject create project javapackage toplevelpackage top level type type description projectname project
+VARSIG32	type type
+MTHSIG7	install targetfilename target filename javapackage toplevelpackage top level path path type type projectname project
+VARSIG31	javapackage toplevelpackage top level
+MTHSIG0	activate componentcontext component context context
+VARSIG38	path path
+MTHSIG1	iscommandavailable command
+VARSIG37	javapackage toplevelpackage top level
+PACKAGE	springframework roo addon creator
+MTHSIG2	createadvancedaddon create advanced addon javapackage toplevelpackage top level description projectname project
+VARSIG36	targetfilename target filename
+MTHSIG3	createsimpleaddon create simple addon javapackage toplevelpackage top level description projectname project
+VARSIG35	exception
+MTHSIG8	writetextfile write text file fullpathfromroot full path root message
+VARSIG30	ioexception exception ioe
+MTHSIG9	installflaggraphic install flag graphic locale locale packagepath path
+CLASSES	creatoroperationsimpl creator operations impl
+VARSIG29	ioexception exception
+VARSIG28	word
+METHODS	activate iscommandavailable command createadvancedaddon create advanced addon createsimpleaddon create simple addon createwrapperaddon create wrapper addon createi naddon create addon createproject create project install writetextfile write text file installflaggraphic install flag graphic geterrormsg error msg
+VARSIG23	description
+VARSIG22	file flaggraphic flag graphic
+VARSIG21	file messagebundle message bundle
+VARSIG20	locale locale
+VARSIG27	exception
+VARSIG26	ioexception exception
+VARSIG25	word
+VARSIG24	projectname project
+VARSIG7	javapackage toplevelpackage top level
+VARSIG6	projectname project
+VARSIG9	artifactid artifact
+VARSIG8	groupid group
+VARSIG3	projectname project
+VARSIG2	description
+VARSIG5	description
+VARSIG4	javapackage toplevelpackage top level
+COMMENTS	implementation link creatoroperations creator operations read template insert user user output file user create project destination assembly xml adjust roo annotation read template insert user user output file user retrieve icon file
+VARSIG19	language
+VARSIG1	javapackage toplevelpackage top level
+VARSIG18	javapackage toplevelpackage top level
+VARSIG0	componentcontext component context context
+VARSIG17	exception
+VARSIG12	lincenseurl lincense url
+VARSIG11	vendorname vendor
+VARSIG10	version
+VARSIG16	projectname project
+VARSIG15	description
+VARSIG14	osgiimports osgi imports
+VARSIG13	docurl doc url
+VARSIG45	locale locale
+VARSIG44	ioexception exception ioe
+VARSIG43	message
+VARSIG42	fullpathfromroot full path root
+VARSIG49	localestr locale str
+VARSIG48	exception
+VARSIG47	exception
+VARSIG46	packagepath path
+MTHSIG10	geterrormsg error msg localestr locale str
+VARIABLES	context toplevelpackage top level description projectname project toplevelpackage top level description projectname project toplevelpackage top level groupid group artifactid artifact version vendorname vendor lincenseurl lincense url docurl doc url osgiimports osgi imports description projectname project toplevelpackage top level language locale messagebundle message bundle flaggraphic flag graphic description projectname project word word ioe toplevelpackage top level type description projectname project targetfilename target filename toplevelpackage top level path type projectname project ioe fullpathfromroot full path root message ioe locale packagepath path localestr locale str separator icon set url filemanager file manager pathresolver path resolver projectoperations project operations httpservice http service iconseturl icon set url type pom root config descriptione description pommutablefile pom mutable file split langwords lang langwords lang languagename language packagepath path destinationfile destination file templateinputstream template input stream input mutablefile mutable file pom root pommutablefile pom mutable file toplevelpackagename top level packagepath path destinationfile destination file templateinputstream template input stream input mutablefile mutable file path file mutablefile mutable file input success countrycode country code bis zis entry expectedentryname expected entry size buffer target bos
+VARSIG41	ioexception exception ioe
+VARSIG40	projectname project

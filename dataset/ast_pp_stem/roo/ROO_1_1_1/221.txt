@@ -1,0 +1,65 @@
+VARSIG39	properti prop 
+MTHSIG4	changeproperti chang properti path propertyfilepath properti file path propertyfilenam properti filenam kei sort 
+VARSIG34	object kei 
+MTHSIG5	manageproperti manag properti path propertyfilepath properti file path propertyfilenam properti filenam kei sort changeexist chang exist 
+VARSIG33	ioexcept except ioe 
+MTHSIG6	removeproperti remov properti path propertyfilepath properti file path propertyfilenam properti filenam kei 
+VARSIG32	includevalu includ valu 
+MTHSIG7	getproperti properti path propertyfilepath properti file path propertyfilenam properti filenam kei 
+VARSIG31	propertyfilenam properti filenam 
+MTHSIG0	ispropertiescommandavail properti command 
+VARSIG38	object kei 
+MTHSIG1	addpropertyifnotexist add properti exist path propertyfilepath properti file path propertyfilenam properti filenam kei 
+VARSIG37	ioexcept except ioe 
+PACKAGE	springframework roo addon propfil 
+MTHSIG2	addpropertyifnotexist add properti exist path propertyfilepath properti file path propertyfilenam properti filenam kei sort 
+VARSIG36	propertyfilenam properti filenam 
+MTHSIG3	changeproperti chang properti path propertyfilepath properti file path propertyfilenam properti filenam kei 
+VARSIG35	path propertyfilepath properti file path 
+MTHSIG8	getpropertykei properti path propertyfilepath properti file path propertyfilenam properti filenam includevalu includ valu 
+VARSIG30	path propertyfilepath properti file path 
+MTHSIG9	getproperti properti path propertyfilepath properti file path propertyfilenam properti filenam 
+CLASSES	propfileoperationsimpl prop file oper impl 
+VARSIG29	kei 
+VARSIG28	propertyfilenam properti filenam 
+METHODS	ispropertiescommandavail properti command addpropertyifnotexist add properti exist addpropertyifnotexist add properti exist changeproperti chang properti changeproperti chang properti manageproperti manag properti removeproperti remov properti getproperti properti getpropertykei properti getproperti properti loadprop load prop storeprop store prop 
+VARSIG23	changeexist chang exist 
+VARSIG22	sort 
+VARSIG21	 
+VARSIG20	kei 
+VARSIG27	path propertyfilepath properti file path 
+VARSIG26	kei 
+VARSIG25	propertyfilenam properti filenam 
+VARSIG24	path propertyfilepath properti file path 
+VARSIG7	 
+VARSIG6	kei 
+VARSIG9	path propertyfilepath properti file path 
+VARSIG8	sort 
+VARSIG3	 
+VARSIG2	kei 
+VARSIG5	propertyfilenam properti filenam 
+VARSIG4	path propertyfilepath properti file path 
+COMMENTS	properti file configur oper overrid order alphabet 
+VARSIG19	propertyfilenam properti filenam 
+VARSIG1	propertyfilenam properti filenam 
+VARSIG18	path propertyfilepath properti file path 
+VARSIG0	path propertyfilepath properti file path 
+VARSIG17	sort 
+VARSIG12	 
+VARSIG11	kei 
+VARSIG10	propertyfilenam properti filenam 
+VARSIG16	 
+VARSIG15	kei 
+VARSIG14	propertyfilenam properti filenam 
+VARSIG13	path propertyfilepath properti file path 
+MTHSIG11	storeprop store prop properti prop outputstream output stream comment 
+VARSIG45	comment 
+VARSIG44	outputstream output stream 
+VARSIG43	properti prop 
+VARSIG42	ioexcept except ignor 
+VARSIG47	ioexcept except ignor 
+VARSIG46	ioexcept except 
+MTHSIG10	loadprop load prop properti prop inputstream input stream 
+VARIABLES	propertyfilepath properti file path propertyfilenam properti filenam kei propertyfilepath properti file path propertyfilenam properti filenam kei sort propertyfilepath properti file path propertyfilenam properti filenam kei propertyfilepath properti file path propertyfilenam properti filenam kei sort propertyfilepath properti file path propertyfilenam properti filenam kei sort changeexist chang exist propertyfilepath properti file path propertyfilenam properti filenam kei propertyfilepath properti file path propertyfilenam properti filenam kei propertyfilepath properti file path propertyfilenam properti filenam includevalu includ valu ioe kei propertyfilepath properti file path propertyfilenam properti filenam ioe kei prop ignor prop comment ignor sort chang exist filemanag file manag pathresolv path resolv metadataservic metadata servic filepath file path mutablefil mutabl file prop serialversionuid serial version uid propvalu prop filepath file path mutablefil mutabl file prop filepath file path mutablefil mutabl file prop filepath file path prop result info filepath file path prop result 
+VARSIG41	ioexcept except 
+VARSIG40	inputstream input stream 

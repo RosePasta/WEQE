@@ -1,0 +1,50 @@
+MTHSIG22	isprivilegedaspect privileged aspect
+MTHSIG23	tostring
+MTHSIG4	getdeclaredfields declared fields
+MTHSIG5	getdeclaredinitializers declared initializers
+MTHSIG6	getdeclaredinnertypes declared types
+MTHSIG7	getdeclaredmethods declared methods
+MTHSIG0	defaultitdtypedetails type details customdata custom data customdata custom data declaredbymetadataid declared metadata modifier classorinterfacetypedetails type details governor javatype type aspect privilegedaspect privileged aspect collection javatype type registeredimports registered imports collection constructormetadata constructor metadata declaredconstructors declared constructors collection fieldmetadata field metadata declaredfields declared fields collection methodmetadata metadata declaredmethods declared methods collection javatype type extendstypes types collection javatype type implementstypes types collection annotationmetadata annotation metadata typeannotations type annotations collection declaredfieldannotationdetails declared field annotation details fieldannotations field annotations collection declaredmethodannotationdetails declared annotation details methodannotations annotations collection classorinterfacetypedetails type details innertypes types
+MTHSIG1	extendstype type javatype type type
+PACKAGE	springframework roo classpath details
+MTHSIG2	getaspect aspect
+MTHSIG3	getdeclaredconstructors declared constructors
+MTHSIG20	implementsany javatype type types
+MTHSIG21	includecustomdatahash include custom data hash collection customdataaccessor custom data accessor coll
+MTHSIG8	getdynamicfindernames dynamic finder names
+MTHSIG9	getextendstypes types
+CLASSES	defaultitdtypedetails type details
+METHODS	defaultitdtypedetails type details extendstype type getaspect aspect getdeclaredconstructors declared constructors getdeclaredfields declared fields getdeclaredinitializers declared initializers getdeclaredinnertypes declared types getdeclaredmethods declared methods getdynamicfindernames dynamic finder names getextendstypes types getfieldannotations field annotations getgovernor governor getimplementstypes types getinnertypes types getmethodannotations annotations getname getphysicaltypecategory physical type category getregisteredimports registered imports gettype type hashcode hash code implementsany includecustomdatahash include custom data hash isprivilegedaspect privileged aspect tostring
+VARSIG20	customdataaccessor custom data accessor accessor
+VARSIG7	collection constructormetadata constructor metadata declaredconstructors declared constructors
+VARSIG6	collection javatype type registeredimports registered imports
+VARSIG9	collection methodmetadata metadata declaredmethods declared methods
+VARSIG8	collection fieldmetadata field metadata declaredfields declared fields
+VARSIG3	classorinterfacetypedetails type details governor
+VARSIG2	modifier
+VARSIG5	privilegedaspect privileged aspect
+VARSIG4	javatype type aspect
+COMMENTS	representation link itdtypedetails type details basic link hashcode hash code detecting link abstractitdmetadataprovider metadata provider avoiding downstream notifications constructor enforce builder customdata custom data declaredbymetadataid declared metadata modifier governor type receive introductions required aspect required privilegedaspect privileged aspect registeredimports registered imports declaredconstructors declared constructors declaredfields declared fields declaredmethods declared methods extendstypes types implementstypes types typeannotations type annotations fieldannotations field annotations methodannotations annotations innertypes types
+VARSIG19	collection customdataaccessor custom data accessor coll
+VARSIG1	declaredbymetadataid declared metadata
+VARSIG18	javatype type type
+VARSIG0	customdata custom data customdata custom data
+VARSIG17	javatype type types
+VARSIG12	collection annotationmetadata annotation metadata typeannotations type annotations
+VARSIG11	collection javatype type implementstypes types
+VARSIG10	collection javatype type extendstypes types
+VARSIG16	javatype type type
+VARSIG15	collection classorinterfacetypedetails type details innertypes types
+VARSIG14	collection declaredmethodannotationdetails declared annotation details methodannotations annotations
+VARSIG13	collection declaredfieldannotationdetails declared field annotation details fieldannotations field annotations
+MTHSIG17	getregisteredimports registered imports
+MTHSIG18	gettype type
+MTHSIG15	getname
+MTHSIG16	getphysicaltypecategory physical type category
+MTHSIG13	getinnertypes types
+MTHSIG14	getmethodannotations annotations
+MTHSIG11	getgovernor governor
+MTHSIG12	getimplementstypes types
+MTHSIG19	hashcode hash code
+MTHSIG10	getfieldannotations field annotations
+VARIABLES	customdata custom data declaredbymetadataid declared metadata modifier governor aspect privilegedaspect privileged aspect registeredimports registered imports declaredconstructors declared constructors declaredfields declared fields declaredmethods declared methods extendstypes types implementstypes types typeannotations type annotations fieldannotations field annotations methodannotations annotations innertypes types type types type coll accessor physical type category aspect declaredconstructors declared constructors declaredfields declared fields declaredmethods declared methods extendstypes types fieldannotations field annotations governor implementstypes types innertypes types methodannotations annotations privilegedaspect privileged aspect registeredimports registered imports hash result builder

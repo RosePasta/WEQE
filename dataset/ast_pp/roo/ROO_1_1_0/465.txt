@@ -1,0 +1,32 @@
+VARSIG7	metadataidentificationstring metadata identification
+VARSIG6	metadataidentificationstring metadata identification
+VARSIG9	metadataidentificationstring metadata identification
+VARSIG8	evictcache evict cache
+VARSIG3	componentcontext component context context
+VARSIG2	componentcontext component context context
+VARSIG5	metadataprovider metadata provider
+VARSIG4	metadataprovider metadata provider
+COMMENTS	implementation link metadataservice metadata service implementation thread safe accessed single thread time enforced process manager semantics avoid cost synchronization mutex cache infinite loop management destination appears valid key valid provider let eviction requested item item isn evict cache cache isn destination provider consume notification contract provider handle notification delegate rely provider evict items cache applicable contract ensure evict item recreate destination instance meaningful operation contract notify listeners downstream instance changed clear cache verifies argument valid time evict downstream dependencies metadata depended evicted metadata evict instance instance cache clear cache clear caches metadata providers support
+VARSIG1	metadataprovider metadata provider
+VARSIG0	metadataprovider metadata provider
+MTHSIG4	getregisteredproviders registered providers
+VARSIG12	metadataidentificationstring metadata identification
+MTHSIG5	getregisteredprovider registered provider metadataidentificationstring metadata identification
+VARSIG11	downstreamdependency downstream dependency
+MTHSIG6	metadataidentificationstring metadata identification evictcache evict cache
+VARSIG10	upstreamdependency upstream dependency
+MTHSIG7	metadataidentificationstring metadata identification
+MTHSIG0	bindmetadataprovider bind metadata provider metadataprovider metadata provider
+MTHSIG1	unbindmetadataprovider unbind metadata provider metadataprovider metadata provider
+PACKAGE	springframework roo metadata
+MTHSIG2	activate componentcontext component context context
+VARSIG14	metadataprovider metadata provider
+MTHSIG3	deactivate componentcontext component context context
+VARSIG13	downstream
+MTHSIG8	notify upstreamdependency upstream dependency downstreamdependency downstream dependency
+MTHSIG9	evict metadataidentificationstring metadata identification
+MTHSIG11	tostring
+CLASSES	defaultmetadataservice metadata service
+METHODS	bindmetadataprovider bind metadata provider unbindmetadataprovider unbind metadata provider activate deactivate getregisteredproviders registered providers getregisteredprovider registered provider notify evict evictall evict tostring
+MTHSIG10	evictall evict
+VARIABLES	context context metadataidentificationstring metadata identification metadataidentificationstring metadata identification evictcache evict cache metadataidentificationstring metadata identification upstreamdependency upstream dependency downstreamdependency downstream dependency metadataidentificationstring metadata identification downstream metadatadependencyregistry metadata dependency registry validgets valid recursivegets recursive cacheputs cache puts cachehits cache hits cachemisses cache misses cacheevictions cache evictions providers providermap provider map lock activerequests active requests mid mid sortedproviders sorted providers result mdclassid result mdclassid tsc

@@ -1,0 +1,45 @@
+VARSIG7	primarykey primary key
+VARSIG6	table table
+MTHSIG26	tostring
+VARSIG9	unique
+VARSIG8	required
+MTHSIG24	hashcode hash code
+VARSIG3	columnsize column size
+MTHSIG25	equals object obj
+VARSIG2	typename type
+MTHSIG22	getdefaultvalue
+VARSIG5	description
+MTHSIG23	setdefaultvalue set defaultvalue
+VARSIG4	scale
+COMMENTS	represents column database model roo
+VARSIG1	datatype data type
+VARSIG0	
+MTHSIG4	getdatatype data type
+VARSIG12	object obj
+MTHSIG5	gettypename type
+VARSIG11	defaultvalue
+MTHSIG6	getcolumnsize column size
+VARSIG10	autoincrement auto increment
+MTHSIG7	getscale scale
+MTHSIG0	column datatype data type typename type columnsize column size scale
+MTHSIG1	initialize
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	getname
+MTHSIG3	getescapedname escaped
+MTHSIG20	getjdbctype jdbc type
+MTHSIG21	getjavatype type
+MTHSIG8	getdescription description
+MTHSIG9	setdescription set description description
+MTHSIG17	setunique set unique unique
+MTHSIG18	isautoincrement auto increment
+MTHSIG15	setrequired set required required
+MTHSIG16	isunique unique
+MTHSIG13	setprimarykey set primary key primarykey primary key
+MTHSIG14	isrequired required
+MTHSIG11	settable set table table table
+MTHSIG12	isprimarykey primary key
+CLASSES	column
+METHODS	column initialize getname getescapedname escaped getdatatype data type gettypename type getcolumnsize column size getscale scale getdescription description setdescription set description gettable table settable set table isprimarykey primary key setprimarykey set primary key isrequired required setrequired set required isunique unique setunique set unique isautoincrement auto increment setautoincrement set auto increment getjdbctype jdbc type getjavatype type getdefaultvalue setdefaultvalue set hashcode hash code equals tostring
+MTHSIG19	setautoincrement set auto increment autoincrement auto increment
+MTHSIG10	gettable table
+VARIABLES	datatype data type typename type columnsize column size scale description table primarykey primary key required unique autoincrement auto increment defaultvalue obj serialversionuid serial version uid datatype data type typename type columnsize column size scale description table primarykey primary key required unique autoincrement auto increment jdbctype jdbc type javatype type defaultvalue prime result

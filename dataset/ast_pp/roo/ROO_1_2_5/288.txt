@@ -1,0 +1,11 @@
+MTHSIG0	assertmethodexists exists targetmethod target iterable candidatemethods candidate methods
+VARSIG3	jpaentitymethod jpa entity
+MTHSIG1	testallroojpaentitymethodsexistinrooentity test roo jpa entity methods exist roo entity
+VARSIG2	candidatemethod candidate
+PACKAGE	springframework roo addon jpa activerecord
+COMMENTS	unit test link roojpaactiverecord roo jpa active record annotation asserts type target exists candidate methods strict calling link equals object targetmethod target candidatemethods candidate methods match annotations can share code inheritance manually redeclared roojpaentity roo jpa entity methods rooentity roo entity annotation test ensures haven missed
+CLASSES	roojpaactiverecordtest roo jpa active record test
+VARIABLES	targetmethod target candidatemethods candidate methods candidatemethod candidate jpaentitymethod jpa entity rooentitymethods roo entity methods
+VARSIG1	iterable candidatemethods candidate methods
+VARSIG0	targetmethod target
+METHODS	assertmethodexists exists testallroojpaentitymethodsexistinrooentity test roo jpa entity methods exist roo entity

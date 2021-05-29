@@ -1,0 +1,10 @@
+MTHSIG0	add javatype type findertype finder type javatype type controllertype controller type
+MTHSIG1	
+PACKAGE	springframework roo addon web mvc controller finder
+MTHSIG2	iscommandavailable command
+COMMENTS	commands provide finder functionality spring mvc controllers
+CLASSES	webfindercommands web finder commands
+VARIABLES	findertype finder type controllertype controller type webfinderoperations web finder operations
+VARSIG1	clioption cli option key mandatory unspecifieddefaultvalue unspecified optioncontext option context update project controller type apply annotation javatype type controllertype controller type
+VARSIG0	clioption cli option key formbackingtype form backing type mandatory finder enabled type javatype type findertype finder type
+METHODS	add iscommandavailable command

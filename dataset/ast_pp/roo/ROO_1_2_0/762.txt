@@ -1,0 +1,12 @@
+MTHSIG0	createfile create file undomanager undo manager undomanager undo manager filenameresolver filename resolver filenameresolver filename resolver file actual
+VARSIG3	ioexception exception ioe
+MTHSIG1	reset
+VARSIG2	file actual
+PACKAGE	springframework roo file undo
+MTHSIG2	undo
+COMMENTS	link undoableoperation undoable operation create file constants fields
+CLASSES	createfile create file
+VARIABLES	undomanager undo manager filenameresolver filename resolver actual ioe logger filenameresolver filename resolver actual success
+VARSIG1	filenameresolver filename resolver filenameresolver filename resolver
+VARSIG0	undomanager undo manager undomanager undo manager
+METHODS	createfile create file reset undo

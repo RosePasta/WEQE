@@ -1,0 +1,20 @@
+VARSIG3	version
+VARSIG2	artifactid artifact
+VARSIG5	object
+VARSIG4	gav
+COMMENTS	combination maven style groupid group artifactid artifact version returns instance based concatenated maven coordinates coordinates groupid group artifactid artifact version separated link mavenutils maven utils coordinate separator blank instance illegalargumentexception illegal argument exception formatted explained elements invalid constructor groupid group valid maven artifactid artifact valid maven version blank check assign debugging
+CLASSES	gav
+VARSIG1	groupid group
+VARSIG0	coordinates
+METHODS	getinstance instance gav compareto compare equals getartifactid artifact getgroupid group getversion version hashcode hash code tostring
+MTHSIG4	getartifactid artifact
+MTHSIG5	getgroupid group
+MTHSIG6	getversion version
+MTHSIG7	hashcode hash code
+MTHSIG0	getinstance instance coordinates
+MTHSIG1	gav groupid group artifactid artifact version
+PACKAGE	springframework roo project
+MTHSIG2	compareto compare gav
+MTHSIG3	equals object
+VARIABLES	coordinates groupid group artifactid artifact version coordinatearray coordinate array artifactid artifact groupid group version result
+MTHSIG8	tostring

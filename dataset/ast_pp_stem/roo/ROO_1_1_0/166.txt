@@ -1,0 +1,18 @@
+VARSIG6	capabl capabl 
+VARSIG3	jdbcdriverprovid jdbc driver provid provid 
+VARSIG2	driverclassnam driver 
+VARSIG5	resourc resourc 
+VARSIG4	driverclassnam driver 
+COMMENTS	poll osgi locat link jdbcdriverprovid jdbc driver provid instanc return jdbc driver instanc fail locat suitabl link jdbcdriverprovid jdbc driver provid automat suggest add provid driver consol messag implement provid jdbc driver 
+CLASSES	pollingjdbcdrivermanag poll jdbc driver manag 
+VARSIG1	jdbcdriverprovid jdbc driver provid listen 
+VARSIG0	jdbcdriverprovid jdbc driver provid listen 
+METHODS	bindjdbcdriverprovid bind jdbc driver provid unbindjdbcdriverprovid unbind jdbc driver provid loaddriv load driver findaddonsoff find add on offer getfindertargetsingular finder target singular getfindertargetplur finder target plural 
+MTHSIG4	getfindertargetsingular finder target singular 
+MTHSIG5	getfindertargetplur finder target plural 
+MTHSIG0	bindjdbcdriverprovid bind jdbc driver provid jdbcdriverprovid jdbc driver provid listen 
+MTHSIG1	unbindjdbcdriverprovid unbind jdbc driver provid jdbcdriverprovid jdbc driver provid listen 
+PACKAGE	springframework roo addon jdbc poll intern 
+MTHSIG2	loaddriv load driver driverclassnam driver 
+MTHSIG3	findaddonsoff find add on offer driverclassnam driver 
+VARIABLES	listen listen driverclassnam driver provid driverclassnam driver resourc capabl provid obrresourcefind obr resourc finder addonsearchmanag add search manag driver result resourc prop vstring 

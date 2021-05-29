@@ -1,0 +1,18 @@
+VARSIG3	object obj
+VARSIG2	connectionstring connection
+VARSIG4	jdbcdatabase jdbc database
+COMMENTS	jdbc database configuration
+CLASSES	jdbcdatabase jdbc database
+VARSIG1	driverclassname driver
+VARSIG0	key
+METHODS	jdbcdatabase jdbc database getkey key getconnectionstring connection getdriverclassname driver hashcode hash code equals compareto compare tostring
+MTHSIG4	hashcode hash code
+MTHSIG5	equals object obj
+MTHSIG6	compareto compare jdbcdatabase jdbc database
+MTHSIG7	tostring
+MTHSIG0	jdbcdatabase jdbc database key driverclassname driver connectionstring connection
+MTHSIG1	getkey key
+PACKAGE	springframework roo addon jpa
+MTHSIG2	getconnectionstring connection
+MTHSIG3	getdriverclassname driver
+VARIABLES	key driverclassname driver connectionstring connection obj key connectionstring connection driverclassname driver memory hypersonic memory hypersonic persistent postgres mysql oracle sybase mssql tsc

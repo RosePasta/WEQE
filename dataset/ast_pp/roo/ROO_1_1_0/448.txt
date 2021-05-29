@@ -1,0 +1,12 @@
+MTHSIG0	monitoringrequest monitoring request file resource set fileoperation file operation notifyon notify
+MTHSIG1	getfile file
+VARSIG2	workingdir working dir
+PACKAGE	springframework roo file monitor
+MTHSIG2	getnotifyon notify
+MTHSIG3	getinitialmonitoringrequest initial monitoring request workingdir working dir
+COMMENTS	represents request monitor file system location file monitored unmodifiable set operations monitored empty
+CLASSES	monitoringrequest monitoring request
+VARIABLES	resource notifyon notify workingdir working dir resource notifyon notify mre
+VARSIG1	set fileoperation file operation notifyon notify
+VARSIG0	file resource
+METHODS	monitoringrequest monitoring request getfile file getnotifyon notify getinitialmonitoringrequest initial monitoring request

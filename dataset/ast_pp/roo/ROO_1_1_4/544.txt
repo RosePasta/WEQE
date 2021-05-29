@@ -1,0 +1,9 @@
+MTHSIG0	bindfileeventlistener bind file event listener fileeventlistener file event listener listener
+MTHSIG1	unbindfileeventlistener unbind file event listener fileeventlistener file event listener listener
+PACKAGE	springframework roo file monitor polling roo
+COMMENTS	link pollingfilemonitorservice polling file monitor service making osgi component automatically monitors environment environment link fileeventlistener file event listener components
+CLASSES	pollingfilemonitorcomponent polling file monitor component
+VARIABLES	listener listener
+VARSIG1	fileeventlistener file event listener listener
+VARSIG0	fileeventlistener file event listener listener
+METHODS	bindfileeventlistener bind file event listener unbindfileeventlistener unbind file event listener

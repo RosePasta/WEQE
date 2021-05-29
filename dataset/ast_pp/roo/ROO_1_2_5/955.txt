@@ -1,0 +1,56 @@
+MTHSIG22	comparecoordinates compare coordinates plugin
+MTHSIG23	tostring
+MTHSIG4	getgroupid group element plugin
+MTHSIG5	getversion version element plugin
+MTHSIG6	plugin element plugin
+MTHSIG7	plugin groupid group artifactid artifact version
+MTHSIG0	getartifactid artifact element plugin
+MTHSIG1	getconfiguration configuration element plugin
+PACKAGE	springframework roo project
+MTHSIG2	getdependencies dependencies element plugin
+MTHSIG3	getexecutions executions element plugin
+MTHSIG20	hashcode hash code
+MTHSIG21	hassamecoordinates coordinates plugin dependency
+MTHSIG8	plugin groupid group artifactid artifact version configuration configuration collection dependency dependencies collection execution executions
+MTHSIG9	compareto compare plugin
+CLASSES	plugin
+METHODS	getartifactid artifact getconfiguration configuration getdependencies dependencies getexecutions executions getgroupid group getversion version plugin plugin plugin compareto compare equals getartifactid artifact getconfiguration configuration getdependencies dependencies getelement element getexecutions executions getgav gav getgroupid group getsimpledescription simple description getversion version hashcode hash code hassamecoordinates coordinates comparecoordinates compare coordinates tostring
+VARSIG23	execution execution
+VARSIG22	document document
+VARSIG21	object obj
+VARSIG20	plugin
+VARSIG26	plugin
+VARSIG25	plugin dependency
+VARSIG24	dependency dependency
+VARSIG7	element goalelement goal element
+VARSIG6	element execution
+VARSIG9	element plugin
+VARSIG8	element plugin
+VARSIG3	element dependencyelement dependency element
+VARSIG2	element plugin
+VARSIG5	element plugin
+VARSIG4	element exclusion
+COMMENTS	simplified immutable representation maven build plugin structured model maven maven groupid group assigned plugin parses plugin xml element plugin plugin maven artifactid artifact plugin xml element parse required blank parses configuration plugin global execution scoped plugin xml element parse required isn parses xml plugin element plugin plugin dependencies plugin xml element parse required list groupid group artifactid artifact version parse exclusions groupid group artifactid artifact parses xml plugin element plugin plugin executions plugin xml element parse required list loop execution elements plugin element parses plugin plugin maven groupid group element plugin element parse required blank groupid group parses plugin plugin version number xml element plugin element parse required version number empty constructor pom style xml element defines maven plugin xml element parse required constructor takes minimal maven artifact coordinates groupid group group required artifactid artifact artifact required version version required constructor fields set groupid group group required artifactid artifact artifact required version version required configuration configuration plugin optional dependencies dependencies plugin executions executions plugin defensively copy nullable collections returns top level configuration plugin note individual link execution link configuration addition configuration exists returns link element add pom link document plugin plugin plugin create xml element required document document element belong required element basic coordinates configuration executions dependencies returns maven style coordinates plugin set coordinates returns plugin plugin groupid group simple description console output link plugin maven coordinates calling link equals object compare fields basic coordinates plugin plugin check coordinates compares plugin plugin identifying coordinates version plugin plugin compared required link comparable compareto compare object
+VARSIG19	collection execution executions
+VARSIG1	element plugin
+VARSIG18	collection dependency dependencies
+VARSIG0	element plugin
+VARSIG17	configuration configuration
+VARSIG12	artifactid artifact
+VARSIG11	groupid group
+VARSIG10	element plugin
+VARSIG16	version
+VARSIG15	artifactid artifact
+VARSIG14	groupid group
+VARSIG13	version
+MTHSIG17	getgroupid group
+MTHSIG18	getsimpledescription simple description
+MTHSIG15	getexecutions executions
+MTHSIG16	getgav gav
+MTHSIG13	getdependencies dependencies
+MTHSIG14	getelement element document document
+MTHSIG11	getartifactid artifact
+MTHSIG12	getconfiguration configuration
+MTHSIG19	getversion version
+MTHSIG10	equals object obj
+VARIABLES	plugin plugin plugin dependencyelement dependency element exclusion plugin execution goalelement goal element plugin plugin plugin groupid group artifactid artifact version groupid group artifactid artifact version configuration dependencies executions obj document execution dependency dependency group dependencies groupidelement group element groupid group artifactidelement artifact element artifactid artifact versionelement version element version dependency exclusiongroupidelement exclusion group element exclusiongroupid exclusion group exclusionartifactidelement exclusion artifact element exclusionartifactid exclusion artifact executions idelement element phaseelement phase element phase goals configuration versionelements version elements configuration dependencies executions gav result pluginelement plugin element configuration executionselement executions element dependencieselement dependencies element prime result result builder

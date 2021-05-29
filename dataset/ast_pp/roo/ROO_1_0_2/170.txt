@@ -1,0 +1,26 @@
+VARSIG7	nullrequired required
+VARSIG6	column
+VARSIG3	list annotationmetadata annotation metadata annotations
+VARSIG2	javasymbolname symbol fieldname field
+VARSIG5	comment
+VARSIG4	notnull
+COMMENTS	base common jsr jsr properties auto generated jpa column type receive field type field field jsr notnull annotation jsr annotation doc comments reserved expansion
+VARSIG1	javatype type fieldtype field type
+VARSIG0	physicaltypeidentifier physical type identifier
+MTHSIG4	getcomment comment
+MTHSIG5	setcomment set comment comment
+MTHSIG6	getcolumn column
+MTHSIG7	setcolumn set column column
+MTHSIG0	fielddetails field details physicaltypeidentifier physical type identifier javatype type fieldtype field type javasymbolname symbol fieldname field
+MTHSIG1	decorateannotationslist decorate annotations list list annotationmetadata annotation metadata annotations
+PACKAGE	springframework roo classpath operations jsr jsr
+MTHSIG2	isnotnull
+MTHSIG3	setnotnull set notnull
+MTHSIG8	isnullrequired required
+MTHSIG9	setnullrequired set required nullrequired required
+MTHSIG11	getfieldtype field type
+MTHSIG12	getfieldname field
+CLASSES	fielddetails field details
+METHODS	fielddetails field details decorateannotationslist decorate annotations list isnotnull setnotnull set getcomment comment setcomment set comment getcolumn column setcolumn set column isnullrequired required setnullrequired set required getphysicaltypeidentifier physical type identifier getfieldtype field type getfieldname field
+MTHSIG10	getphysicaltypeidentifier physical type identifier
+VARIABLES	physicaltypeidentifier physical type identifier fieldtype field type fieldname field annotations notnull comment column nullrequired required column physicaltypeidentifier physical type identifier fieldtype field type fieldname field notnull nullrequired required comment attrs

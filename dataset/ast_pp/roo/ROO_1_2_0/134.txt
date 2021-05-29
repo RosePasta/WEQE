@@ -1,0 +1,32 @@
+VARSIG7	clioption cli option key mandatory created proxies requests javapackage javapackage
+VARSIG6	clioption cli option key mandatory optioncontext option context javatypeconverter type converter project created proxies requests javapackage javapackage
+VARSIG9	clioption cli option key proxypackage proxy mandatory optioncontext option context javatypeconverter type converter project created proxies javapackage proxypackage proxy
+VARSIG8	clioption cli option key type mandatory optioncontext option context javatypeconverter type converter project type base created proxy request javatype type type
+VARSIG3	clioption cli option key mandatory optioncontext option context javatypeconverter type converter project created requests javapackage javapackage
+VARSIG2	clioption cli option key type mandatory optioncontext option context javatypeconverter type converter project type base created request javatype type type
+VARSIG5	clioption cli option key type mandatory optioncontext option context javatypeconverter type converter project type base created request javatype type type
+VARSIG4	clioption cli option key mandatory created requests javapackage javapackage
+COMMENTS	commands gwt add roo shell fields
+VARSIG1	clioption cli option key mandatory created proxies javapackage javapackage
+VARSIG0	clioption cli option key mandatory optioncontext option context javatypeconverter type converter project created proxies javapackage javapackage
+MTHSIG4	proxyall proxy javapackage javapackage
+VARSIG12	clioption cli option key requestpackage request mandatory optioncontext option context javatypeconverter type converter project created requests javapackage requestpackage request
+MTHSIG5	proxytype proxy type javapackage javapackage javatype type type
+VARSIG11	clioption cli option key proxypackage proxy mandatory optioncontext option context javatypeconverter type converter project created proxies javapackage proxypackage proxy
+MTHSIG6	requestall request javapackage javapackage
+VARSIG10	clioption cli option key requestpackage request mandatory optioncontext option context javatypeconverter type converter project created requests javapackage requestpackage request
+MTHSIG7	requesttype request type javapackage javapackage javatype type type
+MTHSIG0	isgwtsetupavailable gwt setup
+MTHSIG1	isscaffoldavailable scaffold
+PACKAGE	springframework roo addon gwt
+MTHSIG2	webgwtsetup web gwt setup
+MTHSIG3	installgwt install gwt
+VARSIG13	clioption cli option key type mandatory type base created scaffold javatype type type
+MTHSIG8	proxyandrequestall proxy request javapackage javapackage
+MTHSIG9	proxyandrequesttype proxy request type javapackage javapackage javatype type type
+MTHSIG11	scaffoldtype scaffold type javapackage proxypackage proxy javapackage requestpackage request javatype type type
+MTHSIG12	updategaeconfiguration update gae configuration
+CLASSES	gwtcommands gwt commands
+METHODS	isgwtsetupavailable gwt setup isscaffoldavailable scaffold webgwtsetup web gwt setup installgwt install gwt proxyall proxy proxytype proxy type requestall request requesttype request type proxyandrequestall proxy request proxyandrequesttype proxy request type scaffoldall scaffold scaffoldtype scaffold type updategaeconfiguration update gae configuration
+MTHSIG10	scaffoldall scaffold javapackage proxypackage proxy javapackage requestpackage request
+VARIABLES	javapackage javapackage type javapackage javapackage type javapackage javapackage type proxypackage proxy requestpackage request proxypackage proxy requestpackage request type gwtoperations gwt operations

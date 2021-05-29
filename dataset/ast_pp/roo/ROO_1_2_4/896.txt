@@ -1,0 +1,54 @@
+MTHSIG4	createfile create file fileidentifier file identifier
+MTHSIG5	createorupdatetextfileifrequired create update text file required fileidentifier file identifier newcontents contents writeimmediately write
+MTHSIG6	createorupdatetextfileifrequired create update text file required fileidentifier file identifier newcontents contents descriptionofchange description change
+MTHSIG7	createorupdatetextfileifrequired create update text file required fileidentifier file identifier newcontents contents descriptionofchange description change writeimmediately write
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	clear
+PACKAGE	springframework roo process manager internal
+MTHSIG2	commit
+MTHSIG3	createdirectory create directory fileidentifier file identifier
+MTHSIG8	deactivate componentcontext component context context
+VARSIG30	fileidentifier file identifier
+MTHSIG9	delete fileidentifier file identifier
+CLASSES	defaultfilemanager file manager
+VARSIG29	fileidentifier file identifier
+VARSIG28	undoevent undo event event
+METHODS	activate clear commit createdirectory create directory createfile create file createorupdatetextfileifrequired create update text file required createorupdatetextfileifrequired create update text file required createorupdatetextfileifrequired create update text file required deactivate delete delete exists findmatchingantpath find matching ant path getinputstream input stream onundoevent undo event readfile read file scan updatefile update file
+VARSIG23	ioexception exception
+VARSIG22	reasonfordeletion reason deletion
+VARSIG21	fileidentifier file identifier
+VARSIG20	fileidentifier file identifier
+VARSIG27	ioexception exception ioe
+VARSIG26	fileidentifier file identifier
+VARSIG25	antpath ant path
+VARSIG24	fileidentifier file identifier
+VARSIG7	fileidentifier file identifier
+VARSIG6	ioexception exception
+VARSIG9	writeimmediately write
+VARSIG8	newcontents contents
+VARSIG3	fileidentifier file identifier
+VARSIG2	remove
+VARSIG5	fileidentifier file identifier
+VARSIG4	ioexception exception
+COMMENTS	implementation link filemanager file manager key file identifier description change key file identifier textual content verify file changed flush reset event
+VARSIG19	componentcontext component context context
+VARSIG1	entry entry
+VARSIG18	writeimmediately write
+VARSIG0	componentcontext component context context
+VARSIG17	descriptionofchange description change
+VARSIG12	descriptionofchange description change
+VARSIG11	newcontents contents
+VARSIG10	fileidentifier file identifier
+VARSIG16	newcontents contents
+VARSIG15	fileidentifier file identifier
+VARSIG14	ioexception exception
+VARSIG13	ioexception exception
+MTHSIG17	updatefile update file fileidentifier file identifier
+MTHSIG15	readfile read file fileidentifier file identifier
+MTHSIG16	scan
+MTHSIG13	getinputstream input stream fileidentifier file identifier
+MTHSIG14	onundoevent undo event undoevent undo event event
+MTHSIG11	exists fileidentifier file identifier
+MTHSIG12	findmatchingantpath find matching ant path antpath ant path
+MTHSIG10	delete fileidentifier file identifier reasonfordeletion reason deletion
+VARIABLES	context entry remove fileidentifier file identifier fileidentifier file identifier fileidentifier file identifier newcontents contents writeimmediately write fileidentifier file identifier newcontents contents descriptionofchange description change fileidentifier file identifier newcontents contents descriptionofchange description change writeimmediately write context fileidentifier file identifier fileidentifier file identifier reasonfordeletion reason deletion fileidentifier file identifier antpath ant path fileidentifier file identifier ioe event fileidentifier file identifier fileidentifier file identifier deferreddescriptionofchanges deferred description deferredfilewrites deferred file writes filemonitorservice file monitor service filenameresolver filename resolver processmanager process manager undomanager undo manager toremove remove fileidentifier file identifier newcontents contents actual actual parentdirectory parent directory renderer mutablefile mutable file file existing outputstream output stream deferreddescriptionofchange deferred description change actual file actual renderer

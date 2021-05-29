@@ -1,0 +1,42 @@
+VARSIG7	methodmetadata metadata idaccessor accessor
+VARSIG6	javatype type targettype target type
+VARSIG9	javatype type targettype target type
+VARSIG8	declaredbyid declared
+VARSIG3	declaredbyid declared
+VARSIG2	metadataidentificationstring metadata identification
+VARSIG5	declaredbyid declared
+VARSIG4	javatype type targettype target type
+COMMENTS	constants fields physical type changed determine local metadata identification proceed downstream dependency relationship registered registered event delivered instance specific downstream dependency processed
+VARSIG19	declaredbyid declared
+VARSIG1	componentcontext component context context
+VARSIG18	javatype type idtype type
+VARSIG0	componentcontext component context context
+VARSIG17	javatype type targettype target type
+MTHSIG4	getidmethod declaredbyid declared javatype type targettype target type methodmetadata metadata idaccessor accessor
+VARSIG12	javatype type targettype target type
+MTHSIG5	getversionmethod version declaredbyid declared javatype type targettype target type methodmetadata metadata versionaccessor version accessor
+VARSIG11	declaredbyid declared
+MTHSIG6	getidtypemethod type declaredbyid declared javatype type targettype target type javatype type idtype type
+VARSIG10	methodmetadata metadata versionaccessor version accessor
+MTHSIG7	getfindmethod find membertypeadditions member type additions findmethodadditions find additions classorinterfacetypedetailsbuilder type details builder locatorbuilder locator builder declaredbyid declared javatype type targettype target type javatype type idtype type
+MTHSIG0	activate componentcontext component context context
+VARSIG16	declaredbyid declared
+MTHSIG1	deactivate componentcontext component context context
+VARSIG15	classorinterfacetypedetailsbuilder type details builder locatorbuilder locator builder
+PACKAGE	springframework roo addon gwt locator
+MTHSIG2	metadataidentificationstring metadata identification
+VARSIG14	membertypeadditions member type additions findmethodadditions find additions
+MTHSIG3	getdomaintypemethod domain type declaredbyid declared javatype type targettype target type
+VARSIG13	javatype type idtype type
+MTHSIG8	getcreatemethod create declaredbyid declared javatype type targettype target type
+MTHSIG9	notify upstreamdependency upstream dependency downstreamdependency downstream dependency
+MTHSIG11	getgovernor governor metadataidentificationstring metadata identification
+CLASSES	gwtlocatormetadataproviderimpl gwt locator metadata provider impl
+METHODS	activate deactivate getdomaintypemethod domain type getidmethod getversionmethod version getidtypemethod type getfindmethod find getcreatemethod create notify getprovidestype type getgovernor governor
+VARSIG23	classorinterfacetypedetails type details proxycid proxy cid
+VARSIG22	downstreamdependency downstream dependency
+VARSIG21	upstreamdependency upstream dependency
+VARSIG20	javatype type targettype target type
+VARSIG24	metadataidentificationstring metadata identification
+MTHSIG10	getprovidestype type
+VARIABLES	context context metadataidentificationstring metadata identification declaredbyid declared targettype target type declaredbyid declared targettype target type idaccessor accessor declaredbyid declared targettype target type versionaccessor version accessor declaredbyid declared targettype target type idtype type findmethodadditions find additions locatorbuilder locator builder declaredbyid declared targettype target type idtype type declaredbyid declared targettype target type upstreamdependency upstream dependency downstreamdependency downstream dependency proxycid proxy cid metadataidentificationstring metadata identification layer position gwttypeservice gwt type service layerservice layer service metadatadependencyregistry metadata dependency registry metadataservice metadata service persistencememberlocator persistence member locator projectoperations project operations typelocationservice type location service typemanagementservice type management service proxy proxyannotation proxy annotation locatortype locator type entitytype entity type entity identifieraccessor identifier accessor versionaccessor version accessor identifiertype identifier type locatorphysicaltypeid locator physical type cidbuilder cid builder annotationmetadatabuilder annotation metadata builder findmethodadditions find additions invocablememberbodybuilder invocable member body builder returntype type invocablememberbodybuilder invocable member body builder getidmethod invocablememberbodybuilder invocable member body builder getidmethodbuilder builder invocablememberbodybuilder invocable member body builder returntype type invocablememberbodybuilder invocable member body builder findmethodbuilder find builder wildentitytype wild entity type classparametertype parameter type invocablememberbodybuilder invocable member body builder createmethodbuilder create builder wildentitytype wild entity type classparametertype parameter type cid processed proxy typename type typepath type path annotationmetadata annotation metadata attributevalue attribute mirrorname mirror typename type typepath type path typename type typepath type path governortypename governor type governortypepath governor type path physicaltypeid physical type

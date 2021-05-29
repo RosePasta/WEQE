@@ -1,0 +1,16 @@
+VARSIG3	psoption option 
+VARSIG2	object obj 
+COMMENTS	displai format felix command 
+CLASSES	psoption option 
+VARSIG1	felixcod felix code 
+VARSIG0	kei 
+METHODS	psoption option getfelixcod felix code getkei kei hashcod hash code equal compareto compar tostr 
+MTHSIG4	equal object obj 
+MTHSIG5	compareto compar psoption option 
+MTHSIG6	tostr 
+MTHSIG0	psoption option kei felixcod felix code 
+MTHSIG1	getfelixcod felix code 
+PACKAGE	springframework roo felix 
+MTHSIG2	getkei kei 
+MTHSIG3	hashcod hash code 
+VARIABLES	kei felixcod felix code obj kei felixcod felix code bundl symbol locat path updat path result tsc 

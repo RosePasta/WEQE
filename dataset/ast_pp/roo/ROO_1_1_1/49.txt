@@ -1,0 +1,30 @@
+VARSIG7	column column
+VARSIG6	indexcolumn column indexcolumn column
+VARSIG9	object obj
+VARSIG8	indexcolumn column indexcolumn column
+VARSIG3	unique
+VARSIG2	table table
+VARSIG5	list indexcolumn column indexcolumns columns
+VARSIG4	indexcolumn column indexcolumn column
+COMMENTS	represents definition table unique unique
+VARSIG1	
+VARSIG0	
+MTHSIG4	settable set table table table
+MTHSIG5	isunique unique
+MTHSIG6	setunique set unique unique
+MTHSIG7	getcolumns columns
+MTHSIG0	
+MTHSIG1	getname
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	setname set
+MTHSIG3	gettable table
+MTHSIG8	addcolumn add column indexcolumn column indexcolumn column
+MTHSIG9	addcolumns add columns list indexcolumn column indexcolumns columns
+MTHSIG13	equals object obj
+MTHSIG14	tostring
+MTHSIG11	hascolumn column column column
+MTHSIG12	hashcode hash code
+CLASSES	
+METHODS	getname setname set gettable table settable set table isunique unique setunique set unique getcolumns columns addcolumn add column addcolumns add columns removecolumn remove column hascolumn column hashcode hash code equals tostring
+MTHSIG10	removecolumn remove column indexcolumn column indexcolumn column
+VARIABLES	table unique indexcolumn column indexcolumns columns indexcolumn column column indexcolumn column obj serialversionuid serial version uid table unique columns prime result

@@ -1,0 +1,11 @@
+MTHSIG0	jlinecompletoradapter completor adapter simpleparser simple parser simpleparser simple parser
+VARSIG3	list candidates
+MTHSIG1	complete buffer cursor list candidates
+VARSIG2	cursor
+PACKAGE	springframework roo shell jline
+COMMENTS	implementation jline jline link completor delegates roo roo link simpleparser simple parser
+CLASSES	jlinecompletoradapter completor adapter
+VARIABLES	simpleparser simple parser buffer cursor candidates simpleparser simple parser result
+VARSIG1	buffer
+VARSIG0	simpleparser simple parser simpleparser simple parser
+METHODS	jlinecompletoradapter completor adapter complete

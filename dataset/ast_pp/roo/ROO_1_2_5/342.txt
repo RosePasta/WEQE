@@ -1,0 +1,11 @@
+MTHSIG0	setup set
+MTHSIG1	testcallflushmethod test call flush
+PACKAGE	springframework roo addon layers repository jpa
+MTHSIG2	testnamesareuniqueandnotblank test names unique blank
+MTHSIG3	testparametertypesarenotnull test parameter types
+COMMENTS	unit test link repositorylayermethod repository layer fixture invoke check
+CLASSES	repositorylayermethodtest repository layer test
+VARIABLES	mockidtype mock type mocktargetentity mock target entity methodcall call names
+VARSIG1	repositoryjpalayermethod repository jpa layer
+VARSIG0	repositoryjpalayermethod repository jpa layer
+METHODS	setup set testcallflushmethod test call flush testnamesareuniqueandnotblank test names unique blank testparametertypesarenotnull test parameter types

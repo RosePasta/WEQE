@@ -1,0 +1,15 @@
+VARSIG3	clioption cli option key pattern mandatory filename pattern remove pattern
+VARSIG2	clioption cli option key automaticrestart automatic restart mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified automatic shell restart occur automaticrestart automatic restart
+VARSIG4	clioption cli option key automaticrestart automatic restart mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified automatic shell restart occur automaticrestart automatic restart
+COMMENTS	commands add maintenance
+CLASSES	addoncommands add commands
+VARSIG1	clioption cli option key url mandatory url add zip file url
+VARSIG0	addonoperations add operations addonoperations add operations
+METHODS	addoncommands add commands cleanupcmd clean cmd installcmd install cmd uninstallcmd uninstall cmd listcmd list cmd
+MTHSIG4	listcmd list cmd
+MTHSIG0	addoncommands add commands addonoperations add operations addonoperations add operations
+MTHSIG1	cleanupcmd clean cmd
+PACKAGE	springframework roo bootstrap
+MTHSIG2	installcmd install cmd url automaticrestart automatic restart
+MTHSIG3	uninstallcmd uninstall cmd pattern automaticrestart automatic restart
+VARIABLES	addonoperations add operations url automaticrestart automatic restart pattern automaticrestart automatic restart addonoperations add operations restart restart restart

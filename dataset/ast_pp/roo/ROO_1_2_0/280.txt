@@ -1,0 +1,22 @@
+VARSIG3	parametername parameter
+VARSIG2	parameternames parameter names
+MTHSIG11	testparametertypes test parameter types
+VARSIG4	entitylayermethod entity layer
+COMMENTS	unit test link entitylayermethod entity layer constants fixture parameter type production invoke check set invoke check set invoke check set invoke check set invoke check set invoke check set invoke check set invoke check set invoke check check
+CLASSES	entitylayermethodtest entity layer test
+VARSIG1	entitylayermethod entity layer
+VARSIG0	expectedmethodcall expected call
+METHODS	setup set assertmethodcall call testcallcountallmethod test call count testcallclearmethod test call clear testcallfindallmethod test call find testcallfindentriesmethod test call find entries testcallflushmethod test call flush testcallmergemethod test call merge testcallpersistmethod test call persist testcallremovemethod test call remove testvalueofbogusmethodid test bogus testparametertypes test parameter types
+MTHSIG4	testcallfindallmethod test call find
+MTHSIG5	testcallfindentriesmethod test call find entries
+MTHSIG6	testcallflushmethod test call flush
+MTHSIG7	testcallmergemethod test call merge
+MTHSIG0	setup set
+MTHSIG1	assertmethodcall call expectedmethodcall expected call entitylayermethod entity layer parameternames parameter names
+PACKAGE	springframework roo addon jpa activerecord
+MTHSIG2	testcallcountallmethod test call count
+MTHSIG3	testcallclearmethod test call clear
+MTHSIG10	testvalueofbogusmethodid test bogus
+VARIABLES	expectedmethodcall expected call parameternames parameter names parametername parameter plural types mocktargetentity mock target entity mockidtype mock type mockparametername mock parameter mockannotationvalues mock annotation values parameters mocksymbol mock symbol parametertypes parameter types
+MTHSIG8	testcallpersistmethod test call persist
+MTHSIG9	testcallremovemethod test call remove

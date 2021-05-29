@@ -1,0 +1,13 @@
+VARSIG2	nanoseconds
+COMMENTS	unit test link standardmetadatatimingstatistic standard metadata timing statistic constants asserts calling link standardmetadatatimingstatistic standard metadata timing statistic tostring instance duration expected output nanoseconds expectedtostring expected creates instance fixed test values duration nanoseconds instance
+CLASSES	standardmetadatatimingstatistictest standard metadata timing statistic test
+VARSIG1	expectedtostring expected
+VARSIG0	nanoseconds
+METHODS	testtostringforlessthanonemillisecond test millisecond testtostringforonemillisecond test millisecond testtostringfortwomilliseconds test milliseconds asserttostring gettestinstance test instance
+MTHSIG4	gettestinstance test instance nanoseconds
+MTHSIG0	testtostringforlessthanonemillisecond test millisecond
+MTHSIG1	testtostringforonemillisecond test millisecond
+PACKAGE	springframework roo metadata internal
+MTHSIG2	testtostringfortwomilliseconds test milliseconds
+MTHSIG3	asserttostring nanoseconds expectedtostring expected
+VARIABLES	nanoseconds expectedtostring expected nanoseconds invocations

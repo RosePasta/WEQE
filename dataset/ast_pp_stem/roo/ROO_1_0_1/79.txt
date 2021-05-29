@@ -1,0 +1,68 @@
+MTHSIG26	isvalid valid metadataidentificationstr metadata identif 
+MTHSIG24	getjavatyp type metadataidentificationstr metadata identif 
+MTHSIG25	getpath path metadataidentificationstr metadata identif 
+MTHSIG22	getmetadataidentifertyp metadata identif type 
+MTHSIG23	createidentifi creat identifi javatyp type javatyp type path path 
+MTHSIG4	getdeletemethod delet 
+VARSIG34	metadataidentificationstr metadata identif 
+MTHSIG5	getlistmethod list 
+VARSIG33	metadataidentificationstr metadata identif 
+MTHSIG6	getshowmethod 
+VARSIG32	path path 
+MTHSIG7	getcreatemethod creat 
+VARSIG31	javatyp type javatyp type 
+MTHSIG0	webscaffoldmetadata web scaffold metadata identifi javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata metadataservic metadata servic metadataservic metadata servic webscaffoldannotationvalu web scaffold annot valu annotationvalu annot valu beaninfometadata bean info metadata beaninfometadata bean info metadata entitymetadata entiti metadata entitymetadata entiti metadata findermetadata finder metadata findermetadata finder metadata controlleroper control oper controlleroper control oper 
+MTHSIG1	getidentifierforbeaninfometadata identifi bean info metadata 
+PACKAGE	springframework roo addon web mvc control 
+MTHSIG2	getidentifierforentitymetadata identifi entiti metadata 
+MTHSIG3	getannotationvalu annot valu 
+VARSIG35	metadataidentificationstr metadata identif 
+MTHSIG20	setupfinderdatetimeformatattribut setup finder time format attribut list javasymbolnam symbol paramnam name list javatyp type paramtyp type invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+MTHSIG21	tostr 
+MTHSIG8	getcreateformmethod creat form 
+VARSIG30	invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+MTHSIG9	getupdatemethod updat 
+CLASSES	webscaffoldmetadata web scaffold metadata 
+VARSIG29	list javatyp type paramtyp type 
+VARSIG28	list javasymbolnam symbol paramnam name 
+METHODS	webscaffoldmetadata web scaffold metadata getidentifierforbeaninfometadata identifi bean info metadata getidentifierforentitymetadata identifi entiti metadata getannotationvalu annot valu getdeletemethod delet getlistmethod list getshowmethod getcreatemethod creat getcreateformmethod creat form getupdatemethod updat getupdateformmethod updat form getfinderformmethod finder form getfindermethod finder methodexist exist getspecialdomaintyp special domain type getdatepattern pattern isenumtyp type hasmut mutat isspecialtyp special type setupdatetimeformatattribut setup time format attribut setupfinderdatetimeformatattribut setup finder time format attribut tostr getmetadataidentifertyp metadata identif type createidentifi creat identifi getjavatyp type getpath path isvalid valid 
+VARSIG23	javatyp type type 
+VARSIG22	annotationmetadata annot metadata annot 
+VARSIG21	methodmetadata metadata accessor 
+VARSIG20	javatyp type generictyp type 
+VARSIG27	invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+VARSIG26	javatyp type javatyp type 
+VARSIG25	methodmetadata metadata mutat 
+VARSIG24	fieldmetadata field metadata fieldmetadata field metadata 
+VARSIG7	findermetadata finder metadata findermetadata finder metadata 
+VARSIG6	entitymetadata entiti metadata entitymetadata entiti metadata 
+VARSIG9	findernam finder 
+VARSIG8	controlleroper control oper controlleroper control oper 
+VARSIG3	metadataservic metadata servic metadataservic metadata servic 
+VARSIG2	physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+VARSIG5	beaninfometadata bean info metadata beaninfometadata bean info metadata 
+VARSIG4	webscaffoldannotationvalu web scaffold annot valu annotationvalu annot valu 
+COMMENTS	metadata link roowebscaffold roo web scaffold annotationvalu annot valu annotationvalu annot valu list access paramet scan treat match authorit scan superclass caller expect scan current expect won check paramet interest identifi version field interest field expos mutat interest identifi version field interest field expos mutat interest type applic editor exist 
+VARSIG19	methodmetadata metadata accessor 
+VARSIG1	javatyp type aspectnam aspect 
+VARSIG18	methodmetadata metadata 
+VARSIG0	identifi 
+VARSIG17	javasymbolnam symbol methodnam 
+VARSIG12	javatyp type type 
+VARSIG11	javatyp type type 
+VARSIG10	javatyp type type 
+VARSIG16	methodmetadata metadata methodmetadata metadata 
+VARSIG15	javatyp type javatyp type 
+VARSIG14	methodmetadata metadata methodmetadata metadata 
+VARSIG13	javatyp type type 
+MTHSIG17	hasmut mutat fieldmetadata field metadata fieldmetadata field metadata 
+MTHSIG18	isspecialtyp special type javatyp type javatyp type 
+MTHSIG15	getdatepattern pattern 
+MTHSIG16	isenumtyp type javatyp type type 
+MTHSIG13	methodexist exist javasymbolnam symbol methodnam 
+MTHSIG14	getspecialdomaintyp special domain type 
+MTHSIG11	getfinderformmethod finder form methodmetadata metadata methodmetadata metadata 
+MTHSIG12	getfindermethod finder methodmetadata metadata methodmetadata metadata 
+MTHSIG19	setupdatetimeformatattribut setup time format attribut invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+MTHSIG10	getupdateformmethod updat form 
+VARIABLES	identifi aspectnam aspect governorphysicaltypemetadata governor physic type metadata metadataservic metadata servic annotationvalu annot valu beaninfometadata bean info metadata entitymetadata entiti metadata findermetadata finder metadata controlleroper control oper findernam finder type type type type methodmetadata metadata javatyp type methodmetadata metadata methodnam accessor generictyp type accessor annot type fieldmetadata field metadata mutat javatyp type bodybuild bodi builder paramnam name paramtyp type bodybuild bodi builder javatyp type path metadataidentificationstr metadata identif metadataidentificationstr metadata identif metadataidentificationstr metadata identif type type annotationvalu annot valu beaninfometadata bean info metadata entitymetadata entiti metadata metadataservic metadata servic specialdomaintyp special domain type controllerpath control path entitynam entiti datetyp type methodnam typeannot type annot attribut firstresultattributevalu result attribut paramannotationsfirstresult annot result maxresultsattributevalu max attribut paramannotationsmaxresult annot max paramtyp type paramnam name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder methodnam firstresultattributevalu result attribut paramannotationsfirstresult annot result maxresultsattributevalu max attribut paramannotationsmaxresult annot max paramtyp type paramnam name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder methodnam typeannot type annot attribut paramtyp type paramnam name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder methodnam typeannot type annot attribut noannot annot paramtyp type paramnam name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder typeentitymetadata type entiti metadata methodnam paramtyp type paramnam name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder typeentitymetadata type entiti metadata methodnam typeannot type annot attribut noannot annot paramtyp type paramnam name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder typeentitymetadata type entiti metadata methodnam updateformmethod updat form typeannot type annot attribut paramtyp type paramnam name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder typeentitymetadata type entiti metadata finderformmethodnam finder form finderformmethod finder form paramtyp type paramnam name type bodybuild bodi builder needmodelmap model map typeentitymetadata type entiti metadata requestmappingattribut request map attribut requestmap request map annot findermethodnam finder findermethod finder annotatedparamtyp annot type paramnam name paramtyp type bodybuild bodi builder methodparam param annot attribut fieldnam field field annot newparamnam name requestmappingattribut request map attribut requestmap request map annot specialtyp special type fieldmetadata field metadata type date fieldmetadata field metadata type physicaltypemetadata physic type metadata detail physicaltypeidentifi physic type identifi entri fieldnam field field annot stylevalu style tsc 

@@ -1,0 +1,36 @@
+VARSIG7	fieldmetadata field metadata field
+VARSIG6	javasymbolname symbol fieldname field
+VARSIG9	classorinterfacetypedetails type details cid
+VARSIG8	javatype type typename type
+VARSIG3	collection annotationmetadata annotation metadata annotations
+VARSIG2	modifier
+VARSIG5	constructormetadata constructor metadata constructor
+VARSIG4	list javatype type parameters
+COMMENTS	convenient superclass link memberholdingtypedetails member holding type details implementations constructor customdata custom data declaredbymetadataid declared metadata modifier annotations annotation field proposed field differentiate derived unique
+VARSIG1	declaredbymetadataid declared metadata
+VARSIG18	javatype type interfacetype type
+VARSIG0	customdata custom data customdata custom data
+VARSIG17	proposedname proposed
+MTHSIG4	getfield field javasymbolname symbol fieldname field
+VARSIG12	fieldmetadata field metadata field
+MTHSIG5	getfieldswithannotation fields annotation javatype type annotation
+VARSIG11	javatype type annotation
+MTHSIG6	getmethod javasymbolname symbol methodname
+VARSIG10	javasymbolname symbol fieldname field
+MTHSIG7	getmethod javasymbolname symbol methodname list javatype type parameters
+MTHSIG0	abstractmemberholdingtypedetails member holding type details customdata custom data customdata custom data declaredbymetadataid declared metadata modifier collection annotationmetadata annotation metadata annotations
+VARSIG16	methodmetadata metadata
+MTHSIG1	getdeclaredconstructor declared constructor list javatype type parameters
+VARSIG15	list javatype type parameters
+PACKAGE	springframework roo classpath details
+MTHSIG2	getdeclaredfield declared field javasymbolname symbol fieldname field
+VARSIG14	javasymbolname symbol methodname
+MTHSIG3	getdeclaredinnertype declared type javatype type typename type
+VARSIG13	javasymbolname symbol methodname
+MTHSIG8	getmethods methods
+MTHSIG9	getuniquefieldname unique field proposedname proposed
+MTHSIG11	implementstype type javatype type interfacetype type
+CLASSES	abstractmemberholdingtypedetails member holding type details
+METHODS	abstractmemberholdingtypedetails member holding type details getdeclaredconstructor declared constructor getdeclaredfield declared field getdeclaredinnertype declared type getfield field getfieldswithannotation fields annotation getmethod getmethod getmethods methods getuniquefieldname unique field getlayerentities layer entities implementstype type
+MTHSIG10	getlayerentities layer entities
+VARIABLES	customdata custom data declaredbymetadataid declared metadata modifier annotations parameters constructor fieldname field field typename type cid fieldname field annotation field methodname methodname parameters proposedname proposed interfacetype type parameterlist parameter list current result result current current result current result result current candidatename candidate entities

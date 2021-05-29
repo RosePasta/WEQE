@@ -1,0 +1,22 @@
+VARSIG7	object obj 
+VARSIG6	oper oper 
+VARSIG3	entityproxi entiti proxi proxyclass proxi 
+VARSIG2	proxyplac proxi place place 
+VARSIG5	entityproxyid entiti proxi proxyid proxi 
+VARSIG4	entityproxyid entiti proxi record 
+COMMENTS	place app deal specif link requestfactori request factori proxi record bookmark locat scaffold app token proxyid proxi oper link oper creat 
+CLASSES	proxyplac proxi place 
+VARSIG1	token 
+VARSIG0	requestfactori request factori request 
+METHODS	proxyplac proxi place proxyplac proxi place proxyplac proxi place equal getoper oper getproxyclass proxi getproxyid proxi hashcod hash code tostr 
+MTHSIG4	getoper oper 
+MTHSIG5	getproxyclass proxi 
+MTHSIG6	getproxyid proxi 
+MTHSIG7	hashcod hash code 
+MTHSIG0	proxyplac proxi place entityproxi entiti proxi proxyclass proxi 
+MTHSIG1	proxyplac proxi place entityproxyid entiti proxi record 
+PACKAGE	top level client scaffold place 
+MTHSIG2	proxyplac proxi place entityproxyid entiti proxi proxyid proxi oper oper 
+MTHSIG3	equal object obj 
+VARIABLES	request token place proxyclass proxi record proxyid proxi oper obj oper separ request bit oper proxyid proxi proxyclass proxi oper prime result 
+MTHSIG8	tostr 

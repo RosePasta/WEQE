@@ -1,0 +1,38 @@
+VARSIG7	membertypeadditions member type additions findallmethod find
+VARSIG6	membertypeadditions member type additions removemethod remove
+VARSIG9	membertypeadditions member type additions findmethod find
+VARSIG8	membertypeadditions member type additions findallsortedmethod find sorted
+VARSIG3	methodmetadata metadata versionaccessormethod version accessor
+VARSIG2	methodmetadata metadata identifieraccessormethod identifier accessor
+VARSIG5	membertypeadditions member type additions mergemethod merge
+VARSIG4	membertypeadditions member type additions persistmethod persist
+COMMENTS	aggregates persistence metadata link javatype type needed web scaffolding add ons constructor javatypepersistencemetadatadetails type persistence metadata details identifiertype identifier type identifierfield identifier field identifieraccessormethod identifier accessor versionaccessormethod version accessor version accessor persistmethod persist persist mergemethod merge merge removemethod remove remove findallsortedmethod find sorted findall find findmethod find find countmethod count count findernames finder names empty finders defined isrooidentifier roo identifier rooidentifierfields roo identifier fields empty finders defined accessor persistence count link membertypeadditions member type additions count presented persistence defined accessor persistence findall find link membertypeadditions member type additions findall find presented persistence defined accessor persistence findentries find entries link membertypeadditions member type additions findentries find entries presented persistence defined accessor persistence findall find link membertypeadditions member type additions findall find presented persistence defined accessor persistence findentries find entries link membertypeadditions member type additions findentries find entries presented persistence defined accessor finder names list finder names empty accessor persistence find link membertypeadditions member type additions find presented persistence defined accessor persistence identifier link methodmetadata metadata identifier accessor presented persistence field metadata identifier link fieldmetadata field metadata identifier field presented persistence identifier type link javatype type field accessor persistence merge link membertypeadditions member type additions merge presented persistence defined accessor persistence persist link membertypeadditions member type additions persist presented persistence defined accessor persistence remove link membertypeadditions member type additions remove presented persistence defined accessor identifier field collection cases identifier type annotated rooidentifier roo identifier list field metadata fields defined type annotated rooidentifier roo identifier accessor persistence version link methodmetadata metadata version accessor presented persistence defined type annotated rooidentifier roo identifier annotation
+VARSIG1	fieldmetadata field metadata identifierfield identifier field
+VARSIG0	javatype type identifiertype identifier type
+MTHSIG4	getfindallsortedmethod find sorted
+VARSIG12	membertypeadditions member type additions findentriessortedmethod find entries sorted
+MTHSIG5	getfindentriessortedmethod find entries sorted
+VARSIG11	membertypeadditions member type additions findentriesmethod find entries
+MTHSIG6	getfindernames finder names
+VARSIG10	membertypeadditions member type additions countmethod count
+MTHSIG7	getfindmethod find
+MTHSIG0	javatypepersistencemetadatadetails type persistence metadata details javatype type identifiertype identifier type fieldmetadata field metadata identifierfield identifier field methodmetadata metadata identifieraccessormethod identifier accessor methodmetadata metadata versionaccessormethod version accessor membertypeadditions member type additions persistmethod persist membertypeadditions member type additions mergemethod merge membertypeadditions member type additions removemethod remove membertypeadditions member type additions findallmethod find membertypeadditions member type additions findallsortedmethod find sorted membertypeadditions member type additions findmethod find membertypeadditions member type additions countmethod count membertypeadditions member type additions findentriesmethod find entries membertypeadditions member type additions findentriessortedmethod find entries sorted list findernames finder names isrooidentifier roo identifier list fieldmetadata field metadata rooidentifierfields roo identifier fields
+MTHSIG1	getcountmethod count
+VARSIG15	list fieldmetadata field metadata rooidentifierfields roo identifier fields
+PACKAGE	springframework roo addon web mvc controller details
+MTHSIG2	getfindallmethod find
+VARSIG14	isrooidentifier roo identifier
+MTHSIG3	getfindentriesmethod find entries
+VARSIG13	list findernames finder names
+MTHSIG8	getidentifieraccessormethod identifier accessor
+MTHSIG9	getidentifierfield identifier field
+MTHSIG15	getversionaccessormethod version accessor
+MTHSIG16	isrooidentifier roo identifier
+MTHSIG13	getremovemethod remove
+MTHSIG14	getrooidentifierfields roo identifier fields
+MTHSIG11	getmergemethod merge
+MTHSIG12	getpersistmethod persist
+CLASSES	javatypepersistencemetadatadetails type persistence metadata details
+METHODS	javatypepersistencemetadatadetails type persistence metadata details getcountmethod count getfindallmethod find getfindentriesmethod find entries getfindallsortedmethod find sorted getfindentriessortedmethod find entries sorted getfindernames finder names getfindmethod find getidentifieraccessormethod identifier accessor getidentifierfield identifier field getidentifiertype identifier type getmergemethod merge getpersistmethod persist getremovemethod remove getrooidentifierfields roo identifier fields getversionaccessormethod version accessor isrooidentifier roo identifier
+MTHSIG10	getidentifiertype identifier type
+VARIABLES	identifiertype identifier type identifierfield identifier field identifieraccessormethod identifier accessor versionaccessormethod version accessor persistmethod persist mergemethod merge removemethod remove findallmethod find findallsortedmethod find sorted findmethod find countmethod count findentriesmethod find entries findentriessortedmethod find entries sorted findernames finder names isrooidentifier roo identifier rooidentifierfields roo identifier fields countmethod count findallmethod find findallsortedmethod find sorted findentriesmethod find entries findentriessortedmethod find entries sorted findernames finder names findmethod find identifieraccessormethod identifier accessor identifierfield identifier field identifiertype identifier type isrooidentifier roo identifier mergemethod merge persistmethod persist removemethod remove rooidentifierfields roo identifier fields versionaccessormethod version accessor

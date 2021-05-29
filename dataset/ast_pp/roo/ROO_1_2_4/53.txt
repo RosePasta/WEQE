@@ -1,0 +1,23 @@
+VARSIG7	set includetables include tables
+VARSIG6	view
+VARSIG9	includenonportableattributes include portable attributes
+VARSIG8	set excludetables exclude tables
+VARSIG3	set schema schemas
+VARSIG2	view
+VARSIG5	testautomatically test automatically
+VARSIG4	javapackage destinationpackage destination
+COMMENTS	database reverse engineering operations displays metadata schema screen writes file filename schemas schema introspect required file write output screen view database views displayed returns dbre commands executed dbre commands introspects database schema entities disk created updated deleted schemas schema reverse engineer required destinationpackage destination entities stored project project top level testautomatically test automatically create automatic integration tests generated entities view database views displayed includetables include tables set tables include reverse engineering excludetables exclude tables set tables exclude reverse engineering includenonportableattributes include portable attributes include portable jpa column attributes columndefinition disableversionfields disable version fields disable table table version column disablegeneratedidentifiers disable generated identifiers disable identifier auto generation activerecord active record generate crud active record methods entity repository generate service layer entity service generate repository layer entity
+CLASSES	dbreoperations dbre operations
+VARSIG1	file file
+VARSIG0	set schema schemas
+METHODS	displaydatabasemetadata display database metadata isdbreinstallationpossible dbre installation reverseengineerdatabase reverse engineer database
+VARSIG12	activerecord active record
+VARSIG11	disablegeneratedidentifiers disable generated identifiers
+VARSIG10	disableversionfields disable version fields
+MTHSIG0	displaydatabasemetadata display database metadata set schema schemas file file view
+MTHSIG1	isdbreinstallationpossible dbre installation
+PACKAGE	springframework roo addon dbre
+MTHSIG2	reverseengineerdatabase reverse engineer database set schema schemas javapackage destinationpackage destination testautomatically test automatically view set includetables include tables set excludetables exclude tables includenonportableattributes include portable attributes disableversionfields disable version fields disablegeneratedidentifiers disable generated identifiers activerecord active record repository service
+VARSIG14	service
+VARSIG13	repository
+VARIABLES	schemas file view schemas destinationpackage destination testautomatically test automatically view includetables include tables excludetables exclude tables includenonportableattributes include portable attributes disableversionfields disable version fields disablegeneratedidentifiers disable generated identifiers activerecord active record repository service

@@ -1,0 +1,41 @@
+VARSIG7	list javasymbolnam symbol parameternam paramet name 
+VARSIG6	list annotatedjavatyp annot type parametertyp paramet type 
+VARSIG9	bodi 
+VARSIG8	list javatyp type throwstyp type 
+VARSIG3	returntyp type 
+VARSIG2	methodnam 
+VARSIG5	javatyp type returntyp type 
+VARSIG4	javasymbolnam symbol methodnam 
+COMMENTS	easi creat link methodmetadata metadata instanc test purpos 
+VARSIG1	javatyp type returntyp type 
+VARSIG0	javasymbolnam symbol methodnam 
+MTHSIG4	getreturntyp type 
+VARSIG12	modifi 
+MTHSIG5	setreturntyp set type javatyp type returntyp type 
+VARSIG11	declaredbymetadataid declar metadata 
+MTHSIG6	getparametertyp paramet type 
+VARSIG10	list annotationmetadata annot metadata annot 
+MTHSIG7	setparametertyp set paramet type list annotatedjavatyp annot type parametertyp paramet type 
+MTHSIG0	stubmethodmetadata stub metadata javasymbolnam symbol methodnam javatyp type returntyp type 
+MTHSIG1	stubmethodmetadata stub metadata methodnam returntyp type 
+PACKAGE	springframework roo addon web mvc control convert 
+MTHSIG2	getmethodnam 
+MTHSIG3	setmethodnam set javasymbolnam symbol methodnam 
+VARSIG13	customdata custom data customdata custom data 
+MTHSIG20	getcustomdata custom data 
+MTHSIG21	setcustomdata set custom data customdata custom data customdata custom data 
+MTHSIG8	getparameternam paramet name 
+MTHSIG9	setparameternam set paramet name list javasymbolnam symbol parameternam paramet name 
+MTHSIG17	setdeclaredbymetadataid set declar metadata declaredbymetadataid declar metadata 
+MTHSIG18	getmodifi modifi 
+MTHSIG15	setannot set annot list annotationmetadata annot metadata annot 
+MTHSIG16	getdeclaredbymetadataid declar metadata 
+MTHSIG13	setbodi set bodi bodi 
+MTHSIG14	getannot annot 
+MTHSIG11	setthrowstyp set type list javatyp type throwstyp type 
+MTHSIG12	getbodi bodi 
+CLASSES	stubmethodmetadata stub metadata 
+METHODS	stubmethodmetadata stub metadata stubmethodmetadata stub metadata getmethodnam setmethodnam set getreturntyp type setreturntyp set type getparametertyp paramet type setparametertyp set paramet type getparameternam paramet name setparameternam set paramet name getthrowstyp type setthrowstyp set type getbodi bodi setbodi set bodi getannot annot setannot set annot getdeclaredbymetadataid declar metadata setdeclaredbymetadataid set declar metadata getmodifi modifi setmodifi set modifi getcustomdata custom data setcustomdata set custom data 
+MTHSIG19	setmodifi set modifi modifi 
+MTHSIG10	getthrowstyp type 
+VARIABLES	methodnam returntyp type methodnam returntyp type methodnam returntyp type parametertyp paramet type parameternam paramet name throwstyp type bodi annot declaredbymetadataid declar metadata modifi customdata custom data methodnam returntyp type parametertyp paramet type parameternam paramet name throwstyp type bodi annot declaredbymetadataid declar metadata modifi customdata custom data 

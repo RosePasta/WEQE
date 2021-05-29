@@ -1,0 +1,22 @@
+VARSIG7	itdfilename filename
+VARSIG6	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG9	javatype type javatype type
+VARSIG8	metadataidentificationstring metadata identification
+VARSIG3	configurablemetadataprovider configurable metadata provider configurablemetadataprovider configurable metadata provider
+VARSIG2	filemanager file manager filemanager file manager
+VARSIG5	javatype type aspectname aspect
+VARSIG4	metadataidentificationstring metadata identification
+COMMENTS	link dataondemandmetadata data demand metadata dod classes configurable dod classes provide relationships governor type details safely parse annotation expect lookup entity entity metadata lookup metadata depend abort couldn find dependent metadata illegalstateexception illegal exception data demand unable locate details persistent type javatype type getfullyqualifiedtypename fully qualified type illegalstateexception illegal exception data demand requires javatype type getfullyqualifiedtypename fully qualified type provide findentries informed dependent metadata monitor parent type parent trickle governing type
+CLASSES	dataondemandmetadataprovider data demand metadata provider
+VARSIG1	metadatadependencyregistry metadata dependency registry metadatadependencyregistry metadata dependency registry
+VARSIG0	metadataservice metadata service metadataservice metadata service
+METHODS	dataondemandmetadataprovider data demand metadata provider getmetadata metadata getitduniquenessfilenamesuffix uniqueness filename suffix getgovernorphysicaltypeidentifier governor physical type identifier createlocalidentifier create local identifier getprovidestype type
+MTHSIG4	createlocalidentifier create local identifier javatype type javatype type path path
+MTHSIG5	getprovidestype type
+VARSIG10	path path
+MTHSIG0	dataondemandmetadataprovider data demand metadata provider metadataservice metadata service metadataservice metadata service metadatadependencyregistry metadata dependency registry metadatadependencyregistry metadata dependency registry filemanager file manager filemanager file manager configurablemetadataprovider configurable metadata provider configurablemetadataprovider configurable metadata provider
+MTHSIG1	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+PACKAGE	springframework roo addon dod
+MTHSIG2	getitduniquenessfilenamesuffix uniqueness filename suffix
+MTHSIG3	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+VARIABLES	metadataservice metadata service metadatadependencyregistry metadata dependency registry filemanager file manager configurablemetadataprovider configurable metadata provider metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename metadataidentificationstring metadata identification javatype type path annotationvalues annotation values javatype type path beaninfometadatakey bean info metadata key entitymetadatakey entity metadata key beaninfometadata bean info metadata entitymetadata entity metadata findentriesmethod find entries persistmethod persist findmethod find identifieraccessor identifier accessor javatype type path physicaltypeidentifier physical type identifier

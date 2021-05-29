@@ -1,0 +1,23 @@
+VARSIG7	commandoption command option option
+VARSIG6	commandinfo command info commandinfo command info
+VARSIG9	json
+VARSIG8	commandoption command option commandoption command option
+VARSIG3	list commandinfo command info commandinfo command info
+VARSIG2	json
+VARSIG5	json
+VARSIG4	commandinfo command info info
+COMMENTS	basic implementation link modelserializer model serializer json simple
+CLASSES	modelserializerimpl model serializer impl
+VARSIG1	commandinfo command info commandinfo command info
+VARSIG0	json
+METHODS	deserialize serialize deserializelist deserialize list serializelist serialize list fromjsontocommandinfo json command info tojsonobect json obect tojsonobject json object fromjsontocommandoption json command option
+MTHSIG4	fromjsontocommandinfo json command info json
+MTHSIG5	tojsonobect json obect commandinfo command info commandinfo command info
+MTHSIG6	tojsonobject json object commandoption command option commandoption command option
+MTHSIG7	fromjsontocommandoption json command option json
+MTHSIG0	deserialize json
+MTHSIG1	serialize commandinfo command info commandinfo command info
+PACKAGE	springframework roo shell json model internal
+MTHSIG2	deserializelist deserialize list json
+MTHSIG3	serializelist serialize list list commandinfo command info commandinfo command info
+VARIABLES	json commandinfo command info json commandinfo command info info json commandinfo command info option commandoption command option json result array jsonelement json element array commandnames command names commandoptions command options builder optionsarray options array jcmd cmd optionnames option names names mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified thenames names

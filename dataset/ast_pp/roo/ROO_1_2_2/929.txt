@@ -1,0 +1,28 @@
+VARSIG7	resource
+VARSIG6	collection includes
+VARSIG9	document document
+VARSIG8	object obj
+VARSIG3	filtering
+VARSIG2	directory
+VARSIG5	filtering
+VARSIG4	directory
+COMMENTS	simplified immutable representation maven resource structured model maven convenience constructor xml element represents maven resource parse required parsing includes creates immutable link resource includes directory link path directory required filtering filtering occur creates immutable link resource optional includes directory link path directory required filtering filtering occur includes list includes returns maven pom element resource document pom document required element
+VARSIG1	element include
+VARSIG0	element resource
+MTHSIG4	equals object obj
+MTHSIG5	getdirectory directory
+MTHSIG6	getelement element document document
+VARSIG10	include
+MTHSIG7	getfiltering filtering
+MTHSIG0	resource element resource
+MTHSIG1	resource directory filtering
+PACKAGE	springframework roo project
+MTHSIG2	resource directory filtering collection includes
+MTHSIG3	compareto compare resource
+MTHSIG8	getincludes includes
+MTHSIG9	getsimpledescription simple description
+MTHSIG11	tostring
+CLASSES	resource
+METHODS	resource resource resource compareto compare equals getdirectory directory getelement element getfiltering filtering getincludes includes getsimpledescription simple description hashcode hash code tostring
+MTHSIG10	hashcode hash code
+VARIABLES	resource include directory filtering directory filtering includes obj document include directory filtering includes directoryelement directory element filteringelement filtering element resourceelement resource element includes builder builder

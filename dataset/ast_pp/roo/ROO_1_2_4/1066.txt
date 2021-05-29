@@ -1,0 +1,30 @@
+VARSIG7	path
+VARSIG6	pattern
+VARSIG9	pattern
+VARSIG8	path
+VARSIG3	map uritemplatevariables uri template variables
+VARSIG2	fullmatch full match
+VARSIG5	path
+VARSIG4	pattern
+COMMENTS	pathmatcher path matcher implementation ant style path patterns examples path separator match path pattern pattern pattern match path path test fullmatch full match full pattern match required pattern match base path sufficient supplied path matched didn match elements path exhausted match pattern exhausted pattern failure path start matches pattern exhausted situation skip find pattern padidxstart pad idx start padidxtmp pad idx tmp str stridxstart str idx start stridxend str idx pattern full path determine pattern mapped docs cvs commit html docs cvs commit html docs docs cvs commit cvs commit docs cvs html docs cvs commit html commit html docs add path parts wildcarded pattern append trailing path parts tests matches pattern pattern special characters characters character pattern pattern match str matched pattern matches pattern set path separator pattern parsing ant
+VARSIG1	path
+VARSIG0	pattern
+MTHSIG4	match pattern path
+VARSIG12	path
+MTHSIG5	matchstart match start pattern path
+VARSIG11	pattern
+MTHSIG6	matchstrings match strings pattern str map uritemplatevariables uri template variables
+VARSIG10	path
+MTHSIG7	setpathseparator set path separator pathseparator path separator
+MTHSIG0	domatch match pattern path fullmatch full match map uritemplatevariables uri template variables
+VARSIG16	pathseparator path separator
+MTHSIG1	extractpathwithinpattern extract path pattern pattern path
+VARSIG15	map uritemplatevariables uri template variables
+PACKAGE	springframework roo support ant
+MTHSIG2	extracturitemplatevariables extract uri template variables pattern path
+VARSIG14	str
+MTHSIG3	ispattern pattern path
+VARSIG13	pattern
+CLASSES	antpathmatcher ant path matcher
+METHODS	domatch match extractpathwithinpattern extract path pattern extracturitemplatevariables extract uri template variables ispattern pattern match matchstart match start matchstrings match strings setpathseparator set path separator
+VARIABLES	pattern path fullmatch full match uritemplatevariables uri template variables pattern path pattern path path pattern path pattern path pattern str uritemplatevariables uri template variables pathseparator path separator path separator pathseparator path separator patterndirs pattern dirs pathdirs path dirs pattidxstart patt idx start pattidxend patt idx pathidxstart path idx start pathidxend path idx patdir pat dir patdir pat dir patidxtmp pat idx tmp patlength pat length strlength str length foundidx idx subpat pat substr str patternparts pattern parts pathparts path parts builder puts patternpart pattern variables result matcher

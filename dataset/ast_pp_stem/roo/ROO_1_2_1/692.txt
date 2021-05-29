@@ -1,0 +1,22 @@
+VARSIG7	integ sizemin size min 
+VARSIG6	integ sizemax size max 
+VARSIG3	javatyp type genericparametertypenam paramet type 
+VARSIG2	javasymbolnam symbol fieldnam field 
+VARSIG5	javatyp type genericparametertypenam paramet type 
+VARSIG4	list annotationmetadatabuild annot metadata builder annot 
+COMMENTS	type collect jsr size annot max attribut default link integ max jsr size annot min attribut default 
+CLASSES	collectionfield collect field 
+VARSIG1	javatyp type fieldtyp field type 
+VARSIG0	physicaltypeidentifi physic type identifi 
+METHODS	collectionfield collect field decorateannotationslist decor annot list getgenericparametertypenam paramet type getiniti initi getsizemax size max getsizemin size min setgenericparametertypenam set paramet type setsizemax set size max setsizemin set size min 
+MTHSIG4	getsizemax size max 
+MTHSIG5	getsizemin size min 
+MTHSIG6	setgenericparametertypenam set paramet type javatyp type genericparametertypenam paramet type 
+MTHSIG7	setsizemax set size max integ sizemax size max 
+MTHSIG0	collectionfield collect field physicaltypeidentifi physic type identifi javatyp type fieldtyp field type javasymbolnam symbol fieldnam field javatyp type genericparametertypenam paramet type 
+MTHSIG1	decorateannotationslist decor annot list list annotationmetadatabuild annot metadata builder annot 
+PACKAGE	springframework roo classpath oper jsr jsr 
+MTHSIG2	getgenericparametertypenam paramet type 
+MTHSIG3	getiniti initi 
+VARIABLES	physicaltypeidentifi physic type identifi fieldtyp field type fieldnam field genericparametertypenam paramet type annot genericparametertypenam paramet type sizemax size max sizemin size min genericparametertypenam paramet type sizemax size max sizemin size min attr 
+MTHSIG8	setsizemin set size min integ sizemin size min 

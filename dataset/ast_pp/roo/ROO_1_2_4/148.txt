@@ -1,0 +1,45 @@
+VARSIG7	attributename attribute
+VARSIG6	javatype type annotationtype annotation type
+VARSIG9	classorinterfacetypedetails type details target
+VARSIG8	stringattributevalue attribute
+VARSIG3	javatype type type
+VARSIG2	javapackage toplevelpackage top level
+VARSIG5	classorinterfacetypedetails type details target
+VARSIG4	convertvoid convert
+COMMENTS	utility methods gwt add returns link receiver type generically typed type generictype type required type constructor prevent instantiation
+VARSIG19	javatype type generictype type
+VARSIG1	gwttype gwt type type
+VARSIG18	gwttype gwt type mirrortype mirror type
+VARSIG0	javatype type governortype governor type
+VARSIG17	javapackage toplevelpackage top level
+MTHSIG4	getfirstannotation annotation classorinterfacetypedetails type details cid javatype type annotationtypes annotation types
+VARSIG12	valueifnull
+MTHSIG5	getmirrortypemap mirror type map javatype type governortype governor type javapackage toplevelpackage top level
+VARSIG11	attributename attribute
+MTHSIG6	getreceivertype receiver type javatype type generictype type
+VARSIG10	javatype type annotationtype annotation type
+MTHSIG7	getstringvalue annotationattributevalue annotation attribute attributevalue attribute
+MTHSIG0	convertgovernortypenameintokeytypename convert governor type key type javatype type governortype governor type gwttype gwt type type javapackage toplevelpackage top level
+VARSIG16	javatype type governortype governor type
+MTHSIG1	convertprimitivetype convert primitive type javatype type type convertvoid convert
+VARSIG15	javatype type annotationtype annotation type
+PACKAGE	springframework roo addon gwt
+MTHSIG2	getannotationvalues annotation values classorinterfacetypedetails type details target javatype type annotationtype annotation type attributename attribute
+VARSIG14	javatype type annotationtypes annotation types
+MTHSIG3	getbooleanannotationvalue annotation classorinterfacetypedetails type details target javatype type annotationtype annotation type attributename attribute valueifnull
+VARSIG13	classorinterfacetypedetails type details cid
+MTHSIG8	lookupproxytargettype lookup proxy target type classorinterfacetypedetails type details proxytype proxy type
+MTHSIG9	lookuprequesttargettype lookup request target type classorinterfacetypedetails type details requesttype request type
+MTHSIG11	scaffoldproxy scaffold proxy classorinterfacetypedetails type details proxy
+MTHSIG12	gwtutils gwt utils
+CLASSES	gwtutils gwt utils
+METHODS	convertgovernortypenameintokeytypename convert governor type key type convertprimitivetype convert primitive type getannotationvalues annotation values getbooleanannotationvalue annotation getfirstannotation annotation getmirrortypemap mirror type map getreceivertype receiver type getstringvalue lookupproxytargettype lookup proxy target type lookuprequesttargettype lookup request target type lookuptargettype lookup target type scaffoldproxy scaffold proxy gwtutils gwt utils
+VARSIG23	classorinterfacetypedetails type details annotatedtype annotated type
+VARSIG22	classorinterfacetypedetails type details requesttype request type
+VARSIG21	classorinterfacetypedetails type details proxytype proxy type
+VARSIG20	annotationattributevalue annotation attribute attributevalue attribute
+VARSIG26	classorinterfacetypedetails type details proxy
+VARSIG25	javatype type stringbasedannotationtype based annotation type
+VARSIG24	javatype type classbasedannotationtype based annotation type
+MTHSIG10	lookuptargettype lookup target type classorinterfacetypedetails type details annotatedtype annotated type javatype type classbasedannotationtype based annotation type javatype type stringbasedannotationtype based annotation type
+VARIABLES	governortype governor type type toplevelpackage top level type convertvoid convert target annotationtype annotation type attributename attribute target annotationtype annotation type attributename attribute valueifnull cid annotationtypes annotation types annotationtype annotation type governortype governor type toplevelpackage top level mirrortype mirror type generictype type attributevalue attribute proxytype proxy type requesttype request type annotatedtype annotated type classbasedannotationtype based annotation type stringbasedannotationtype based annotation type proxy proxy annotations proxy request warning request annotations roo proxy request annotations destinationpackage destination typename type simple values annotation attributevalue attribute arrayattributevalue array attribute stringattributevale attribute vale annotation attributevalue attribute booleanattributevalue attribute annotationmetadata annotation metadata mirrortypemap mirror type map stringbasedannotation based annotation targettypeattributevalue target type attribute classbasedannotation based annotation targettypeattributevalue target type attribute

@@ -1,0 +1,23 @@
+VARSIG7	clioption cli option key password mandatory mail account password password
+VARSIG6	clioption cli option key username mandatory mail account username username
+VARSIG9	clioption cli option key mandatory unspecifieddefaultvalue unspecified optioncontext option context update project receive field javatype type typename type
+VARSIG8	clioption cli option key fieldname field mandatory specifieddefaultvalue mailtemplate mail template unspecifieddefaultvalue unspecified mailtemplate mail template field add javasymbolname symbol fieldname field
+VARSIG3	clioption cli option key protocol mandatory protocol mail server mailprotocol mail protocol protocol
+VARSIG2	clioption cli option key hostserver host server mandatory host server hostserver host server
+VARSIG5	clioption cli option key encoding mandatory encoding mail encoding
+VARSIG4	clioption cli option key port mandatory port mail server port
+COMMENTS	commands email add roo shell
+CLASSES	mailcommands mail commands
+VARSIG1	mailoperations mail operations mailoperations mail operations
+VARSIG0	staticfieldconverter field converter staticfieldconverter field converter
+METHODS	mailcommands mail commands isinstallemailavailable install email installemail install email isinsertjmsavailable insert jms injectemailtemplate inject email template configureemailtemplate configure email template
+MTHSIG4	injectemailtemplate inject email template javasymbolname symbol fieldname field javatype type typename type
+MTHSIG5	configureemailtemplate configure email template subject
+VARSIG11	clioption cli option key subject mandatory message subject obtional subject
+VARSIG10	clioption cli option key mandatory email optional
+MTHSIG0	mailcommands mail commands staticfieldconverter field converter staticfieldconverter field converter mailoperations mail operations mailoperations mail operations
+MTHSIG1	isinstallemailavailable install email
+PACKAGE	springframework roo addon email
+MTHSIG2	installemail install email hostserver host server mailprotocol mail protocol protocol port encoding username password
+MTHSIG3	isinsertjmsavailable insert jms
+VARIABLES	staticfieldconverter field converter mailoperations mail operations hostserver host server protocol port encoding username password fieldname field typename type subject mailoperations mail operations

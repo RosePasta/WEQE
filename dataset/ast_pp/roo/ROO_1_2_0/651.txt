@@ -1,0 +1,16 @@
+VARSIG7	ioexception exception
+VARSIG6	exception
+VARSIG3	targetdirectory target directory
+VARSIG2	sourceantpath source ant path
+VARSIG5	url url
+VARSIG4	replace
+COMMENTS	base operations classes common methods constants fields copy contents directory resource exist target directory sourceantpath source ant path source path targetdirectory target directory target directory
+CLASSES	abstractoperations operations
+VARSIG1	templatename template
+VARSIG0	componentcontext component context context
+METHODS	activate getdocumenttemplate document template copydirectorycontents copy directory contents
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	getdocumenttemplate document template templatename template
+PACKAGE	springframework roo classpath operations
+MTHSIG2	copydirectorycontents copy directory contents sourceantpath source ant path targetdirectory target directory replace
+VARIABLES	context templatename template sourceantpath source ant path targetdirectory target directory replace url logger filemanager file manager context path urls filename file

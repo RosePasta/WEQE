@@ -1,0 +1,70 @@
+MTHSIG22	tostring
+VARSIG39	javatype type parametertype parameter type
+MTHSIG4	getgovernormethod governor javasymbolname symbol methodname javatype type parametertypes parameter types
+VARSIG34	javatype type returntype type
+MTHSIG5	governorhasmethod governor javasymbolname symbol methodname javatype type parametertypes parameter types
+VARSIG33	javasymbolname symbol methodname
+MTHSIG6	governorhasmethodwithsamename governor javasymbolname symbol methodname
+VARSIG32	modifier
+MTHSIG7	getgovernormethod governor javasymbolname symbol methodname list javatype type parametertypes parameter types
+VARSIG31	invocablememberbodybuilder invocable member body builder bodybuilder body builder
+MTHSIG0	abstractitdtypedetailsprovidingmetadataitem type details providing metadata item identifier javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG38	list javatype type parametertypes parameter types
+MTHSIG1	getmemberholdingtypedetails member holding type details
+VARSIG37	invocablememberbodybuilder invocable member body builder bodybuilder body builder
+PACKAGE	springframework roo classpath
+MTHSIG2	gettypeannotation type annotation javatype type annotationtype annotation type
+VARSIG36	list javasymbolname symbol parameternames parameter names
+MTHSIG3	isimplementing implementing classorinterfacetypedetails type details clazz javatype type interfacetarget target
+VARSIG35	list javatype type parametertypes parameter types
+MTHSIG20	builditd build
+MTHSIG21	hashcode hash code
+MTHSIG8	getfield field javasymbolname symbol fieldname field javatype type fieldtype field type
+VARSIG30	javatype type parametertype parameter type
+MTHSIG9	getfield field modifier javasymbolname symbol fieldname field javatype type fieldtype field type fieldinitializer field initializer
+CLASSES	abstractitdtypedetailsprovidingmetadataitem type details providing metadata item
+VARSIG29	javasymbolname symbol fieldname field
+VARSIG28	javatype type parametertype parameter type
+METHODS	abstractitdtypedetailsprovidingmetadataitem type details providing metadata item getmemberholdingtypedetails member holding type details gettypeannotation type annotation isimplementing implementing getgovernormethod governor governorhasmethod governor governorhasmethodwithsamename governor getgovernormethod governor getfield field getfield field getaccessormethod accessor getaccessormethod accessor getaccessormethod accessor getaccessormethod accessor getmutatormethod mutator getmutatormethod mutator getmethod addtoimports add imports ensuregovernorextends ensure governor ensuregovernorimplements ensure governor builditd build hashcode hash code tostring
+VARSIG23	invocablememberbodybuilder invocable member body builder bodybuilder body builder
+VARSIG22	fieldmetadata field metadata field
+VARSIG21	javatype type fieldtype field type
+VARSIG20	javasymbolname symbol fieldname field
+VARSIG27	javasymbolname symbol fieldname field
+VARSIG26	invocablememberbodybuilder invocable member body builder bodybuilder body builder
+VARSIG25	javatype type fieldtype field type
+VARSIG24	javasymbolname symbol fieldname field
+VARSIG7	javatype type parametertypes parameter types
+VARSIG6	javasymbolname symbol methodname
+VARSIG9	javatype type parametertypes parameter types
+VARSIG8	javasymbolname symbol methodname
+VARSIG3	javatype type annotationtype annotation type
+VARSIG2	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG5	javatype type interfacetarget target
+VARSIG4	classorinterfacetypedetails type details clazz
+COMMENTS	implementation link itdtypedetailsprovidingmetadataitem type details providing metadata item assumes subclass require link classorinterfacetypedetails type details representing governor wishes build link itdtypedetailsbuilder type details builder mechanism fields validates input constructs superclass link itdtypedetailsprovidingmetadataitem type details providing metadata item exposes link classorinterfacetypedetails type details governor ensures link isvalid valid returns subclasses generally link isvalid valid subclasses attempt set link itdtypedetails type details output link isvalid valid identifier identifier item metadata required aspectname aspect type required governorphysicaltypemetadata governor physical type metadata governor expected link classorinterfacetypedetails type details required reliable physical type details problem provide subclass builder preparing easier returns metadata annotation type governor annotationtype annotation type type annotation generate required governor annotation determines presented superclasses target clazz cid search interfacetarget target locate superclasses returns governor methodname search parametertypes parameter types method parameter types memberfindingutils member finding utils getdeclaredmethod declared springframework roo classpath details memberholdingtypedetails member holding type details javasymbolname symbol list governor signature methodname search parametertypes parameter types method parameter types governor parameters methodname search returns governor methodname search parametertypes parameter types method parameter types memberfindingutils member finding utils getdeclaredmethod declared springframework roo classpath details memberholdingtypedetails member holding type details javasymbolname symbol list convenience returning simple field based field type initializer fieldname field field fieldtype field type field type fieldinitializer field initializer initialize field field exists governor field field type returns type parameter types parameter names body methodname returntype type type parametertypes parameter types list parameter types parameternames parameter names list parameter names bodybuilder body builder body exists governor returned ensures governor type introduces type supertype iff javatype type type extend required ensures governor type javatype type type implement required generates link itdtypedetails type details current contents instance instance link itdtypedetailsbuilder type details builder
+VARSIG19	fieldmetadata field metadata field
+VARSIG1	javatype type aspectname aspect
+VARSIG18	fieldinitializer field initializer
+VARSIG0	identifier
+VARSIG17	javatype type fieldtype field type
+VARSIG12	list javatype type parametertypes parameter types
+VARSIG11	javasymbolname symbol methodname
+VARSIG10	javasymbolname symbol methodname
+VARSIG16	javasymbolname symbol fieldname field
+VARSIG15	modifier
+VARSIG14	javatype type fieldtype field type
+VARSIG13	javasymbolname symbol fieldname field
+MTHSIG17	addtoimports add imports list javatype type parametertypes parameter types
+MTHSIG18	ensuregovernorextends ensure governor javatype type javatype type
+MTHSIG15	getmutatormethod mutator javasymbolname symbol fieldname field javatype type parametertype parameter type invocablememberbodybuilder invocable member body builder bodybuilder body builder
+MTHSIG16	getmethod modifier javasymbolname symbol methodname javatype type returntype type list javatype type parametertypes parameter types list javasymbolname symbol parameternames parameter names invocablememberbodybuilder invocable member body builder bodybuilder body builder
+MTHSIG13	getaccessormethod accessor javasymbolname symbol fieldname field javatype type fieldtype field type invocablememberbodybuilder invocable member body builder bodybuilder body builder
+MTHSIG14	getmutatormethod mutator javasymbolname symbol fieldname field javatype type parametertype parameter type
+MTHSIG11	getaccessormethod accessor javasymbolname symbol fieldname field javatype type fieldtype field type
+MTHSIG12	getaccessormethod accessor fieldmetadata field metadata field invocablememberbodybuilder invocable member body builder bodybuilder body builder
+MTHSIG19	ensuregovernorimplements ensure governor javatype type javatype type
+MTHSIG10	getaccessormethod accessor fieldmetadata field metadata field
+VARIABLES	identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata annotationtype annotation type clazz interfacetarget target methodname parametertypes parameter types methodname parametertypes parameter types methodname methodname parametertypes parameter types fieldname field fieldtype field type modifier fieldname field fieldtype field type fieldinitializer field initializer field fieldname field fieldtype field type field bodybuilder body builder fieldname field fieldtype field type bodybuilder body builder fieldname field parametertype parameter type fieldname field parametertype parameter type bodybuilder body builder modifier methodname returntype type parametertypes parameter types parameternames parameter names bodybuilder body builder parametertypes parameter types parametertype parameter type javatype type javatype type governortypedetails governor type details itdtypedetails type details builder destination aspectname aspect governorphysicaltypemetadata governor physical type metadata physicaltypedetails physical type details typestoimport types tsc
+VARSIG41	javatype type javatype type
+VARSIG40	javatype type javatype type

@@ -1,0 +1,8 @@
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	getpathinformation path
+PACKAGE	springframework roo addon maven
+COMMENTS	resolves paths typical maven directory conventions todo move constant proper location
+CLASSES	mavenpathresolver maven path resolver
+VARIABLES	context pathinformation path workingdir working dir root
+VARSIG0	componentcontext component context context
+METHODS	activate getpathinformation path

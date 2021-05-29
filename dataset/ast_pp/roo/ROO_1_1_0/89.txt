@@ -1,0 +1,17 @@
+VARSIG7	runtimeexception runtime exception
+VARSIG6	javasymbolname symbol findername finder
+VARSIG8	object
+VARSIG3	javatype type
+VARSIG2	javasymbolname symbol finder
+VARSIG5	javatype type typename type
+VARSIG4	runtimeexception runtime exception
+COMMENTS	finder addon operations entity metadata type finders entity entity metadata bean info metadata compute finders avoid displaying problematic finders query query entity metadata type finders entity entity metadata bean info metadata file exists there entity metadata reason source file lines suddenly existing entity annotation confirm typed valid finder todo improve detection invalid finder names destination list store attributes copy existing attributes excluding finder attribute ensure array strings add desired finder let add finder attribute
+CLASSES	finderoperationsimpl finder operations impl
+VARSIG1	integer depth
+VARSIG0	javatype type typename type
+METHODS	isfindercommandavailable finder command listfindersfor list finders installfinder install finder
+MTHSIG0	isfindercommandavailable finder command
+MTHSIG1	listfindersfor list finders javatype type typename type integer depth
+PACKAGE	springframework roo addon finder
+MTHSIG2	installfinder install finder javatype type typename type javasymbolname symbol findername finder
+VARIABLES	typename type depth finder typename type findername finder logger filemanager file manager pathresolver path resolver physicaltypemetadataprovider physical type metadata provider metadataservice metadata service javatype type path entitymid entity mid entitymetadata entity metadata beaninfomid bean info mid beaninfometadata bean info metadata finderservice finder service finders result paramnames names paramtypes types signature javatype type path entitymid entity mid entitymetadata entity metadata beaninfomid bean info mid beaninfometadata bean info metadata physicaltypemetadata physical type metadata ptd mutable annotations finderservice finder service attributes desiredfinders desired finders alreadyadded val arrayval array val annotation

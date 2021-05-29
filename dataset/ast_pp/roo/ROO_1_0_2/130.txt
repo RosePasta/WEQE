@@ -1,0 +1,34 @@
+VARSIG7	list javatype type extendstypes types
+VARSIG6	list methodmetadata metadata declaredmethods declared methods
+VARSIG9	list annotationmetadata annotation metadata typeannotations type annotations
+VARSIG8	list javatype type implementstypes types
+VARSIG3	set javatype type registeredimports registered imports
+VARSIG2	privilegedaspect privileged aspect
+VARSIG5	list fieldmetadata field metadata declaredfields declared fields
+VARSIG4	list constructormetadata constructor metadata declaredconstructors declared constructors
+COMMENTS	representation link itdtypedetails type details
+VARSIG1	javatype type aspect
+VARSIG0	classorinterfacetypedetails type details governor
+MTHSIG4	getphysicaltypecategory physical type category
+VARSIG12	javatype type aspect
+MTHSIG5	getname
+VARSIG11	classorinterfacetypedetails type details governor
+MTHSIG6	getgovernor governor
+VARSIG10	declaredbymetadataid declared metadata
+MTHSIG7	getaspect aspect
+MTHSIG0	defaultitdtypedetails type details classorinterfacetypedetails type details governor javatype type aspect privilegedaspect privileged aspect set javatype type registeredimports registered imports list constructormetadata constructor metadata declaredconstructors declared constructors list fieldmetadata field metadata declaredfields declared fields list methodmetadata metadata declaredmethods declared methods list javatype type extendstypes types list javatype type implementstypes types list annotationmetadata annotation metadata typeannotations type annotations
+MTHSIG1	getbuilder builder declaredbymetadataid declared metadata classorinterfacetypedetails type details governor javatype type aspect privilegedaspect privileged aspect
+PACKAGE	springframework roo classpath details
+MTHSIG2	getregisteredimports registered imports
+MTHSIG3	getimplementstypes types
+VARSIG13	privilegedaspect privileged aspect
+MTHSIG8	isprivilegedaspect privileged aspect
+MTHSIG9	getdeclaredconstructors declared constructors
+MTHSIG13	gettypeannotations type annotations
+MTHSIG14	tostring
+MTHSIG11	getdeclaredmethods declared methods
+MTHSIG12	getextendstypes types
+CLASSES	defaultitdtypedetails type details
+METHODS	defaultitdtypedetails type details getbuilder builder getregisteredimports registered imports getimplementstypes types getphysicaltypecategory physical type category getname getgovernor governor getaspect aspect isprivilegedaspect privileged aspect getdeclaredconstructors declared constructors getdeclaredfields declared fields getdeclaredmethods declared methods getextendstypes types gettypeannotations type annotations tostring
+MTHSIG10	getdeclaredfields declared fields
+VARIABLES	governor aspect privilegedaspect privileged aspect registeredimports registered imports declaredconstructors declared constructors declaredfields declared fields declaredmethods declared methods extendstypes types implementstypes types typeannotations type annotations declaredbymetadataid declared metadata governor aspect privilegedaspect privileged aspect governor aspect privilegedaspect privileged aspect physicaltypecategory physical type category declaredconstructors declared constructors declaredfields declared fields declaredmethods declared methods extendstypes types typeannotations type annotations implementstypes types registeredimports registered imports tsc

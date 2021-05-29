@@ -1,0 +1,61 @@
+MTHSIG28	isincludenonportableattributes include portable attributes
+MTHSIG29	setincludenonportableattributes set include portable attributes includenonportableattributes include portable attributes
+MTHSIG26	getindices indices
+MTHSIG27	addindex add
+MTHSIG24	getexportedkeycountbyforeigntablename exported key count foreign table foreigntablename foreign table
+MTHSIG25	addexportedkey add exported key foreignkey foreign key exportedkey exported key
+MTHSIG22	findimportedkeybylocalcolumnname find imported key local column localcolumnname local column
+MTHSIG23	getexportedkeys exported
+MTHSIG4	setschema set schema schema schema
+MTHSIG5	getname
+MTHSIG6	setname set
+MTHSIG7	getdescription description
+MTHSIG0	table
+MTHSIG1	getcatalog catalog
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	setcatalog set catalog catalog
+MTHSIG3	getschema schema
+MTHSIG20	getimportedkeycountbyforeigntablename imported key count foreign table foreigntablename foreign table
+MTHSIG21	addimportedkey add imported key foreignkey foreign key foreignkey foreign key
+MTHSIG8	setdescription set description description
+MTHSIG9	isjointable join table
+CLASSES	table
+METHODS	table getcatalog catalog setcatalog set catalog getschema schema setschema set schema getname setname set getdescription description setdescription set description isjointable join table setjointable set join table getcolumns columns getcolumncount column count addcolumn add column findcolumn find column getprimarykeys primary getprimarykeycount primary key count getimportedkeys imported getimportedkeycount imported key count getimportedkey imported key getimportedkeycountbyforeigntablename imported key count foreign table addimportedkey add imported key findimportedkeybylocalcolumnname find imported key local column getexportedkeys exported getexportedkeycountbyforeigntablename exported key count foreign table addexportedkey add exported key getindices indices addindex add isincludenonportableattributes include portable attributes setincludenonportableattributes set include portable attributes hashcode hash code equals tostring
+VARSIG22	object obj
+VARSIG21	includenonportableattributes include portable attributes
+VARSIG20	
+MTHSIG31	equals object obj
+MTHSIG32	tostring
+MTHSIG30	hashcode hash code
+VARSIG7	column column
+VARSIG6	
+VARSIG9	
+VARSIG8	column column
+VARSIG3	description
+VARSIG2	
+VARSIG5	column column
+VARSIG4	jointable join table
+COMMENTS	represents table database model
+VARSIG19	foreignkey foreign key exportedkey exported key
+VARSIG1	schema schema
+VARSIG18	foreignkey foreign key exportedkey exported key
+VARSIG0	catalog
+VARSIG17	foreigntablename foreign table
+VARSIG12	foreignkey foreign key foreignkey foreign key
+VARSIG11	foreigntablename foreign table
+VARSIG10	foreignkey foreign key foreignkey foreign key
+VARSIG16	reference reference
+VARSIG15	foreignkey foreign key foreignkey foreign key
+VARSIG14	localcolumnname local column
+VARSIG13	foreignkey foreign key foreignkey foreign key
+MTHSIG17	getimportedkeys imported
+MTHSIG18	getimportedkeycount imported key count
+MTHSIG15	getprimarykeys primary
+MTHSIG16	getprimarykeycount primary key count
+MTHSIG13	addcolumn add column column column
+MTHSIG14	findcolumn find column
+MTHSIG11	getcolumns columns
+MTHSIG12	getcolumncount column count
+MTHSIG19	getimportedkey imported key
+MTHSIG10	setjointable set join table jointable join table
+VARIABLES	catalog schema description jointable join table column column column foreignkey foreign key foreigntablename foreign table foreignkey foreign key foreignkey foreign key localcolumnname local column foreignkey foreign key reference foreigntablename foreign table exportedkey exported key exportedkey exported key includenonportableattributes include portable attributes obj serialversionuid serial version uid catalog schema description jointable join table columns importedkeys imported exportedkeys exported indices includenonportableattributes include portable attributes primarykeys primary count count prime result

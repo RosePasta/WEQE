@@ -1,0 +1,21 @@
+VARSIG7	javatype type javatype type
+VARSIG6	metadataidentificationstring metadata identification
+VARSIG8	logicalpath logical path path
+VARSIG3	javatype type aspectname aspect
+VARSIG2	metadataidentificationstring metadata identification
+VARSIG5	itdfilename filename
+VARSIG4	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+COMMENTS	implementation link pluralmetadataprovider plural metadata provider odd link abstractitdmetadataprovider metadata provider doesn produce plural link pluralmetadata plural metadata getplural plural refactor
+CLASSES	pluralmetadataproviderimpl plural metadata provider impl
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+METHODS	activate deactivate getmetadata metadata getitduniquenessfilenamesuffix uniqueness filename suffix getgovernorphysicaltypeidentifier governor physical type identifier createlocalidentifier create local identifier getprovidestype type
+MTHSIG4	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+MTHSIG5	createlocalidentifier create local identifier javatype type javatype type logicalpath logical path path
+MTHSIG6	getprovidestype type
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo addon plural
+MTHSIG2	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+MTHSIG3	getitduniquenessfilenamesuffix uniqueness filename suffix
+VARIABLES	context context metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename metadataidentificationstring metadata identification javatype type path pluralannotationvalues plural annotation values javatype type path

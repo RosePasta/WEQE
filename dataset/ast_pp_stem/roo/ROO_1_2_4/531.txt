@@ -1,0 +1,60 @@
+MTHSIG4	getpath path metadataidentificationstr metadata identif 
+VARSIG34	membertypeaddit member type addit updatemethod updat 
+MTHSIG5	isvalid valid metadataidentificationstr metadata identif 
+VARSIG33	membertypeaddit member type addit findmethod find 
+MTHSIG6	getannotationvalu annot valu 
+VARSIG32	fieldmetadata field metadata idfield field 
+MTHSIG7	tostr 
+VARSIG31	membertypeaddit member type addit findmethod find 
+MTHSIG0	webscaffoldmetadata web scaffold metadata identifi javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltyp governor physic type webscaffoldannotationvalu web scaffold annot valu annotationvalu annot valu fieldmetadata field metadata idfield field sortedmap sort map javatyp type javatypemetadatadetail type metadata detail specialdomaintyp special domain type list javatypemetadatadetail type metadata detail dependenttyp depend type map javasymbolnam symbol datetimeformatdetail time format detail datetyp type map methodmetadatacustomdatakei metadata custom data kei membertypeaddit member type addit crudaddit crud addit collect javatyp type editablefieldtyp edit field type 
+MTHSIG1	createidentifi creat identifi javatyp type javatyp type logicalpath logic path path 
+PACKAGE	springframework roo addon web mvc control scaffold 
+MTHSIG2	getjavatyp type metadataidentificationstr metadata identif 
+MTHSIG3	getmetadataidentifertyp metadata identif type 
+MTHSIG8	getconstructor constructor 
+VARSIG30	fieldmetadata field metadata idfield field 
+MTHSIG9	getcreateformmethod creat form list javatypemetadatadetail type metadata detail dependenttyp depend type 
+CLASSES	webscaffoldmetadata web scaffold metadata 
+VARSIG29	javatyp type type 
+VARSIG28	javatypemetadatadetail type metadata detail domaintyp domain type 
+METHODS	webscaffoldmetadata web scaffold metadata createidentifi creat identifi getjavatyp type getmetadataidentifertyp metadata identif type getpath path isvalid valid getannotationvalu annot valu tostr getconstructor constructor getcreateformmethod creat form getcreatemethod creat getdatetimeformathelpermethod time format helper getdeletemethod delet getencodeurlpathsegmentmethod encod url path segment getlistmethod list getpopulateeditformmethod popul edit form getshortnam getshowmethod getupdateformmethod updat form getupdatemethod updat 
+VARSIG23	membertypeaddit member type addit countalladdit count addit 
+VARSIG22	membertypeaddit member type addit findalladdit find addit 
+VARSIG21	membertypeaddit member type addit findmethod find 
+VARSIG20	membertypeaddit member type addit deletemethodaddit delet addit 
+VARSIG27	collect javatyp type editablefieldtyp edit field type 
+VARSIG26	collect javatypemetadatadetail type metadata detail specialdomaintyp special domain type 
+VARSIG25	javatyp type entiti 
+VARSIG24	membertypeaddit member type addit findentriesaddit find entri addit 
+VARSIG7	map javasymbolnam symbol datetimeformatdetail time format detail datetyp type 
+VARSIG6	list javatypemetadatadetail type metadata detail dependenttyp depend type 
+VARSIG9	collect javatyp type editablefieldtyp edit field type 
+VARSIG8	map methodmetadatacustomdatakei metadata custom data kei membertypeaddit member type addit crudaddit crud addit 
+VARSIG3	webscaffoldannotationvalu web scaffold annot valu annotationvalu annot valu 
+VARSIG2	physicaltypemetadata physic type metadata governorphysicaltyp governor physic type 
+VARSIG5	sortedmap sort map javatyp type javatypemetadatadetail type metadata detail specialdomaintyp special domain type 
+VARSIG4	fieldmetadata field metadata idfield field 
+COMMENTS	metadata link roowebscaffold roo web scaffold constructor identifi aspectnam aspect governorphysicaltyp governor physic type annotationvalu annot valu idfield field specialdomaintyp special domain type dependenttyp depend type datetyp type crudaddit crud addit editablefieldtyp edit field type creat method list updat method delet ad arrai fieldnam field posit path posit return metadata list introduc control findalladdit find addit countalladdit count addit findentriesaddit find entri addit introduc 
+VARSIG19	fieldmetadata field metadata idfield field 
+VARSIG1	javatyp type aspectnam aspect 
+VARSIG18	entri javasymbolnam symbol datetimeformatdetail time format detail javasymbolnamedatetimeformatdetailsentri symbol time format detail entri 
+VARSIG0	identifi 
+VARSIG17	membertypeaddit member type addit persistmethod persist 
+VARSIG12	metadataidentificationstr metadata identif 
+VARSIG11	logicalpath logic path path 
+VARSIG10	javatyp type javatyp type 
+VARSIG16	javatypemetadatadetail type metadata detail dependenttyp depend type 
+VARSIG15	list javatypemetadatadetail type metadata detail dependenttyp depend type 
+VARSIG14	metadataidentificationstr metadata identif 
+VARSIG13	metadataidentificationstr metadata identif 
+MTHSIG17	getshowmethod fieldmetadata field metadata idfield field membertypeaddit member type addit findmethod find 
+MTHSIG18	getupdateformmethod updat form fieldmetadata field metadata idfield field membertypeaddit member type addit findmethod find 
+MTHSIG15	getpopulateeditformmethod popul edit form javatyp type entiti collect javatypemetadatadetail type metadata detail specialdomaintyp special domain type collect javatyp type editablefieldtyp edit field type 
+MTHSIG16	getshortnam javatyp type type 
+MTHSIG13	getencodeurlpathsegmentmethod encod url path segment 
+MTHSIG14	getlistmethod list membertypeaddit member type addit findalladdit find addit membertypeaddit member type addit countalladdit count addit membertypeaddit member type addit findentriesaddit find entri addit 
+MTHSIG11	getdatetimeformathelpermethod time format helper 
+MTHSIG12	getdeletemethod delet fieldmetadata field metadata idfield field membertypeaddit member type addit deletemethodaddit delet addit membertypeaddit member type addit findmethod find 
+MTHSIG19	getupdatemethod updat membertypeaddit member type addit updatemethod updat 
+MTHSIG10	getcreatemethod creat membertypeaddit member type addit persistmethod persist 
+VARIABLES	identifi aspectnam aspect governorphysicaltyp governor physic type annotationvalu annot valu idfield field specialdomaintyp special domain type dependenttyp depend type datetyp type crudaddit crud addit editablefieldtyp edit field type javatyp type path metadataidentificationstr metadata identif metadataidentificationstr metadata identif metadataidentificationstr metadata identif dependenttyp depend type dependenttyp depend type persistmethod persist javasymbolnamedatetimeformatdetailsentri symbol time format detail entri idfield field deletemethodaddit delet addit findmethod find findalladdit find addit countalladdit count addit findentriesaddit find entri addit entiti specialdomaintyp special domain type editablefieldtyp edit field type domaintyp domain type type idfield field findmethod find idfield field findmethod find updatemethod updat field http servlet request produc html type type annotationvalu annot valu compositepk composit controllerpath control path datetyp type entitynam entiti formbackingtyp form back type javatypemetadatahold type metadata holder persistmethod persist countallmethod count findmethod find findallmethod find findentriesmethod find entri updatemethod updat deletemethod delet builder constructor bodybuild bodi builder constructorbuild constructor builder methodnam parametertyp paramet type parameternam paramet name annot requestmappingattribut request map attribut requestmap request map bodybuild bodi builder listad list stringarraytyp arrai type listtyp list type arraylisttyp arrai list type methodbuild builder javatypepersistencemetadatahold type persist metadata holder methodnam validannot valid annot parametertyp paramet type parameternam paramet name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder methodbuild builder methodnam parametertyp paramet type parameternam paramet name bodybuild bodi builder pattern datetimeformat time format javatypepersistencemetadatahold type persist metadata holder methodnam idfieldnam field fieldnam field deletemethodcal delet call attribut pathvariableannot path variabl annot firstresultattribut result attribut firstresultannot result annot maxresultsattribut max attribut maxresultannot max result annot parametertyp paramet type parameternam paramet name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder methodbuild builder methodnam parametertyp paramet type parameternam paramet name bodybuild bodi builder methodnam firstresultattribut result attribut firstresultannot result annot maxresultsattribut max attribut maxresultannot max result annot parametertyp paramet type parameternam paramet name requestmappingattribut request map attribut annot plural bodybuild bodi builder methodbuild builder methodnam parametertyp paramet type parameternam paramet name bodybuild bodi builder persistencedetail persist detail modelattribut model attribut javatypepersistencemetadatahold type persist metadata holder methodnam attribut idfieldnam field pathvariableannot path variabl annot parametertyp paramet type parameternam paramet name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder methodbuild builder javatypepersistencemetadatahold type persist metadata holder methodnam idfieldnam field attribut pathvariableannot path variabl annot parametertyp paramet type parameternam paramet name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder methodbuild builder javatypepersistencemetadatahold type persist metadata holder methodnam validannot valid annot parametertyp paramet type parameternam paramet name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder methodbuild builder 

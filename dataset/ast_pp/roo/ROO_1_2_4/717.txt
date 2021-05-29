@@ -1,0 +1,14 @@
+VARSIG3	list annotationmetadatabuilder annotation metadata builder annotations
+VARSIG2	javasymbolname symbol fieldname field
+VARSIG4	enumtype type enumtype type
+COMMENTS	field intended jsr create enumerated annotation
+CLASSES	enumfield field
+VARSIG1	javatype type fieldtype field type
+VARSIG0	physicaltypeidentifier physical type identifier
+METHODS	enumfield field decorateannotationslist decorate annotations list getenumtype type setenumtype set type
+MTHSIG0	enumfield field physicaltypeidentifier physical type identifier javatype type fieldtype field type javasymbolname symbol fieldname field
+MTHSIG1	decorateannotationslist decorate annotations list list annotationmetadatabuilder annotation metadata builder annotations
+PACKAGE	springframework roo classpath operations jsr jsr
+MTHSIG2	getenumtype type
+MTHSIG3	setenumtype set type enumtype type enumtype type
+VARIABLES	physicaltypeidentifier physical type identifier fieldtype field type fieldname field annotations enumtype type enumtype type attributes

@@ -1,0 +1,26 @@
+VARSIG7	clioption cli option key hostserver host server mandatory host server hostserver host server
+VARSIG6	clioption cli option key async mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue injected executed asynchronously async
+VARSIG9	clioption cli option key port mandatory port mail server port
+VARSIG8	clioption cli option key protocol mandatory protocol mail server mailprotocol mail protocol protocol
+VARSIG3	componentcontext component context context
+VARSIG2	clioption cli option key subject mandatory message subject obtional subject
+VARSIG5	clioption cli option key mandatory unspecifieddefaultvalue unspecified optioncontext option context update project receive field javatype type typename type
+VARSIG4	clioption cli option key fieldname field mandatory specifieddefaultvalue mailtemplate mail template unspecifieddefaultvalue unspecified mailtemplate mail template field add javasymbolname symbol fieldname field
+COMMENTS	commands email add roo shell mail template commands call link ismailtemplateavailable mail template mail template commands
+VARSIG1	clioption cli option key mandatory email optional
+VARSIG0	componentcontext component context context
+MTHSIG4	installemail install email hostserver host server mailprotocol mail protocol protocol port encoding username password
+VARSIG12	clioption cli option key password mandatory mail account password password
+MTHSIG5	isinsertjmsavailable insert jms
+VARSIG11	clioption cli option key username mandatory mail account username username
+MTHSIG6	isinstallemailavailable install email
+VARSIG10	clioption cli option key encoding mandatory encoding mail encoding
+MTHSIG7	ismailtemplateavailable mail template
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	configureemailtemplate configure email template subject
+PACKAGE	springframework roo addon email
+MTHSIG2	deactivate componentcontext component context context
+MTHSIG3	injectemailtemplate inject email template javasymbolname symbol fieldname field javatype type typename type async
+CLASSES	mailcommands mail commands
+METHODS	activate configureemailtemplate configure email template deactivate injectemailtemplate inject email template installemail install email isinsertjmsavailable insert jms isinstallemailavailable install email ismailtemplateavailable mail template
+VARIABLES	context subject context fieldname field typename type async hostserver host server protocol port encoding username password mailoperations mail operations staticfieldconverter field converter

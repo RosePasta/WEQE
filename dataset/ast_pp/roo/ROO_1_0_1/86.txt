@@ -1,0 +1,29 @@
+VARSIG7	javatype type controller
+VARSIG6	exception
+VARSIG9	ioexception exception
+VARSIG8	preferredmapping preferred mapping
+VARSIG3	webmvcoperations web mvc operations mvcoperations mvc operations
+VARSIG2	classpathoperations classpath operations classpathoperations classpath operations
+VARSIG5	menuoperations menu operations menuoperations menu operations
+VARSIG4	pathresolver path resolver pathresolver path resolver
+COMMENTS	operations create view layer resources install styles install styles install layout install common view files install tags install message resources creates spring mvc controller request mappings assigned commence create annotation requestmapping request mapping myobject create annotation controller copy contents directory resource exist target directory sourceantpath source ant path directory target directory
+VARSIG1	metadataservice metadata service metadataservice metadata service
+VARSIG0	filemanager file manager filemanager file manager
+VARSIG17	ioexception exception
+MTHSIG4	setproperties set properties fileidentifier file identifier propkey prop key
+VARSIG12	
+MTHSIG5	copydirectorycontents copy directory contents sourceantpath source ant path targetdirectory target directory
+VARSIG11	propkey prop key
+VARSIG10	fileidentifier file identifier
+MTHSIG0	jspoperations jsp operations filemanager file manager filemanager file manager metadataservice metadata service metadataservice metadata service classpathoperations classpath operations classpathoperations classpath operations webmvcoperations web mvc operations mvcoperations mvc operations pathresolver path resolver pathresolver path resolver menuoperations menu operations menuoperations menu operations
+VARSIG16	url url
+MTHSIG1	iscontrollercommandavailable controller command
+VARSIG15	targetdirectory target directory
+PACKAGE	springframework roo addon mvc jsp
+MTHSIG2	installcommonviewartefacts install common view artefacts
+VARSIG14	sourceantpath source ant path
+MTHSIG3	createmanualcontroller create manual controller javatype type controller preferredmapping preferred mapping
+VARSIG13	ioexception exception
+CLASSES	jspoperations jsp operations
+METHODS	jspoperations jsp operations iscontrollercommandavailable controller command installcommonviewartefacts install common view artefacts createmanualcontroller create manual controller setproperties set properties copydirectorycontents copy directory contents
+VARIABLES	filemanager file manager metadataservice metadata service classpathoperations classpath operations mvcoperations mvc operations pathresolver path resolver menuoperations menu operations controller preferredmapping preferred mapping fileidentifier file identifier propkey prop key sourceantpath source ant path targetdirectory target directory url filemanager file manager metadataservice metadata service classpathoperations classpath operations webmvcoperations web mvc operations pathresolver path resolver menuoperations menu operations projectmetadata project metadata pathresolver path resolver ndirectory directory resourceidentifier resource identifier foldername folder requestmappingattributes request mapping attributes typename type dropfrom drop requestmapping request mapping controllerattributes controller attributes controllerannotation controller annotation declaredbymetadataid declared metadata annotations methods getmethodannotations annotations getmethodattributes attributes getparamtypes types getparamnames names getmethod postmethodannotations post annotations postmethodattributes post attributes postparamtypes post types idparamannotations annotations postparamnames post names postmethod post indexmethodannotations annotations indexmethodattributes attributes indexparamtypes types indexmethod details tilesoperations tiles operations mutablefile mutable file props filename file

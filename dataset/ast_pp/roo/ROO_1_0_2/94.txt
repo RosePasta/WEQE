@@ -1,0 +1,14 @@
+VARSIG3	clioption cli option key mandatory number milliseconds poll minimumdelaybetweenpoll minimum delay poll
+VARSIG2	clioption cli option key enabled mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified activates development mode enabled
+COMMENTS	basic commands system operation manual polling
+CLASSES	bootstrapcommands bootstrap commands
+VARSIG1	shell shell
+VARSIG0	defaultprocessmanager process manager processmanager process manager
+METHODS	bootstrapcommands bootstrap commands developmentmode development mode pollinginfo polling info pollingspeed polling speed poll
+MTHSIG4	poll
+MTHSIG0	bootstrapcommands bootstrap commands defaultprocessmanager process manager processmanager process manager shell shell
+MTHSIG1	developmentmode development mode enabled
+PACKAGE	springframework roo bootstrap
+MTHSIG2	pollinginfo polling info
+MTHSIG3	pollingspeed polling speed minimumdelaybetweenpoll minimum delay poll
+VARIABLES	processmanager process manager shell enabled minimumdelaybetweenpoll minimum delay poll processmanager process manager shell duration minimum originalsetting original setting

@@ -1,0 +1,34 @@
+VARSIG7	asynchronous
+VARSIG6	declaredbymetadataid declared metadata
+VARSIG9	javatype type targettype target type
+VARSIG8	physicaltypeidentifier physical type identifier
+VARSIG3	
+VARSIG2	javatype type targettype target type
+VARSIG5	javasymbolname symbol fieldname field
+VARSIG4	jmsdestinationtype jms destination type destinationtype destination type
+COMMENTS	jms configuration operations destination configured add create content people started determine canonical filename check file doesn exist creates injected sends jms message fieldname field declaredbymetadataid declared metadata asynchronous jms message asynchronously builder ensures spring config files elements properties support asynchronous tasks create field create
+VARSIG1	
+VARSIG0	document appctx app ctx
+VARSIG17	element dependencyelement dependency element
+MTHSIG4	getphysicallocationcanonicalpath physical location canonical path physicaltypeidentifier physical type identifier
+VARSIG12	jmsprovider jms provider jmsprovider jms provider
+MTHSIG5	hasjmscontext jms context
+VARSIG11	asynchronous
+MTHSIG6	injectjmstemplate inject jms template javatype type targettype target type javasymbolname symbol fieldname field asynchronous
+VARSIG10	javasymbolname symbol fieldname field
+MTHSIG7	installjms install jms jmsprovider jms provider jmsprovider jms provider jmsdestinationtype jms destination type destinationtype destination type
+MTHSIG0	adddefaultdestination add destination document appctx app ctx
+VARSIG16	element dependencyelement dependency element
+MTHSIG1	addjmslistener add jms listener javatype type targettype target type jmsdestinationtype jms destination type destinationtype destination type
+VARSIG15	jmsprovider jms provider jmsprovider jms provider
+PACKAGE	springframework roo addon jms
+MTHSIG2	createsendmessagemethod create send message javasymbolname symbol fieldname field declaredbymetadataid declared metadata asynchronous
+VARSIG14	jmsdestinationtype jms destination type destinationtype destination type
+MTHSIG3	ensurespringasynchronoussupportenabled ensure spring asynchronous support enabled
+VARSIG13	
+MTHSIG8	isjmsinstallationpossible jms installation
+MTHSIG9	ismanagejmsavailable manage jms
+CLASSES	jmsoperationsimpl jms operations impl
+METHODS	adddefaultdestination add destination addjmslistener add jms listener createsendmessagemethod create send message ensurespringasynchronoussupportenabled ensure spring asynchronous support enabled getphysicallocationcanonicalpath physical location canonical path hasjmscontext jms context injectjmstemplate inject jms template installjms install jms isjmsinstallationpossible jms installation ismanagejmsavailable manage jms updateconfiguration update configuration
+MTHSIG10	updateconfiguration update configuration jmsprovider jms provider jmsprovider jms provider
+VARIABLES	appctx app ctx targettype target type destinationtype destination type fieldname field declaredbymetadataid declared metadata asynchronous physicaltypeidentifier physical type identifier targettype target type fieldname field asynchronous jmsprovider jms provider destinationtype destination type jmsprovider jms provider dependencyelement dependency element dependencyelement dependency element filemanager file manager projectoperations project operations propfileoperations prop file operations typelocationservice type location service typemanagementservice type management service root jmstemplate jms template defaultdestination destination declaredbymetadataid declared metadata methods parametertypes parameter types parameternames parameter names bodybuilder body builder cidbuilder cid builder physicallocationcanonicalpath physical location canonical path jmscontextpath jms context path document root listenercontainer listener container jmslistener jms listener bean parametertypes parameter types parameternames parameter names bodybuilder body builder methodbuilder builder contextpath context path appcontext app context root javatype type path targettypedetails target type details declaredbymetadataid declared metadata cidbuilder cid builder jmscontextpath jms context path document root destination listenercontainer listener container configuration dependencies springdependencies spring dependencies jmsdependencies jms dependencies

@@ -1,0 +1,28 @@
+VARSIG7	clioption cli option kei databasenam databas mandatori databas databasenam databas 
+VARSIG6	clioption cli option kei hostnam host mandatori host hostnam host 
+VARSIG9	clioption cli option kei password mandatori password password 
+VARSIG8	clioption cli option kei usernam user mandatori usernam usernam user 
+VARSIG3	clioption cli option kei databas mandatori databas support jdbcdatabas jdbc databas jdbcdatabas jdbc databas 
+VARSIG2	clioption cli option kei provid mandatori persist provid support ormprovid orm provid ormprovid orm provid 
+VARSIG5	clioption cli option kei jndidatasourc jndi data sourc mandatori jndi datasourc jndi 
+VARSIG4	clioption cli option kei applicationid applic mandatori unspecifieddefaultvalu unspecifi project project googl app engin applic identifi applicationid applic 
+COMMENTS	command jpa add roo shell 
+VARSIG1	componentcontext compon context context 
+VARSIG0	componentcontext compon context context 
+MTHSIG4	databaseproperti databas properti 
+VARSIG12	clioption cli option kei mandatori vale properti kei 
+MTHSIG5	databaseset databas set kei 
+VARSIG11	clioption cli option kei kei mandatori properti kei chang kei 
+MTHSIG6	databaseremov databas remov kei 
+VARSIG10	clioption cli option kei persistenceunit persist unit mandatori persist unit persist xml file persistenceunit persist unit 
+MTHSIG7	isjpainstal jpa instal 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	deactiv componentcontext compon context context 
+PACKAGE	springframework roo addon jpa 
+MTHSIG2	isinstalljpaavail instal jpa 
+MTHSIG3	installjpa instal jpa ormprovid orm provid ormprovid orm provid jdbcdatabas jdbc databas jdbcdatabas jdbc databas applicationid applic jndi hostnam host databasenam databas usernam user password persistenceunit persist unit 
+VARSIG13	clioption cli option kei kei mandatori properti kei remov kei 
+MTHSIG8	hasdatabaseproperti databas properti 
+CLASSES	jpacommand jpa command 
+METHODS	activ deactiv isinstalljpaavail instal jpa installjpa instal jpa databaseproperti databas properti databaseset databas set databaseremov databas remov isjpainstal jpa instal hasdatabaseproperti databas properti 
+VARIABLES	context context ormprovid orm provid jdbcdatabas jdbc databas applicationid applic jndi hostnam host databasenam databas usernam user password persistenceunit persist unit kei kei logger jpaoper jpa oper propfileoper prop file oper staticfieldconvert field convert 

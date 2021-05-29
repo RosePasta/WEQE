@@ -1,0 +1,62 @@
+VARSIG39	javatyp type javatyp type 
+MTHSIG4	getplur plural javatyp type javatyp type metadataidentificationstr metadata identif 
+VARSIG34	metadataidentificationstr metadata identif 
+MTHSIG5	isrooidentifi roo identifi javatyp type javatyp type memberdetail member detail memberdetail member detail 
+VARSIG33	javatyp type type 
+MTHSIG6	isenumtyp type javatyp type javatyp type 
+VARSIG32	metadataidentificationstr metadata identif 
+MTHSIG7	isapplicationtyp applic type javatyp type javatyp type 
+VARSIG31	memberdetail member detail memberdetail member detail 
+MTHSIG0	getrelatedapplicationtypemetadata applic type metadata javatyp type basetyp base type memberdetail member detail basetypedetail base type detail metadataidentificationstr metadata identif 
+VARSIG38	downstreamdepend stream depend 
+MTHSIG1	getdependentapplicationtypemetadata depend applic type metadata javatyp type javatyp type memberdetail member detail memberdetail member detail metadataidentificationstr metadata identif 
+VARSIG37	upstreamdepend upstream depend 
+PACKAGE	springframework roo addon web mvc control detail 
+MTHSIG2	getscaffoldeligiblefieldmetadata scaffold elig field metadata javatyp type javatyp type memberdetail member detail memberdetail member detail metadataidentificationstr metadata identif 
+VARSIG36	annotationmetadata annot metadata annot 
+MTHSIG3	getjavatypepersistencemetadatadetail type persist metadata detail javatyp type javatyp type memberdetail member detail memberdetail member detail metadataidentificationstr metadata identif 
+VARSIG35	classorinterfacetypedetail type detail cid 
+MTHSIG8	getdatepattern pattern javatyp type javatyp type memberdetail member detail memberdetail member detail metadataidentificationstr metadata identif 
+VARSIG30	javatyp type javatyp type 
+MTHSIG9	getdynamicfindermethodsandfield dynam finder method field javatyp type javatyp type memberdetail member detail memberdetail member detail metadataidentificationstr metadata identif 
+CLASSES	webmetadataserviceimpl web metadata servic impl 
+VARSIG29	methodmetadata metadata 
+VARSIG28	metadataidentificationstr metadata identif 
+METHODS	getrelatedapplicationtypemetadata applic type metadata getdependentapplicationtypemetadata depend applic type metadata getscaffoldeligiblefieldmetadata scaffold elig field metadata getjavatypepersistencemetadatadetail type persist metadata detail getplur plural isrooidentifi roo identifi isenumtyp type isapplicationtyp applic type getdatepattern pattern getdynamicfindermethodsandfield dynam finder method field getjavatypemetadatadetail type metadata detail getcontrollerpathfortyp control path type registerdepend regist depend getmemberdetail member detail getcrudaddit crud addit 
+VARSIG23	metadataidentificationstr metadata identif 
+VARSIG22	memberdetail member detail memberdetail member detail 
+VARSIG21	javatyp type javatyp type 
+VARSIG20	javatyp type javatyp type 
+VARSIG27	memberdetail member detail memberdetail member detail 
+VARSIG26	javatyp type javatyp type 
+VARSIG25	finder 
+VARSIG24	methodmetadata metadata 
+VARSIG7	methodmetadata metadata 
+VARSIG6	metadataidentificationstr metadata identif 
+VARSIG9	memberdetail member detail memberdetail member detail 
+VARSIG8	javatyp type javatyp type 
+VARSIG3	javatyp type fieldtyp field type 
+VARSIG2	metadataidentificationstr metadata identif 
+VARSIG5	memberdetail member detail memberdetail member detail 
+VARSIG4	javatyp type javatyp type 
+COMMENTS	implement link webmetadataservic web metadata servic retriev metadata web scaffold add on constant field interest accessor interest accessor interest field expos mutat accessor identifi version field 
+VARSIG19	javatyp type javatyp type 
+VARSIG1	memberdetail member detail basetypedetail base type detail 
+VARSIG18	memberdetail member detail memberdetail member detail 
+VARSIG0	javatyp type basetyp base type 
+VARSIG17	javatyp type javatyp type 
+VARSIG12	javatyp type javatyp type 
+VARSIG11	methodmetadata metadata 
+VARSIG10	metadataidentificationstr metadata identif 
+VARSIG16	metadataidentificationstr metadata identif 
+VARSIG15	javatyp type javatyp type 
+VARSIG14	metadataidentificationstr metadata identif 
+VARSIG13	memberdetail member detail memberdetail member detail 
+MTHSIG13	getmemberdetail member detail javatyp type javatyp type 
+MTHSIG14	getcrudaddit crud addit javatyp type domaintyp domain type metadataid metadata 
+MTHSIG11	getcontrollerpathfortyp control path type javatyp type type metadataidentificationstr metadata identif 
+MTHSIG12	registerdepend regist depend upstreamdepend upstream depend downstreamdepend stream depend 
+MTHSIG10	getjavatypemetadatadetail type metadata detail javatyp type javatyp type memberdetail member detail memberdetail member detail metadataidentificationstr metadata identif 
+VARIABLES	basetyp base type basetypedetail base type detail metadataidentificationstr metadata identif fieldtyp field type javatyp type memberdetail member detail metadataidentificationstr metadata identif javatyp type memberdetail member detail metadataidentificationstr metadata identif javatyp type memberdetail member detail metadataidentificationstr metadata identif javatyp type metadataidentificationstr metadata identif javatyp type memberdetail member detail javatyp type javatyp type javatyp type memberdetail member detail metadataidentificationstr metadata identif finder javatyp type memberdetail member detail metadataidentificationstr metadata identif javatyp type memberdetail member detail metadataidentificationstr metadata identif type metadataidentificationstr metadata identif cid annot upstreamdepend upstream depend downstreamdepend stream depend javatyp type domaintyp domain type metadataid metadata logger result paramet max paramet layer posit layerservic layer servic memberdetailsscann member detail scanner metadatadependencyregistri metadata depend registri metadataservic metadata servic persistencememberloc persist member locat typelocationservic type locat servic specialtyp special type fieldtypedetail field type detail dependenttyp depend type type field typememberdetail type member detail identifieraccessor identifi accessor versionaccessor version accessor field method field fieldnam field idaccessor accessor idfield field idtyp type entityparamet entiti paramet idparamet paramet versionaccessor version accessor persistmethod persist removemethod remov mergemethod merg findallmethod find findmethod find countmethod count findentriesmethod find entri dynamicfindernam dynam finder name javatypedetail type detail logicalpath logic path pluralmetadatakei plural metadata kei pluralmetadata plural metadata plural javatypedetail type detail identifieraccessor identifi accessor versionaccessor version accessor date javatypepersistencemetadatadetail type persist metadata detail field returntyp type annot patternsymbol pattern symbol stylesymbol style symbol datetimeformat time format findermetadatadetail finder metadata detail javatypedetail type detail logicalpath logic path findermetadatakei finder metadata kei findermetadata finder metadata parameternam paramet name parametertyp paramet type field fieldnam field field fieldmd field detail pathmap path map webscaffoldmetadatakei web scaffold metadata kei webscaffoldmetadata web scaffold metadata formbackingobject form back object formbackingobjectvalu form back object path pathstr path cidpath cid path path cid domaintypemid domain type mid persistencedetail persist detail addit 
+VARSIG41	metadataid metadata 
+VARSIG40	javatyp type domaintyp domain type 

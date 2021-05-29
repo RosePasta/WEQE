@@ -1,0 +1,28 @@
+VARSIG7	list javatyp type throwstyp type 
+VARSIG6	list annotatedjavatyp annot type parametertyp paramet type 
+VARSIG8	invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+VARSIG3	annotatedjavatyp annot type parametertyp paramet type 
+VARSIG2	javasymbolnam symbol parameternam paramet 
+VARSIG5	list javasymbolnam symbol parameternam paramet name 
+VARSIG4	javatyp type throwstyp type 
+COMMENTS	assist develop builder build object extend link abstractinvocablemembermetadata invoc member metadata 
+VARSIG1	invocablemembermetadata invoc member metadata exist 
+VARSIG0	declaredbymetadataid declaredbi metadata 
+MTHSIG4	addthrowstyp add type javatyp type throwstyp type 
+MTHSIG5	getparameternam paramet name 
+MTHSIG6	setparameternam set paramet name list javasymbolnam symbol parameternam paramet name 
+MTHSIG7	getparametertyp paramet type 
+MTHSIG0	abstractinvocablemembermetadatabuild invoc member metadata builder declaredbymetadataid declaredbi metadata 
+MTHSIG1	abstractinvocablemembermetadatabuild invoc member metadata builder invocablemembermetadata invoc member metadata exist 
+PACKAGE	springframework roo classpath detail 
+MTHSIG2	addparameternam add paramet javasymbolnam symbol parameternam paramet 
+MTHSIG3	addparametertyp add paramet type annotatedjavatyp annot type parametertyp paramet type 
+MTHSIG8	setparametertyp set paramet type list annotatedjavatyp annot type parametertyp paramet type 
+MTHSIG9	getthrowstyp type 
+MTHSIG13	setbodybuild set bodi builder invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+MTHSIG11	getbodi bodi 
+MTHSIG12	getbodybuild bodi builder 
+CLASSES	abstractinvocablemembermetadatabuild invoc member metadata builder 
+METHODS	abstractinvocablemembermetadatabuild invoc member metadata builder abstractinvocablemembermetadatabuild invoc member metadata builder addparameternam add paramet addparametertyp add paramet type addthrowstyp add type getparameternam paramet name setparameternam set paramet name getparametertyp paramet type setparametertyp set paramet type getthrowstyp type setthrowstyp set type getbodi bodi getbodybuild bodi builder setbodybuild set bodi builder 
+MTHSIG10	setthrowstyp set type list javatyp type throwstyp type 
+VARIABLES	declaredbymetadataid declaredbi metadata exist parameternam paramet parametertyp paramet type throwstyp type parameternam paramet name parametertyp paramet type throwstyp type bodybuild bodi builder parameternam paramet name parametertyp paramet type throwstyp type bodybuild bodi builder 

@@ -1,0 +1,15 @@
+VARSIG6	operation
+VARSIG3	javatype type entity
+VARSIG2	javatype type controller
+VARSIG5	path
+VARSIG4	set disallowedoperations disallowed operations
+COMMENTS	controller configuration operations check entity metadata web scaffold metadata listening controller entity listening controller add type exists create annotation roowebscaffold roo web scaffold path test formbackingobject form backing object myobject object create annotation requestmapping request mapping myobject create annotation controller
+CLASSES	controlleroperationsimpl controller operations impl
+VARSIG1	classorinterfacetypedetails type details cid
+VARSIG0	javapackage javapackage
+METHODS	isnewcontrolleravailable controller generateall generate createautomaticcontroller create automatic controller
+MTHSIG0	isnewcontrolleravailable controller
+MTHSIG1	generateall generate javapackage javapackage
+PACKAGE	springframework roo addon web mvc controller
+MTHSIG2	createautomaticcontroller create automatic controller javatype type controller javatype type entity set disallowedoperations disallowed operations path
+VARIABLES	javapackage cid controller entity disallowedoperations disallowed operations path operation filemanager file manager metadataservice metadata service projectoperations project operations webmvcoperations web mvc operations dependencyregistry dependency registry typelocationservice type location service typemanagementservice type management service cids javatype type path entitymetadata entity metadata downstreamwebscaffoldmetadataid downstream web scaffold metadata controller resourceidentifier resource identifier annotations roowebscaffoldattributes roo web scaffold attributes requestmappingattributes request mapping attributes controllerattributes controller attributes declaredbymetadataid declared metadata typedetailsbuilder type details builder

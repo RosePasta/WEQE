@@ -1,0 +1,17 @@
+VARSIG7	clioption cli option key includetables include tables mandatory specifieddefaultvalue optioncontext option context include tables tables include reverse engineering separated spaces enclosed pairs quotes set includetables include tables
+VARSIG6	clioption cli option key enableviews enable views mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified reverse engineer database views view
+VARSIG8	clioption cli option key excludetables exclude tables mandatory specifieddefaultvalue optioncontext option context exclude tables tables exclude reverse engineering separated spaces enclosed pairs quotes set excludetables exclude tables
+VARSIG3	clioption cli option key schema mandatory database schema schema schema
+VARSIG2	clioption cli option key enableviews enable views mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified display database views view
+VARSIG5	clioption cli option key testautomatically test automatically mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified create automatic integration tests entities testautomatically test automatically
+VARSIG4	clioption cli option key mandatory entities javapackage destinationpackage destination
+COMMENTS	commands dbre addon roo shell
+CLASSES	dbrecommands dbre commands
+VARSIG1	clioption cli option key file mandatory file save metadata file file
+VARSIG0	clioption cli option key schema mandatory database schema schema schema
+METHODS	isdbreavailable dbre displaydatabasemetadata display database metadata serializedatabasemetadata serialize database metadata
+MTHSIG0	isdbreavailable dbre
+MTHSIG1	displaydatabasemetadata display database metadata schema schema file file view
+PACKAGE	springframework roo addon dbre
+MTHSIG2	serializedatabasemetadata serialize database metadata schema schema javapackage destinationpackage destination testautomatically test automatically view set includetables include tables set excludetables exclude tables
+VARIABLES	schema file view schema destinationpackage destination testautomatically test automatically view includetables include tables excludetables exclude tables dbreoperations dbre operations

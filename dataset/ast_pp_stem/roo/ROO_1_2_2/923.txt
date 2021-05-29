@@ -1,0 +1,50 @@
+MTHSIG4	addfilt add filter filter filter 
+MTHSIG5	addpluginrepositori add plugin repositori collect repositori repositori 
+MTHSIG6	addpluginrepositori add plugin repositori repositori repositori 
+MTHSIG7	addproperti add properti properti properti 
+MTHSIG0	addbuildplugin add build plugin plugin plugin 
+MTHSIG1	addbuildplugin add build plugin collect plugin plugin 
+PACKAGE	springframework roo project 
+MTHSIG2	adddepend add depend collect depend depend 
+MTHSIG3	adddepend add depend depend depend 
+MTHSIG20	updatedependencyscop updat depend scope depend depend dependencyscop depend scope dependencyscop depend scope 
+MTHSIG21	updateprojecttyp updat project type projecttyp project type projecttyp project type 
+MTHSIG8	addrepositori add repositori collect repositori repositori 
+MTHSIG9	addrepositori add repositori repositori repositori 
+CLASSES	projectmetadataprovid project metadata provid 
+METHODS	addbuildplugin add build plugin addbuildplugin add build plugin adddepend add depend adddepend add depend addfilt add filter addpluginrepositori add plugin repositori addpluginrepositori add plugin repositori addproperti add properti addrepositori add repositori addrepositori add repositori addresourc add resourc removebuildplugin remov build plugin removebuildplugin remov build plugin removedepend remov depend removedepend remov depend removefilt remov filter removepluginrepositori remov plugin repositori removeproperti remov properti removerepositori remov repositori removeresourc remov resourc updatedependencyscop updat depend scope updateprojecttyp updat project type 
+VARSIG22	projecttyp project type projecttyp project type 
+VARSIG21	dependencyscop depend scope dependencyscop depend scope 
+VARSIG20	depend depend 
+VARSIG7	properti properti 
+VARSIG6	repositori repositori 
+VARSIG9	repositori repositori 
+VARSIG8	collect repositori repositori 
+VARSIG3	depend depend 
+VARSIG2	collect depend depend 
+VARSIG5	collect repositori repositori 
+VARSIG4	filter filter 
+COMMENTS	mutabl servic link projectmetadata project metadata attempt add build plugin plugin exist link projectmetadata project metadata isbuildpluginregist build plugin regist springframework roo project plugin silent return plugin except thrown call link projectmetadata project metadata disk represent modifi reason plugin plugin add requir attempt add plugin plugin exist link projectmetadata project metadata isallpluginregist plugin regist plugin silent return depend except thrown call link projectmetadata project metadata disk represent modifi reason plugin plugin add requir attempt add depend depend exist link projectmetadata project metadata isalldependencyregist depend regist depend silent return depend except thrown call link projectmetadata project metadata disk represent modifi reason depend depend add requir attempt add depend depend exist link projectmetadata project metadata isdependencyregist depend regist springframework roo project depend silent return depend except thrown call link projectmetadata project metadata disk represent modifi reason depend depend add requir attempt add filter filter exist link projectmetadata project metadata isfilterregist filter regist springframework roo project filter silent return filter except thrown call link projectmetadata project metadata disk represent modifi reason filter filter add requir attempt add plugin repositori repositori exist link projectmetadata project metadata ispluginrepositoryregist plugin repositori regist repositori silent return repositori except thrown call link projectmetadata project metadata disk represent modifi reason repositori list plugin repositori add requir attempt add plugin repositori plugin repositori exist link projectmetadata project metadata ispluginrepositoryregist plugin repositori regist repositori silent return repositori except thrown call link projectmetadata project metadata disk represent modifi reason repositori plugin repositori add requir attempt add properti properti exist link projectmetadata project metadata ispropertyregist properti regist springframework roo project properti silent return properti except thrown call link projectmetadata project metadata disk represent modifi reason properti properti add requir attempt add repositori repositori exist link projectmetadata project metadata isrepositoryregist repositori regist repositori silent return repositori except thrown call link projectmetadata project metadata disk represent modifi reason repositori list repositori add requir attempt add repositori repositori exist link projectmetadata project metadata isrepositoryregist repositori regist repositori silent return repositori except thrown call link projectmetadata project metadata disk represent modifi reason repositori repositori add requir attempt add resourc resourc exist link projectmetadata project metadata isresourceregist resourc regist resourc silent return resourc except thrown call link projectmetadata project metadata disk represent modifi reason resourc resourc add requir remov plugin groupid group artifactid artifact plugin plugin plugin remov illegalargumentexcept illeg argument except call link projectmetadata project metadata disk represent modifi reason remov plugin groupid group artifactid artifact plugin plugin plugin remov element quietli illegalargumentexcept illeg argument except call link projectmetadata project metadata disk represent modifi reason attempt remov depend depend exist link projectmetadata project metadata isdependencyregist depend regist depend silent return locat depend remov except thrown call link projectmetadata project metadata disk represent modifi reason depend depend remov requir attempt remov depend depend exist link projectmetadata project metadata isdependencyregist depend regist depend silent return locat depend remov except thrown call link projectmetadata project metadata disk represent modifi reason depend depend remov requir attempt remov filter filter exist link projectmetadata project metadata isfilterregist filter regist springframework roo project filter silent return locat filter remov except thrown call link projectmetadata project metadata disk represent modifi reason filter filter remov requir attempt remov plugin repositori plugin repositori exist link projectmetadata project metadata ispluginrepositoryregist plugin repositori regist repositori silent return locat plugin repositori remov except thrown call link projectmetadata project metadata disk represent modifi reason repositori plugin repositori remov requir attempt remov properti depend depend exist link projectmetadata project metadata ispropertyregist properti regist properti silent return locat depend remov except thrown call link projectmetadata project metadata disk represent modifi reason properti properti remov requir attempt remov repositori repositori exist link projectmetadata project metadata isrepositoryregist repositori regist repositori silent return locat repositori remov except thrown call link projectmetadata project metadata disk represent modifi reason repositori repositori remov requir attempt remov resourc resourc exist link projectmetadata project metadata isresourceregist resourc regist resourc silent return locat resourc remov except thrown call link projectmetadata project metadata disk represent modifi reason resourc resourc remov requir attempt updat scope depend depend exist link projectmetadata project metadata isdependencyregist depend regist depend silent return locat depend updat except thrown call link projectmetadata project metadata disk represent modifi reason depend depend updat requir dependencyscop depend scope depend scope element remov attempt updat project packag type defin link projecttyp project type project packag defin creat definit except thrown call link projectmetadata project metadata disk represent modifi reason projecttyp project type project type updat requir 
+VARSIG19	resourc resourc 
+VARSIG1	collect plugin plugin 
+VARSIG18	repositori repositori 
+VARSIG0	plugin plugin 
+VARSIG17	properti properti 
+VARSIG12	collect plugin plugin 
+VARSIG11	plugin plugin 
+VARSIG10	resourc resourc 
+VARSIG16	repositori repositori 
+VARSIG15	filter filter 
+VARSIG14	depend depend 
+VARSIG13	collect depend depend 
+MTHSIG17	removeproperti remov properti properti properti 
+MTHSIG18	removerepositori remov repositori repositori repositori 
+MTHSIG15	removefilt remov filter filter filter 
+MTHSIG16	removepluginrepositori remov plugin repositori repositori repositori 
+MTHSIG13	removedepend remov depend collect depend depend 
+MTHSIG14	removedepend remov depend depend depend 
+MTHSIG11	removebuildplugin remov build plugin plugin plugin 
+MTHSIG12	removebuildplugin remov build plugin collect plugin plugin 
+MTHSIG19	removeresourc remov resourc resourc resourc 
+MTHSIG10	addresourc add resourc resourc resourc 
+VARIABLES	plugin plugin depend depend filter repositori repositori properti repositori repositori resourc plugin plugin depend depend filter repositori properti repositori resourc depend dependencyscop depend scope projecttyp project type 

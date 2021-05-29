@@ -1,0 +1,102 @@
+MTHSIG28	roundtwodecimals decimals
+MTHSIG29	executecommand execute command cloudcommand cloud command command
+MTHSIG26	iscloudfoundrycommandavailable cloud foundry command
+MTHSIG27	issetupcommandavailable setup command
+MTHSIG24	renameapp rename app appname app newappname app
+MTHSIG25	setup
+MTHSIG22	map appname app url
+MTHSIG23	unmap map appname app url
+MTHSIG4	createservice create service service bind
+MTHSIG5	deleteservice delete service service
+MTHSIG6	bindservice bind service service appname app
+MTHSIG7	unbindservice unbind service service appname app
+MTHSIG0	info
+MTHSIG1	register email password
+MTHSIG2	login email password cloudcontrollerurl cloud controller url
+MTHSIG3	services
+MTHSIG20	files appname app path instance
+MTHSIG21	stats appname app
+MTHSIG8	apps
+MTHSIG9	push appname app integer instances integer memory path list urls
+METHODS	info register login services createservice create service deleteservice delete service bindservice bind service unbindservice unbind service apps push start restart delete update instances mem crashes crashlogs crash logs logs files stats map unmap map renameapp rename app setup iscloudfoundrycommandavailable cloud foundry command issetupcommandavailable setup command roundtwodecimals decimals executecommand execute command formatdurationinseconds format duration seconds getapplication application getinteger integer
+MTHSIG31	getapplication application appname app
+MTHSIG32	getinteger integer potentialint potential
+MTHSIG30	formatdurationinseconds format duration seconds seconds
+VARSIG63	character
+VARSIG62	potentialint potential
+VARSIG61	exception
+VARSIG60	appname app
+COMMENTS	operations cloud foundry add todo move table rendering stuff separate sfw shell feel free addonoperationsimpl add operations impl talk syso logger calls limited debugging ship release rid execute replace obvious failures illegalstateexception thetext text argument root exception cloudfoundryoperationsimpl cloud foundryoperations impl extend abstractflashingobject flashing object jdkurlinputstreamservice jdk url input stream service login cloud controller url defaulting url effort encrypt username password preferences api ensure preferences api understands cloud controller url username password applies todo cloud environment profile application config
+VARSIG19	integer instances
+VARSIG18	appname app
+VARSIG17	service
+VARSIG12	service
+VARSIG11	service
+VARSIG10	serviceconfiguration service configuration serviceconfiguration service configuration
+VARSIG16	cloudapplication cloud application application
+VARSIG15	appname app
+VARSIG14	service
+VARSIG13	appname app
+MTHSIG17	crashes appname app
+MTHSIG18	crashlogs crash logs appname app instance
+MTHSIG15	instances appname app number
+MTHSIG16	mem appname app integer memsize mem size
+MTHSIG13	delete appname app
+MTHSIG14	update appname app
+MTHSIG11	appname app
+MTHSIG12	restart appname app
+MTHSIG19	logs appname app instance
+MTHSIG10	start appname app
+VARIABLES	email password email password cloudcontrollerurl cloud controller url service service service bind serviceconfiguration service configuration service service appname app service appname app application service appname app instances memory path urls appname app appname app appname app appname app appname app appname app number appname app memsize mem size appname app crash appname app instance appname app instance appname app path instance appname app instancestats instance stats appname app url appname app url appname app newappname app cloudapplication cloud application failuremessage failure message successmessage success message gerund failuremessage failure message successmessage success message failuremessage failure message command seconds appname app potentialint potential logger session client cloudinfo cloud info successmessage success message failuremessage failure message finalemail email finalpassword password globalservices global services localservices local services table table failuremessage failure message successmessage success message cloudservice cloud service serviceconfigurations service configurations failuremessage failure message successmessage success message failuremessage failure message successmessage success message failuremessage failure message successmessage success message applications table uris services failuremessage failure message successmessage success message finalmem mem cloudapplication cloud application finalurls urls finalinstances instances failuremessage failure message successmessage success message failuremessage failure message successmessage success message failuremessage failure message successmessage success message failuremessage failure message successmessage success message instances instancesinfo instances info shelltable shell table crashes table failuremessage failure message successmessage success message instanceindex instance stderrlog stderr log stdoutlog instanceindex instance file stats table instance cpu memory disk uptime failuremessage failure message successmessage success message application uris failuremessage failure message successmessage success message application uris failuremessage failure message successmessage success message twodform form failuremessage failure message successmessage success message gerund displaysuccessmessage display success message timer statusindicators status indicators statuscount status count timertask timer task secondsinminute seconds minute secondsinhour seconds hour secondsinday seconds day days remainder hours minutes secs
+VARSIG39	path
+VARSIG34	appname app
+VARSIG33	crashinfo crash info crash
+VARSIG32	appname app
+VARSIG31	integer memsize mem size
+VARSIG38	appname app
+VARSIG37	instance
+PACKAGE	springframework roo addon cloud foundry
+VARSIG36	appname app
+VARSIG35	instance
+VARSIG30	appname app
+CLASSES	cloudfoundryoperationsimpl cloud foundry operations impl
+VARSIG29	number
+VARSIG28	appname app
+VARSIG23	appname app
+VARSIG22	list urls
+VARSIG21	path
+VARSIG20	integer memory
+VARSIG27	appname app
+VARSIG26	appname app
+VARSIG25	appname app
+VARSIG24	appname app
+VARSIG7	service
+VARSIG6	cloudservice cloud service service
+VARSIG9	bind
+VARSIG8	
+VARSIG3	password
+VARSIG2	email
+VARSIG5	serviceconfiguration service configuration service
+VARSIG4	cloudcontrollerurl cloud controller url
+VARSIG1	password
+VARSIG0	email
+VARSIG56	failuremessage failure message
+VARSIG55	successmessage success message
+VARSIG54	failuremessage failure message
+VARSIG53	gerund
+VARSIG59	seconds
+VARSIG58	exception
+VARSIG57	cloudcommand cloud command command
+VARSIG52	successmessage success message
+VARSIG51	failuremessage failure message
+VARSIG50	
+VARSIG45	appname app
+VARSIG44	url
+VARSIG43	appname app
+VARSIG42	instancestats instance stats instancestats instance stats
+VARSIG49	cloudapplication cloud application cloudapplication cloud application
+VARSIG48	newappname app
+VARSIG47	appname app
+VARSIG46	url
+VARSIG41	appname app
+VARSIG40	instance

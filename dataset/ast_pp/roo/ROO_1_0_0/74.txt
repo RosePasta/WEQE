@@ -1,0 +1,17 @@
+VARSIG7	operation
+VARSIG6	clioption cli option key disallowedoperations disallowed operations mandatory comma separated list operations create update delete allowed generated controller disallowedoperations disallowed operations
+VARSIG3	clioption cli option key mandatory path controller object created javatype type controller
+VARSIG2	clioption cli option key mandatory controllers javapackage javapackage
+VARSIG5	clioption cli option key path mandatory base path controller listens restful res tful requests defaults simple form backing object path
+VARSIG4	clioption cli option key entity mandatory optioncontext option context update project unspecifieddefaultvalue unspecified entity object controller exposes web tier javatype type entity
+COMMENTS	commands mvc controller add roo shell
+CLASSES	controllercommands controller commands
+VARSIG1	metadataservice metadata service metadataservice metadata service
+VARSIG0	controlleroperations controller operations controlleroperations controller operations
+METHODS	controllercommands controller commands isnewcontrolleravailable controller generateall generate newcontroller controller
+MTHSIG0	controllercommands controller commands controlleroperations controller operations controlleroperations controller operations metadataservice metadata service metadataservice metadata service
+MTHSIG1	isnewcontrolleravailable controller
+PACKAGE	springframework roo addon web mvc controller
+MTHSIG2	generateall generate javapackage javapackage
+MTHSIG3	newcontroller controller javatype type controller javatype type entity path disallowedoperations disallowed operations
+VARIABLES	controlleroperations controller operations metadataservice metadata service javapackage controller entity path disallowedoperations disallowed operations operation logger controlleroperations controller operations metadataservice metadata service projectmetadata project metadata disallowedoperationset disallowed operation set

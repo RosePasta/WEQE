@@ -1,0 +1,23 @@
+VARSIG7	methodnode node
+VARSIG6	ioexception exception ioe
+VARSIG9	object
+VARSIG8	annotationnode annotation node annotation
+VARSIG3	file
+VARSIG2	file file
+VARSIG5	inputstream input stream input
+VARSIG4	filenotfoundexception file exception skipandignore skip ignore
+COMMENTS	locates clicommand cli command clioption cli option annotations files converting link commandinfo command info objects scans directory including directories files file checks shell annotations builds consolidated list located link commandinfo command info directory top level directory scan required list located annotation metadata empty parses presented bytecode locates roo clicommand cli command clioption cli option annotations converted list link commandinfo command info instances easier handling input valid file required list elements returns clicommand cli command start producing commandinfo command info details command names text key clicommand cli command let check clioption cli option values individual parameters key clioption cli option
+CLASSES	annotationparser annotation parser
+VARSIG1	list commandinfo command info sofar
+VARSIG0	directory
+METHODS	locateallclassresources locate resources locateallclassresources locate resources parseshellannotationsinclassfile parse shell annotations file
+VARSIG12	annotationnode annotation node element
+VARSIG11	list annotationnode annotation node list
+VARSIG10	object element
+MTHSIG0	locateallclassresources locate resources directory
+MTHSIG1	locateallclassresources locate resources list commandinfo command info sofar file file
+PACKAGE	springframework roo mojo addon
+MTHSIG2	parseshellannotationsinclassfile parse shell annotations file inputstream input stream input
+VARSIG14	object
+VARSIG13	object
+VARIABLES	directory sofar file skipandignore skip ignore input ioe annotation element list element sofar fis data result methods annotations annotationtype annotation type builder values key parameterannotations parameter annotations newtype type mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue optionvalues option values key optionnames option names

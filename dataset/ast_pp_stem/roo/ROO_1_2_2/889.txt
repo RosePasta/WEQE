@@ -1,0 +1,20 @@
+VARSIG3	version 
+VARSIG2	artifactid artifact 
+VARSIG5	object 
+VARSIG4	gav 
+COMMENTS	combin maven style groupid group artifactid artifact version return instanc base concaten maven coordin coordin groupid group artifactid artifact version separ link mavenutil maven util coordin separ blank instanc illegalargumentexcept illeg argument except format explain element invalid constructor groupid group valid maven artifactid artifact valid maven version blank check assign debug 
+CLASSES	gav 
+VARSIG1	groupid group 
+VARSIG0	coordin 
+METHODS	getinst instanc gav compareto compar equal getartifactid artifact getgroupid group getvers version hashcod hash code tostr 
+MTHSIG4	getartifactid artifact 
+MTHSIG5	getgroupid group 
+MTHSIG6	getvers version 
+MTHSIG7	hashcod hash code 
+MTHSIG0	getinst instanc coordin 
+MTHSIG1	gav groupid group artifactid artifact version 
+PACKAGE	springframework roo project 
+MTHSIG2	compareto compar gav 
+MTHSIG3	equal object 
+VARIABLES	coordin groupid group artifactid artifact version coordinatearrai coordin arrai artifactid artifact groupid group version result 
+MTHSIG8	tostr 

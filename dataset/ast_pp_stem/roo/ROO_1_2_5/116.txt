@@ -1,0 +1,85 @@
+VARSIG39	memberdetail member detail memberdetail member detail 
+MTHSIG4	getjpaqueri jpa queri list token token simpletypenam simpl type javasymbolnam symbol findernam finder plural entitynam entiti 
+VARSIG34	javasymbolnam symbol findernam finder 
+MTHSIG5	getjpacountqueri jpa count queri list token token simpletypenam simpl type javasymbolnam symbol findernam finder plural entitynam entiti 
+VARSIG33	list token token 
+MTHSIG6	getlocatedmut locat mutat memberdetail member detail memberdetail member detail 
+VARSIG32	methodmetadata metadata 
+MTHSIG7	getparameternam paramet name list token token javasymbolnam symbol findernam finder plural 
+VARSIG31	memberdetail member detail memberdetail member detail 
+MTHSIG0	createfind creat finder fieldmetadata field metadata field set javasymbolnam symbol finder prepend isfirst 
+VARSIG38	plural 
+MTHSIG1	getconcretejavatyp concret type memberdetail member detail memberdetail member detail 
+VARSIG37	javasymbolnam symbol findernam finder 
+PACKAGE	springframework roo addon finder 
+MTHSIG2	getfind finder memberdetail member detail memberdetail member detail plural depth set javasymbolnam symbol exclus 
+VARSIG36	list token token 
+MTHSIG3	getfirsttoken token sortedset sort set fieldtoken field token fieldtoken field token finder originalfind origin finder simpletypenam simpl type 
+VARSIG35	plural 
+MTHSIG8	getparametertyp paramet type list token token javasymbolnam symbol findernam finder plural 
+VARSIG30	entitynam entiti 
+MTHSIG9	getqueryhold queri holder memberdetail member detail memberdetail member detail javasymbolnam symbol findernam finder plural entitynam entiti 
+CLASSES	dynamicfinderservicesimpl dynam finder servic impl 
+VARSIG29	plural 
+VARSIG28	javasymbolnam symbol findernam finder 
+METHODS	createfind creat finder getconcretejavatyp concret type getfind finder getfirsttoken token getjpaqueri jpa queri getjpacountqueri jpa count queri getlocatedmut locat mutat getparameternam paramet name getparametertyp paramet type getqueryhold queri holder getcountqueryhold count queri holder ismethodofinterest interest isnumberord number istransi populatefind popul finder token 
+VARSIG23	plural 
+VARSIG22	javasymbolnam symbol findernam finder 
+VARSIG21	simpletypenam simpl type 
+VARSIG20	list token token 
+VARSIG27	simpletypenam simpl type 
+VARSIG26	list token token 
+VARSIG25	token token 
+VARSIG24	entitynam entiti 
+VARSIG63	methodmetadata metadata 
+VARSIG62	plural 
+VARSIG61	javasymbolnam symbol findernam finder 
+VARSIG60	memberdetail member detail memberdetail member detail 
+VARSIG7	memberdetail member detail memberdetail member detail 
+VARSIG6	reservedtoken reserv token keyword kei word 
+VARSIG9	memberdetail member detail memberdetail member detail 
+VARSIG8	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG3	isfirst 
+VARSIG2	prepend 
+VARSIG5	reservedtoken reserv token keyword kei word 
+VARSIG4	reservedtoken reserv token keyword kei word 
+COMMENTS	implement link dynamicfinderservic dynam finder servic return link javatyp type link memberdetail member detail object type link memberholdingtypedetail member hold type detail search memberdetail member detail link memberdetail member detail search requir javatyp type ignor util map field type roo todo finderfieldtokenmissingexcept finder field token miss except easier detect finder start reserv field token remov field token replac min max add field start findbi find remov finder findbi find sequenc wrong finder past finder accident find field match paramet mutat add finder 
+VARSIG19	reservedtoken reserv token reservedtoken reserv token 
+VARSIG1	set javasymbolnam symbol finder 
+VARSIG18	fieldtoken field token fieldtoken field token 
+VARSIG0	fieldmetadata field metadata field 
+VARSIG17	simpletypenam simpl type 
+VARSIG12	set javasymbolnam symbol exclus 
+VARSIG56	prepend 
+VARSIG11	depth 
+VARSIG55	fieldmetadata field metadata field 
+VARSIG10	plural 
+VARSIG54	set javasymbolnam symbol finder 
+VARSIG53	fieldmetadata field metadata field 
+VARSIG16	originalfind origin finder 
+VARSIG15	finder 
+VARSIG59	javasymbolnam symbol finder 
+VARSIG14	sortedset sort set fieldtoken field token fieldtoken field token 
+VARSIG58	keyword kei word 
+VARSIG13	fieldmetadata field metadata field 
+VARSIG57	isfirst 
+VARSIG52	javatyp type fieldtyp field type 
+VARSIG51	methodmetadata metadata 
+VARSIG50	invalidfinderexcept invalid finder except 
+MTHSIG15	token memberdetail member detail memberdetail member detail javasymbolnam symbol findernam finder plural 
+MTHSIG13	istransi fieldmetadata field metadata field 
+MTHSIG14	populatefind popul finder set javasymbolnam symbol finder fieldmetadata field metadata field prepend isfirst keyword kei word 
+MTHSIG11	ismethodofinterest interest methodmetadata metadata 
+MTHSIG12	isnumberord number javatyp type fieldtyp field type 
+VARSIG45	memberdetail member detail memberdetail member detail 
+VARSIG44	invalidfinderexcept invalid finder except 
+VARSIG43	finderfieldtokenmissingexcept finder field token miss except 
+VARSIG42	entitynam entiti 
+VARSIG49	finderfieldtokenmissingexcept finder field token miss except 
+VARSIG48	entitynam entiti 
+VARSIG47	plural 
+VARSIG46	javasymbolnam symbol findernam finder 
+MTHSIG10	getcountqueryhold count queri holder memberdetail member detail memberdetail member detail javasymbolnam symbol findernam finder plural entitynam entiti 
+VARIABLES	field finder prepend isfirst keyword kei word keyword kei word keyword kei word memberdetail member detail memberholdingtypedetail member hold type detail memberdetail member detail plural depth exclus field fieldtoken field token finder originalfind origin finder simpletypenam simpl type fieldtoken field token reservedtoken reserv token token simpletypenam simpl type findernam finder plural entitynam entiti token token simpletypenam simpl type findernam finder plural entitynam entiti memberdetail member detail token findernam finder plural token findernam finder plural memberdetail member detail findernam finder plural entitynam entiti memberdetail member detail findernam finder plural entitynam entiti fieldtyp field type field finder field prepend isfirst keyword kei word finder memberdetail member detail findernam finder plural tempfind temp finder javatyp type finder field tempfind temp finder typenam type builder lastfieldtoken field token isnewfield field isfieldappli field appli reservedtoken reserv token fieldnam field setfield set field jpaqueri jpa queri locatedmut locat mutat parameternam paramet name token fieldnam field field fieldnam field field parametertyp paramet type token field field token simpletypenam simpl type jpaqueri jpa queri parametertyp paramet type parameternam paramet name token simpletypenam simpl type jpaqueri jpa queri parametertyp paramet type parameternam paramet name tempfind temp finder findernam finder findernam finder simpletypenam simpl type finder findbi find fieldtoken field token field token token 
+VARSIG41	plural 
+VARSIG40	javasymbolnam symbol findernam finder 

@@ -1,0 +1,45 @@
+VARSIG7	ioexception exception
+VARSIG6	exception ignore
+VARSIG9	revcommit rev commit commit
+VARSIG8	maxhistory max history
+VARSIG3	repository repository
+VARSIG2	revstr
+VARSIG5	incorrectobjecttypeexception incorrect object type exception
+VARSIG4	missingobjectexception missing object exception
+COMMENTS	operations git addon commit commit
+VARSIG19	message
+VARSIG1	exception
+VARSIG18	exception
+VARSIG0	message
+VARSIG17	message
+MTHSIG4	isautomaticcommit automatic commit
+VARSIG12	exception
+MTHSIG5	isgitcommandavailable git command
+VARSIG11	pushresult push result result
+MTHSIG6	isgitinstallationpossible git installation
+VARSIG10	exception
+MTHSIG7	log maxhistory max history
+MTHSIG0	commitallchanges commit message
+VARSIG16	revstr
+MTHSIG1	findcommit find commit revstr repository repository
+VARSIG15	exception
+PACKAGE	springframework roo addon git
+MTHSIG2	getrepository repository
+VARSIG14	message
+MTHSIG3	hasdotgit dot git
+VARSIG13	noofcommitstorevert commits revert
+MTHSIG8	push
+MTHSIG9	reset noofcommitstorevert commits revert message
+MTHSIG13	setup
+MTHSIG11	revertlastcommit revert commit message
+MTHSIG12	setconfig set config category key
+CLASSES	gitoperationsimpl git operations impl
+METHODS	commitallchanges commit findcommit find commit getrepository repository hasdotgit dot git isautomaticcommit automatic commit isgitcommandavailable git command isgitinstallationpossible git installation log push reset revertcommit revert commit revertlastcommit revert commit setconfig set config setup
+VARSIG23	ioexception exception
+VARSIG22	
+VARSIG21	key
+VARSIG20	category
+VARSIG25	ioexception exception
+VARSIG24	exception
+MTHSIG10	revertcommit revert commit revstr message
+VARIABLES	message revstr repository ignore maxhistory max history commit result noofcommitstorevert commits revert message revstr message message category key logger revision delimiter filemanager file manager pathresolver path resolver person repository git status rev walk commit repository git counter git repository commit git repository commit git repository repository gitignore git ignore inputstream input stream outputstream output stream

@@ -1,0 +1,17 @@
+VARSIG3	list abstractcomment comment endcomments comments
+VARSIG2	list abstractcomment comment begincomments comments
+VARSIG4	list abstractcomment comment internalcomments internal comments
+COMMENTS	helper assist adding comments structures comment comment add linecomment comment blockcomment block comment javadoccomment comment commentlocation comment location comment
+CLASSES	commentstructure comment structure
+VARSIG1	commentlocation comment location commentlocation comment location
+VARSIG0	abstractcomment comment comment
+METHODS	addcomment add comment getbegincomments comments getendcomments comments getinternalcomments internal comments setbegincomments set comments setendcomments set comments setinternalcomments set internal comments
+MTHSIG4	setbegincomments set comments list abstractcomment comment begincomments comments
+MTHSIG5	setendcomments set comments list abstractcomment comment endcomments comments
+MTHSIG6	setinternalcomments set internal comments list abstractcomment comment internalcomments internal comments
+MTHSIG0	addcomment add comment abstractcomment comment comment commentlocation comment location commentlocation comment location
+MTHSIG1	getbegincomments comments
+PACKAGE	springframework roo classpath details comments
+MTHSIG2	getendcomments comments
+MTHSIG3	getinternalcomments internal comments
+VARIABLES	comment commentlocation comment location begincomments comments endcomments comments internalcomments internal comments commentlocation comment location begincomments comments endcomments comments internalcomments internal comments

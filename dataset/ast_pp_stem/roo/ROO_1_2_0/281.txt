@@ -1,0 +1,15 @@
+COMMENTS	unit test link entitylayerprovid entiti layer provid constant map support entiti method test paramet name fixtur set invok check invok check set invok check set invok check set invok check set invok check 
+CLASSES	entitylayerprovidertest entiti layer provid test 
+VARSIG0	plural 
+METHODS	setup set setupmockannotationvalu set mock annot valu setupplur set plural testgetadditionswhenentityannotationvaluesnotavail test addit entiti annot valu testgetadditionswhengovernorpluralmetadataisnul test addit governor plural metadata testgetadditionswhengovernorpluralisempti test addit governor plural empti testgetadditionsforbogusmethod test addit bogu testgetadditionsformethodannotatedwithemptynam test addit annot empti testgetadditionsformethodannotatedwithnonemptynam test addit annot empti 
+MTHSIG4	testgetadditionswhengovernorpluralmetadataisnul test addit governor plural metadata 
+MTHSIG5	testgetadditionswhengovernorpluralisempti test addit governor plural empti 
+MTHSIG6	testgetadditionsforbogusmethod test addit bogu 
+MTHSIG7	testgetadditionsformethodannotatedwithemptynam test addit annot empti 
+MTHSIG0	setup set 
+MTHSIG1	setupmockannotationvalu set mock annot valu 
+PACKAGE	springframework roo addon jpa activerecord 
+MTHSIG2	setupplur set plural plural 
+MTHSIG3	testgetadditionswhenentityannotationvaluesnotavail test addit entiti annot valu 
+VARIABLES	plural caller mid method layerprovid layer provid pluralid plural mockjpaactiverecordmetadataprovid mock jpa activ record metadata provid mocktargetent mock target entiti mockidtyp mock type mockannotationvalu mock annot valu mockmetadataservic mock metadata servic mockpluralmetadata mock plural metadata mocktypelocationservic mock type locat servic addit addit addit addit addit addit 
+MTHSIG8	testgetadditionsformethodannotatedwithnonemptynam test addit annot empti 

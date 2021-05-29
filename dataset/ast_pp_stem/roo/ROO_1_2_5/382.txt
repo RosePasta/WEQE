@@ -1,0 +1,34 @@
+VARSIG7	usexmlconfigur xml configur 
+VARSIG6	usepermissionevalu permiss evalu 
+VARSIG9	javatyp type classtyp type 
+VARSIG8	javatyp type interfacetyp type 
+VARSIG3	javatyp type domaintyp domain type 
+VARSIG2	javatyp type interfacetyp type 
+VARSIG5	role 
+VARSIG4	requireauthent requir authent 
+COMMENTS	link serviceoper servic oper implement type exist type exist verifi secur instal verifi permissionevalu permiss evalu creat 
+VARSIG19	usepermissionevalu permiss evalu 
+VARSIG1	javatyp type classtyp type 
+VARSIG18	role 
+VARSIG0	javatyp type interfacetyp type 
+VARSIG17	requireauthent requir authent 
+MTHSIG4	issecureserviceinstallationposs secur servic instal 
+VARSIG12	role 
+MTHSIG5	setupservic setup servic javatyp type interfacetyp type javatyp type classtyp type javatyp type domaintyp domain type requireauthent requir authent role usepermissionevalu permiss evalu usexmlconfigur xml configur 
+VARSIG11	requireauthent requir authent 
+MTHSIG6	setupallservic setup servic javapackag interfacepackag javapackag classpackag requireauthent requir authent role usepermissionevalu permiss evalu usexmlconfigur xml configur 
+VARSIG10	javatyp type domaintyp domain type 
+MTHSIG0	createserviceclass creat servic javatyp type interfacetyp type javatyp type classtyp type 
+VARSIG16	javapackag classpackag 
+MTHSIG1	createserviceinterfac creat servic javatyp type interfacetyp type javatyp type domaintyp domain type requireauthent requir authent role usepermissionevalu permiss evalu usexmlconfigur xml configur 
+VARSIG15	javapackag interfacepackag 
+PACKAGE	springframework roo addon layer servic 
+MTHSIG2	ispermissionevaluatorinstal permiss evalu instal 
+VARSIG14	usexmlconfigur xml configur 
+MTHSIG3	isserviceinstallationposs servic instal 
+VARSIG13	usepermissionevalu permiss evalu 
+CLASSES	serviceoperationsimpl servic oper impl 
+METHODS	createserviceclass creat servic createserviceinterfac creat servic ispermissionevaluatorinstal permiss evalu instal isserviceinstallationposs servic instal issecureserviceinstallationposs secur servic instal setupservic setup servic setupallservic setup servic 
+VARSIG21	classorinterfacetypedetail type detail domaintyp domain type 
+VARSIG20	usexmlconfigur xml configur 
+VARIABLES	interfacetyp type classtyp type interfacetyp type domaintyp domain type requireauthent requir authent role usepermissionevalu permiss evalu usexmlconfigur xml configur interfacetyp type classtyp type domaintyp domain type requireauthent requir authent role usepermissionevalu permiss evalu usexmlconfigur xml configur interfacepackag classpackag requireauthent requir authent role usepermissionevalu permiss evalu usexmlconfigur xml configur domaintyp domain type filemanag file manag pathresolv path resolv projectoper project oper typemanagementservic type manag servic typelocationservic type locat servic classidentifi identifi classmid mid classtypebuild type builder interfaceidentifi identifi interfaceannotationmetadata annot metadata interfacemid mid interfacetypebuild type builder type interfacetyp type classtyp type 

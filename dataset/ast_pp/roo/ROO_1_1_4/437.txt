@@ -1,0 +1,43 @@
+VARSIG7	list constructormetadata constructor metadata declaredconstructors declared constructors
+VARSIG6	set javatype type registeredimports registered imports
+VARSIG9	list methodmetadata metadata declaredmethods declared methods
+VARSIG8	list fieldmetadata field metadata declaredfields declared fields
+VARSIG3	classorinterfacetypedetails type details governor
+VARSIG2	modifier
+VARSIG5	privilegedaspect privileged aspect
+VARSIG4	javatype type aspect
+COMMENTS	representation link itdtypedetails type details basic link hashcode hash code detecting link abstractitdmetadataprovider metadata provider avoiding downstream notifications force builder
+VARSIG1	declaredbymetadataid declared metadata
+VARSIG0	customdata custom data customdata custom data
+VARSIG17	customdataaccessor custom data accessor accessor
+MTHSIG4	getname
+VARSIG12	list annotationmetadata annotation metadata typeannotations type annotations
+MTHSIG5	getgovernor governor
+VARSIG11	list javatype type implementstypes types
+MTHSIG6	getaspect aspect
+VARSIG10	list javatype type extendstypes types
+MTHSIG7	isprivilegedaspect privileged aspect
+MTHSIG0	defaultitdtypedetails type details customdata custom data customdata custom data declaredbymetadataid declared metadata modifier classorinterfacetypedetails type details governor javatype type aspect privilegedaspect privileged aspect set javatype type registeredimports registered imports list constructormetadata constructor metadata declaredconstructors declared constructors list fieldmetadata field metadata declaredfields declared fields list methodmetadata metadata declaredmethods declared methods list javatype type extendstypes types list javatype type implementstypes types list annotationmetadata annotation metadata typeannotations type annotations list declaredfieldannotationdetails declared field annotation details fieldannotations field annotations list declaredmethodannotationdetails declared annotation details methodannotations annotations list classorinterfacetypedetails type details innertypes types
+VARSIG16	collection customdataaccessor custom data accessor coll
+MTHSIG1	getregisteredimports registered imports
+VARSIG15	list classorinterfacetypedetails type details innertypes types
+PACKAGE	springframework roo classpath details
+MTHSIG2	getimplementstypes types
+VARSIG14	list declaredmethodannotationdetails declared annotation details methodannotations annotations
+MTHSIG3	getphysicaltypecategory physical type category
+VARSIG13	list declaredfieldannotationdetails declared field annotation details fieldannotations field annotations
+MTHSIG8	getdeclaredconstructors declared constructors
+MTHSIG9	getdeclaredfields declared fields
+MTHSIG17	hashcode hash code
+MTHSIG18	includecustomdatahash include custom data hash collection customdataaccessor custom data accessor coll
+MTHSIG15	getmethodannotations annotations
+MTHSIG16	getinnertypes types
+MTHSIG13	getextendstypes types
+MTHSIG14	getfieldannotations field annotations
+MTHSIG11	getdeclaredinnertypes declared types
+MTHSIG12	getdeclaredinitializers declared initializers
+CLASSES	defaultitdtypedetails type details
+METHODS	defaultitdtypedetails type details getregisteredimports registered imports getimplementstypes types getphysicaltypecategory physical type category getname getgovernor governor getaspect aspect isprivilegedaspect privileged aspect getdeclaredconstructors declared constructors getdeclaredfields declared fields getdeclaredmethods declared methods getdeclaredinnertypes declared types getdeclaredinitializers declared initializers getextendstypes types getfieldannotations field annotations getmethodannotations annotations getinnertypes types hashcode hash code includecustomdatahash include custom data hash tostring
+MTHSIG19	tostring
+MTHSIG10	getdeclaredmethods declared methods
+VARIABLES	customdata custom data declaredbymetadataid declared metadata modifier governor aspect privilegedaspect privileged aspect registeredimports registered imports declaredconstructors declared constructors declaredfields declared fields declaredmethods declared methods extendstypes types implementstypes types typeannotations type annotations fieldannotations field annotations methodannotations annotations innertypes types coll accessor governor aspect privilegedaspect privileged aspect physicaltypecategory physical type category declaredconstructors declared constructors declaredfields declared fields declaredmethods declared methods declaredinnertypes declared types declaredinitializers declared initializers extendstypes types implementstypes types registeredimports registered imports fieldannotations field annotations methodannotations annotations innertypes types hash result tsc

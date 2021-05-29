@@ -1,0 +1,156 @@
+MTHSIG28	removeresourcelisten remov resourc listen resourcelisten resourc listen listen 
+MTHSIG29	sendresourceadditionnotif send resourc addit notif resourc resourc 
+MTHSIG26	sendfilterremovalnotif send filter remov notif filter filter 
+MTHSIG27	addresourcelisten add resourc listen resourcelisten resourc listen listen 
+MTHSIG24	removefilterlisten remov filter listen filterlisten filter listen listen 
+MTHSIG25	sendfilteradditionnotif send filter addit notif filter filter 
+MTHSIG22	sendpropertyremovalnotif send properti remov notif properti properti 
+MTHSIG23	addfilterlisten add filter listen filterlisten filter listen listen 
+MTHSIG4	removedependencylisten remov depend listen dependencylisten depend listen listen 
+VARSIG78	plugin plugin 
+MTHSIG5	senddependencyadditionnotif send depend addit notif depend depend 
+VARSIG77	plugin plugin 
+MTHSIG6	senddependencyremovalnotif send depend remov notif depend depend 
+VARSIG76	list plugin plugin 
+MTHSIG7	addrepositorylisten add repositori listen repositorylisten repositori listen listen 
+VARSIG75	repositori repositori 
+MTHSIG0	isprojectavail project 
+MTHSIG1	getprojectmetadata project metadata 
+MTHSIG2	getpathresolv path resolv 
+MTHSIG3	adddependencylisten add depend listen dependencylisten depend listen listen 
+VARSIG79	list plugin plugin 
+MTHSIG20	removepropertylisten remov properti listen propertylisten properti listen listen 
+VARSIG70	repositori repositori 
+MTHSIG21	sendpropertyadditionnotif send properti addit notif properti properti 
+MTHSIG8	removerepositorylisten remov repositori listen repositorylisten repositori listen listen 
+VARSIG74	repositori repositori 
+MTHSIG9	sendrepositoryadditionnotif send repositori addit notif repositori repositori 
+VARSIG73	repositori repositori 
+VARSIG72	list repositori repositori 
+VARSIG71	repositori repositori 
+MTHSIG39	removedepend remov depend groupid group artifactid artifact version classifi 
+MTHSIG37	removedepend remov depend list depend depend 
+MTHSIG38	removedepend remov depend depend depend 
+MTHSIG35	adddepend add depend groupid group artifactid artifact version dependencyscop depend scope scope 
+MTHSIG36	adddepend add depend groupid group artifactid artifact version 
+MTHSIG33	adddepend add depend depend depend 
+MTHSIG34	adddepend add depend groupid group artifactid artifact version dependencyscop depend scope scope classifi 
+METHODS	isprojectavail project getprojectmetadata project metadata getpathresolv path resolv adddependencylisten add depend listen removedependencylisten remov depend listen senddependencyadditionnotif send depend addit notif senddependencyremovalnotif send depend remov notif addrepositorylisten add repositori listen removerepositorylisten remov repositori listen sendrepositoryadditionnotif send repositori addit notif sendrepositoryremovalnotif send repositori remov notif addpluginrepositorylisten add plugin repositori listen removepluginrepositorylisten remov plugin repositori listen sendpluginrepositoryadditionnotif send plugin repositori addit notif sendpluginrepositoryremovalnotif send plugin repositori remov notif addpluginlisten add plugin listen removepluginlisten remov plugin listen sendpluginadditionnotif send plugin addit notif sendpluginremovalnotif send plugin remov notif addpropertylisten add properti listen removepropertylisten remov properti listen sendpropertyadditionnotif send properti addit notif sendpropertyremovalnotif send properti remov notif addfilterlisten add filter listen removefilterlisten remov filter listen sendfilteradditionnotif send filter addit notif sendfilterremovalnotif send filter remov notif addresourcelisten add resourc listen removeresourcelisten remov resourc listen sendresourceadditionnotif send resourc addit notif sendresourceremovalnotif send resourc remov notif updateprojecttyp updat project type adddepend add depend adddepend add depend adddepend add depend adddepend add depend adddepend add depend removedepend remov depend removedepend remov depend removedepend remov depend removedepend remov depend addrepositori add repositori addrepositori add repositori removerepositori remov repositori addpluginrepositori add plugin repositori addpluginrepositori add plugin repositori removepluginrepositori remov plugin repositori addbuildplugin add build plugin addbuildplugin add build plugin removebuildplugin remov build plugin removebuildplugin remov build plugin updatebuildplugin updat build plugin buildpluginupd build plugin updat addproperti add properti removeproperti remov properti addfilt add filter removefilt remov filter addresourc add resourc removeresourc remov resourc 
+VARSIG67	version 
+VARSIG66	artifactid artifact 
+VARSIG65	groupid group 
+VARSIG64	classifi 
+VARSIG69	repositori repositori 
+VARSIG68	list repositori repositori 
+MTHSIG31	updateprojecttyp updat project type projecttyp project type projecttyp project type 
+MTHSIG32	adddepend add depend list depend depend 
+MTHSIG30	sendresourceremovalnotif send resourc remov notif resourc resourc 
+VARSIG63	version 
+VARSIG62	artifactid artifact 
+VARSIG61	groupid group 
+VARSIG60	depend depend 
+COMMENTS	common project oper subclass project specif oper subclass exist quit delet exist plugin version add plugin 
+VARSIG19	pluginlisten plugin listen listen 
+VARSIG18	pluginlisten plugin listen listen 
+VARSIG17	repositorylisten repositori listen listen 
+VARSIG12	repositorylisten repositori listen listen 
+VARSIG11	repositorylisten repositori listen listen 
+VARSIG10	repositori repositori 
+VARSIG16	repositori repositori 
+VARSIG15	repositorylisten repositori listen listen 
+VARSIG14	repositori repositori 
+VARSIG13	repositorylisten repositori listen listen 
+VARSIG91	resourc resourc 
+VARSIG90	resourc resourc 
+MTHSIG17	sendpluginadditionnotif send plugin addit notif plugin plugin 
+MTHSIG18	sendpluginremovalnotif send plugin remov notif plugin plugin 
+MTHSIG15	addpluginlisten add plugin listen pluginlisten plugin listen listen 
+MTHSIG16	removepluginlisten remov plugin listen pluginlisten plugin listen listen 
+MTHSIG13	sendpluginrepositoryadditionnotif send plugin repositori addit notif repositori repositori 
+MTHSIG14	sendpluginrepositoryremovalnotif send plugin repositori remov notif repositori repositori 
+MTHSIG11	addpluginrepositorylisten add plugin repositori listen repositorylisten repositori listen listen 
+MTHSIG12	removepluginrepositorylisten remov plugin repositori listen repositorylisten repositori listen listen 
+MTHSIG19	addpropertylisten add properti listen propertylisten properti listen listen 
+VARSIG89	filter filter 
+VARSIG88	filter filter 
+VARSIG87	properti properti 
+VARSIG86	properti properti 
+VARSIG81	plugin plugin 
+MTHSIG10	sendrepositoryremovalnotif send repositori remov notif repositori repositori 
+VARSIG80	plugin plugin 
+VARIABLES	listen listen depend listen depend listen listen listen repositori listen repositori listen listen listen repositori listen repositori listen listen listen plugin listen plugin listen listen listen properti listen properti listen listen listen filter listen filter listen listen listen resourc listen resourc listen projecttyp project type depend depend depend groupid group artifactid artifact version scope classifi groupid group artifactid artifact version scope groupid group artifactid artifact version depend depend depend groupid group artifactid artifact version classifi groupid group artifactid artifact version repositori repositori repositori repositori repositori repositori repositori repositori plugin plugin plugin plugin plugin plugin plugin existingplugin exist plugin exist plugin properti properti filter filter resourc resourc metadataservic metadata servic projectmetadataprovid project metadata provid listen repositorylisten repositori listen pluginrepositorylisten plugin repositori listen pluginlisten plugin listen propertylisten properti listen filterlisten filter listen resourcelisten resourc listen projectmetadata project metadata depend depend projectmetadata project metadata 
+VARSIG85	plugin plugin 
+VARSIG84	plugin exist 
+VARSIG83	plugin existingplugin exist plugin 
+VARSIG82	plugin plugin 
+VARSIG39	resourcelisten resourc listen listen 
+VARSIG34	filter filter 
+VARSIG33	filterlisten filter listen listen 
+VARSIG32	filter filter 
+VARSIG31	filterlisten filter listen listen 
+VARSIG38	resourc resourc 
+VARSIG37	resourcelisten resourc listen listen 
+PACKAGE	springframework roo project 
+VARSIG36	resourcelisten resourc listen listen 
+VARSIG35	filterlisten filter listen listen 
+VARSIG30	filterlisten filter listen listen 
+CLASSES	abstractprojectoper project oper 
+VARSIG29	propertylisten properti listen listen 
+VARSIG28	properti properti 
+VARSIG23	pluginlisten plugin listen listen 
+VARSIG22	plugin plugin 
+VARSIG21	pluginlisten plugin listen listen 
+VARSIG20	plugin plugin 
+VARSIG27	propertylisten properti listen listen 
+VARSIG26	properti properti 
+VARSIG25	propertylisten properti listen listen 
+VARSIG24	propertylisten properti listen listen 
+VARSIG7	repositorylisten repositori listen listen 
+VARSIG6	repositorylisten repositori listen listen 
+MTHSIG48	addbuildplugin add build plugin plugin plugin 
+VARSIG9	repositorylisten repositori listen listen 
+MTHSIG49	removebuildplugin remov build plugin list plugin plugin 
+VARSIG8	repositori repositori 
+MTHSIG46	removepluginrepositori remov plugin repositori repositori repositori 
+VARSIG3	dependencylisten depend listen listen 
+MTHSIG47	addbuildplugin add build plugin list plugin plugin 
+VARSIG2	depend depend 
+MTHSIG44	addpluginrepositori add plugin repositori list repositori repositori 
+VARSIG5	dependencylisten depend listen listen 
+MTHSIG45	addpluginrepositori add plugin repositori repositori repositori 
+VARSIG4	depend depend 
+VARSIG1	dependencylisten depend listen listen 
+VARSIG0	dependencylisten depend listen listen 
+VARSIG56	artifactid artifact 
+VARSIG55	groupid group 
+VARSIG54	dependencyscop depend scope scope 
+VARSIG53	version 
+VARSIG59	depend depend 
+VARSIG58	list depend depend 
+VARSIG57	version 
+MTHSIG42	addrepositori add repositori repositori repositori 
+MTHSIG43	removerepositori remov repositori repositori repositori 
+MTHSIG40	removedepend remov depend groupid group artifactid artifact version 
+MTHSIG41	addrepositori add repositori list repositori repositori 
+VARSIG52	artifactid artifact 
+VARSIG51	groupid group 
+VARSIG50	classifi 
+MTHSIG57	addresourc add resourc resourc resourc 
+MTHSIG58	removeresourc remov resourc resourc resourc 
+MTHSIG55	addfilt add filter filter filter 
+MTHSIG56	removefilt remov filter filter filter 
+VARSIG45	depend depend 
+VARSIG44	depend depend 
+VARSIG43	list depend depend 
+VARSIG42	projecttyp project type projecttyp project type 
+VARSIG49	dependencyscop depend scope scope 
+VARSIG48	version 
+VARSIG47	artifactid artifact 
+VARSIG46	groupid group 
+MTHSIG53	addproperti add properti properti properti 
+MTHSIG54	removeproperti remov properti properti properti 
+MTHSIG51	updatebuildplugin updat build plugin plugin plugin 
+MTHSIG52	buildpluginupd build plugin updat plugin plugin 
+VARSIG41	resourcelisten resourc listen listen 
+MTHSIG50	removebuildplugin remov build plugin plugin plugin 
+VARSIG40	resourc resourc 

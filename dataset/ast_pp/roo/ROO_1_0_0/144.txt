@@ -1,0 +1,11 @@
+MTHSIG0	abstractitdtypedetailsprovidingmetadataitem type details providing metadata item identifier javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+MTHSIG1	getitdtypedetails type details
+VARSIG2	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+PACKAGE	springframework roo classpath
+MTHSIG2	tostring
+COMMENTS	implementation link itdtypedetailsprovidingmetadataitem type details providing metadata item assumes subclass require link classorinterfacetypedetails type details representing governor wishes build link defaultitdtypedetailsbuilder type details builder mechanism validates input constructs superclass link itdtypedetailsprovidingmetadataitem type details providing metadata item exposes link classorinterfacetypedetails type details governor ensures link isvalid valid returns subclasses generally link isvalid valid subclasses attempt set link itdtypedetails type details output link isvalid valid identifier identifier item metadata required aspectname aspect type required governorphysicaltypemetadata governor physical type metadata governor expected link classorinterfacetypedetails type details required problem reliable physical type details provide subclass builder preparing easier
+CLASSES	abstractitdtypedetailsprovidingmetadataitem type details providing metadata item
+VARIABLES	identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata governortypedetails governor type details itdtypedetails type details destination aspectname aspect governorphysicaltypemetadata governor physical type metadata builder physicaltypedetails physical type details tsc
+VARSIG1	javatype type aspectname aspect
+VARSIG0	identifier
+METHODS	abstractitdtypedetailsprovidingmetadataitem type details providing metadata item getitdtypedetails type details tostring

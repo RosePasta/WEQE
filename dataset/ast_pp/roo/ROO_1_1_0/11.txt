@@ -1,0 +1,22 @@
+VARSIG7	clioption cli option key toplevelpackage top level mandatory optioncontext option context update top level addon javapackage tlp
+VARSIG6	clioption cli option key projectname project mandatory provide custom project top level projectname project
+VARSIG9	clioption cli option key projectname project mandatory provide custom project top level projectname project
+VARSIG8	clioption cli option key description mandatory description addon surround text quotes description
+VARSIG3	clioption cli option key language mandatory full language label language
+VARSIG2	clioption cli option key messagebundle message bundle mandatory fully qualified path messages properties file file messagebundle message bundle
+VARSIG5	clioption cli option key description mandatory description addon surround text quotes description
+VARSIG4	clioption cli option key flaggraphic flag graphic mandatory fully qualified path flag png file file flaggraphic flag graphic
+COMMENTS	commands addon create add roo shell
+CLASSES	creatorcommands creator commands
+VARSIG1	clioption cli option key locale mandatory locale abbreviation specific locale locale
+VARSIG0	clioption cli option key toplevelpackage top level mandatory optioncontext option context update top level addon javapackage tlp
+METHODS	iscreateaddonavailable create addon simple advanced
+VARSIG12	clioption cli option key projectname project mandatory provide custom project top level projectname project
+VARSIG11	clioption cli option key description mandatory description addon surround text quotes description
+VARSIG10	clioption cli option key toplevelpackage top level mandatory optioncontext option context update top level addon javapackage tlp
+MTHSIG0	iscreateaddonavailable create addon
+MTHSIG1	javapackage tlp locale locale file messagebundle message bundle language file flaggraphic flag graphic description projectname project
+PACKAGE	springframework roo addon creator
+MTHSIG2	simple javapackage tlp description projectname project
+MTHSIG3	advanced javapackage tlp description projectname project
+VARIABLES	tlp locale messagebundle message bundle language flaggraphic flag graphic description projectname project tlp description projectname project tlp description projectname project generatoroperations generator operations

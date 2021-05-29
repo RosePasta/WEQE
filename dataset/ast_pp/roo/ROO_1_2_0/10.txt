@@ -1,0 +1,50 @@
+MTHSIG22	updateurlmap update url map
+MTHSIG23	updatememoryoptions update memory options
+MTHSIG4	login email password cloudcontrollerurl cloud controller url
+MTHSIG5	getlogincredentials login credentials cloudcontrollerurl cloud controller url email password
+MTHSIG6	getstoredemailaddress stored email address cloudcontrollerurl cloud controller url
+MTHSIG7	login cloudcredentials cloud credentials credentials
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context
+PACKAGE	springframework roo addon cloud foundry
+MTHSIG2	beforetransmission transmission transmissiontype transmission type type
+MTHSIG3	aftertransmission transmission transmissiontype transmission type type successful
+MTHSIG20	updateprovisionedservices update provisioned services
+MTHSIG21	updateservicetypes update service types
+MTHSIG8	getclient client
+MTHSIG9	getapplicationnames application names
+CLASSES	cloudfoundrysessionimpl cloud foundry session impl
+METHODS	activate deactivate beforetransmission transmission aftertransmission transmission login getlogincredentials login credentials getstoredemailaddress stored email address login getclient client getapplicationnames application names getprovisionedservices provisioned services getboundurlmap bound url map getapplicationmemoryoptions application memory options getprovisionedservice provisioned service getservice service getservicetypes service types getstoredemails stored emails getstoredurls stored urls clearstoredlogindetails clear stored login details updateapplicationnames update application names updateprovisionedservices update provisioned services updateservicetypes update service types updateurlmap update url map updatememoryoptions update memory options
+VARSIG20	memoryoption memory option
+VARSIG7	cloudcontrollerurl cloud controller url
+VARSIG6	password
+VARSIG9	email
+VARSIG8	cloudcontrollerurl cloud controller url
+VARSIG3	transmissiontype transmission type type
+VARSIG2	transmissiontype transmission type type
+VARSIG5	email
+VARSIG4	successful
+COMMENTS	constants fields user fresh credentials returns credentials logging cloud cloudcontrollerurl cloud controller url url user blank email email address user blank password password user blank complete set credentials stored values returns email address stored credentials url cloudcontrollerurl cloud controller url set credentials logs user credentials credentials credentials valid
+VARSIG19	cloudapplication cloud application app
+VARSIG1	componentcontext component context
+VARSIG18	serviceconfiguration service configuration servicetype service type
+VARSIG0	componentcontext component context context
+VARSIG17	cloudservice cloud service provisionedservice provisioned service
+VARSIG12	cloudcredentials cloud credentials credentials
+VARSIG11	cloudcontrollerurl cloud controller url
+VARSIG10	password
+VARSIG16	cloudapplication cloud application app
+VARSIG15	serviceconfiguration service configuration serviceconfiguration service configuration
+VARSIG14	servicevendor service vendor
+VARSIG13	provisionedservicename provisioned service
+MTHSIG17	getstoredurls stored urls
+MTHSIG18	clearstoredlogindetails clear stored login details
+MTHSIG15	getservicetypes service types
+MTHSIG16	getstoredemails stored emails
+MTHSIG13	getprovisionedservice provisioned service provisionedservicename provisioned service
+MTHSIG14	getservice service servicevendor service vendor
+MTHSIG11	getboundurlmap bound url map
+MTHSIG12	getapplicationmemoryoptions application memory options
+MTHSIG19	updateapplicationnames update application names
+MTHSIG10	getprovisionedservices provisioned services
+VARIABLES	context type type successful email password cloudcontrollerurl cloud controller url cloudcontrollerurl cloud controller url email password cloudcontrollerurl cloud controller url credentials provisionedservicename provisioned service servicevendor service vendor serviceconfiguration service configuration app provisionedservice provisioned service servicetype service type app memoryoption memory option logger appcloudclientfactory app cloud client factory preferencesservice preferences service uaaservice uaa service memoryoptions memory options appnames app names provisionedservices provisioned services servicetypes service types boundurlmap bound url map preferences client credentials logincredentials login credentials storedemails stored emails

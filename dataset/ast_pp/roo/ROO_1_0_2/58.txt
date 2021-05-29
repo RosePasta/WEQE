@@ -1,0 +1,21 @@
+VARSIG7	clioption cli option key mandatory vale property key
+VARSIG6	clioption cli option key key mandatory property key changed key
+VARSIG9	clioption cli option key path mandatory source path property file path path
+VARSIG8	clioption cli option key mandatory property file including properties suffix
+VARSIG3	clioption cli option key path mandatory source path property file path path
+VARSIG2	clioption cli option key mandatory property file including properties suffix
+VARSIG5	clioption cli option key path mandatory source path property file path path
+VARSIG4	clioption cli option key mandatory property file including properties suffix
+COMMENTS	commands propfile add roo shell
+CLASSES	propfilecommands prop file commands
+VARSIG1	propfileoperations prop file operations loggingoperations logging operations
+VARSIG0	staticfieldconverter field converter staticfieldconverter field converter
+METHODS	propfilecommands prop file commands isinstallwebflowavailable install web flow propertyfilekeys property file databaseset database set databaseremove database remove
+MTHSIG4	databaseremove database remove path path key
+VARSIG10	clioption cli option key key mandatory property key removed key
+MTHSIG0	propfilecommands prop file commands staticfieldconverter field converter staticfieldconverter field converter propfileoperations prop file operations loggingoperations logging operations
+MTHSIG1	isinstallwebflowavailable install web flow
+PACKAGE	springframework roo addon propfiles
+MTHSIG2	propertyfilekeys property file path path
+MTHSIG3	databaseset database set path path key
+VARIABLES	staticfieldconverter field converter loggingoperations logging operations path path key path key propfileoperations prop file operations

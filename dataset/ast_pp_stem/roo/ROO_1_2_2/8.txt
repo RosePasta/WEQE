@@ -1,0 +1,103 @@
+MTHSIG28	start appnam app 
+MTHSIG29	stat appnam app 
+MTHSIG26	servic 
+MTHSIG27	setup 
+MTHSIG24	restart appnam app 
+MTHSIG25	roundtwodecim decim 
+MTHSIG22	regist email password 
+MTHSIG23	renameapp renam app appnam app newappnam app 
+MTHSIG4	crashlog crash log appnam app instanc 
+MTHSIG5	createservic creat servic servic bind 
+MTHSIG6	delet appnam app 
+MTHSIG7	deleteservic delet servic servic 
+MTHSIG0	app 
+MTHSIG1	bindservic bind servic servic appnam app 
+MTHSIG2	clearstoredlogindetail clear store login detail 
+MTHSIG3	crash appnam app 
+MTHSIG20	mem appnam app integ memsiz mem size 
+MTHSIG21	push appnam app integ instanc integ memori path list url 
+MTHSIG8	executecommand execut command cloudcommand cloud command command 
+MTHSIG9	file appnam app path instanc 
+MTHSIG33	updat appnam app 
+METHODS	app bindservic bind servic clearstoredlogindetail clear store login detail crash crashlog crash log createservic creat servic delet deleteservic delet servic executecommand execut command file formatdurationinsecond format durat second getappl applic getinteg integ info instanc iscloudfoundrycommandavail cloud foundri command issetupcommandavail setup command login log map mem push regist renameapp renam app restart roundtwodecim decim servic setup start stat unbindservic unbind servic unmap map updat 
+MTHSIG31	unbindservic unbind servic servic appnam app 
+MTHSIG32	unmap map appnam app url 
+MTHSIG30	appnam app 
+VARSIG63	appnam app 
+VARSIG62	url 
+VARSIG61	appnam app 
+VARSIG60	appnam app 
+COMMENTS	oper cloud foundri add todo move tabl render stuff separ sfw shell feel free addonoperationsimpl add oper impl talk todo cloud environ profil applic config 
+VARSIG19	servic 
+VARSIG18	appnam app 
+VARSIG17	serviceconfigur servic configur serviceconfigur servic configur 
+VARSIG12	appnam app 
+VARSIG11	crashinfo crash info crash 
+VARSIG10	appnam app 
+VARSIG16	bind 
+VARSIG15	 
+VARSIG14	servic 
+VARSIG13	instanc 
+MTHSIG17	login email password cloudcontrollerurl cloud control url 
+MTHSIG18	log appnam app instanc 
+MTHSIG15	iscloudfoundrycommandavail cloud foundri command 
+MTHSIG16	issetupcommandavail setup command 
+MTHSIG13	info 
+MTHSIG14	instanc appnam app number 
+MTHSIG11	getappl applic appnam app 
+MTHSIG12	getinteg integ potentialint potenti 
+MTHSIG19	map appnam app url 
+MTHSIG10	formatdurationinsecond format durat second second 
+VARIABLES	failuremessag failur messag failuremessag failur messag successmessag success messag failuremessag failur messag successmessag success messag gerund applic servic servic appnam app appnam app crash appnam app instanc servic bind serviceconfigur servic configur appnam app servic command appnam app path instanc second appnam app potentialint potenti appnam app number email password cloudcontrollerurl cloud control url appnam app instanc appnam app url appnam app memsiz mem size appnam app instanc memori path url email password appnam app newappnam app cloudappl cloud applic appnam app servic servic appnam app appnam app instancestat instanc stat appnam app servic appnam app appnam app url appnam app displaysuccessmessag displai success messag failuremessag failur messag gerund successmessag success messag logger client session applic tabl uri servic failuremessag failur messag successmessag success messag crash tabl failuremessag failur messag successmessag success messag cloudservic cloud servic serviceconfigur servic configur failuremessag failur messag successmessag success messag failuremessag failur messag successmessag success messag timer statusind statu indic statuscount statu count timertask timer task instanceindex instanc file secondsinminut second minut secondsinhour second hour secondsindai second dai dai remaind hour minut sec cloudinfo cloud info instanc instancesinfo instanc info failuremessag failur messag successmessag success messag instanceindex instanc stderrlog stderr log stdoutlog failuremessag failur messag successmessag success messag applic uri shelltabl shell tabl filetodeploi file deploi failuremessag failur messag successmessag success messag finalmem mem cloudappl cloud applic finalurl url finalinst instanc successmessag success messag failuremessag failur messag failuremessag failur messag successmessag success messag failuremessag failur messag successmessag success messag twodform form globalservic global servic localservic local servic tabl tabl failuremessag failur messag successmessag success messag stat tabl instanc usag cpu memori disk uptim formatteduptim format uptim failuremessag failur messag successmessag success messag failuremessag failur messag successmessag success messag failuremessag failur messag successmessag success messag applic uri 
+VARSIG39	appnam app 
+VARSIG34	cloudcontrollerurl cloud control url 
+VARSIG33	password 
+VARSIG32	email 
+VARSIG31	number 
+VARSIG38	url 
+VARSIG37	appnam app 
+PACKAGE	springframework roo addon cloud foundri 
+VARSIG36	instanc 
+VARSIG35	appnam app 
+VARSIG30	appnam app 
+CLASSES	cloudfoundryoperationsimpl cloud foundri oper impl 
+VARSIG29	charact 
+VARSIG28	potentialint potenti 
+VARSIG23	path 
+VARSIG22	appnam app 
+VARSIG21	except 
+VARSIG20	cloudcommand cloud command command 
+VARSIG27	except 
+VARSIG26	appnam app 
+VARSIG25	second 
+VARSIG24	instanc 
+VARSIG7	servic 
+VARSIG6	cloudappl cloud applic applic 
+VARSIG9	appnam app 
+VARSIG8	servic 
+VARSIG3	failuremessag failur messag 
+VARSIG2	successmessag success messag 
+VARSIG5	gerund 
+VARSIG4	successmessag success messag 
+VARSIG1	failuremessag failur messag 
+VARSIG0	failuremessag failur messag 
+VARSIG56	appnam app 
+VARSIG55	appnam app 
+VARSIG54	cloudservic cloud servic servic 
+VARSIG53	serviceconfigur servic configur servic 
+VARSIG59	servic 
+VARSIG58	appnam app 
+VARSIG57	instancestat instanc stat instancestat instanc stat 
+VARSIG52	 
+VARSIG51	appnam app 
+VARSIG50	cloudappl cloud applic cloudappl cloud applic 
+VARSIG45	list url 
+VARSIG44	path 
+VARSIG43	integ memori 
+VARSIG42	integ instanc 
+VARSIG49	newappnam app 
+VARSIG48	appnam app 
+VARSIG47	password 
+VARSIG46	email 
+VARSIG41	appnam app 
+VARSIG40	integ memsiz mem size 

@@ -1,0 +1,12 @@
+MTHSIG0	gettemplatepath templat path loadingclass load relativefilenam rel filenam 
+VARSIG3	templatefilenam templat filenam 
+MTHSIG1	gettempl templat clazz templatefilenam templat filenam 
+VARSIG2	clazz 
+PACKAGE	springframework roo support util 
+MTHSIG2	templateutil templat util 
+COMMENTS	util deal templat commonli roo add on determin path request templat clazz own templat requir templatefilenam templat filenam filenam templat requir full classload specif path templat link fileutil file util getpath path acquir link inputstream input stream request classload deriv templat clazz own templat requir templatefilenam templat filenam filenam templat requir input stream except thrown link fileutil file util getinputstream input stream constructor prevent instanti 
+CLASSES	templateutil templat util 
+VARIABLES	loadingclass load relativefilenam rel filenam clazz templatefilenam templat filenam 
+VARSIG1	relativefilenam rel filenam 
+VARSIG0	loadingclass load 
+METHODS	gettemplatepath templat path gettempl templat templateutil templat util 

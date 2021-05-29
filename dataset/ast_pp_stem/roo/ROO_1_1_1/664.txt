@@ -1,0 +1,159 @@
+MTHSIG28	stripfilenameextens strip filenam extens path 
+MTHSIG29	applyrelativepath appli rel path path relativepath rel path 
+MTHSIG26	getfilenam filenam path 
+MTHSIG27	getfilenameextens filenam extens path 
+MTHSIG24	uncapit str 
+MTHSIG25	changefirstcharactercas chang charact str capit 
+MTHSIG22	unqualifi qualifiednam qualifi separ 
+MTHSIG23	capit str 
+MTHSIG4	containswhitespac whitespac charsequ sequenc str 
+VARSIG78	str 
+MTHSIG5	containswhitespac whitespac str 
+VARSIG77	charstodelet char delet 
+MTHSIG6	trimwhitespac trim whitespac str 
+VARSIG76	delimit 
+MTHSIG7	trimallwhitespac trim whitespac str 
+VARSIG75	str 
+MTHSIG0	haslength length charsequ sequenc str 
+MTHSIG1	haslength length str 
+MTHSIG2	hastext text charsequ sequenc str 
+MTHSIG3	hastext text str 
+VARSIG79	str 
+MTHSIG20	quoteifstr quot object obj 
+VARSIG70	delimit 
+MTHSIG21	unqualifi qualifiednam qualifi 
+MTHSIG8	trimleadingwhitespac trim lead whitespac str 
+VARSIG74	delimit 
+MTHSIG9	trimtrailingwhitespac trim trail whitespac str 
+VARSIG73	str 
+VARSIG72	ignoreemptytoken ignor empti token 
+VARSIG71	trimtoken trim token 
+MTHSIG39	tostringarrai arrai enumer enumer 
+MTHSIG37	sortstringarrai sort arrai arrai 
+MTHSIG38	tostringarrai arrai collect collect 
+MTHSIG35	concatenatestringarrai concaten arrai arrai arrai arrai arrai 
+MTHSIG36	mergestringarrai merg arrai arrai arrai arrai arrai 
+MTHSIG33	tolanguagetag languag tag local local 
+MTHSIG34	addstringtoarrai add arrai arrai str 
+METHODS	haslength length haslength length hastext text hastext text containswhitespac whitespac containswhitespac whitespac trimwhitespac trim whitespac trimallwhitespac trim whitespac trimleadingwhitespac trim lead whitespac trimtrailingwhitespac trim trail whitespac trimleadingcharact trim lead charact trimtrailingcharact trim trail charact startswithignorecas start ignor endswithignorecas end ignor substringmatch substr match countoccurrencesof count occurr replac delet deleteani delet quot quoteifstr quot unqualifi unqualifi capit uncapit changefirstcharactercas chang charact getfilenam filenam getfilenameextens filenam extens stripfilenameextens strip filenam extens applyrelativepath appli rel path cleanpath clean path pathequ path equal parselocalestr pars local tolanguagetag languag tag addstringtoarrai add arrai concatenatestringarrai concaten arrai mergestringarrai merg arrai sortstringarrai sort arrai tostringarrai arrai tostringarrai arrai trimarrayel trim arrai element removeduplicatestr remov duplic string split splitarrayelementsintoproperti split arrai element properti splitarrayelementsintoproperti split arrai element properti tokenizetostringarrai token arrai tokenizetostringarrai token arrai delimitedlisttostringarrai delimit list arrai delimitedlisttostringarrai delimit list arrai commadelimitedlisttostringarrai comma delimit list arrai commadelimitedlisttoset comma delimit list set collectiontodelimitedstr collect delimit collectiontodelimitedstr collect delimit collectiontocommadelimitedstr collect comma delimit arraytodelimitedstr arrai delimit arraytocommadelimitedstr arrai comma delimit touppercas upper tolowercas trimtonul trim trimtoempti trim empti 
+VARSIG67	str 
+VARSIG66	charstodelet char delet 
+VARSIG65	delimit 
+VARSIG64	arrai 
+VARSIG69	str 
+VARSIG68	delimit 
+MTHSIG31	pathequ path equal path path path path 
+MTHSIG32	parselocalestr pars local localestr local 
+MTHSIG30	cleanpath clean path path 
+VARSIG63	delimit 
+VARSIG62	arrai 
+VARSIG61	delimit 
+VARSIG60	tosplit split 
+COMMENTS	miscellan link util method intern framework jakarta jakarta common lang comprehens suit util deliv simpl function core link stringbuild builder class abil link replac occurr substr target easi method convert delimit string csv string collect arrai common lang stringutil util gener conveni method work string check charsequ sequenc length note charsequ sequenc pure consist whitespac stringutil util haslength length stringutil util haslength length stringutil util haslength length stringutil util haslength length str charsequ sequenc check charsequ sequenc length hastext text check length note pure consist whitespac str check length haslength length charsequ sequenc check charsequ sequenc actual text return length greater whitespac charact stringutil util hastext text stringutil util hastext text stringutil util hastext text stringutil util hastext text stringutil util hastext text str charsequ sequenc check charsequ sequenc length greater whitespac lang charact iswhitespac whitespac check actual text return length greater whitespac charact str check length greater whitespac hastext text charsequ sequenc check charsequ sequenc whitespac charact str charsequ sequenc check charsequ sequenc empti whitespac charact lang charact iswhitespac whitespac check whitespac charact str check empti whitespac charact containswhitespac whitespac charsequ sequenc trim lead trail whitespac str check trim lang charact iswhitespac whitespac trim whitespac lead trail inbetween charact str check trim lang charact iswhitespac whitespac trim lead whitespac str check trim lang charact iswhitespac whitespac trim trail whitespac str check trim lang charact iswhitespac whitespac trim occur suppli lead charact str check leadingcharact lead charact lead charact trim trim trim occur suppli trail charact str check trailingcharact trail charact trail charact trim trim test start prefix ignor upper str check prefix prefix lang startswith start test end suffix ignor upper str check suffix suffix lang endswith end test match substr str origin stringbuild builder origin start match substr substr match count occurr substr str search search replac occur substr instr examin oldpattern pattern replac newpattern pattern insert replac posit occurr rememb append charact match delet occurr substr instr origin pattern pattern delet occurr delet charact instr origin charstodelet char delet set charact delet delet line conveni method work format string quot singl quot str input mystr quot mystr input turn object singl quot keep object obj input object mystr quot mystr input object unqualifi qualifi dot charact qualifi return qualifi qualifiednam qualifi qualifi unqualifi qualifi separ charact qualifi return qualifi separ qualifiednam qualifi qualifi separ separ capit chang letter upper link charact touppercas upper letter chang str capit capit uncapit chang letter link charact tolowercas letter chang str uncapit uncapit extract filenam path mypath myfil txt myfil txt path file path extract filenam extract filenam extens path mypath myfil txt txt path file path extract filenam extens strip filenam extens path mypath myfil txt mypath myfil path file path path strip filenam extens appli rel path path assum standard folder separ separ path path start full file path relativepath rel path rel path appli rel full file path full file path appli rel path normal path suppress sequenc path simpl dot result conveni path comparison notic window separ replac simpl slash path origin path normal path strip prefix path analyz treat path element correctli pars path file core core resourc strip core directori keep file prefix point current directori drop regist top path merg path element element top path normal path element remain top path retain compar path normal path path path comparison path path path comparison path equival normal pars localestr local link local invers oper link local tostr local local tostr localestr local local local local tostr format accept space separ altern underscor local instanc variant countri code san separ countri code variant strip lead whitespac what left variant determin rfc compliant languag tag http accept languag header local local transform languag tag rfc compliant languag tag conveni method work arrai append arrai return arrai consist input arrai content arrai arrai append str append arrai concaten arrai overlap arrai element includ order element origin arrai preserv arrai arrai arrai arrai arrai arrai arrai arrai merg arrai overlap arrai element includ order element origin arrai preserv except overlap element includ occur arrai arrai arrai arrai arrai arrai arrai arrai turn sourc arrai sort arrai arrai sourc arrai sort arrai copi collect arrai collect element collect collect copi arrai pass collect copi enumer arrai enumer element enumer enumer copi arrai pass enumer trim element arrai call trim arrai origin arrai arrai size trim element remov duplic string arrai sort arrai treeset tree set arrai arrai arrai duplic natur sort order split occurr delimit includ delimit result tosplit split split delimit split element arrai delimit delimit element includ delimit delimit wasn input arrai string split element base delimit properti instanc gener left delimit provid kei delimit provid trim kei ad properti instanc arrai arrai process delimit split element typic equal symbol properti instanc repres arrai content arrai process empti arrai string split element base delimit properti instanc gener left delimit provid kei delimit provid trim kei ad properti instanc arrai arrai process delimit split element typic equal symbol charstodelet char delet charact remov element prior attempt split oper typic quotat mark symbol remov occur properti instanc repres arrai content arrai process empti token arrai stringtoken token trim token omit empti token delimit suppos consist number delimit charact charact separ token delimit singl charact multi charact delimit delimitedlisttostringarrai delimit list arrai str token delimit delimit charact assembl charact individu consid delimit arrai token util stringtoken token lang trim delimitedlisttostringarrai delimit list arrai token arrai stringtoken token delimit suppos consist number delimit charact charact separ token delimit singl charact multi charact delimit delimitedlisttostringarrai delimit list arrai str token delimit delimit charact assembl charact individu consid delimit trimtoken trim token trim token string trim ignoreemptytoken ignor empti token omit empti token result arrai appli token empti trim stringtoken token subsequ delimit token place arrai token input util stringtoken token lang trim delimitedlisttostringarrai delimit list arrai delimit list convert arrai singl delimit consist charact consid singl delimit bunch potenti delimit charact contrast tokenizetostringarrai token arrai str input delimit delimit element singl delimit bunch individu delimit charact arrai token list tokenizetostringarrai token arrai delimit list convert arrai singl delimit consist charact consid singl delimit bunch potenti delimit charact contrast tokenizetostringarrai token arrai str input delimit delimit element singl delimit bunch individu delimit charact charstodelet char delet set charact delet delet unwant break delet line feed arrai token list tokenizetostringarrai token arrai add empti input convert csv list arrai string str input arrai string empti arrai empti input conveni convert csv list set note suppress duplic str input set entri list conveni collect delimit csv tostr implement coll collect displai delim delimit prefix start element suffix element delimit conveni collect delimit csv tostr implement coll collect displai delim delimit delimit conveni collect csv tostr implement coll collect displai delimit conveni arrai delimit csv tostr implement arr arrai displai delim delimit delimit conveni arrai csv tostr implement arr arrai displai delimit convert uppercas str input uppercas convert lowercas str input lowercas remov lead trail whitespac end return empti trim stringutil util trimtonul trim stringutil util trimtonul trim stringutil util trimtonul trim stringutil util trimtonul trim abc abc stringutil util trimtonul trim abc abc str trim trim char empti input remov lead trail whitespac end return empti empti trim stringutil util trimtonul trim stringutil util trimtonul trim stringutil util trimtonul trim stringutil util trimtonul trim abc abc stringutil util trimtonul trim abc abc str trim trim empti char empti input 
+VARSIG19	 
+VARSIG18	charsequ sequenc str 
+VARSIG17	suffix 
+VARSIG12	str 
+VARSIG11	leadingcharact lead charact 
+VARSIG10	str 
+VARSIG16	str 
+VARSIG15	prefix 
+VARSIG14	str 
+VARSIG13	trailingcharact trail charact 
+VARSIG92	str 
+VARSIG91	str 
+VARSIG90	str 
+VARSIG93	str 
+MTHSIG17	delet instr pattern 
+MTHSIG18	deleteani delet instr charstodelet char delet 
+MTHSIG15	countoccurrencesof count occurr str 
+MTHSIG16	replac instr oldpattern pattern newpattern pattern 
+MTHSIG13	endswithignorecas end ignor str suffix 
+MTHSIG14	substringmatch substr match charsequ sequenc str charsequ sequenc substr 
+MTHSIG11	trimtrailingcharact trim trail charact str trailingcharact trail charact 
+MTHSIG12	startswithignorecas start ignor str prefix 
+MTHSIG19	quot str 
+VARSIG89	object arr 
+VARSIG88	delim 
+VARSIG87	object arr 
+VARSIG86	collect coll 
+VARSIG81	delim 
+MTHSIG10	trimleadingcharact trim lead charact str leadingcharact lead charact 
+VARSIG80	collect coll 
+VARIABLES	str str str str str str str str str str str leadingcharact lead charact str trailingcharact trail charact str prefix str suffix str substr str instr oldpattern pattern newpattern pattern instr pattern instr charstodelet char delet str obj qualifiednam qualifi qualifiednam qualifi separ str str str capit path path path path relativepath rel path path path path path path localestr local local arrai str arrai arrai arrai arrai arrai arrai arrai arrai arrai collect enumer arrai arrai tosplit split delimit arrai delimit arrai delimit charstodelet char delet str delimit str delimit trimtoken trim token ignoreemptytoken ignor empti token str delimit str delimit charstodelet char delet str str coll delim prefix suffix coll delim coll arr delim arr str str str str folder separ window folder separ top path current path extens separ strlen str len strlen str len lcstr str lcprefix prefix lcstr str lcsuffix suffix count po idx po patlen pat len separatorindex separ sepindex sep sepindex sep separatorindex separ newpath path pathtous path prefixindex prefix prefix patharrai path arrai pathel path element top element part languag countri variant endindexofcountrycod countri code newarr arr newarr arr result str list result element set offset beforedelimit delimit afterdelimit delimit result element splittedel split element token token result po delpo del po set token 
+VARSIG85	delim 
+VARSIG84	collect coll 
+VARSIG83	suffix 
+VARSIG82	prefix 
+VARSIG39	path 
+VARSIG34	separ 
+VARSIG33	qualifiednam qualifi 
+VARSIG32	qualifiednam qualifi 
+VARSIG31	object obj 
+VARSIG38	capit 
+VARSIG37	str 
+PACKAGE	springframework roo support util 
+VARSIG36	str 
+VARSIG35	str 
+VARSIG30	str 
+CLASSES	stringutil util 
+VARSIG29	charstodelet char delet 
+VARSIG28	instr 
+VARSIG23	instr 
+VARSIG22	 
+VARSIG21	str 
+VARSIG20	charsequ sequenc substr 
+VARSIG27	pattern 
+VARSIG26	instr 
+VARSIG25	newpattern pattern 
+VARSIG24	oldpattern pattern 
+VARSIG7	str 
+VARSIG6	str 
+MTHSIG48	delimitedlisttostringarrai delimit list arrai str delimit charstodelet char delet 
+VARSIG9	str 
+MTHSIG49	commadelimitedlisttostringarrai comma delimit list arrai str 
+VARSIG8	str 
+MTHSIG46	tokenizetostringarrai token arrai str delimit trimtoken trim token ignoreemptytoken ignor empti token 
+VARSIG3	str 
+MTHSIG47	delimitedlisttostringarrai delimit list arrai str delimit 
+VARSIG2	charsequ sequenc str 
+MTHSIG44	splitarrayelementsintoproperti split arrai element properti arrai delimit charstodelet char delet 
+VARSIG5	str 
+MTHSIG45	tokenizetostringarrai token arrai str delimit 
+VARSIG4	charsequ sequenc str 
+VARSIG1	str 
+VARSIG0	charsequ sequenc str 
+VARSIG56	collect collect 
+VARSIG55	arrai 
+VARSIG54	arrai arrai 
+VARSIG53	arrai arrai 
+VARSIG59	arrai 
+VARSIG58	arrai 
+VARSIG57	enumer enumer 
+MTHSIG42	split tosplit split delimit 
+MTHSIG43	splitarrayelementsintoproperti split arrai element properti arrai delimit 
+MTHSIG40	trimarrayel trim arrai element arrai 
+MTHSIG41	removeduplicatestr remov duplic string arrai 
+VARSIG52	arrai arrai 
+VARSIG51	arrai arrai 
+VARSIG50	str 
+MTHSIG59	trimtoempti trim empti str 
+MTHSIG57	tolowercas str 
+MTHSIG58	trimtonul trim str 
+MTHSIG55	arraytocommadelimitedstr arrai comma delimit object arr 
+MTHSIG56	touppercas upper str 
+VARSIG45	path path 
+VARSIG44	path 
+VARSIG43	relativepath rel path 
+VARSIG42	path 
+VARSIG49	arrai 
+VARSIG48	local local 
+VARSIG47	localestr local 
+VARSIG46	path path 
+MTHSIG53	collectiontocommadelimitedstr collect comma delimit collect coll 
+MTHSIG54	arraytodelimitedstr arrai delimit object arr delim 
+MTHSIG51	collectiontodelimitedstr collect delimit collect coll delim prefix suffix 
+MTHSIG52	collectiontodelimitedstr collect delimit collect coll delim 
+VARSIG41	path 
+MTHSIG50	commadelimitedlisttoset comma delimit list set str 
+VARSIG40	path 

@@ -1,0 +1,36 @@
+VARSIG7	refer refer 
+VARSIG6	keysequ kei sequenc 
+VARSIG9	refer refer 
+VARSIG8	column column 
+VARSIG3	tabl foreignt foreign tabl 
+VARSIG2	export 
+VARSIG5	cascadeact cascad action ondelet delet 
+VARSIG4	cascadeact cascad action onupd updat 
+COMMENTS	repres databas foreign kei foreign kei model link sql databasemetadata databas meta data getimportedkei import link sql databasemetadata databas meta data getexportedkei export method foreign kei foreign kei import export kei target tabl foreign target tabl action perform referenc column action perform referenc row delet sequenc number kei tabl foreign tabl refer local remot column 
+VARSIG1	foreigntablenam foreign tabl 
+VARSIG0	 
+MTHSIG4	getforeignt foreign tabl 
+MTHSIG5	setforeignt set foreign tabl tabl foreignt foreign tabl 
+MTHSIG6	getforeigntablenam foreign tabl 
+VARSIG10	object obj 
+MTHSIG7	getonupd updat 
+MTHSIG0	foreignkei foreign kei foreigntablenam foreign tabl 
+MTHSIG1	getnam 
+PACKAGE	springframework roo addon dbre model 
+MTHSIG2	isexport export 
+MTHSIG3	setexport set export export 
+MTHSIG8	setonupd set updat cascadeact cascad action onupd updat 
+MTHSIG9	getondelet delet 
+MTHSIG17	hashcod hash code 
+MTHSIG18	equal object obj 
+MTHSIG15	addrefer add refer refer refer 
+MTHSIG16	haslocalcolumn local column column column 
+MTHSIG13	getrefer refer 
+MTHSIG14	getreferencecount refer count 
+MTHSIG11	getkeysequ kei sequenc 
+MTHSIG12	setkeysequ set kei sequenc keysequ kei sequenc 
+CLASSES	foreignkei foreign kei 
+METHODS	foreignkei foreign kei getnam isexport export setexport set export getforeignt foreign tabl setforeignt set foreign tabl getforeigntablenam foreign tabl getonupd updat setonupd set updat getondelet delet setondelet set delet getkeysequ kei sequenc setkeysequ set kei sequenc getrefer refer getreferencecount refer count addrefer add refer haslocalcolumn local column hashcod hash code equal tostr 
+MTHSIG19	tostr 
+MTHSIG10	setondelet set delet cascadeact cascad action ondelet delet 
+VARIABLES	foreigntablenam foreign tabl export foreignt foreign tabl onupd updat ondelet delet keysequ kei sequenc refer column refer obj export foreignt foreign tabl foreigntablenam foreign tabl onupd updat ondelet delet keysequ kei sequenc refer prime result 

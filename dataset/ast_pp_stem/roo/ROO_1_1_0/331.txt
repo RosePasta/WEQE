@@ -1,0 +1,15 @@
+VARSIG3	javasymbolnam symbol attributenam attribut 
+VARSIG2	annotationattributevalu annot attribut 
+VARSIG4	annotationattributevalu annot attribut 
+COMMENTS	implement link annotationmetadata annot metadata enforc annotationmetadatabuild annot metadata builder 
+CLASSES	defaultannotationmetadata annot metadata 
+VARSIG1	list annotationattributevalu annot attribut attribut 
+VARSIG0	javatyp type annotationtyp annot type 
+METHODS	defaultannotationmetadata annot metadata getattribut attribut getattributenam attribut name getannotationtyp annot type tostr 
+MTHSIG4	tostr 
+MTHSIG0	defaultannotationmetadata annot metadata javatyp type annotationtyp annot type list annotationattributevalu annot attribut attribut 
+MTHSIG1	getattribut attribut javasymbolnam symbol attributenam attribut 
+PACKAGE	springframework roo classpath detail annot 
+MTHSIG2	getattributenam attribut name 
+MTHSIG3	getannotationtyp annot type 
+VARIABLES	annotationtyp annot type attribut attributenam attribut annotationtyp annot type attribut attributemap attribut map result tsc 

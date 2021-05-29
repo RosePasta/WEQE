@@ -1,0 +1,32 @@
+VARSIG7	element depend 
+VARSIG6	list depend exclus 
+VARSIG9	javasymbolnam symbol artifactid artifact 
+VARSIG8	javapackag groupid group 
+VARSIG3	groupid group 
+VARSIG2	versionid version 
+VARSIG5	versionid version 
+VARSIG4	artifactid artifact 
+COMMENTS	simplifi immut represent depend structur model maven ivi replac releas osgi centric model conveni constructor produc jar depend groupid group group requir artifactid artifact artifact requir versionid version version requir conveni constructor produc jar depend groupid group group requir artifactid artifact artifact requir versionid version version requir exclus exclus depend conveni constructor xml element repres maven depend pars requir jar reassign test maven format pars exclus test ivi format todo implement exclus parser ivi format creat immut link depend groupid group group requir artifactid artifact artifact requir versionid version version requir type depend type requir list exclus 
+VARSIG1	artifactid artifact 
+VARSIG0	groupid group 
+MTHSIG4	getgroupid group 
+VARSIG12	object obj 
+MTHSIG5	getartifactid artifact 
+VARSIG11	dependencytyp depend type type 
+MTHSIG6	getversionid version 
+VARSIG10	versionid version 
+MTHSIG7	gettyp type 
+MTHSIG0	depend groupid group artifactid artifact versionid version 
+MTHSIG1	depend groupid group artifactid artifact versionid version list depend exclus 
+PACKAGE	springframework roo project 
+MTHSIG2	depend element depend 
+MTHSIG3	depend javapackag groupid group javasymbolnam symbol artifactid artifact versionid version dependencytyp depend type type 
+VARSIG13	depend 
+MTHSIG8	getexclus exclus 
+MTHSIG9	hashcod hash code 
+MTHSIG11	compareto compar depend 
+MTHSIG12	tostr 
+CLASSES	depend 
+METHODS	depend depend depend depend getgroupid group getartifactid artifact getversionid version gettyp type getexclus exclus hashcod hash code equal compareto compar tostr 
+MTHSIG10	equal object obj 
+VARIABLES	groupid group artifactid artifact versionid version groupid group artifactid artifact versionid version exclus depend groupid group artifactid artifact versionid version type obj groupid group artifactid artifact versionid version type exclus versionel version element exclusionlist exclus list exclusionel exclus element exclusionid exclus exclusionartifactid exclus artifact result tsc 

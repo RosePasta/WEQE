@@ -1,0 +1,71 @@
+MTHSIG24	iscommandavail command 
+MTHSIG25	config 
+MTHSIG22	mapurl map url cloudapp cloud app appnam app url 
+MTHSIG23	unmapurl map url cloudapp cloud app appnam app clouduri cloud uri url 
+VARSIG39	clioption cli option kei url mandatori url unbind applic clouduri cloud uri url 
+MTHSIG4	deleteservic delet servic cloudservic cloud servic servic 
+VARSIG34	clioption cli option kei instanc mandatori specif instanc applic target instanc 
+MTHSIG5	bindservic bind servic cloudservic cloud servic servic cloudapp cloud app appnam app 
+VARSIG33	clioption cli option kei path mandatori path file folder navig view cloudfil cloud file path 
+MTHSIG6	unbindservic unbind servic cloudservic cloud servic servic cloudapp cloud app appnam app 
+VARSIG32	clioption cli option kei appnam app mandatori applic target cloudapp cloud app appnam app 
+MTHSIG7	app 
+VARSIG31	clioption cli option kei instanc mandatori specif instanc applic interest instanc 
+MTHSIG0	info 
+VARSIG38	clioption cli option kei appnam app mandatori applic unbind url cloudapp cloud app appnam app 
+MTHSIG1	login cloudloginemail cloud login email loginemail login email password cloudcontrollerurl cloud control url cloudcontrollerurl cloud control url 
+VARSIG37	clioption cli option kei url mandatori url bind applic url 
+PACKAGE	springframework roo addon cloud foundri 
+MTHSIG2	servic 
+VARSIG36	clioption cli option kei appnam app mandatori applic bind url cloudapp cloud app appnam app 
+MTHSIG3	createservic creat servic serviceconfigur servic configur servic cloudapp cloud app bind 
+VARSIG35	clioption cli option kei appnam app mandatori applic target cloudapp cloud app appnam app 
+MTHSIG20	file cloudapp cloud app appnam app cloudfil cloud file path instanc 
+MTHSIG21	viewapptat view apptat cloudapp cloud app appnam app 
+MTHSIG8	push cloudapp cloud app appnam app integ instanc cloudappmemoryopt cloud app memori option memsiz mem size clouddeployablefil cloud deploy file path list url 
+VARSIG30	clioption cli option kei appnam app mandatori applic view log cloudapp cloud app appnam app 
+MTHSIG9	start cloudapp cloud app appnam app 
+CLASSES	cloudfoundrycommand cloud foundri command 
+VARSIG29	clioption cli option kei instanc mandatori specif instanc applic interest instanc 
+VARSIG28	clioption cli option kei appnam app mandatori applic view crash log cloudapp cloud app appnam app 
+METHODS	info login servic createservic creat servic deleteservic delet servic bindservic bind servic unbindservic unbind servic app push start restart delet renameapp renam app instanc viewmemori view memori updatememori updat memori crash crashlog crash log log file viewapptat view apptat mapurl map url unmapurl map url iscommandavail command config 
+VARSIG23	clioption cli option kei num mandatori number instanc scale applic number 
+VARSIG22	clioption cli option kei appnam app mandatori applic list chang number instanc cloudapp cloud app appnam app 
+VARSIG21	clioption cli option kei newappnam app mandatori applic newappnam app 
+VARSIG20	clioption cli option kei appnam app mandatori applic renam cloudapp cloud app appnam app 
+VARSIG27	clioption cli option kei appnam app mandatori applic view crash cloudapp cloud app appnam app 
+VARSIG26	clioption cli option kei memsiz mem size mandatori amount memori chang applic applic memori reserv cloudappmemoryopt cloud app memori option memsiz mem size 
+VARSIG25	clioption cli option kei appnam app mandatori applic view updat reserv cloudapp cloud app appnam app 
+VARSIG24	clioption cli option kei appnam app mandatori applic view updat reserv cloudapp cloud app appnam app 
+VARSIG7	clioption cli option kei servicenam servic mandatori servic instanc bind cloudservic cloud servic servic 
+VARSIG6	clioption cli option kei servicenam servic mandatori servic instanc delet cloudservic cloud servic servic 
+VARSIG9	clioption cli option kei servicenam servic mandatori servic instanc bind cloudservic cloud servic servic 
+VARSIG8	clioption cli option kei appnam app mandatori applic bind servic cloudapp cloud app appnam app 
+VARSIG3	clioption cli option kei servicetyp servic type mandatori servic type serviceconfigur servic configur servic 
+VARSIG2	clioption cli option kei cloudcontrollerurl cloud control url mandatori cloud control target default uaaawareappcloudcli uaa awar app cloud client vcloud url cloudcontrollerurl cloud control url cloudcontrollerurl cloud control url 
+VARSIG5	clioption cli option kei appnam app mandatori app bind servic cloudapp cloud app bind 
+VARSIG4	clioption cli option kei servicenam servic mandatori servic instanc 
+COMMENTS	command addon cloud foundri todo featur work initi releas clicommand cli command cloud foundri renam app delet applic cliavailabilityind cli avail indic cloud foundri setup issetupcommandavail setup command cloudfoundryoper cloud foundri oper issetupcommandavail setup command todo add setup command cloud namespac understood clicommand cli command cloud foundri setup setup cloud foundri 
+VARSIG19	clioption cli option kei appnam app mandatori applic delet cloudapp cloud app appnam app 
+VARSIG1	clioption cli option kei password mandatori user user password password 
+VARSIG18	clioption cli option kei appnam app mandatori applic restart cloudapp cloud app appnam app 
+VARSIG0	clioption cli option kei email mandatori user user email address cloudloginemail cloud login email loginemail login email 
+VARSIG17	clioption cli option kei appnam app mandatori applic cloudapp cloud app appnam app 
+VARSIG12	clioption cli option kei instanc mandatori number instanc creat integ instanc 
+VARSIG11	clioption cli option kei appnam app mandatori desir applic cloudapp cloud app appnam app 
+VARSIG10	clioption cli option kei appnam app mandatori applic bind servic cloudapp cloud app appnam app 
+VARSIG16	clioption cli option kei appnam app mandatori applic start cloudapp cloud app appnam app 
+VARSIG15	clioption cli option kei url mandatori url map applic list url 
+VARSIG14	clioption cli option kei path mandatori path applic deploi clouddeployablefil cloud deploy file path 
+VARSIG13	clioption cli option kei memori mandatori amount memori requir applic cloudappmemoryopt cloud app memori option memsiz mem size 
+MTHSIG17	crash cloudapp cloud app appnam app 
+MTHSIG18	crashlog crash log cloudapp cloud app appnam app instanc 
+MTHSIG15	viewmemori view memori cloudapp cloud app appnam app 
+MTHSIG16	updatememori updat memori cloudapp cloud app appnam app cloudappmemoryopt cloud app memori option memsiz mem size 
+MTHSIG13	renameapp renam app cloudapp cloud app appnam app newappnam app 
+MTHSIG14	instanc cloudapp cloud app appnam app number 
+MTHSIG11	restart cloudapp cloud app appnam app 
+MTHSIG12	delet cloudapp cloud app appnam app 
+MTHSIG19	log cloudapp cloud app appnam app instanc 
+MTHSIG10	cloudapp cloud app appnam app 
+VARIABLES	loginemail login email password cloudcontrollerurl cloud control url servic bind servic servic appnam app servic appnam app appnam app instanc memsiz mem size path url appnam app appnam app appnam app appnam app appnam app newappnam app appnam app number appnam app appnam app memsiz mem size appnam app appnam app instanc appnam app instanc appnam app path instanc appnam app appnam app url appnam app url cloudfoundryoper cloud foundri oper url email appnam app memori memori 

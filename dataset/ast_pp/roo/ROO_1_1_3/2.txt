@@ -1,0 +1,16 @@
+VARSIG7	
+VARSIG6	file dir
+VARSIG3	file directory
+VARSIG2	ioexception exception
+VARSIG5	zipoutputstream zip output stream zos
+VARSIG4	file base
+COMMENTS	operations backup add windows format legally form filename roo don directory target base skip existing backup files skip files start
+CLASSES	backupoperationsimpl backup operations impl
+VARSIG1	ioexception exception
+VARSIG0	filenotfoundexception file exception
+METHODS	isbackupavailable backup backup zip
+MTHSIG0	isbackupavailable backup
+MTHSIG1	backup
+PACKAGE	springframework roo addon backup
+MTHSIG2	zip file directory file base zipoutputstream zip output stream zos
+VARIABLES	directory base zos dir logger filemanager file manager projectoperations project operations start zos projectdirectory project directory file milliseconds files buffer read direntry dir entry entry

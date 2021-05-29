@@ -1,0 +1,21 @@
+VARSIG7	serviceev servic event event 
+VARSIG6	bundl bundl 
+VARSIG9	servicerefer servic refer 
+VARSIG8	requiredservic requir servic 
+VARSIG3	url url 
+VARSIG2	ioexcept except 
+VARSIG5	bundlecontext bundl context context 
+VARSIG4	except 
+COMMENTS	osgi framework start level servic mark activ osgi declar servic specif ensur servic load requir attribut ensur load eagerli imposs receiv callback servic finish load link bundleactiv bundl activ resolv issu discov enabl servic compon flag monitor startup start osgi framework set start level enabl class depend activ servic react start level chang note function servic simpl compon insuffici servic defin xml file servic compon manifest header kei requir servic interfac roo roo convent compon fulli qualifi roo roo convent bundl symbol name fulli qualifi name user chang bsn compon quick saniti check type appear bsn haven chang convent couldn reli compon reliabl servic unavail time getservic servic invoc roo compon enabl disabl skip starter starter skip calcul implement correctli implement servic ensur notifi servic wrong identifi servic interest run wrong chang start level start servic 
+CLASSES	activ 
+VARSIG1	bundlecontext bundl context context 
+VARSIG0	servicerefer servic refer 
+METHODS	getclassnam potentiallychangestartlevel chang start level process start 
+MTHSIG4	bundlecontext bundl context context 
+VARSIG10	bundlecontext bundl context context 
+MTHSIG0	getclassnam servicerefer servic refer bundlecontext bundl context context 
+MTHSIG1	potentiallychangestartlevel chang start level 
+PACKAGE	springframework roo startlevel 
+MTHSIG2	process url url 
+MTHSIG3	start bundlecontext bundl context context 
+VARIABLES	context url context bundl event requiredservic requir servic context requiredimplement requir implement runningimplement run implement startlevel start level startlevelservicerefer start level servic refer componentnam compon obj document rootel root element compon compon componentnam compon implement impl serviceinterfac servic servic provid firstprovid provid url mycontext context classnam correspondinginterfac sr classnam 

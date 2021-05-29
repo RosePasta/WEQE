@@ -1,0 +1,20 @@
+MTHSIG11	equals object obj
+MTHSIG12	tostring
+COMMENTS	represents join table valued association multiplicity join table primary foreign pointing entity tables columns foreign key set foreign key set
+CLASSES	jointable join table
+VARSIG1	object obj
+VARSIG0	table table
+METHODS	jointable join table gettable table gettablename table getowningsidetablename owning side table getowningsidetable owning side table getinversesidetablename inverse side table getinversesidetable inverse side table getlocalcolumnreferenceofowningsidetable local column reference owning side table getlocalcolumnreferenceofinversesidetable local column reference inverse side table isowningsidesameasinverseside owning side inverse side hashcode hash code equals tostring
+MTHSIG4	getowningsidetable owning side table
+MTHSIG5	getinversesidetablename inverse side table
+MTHSIG6	getinversesidetable inverse side table
+MTHSIG7	getlocalcolumnreferenceofowningsidetable local column reference owning side table
+MTHSIG0	jointable join table table table
+MTHSIG1	gettable table
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	gettablename table
+MTHSIG3	getowningsidetablename owning side table
+MTHSIG10	hashcode hash code
+VARIABLES	table obj table foreignkey foreign key foreignkey foreign key iter prime result
+MTHSIG8	getlocalcolumnreferenceofinversesidetable local column reference inverse side table
+MTHSIG9	isowningsidesameasinverseside owning side inverse side

@@ -1,0 +1,26 @@
+VARSIG7	developmentmode development mode
+VARSIG6	ioexception exception ioe
+VARSIG9	processedline processed
+VARSIG8	ioexception exception ignoreit ignore
+VARSIG3	path
+VARSIG2	ioexception exception ioe
+VARSIG5	shellstatus shell status newstatus status
+VARSIG4	shellstatus shell status oldstatus status
+COMMENTS	feature rich jline library provide interactive shell windows lack color ansi services box implementation automatically detects classpath presence jansi addition jansi ansi support include colour jna library libraries nix machines support colour ansi special effort implementation written reflection order avoid hard dependencies jansi jna consolereader console reader constructor thread reader setdebug set debug printwriter print writer filewriter file writer writer debug superclass ansi terminal shellprompt shell prompt correct let ensure decorated outputstream output stream parses ansi codes reset original shell shell colors shutdown closing stream encoding windows console output roo write let record time user command failing unix endings roo tail working shutting close file reopen needed obtains roo system property throwing exception missing roo system property
+VARSIG1	exception
+VARSIG0	executionstrategy execution strategy executionstrategy execution strategy
+MTHSIG4	getparser parser
+MTHSIG5	setdevelopmentmode set development mode developmentmode development mode
+MTHSIG6	isdevelopmentmode development mode
+VARSIG10	ioexception exception ignoreit ignore
+MTHSIG7	openfilelogifpossible open file log
+MTHSIG0	jlineshell shell executionstrategy execution strategy executionstrategy execution strategy
+MTHSIG1	setpromptpath set prompt path path
+PACKAGE	springframework roo shell jline
+MTHSIG2	createansiwindowsreader create ansi windows reader
+MTHSIG3	promptloop prompt loop
+MTHSIG8	logcommandtooutput log command output processedline processed
+MTHSIG9	gethomeasstring
+CLASSES	jlineshell shell
+METHODS	jlineshell shell setpromptpath set prompt path createansiwindowsreader create ansi windows reader promptloop prompt loop getparser parser setdevelopmentmode set development mode isdevelopmentmode development mode openfilelogifpossible open file log logcommandtooutput log command output gethomeasstring
+VARIABLES	executionstrategy execution strategy ioe path oldstatus status newstatus status ioe developmentmode development mode ignoreit ignore processedline processed ignoreit ignore ansi console classname jansi reader parser developmentmode development mode filelog file log handler detected ansi ansiout ansi ansiterminal ansi terminal roohome roo

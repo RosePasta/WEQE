@@ -1,0 +1,27 @@
+VARSIG7	kei 
+VARSIG6	refresh 
+VARSIG9	element bundl 
+VARSIG8	refresh 
+VARSIG3	command 
+VARSIG2	addonbundlesymbolicnam add bundl symbol bsn 
+VARSIG5	bundlesymbolicnam bundl symbol bsn 
+VARSIG4	addonbundlesymbolicnam add bundl symbol bsn 
+COMMENTS	implement command roo shell log info updat bundl getlastupd updat pgp verif requir bundl instal log need 
+VARSIG1	ioexcept except 
+VARSIG0	componentcontext compon context context 
+MTHSIG4	listaddon list add on refresh 
+VARSIG12	ioexcept except 
+MTHSIG5	getaddonbsnset add bsn set 
+VARSIG11	throwabl ignor 
+MTHSIG6	getaddoncach add cach refresh 
+VARSIG10	element shell 
+MTHSIG7	populatebsnmap popul bsn map 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	addoninfo add info addonbundlesymbolicnam add bundl symbol bsn 
+PACKAGE	springframework roo addon roobot client 
+MTHSIG2	installaddon instal add addonbundlesymbolicnam add bundl symbol bsn 
+MTHSIG3	removeaddon remov add bundlesymbolicnam bundl symbol bsn 
+MTHSIG8	countbundl count bundl 
+CLASSES	addonroobotoperationsimpl add roo bot oper impl 
+METHODS	activ addoninfo add info installaddon instal add removeaddon remov add listaddon list add on getaddonbsnset add bsn set getaddoncach add cach populatebsnmap popul bsn map countbundl count bundl 
+VARIABLES	context bsn command bsn bsn refresh kei refresh bundl shell ignor bundlecach bundl cach shell log prop context bundl command success bundl url count success count success dbf url roobotxml roobot xml bsn version signedbi sign pgpkei pgp kei pgpsign pgp sign updatedd updat updatedarrai updat arrai updat command addonbundl addon bundl bundl 

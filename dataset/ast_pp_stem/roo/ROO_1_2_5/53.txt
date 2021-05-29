@@ -1,0 +1,23 @@
+VARSIG7	set includet includ tabl 
+VARSIG6	view 
+VARSIG9	includenonportableattribut includ portabl attribut 
+VARSIG8	set excludet exclud tabl 
+VARSIG3	set schema schema 
+VARSIG2	view 
+VARSIG5	testautomat test automat 
+VARSIG4	javapackag destinationpackag destin 
+COMMENTS	databas revers engin oper displai metadata schema screen write file filenam schema schema introspect requir file write output screen view databas view displai return dbre command execut dbre command introspect databas schema entiti disk creat updat delet schema schema revers engin requir destinationpackag destin entiti store project project top level testautomat test automat creat automat integr test gener entiti view databas view displai includet includ tabl set tabl includ revers engin excludet exclud tabl set tabl exclud revers engin includenonportableattribut includ portabl attribut includ portabl jpa column attribut columndefinit disableversionfield disabl version field disabl tabl tabl version column disablegeneratedidentifi disabl gener identifi disabl identifi auto gener activerecord activ record gener crud activ record method entiti repositori gener servic layer entiti servic gener repositori layer entiti 
+CLASSES	dbreoper dbre oper 
+VARSIG1	file file 
+VARSIG0	set schema schema 
+METHODS	displaydatabasemetadata displai databas metadata isdbreinstallationposs dbre instal reverseengineerdatabas revers engin databas 
+VARSIG12	activerecord activ record 
+VARSIG11	disablegeneratedidentifi disabl gener identifi 
+VARSIG10	disableversionfield disabl version field 
+MTHSIG0	displaydatabasemetadata displai databas metadata set schema schema file file view 
+MTHSIG1	isdbreinstallationposs dbre instal 
+PACKAGE	springframework roo addon dbre 
+MTHSIG2	reverseengineerdatabas revers engin databas set schema schema javapackag destinationpackag destin testautomat test automat view set includet includ tabl set excludet exclud tabl includenonportableattribut includ portabl attribut disableversionfield disabl version field disablegeneratedidentifi disabl gener identifi activerecord activ record repositori servic 
+VARSIG14	servic 
+VARSIG13	repositori 
+VARIABLES	schema file view schema destinationpackag destin testautomat test automat view includet includ tabl excludet exclud tabl includenonportableattribut includ portabl attribut disableversionfield disabl version field disablegeneratedidentifi disabl gener identifi activerecord activ record repositori servic 

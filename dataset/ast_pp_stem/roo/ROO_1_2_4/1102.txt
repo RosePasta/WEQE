@@ -1,0 +1,39 @@
+VARSIG7	product product 
+VARSIG6	projectid project 
+VARSIG9	bundlesymbolicnam bundl symbol 
+VARSIG8	builder featureusebuild featur builder 
+VARSIG3	transmissiontyp transmiss type type 
+VARSIG2	success 
+VARSIG5	bundlesymbolicnam bundl symbol 
+VARSIG4	componentcontext compon context context 
+COMMENTS	implement link uaaregistrationservic uaa registr servic kei bundlesymbolicnam bundl symbol customjson custom json kei bsn git commit hash kei bsn version kei projectid project list product attempt store spring roo product registerbsn regist bsn includ activ buffer good time flush uaa api latest data includ upload effort store data shut flush can flush flush featur flush project popul version pass link builder locat bundl version metadata git hash code acquir manifest return error bundl featureusebuild featur builder insert featur requir bundlesymbolicnam bundl symbol locat requir can acquir osgi version bundl ensur featur log buffer featur turn custom json simplic includ buffer persist buffer potenti persist creat featur data byte regist uaaservic uaa servic preserv featur data present hasn commun uaa delai upload featur data treat overwrit exist featur data store flush buffer persist persist buffer potenti persist don buffer there ident version product flush buffer persist 
+VARSIG19	product product 
+VARSIG1	transmissiontyp transmiss type type 
+VARSIG18	projectid project 
+VARSIG0	componentcontext compon context context 
+VARSIG17	product product 
+MTHSIG4	flushifposs flush 
+VARSIG12	customjson custom json 
+MTHSIG5	populateversioninfoifposs popul version info builder featureusebuild featur builder bundlesymbolicnam bundl symbol 
+VARSIG11	bundlesymbolicnam bundl symbol 
+MTHSIG6	registerbundlesymbolicnameus regist bundl symbol bundlesymbolicnam bundl symbol customjson custom json 
+VARSIG10	bundl 
+MTHSIG7	registerbundlesymbolicnameus regist bundl symbol bundlesymbolicnam bundl symbol customjson custom json flushwhendon flush 
+MTHSIG0	activ componentcontext compon context context 
+VARSIG16	except ignor 
+MTHSIG1	aftertransmiss transmiss transmissiontyp transmiss type type success 
+VARSIG15	flushwhendon flush 
+PACKAGE	springframework roo uaa 
+MTHSIG2	beforetransmiss transmiss transmissiontyp transmiss type type 
+VARSIG14	customjson custom json 
+MTHSIG3	deactiv componentcontext compon context context 
+VARSIG13	bundlesymbolicnam bundl symbol 
+MTHSIG8	registerproject regist project product product projectid project 
+MTHSIG9	registerproject regist project product product projectid project flushwhendon flush 
+CLASSES	uaaregistrationserviceimpl uaa registr servic impl 
+METHODS	activ aftertransmiss transmiss beforetransmiss transmiss deactiv flushifposs flush populateversioninfoifposs popul version info registerbundlesymbolicnameus regist bundl symbol registerbundlesymbolicnameus regist bundl symbol registerproject regist project registerproject regist project requesttransmiss request transmiss 
+VARSIG22	product exist 
+VARSIG21	flushwhendon flush 
+VARSIG20	projectid project 
+MTHSIG10	requesttransmiss request transmiss 
+VARIABLES	context type success type context bundlesymbolicnam bundl symbol projectid project product featureusebuild featur builder bundlesymbolicnam bundl symbol bundlesymbolicnam bundl symbol customjson custom json bundlesymbolicnam bundl symbol customjson custom json flushwhendon flush ignor product projectid project product projectid project flushwhendon flush exist bsnbuffer bsn buffer bsncommithashcach bsn commit hash cach bsnversioncach bsn version cach bundlecontext bundl context projectidbuff project buffer publicfeatureresolv featur resolv uaaservic uaa servic bundlesymbolicnam bundl symbol customjson custom json version commithash commit hash manifestresult manifest result featuredata featur data featureusebuild featur builder add 

@@ -1,0 +1,56 @@
+MTHSIG4	getfocusedmodulename focused module
+MTHSIG5	getmoduleforfileidentifier module file identifier fileidentifier file identifier
+MTHSIG6	getmodulename module pomdirectory pom directory
+MTHSIG7	getmodulenames module names
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	addpom add pom pom pom
+PACKAGE	springframework roo project
+MTHSIG2	findunparsedpoms find unparsed poms
+MTHSIG3	getfocusedmodule focused module
+MTHSIG20	updateprojectmetadataformodules update project metadata modules iterable pom newpoms poms
+MTHSIG8	getpomfrommodulename pom module modulename module
+MTHSIG9	getpomfrompath pom path pompath pom path
+CLASSES	pommanagementserviceimpl pom management service impl
+VARSIG29	pom pom
+VARSIG28	iterable pom newpoms poms
+METHODS	activate addpom add pom findunparsedpoms find unparsed poms getfocusedmodule focused module getfocusedmodulename focused module getmoduleforfileidentifier module file identifier getmodulename module getmodulenames module names getpomfrommodulename pom module getpomfrompath pom path getpoms poms getrootpom root pom parseunparsedpoms parse unparsed poms resolvechildmodulepoms resolve child module poms resolveparentpom resolve parent pom resolvepoms resolve poms resolverelativepath resolve relative path setfocusedmodule set focused module sortpommap sort pom map updatepomcache update pom cache updateprojectmetadataformodules update project metadata modules
+VARSIG23	relativeto relative
+VARSIG22	map pomset pom set
+VARSIG21	pompath pom path
+VARSIG20	element pomroot pom root
+VARSIG27	pompath pom path
+VARSIG26	pom focusedmodule focused module
+VARSIG25	relativepathsegment relative path segment
+VARSIG24	relativepath relative path
+VARSIG7	pomdirectory pom directory
+VARSIG6	fileidentifier file identifier
+VARSIG9	modulename module
+VARSIG8	pom module
+VARSIG3	componentcontext component context context
+VARSIG2	
+VARSIG5	change
+VARSIG4	pom pom
+COMMENTS	constructor pommap pom map test cases set service pom pom add required ensures key exists
+VARSIG19	element parentelement parent element
+VARSIG1	
+VARSIG18	map pomset pom set
+VARSIG0	map pom pommap pom map
+VARSIG17	pompath pom path
+VARSIG12	ioexception exception
+VARSIG11	pompath pom path
+VARSIG10	pom pom
+VARSIG16	element module
+VARSIG15	map pomset pom set
+VARSIG14	pompath pom path
+VARSIG13	element pomroot pom root
+MTHSIG17	setfocusedmodule set focused module pom focusedmodule focused module
+MTHSIG18	sortpommap sort pom map
+MTHSIG15	resolvepoms resolve poms element pomroot pom root pompath pom path map pomset pom set
+MTHSIG16	resolverelativepath resolve relative path relativeto relative relativepath relative path
+MTHSIG13	resolvechildmodulepoms resolve child module poms element pomroot pom root pompath pom path map pomset pom set
+MTHSIG14	resolveparentpom resolve parent pom pompath pom path map pomset pom set element parentelement parent element
+MTHSIG11	getrootpom root pom
+MTHSIG12	parseunparsedpoms parse unparsed poms
+MTHSIG19	updatepomcache update pom cache
+MTHSIG10	getpoms poms
+VARIABLES	pommap pom map context pom change fileidentifier file identifier pomdirectory pom directory module modulename module pom pompath pom path pomroot pom root pompath pom path pomset pom set module pompath pom path pomset pom set parentelement parent element pomroot pom root pompath pom path pomset pom set relativeto relative relativepath relative path relativepathsegment relative path segment focusedmodule focused module pompath pom path newpoms poms pom pommap pom map separator pom relative path filemanager file manager filemonitorservice file monitor service metadatadependencyregistry metadata dependency registry metadataservice metadata service pomfactory pom factory shell focusedmodulepath focused module path pommap pom map projectrootdirectory project root directory tobeparsed parsed projectdirectory project directory startingpoint starting point pompath pom path pom normalisedrootpath normalised root path normalisedpomdirectory normalised pom directory modulename module modulenames module names pommodulemap pom module map newpoms poms iter pathtochangedpom path changed pom pomcontents pom contents rootelement root element modulename module pom modulename module modulepath module path alreadydiscovered discovered pomdocument pom document root relativepath relative path parentpompath parent pom path alreadydiscovered discovered pomdocument pom document root parentelement parent element relativepathsegments relative path segments backcount count path sortedpompaths sorted pom paths sortedpommap sorted pom map newpoms poms projectmetadataid project metadata

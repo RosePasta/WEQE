@@ -1,0 +1,13 @@
+VARSIG2	resourcename resource
+COMMENTS	osgi component launcher link jlineshell shell
+CLASSES	jlineshellcomponent shell component
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+METHODS	activate deactivate findurls find urls getexecutionstrategy execution strategy getparser parser
+MTHSIG4	getparser parser
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo shell jline osgi
+MTHSIG2	findurls find urls resourcename resource
+MTHSIG3	getexecutionstrategy execution strategy
+VARIABLES	context context resourcename resource context executionstrategy execution strategy parser thread

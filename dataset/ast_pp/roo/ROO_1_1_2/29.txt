@@ -1,0 +1,36 @@
+VARSIG7	foreignkey foreign key foreignkey foreign key
+VARSIG6	table table
+VARSIG9	map entry column set foreignkey foreign key entryset entry set
+VARSIG8	reference reference
+VARSIG3	
+VARSIG2	javapackage destinationpackage destination
+VARSIG5	table table
+VARSIG4	table table
+COMMENTS	represents database model tables database database model defaults catalog schema javapackage entities created tables initialises model establishing relationships elements model foreign mark repeated columns insertable updatable determines table join table identified join table table primary foreign pointing entity tables columns
+VARSIG1	set table tables
+VARSIG18	table table
+VARSIG0	
+VARSIG17	indexcolumn column indexcolumn column
+MTHSIG4	gettables tables
+VARSIG12	table table
+MTHSIG5	hastables tables
+VARSIG11	reference reference
+MTHSIG6	gettable table
+VARSIG10	foreignkey foreign key foreignkey foreign key
+MTHSIG7	initialize
+MTHSIG0	database set table tables javapackage destinationpackage destination
+VARSIG16	
+MTHSIG1	getname
+VARSIG15	table table
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	getdestinationpackage destination
+VARSIG14	reference reference
+MTHSIG3	getschema schema
+VARSIG13	foreignkey foreign key exportedkey exported key
+MTHSIG8	initializeimportedkeys initialize imported table table
+MTHSIG9	initializeexportedkeys initialize exported table table
+MTHSIG11	initializejointable initialize join table table table
+CLASSES	database
+METHODS	database getname getdestinationpackage destination getschema schema gettables tables hastables tables gettable table initialize initializeimportedkeys initialize imported initializeexportedkeys initialize exported initializeindices initialize indices initializejointable initialize join table
+MTHSIG10	initializeindices initialize indices table table
+VARIABLES	tables destinationpackage destination table table table foreignkey foreign key reference entryset entry set foreignkey foreign key reference table exportedkey exported key reference table indexcolumn column table serialversionuid serial version uid destinationpackage destination tables keysequencemap key sequence map keysequence key sequence repeatedcolumns repeated columns foreigntablename foreign table targettable target table localcolumn local column fkset set foreigncolumn foreign column foreignkeys foreign reference keysequencemap key sequence map keysequence key sequence foreigntablename foreign table targettable target table localcolumn local column foreigncolumn foreign column column equals iter column

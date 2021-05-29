@@ -1,0 +1,17 @@
+VARSIG3	loggerpackage logger
+VARSIG2	object obj
+COMMENTS	configuration logger configuration root logger logging area interest
+CLASSES	loggerpackage logger
+VARSIG1	packagenames names
+VARSIG0	layer
+METHODS	loggerpackage logger getlayer layer getpackagenames names getkey key hashcode hash code equals compareto compare tostring
+MTHSIG4	hashcode hash code
+MTHSIG5	equals object obj
+MTHSIG6	compareto compare loggerpackage logger
+MTHSIG7	tostring
+MTHSIG0	loggerpackage logger layer packagenames names
+MTHSIG1	getlayer layer
+PACKAGE	springframework roo addon logging
+MTHSIG2	getpackagenames names
+MTHSIG3	getkey key
+VARIABLES	layer packagenames names obj layer packagenames names root project transactions security aop persistence spring web tsc

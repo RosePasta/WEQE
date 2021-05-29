@@ -1,0 +1,23 @@
+VARSIG7	javasymbolname symbol
+VARSIG6	javatype type left
+VARSIG8	javasymbolname symbol
+VARSIG3	javasymbolname symbol
+VARSIG2	javatype type type
+VARSIG5	
+VARSIG4	javatype type type
+COMMENTS	parameter passed layer converts list pairs list link methodparameter parameter parameters pairs convert constructor type parameter parameter type required parameter parameter required constructor type parameter parameter type required parameter parameter required
+CLASSES	methodparameter parameter
+VARSIG1	mutablepair mutable pair javatype type javasymbolname symbol parameter
+VARSIG0	list mutablepair mutable pair javatype type javasymbolname symbol parameters
+METHODS	aslist list methodparameter parameter methodparameter parameter getleft left getright setleft set left setright set setvalue set tostring
+MTHSIG4	getright
+MTHSIG5	setleft set left javatype type left
+MTHSIG6	setright set javasymbolname symbol
+MTHSIG7	setvalue set javasymbolname symbol
+MTHSIG0	aslist list list mutablepair mutable pair javatype type javasymbolname symbol parameters
+MTHSIG1	methodparameter parameter javatype type type javasymbolname symbol
+PACKAGE	springframework roo classpath layers
+MTHSIG2	methodparameter parameter javatype type type
+MTHSIG3	getleft left
+VARIABLES	parameters parameter type type left serialversionuid serial version uid list type builder
+MTHSIG8	tostring

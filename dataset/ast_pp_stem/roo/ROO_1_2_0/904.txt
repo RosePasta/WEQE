@@ -1,0 +1,13 @@
+COMMENTS	unit test link depend constant set invok check set invok check set invok check set invok check set invok check set invok check set invok check set invok check 
+CLASSES	dependencytest depend test 
+METHODS	testaddexclus test add exclus testgetelementforminimaldepend test element minim depend testdependencieswithdifferentversionsarenotequ test depend version equal testdependencieswithsameversionareequ test depend version equal testdependencieswithdifferentversionshavesamecoordin test depend version coordin testdependencieswithsameversionhavesamecoordin test depend version coordin testnulldependencydoesnothavesamecoordin test depend coordin testconstructwithcustomtypeandscop test construct custom type scope 
+MTHSIG4	testdependencieswithdifferentversionshavesamecoordin test depend version coordin 
+MTHSIG5	testdependencieswithsameversionhavesamecoordin test depend version coordin 
+MTHSIG6	testnulldependencydoesnothavesamecoordin test depend coordin 
+MTHSIG7	testconstructwithcustomtypeandscop test construct custom type scope 
+MTHSIG0	testaddexclus test add exclus 
+MTHSIG1	testgetelementforminimaldepend test element minim depend 
+PACKAGE	springframework roo project 
+MTHSIG2	testdependencieswithdifferentversionsarenotequ test depend version equal 
+MTHSIG3	testdependencieswithsameversionareequ test depend version equal 
+VARIABLES	depend group depend artifact depend version exclus group exclus artifact depend originalexclusioncount origin exclus count expect element minim depend depend element depend depend depend depend equal depend depend depend depend equal depend depend depend depend depend depend depend depend depend depend 

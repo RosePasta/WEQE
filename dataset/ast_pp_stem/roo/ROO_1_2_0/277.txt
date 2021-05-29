@@ -1,0 +1,33 @@
+VARSIG7	password 
+VARSIG6	usernam user 
+VARSIG9	persistenceunit persist unit 
+VARSIG8	transactionmanag transact manag 
+VARSIG3	applicationid applic 
+VARSIG2	jndi 
+VARSIG5	databasenam databas 
+VARSIG4	hostnam host 
+COMMENTS	jpa configur entiti oper jpa instal focus modul modul focu check exist meta inf persist xml meta inf persist xml exist respons manag jpa artifact meta inf persist xml applicationcontext applic context xml databas properti project pom xml ormprovid orm provid orm provid select hibern openjpa open jpa eclipselink link databas databas hsql mysql sql jndi jndi datasourc applicationid applic googl app engin applic identifi default project project hostnam host host databas databasenam databas databas usernam user usernam connect databas password password connect databas transactionmanag transact manag transact manag defin applicationcontext applic context xml file persistenceunit persist unit persist unit defin persist xml file modulenam modul creat entiti entiti requir createabstract creat entiti superclass entiti annot entiti entiti annot creat jpa embedd embedd requir serializ link serializ creat jpa identifi identifiertyp identifi type identifi type identifierfield identifi field identifi field identifiercolumn identifi column identifi column 
+VARSIG19	identifiercolumn identifi column 
+VARSIG1	jdbcdatabas jdbc databas databas 
+VARSIG18	identifierfield identifi field 
+VARSIG0	ormprovid orm provid ormprovid orm provid 
+VARSIG17	javatyp type identifiertyp identifi type 
+MTHSIG4	getdatabaseproperti databas properti 
+VARSIG12	createabstract creat 
+MTHSIG5	newent entiti javatyp type createabstract creat javatyp type superclass list annotationmetadatabuild annot metadata builder annot 
+VARSIG11	javatyp type 
+MTHSIG6	newembeddableclass embedd javatyp type serializ 
+VARSIG10	modulenam modul 
+MTHSIG7	newidentifi identifi javatyp type identifiertyp identifi type identifierfield identifi field identifiercolumn identifi column 
+MTHSIG0	isjpainstallationposs jpa instal 
+VARSIG16	serializ 
+MTHSIG1	hasdatabaseproperti databas properti 
+VARSIG15	javatyp type 
+PACKAGE	springframework roo addon jpa 
+MTHSIG2	ispersistentclassavail persist 
+VARSIG14	list annotationmetadatabuild annot metadata builder annot 
+MTHSIG3	configurejpa configur jpa ormprovid orm provid ormprovid orm provid jdbcdatabas jdbc databas databas jndi applicationid applic hostnam host databasenam databas usernam user password transactionmanag transact manag persistenceunit persist unit modulenam modul 
+VARSIG13	javatyp type superclass 
+CLASSES	jpaoper jpa oper 
+METHODS	isjpainstallationposs jpa instal hasdatabaseproperti databas properti ispersistentclassavail persist configurejpa configur jpa getdatabaseproperti databas properti newent entiti newembeddableclass embedd newidentifi identifi 
+VARIABLES	ormprovid orm provid databas jndi applicationid applic hostnam host databasenam databas usernam user password transactionmanag transact manag persistenceunit persist unit modulenam modul createabstract creat superclass annot serializ identifiertyp identifi type identifierfield identifi field identifiercolumn identifi column 

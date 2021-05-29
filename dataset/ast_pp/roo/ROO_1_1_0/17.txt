@@ -1,0 +1,61 @@
+MTHSIG4	updateexistingmanagedentity update existing managed entity javatype type javatype type table table
+MTHSIG5	hasversionfield version field table table
+VARSIG33	javapackage destinationpackage destination
+MTHSIG6	manageentityidentifier manage entity identifier javatype type javatype type annotationmetadatabuilder annotation metadata builder rooentitybuilder roo entity builder set javasymbolname symbol attributestodeleteifpresent attributes delete table table
+VARSIG32	javatype type javatype type
+MTHSIG7	getidentifiers identifiers javatype type pktype type
+VARSIG31	javatype type javatype type
+MTHSIG0	notifydatabaserefreshed notify database refreshed database newdatabase database
+MTHSIG1	processdatabase process database database database
+PACKAGE	springframework roo addon dbre
+MTHSIG2	reverseengineer reverse engineer database database
+MTHSIG3	createnewmanagedentityfromtable create managed entity table table table javapackage javapackage
+MTHSIG20	getdestinationpackage destination
+MTHSIG21	setdestinationpackage set destination javapackage destinationpackage destination
+MTHSIG8	createidentifierclass create identifier javatype type identifiertype identifier type
+VARSIG30	javatype type javatype type
+MTHSIG9	getidentifiersfromprimarykeys identifiers primary set column primarykeys primary
+CLASSES	dbredatabaselistenerimpl dbre database listener impl
+VARSIG29	javatype type identifiertype identifier type
+VARSIG28	javatype type javatype type
+METHODS	notifydatabaserefreshed notify database refreshed processdatabase process database reverseengineer reverse engineer createnewmanagedentityfromtable create managed entity table updateexistingmanagedentity update existing managed entity hasversionfield version field manageentityidentifier manage entity identifier getidentifiers identifiers createidentifierclass create identifier getidentifiersfromprimarykeys identifiers primary getidentifiersfromcolumns identifiers columns deletemanagedtypes delete managed types deletemanagedtypesnotinmodel delete managed types model deletemanagedtypes delete managed types isdetectedentityinmodel detected entity model isentitydeletable entity deletable isidentifierdeletable identifier deletable deletemanagedtype delete managed type getidentifiertype identifier type getphysicaltypemetadata physical type metadata getdestinationpackage destination setdestinationpackage set destination
+VARSIG23	javatype type javatype type
+VARSIG22	javatype type javatype type
+VARSIG21	set table tables
+VARSIG20	javatype type javatype type
+VARSIG27	table table
+VARSIG26	set table tables
+VARSIG25	javatype type javatype type
+VARSIG24	set javatype type managedidentifiertypes managed identifier types
+VARSIG7	javatype type javatype type
+VARSIG6	javapackage javapackage
+VARSIG9	table table
+VARSIG8	table table
+VARSIG3	table table
+VARSIG2	database database
+VARSIG5	table table
+VARSIG4	javatype type managedtype managed type
+COMMENTS	responds discovery database structural link dbremodelservice dbre model service creates manages entities based called database time roo started lookup relevant destination explicitly change local field user dbre entities disk don destination user doesn dbre running don create types join tables associations create type annotations entity find primary key metadata add identifier attributes rooentity roo entity add roodbmanaged roo managed create entity update rooentity roo entity attributes rooentity roo entity attributes manage versionfield version field attribute update annotation disk process primary add identifiertype attribute table primary key check redundant managed identifier delete don entitymetadataprovider entity metadata provider identifierservice identifier service column field type field table primary primary key create composite key check identifier exists create identifiermetadataprovider identifier metadata provider identifierservice identifier service column names field types field names tables primary create composite key table table columns populate identifier returning dbre xml file isn time produce identifier add fields identifier check existence entity table model delete database model check type annotations check constructors fields methods check required type annotations check constructors fields methods attribute identifiertype identifier type exists rooentity roo entity identifiertype identifier type attribute exist simple type
+VARSIG19	column column
+VARSIG1	database database
+VARSIG18	set column columns
+VARSIG0	database newdatabase database
+VARSIG17	set column primarykeys primary
+VARSIG12	annotationmetadatabuilder annotation metadata builder rooentitybuilder roo entity builder
+VARSIG11	javatype type javatype type
+VARSIG10	column column
+VARSIG16	javatype type identifiertype identifier type
+VARSIG15	javatype type pktype type
+VARSIG14	table table
+VARSIG13	set javasymbolname symbol attributestodeleteifpresent attributes delete
+MTHSIG17	deletemanagedtype delete managed type javatype type javatype type
+MTHSIG18	getidentifiertype identifier type javatype type javatype type
+MTHSIG15	isentitydeletable entity deletable javatype type javatype type
+MTHSIG16	isidentifierdeletable identifier deletable javatype type identifiertype identifier type
+MTHSIG13	deletemanagedtypes delete managed types javatype type javatype type set javatype type managedidentifiertypes managed identifier types
+MTHSIG14	isdetectedentityinmodel detected entity model javatype type javatype type set table tables
+MTHSIG11	deletemanagedtypes delete managed types
+MTHSIG12	deletemanagedtypesnotinmodel delete managed types model set table tables
+MTHSIG19	getphysicaltypemetadata physical type metadata javatype type javatype type
+MTHSIG10	getidentifiersfromcolumns identifiers columns set column columns
+VARIABLES	newdatabase database database database table managedtype managed type table javapackage javatype type table table column javatype type rooentitybuilder roo entity builder attributestodeleteifpresent attributes delete table pktype type identifiertype identifier type primarykeys primary columns column javatype type tables javatype type javatype type managedidentifiertypes managed identifier types javatype type tables table javatype type identifiertype identifier type javatype type javatype type javatype type destinationpackage destination identifier type version field version primary key suffix classpathoperations classpath operations metadataservice metadata service filemanager file manager dbremodelservice dbre model service dbretyperesolutionservice dbre type resolution service shell identifierresults identifier destinationpackage destination destinationtouse destination managedentities managed entities tables javatype type dbremid dbre mid metadataitem metadata item javatype type annotations rooentitybuilder roo entity builder roodbmanagedbuilder roo managed builder superclass extendstypes types declaredbymetadataid declared metadata typedetailsbuilder type details builder governorphysicaltypemetadata governor physical type metadata mutabletypedetails mutable type details rooentityannotation roo entity annotation rooentitybuilder roo entity builder attributestodeleteifpresent attributes delete versionfieldattribute version field attribute versionfieldvalue version field identifiertype identifier type identifierphysicaltypemetadata identifier physical type metadata pkcount count identifiers identifiers identifierannotations identifier annotations dbmanagedattributes managed attributes declaredbymetadataid declared metadata idtypedetailsbuilder type details builder result fieldname field fieldtype field type columnname column managedidentifiertypes managed identifier types managedidentifiertypes managed identifier types identifiertype identifier type tablenamepattern table pattern governorphysicaltypemetadata governor physical type metadata typedetails type details dbmanagedannotation managed annotation attribute typeannotations type annotations hasrequiredannotations required annotations typeannotationiterator type annotation iterator annotationtype annotation type governorphysicaltypemetadata governor physical type metadata typedetails type details dbmanagedannotation managed annotation attribute typeannotations type annotations hasrequiredannotations required annotations typeannotationiterator type annotation iterator annotationtype annotation type governorphysicaltypemetadata governor physical type metadata filepath file path governorphysicaltypemetadata governor physical type metadata governortypedetails governor type details rooentityannotation roo entity annotation identifiertypeattribute identifier type attribute identifiertype identifier type declaredbymetadataid declared metadata

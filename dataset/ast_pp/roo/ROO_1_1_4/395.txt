@@ -1,0 +1,17 @@
+VARSIG3	list javasymbolname symbol parameternames parameter names
+VARSIG2	list annotatedjavatype annotated type parametertypes parameter types
+VARSIG5	invocablemembermetadata invocable member metadata
+VARSIG4	list javatype type throwstypes types
+COMMENTS	link invocablemembermetadata invocable member metadata specific implementation link identifiableannotatedjavastructurecustomdatakey identifiable annotated structure custom data key todo add validation logic parametertypes parameter types parameternames parameter names throwstypes types
+CLASSES	invocablemembermetadatacustomdatakey invocable member metadata custom data key
+VARSIG1	list annotationmetadata annotation metadata annotations
+VARSIG0	integer modifier
+METHODS	invocablemembermetadatacustomdatakey invocable member metadata custom data key invocablemembermetadatacustomdatakey invocable member metadata custom data key meets getparametertypes parameter types getparameternames parameter names getthrowstypes types
+MTHSIG4	getparameternames parameter names
+MTHSIG5	getthrowstypes types
+MTHSIG0	invocablemembermetadatacustomdatakey invocable member metadata custom data key integer modifier list annotationmetadata annotation metadata annotations list annotatedjavatype annotated type parametertypes parameter types list javasymbolname symbol parameternames parameter names list javatype type throwstypes types
+MTHSIG1	invocablemembermetadatacustomdatakey invocable member metadata custom data key
+PACKAGE	springframework roo classpath customdata tagkeys
+MTHSIG2	meets invocablemembermetadata invocable member metadata
+MTHSIG3	getparametertypes parameter types
+VARIABLES	modifier annotations parametertypes parameter types parameternames parameter names throwstypes types invocablemembermetadata invocable member metadata parametertypes parameter types parameternames parameter names throwstypes types

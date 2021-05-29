@@ -1,0 +1,56 @@
+MTHSIG22	hassamecoordinates coordinates dependency dependency
+MTHSIG4	dependency element dependency
+MTHSIG5	getgroupid group
+MTHSIG6	getartifactid artifact
+MTHSIG7	getversionid version
+MTHSIG0	dependency groupid group artifactid artifact version dependencytype dependency type type dependencyscope dependency scope scope classifier
+MTHSIG1	dependency groupid group artifactid artifact version dependencytype dependency type type dependencyscope dependency scope scope
+PACKAGE	springframework roo project
+MTHSIG2	dependency groupid group artifactid artifact version
+MTHSIG3	dependency groupid group artifactid artifact version collection dependency exclusions
+MTHSIG20	addexclusion add exclusion exclusiongroupid exclusion group exclusionartifactid exclusion artifact
+MTHSIG21	getelement element document document
+MTHSIG8	getversion version
+MTHSIG9	gettype type
+CLASSES	dependency
+METHODS	dependency dependency dependency dependency dependency getgroupid group getartifactid artifact getversionid version getversion version gettype type getscope scope getclassifier classifier getsystempath system path getexclusions exclusions hashcode hash code equals compareto compare comparecoordinates compare coordinates getsimpledescription simple description tostring addexclusion add exclusion getelement element hassamecoordinates coordinates
+VARSIG23	exclusiongroupid exclusion group
+VARSIG22	dependency
+VARSIG21	dependency
+VARSIG20	object obj
+VARSIG27	dependency dependency
+VARSIG26	dependency exclusion
+VARSIG25	document document
+VARSIG24	exclusionartifactid exclusion artifact
+VARSIG7	artifactid artifact
+VARSIG6	groupid group
+VARSIG9	dependencytype dependency type type
+VARSIG8	version
+VARSIG3	dependencytype dependency type type
+VARSIG2	version
+VARSIG5	classifier
+VARSIG4	dependencyscope dependency scope scope
+COMMENTS	simplified immutable representation dependency structured model maven ivy replaced release osgi centric model maven docs minimal set matching dependency reference dependencymanagement dependency management groupid group artifactid artifact type classifier http maven guides introduction introduction dependency mechanism html dependency scope fields identifying identifying creates immutable link dependency groupid group group required artifactid artifact artifact required version version required type dependency type required scope dependency scope required classifier dependency classifier required constructs dependency type scope groupid group group required artifactid artifact artifact required version version required type dependency type required scope dependency scope required constructs compile scoped jar dependency groupid group group required artifactid artifact artifact required version version required constructs compile scoped jar dependency optional exclusions groupid group group required artifactid artifact artifact required version version required exclusions exclusions dependency constructs link dependency maven style element dependency parse required test maven format pom attributes supported maven pom attributes supported maven parsing exclusions test ivy format todo implement exclusions parser ivy format list exclusions compares dependency dependency identifying coordinates version dependency dependency compared required link comparable compareto compare object simple description console output adds exclusion dependency exclusiongroupid exclusion group groupid group dependency exclude required exclusionartifactid exclusion artifact artifactid artifact dependency exclude required returns xml element dependency document parent xml document element xml don jar xml don compile add exclusions link dependency maven coordinates calling link equals object compare fields basic coordinates dependency dependency check coordinates
+VARSIG19	element exclusion
+VARSIG1	artifactid artifact
+VARSIG18	element dependency
+VARSIG0	groupid group
+VARSIG17	collection dependency exclusions
+VARSIG12	artifactid artifact
+VARSIG11	groupid group
+VARSIG10	dependencyscope dependency scope scope
+VARSIG16	version
+VARSIG15	artifactid artifact
+VARSIG14	groupid group
+VARSIG13	version
+MTHSIG17	comparecoordinates compare coordinates dependency
+MTHSIG18	getsimpledescription simple description
+MTHSIG15	equals object obj
+MTHSIG16	compareto compare dependency
+MTHSIG13	getexclusions exclusions
+MTHSIG14	hashcode hash code
+MTHSIG11	getclassifier classifier
+MTHSIG12	getsystempath system path
+MTHSIG19	tostring
+MTHSIG10	getscope scope
+VARIABLES	groupid group artifactid artifact version type scope classifier groupid group artifactid artifact version type scope groupid group artifactid artifact version groupid group artifactid artifact version exclusions dependency exclusion obj exclusiongroupid exclusion group exclusionartifactid exclusion artifact document exclusion dependency groupid group artifactid artifact type classifier scope exclusions version systempath system path versionelements version elements exclusionlist exclusion list exclusione exclusion exclusionid exclusion exclusionartifacte exclusion artifact exclusionartifactid exclusion artifact prime result result result tsc dependencyelement dependency element typeelement type element exclusionselement exclusions element exclusionelement exclusion element

@@ -1,0 +1,56 @@
+MTHSIG4	getfocusedmodulenam focus modul 
+MTHSIG5	getmoduleforfileidentifi modul file identifi fileidentifi file identifi 
+MTHSIG6	getmodulenam modul pomdirectori pom directori 
+MTHSIG7	getmodulenam modul name 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	addpom add pom pom pom 
+PACKAGE	springframework roo project 
+MTHSIG2	findunparsedpom find unpars pom 
+MTHSIG3	getfocusedmodul focus modul 
+MTHSIG20	updateprojectmetadataformodul updat project metadata modul iter pom newpom pom 
+MTHSIG8	getpomfrommodulenam pom modul modulenam modul 
+MTHSIG9	getpomfrompath pom path pompath pom path 
+CLASSES	pommanagementserviceimpl pom manag servic impl 
+VARSIG29	pom pom 
+VARSIG28	iter pom newpom pom 
+METHODS	activ addpom add pom findunparsedpom find unpars pom getfocusedmodul focus modul getfocusedmodulenam focus modul getmoduleforfileidentifi modul file identifi getmodulenam modul getmodulenam modul name getpomfrommodulenam pom modul getpomfrompath pom path getpom pom getrootpom root pom parseunparsedpom pars unpars pom resolvechildmodulepom resolv child modul pom resolveparentpom resolv parent pom resolvepom resolv pom resolverelativepath resolv rel path setfocusedmodul set focus modul sortpommap sort pom map updatepomcach updat pom cach updateprojectmetadataformodul updat project metadata modul 
+VARSIG23	relativeto rel 
+VARSIG22	map pomset pom set 
+VARSIG21	pompath pom path 
+VARSIG20	element pomroot pom root 
+VARSIG27	pompath pom path 
+VARSIG26	pom focusedmodul focus modul 
+VARSIG25	relativepathseg rel path segment 
+VARSIG24	relativepath rel path 
+VARSIG7	pomdirectori pom directori 
+VARSIG6	fileidentifi file identifi 
+VARSIG9	modulenam modul 
+VARSIG8	pom modul 
+VARSIG3	componentcontext compon context context 
+VARSIG2	 
+VARSIG5	chang 
+VARSIG4	pom pom 
+COMMENTS	constructor pommap pom map test case set servic pom pom add requir ensur kei exist 
+VARSIG19	element parentel parent element 
+VARSIG1	 
+VARSIG18	map pomset pom set 
+VARSIG0	map pom pommap pom map 
+VARSIG17	pompath pom path 
+VARSIG12	ioexcept except 
+VARSIG11	pompath pom path 
+VARSIG10	pom pom 
+VARSIG16	element modul 
+VARSIG15	map pomset pom set 
+VARSIG14	pompath pom path 
+VARSIG13	element pomroot pom root 
+MTHSIG17	setfocusedmodul set focus modul pom focusedmodul focus modul 
+MTHSIG18	sortpommap sort pom map 
+MTHSIG15	resolvepom resolv pom element pomroot pom root pompath pom path map pomset pom set 
+MTHSIG16	resolverelativepath resolv rel path relativeto rel relativepath rel path 
+MTHSIG13	resolvechildmodulepom resolv child modul pom element pomroot pom root pompath pom path map pomset pom set 
+MTHSIG14	resolveparentpom resolv parent pom pompath pom path map pomset pom set element parentel parent element 
+MTHSIG11	getrootpom root pom 
+MTHSIG12	parseunparsedpom pars unpars pom 
+MTHSIG19	updatepomcach updat pom cach 
+MTHSIG10	getpom pom 
+VARIABLES	pommap pom map context pom chang fileidentifi file identifi pomdirectori pom directori modul modulenam modul pom pompath pom path pomroot pom root pompath pom path pomset pom set modul pompath pom path pomset pom set parentel parent element pomroot pom root pompath pom path pomset pom set relativeto rel relativepath rel path relativepathseg rel path segment focusedmodul focus modul pompath pom path newpom pom pom pommap pom map separ pom rel path filemanag file manag filemonitorservic file monitor servic metadatadependencyregistri metadata depend registri metadataservic metadata servic pomfactori pom factori shell focusedmodulepath focus modul path pommap pom map projectrootdirectori project root directori tobepars pars projectdirectori project directori startingpoint start point pompath pom path pom normalisedrootpath normalis root path normalisedpomdirectori normalis pom directori modulenam modul modulenam modul name pommodulemap pom modul map newpom pom iter pathtochangedpom path chang pom pomcont pom content rootel root element modulenam modul pom modulenam modul modulepath modul path alreadydiscov discov pomdocu pom document root relativepath rel path parentpompath parent pom path alreadydiscov discov pomdocu pom document root parentel parent element relativepathseg rel path segment backcount count path sortedpompath sort pom path sortedpommap sort pom map newpom pom projectmetadataid project metadata 

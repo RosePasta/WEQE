@@ -1,0 +1,16 @@
+VARSIG3	loglevel log level 
+VARSIG2	object obj 
+COMMENTS	level felix log command 
+CLASSES	loglevel log level 
+VARSIG1	felixcod felix code 
+VARSIG0	kei 
+METHODS	loglevel log level getfelixcod felix code getkei kei hashcod hash code equal compareto compar tostr 
+MTHSIG4	equal object obj 
+MTHSIG5	compareto compar loglevel log level 
+MTHSIG6	tostr 
+MTHSIG0	loglevel log level kei felixcod felix code 
+MTHSIG1	getfelixcod felix code 
+PACKAGE	springframework roo felix 
+MTHSIG2	getkei kei 
+MTHSIG3	hashcod hash code 
+VARIABLES	kei felixcod felix code obj kei felixcod felix code error warn debug result tsc 

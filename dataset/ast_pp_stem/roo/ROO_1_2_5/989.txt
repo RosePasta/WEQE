@@ -1,0 +1,23 @@
+VARSIG6	modulenam modul 
+VARSIG3	canonicalpath canon path 
+VARSIG2	modulenam modul 
+VARSIG5	modulenam modul name 
+VARSIG4	relativepath rel path 
+COMMENTS	unit test link pommanagementserviceimpl pom manag servic impl fixtur set work directori servic test relativepath rel path desir work directori rel project ioexcept except set invok check set invok check set invok check set invok check set invok check set invok check 
+CLASSES	pommanagementserviceimpltest pom manag servic impl test 
+VARSIG1	except 
+VARSIG0	relativepath rel path 
+METHODS	getcanonicalpath canon path getmockpom mock pom setup set setupworkingdirectori set work directori testgetpomofsinglemoduleprojectwhenparenthasnorelativepath test pom singl modul project parent rel path testgetpomsofmultimoduleprojectwhenchildisdirti test pom multi modul project child dirti testgetpomsofmultimoduleprojectwhenparentandchildaredirti test pom multi modul project parent child dirti testgetpomswhennopomsaredirti test pom pom dirti testgetpomswhenoneemptypomisdirti test pom empti pom dirti testgetpomswhenonenonexistantpomisdirti test pom exist pom dirti verifyprojectmetadatanotif verifi project metadata notif 
+MTHSIG4	testgetpomofsinglemoduleprojectwhenparenthasnorelativepath test pom singl modul project parent rel path 
+MTHSIG5	testgetpomsofmultimoduleprojectwhenchildisdirti test pom multi modul project child dirti 
+MTHSIG6	testgetpomsofmultimoduleprojectwhenparentandchildaredirti test pom multi modul project parent child dirti 
+MTHSIG7	testgetpomswhennopomsaredirti test pom pom dirti 
+MTHSIG0	getcanonicalpath canon path relativepath rel path 
+MTHSIG1	getmockpom mock pom modulenam modul canonicalpath canon path 
+PACKAGE	springframework roo project 
+MTHSIG2	setup set 
+MTHSIG3	setupworkingdirectori set work directori relativepath rel path 
+MTHSIG10	verifyprojectmetadatanotif verifi project metadata notif modulenam modul name 
+VARIABLES	relativepath rel path modulenam modul canonicalpath canon path relativepath rel path modulenam modul name modulenam modul root modul mockfilemanag mock file manag mockfilemonitorservic mock file monitor servic mockmetadatadependencyregistri mock metadata depend registri mockmetadataservic mock metadata servic mockpomfactori mock pom factori mockshel mock shell servic systemdependentpath system depend path resourc mockpom mock pom mockcomponentcontext mock compon context mockbundlecontext mock bundl context workingdirectori work directori canonicalpath canon path mockpom mock pom pom rootpom root pom rootpomcanonicalpath root pom canon path childpom child pom childpomcanonicalpath child pom canon path dirtyfil dirti file mockrootpom mock root pom childmodulenam child modul mockchildpom mock child pom pom expectedpom expect pom rootpom root pom rootpomcanonicalpath root pom canon path childpom child pom childpomcanonicalpath child pom canon path dirtyfil dirti file mockrootpom mock root pom childmodulenam child modul mockchildpom mock child pom pom expectedpom expect pom dirtyfil dirti file pom dirtyfil dirti file pom dirtyfil dirti file pom projectmetadataid project metadata 
+MTHSIG8	testgetpomswhenoneemptypomisdirti test pom empti pom dirti 
+MTHSIG9	testgetpomswhenonenonexistantpomisdirti test pom exist pom dirti 

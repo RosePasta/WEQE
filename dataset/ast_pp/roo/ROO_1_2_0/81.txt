@@ -1,0 +1,17 @@
+VARSIG3	object obj
+VARSIG2	size
+COMMENTS	represents column database model
+CLASSES	indexcolumn column
+VARSIG1	
+VARSIG0	
+METHODS	indexcolumn column getname setname set getsize size setsize set size hashcode hash code equals tostring
+MTHSIG4	setsize set size size
+MTHSIG5	hashcode hash code
+MTHSIG6	equals object obj
+MTHSIG7	tostring
+MTHSIG0	indexcolumn column
+MTHSIG1	getname
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	setname set
+MTHSIG3	getsize size
+VARIABLES	size obj size prime result

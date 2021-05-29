@@ -1,0 +1,45 @@
+VARSIG7	noofcommitstorevert commits revert
+VARSIG6	exception
+VARSIG9	exception
+VARSIG8	message
+VARSIG3	exception
+VARSIG2	pushresult push result result
+VARSIG5	revcommit rev commit commit
+VARSIG4	maxhistory max history
+COMMENTS	operations git addon commit commit
+VARSIG19	category
+VARSIG1	exception
+VARSIG18	exception ignore
+VARSIG0	message
+VARSIG17	incorrectobjecttypeexception incorrect object type exception
+MTHSIG4	push
+VARSIG12	message
+MTHSIG5	log maxhistory max history
+VARSIG11	revstr
+MTHSIG6	reset noofcommitstorevert commits revert message
+VARSIG10	message
+MTHSIG7	revertlastcommit revert commit message
+MTHSIG0	isgitcommandavailable git command
+VARSIG16	missingobjectexception missing object exception
+MTHSIG1	issetupcommandavailable setup command
+VARSIG15	repository repository
+PACKAGE	springframework roo addon git
+MTHSIG2	isautomaticcommit automatic commit
+VARSIG14	revstr
+MTHSIG3	commitallchanges commit message
+VARSIG13	exception
+MTHSIG8	revertcommit revert commit revstr message
+MTHSIG9	findcommit find commit revstr repository repository
+MTHSIG13	hasdotgit dot git
+MTHSIG11	setup
+MTHSIG12	getrepository repository
+CLASSES	gitoperationsimpl git operations impl
+METHODS	isgitcommandavailable git command issetupcommandavailable setup command isautomaticcommit automatic commit commitallchanges commit push log reset revertlastcommit revert commit revertcommit revert commit findcommit find commit setconfig set config setup getrepository repository hasdotgit dot git
+VARSIG23	exception
+VARSIG22	ioexception exception
+VARSIG21	
+VARSIG20	key
+VARSIG25	ioexception exception
+VARSIG24	ioexception exception
+MTHSIG10	setconfig set config category key
+VARIABLES	message result maxhistory max history commit noofcommitstorevert commits revert message message revstr message revstr repository ignore category key logger filemanager file manager pathresolver path resolver person repository git status rev git repository git counter repository commit git repository commit git walk commit repository repository gitignore git ignore

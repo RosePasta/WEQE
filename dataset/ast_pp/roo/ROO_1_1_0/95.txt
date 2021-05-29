@@ -1,0 +1,20 @@
+VARSIG7	clioption cli option key message mandatory commit message message
+VARSIG6	clioption cli option key commitcount commit count mandatory number commits revert history
+VARSIG3	clioption cli option key colorcoding color coding mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified enable color coding commands shell color
+VARSIG2	clioption cli option key repourl repo url mandatory url remote repository repourl repo url
+VARSIG5	clioption cli option key message mandatory commit message message
+VARSIG4	clioption cli option key message mandatory commit message message
+COMMENTS	commands addon git
+CLASSES	gitcommands git commands
+VARSIG1	clioption cli option key email mandatory user email email
+VARSIG0	clioption cli option key username user mandatory user username user
+METHODS	iscommandavailable command issetupcommandavailable setup command config config config revertlast revert revert
+MTHSIG4	config message
+MTHSIG5	revertlast revert message
+MTHSIG6	revert history message
+MTHSIG0	iscommandavailable command
+MTHSIG1	issetupcommandavailable setup command
+PACKAGE	springframework roo addon git
+MTHSIG2	config
+MTHSIG3	config username user email repourl repo url color
+VARIABLES	username user email repourl repo url color message message history message revisioncontrol revision control

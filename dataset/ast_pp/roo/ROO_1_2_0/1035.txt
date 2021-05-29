@@ -1,0 +1,90 @@
+MTHSIG24	xmlutils xml utils
+MTHSIG22	findfirstelementbyname find element element root
+MTHSIG23	removetextnodes remove text nodes node node
+VARSIG39	xpathexpression path expression
+MTHSIG4	writexml write xml transformer transformer outputstream output stream outputstream output stream document document
+VARSIG34	xpathexpression path expression
+MTHSIG5	writeformattedxml write formatted xml outputstream output stream outputstream output stream document document
+VARSIG33	node parent
+MTHSIG6	comparenodes compare nodes node node node node node node
+VARSIG32	xpathexpression path expression
+MTHSIG7	nodetostring node node node
+VARSIG31	len
+MTHSIG0	stringtoelement element xml
+VARSIG38	element root
+MTHSIG1	createtextelement create text element document document tagname tag text
+VARSIG37	xpathexpression path expression
+PACKAGE	springframework roo support util
+MTHSIG2	readxml read xml inputstream input stream inputstream input stream
+VARSIG36	xpathexpressionexception path expression exception
+MTHSIG3	writexml write xml outputstream output stream outputstream output stream document document
+VARSIG35	node root
+MTHSIG20	gettextcontent text content path element parentelement parent element
+MTHSIG21	gettextcontent text content path element parentelement parent element valueifnull
+MTHSIG8	createunixstreamresultforentry create unix stream result entry outputstream output stream outputstream output stream
+VARSIG30	
+MTHSIG9	findfirstelement find element xpathexpression path expression node parent
+CLASSES	xmlutils xml utils
+VARSIG29	str
+VARSIG28	
+METHODS	stringtoelement element createtextelement create text element readxml read xml writexml write xml writexml write xml writeformattedxml write formatted xml comparenodes compare nodes nodetostring node createunixstreamresultforentry create unix stream result entry findfirstelement find element findnode find node findrequiredelement find required element findelements find elements findfirstattribute find attribute createindentingtransformer create indenting transformer getdocumentbuilder document builder getrootelement root element getconfiguration configuration convertid convert assertelementlegal element legal gettextcontent text content gettextcontent text content findfirstelementbyname find element removetextnodes remove text nodes xmlutils xml utils
+VARSIG23	transformerexception transformer exception
+VARSIG22	node node
+VARSIG21	node node node
+VARSIG20	node node node
+VARSIG27	len
+VARSIG26	
+VARSIG25	cbuf
+VARSIG24	outputstream output stream outputstream output stream
+VARSIG7	inputstream input stream inputstream input stream
+VARSIG6	text
+VARSIG9	outputstream output stream outputstream output stream
+VARSIG8	exception
+VARSIG3	saxexception sax exception
+VARSIG2	parserconfigurationexception parser configuration exception
+VARSIG5	tagname tag
+VARSIG4	document document
+COMMENTS	utilities xml usage constants returns xml root link element link document xml xml convert blank xml blank creates link element text document document element tagname tag element element tag required text text set element read xml document supplied input stream document inputstream input stream input stream read required stream closed completion document illegalstateexception illegal exception stream read write xml document outputstream output stream pre configured roo transformer outputstream output stream output stream write stream closed completion document document write write xml document outputstream output stream transformer transformer transformer xmlutils xml utils createindentingtransformer create indenting transformer outputstream output stream output stream write stream closed completion document document write write xml document outputstream output stream detect jdk supports dom level format pretty print configuration fall formatting offered trax outputstream output stream output stream write stream closed completion document document write note format pretty print dom configuration parameter set jdk fall domimplementationregistry dom implementation registry falling trax domimplementationregistry dom implementation registry falling trax domconfiguration dom configuration format pretty print parameter falling trax domimplementationls dom implementation falling trax dom dom core supported falling trax compares dom link node nodes comparing representations nodes xml strings node node node node node node xml representation node node xml representation node node documents cloned normalization side effects documents normalized comparison takes place remove formatting interfere comparison converts link node node xml node element xml representation node creates link streamresult stream result wrapping outputstream output stream link outputstreamwriter output stream writer transforms windows endings unix endings windows consistency roo roo templates outputstream output stream streamresult stream result unsupportedencodingexception unsupported encoding exception searches parent element child element matching xpath path expression note xpath path parser namespace aware find element xpath path expression beans http xpathexpression path expression xpathexpression path expression required parent parent dom element required element discovered link element checks root element find child node matches xpath path expression supplied returns link node exists note xpath path parser namespace aware find element xpath path expression beans http xpathexpression path expression xpath path expression required root parent dom element required node discovered checks root element find child element matches xpath path expression supplied link element exist returns link element exists note xpath path parser namespace aware find element xpath path expression beans http xpathexpression path expression xpath path expression required root parent dom element required element discovered exception thrown checks root element find child elements match xpath path expression supplied returns link list link element exist note xpath path parser namespace aware find element xpath path expression beans http xpathexpression path expression xpathexpression path expression root parent dom element link list type link element discovered empty list checks element find attribute matches xpath path expression supplied returns link node exists xpathexpression path expression xpathexpression path expression required element required node discovered transformer indents entries characters document builder factory setnamespaceaware set namespace aware returns root element xml file clazz open file required xmlfilepath xml file path path xml file relative required element document getdocumentelement document element returns root element addon addon configuration file clazz owns configuration configuration root element converts xhtml compliant jspx css css selector spec compliant replace proposed cleaned checks presented element illegal characters malformed xml element content xml element illegalargumentexception illegal argument exception element text illegal characters note regular expression legal characters slower profiling approach checks root element find child element matches supplied returns link element exists element required root parent dom element required element discovered link domutils dom utils findfirstelementbyname find element element removes empty text nodes node node element empty text nodes removed link domutils dom utils removetextnodes remove text nodes node constructor prevent instantiation
+VARSIG19	lsexception exception lse
+VARSIG1	ioexception exception
+VARSIG18	exception
+VARSIG0	xml
+VARSIG17	nosuchmethoderror error nsme
+VARSIG12	outputstream output stream outputstream output stream
+VARSIG56	valueifnull
+VARSIG11	transformer transformer
+VARSIG55	element parentelement parent element
+VARSIG10	document document
+VARSIG54	path
+VARSIG53	element parentelement parent element
+VARSIG16	document document
+VARSIG15	outputstream output stream outputstream output stream
+VARSIG59	node node
+VARSIG14	exception
+VARSIG58	element root
+VARSIG13	document document
+VARSIG57	
+VARSIG52	path
+VARSIG51	element
+VARSIG50	proposed
+MTHSIG17	getconfiguration configuration clazz
+MTHSIG18	convertid convert proposed
+MTHSIG15	getdocumentbuilder document builder
+MTHSIG16	getrootelement root element clazz xmlfilepath xml file path
+MTHSIG13	findfirstattribute find attribute xpathexpression path expression element element
+MTHSIG14	createindentingtransformer create indenting transformer
+MTHSIG11	findrequiredelement find required element xpathexpression path expression element root
+MTHSIG12	findelements find elements xpathexpression path expression element root
+MTHSIG19	assertelementlegal element legal element
+VARSIG45	exception
+VARSIG44	xpathexpressionexception path expression exception
+VARSIG43	element element
+VARSIG42	xpathexpression path expression
+VARSIG49	clazz
+VARSIG48	xmlfilepath xml file path
+VARSIG47	clazz
+VARSIG46	parserconfigurationexception parser configuration exception
+MTHSIG10	findnode find node xpathexpression path expression node root
+VARIABLES	xml document tagname tag text inputstream input stream outputstream output stream document transformer outputstream output stream document outputstream output stream document nsme lse node node node node node outputstream output stream cbuf len str len xpathexpression path expression parent xpathexpression path expression root xpathexpression path expression root xpathexpression path expression root xpathexpression path expression element clazz xmlfilepath xml file path clazz proposed element path parentelement parent element path parentelement parent element valueifnull root node factory compiledexpressioncache compiled expression cache transformerfactory transformer factory xpath element streamresult stream result domimplementation dom implementation domimplementationls dom implementation registry lsserializer serializer domconfiguration dom configuration lsoutput output writer writer orig filtered lengthdiff length diff node node expr element elements nodes expr attr expr transformer inputstream input stream element
+VARSIG41	xpathexpressionexception path expression exception
+VARSIG40	element root

@@ -1,0 +1,19 @@
+VARSIG3	metadataitem metadata item metadataitem metadata item
+VARSIG2	map entry metadataitem metadata item eldest
+VARSIG4	maxcapacity max capacity
+COMMENTS	basic link metadatacache metadata cache stores elements lru basis
+CLASSES	abstractmetadatacache metadata cache
+VARSIG1	metadataidentificationstring metadata identification
+VARSIG0	metadataidentificationstring metadata identification
+METHODS	abstractmetadatacache metadata cache evict evictall evict getcachesize cache size getfromcache cache getmaxcapacity max capacity init setmaxcapacity set max capacity
+MTHSIG4	getfromcache cache metadataidentificationstring metadata identification
+MTHSIG5	getmaxcapacity max capacity
+MTHSIG6	init
+MTHSIG7	metadataitem metadata item metadataitem metadata item
+MTHSIG0	abstractmetadatacache metadata cache
+MTHSIG1	evict metadataidentificationstring metadata identification
+PACKAGE	springframework roo metadata internal
+MTHSIG2	evictall evict
+MTHSIG3	getcachesize cache size
+VARIABLES	metadataidentificationstring metadata identification metadataidentificationstring metadata identification eldest metadataitem metadata item maxcapacity max capacity hashtableloadfactor hash table load factor map maxcapacity max capacity hashtablecapacity hash table capacity serialversionuid serial version uid
+MTHSIG8	setmaxcapacity set max capacity maxcapacity max capacity

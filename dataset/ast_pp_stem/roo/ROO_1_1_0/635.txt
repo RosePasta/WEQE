@@ -1,0 +1,140 @@
+MTHSIG26	encodefiletofil encod file file infil outfil 
+MTHSIG27	decodefiletofil decod file file infil outfil 
+MTHSIG24	decodefromfil decod file filenam 
+MTHSIG25	encodefromfil encod file filenam 
+MTHSIG22	encodetofil encod file datatoencod data encod filenam 
+MTHSIG23	decodetofil decod file datatodecod data decod filenam 
+MTHSIG4	encod encod sourc srcoffset src offset numsigbyt num sig byte destin destoffset dest offset option 
+VARSIG78	ioexcept except 
+MTHSIG5	encod nio bytebuff buffer raw nio bytebuff buffer encod 
+VARSIG77	filenam 
+MTHSIG6	encod nio bytebuff buffer raw nio charbuff buffer encod 
+VARSIG76	datatodecod data decod 
+MTHSIG7	encodeobject encod object serializ serializableobject serializ object 
+VARSIG75	except 
+MTHSIG0	getalphabet alphabet option 
+MTHSIG1	getdecodabet decodabet option 
+MTHSIG2	base base 
+MTHSIG3	encod encod threebyt byte numsigbyt num sig byte option 
+VARSIG79	except 
+MTHSIG20	decodetoobject decod object encodedobject encod object 
+VARSIG70	except 
+MTHSIG21	decodetoobject decod object encodedobject encod object option classload loader loader 
+MTHSIG8	encodeobject encod object serializ serializableobject serializ object option 
+VARSIG74	ioexcept except 
+MTHSIG9	encodebyt encod byte sourc 
+VARSIG73	filenam 
+VARSIG72	datatoencod data encod 
+VARSIG71	except 
+METHODS	getalphabet alphabet getdecodabet decodabet base base encod encod encod encod encod encod encodeobject encod object encodeobject encod object encodebyt encod byte encodebyt encod byte encodebyt encod byte encodebyt encod byte encodebytestobyt encod byte byte encodebytestobyt encod byte byte decod decod decod decod decod decod decodetoobject decod object decodetoobject decod object encodetofil encod file decodetofil decod file decodefromfil decod file encodefromfil encod file encodefiletofil encod file file decodefiletofil decod file file 
+VARSIG67	objectstreamclass object stream streamclass stream 
+VARSIG66	classload loader loader 
+VARSIG65	option 
+VARSIG64	encodedobject encod object 
+VARSIG69	lang classnotfoundexcept except 
+VARSIG68	ioexcept except 
+VARSIG63	encodedobject encod object 
+VARSIG62	except 
+VARSIG61	except 
+VARSIG60	except 
+COMMENTS	encod decod base base notat homepag http ihard net base base encod base base encod mybytearrai arrai mybytearrai arrai base base decod encod option paramet appear place pass piec encod higher level method encodebyt encod byte byte option option paramet gzip byte encod insert linefe encod url safe order dialect note rfc rfc implement add feed explicitli told base base set behavior earlier version broke line constant defin base base combin option call encod base base encodebyt encod byte mybyt base base gzip base base line compress data encod make output newlin charact encod base base encodebyt encod byte crazystr crazi getbyt byte chang log fix subtl base input stream contain invalid base charact arrayindexoutofboundsexcept arrai bound except led discoveri mishandl potenti handl bad input charact ioexcept except decod bad charact fix break line encod end column buffer properli shrunk contain extra fix link encodefromfil encod file estim buffer size wrong file size byte fix work gzip stream flush base base outputstream output stream close base base encod pad equal sign option suppress automat decod gzip stream experiment support loader link decodetoobject decod object lang lang classload loader chang encod ascii reduc intern footprint charencod encod fix javadoc inconsist remov import ioexcept except explicitli inlin reduc memori footprint refin guess big encod data code doesn creat output arrai overs initi exact size big win link encodebytestobyt encod byte byte famili method gzip option mechan stream stuff link encodebytestobyt encod byte byte helper method effici memori return arrai drop replac year comment fix queu execut stuff wasn distribut fix bad code clean includ throw except return valu affect line complianc rfc rfc except return valu oper permit gzip option stream possibl ioexcept except thrown discuss thought chang behavior method ioexcept except there error requir code remov refer system system err shame nullpointerexcept pointer except illegalargumentexcept illeg argument except need pass arrai offset invalid clean avoid warn annoi peopl project gob warn file fix url safe order encod fix small file helper method encod decod file support command encod decod file base base dialect rfc rfc format call base base setformat set format base base base base format urlsaf format gener url file friendli format rfc rfc http faq rfc rfc rfc html call base base setformat set format base base base base format order format gener url file friendli format preserv lexic order http faq rfcc html special jim kellerman http powerset contribut base base dialect clean comment unus variabl method conveni method read write file specifi utf encod place code fail system encod ebcdic fix error decod singl encod data singl rid method boolean set option consolid cleaner code detect data that decod gzip compress decompress automat gener cleaner you chang call make support option format fix decompress decod decod gzipcompress gzip compress abil suspend encod output stream turn encod emb base base data normal stream xml file output stream pase flush command doesn help gzip stream abil gzip zip compress object encod helper method read write file fix outputstream output stream flush posit reset flag turn break fix input stream buffer read complet full return fix improperli pad stream error thrown wrong time fix stream total mess place code domain softwar guarante warranti plenti wish visit http ihard net base base period check updat contribut improv option encod bit decod bit data gzip compress bit gzip data automat gunzip line encod encod base base encod url filenam safe rfc rfc http faq rfc rfc rfc html note data encod offici valid base base call base base encod url filenam safe dialect encod special order dialect base base http faq rfcc html maximum length base base output equal sign charact prefer encod white space encod equal sign encod valid base base valu host platform funni ebcdic hardcod valu translat base base bit reconstruct neg number indic mean decim whitespac tab linefe decim whitespac carriag decim decim whitespac space decim sign decim decim slash decim number decim equal sign decim decim letter letter decim letter letter decim decim decim decim decim decim decim decim decim decim decim url filenam safe dialect rfc rfc http faq rfc rfc rfc html notic byte hyphen underscor slash decod url filenam safe dialect base base decim whitespac tab linefe decim whitespac carriag decim decim whitespac space decim sign decim decim sign decim decim slash decim number decim equal sign decim decim letter letter decim underscor decim decim letter letter decim decim decim decim decim decim decim decim decim decim decim don point techniqu request http faq rfcc html decod order dialect base base decim whitespac tab linefe decim whitespac carriag decim decim whitespac space decim sign decim decim sign decim decim slash decim number decim equal sign decim decim letter letter decim underscor decim decim letter letter decim decim decim decim decim decim decim decim decim decim decim return alphabet arrai depend option silli order urlsaf pick guarante pick getalphabet alphabet return decodabet arrai depend option silli order url safe pick guarante pick getalphabet alphabet defeat instanti encod byte arrai threebyt byte return arrai base base notat actual number byte arrai numsigbyt num sig byte arrai threebyt byte big numsigbyt num sig byte code reus arrai pass arrai reusabl arrai reduc arrai instanti threebyt byte arrai convert numsigbyt num sig byte number byte arrai arrai base base notat encod encod encod byte arrai sourc write base base byte destin sourc destin arrai manipul length srcoffset src offset destoffset dest offset check arrai larg accomod srcoffset src offset sourc arrai destoffset dest offset destin arrai actual number byte arrai numsigbyt num sig byte lowest level encod method paramet sourc arrai convert srcoffset src offset convers numsigbyt num sig byte number byte arrai destin arrai hold convers destoffset dest offset output destin arrai bit posit arrai posit threebyt byte bit group alphabet shift addit creat buffer pad byte pass arrai shift left order flush treat neg encod encod perform base base encod raw bytebuff buffer write encod bytebuff buffer experiment featur pass option link line link gzip raw input buffer encod output buffer input remain perform base base encod raw bytebuff buffer write encod charbuff buffer experiment featur pass option link line link gzip raw input buffer encod output buffer input remain serial object return base base encod version serial object object serial error ioexcept except earlier version return retrospect that pretti poor handl object gzip zip compress encod serializableobject serializ object object encod base base encod object ioexcept except error nullpointerexcept pointer except serializedobject serial object encodeobject encod object serial object return base base encod version serial object object serial error ioexcept except earlier version return retrospect that pretti poor handl object gzip zip compress encod option gzip gzip compress object encod line line charact encodeobject encod object myobj obj base base gzip encodeobject encod object myobj obj base base gzip base base line serializableobject serializ object object encod option option base base encod object base base gzip base base line ioexcept except error stream objectoutputstream object output stream gzip base base bytearrayoutputstream arrai output stream gzip gzip block call cleanup relev encod fall encod encod arrai base base notat gzip zip compress data sourc data convert data base base encod form nullpointerexcept pointer except sourc arrai gzip encod turn ioexcept except thrown forc user encodebyt encod byte encod arrai base base notat option gzip gzip compress object encod line line charact note technic encod compliant encodebyt encod byte mydata data base base gzip encodebyt encod byte mydata data base base gzip base base line error gzip stream ioexcept except earlier version return retrospect that pretti poor handl sourc data convert option option base base encod data base base gzip base base line ioexcept except error nullpointerexcept pointer except sourc arrai encodebyt encod byte encod arrai base base notat gzip zip compress data error ioexcept except earlier version return retrospect that pretti poor handl sourc data convert offset arrai convers len length data convert base base encod data nullpointerexcept pointer except sourc arrai illegalargumentexcept illeg argument except sourc arrai offset length invalid gzip encod turn ioexcept except thrown forc user encodebyt encod byte encod arrai base base notat option gzip gzip compress object encod line line charact note technic encod compliant encodebyt encod byte mydata data base base gzip encodebyt encod byte mydata data base base gzip base base line error gzip stream ioexcept except earlier version return retrospect that pretti poor handl sourc data convert offset arrai convers len length data convert option option base base encod data base base gzip base base line ioexcept except error nullpointerexcept pointer except sourc arrai illegalargumentexcept illeg argument except sourc arrai offset length invalid relev encod encodebyt encod byte link encodebyt encod byte return arrai instanti effici you work stream larg data set encod sourc data convert base base encod data ascii charact nullpointerexcept pointer except sourc arrai link encodebyt encod byte return arrai instanti effici you work stream larg data set encod sourc data convert offset arrai convers len length data convert option option base base encod data base base gzip base base line ioexcept except error nullpointerexcept pointer except sourc arrai illegalargumentexcept illeg argument except sourc arrai offset length invalid len compress gzip zip base base bytearrai arrai block call cleanup compress don compress stream len len len outbuff buff len len len account pad breaklin line len len max length line determin precis big arrai don arrai copi save bunch memori byte need actual encod extra newlin charact dfor piec arrai pad need resiz arrai didn guess break line fall length byte extra arrai resiz bad estim arrai size system err println resiz arrai outbuff buff length system err println resiz arrai don compress encodebytestobyt encod byte byte decod byte arrai sourc write byte destin sourc destin arrai manipul length srcoffset src offset destoffset dest offset check arrai larg accomod srcoffset src offset sourc arrai destoffset dest offset destin arrai return actual number byte convert base base encod lowest level decod method paramet sourc arrai convert srcoffset src offset convers destin arrai hold convers destoffset dest offset output option alphabet type pull standard url safe order number decod byte convert nullpointerexcept pointer except sourc destin arrai illegalargumentexcept illeg argument except srcoffset src offset destoffset dest offset invalid room arrai lot error check except throw wai don outbuff buff decodabet sourc srcoffset src offset decodabet sourc srcoffset src offset dkl wai don outbuff buff decodabet sourc srcoffset src offset decodabet sourc srcoffset src offset decodabet sourc srcoffset src offset dkle wai don outbuff buff decodabet sourc srcoffset src offset decodabet sourc srcoffset src offset decodabet sourc srcoffset src offset decodabet sourc srcoffset src offset decodetobyt decod byte level access decod ascii charact form arrai ignor gunzip option set gener recommend intern decod process special len empti arrai return speed reduc memori footprint aren gzip sourc base base encod data decod data ioexcept except ioexcept except gzip zip turn getmessag messag level access decod ascii charact form arrai ignor gunzip option set gener recommend intern decod process special len empti arrai return speed reduc memori footprint aren gzip sourc base base encod data offset decod len length charact decod option option alphabet type decod data ioexcept except bogu charact exist sourc data lot error check except throw estim arrai size upper limit size output track write buffer sourc elimin white space track input buffer sourc arrai counter special decodabet loop sourc white space equal sign legit base base charact note valu decodabet decodab top file save whitespac time decod equal sign loop equal sign quartet built equal sign white space equal sign there bad input charact base base stream input charact decod decod data base base notat automat detect gzip compress data decompress decod decod data ioexcept except problem decod data base base notat automat detect gzip compress data decompress decod option encod option url safe decod data ioexcept except error nullpointerexcept pointer except chang decod check gzip compress gzip magic number read input error byte origin decod byte gzip byte length decod attempt decod base base data deseri object return error encodedobject encod object base base data decod decod deseri object nullpointerexcept pointer except encodedobject encod object ioexcept except gener error classnotfoundexcept except decod object jvm attempt decod base base data deseri object return error loader loader deseri encodedobject encod object base base data decod option paramet decod loader option loader deseri class decod deseri object nullpointerexcept pointer except encodedobject encod object ioexcept except gener error classnotfoundexcept except decod object jvm decod gunzip custom loader java builtin oi loader custom object input stream loader loader resolveclass resolv oi custom loader order execut order execut decodeobject decod object conveni encod data file error ioexcept except earlier version return retrospect that pretti poor handl datatoencod data encod arrai data encod base base form filenam filenam save encod data ioexcept except error nullpointerexcept pointer except datatoencod data encod iff execut block ioexcept except encodetofil encod file conveni decod data file error ioexcept except earlier version return retrospect that pretti poor handl datatodecod data decod base base encod data filenam filenam save decod data ioexcept except error execut block ioexcept except decodetofil decod file conveni read base base encod file decod error ioexcept except earlier version return retrospect that pretti poor handl filenam filenam read encod data decod arrai ioexcept except error set variabl check size file file big open stream read save variabl releas execut ioexcept except decodefromfil decod file conveni read binari file base base encod error ioexcept except earlier version return retrospect that pretti poor handl filenam filenam read binari data base base encod ioexcept except error set variabl max math small file corner case open stream read save variabl releas execut ioexcept except encodefromfil encod file read infil encod outfil infil input file outfil output file ioexcept except error strict bit output releas execut encodefiletofil encod file file read infil decod outfil infil input file outfil output file ioexcept except error releas execut decodefiletofil decod file file link base base inputstream input stream read data inputstream input stream constructor encod decod base base notat fly base base encod decod current posit buffer small buffer hold convert data length buffer number meaning byte buffer line charact record option creat stream local copi avoid extra call construct link base base inputstream input stream decod mode inputstream input stream read data constructor construct link base base inputstream input stream encod decod mode valid option encod decod encod decod data read line line charact meaning encod base base inputstream input stream base base decod inputstream input stream read data option option base base encod base base decod base base line record constructor read input stream convert base base return data stream loop stream need input data stream encod decod read meaning byte read stream stream need input charact pad correctli broken decod data data relev data encod data isn decod throw extra wast that intend unsign posit error read call link read repeatedli stream reach len byte read return number byte read arrai stream encount dest arrai hold valu offset arrai len max number byte read arrai byte read arrai stream encount loop loop read read inputstream input stream link base base outputstream output stream write data outputstream output stream constructor encod decod base base notat fly base base scratch place record local copi avoid extra call construct link base base outputstream output stream encod mode outputstream output stream data written constructor construct link base base outputstream output stream encod decod mode valid option encod decod encod decod data read line don line charact meaning encod base base outputstream output stream base base encod outputstream output stream data written option option base base encod base base decod base base line constructor write output stream convert base base notat encod byte buffer time output stream write call decod byte buffer time thebyt write encod suspend supsend encod encod output encod decod meaning base base charact output output meaning base base charact white space decod write call link write repeatedli len byte written thebyt byte arrai read byte offset arrai len max number byte read arrai encod suspend supsend written write phil phil rob pad buffer close stream ioexcept except there error encod decod buffer partial full flush flush close superclass stream ensur pend charact written close stream base flush close close suspend encod stream help emb piec base base encod data stream ioexcept except there error flush suspendencod suspend encod resum encod stream help emb piec base base encod data stream resumeencod resum encod outputstream output stream base base 
+VARSIG19	ioexcept except 
+VARSIG18	option 
+VARSIG17	serializ serializableobject serializ object 
+VARSIG12	nio bytebuff buffer raw 
+VARSIG11	option 
+VARSIG99	len 
+VARSIG10	destoffset dest offset 
+VARSIG98	 
+VARSIG97	dest 
+VARSIG16	serializ serializableobject serializ object 
+VARSIG15	nio charbuff buffer encod 
+VARSIG14	nio bytebuff buffer raw 
+VARSIG13	nio bytebuff buffer encod 
+VARSIG92	ioexcept except 
+VARSIG91	outfil 
+VARSIG90	infil 
+VARSIG96	option 
+VARSIG95	inputstream input stream 
+VARSIG94	inputstream input stream 
+VARSIG93	except 
+MTHSIG17	decod sourc len option 
+MTHSIG18	decod 
+MTHSIG15	decod decod sourc srcoffset src offset destin destoffset dest offset option 
+MTHSIG16	decod sourc 
+MTHSIG13	encodebytestobyt encod byte byte sourc 
+MTHSIG14	encodebytestobyt encod byte byte sourc len option 
+MTHSIG11	encodebyt encod byte sourc len 
+MTHSIG12	encodebyt encod byte sourc len option 
+MTHSIG19	decod option 
+VARSIG89	except 
+VARSIG88	ioexcept except 
+VARSIG87	outfil 
+VARSIG86	infil 
+VARSIG81	ioexcept except 
+MTHSIG10	encodebyt encod byte sourc option 
+VARSIG80	filenam 
+VARIABLES	option option threebyt byte numsigbyt num sig byte option sourc srcoffset src offset numsigbyt num sig byte destin destoffset dest offset option raw encod raw encod serializableobject serializ object serializableobject serializ object option uue sourc sourc option sourc len sourc len option uue sourc sourc len option sourc srcoffset src offset destin destoffset dest offset option sourc sourc len option option uee encodedobject encod object encodedobject encod object option loader streamclass stream datatoencod data encod filenam datatodecod data decod filenam filenam filenam infil outfil infil outfil option dest len option thebyt thebyt byte len option encod decod gzip dont gunzip line url safe order max length equal sign prefer encod white space enc equal sign enc standard alphabet standard decodabet url safe alphabet url safe decodabet order alphabet order decodabet alphabet inbuff buff raw raw enc enc rem raw raw enc enc rem bao gzo oo encod bao gzo breaklin line enclen enc len outbuff buff len len linelength length finalout decodabet outbuff buff outbuff buff outbuff buff decod decodabet len len outbuff buff outbuffposn buff posn posn posn sbidecod sbi decod byte dontgunzip dont gunzip head bai gzi bao buffer length objbyt obj byte bai oi obj bo bo decodeddata decod data bi file buffer length numbyt num byte encodeddata encod data bi file buffer length numbyt num byte encod decod encod posit buffer bufferlength buffer length numsigbyt num sig byte linelength length breaklin line option decodabet numbinarybyt num binari byte encod posit buffer bufferlength buffer length linelength length breaklin line suspendencod suspend encod option decodabet len 
+VARSIG85	except 
+VARSIG84	ioexcept except 
+VARSIG83	filenam 
+VARSIG82	except 
+VARSIG39	len 
+VARSIG34	option 
+VARSIG33	len 
+VARSIG32	 
+VARSIG31	sourc 
+VARSIG38	 
+VARSIG37	sourc 
+PACKAGE	springframework roo support util 
+VARSIG36	sourc 
+VARSIG35	unsupportedencodingexcept unsupport encod except uue 
+VARSIG30	len 
+CLASSES	base base 
+VARSIG29	 
+VARSIG28	sourc 
+VARSIG23	except 
+VARSIG22	except 
+VARSIG21	except 
+VARSIG20	except 
+VARSIG27	option 
+VARSIG26	sourc 
+VARSIG25	sourc 
+VARSIG24	unsupportedencodingexcept unsupport encod except uue 
+VARSIG7	srcoffset src offset 
+VARSIG6	sourc 
+VARSIG9	destin 
+VARSIG8	numsigbyt num sig byte 
+VARSIG3	threebyt byte 
+VARSIG2	 
+VARSIG5	option 
+VARSIG4	numsigbyt num sig byte 
+VARSIG1	option 
+VARSIG0	option 
+VARSIG56	 
+VARSIG55	 
+VARSIG54	option 
+VARSIG53	len 
+VARSIG59	ioexcept except 
+VARSIG58	unsupportedencodingexcept unsupport encod except uee 
+VARSIG57	option 
+VARSIG100	outputstream output stream 
+VARSIG101	outputstream output stream 
+VARSIG102	option 
+VARSIG103	thebyt 
+VARSIG104	thebyt byte 
+VARSIG52	 
+VARSIG105	 
+VARSIG51	sourc 
+VARSIG106	len 
+VARSIG50	sourc 
+VARSIG45	sourc 
+VARSIG44	except 
+VARSIG43	except 
+VARSIG42	except 
+VARSIG49	option 
+VARSIG48	destoffset dest offset 
+VARSIG47	destin 
+VARSIG46	srcoffset src offset 
+VARSIG41	ioexcept except 
+VARSIG40	option 

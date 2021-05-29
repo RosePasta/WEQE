@@ -1,0 +1,8 @@
+MTHSIG0	onprocessmanagerstatuschange process manager status change processmanagerstatus process manager status oldstatus status processmanagerstatus process manager status newstatus status
+PACKAGE	springframework roo process manager event
+COMMENTS	implemented classes notified link processmanager process manager status invoked link processmanager process manager report status oldstatus status status newstatus status status
+CLASSES	processmanagerstatuslistener process manager status listener
+VARIABLES	oldstatus status newstatus status
+VARSIG1	processmanagerstatus process manager status newstatus status
+VARSIG0	processmanagerstatus process manager status oldstatus status
+METHODS	onprocessmanagerstatuschange process manager status change

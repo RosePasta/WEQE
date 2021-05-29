@@ -1,0 +1,13 @@
+VARSIG3	shellstatu shell statu newstatu statu 
+VARSIG2	shellstatu shell statu oldstatu statu 
+COMMENTS	listen shell event support automat git repositori commit field 
+CLASSES	gitshelleventlisten git shell event listen 
+VARSIG1	componentcontext compon context context 
+VARSIG0	componentcontext compon context context 
+METHODS	activ deactiv onshellstatuschang shell statu chang isgiten git enabl 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	deactiv componentcontext compon context context 
+PACKAGE	springframework roo addon git 
+MTHSIG2	onshellstatuschang shell statu chang shellstatu shell statu oldstatu statu shellstatu shell statu newstatu statu 
+MTHSIG3	isgiten git enabl 
+VARIABLES	context context oldstatu statu newstatu statu gitoper git oper pathresolv path resolv shell 

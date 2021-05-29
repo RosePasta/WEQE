@@ -1,0 +1,22 @@
+VARSIG7	ioexcept except 
+VARSIG6	bundlecontext bundl context context 
+VARSIG9	except 
+VARSIG8	url url 
+VARSIG3	requiredservic requir servic 
+VARSIG2	serviceev servic event event 
+VARSIG5	servicerefer servic refer 
+VARSIG4	servicerefer servic refer 
+COMMENTS	osgi framework start level servic mark activ osgi declar servic specif ensur servic load requir attribut ensur load eagerli imposs receiv callback servic finish load link bundleactiv bundl activ resolv issu discov enabl servic compon flag monitor startup start osgi framework set start level enabl class depend activ servic react start level chang note function servic simpl compon insuffici servic defin xml file servic compon manifest header field kei requir servic interfac ensur notifi servic wrong identifi servic interest run wrong chang start level start servic roo roo convent compon fulli qualifi roo roo convent bundl symbol name fulli qualifi name user chang bsn compon quick saniti check type appear bsn haven chang convent couldn reli compon reliabl servic unavail time getservic servic invoc roo compon enabl disabl skip starter starter skip calcul implement correctli implement servic 
+CLASSES	activ 
+VARSIG1	bundl bundl 
+VARSIG0	bundlecontext bundl context context 
+METHODS	start getclassnam potentiallychangestartlevel chang start level process 
+MTHSIG4	bundlecontext bundl context context 
+VARSIG11	bundlecontext bundl context context 
+VARSIG10	ioexcept except 
+MTHSIG0	start bundlecontext bundl context context 
+MTHSIG1	getclassnam servicerefer servic refer bundlecontext bundl context context 
+PACKAGE	springframework roo startlevel 
+MTHSIG2	potentiallychangestartlevel chang start level 
+MTHSIG3	process url url 
+VARIABLES	context bundl event requiredservic requir servic context url context startlevelservicerefer start level servic refer startlevel start level requiredimplement requir implement runningimplement run implement url mycontext context classnam correspondinginterfac sr classnam componentnam compon obj document rootel root element compon compon componentnam compon implement impl serviceinterfac servic servic provid firstprovid provid 

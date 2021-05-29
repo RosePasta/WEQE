@@ -1,0 +1,31 @@
+VARSIG7	clioption cli option key mandatory apply annotation javatype type interfacetype type
+VARSIG6	clioption cli option key usexmlconfiguration xml configuration mandatory spring roo configure services xml behavior services gae usexmlconfiguration xml configuration
+VARSIG9	clioption cli option key entity unspecifieddefaultvalue unspecified optioncontext option context project mandatory domain entity service expose javatype type domaintype domain type
+VARSIG8	clioption cli option key mandatory implementation javatype type classtype type
+VARSIG3	clioption cli option key usexmlconfiguration xml configuration mandatory spring roo configure services xml usexmlconfiguration xml configuration
+VARSIG2	clioption cli option key entity unspecifieddefaultvalue unspecified optioncontext option context project mandatory domain entity service expose javatype type domaintype domain type
+VARSIG5	clioption cli option key classpackage mandatory implementation classes interfaces javapackage classpackage
+VARSIG4	clioption cli option key interfacepackage mandatory javapackage interfacepackage
+COMMENTS	shell commands create domain services
+VARSIG19	clioption cli option key usexmlconfiguration xml configuration mandatory spring roo configure services xml usexmlconfiguration xml configuration
+VARSIG1	clioption cli option key mandatory implementation javatype type classtype type
+VARSIG18	clioption cli option key usepermissionevaluator permission evaluator unspecifieddefaultvalue unspecified specifieddefaultvalue mandatory permissionevaluator permission evaluator usepermissionevaluator permission evaluator
+VARSIG0	clioption cli option key mandatory apply annotation javatype type interfacetype type
+VARSIG17	clioption cli option key authorizedrole authorized role mandatory role authorized methods service additional roles creation role
+MTHSIG4	secureservice secure service javatype type interfacetype type javatype type classtype type javatype type domaintype domain type requireauthentication require authentication role usepermissionevaluator permission evaluator usexmlconfiguration xml configuration
+VARSIG12	clioption cli option key usepermissionevaluator permission evaluator unspecifieddefaultvalue unspecified specifieddefaultvalue mandatory permissionevaluator permission evaluator usepermissionevaluator permission evaluator
+MTHSIG5	secureserviceall secure service javapackage interfacepackage javapackage classpackage requireauthentication require authentication role usepermissionevaluator permission evaluator usexmlconfiguration xml configuration
+VARSIG11	clioption cli option key authorizedroles authorized roles mandatory role authorized methods service role
+VARSIG10	clioption cli option key requireauthentication require authentication unspecifieddefaultvalue unspecified specifieddefaultvalue ture mandatory users authenticated service requireauthentication require authentication
+MTHSIG0	isservicecommandavailable service command
+VARSIG16	clioption cli option key requireauthentication require authentication unspecifieddefaultvalue unspecified specifieddefaultvalue mandatory users authenticated service requireauthentication require authentication
+MTHSIG1	issecureservicecommandavailable secure service command
+VARSIG15	clioption cli option key classpackage mandatory implementation classes interfaces javapackage classpackage
+PACKAGE	springframework roo addon layers service
+MTHSIG2	service javatype type interfacetype type javatype type classtype type javatype type domaintype domain type usexmlconfiguration xml configuration
+VARSIG14	clioption cli option key interfacepackage mandatory javapackage interfacepackage
+MTHSIG3	service javapackage interfacepackage javapackage classpackage usexmlconfiguration xml configuration
+VARSIG13	clioption cli option key usexmlconfiguration xml configuration mandatory spring roo configure services xml usexmlconfiguration xml configuration
+CLASSES	servicecommands service commands
+METHODS	isservicecommandavailable service command issecureservicecommandavailable secure service command service service secureservice secure service secureserviceall secure service
+VARIABLES	interfacetype type classtype type domaintype domain type usexmlconfiguration xml configuration interfacepackage classpackage usexmlconfiguration xml configuration interfacetype type classtype type domaintype domain type requireauthentication require authentication role usepermissionevaluator permission evaluator usexmlconfiguration xml configuration interfacepackage classpackage requireauthentication require authentication role usepermissionevaluator permission evaluator usexmlconfiguration xml configuration serviceoperations service operations projectoperations project operations

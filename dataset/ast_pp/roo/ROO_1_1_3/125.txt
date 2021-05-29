@@ -1,0 +1,15 @@
+VARSIG3	loginurl login url
+VARSIG2	gaeauthenticationfailureevent gae authentication failure event handler handler
+VARSIG4	handler handler
+COMMENTS	event posted authentication failure detected implemented handlers type event called link gaeauthenticationfailureevent gae authentication failure event fired requestevent request event link gaeauthenticationfailureevent gae authentication failure event instance register link gaeauthenticationfailureevent gae authentication failure event handler link eventbus event bus eventbus event bus link eventbus event bus handler link gaeauthenticationfailureevent gae authentication failure event handler link handlerregistration handler registration instance event type link received rpc successful constructs link requestevent request event link instance response link response instance returns url user visit reauthenticate link response instance
+CLASSES	gaeauthenticationfailureevent gae authentication failure event
+VARSIG1	eventbus event bus eventbus event bus
+VARSIG0	gaeauthenticationfailureevent gae authentication failure event requestevent request event
+METHODS	register gaeauthenticationfailureevent gae authentication failure event getassociatedtype type getloginurl login url dispatch
+MTHSIG4	dispatch handler handler
+MTHSIG0	register eventbus event bus eventbus event bus gaeauthenticationfailureevent gae authentication failure event handler handler
+MTHSIG1	gaeauthenticationfailureevent gae authentication failure event loginurl login url
+PACKAGE	top level segment
+MTHSIG2	getassociatedtype type
+MTHSIG3	getloginurl login url
+VARIABLES	requestevent request event eventbus event bus handler loginurl login url handler type loginurl login url

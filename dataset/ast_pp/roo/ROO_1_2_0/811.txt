@@ -1,0 +1,73 @@
+MTHSIG28	getargname arg
+MTHSIG29	getdatatype data type
+MTHSIG26	compareto compare javatype type
+MTHSIG27	tostring
+MTHSIG24	hashcode hash code
+MTHSIG25	equals object obj
+MTHSIG22	isarray array
+MTHSIG23	getarray array
+MTHSIG4	javatype type fullyqualifiedtypename fully qualified type javatype type enclosingtype enclosing type
+VARSIG34	object obj
+MTHSIG5	javatype type type
+VARSIG33	coretypeprefix core type prefix
+MTHSIG6	javatype type fullyqualifiedtypename fully qualified type arraydimensions array dimensions datatype data type datatype data type javasymbolname symbol argname arg list javatype type parameters
+VARSIG32	javatype type
+MTHSIG7	javatype type fullyqualifiedtypename fully qualified type javatype type enclosingtype enclosing type arraydimensions array dimensions datatype data type datatype data type javasymbolname symbol argname arg list javatype type parameters
+VARSIG31	map types
+MTHSIG0	listof list javatype type elementtype element type
+MTHSIG1	getinstance instance fullyqualifiedtypename fully qualified type arraydimensions array dimensions datatype data type datatype data type javasymbolname symbol argname arg javatype type parameters
+PACKAGE	springframework roo model
+MTHSIG2	getinstance instance fullyqualifiedtypename fully qualified type javatype type enclosingtype enclosing type arraydimensions array dimensions datatype data type datatype data type javasymbolname symbol argname arg javatype type parameters
+MTHSIG3	javatype type fullyqualifiedtypename fully qualified type
+VARSIG35	javatype type
+MTHSIG20	ismultivalued multi valued
+MTHSIG21	getparameters parameters
+MTHSIG8	getrelativefilename relative file
+VARSIG30	importregistrationresolver registration resolver resolver
+MTHSIG9	getsimpletypename simple type
+CLASSES	javatype type
+VARSIG29	staticform form
+VARSIG28	importregistrationresolver registration resolver resolver
+METHODS	listof list getinstance instance getinstance instance javatype type javatype type javatype type javatype type javatype type getrelativefilename relative file getsimpletypename simple type getfullyqualifiedtypename fully qualified type getnameincludingtypeparameters including type parameters getnameincludingtypeparameters including type parameters getnameincludingtypeparameters including type parameters getpackage getenclosingtype enclosing type isdefaultpackage isprimitive primitive iscommoncollectiontype common collection type iscoretype core type ismultivalued multi valued getparameters parameters isarray array getarray array hashcode hash code equals compareto compare tostring getargname arg getdatatype data type getarraysuffix array suffix determineenclosingtype determine enclosing type
+VARSIG23	arraydimensions array dimensions
+VARSIG22	javatype type enclosingtype enclosing type
+VARSIG21	fullyqualifiedtypename fully qualified type
+VARSIG20	list javatype type parameters
+VARSIG27	staticform form
+VARSIG26	list javatype type parameters
+VARSIG25	javasymbolname symbol argname arg
+VARSIG24	datatype data type datatype data type
+MTHSIG31	determineenclosingtype determine enclosing type
+MTHSIG30	getarraysuffix array suffix
+VARSIG7	javatype type enclosingtype enclosing type
+VARSIG6	fullyqualifiedtypename fully qualified type
+VARSIG9	datatype data type datatype data type
+VARSIG8	arraydimensions array dimensions
+VARSIG3	datatype data type datatype data type
+VARSIG2	arraydimensions array dimensions
+VARSIG5	javatype type parameters
+VARSIG4	javasymbolname symbol argname arg
+COMMENTS	declaration type details members instances immutable note type contained type formal reference type required convenient ways determine type type simple link springframework core convert converter converter offered constants link wildcard type parameters list list xxxx list fully qualified names common collection types returns link javatype type list element type elementtype element type type element list required type factory link javatype type full details recall link javatype type immutable setting values factory constructor ambiguity problems existing callers link javatype type datatype data type javasymbolname symbol list fullyqualifiedtypename fully qualified type rules arraydimensions array dimensions number array dimensions array dimensional array datatype data type link datatype data type required argname arg type argument type unassigned parameters type parameters applicable aren javatype type instance constructed based passed details factory link javatype type full details recall link javatype type immutable setting values factory constructor ambiguity problems existing callers link javatype type datatype data type javasymbolname symbol list fullyqualifiedtypename fully qualified type rules enclosingtype enclosing type type type enclosing type arraydimensions array dimensions number array dimensions array dimensional array datatype data type link datatype data type required argname arg type argument type unassigned parameters type parameters applicable aren javatype type instance constructed based passed details fields constructs link javatype type fully qualified type enforced rules listed link javasymbolname symbol assertjavanamelegal legal letter simple type upper fully qualified type include exclude designator fullyqualifiedtypename fully qualified type rules mandatory constructs link javatype type fully qualified type enforced rules listed link javasymbolname symbol assertjavanamelegal legal letter simple type upper fully qualified type include exclude designator fullyqualifiedtypename fully qualified type rules mandatory enclosingtype enclosing type type type enclosing type constructor equivalent link javatype type takes convenience type safety type create instance required construct link javatype type full details recall link javatype type immutable setting values fullyqualifiedtypename fully qualified type rules arraydimensions array dimensions number array dimensions array dimensional array datatype data type link datatype data type required argname arg type argument type unassigned parameters type parameters applicable aren construct link javatype type full details recall link javatype type immutable setting values fullyqualifiedtypename fully qualified type rules enclosingtype enclosing type type type enclosing type arraydimensions array dimensions number array dimensions array dimensional array datatype data type link datatype data type required argname arg type argument type unassigned parameters type parameters applicable aren returns source file type starting base type called foo returns foo delimited platform specific separator blank path periods empty fully qualified complies rules constructor obtains type including type parameters formatted manner compatible type resolution place side free type including parameters legal code empty obtains type including type parameters formatted manner compatible usage passed argument type names attempt resolved automatically registered passed resolver side effects passed resolver staticform form output compatible resolver resolver resolution occur type including parameters legal code empty wasn wildcard details object append isn type arg append object handle period starts capital letter enclosing type enclosing type type primitive array elements primitive type core field variable type multiple values normal convention delegating compareto compare efficiency reasons adding fields ensure equals object updated dot there there enclosing type start handling type foo bar enclosed type handle probability type alpha foo bar letter upper treat type
+VARSIG19	javasymbolname symbol argname arg
+VARSIG1	fullyqualifiedtypename fully qualified type
+VARSIG18	datatype data type datatype data type
+VARSIG0	javatype type elementtype element type
+VARSIG17	arraydimensions array dimensions
+VARSIG12	fullyqualifiedtypename fully qualified type
+VARSIG11	javatype type parameters
+VARSIG10	javasymbolname symbol argname arg
+VARSIG16	fullyqualifiedtypename fully qualified type
+VARSIG15	type
+VARSIG14	javatype type enclosingtype enclosing type
+VARSIG13	fullyqualifiedtypename fully qualified type
+MTHSIG17	isprimitive primitive
+MTHSIG18	iscommoncollectiontype common collection type
+MTHSIG15	getenclosingtype enclosing type
+MTHSIG16	isdefaultpackage
+MTHSIG13	getnameincludingtypeparameters including type parameters staticform form importregistrationresolver registration resolver resolver map types
+MTHSIG14	getpackage
+MTHSIG11	getnameincludingtypeparameters including type parameters
+MTHSIG12	getnameincludingtypeparameters including type parameters staticform form importregistrationresolver registration resolver resolver
+MTHSIG19	iscoretype core type
+MTHSIG10	getfullyqualifiedtypename fully qualified type
+VARIABLES	elementtype element type fullyqualifiedtypename fully qualified type arraydimensions array dimensions datatype data type argname arg parameters fullyqualifiedtypename fully qualified type enclosingtype enclosing type arraydimensions array dimensions datatype data type argname arg parameters fullyqualifiedtypename fully qualified type fullyqualifiedtypename fully qualified type enclosingtype enclosing type type fullyqualifiedtypename fully qualified type arraydimensions array dimensions datatype data type argname arg parameters fullyqualifiedtypename fully qualified type enclosingtype enclosing type arraydimensions array dimensions datatype data type argname arg parameters staticform form resolver staticform form resolver types coretypeprefix core type prefix obj object object object object object object object object object object primitive primitive primitive array primitive primitive primitive primitive primitive primitive primitive object wildcard wildcard wildcard core type prefixes common collection types defaultpackage arraydimensions array dimensions datatype data type argname arg parameters fullyqualifiedtypename fully qualified type simpletypename simple type enclosingtype enclosing type offset counter enclosingtypefullyqualifiedtypename enclosing type fully qualified type offset offset prime result offset possiblename offset offset enclosedwithinpackage enclosed enclosedwithintypename enclosed type pretypenameportion pre type portion

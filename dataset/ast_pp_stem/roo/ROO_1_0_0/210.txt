@@ -1,0 +1,13 @@
+VARSIG3	ioexcept except ioe 
+VARSIG2	file actual 
+VARSIG4	ioexcept except ioe 
+COMMENTS	link undoableoper undoabl oper delet file 
+CLASSES	deletefil delet file 
+VARSIG1	filenameresolv filenam resolv filenameresolv filenam resolv 
+VARSIG0	undomanag undo manag undomanag undo manag 
+METHODS	deletefil delet file reset undo 
+MTHSIG0	deletefil delet file undomanag undo manag undomanag undo manag filenameresolv filenam resolv filenameresolv filenam resolv file actual 
+MTHSIG1	reset 
+PACKAGE	springframework roo file undo intern 
+MTHSIG2	undo 
+VARIABLES	undomanag undo manag filenameresolv filenam resolv actual ioe ioe logger filenameresolv filenam resolv actual backup 

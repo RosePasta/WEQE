@@ -1,0 +1,11 @@
+MTHSIG0	getpropertynameforjavabeanmethod property bean methodmetadata metadata methodmetadata metadata
+VARSIG3	memberholdingtypedetails member holding type details holder
+MTHSIG1	getfieldforpropertyname field property memberdetails member details memberdetails member details javasymbolname symbol propertyname property
+VARSIG2	javasymbolname symbol propertyname property
+PACKAGE	springframework roo addon beaninfo
+COMMENTS	utility methods historically beaninfometadata bean info metadata obtains property javabean bean accessor mutator determined discarding letters depending set special searching actual field methodmetadata metadata search required set property returned attempts locate field represented presented property javabean bean getter setter backs field identical cases returned memberholdingtypedetails member holding type details member holders scan required propertyname property property required field couldn find property exact scan lowercase character roo
+CLASSES	beaninfoutils bean info utils
+VARIABLES	methodmetadata metadata memberdetails member details propertyname property holder result
+VARSIG1	memberdetails member details memberdetails member details
+VARSIG0	methodmetadata metadata methodmetadata metadata
+METHODS	getpropertynameforjavabeanmethod property bean getfieldforpropertyname field property

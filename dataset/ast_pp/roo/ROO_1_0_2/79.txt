@@ -1,0 +1,69 @@
+MTHSIG26	isvalid valid metadataidentificationstring metadata identification
+MTHSIG24	getjavatype type metadataidentificationstring metadata identification
+MTHSIG25	getpath path metadataidentificationstring metadata identification
+MTHSIG22	getmetadataidentifertype metadata identifer type
+MTHSIG23	createidentifier create identifier javatype type javatype type path path
+MTHSIG4	getdeletemethod delete
+VARSIG34	metadataidentificationstring metadata identification
+MTHSIG5	getlistmethod list
+VARSIG33	path path
+MTHSIG6	getshowmethod
+VARSIG32	javatype type javatype type
+MTHSIG7	getcreatemethod create
+VARSIG31	formmethod form
+MTHSIG0	webscaffoldmetadata web scaffold metadata identifier javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata metadataservice metadata service metadataservice metadata service webscaffoldannotationvalues web scaffold annotation values annotationvalues annotation values beaninfometadata bean info metadata beaninfometadata bean info metadata entitymetadata entity metadata entitymetadata entity metadata findermetadata finder metadata findermetadata finder metadata controlleroperations controller operations controlleroperations controller operations
+MTHSIG1	getidentifierforbeaninfometadata identifier bean info metadata
+PACKAGE	springframework roo addon web mvc controller
+MTHSIG2	getidentifierforentitymetadata identifier entity metadata
+VARSIG36	metadataidentificationstring metadata identification
+MTHSIG3	getannotationvalues annotation values
+VARSIG35	metadataidentificationstring metadata identification
+MTHSIG20	setupfinderdatetimeformatattributes setup finder time format attributes list javasymbolname symbol paramnames names list javatype type paramtypes types invocablememberbodybuilder invocable member body builder bodybuilder body builder formmethod form
+MTHSIG21	tostring
+MTHSIG8	getcreateformmethod create form
+VARSIG30	invocablememberbodybuilder invocable member body builder bodybuilder body builder
+MTHSIG9	getupdatemethod update
+CLASSES	webscaffoldmetadata web scaffold metadata
+VARSIG29	list javatype type paramtypes types
+VARSIG28	list javasymbolname symbol paramnames names
+METHODS	webscaffoldmetadata web scaffold metadata getidentifierforbeaninfometadata identifier bean info metadata getidentifierforentitymetadata identifier entity metadata getannotationvalues annotation values getdeletemethod delete getlistmethod list getshowmethod getcreatemethod create getcreateformmethod create form getupdatemethod update getupdateformmethod update form getfinderformmethod finder form getfindermethod finder methodexists exists getspecialdomaintypes special domain types getdatepatterns patterns isenumtype type hasmutator mutator isspecialtype special type setupdatetimeformatattributes setup time format attributes setupfinderdatetimeformatattributes setup finder time format attributes tostring getmetadataidentifertype metadata identifer type createidentifier create identifier getjavatype type getpath path isvalid valid
+VARSIG23	javatype type type
+VARSIG22	annotationmetadata annotation metadata annotation
+VARSIG21	methodmetadata metadata accessor
+VARSIG20	javatype type generictype type
+VARSIG27	invocablememberbodybuilder invocable member body builder bodybuilder body builder
+VARSIG26	javatype type javatype type
+VARSIG25	methodmetadata metadata mutator
+VARSIG24	fieldmetadata field metadata fieldmetadata field metadata
+VARSIG7	findermetadata finder metadata findermetadata finder metadata
+VARSIG6	entitymetadata entity metadata entitymetadata entity metadata
+VARSIG9	findername finder
+VARSIG8	controlleroperations controller operations controlleroperations controller operations
+VARSIG3	metadataservice metadata service metadataservice metadata service
+VARSIG2	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG5	beaninfometadata bean info metadata beaninfometadata bean info metadata
+VARSIG4	webscaffoldannotationvalues web scaffold annotation values annotationvalues annotation values
+COMMENTS	metadata link roowebscaffold roo web scaffold annotationvalues annotation values annotationvalues annotation values list check entitymetadata entity metadata getdynamicfinders dynamic finders guarantees empty list mandatory input missing roo mandatory input missing roo mandatory input missing roo mandatory input missing roo mandatory input missing roo mandatory input missing roo mandatory input missing roo mandatory input missing roo access parameter scan treat match authoritative scan superclass caller expected scan current expected won check parameters interested identifiers version fields interested fields exposed mutator interested identifiers version fields interested fields exposed mutator interested type application editor exists
+VARSIG19	methodmetadata metadata accessor
+VARSIG1	javatype type aspectname aspect
+VARSIG18	methodmetadata metadata
+VARSIG0	identifier
+VARSIG17	javasymbolname symbol methodname
+VARSIG12	javatype type type
+VARSIG11	javatype type type
+VARSIG10	javatype type type
+VARSIG16	methodmetadata metadata methodmetadata metadata
+VARSIG15	javatype type javatype type
+VARSIG14	methodmetadata metadata methodmetadata metadata
+VARSIG13	javatype type type
+MTHSIG17	hasmutator mutator fieldmetadata field metadata fieldmetadata field metadata
+MTHSIG18	isspecialtype special type javatype type javatype type
+MTHSIG15	getdatepatterns patterns
+MTHSIG16	isenumtype type javatype type type
+MTHSIG13	methodexists exists javasymbolname symbol methodname
+MTHSIG14	getspecialdomaintypes special domain types
+MTHSIG11	getfinderformmethod finder form methodmetadata metadata methodmetadata metadata
+MTHSIG12	getfindermethod finder methodmetadata metadata methodmetadata metadata
+MTHSIG19	setupdatetimeformatattributes setup time format attributes invocablememberbodybuilder invocable member body builder bodybuilder body builder
+MTHSIG10	getupdateformmethod update form
+VARIABLES	identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata metadataservice metadata service annotationvalues annotation values beaninfometadata bean info metadata entitymetadata entity metadata findermetadata finder metadata controlleroperations controller operations findername finder type type type type methodmetadata metadata javatype type methodmetadata metadata methodname accessor generictype type accessor annotation type fieldmetadata field metadata mutator javatype type bodybuilder body builder paramnames names paramtypes types bodybuilder body builder formmethod form javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification metadataidentificationstring metadata identification type type annotationvalues annotation values beaninfometadata bean info metadata entitymetadata entity metadata metadataservice metadata service specialdomaintypes special domain types controllerpath controller path entityname entity datetypes types methodname typeannotations type annotations attributes firstresultattributevalue result attribute paramannotationsfirstresult annotations result maxresultsattributevalue max attribute paramannotationsmaxresults annotations max paramtypes types paramnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations bodybuilder body builder methodname firstresultattributevalue result attribute paramannotationsfirstresult annotations result maxresultsattributevalue max attribute paramannotationsmaxresults annotations max paramtypes types paramnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations bodybuilder body builder methodname typeannotations type annotations attributes paramtypes types paramnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations bodybuilder body builder methodname typeannotations type annotations attributes noannotations annotations paramtypes types paramnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations bodybuilder body builder typeentitymetadata type entity metadata methodname paramtypes types paramnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations bodybuilder body builder typeentitymetadata type entity metadata methodname typeannotations type annotations attributes noannotations annotations paramtypes types paramnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations bodybuilder body builder typeentitymetadata type entity metadata methodname updateformmethod update form typeannotations type annotations attributes paramtypes types paramnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations bodybuilder body builder typeentitymetadata type entity metadata finderformmethodname finder form finderformmethod finder form paramtypes types paramnames names types bodybuilder body builder needmodelmap model map typeentitymetadata type entity metadata requestmappingattributes request mapping attributes requestmapping request mapping annotations findermethodname finder findermethod finder annotatedparamtypes annotated types paramnames names paramtypes types bodybuilder body builder methodparams params annotations attributes fieldname field field annotation newparamnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations specialtypes special types fieldmetadata field metadata type dates fieldmetadata field metadata type physicaltypemetadata physical type metadata details physicaltypeidentifier physical type identifier entry fieldname field field annotation stylevalue style tsc

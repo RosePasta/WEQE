@@ -1,0 +1,172 @@
+MTHSIG28	login
+MTHSIG29	loginifneeded login needed
+MTHSIG26	getserviceconfigurations service configurations
+MTHSIG27	getservices services
+MTHSIG24	getfile file appname app instanceindex instance filepath file path requestcallback request callback requestcallback request callback responseextractor response extractor responsehandler response handler
+MTHSIG25	getservice service service
+MTHSIG22	getdefaultapplicationmemory application memory framework
+MTHSIG23	getfile file appname app instanceindex instance filepath file path
+MTHSIG4	createanduploadandstartapplication create upload start application appname app framework memory file warfile war file list uris list servicenames service names
+VARSIG78	featurename feature
+MTHSIG5	createapplication create application appname app framework memory list uris list servicenames service names
+VARSIG77	appcloudexception app cloud exception
+MTHSIG6	createapplication create application appname app framework memory list uris list servicenames service names checkexists check exists
+VARSIG76	password
+MTHSIG7	createservice create service cloudservice cloud service service
+VARSIG75	email
+MTHSIG0	uaaawareappcloudclient uaa aware app cloud client product product uaaservice uaa service uaaservice uaa service cloudcredentials cloud credentials credentials clienthttprequestfactory client http request factory requestfactory request factory
+MTHSIG1	aftertransmission transmission transmissiontype transmission type type successful
+MTHSIG2	beforetransmission transmission transmissiontype transmission type type
+MTHSIG3	bindservice bind service appname app servicename service
+VARSIG79	map object jsonpayload json payload
+MTHSIG20	getcloudinfo cloud info
+VARSIG70	methodname
+MTHSIG21	getcrashes crashes appname app
+MTHSIG8	deactivate
+VARSIG74	appname app
+MTHSIG9	deleteallapplications delete applications
+VARSIG73	resultcode result code
+VARSIG72	methodname
+VARSIG71	resultcode result code
+MTHSIG39	unbindservice unbind service appname app servicename service
+MTHSIG37	startapplication start application appname app
+MTHSIG38	stopapplication application appname app
+MTHSIG35	restartapplication restart application appname app
+MTHSIG36	sha sha input
+MTHSIG33	registerfeatureuse register feature featurename feature map object jsonpayload json payload
+MTHSIG34	rename appname app newname
+METHODS	uaaawareappcloudclient uaa aware app cloud client aftertransmission transmission beforetransmission transmission bindservice bind service createanduploadandstartapplication create upload start application createapplication create application createapplication create application createservice create service deactivate deleteallapplications delete applications deleteallservices delete services deleteapplication delete application deleteservice delete service flushtouaa flush uaa getapplication application getapplicationinstances application instances getapplicationmemorychoices application memory choices getapplications applications getapplicationstats application stats getcloudcontrollerurl cloud controller url getcloudinfo cloud info getcrashes crashes getdefaultapplicationmemory application memory getfile file getfile file getservice service getserviceconfigurations service configurations getservices services login loginifneeded login needed recordhttpresult record http result recordhttpresult record http result register registerfeatureuse register feature rename restartapplication restart application sha sha startapplication start application stopapplication application unbindservice unbind service unregister updateapplicationinstances update application instances updateapplicationmemory update application memory updateapplicationservices update application services updateapplicationuris update application uris uploadapplication upload application uploadapplication upload application uploadapplication upload application
+VARSIG67	appcloudexception app cloud exception
+VARSIG66	appcloudexception app cloud exception
+VARSIG65	appcloudexception app cloud exception
+VARSIG64	service
+VARSIG69	appcloudexception app cloud exception
+VARSIG110	file warfile war file
+VARSIG68	appcloudexception app cloud exception
+VARSIG111	appcloudexception app cloud exception
+MTHSIG31	recordhttpresult record http result methodname resultcode result code appname app
+VARSIG112	appname app
+MTHSIG32	register email password
+VARSIG113	file warfile war file
+VARSIG114	uploadstatuscallback upload status callback callback
+MTHSIG30	recordhttpresult record http result methodname resultcode result code
+VARSIG115	appcloudexception app cloud exception
+VARSIG63	appcloudexception app cloud exception
+VARSIG116	appname app
+VARSIG62	responseextractor response extractor responsehandler response handler
+VARSIG117	warfilepath war file path
+VARSIG61	requestcallback request callback requestcallback request callback
+VARSIG118	appcloudexception app cloud exception
+VARSIG60	filepath file path
+COMMENTS	key sorted map http response code count response code constructor link appcloudclientfactory app cloud client factory getuaaawareinstance uaa aware instance cloudcredentials cloud credentials product link product uaaservice uaa service uaa service required credentials cloud login credentials required requestfactory request factory store app names store cloud controller url store cloud controller hostname sha create feature record cloud controller crate feature can happen sha algorithm can happen utf encoding
+VARSIG19	memory
+VARSIG18	framework
+VARSIG17	appname app
+VARSIG12	memory
+VARSIG11	framework
+VARSIG99	appcloudexception app cloud exception
+VARSIG10	appname app
+VARSIG98	instances
+VARSIG97	appname app
+VARSIG16	appcloudexception app cloud exception
+VARSIG15	list servicenames service names
+VARSIG14	list uris
+VARSIG13	file warfile war file
+VARSIG92	appcloudexception app cloud exception
+VARSIG91	appname app
+VARSIG90	appcloudexception app cloud exception
+VARSIG96	appcloudexception app cloud exception
+VARSIG95	appcloudexception app cloud exception
+VARSIG94	servicename service
+VARSIG93	appname app
+MTHSIG17	getapplications applications
+MTHSIG18	getapplicationstats application stats appname app
+MTHSIG15	getapplicationinstances application instances appname app
+MTHSIG16	getapplicationmemorychoices application memory choices
+MTHSIG13	flushtouaa flush uaa
+MTHSIG14	getapplication application appname app
+MTHSIG11	deleteapplication delete application appname app
+MTHSIG12	deleteservice delete service service
+MTHSIG19	getcloudcontrollerurl cloud controller url
+VARSIG89	appname app
+VARSIG88	unsupportedencodingexception unsupported encoding exception
+VARSIG87	nosuchalgorithmexception algorithm exception
+VARSIG86	input
+VARSIG81	appname app
+MTHSIG10	deleteallservices delete services
+VARSIG80	unsupportedencodingexception unsupported encoding exception ignore
+VARIABLES	product uaaservice uaa service credentials requestfactory request factory type successful type appname app servicename service appname app framework memory warfile war file uris servicenames service names appname app framework memory uris servicenames service names appname app framework memory uris servicenames service names checkexists check exists service appname app service appname app methodname appname app appname app appname app appname app framework appname app instanceindex instance filepath file path appname app instanceindex instance filepath file path requestcallback request callback responsehandler response handler service methodname resultcode result code methodname resultcode result code appname app email password featurename feature jsonpayload json payload ignore appname app newname appname app input appname app appname app appname app servicename service appname app instances appname app memory appname app services appname app uris appname app warfile war file appname app warfile war file callback appname app warfilepath war file path cloud foundry url cloud major version cloud minor version cloud patch version product http success code discoveredappnames discovered app names methodtoresponses responses product uaaservice uaa service resultcode result code resultcode result code resultcode result code resultcode result code resultcode result code resultcode result code resultcode result code resultcode result code resultcode result code cctype type cloudhost cloud host ccurlhashed url hashed ccjson json resultcounts result counts methodcallinfo call info resultcode result code resultcode result code resultcode result code resultcode result code resultcode result code resultcode result code resultcode result code resultcode result code resultcode result code resultcode result code resultcode result code resultcode result code resultcode result code resultcode result code resultcode result code resultcode result code countsofar count resultcode result code jsonasstring json featuretoregister feature register resultcode result code resultcode result code sha sha digest resultcode result code resultcode result code resultcode result code resultcode result code resultcode result code resultcode result code resultcode result code resultcode result code resultcode result code resultcode result code resultcode result code
+VARSIG85	appcloudexception app cloud exception
+VARSIG84	appname app
+VARSIG83	appcloudexception app cloud exception
+VARSIG82	newname
+VARSIG39	methodname
+VARSIG34	appname app
+VARSIG33	appcloudexception app cloud exception
+VARSIG32	appcloudexception app cloud exception
+VARSIG31	appcloudexception app cloud exception
+VARSIG38	appname app
+VARSIG37	appcloudexception app cloud exception
+PACKAGE	springframework roo addon cloud foundry
+VARSIG36	service
+VARSIG35	appcloudexception app cloud exception
+VARSIG30	cloudservice cloud service service
+CLASSES	uaaawareappcloudclient uaa aware app cloud client
+VARSIG29	appcloudexception app cloud exception
+VARSIG28	checkexists check exists
+VARSIG23	appname app
+VARSIG22	appcloudexception app cloud exception
+VARSIG21	list servicenames service names
+VARSIG20	list uris
+VARSIG27	list servicenames service names
+VARSIG26	list uris
+VARSIG25	memory
+VARSIG24	framework
+VARSIG7	appname app
+VARSIG109	appname app
+VARSIG6	transmissiontype transmission type type
+VARSIG9	appcloudexception app cloud exception
+VARSIG8	servicename service
+MTHSIG46	uploadapplication upload application appname app file warfile war file uploadstatuscallback upload status callback callback
+VARSIG3	clienthttprequestfactory client http request factory requestfactory request factory
+MTHSIG47	uploadapplication upload application appname app warfilepath war file path
+VARSIG2	cloudcredentials cloud credentials credentials
+MTHSIG44	updateapplicationuris update application uris appname app list uris
+VARSIG5	successful
+MTHSIG45	uploadapplication upload application appname app file warfile war file
+VARSIG4	transmissiontype transmission type type
+VARSIG1	uaaservice uaa service uaaservice uaa service
+VARSIG0	product product
+VARSIG56	filepath file path
+VARSIG55	instanceindex instance
+VARSIG54	appname app
+VARSIG53	appcloudexception app cloud exception
+VARSIG59	instanceindex instance
+VARSIG58	appname app
+VARSIG57	appcloudexception app cloud exception
+VARSIG100	appname app
+MTHSIG42	updateapplicationmemory update application memory appname app memory
+VARSIG101	memory
+MTHSIG43	updateapplicationservices update application services appname app list services
+VARSIG102	appcloudexception app cloud exception
+MTHSIG40	unregister
+VARSIG103	appname app
+MTHSIG41	updateapplicationinstances update application instances appname app instances
+VARSIG104	list services
+VARSIG52	framework
+VARSIG105	appcloudexception app cloud exception
+VARSIG51	appcloudexception app cloud exception
+VARSIG106	appname app
+VARSIG50	appname app
+VARSIG107	list uris
+VARSIG108	appcloudexception app cloud exception
+VARSIG45	appcloudexception app cloud exception
+VARSIG44	appcloudexception app cloud exception
+VARSIG43	appcloudexception app cloud exception
+VARSIG42	appname app
+VARSIG49	appcloudexception app cloud exception
+VARSIG48	appcloudexception app cloud exception
+VARSIG47	appcloudexception app cloud exception
+VARSIG46	appname app
+VARSIG41	appcloudexception app cloud exception
+VARSIG40	appname app

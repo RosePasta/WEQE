@@ -1,0 +1,15 @@
+VARSIG3	filename
+VARSIG2	expectedcontents expected contents
+COMMENTS	unit test link jpaoperationsimpl jpa operations impl constants fixture mocks object test hard ugly mock creates link inputstream input stream time read spring application context pom application context xml required fresh stream creates link inputstream input stream time read pom pom pom xml required fresh stream set existing persistence xml invoke check set existing persistence xml invoke check verifies mock link filemanager file manager asked write contents file expectedcontents expected contents contents expect written filename file expect written replace dummy terminator platform specific applied xmlutils xml utils nodetostring node
+CLASSES	jpaoperationsimpltest jpa operations impl test
+VARSIG1	pom
+VARSIG0	appcontext app context
+METHODS	setup set getappcontextinputstream app context input stream getpominputstream pom input stream testconfigurejpaforh inmemoryandhibernatefornewproject test configure jpa memory hibernate project testconfigurejpaforh inmemoryandhibernateandjndifornewproject test configure jpa memory hibernate jndi project verifyfileupdate verify file update
+MTHSIG4	testconfigurejpaforh inmemoryandhibernateandjndifornewproject test configure jpa memory hibernate jndi project
+MTHSIG5	verifyfileupdate verify file update expectedcontents expected contents filename
+MTHSIG0	setup set
+MTHSIG1	getappcontextinputstream app context input stream appcontext app context
+PACKAGE	springframework roo addon jpa
+MTHSIG2	getpominputstream pom input stream pom
+MTHSIG3	testconfigurejpaforh inmemoryandhibernatefornewproject test configure jpa memory hibernate project
+VARIABLES	appcontext app context pom expectedcontents expected contents filename application context path dialect host jndi password user persistence path persistence unit pom path transaction manager jpaoperations jpa operations dialects mockfilemanager mock file manager mockpathresolver mock path resolver mockprojectoperations mock project operations mockpropfileoperations mock prop file operations pom app context expected application context expected jndi application context expected persistence xml memory hibernate ormprovider orm provider jdbcdatabase jdbc database ormprovider orm provider jdbcdatabase jdbc database textcaptor text captor normalisedcontents normalised contents

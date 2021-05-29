@@ -1,0 +1,44 @@
+VARSIG7	javatyp type domaintyp domain type 
+VARSIG6	javatyp type javatyp type 
+VARSIG9	javatyp type type 
+VARSIG8	memberdetail member detail detail 
+VARSIG3	javatyp type domaintyp domain type 
+VARSIG2	javatyp type domaintyp domain type 
+VARSIG5	javatyp type domaintyp domain type 
+VARSIG4	javatyp type domaintyp domain type 
+COMMENTS	implement link persistencememberloc persist member locat scan presenc persist tag link memberdetail member detail domain type field updat normal persist field cach updat normal persist cach updat embed field cach updat accessor cach updat version field cach updat version accessor cach 
+VARSIG19	memberdetail member detail detail 
+VARSIG1	javatyp type domaintyp domain type 
+VARSIG18	javatyp type type 
+VARSIG0	javatyp type domaintyp domain type 
+VARSIG17	memberdetail member detail detail 
+MTHSIG4	getversionaccessor version accessor javatyp type domaintyp domain type 
+VARSIG12	memberdetail member detail detail 
+MTHSIG5	getversionfield version field javatyp type domaintyp domain type 
+VARSIG11	javatyp type type 
+MTHSIG6	haveassociatedtypeschang type chang javatyp type javatyp type 
+VARSIG10	memberdetail member detail detail 
+MTHSIG7	updatecach updat cach javatyp type domaintyp domain type 
+MTHSIG0	getembeddedidentifierfield embed identifi field javatyp type domaintyp domain type 
+VARSIG16	javatyp type type 
+MTHSIG1	getidentifiertyp identifi type javatyp type domaintyp domain type 
+VARSIG15	memberdetail member detail detail 
+PACKAGE	springframework roo classpath persist 
+MTHSIG2	getidentifieraccessor identifi accessor javatyp type domaintyp domain type 
+VARSIG14	fieldmetadata field metadata field 
+MTHSIG3	getidentifierfield identifi field javatyp type domaintyp domain type 
+VARSIG13	javatyp type type 
+MTHSIG8	populateversionaccessor popul version accessor memberdetail member detail detail javatyp type type 
+MTHSIG9	populateidaccessor popul accessor memberdetail member detail detail javatyp type type 
+MTHSIG15	getmemberdetail member detail classorinterfacetypedetail type detail typedetail type detail 
+MTHSIG13	populateversionfield popul version field memberdetail member detail detail javatyp type type 
+MTHSIG14	getmemberdetail member detail javatyp type type 
+MTHSIG11	populateidtyp popul type memberdetail member detail detail javatyp type type 
+MTHSIG12	populateidfield popul field memberdetail member detail detail javatyp type type 
+CLASSES	persistencememberlocatorimpl persist member locat impl 
+METHODS	getembeddedidentifierfield embed identifi field getidentifiertyp identifi type getidentifieraccessor identifi accessor getidentifierfield identifi field getversionaccessor version accessor getversionfield version field haveassociatedtypeschang type chang updatecach updat cach populateversionaccessor popul version accessor populateidaccessor popul accessor populateembeddedidfield popul embed field populateidtyp popul type populateidfield popul field populateversionfield popul version field getmemberdetail member detail getmemberdetail member detail 
+VARSIG22	classorinterfacetypedetail type detail typedetail type detail 
+VARSIG21	javatyp type type 
+VARSIG20	javatyp type type 
+MTHSIG10	populateembeddedidfield popul embed field memberdetail member detail detail javatyp type type 
+VARIABLES	domaintyp domain type domaintyp domain type domaintyp domain type domaintyp domain type domaintyp domain type domaintyp domain type javatyp type domaintyp domain type detail type detail type detail type field detail type detail type detail type type typedetail type detail itddiscoveryservic discoveri servic memberdetailsscann member detail scanner typelocationservic type locat servic domaintypeidfieldscach domain type field cach domaintypeidcach domain type cach domaintypeembeddedidfieldscach domain type embed field cach domaintypeversionfieldcach domain type version field cach domaintypeidaccessorcach domain type accessor cach domaintypeversionaccessorcach domain type version accessor cach domaintypedetail domain type detail memberdetail member detail versionaccessor version accessor idaccessor accessor embeddedidfield embed field memberdetail member detail idfield field embeddedidfield embed field idfield field embeddedidfield embed field versionfield version field typedetail type detail 

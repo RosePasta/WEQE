@@ -1,0 +1,17 @@
+VARSIG6	module
+VARSIG3	defaultvalue
+VARSIG2	argument
+VARSIG5	command
+VARSIG4	mandatory
+COMMENTS	set methods create actionconfig action config objects actions delivered tailor core actionconfig action config setargument set argument actionconfig action config setvalue set focusmodule focus module
+CLASSES	actionconfigfactory action config factory
+VARSIG1	defaultvalue
+VARSIG0	argument
+METHODS	defaultargumentaction argument action defaultargumentaction argument action executecommandaction execute command action executeselfaction execute action focusmoduleaction focus module action
+MTHSIG4	focusmoduleaction focus module action module
+MTHSIG0	defaultargumentaction argument action argument defaultvalue
+MTHSIG1	defaultargumentaction argument action argument defaultvalue mandatory
+PACKAGE	springframework roo addon tailor actions
+MTHSIG2	executecommandaction execute command action command
+MTHSIG3	executeselfaction execute action
+VARIABLES	argument defaultvalue argument defaultvalue mandatory command module config config config config

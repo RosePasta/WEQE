@@ -1,0 +1,21 @@
+VARSIG7	javatype type javatype type
+VARSIG6	metadataidentificationstring metadata identification
+VARSIG8	logicalpath logical path path
+VARSIG3	javatype type aspectname aspect
+VARSIG2	metadataidentificationstring metadata identification
+VARSIG5	itdfilename filename
+VARSIG4	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+COMMENTS	implementation link webfindermetadataprovider web finder metadata provider fields parse annotation expect lookup form backing object object metadata informed dependent metadata
+CLASSES	webfindermetadataproviderimpl web finder metadata provider impl
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+METHODS	activate deactivate getmetadata metadata getitduniquenessfilenamesuffix uniqueness filename suffix getgovernorphysicaltypeidentifier governor physical type identifier createlocalidentifier create local identifier getprovidestype type
+MTHSIG4	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+MTHSIG5	createlocalidentifier create local identifier javatype type javatype type logicalpath logical path path
+MTHSIG6	getprovidestype type
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo addon web mvc controller finder
+MTHSIG2	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+MTHSIG3	getitduniquenessfilenamesuffix uniqueness filename suffix
+VARIABLES	context context metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename metadataidentificationstring metadata identification javatype type path webmetadataservice web metadata service annotationvalues annotation values formbackingtype form backing type formbackingtypedetails form backing type details formbackingobjectmemberdetails form backing object member details dynamicfindermethods dynamic finder methods relatedapplicationtypemetadata application type metadata javatype type path

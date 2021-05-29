@@ -1,0 +1,24 @@
+VARSIG7	urisyntaxexception uri syntax exception
+VARSIG6	illegalstateexception illegal exception
+VARSIG9	antpathexpression ant path expression
+VARSIG8	bundlecontext bundle context context
+VARSIG3	bundlecontext bundle context context
+VARSIG2	bundle bundle
+VARSIG5	bundle bundle
+VARSIG4	path
+COMMENTS	utility methods relating osgi property stores roo working directory root path osgi bundle executes callback bundles context callback context searches bundles context entries path context bundles search path path resource locate link bundle getentry entry foo txt find foo txt root bundle failure set entries entries search successful resource simply collection uris avoid duplication collection urls can simply set urls url equals broken haven url add bundle uninstalled ignore url can converted uri ignore returns uris entries bundles urls match ant style path context context bundles search antpathexpression ant path expression pattern matching urls required search can performed set antpathmatcher ant path matcher match collection uris avoid duplication collection urls can simply set urls url equals broken url can converted uri ignore bundle uninstalled ignore returns roo working directory osgi component context componentcontext component context component context required path roo working directory constructor prevent instantiation
+CLASSES	osgiutils utils
+VARSIG1	bundlecontext bundle context context
+VARSIG0	bundlecallback bundle callback callback
+METHODS	execute findentriesbypath find entries path findentriesbypattern find entries pattern getrooworkingdirectory roo working directory osgiutils utils
+MTHSIG4	osgiutils utils
+VARSIG12	illegalstateexception illegal exception
+VARSIG11	urisyntaxexception uri syntax exception
+VARSIG10	bundle bundle
+MTHSIG0	execute bundlecallback bundle callback callback bundlecontext bundle context context
+MTHSIG1	findentriesbypath find entries path bundlecontext bundle context context path
+PACKAGE	springframework roo support osgi
+MTHSIG2	findentriesbypattern find entries pattern bundlecontext bundle context context antpathexpression ant path expression
+MTHSIG3	getrooworkingdirectory roo working directory componentcontext component context componentcontext component context
+VARSIG13	componentcontext component context componentcontext component context
+VARIABLES	callback context bundle context path bundle context antpathexpression ant path expression bundle componentcontext component context path matcher roo working directory property root path bundles urls uris url uri urls uris enumeration url uri

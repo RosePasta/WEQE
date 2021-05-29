@@ -1,0 +1,10 @@
+MTHSIG4	testidenticalexecutionswithnoconfigurationareequ test ident execut configur equal 
+MTHSIG0	setup set 
+MTHSIG1	testexecutionwithconfigurationdoesnotequalonewithout test execut configur equal 
+PACKAGE	springframework roo project 
+MTHSIG2	testgetelementforminimalexecut test element minim execut 
+MTHSIG3	testidenticalexecutionsareequ test ident execut equal 
+COMMENTS	unit test link execut fixtur set invok set invok check 
+CLASSES	executiontest execut test 
+VARIABLES	execut configur xml goal goal goal phase execut xml mockconfigur mock configur execut execut execut execut document mockconfigur mock configur execut element 
+METHODS	setup set testexecutionwithconfigurationdoesnotequalonewithout test execut configur equal testgetelementforminimalexecut test element minim execut testidenticalexecutionsareequ test ident execut equal testidenticalexecutionswithnoconfigurationareequ test ident execut configur equal 

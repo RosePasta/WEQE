@@ -1,0 +1,20 @@
+VARSIG7	element propertyelement property element
+VARSIG6	element root
+VARSIG9	
+VARSIG8	
+VARSIG3	schema schema
+VARSIG2	exception
+VARSIG5	exception
+VARSIG4	javapackage destinationpackage destination
+COMMENTS	database reverse engineering operations destination verify dbre entities user destination set complete introspection schema force refresh database actual jdbc connection change persistence xml file prevent tables created dropped
+CLASSES	dbreoperationsimpl dbre operations impl
+VARSIG1	file file
+VARSIG0	schema schema
+METHODS	isdbreavailable dbre displaydatabasemetadata display database metadata reverseengineerdatabase reverse engineer database updatepersistencexml update persistence xml setpropertyvalue set property
+MTHSIG4	setpropertyvalue set property element root element propertyelement property element
+MTHSIG0	isdbreavailable dbre
+MTHSIG1	displaydatabasemetadata display database metadata schema schema file file
+PACKAGE	springframework roo addon dbre
+MTHSIG2	reverseengineerdatabase reverse engineer database schema schema javapackage destinationpackage destination
+MTHSIG3	updatepersistencexml update persistence xml
+VARIABLES	schema file schema destinationpackage destination root propertyelement property element logger filemanager file manager pathresolver path resolver metadataservice metadata service dbremodelservice dbre model service dbredatabaselistener dbre database listener database outputstream output stream persistencepath persistence path persistencemutablefile persistence mutable file persistence root providerelement provider element provider propertyelement property element changed changed

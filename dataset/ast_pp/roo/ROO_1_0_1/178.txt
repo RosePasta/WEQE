@@ -1,0 +1,17 @@
+VARSIG3	metadataidentificationstring metadata identification
+VARSIG2	metadataidentificationstring metadata identification
+VARSIG5	metadataidentificationstring metadata identification
+VARSIG4	metadataidentificationstring metadata identification
+COMMENTS	manipulation functions link physicaltypemetadata physical type metadata
+CLASSES	physicaltypeidentifier physical type identifier
+VARSIG1	path path
+VARSIG0	javatype type javatype type
+METHODS	getmetadataidentifertype metadata identifer type createidentifier create identifier getjavatype type getpath path isvalid valid getfriendlyname friendly
+MTHSIG4	isvalid valid metadataidentificationstring metadata identification
+MTHSIG5	getfriendlyname friendly metadataidentificationstring metadata identification
+MTHSIG0	getmetadataidentifertype metadata identifer type
+MTHSIG1	createidentifier create identifier javatype type javatype type path path
+PACKAGE	springframework roo classpath
+MTHSIG2	getjavatype type metadataidentificationstring metadata identification
+MTHSIG3	getpath path metadataidentificationstring metadata identification
+VARIABLES	javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification metadataidentificationstring metadata identification metadataidentificationstring metadata identification type type

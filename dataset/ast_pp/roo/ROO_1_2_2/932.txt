@@ -1,0 +1,23 @@
+VARSIG3	existingdata existing data
+VARSIG2	exception
+MTHSIG11	testsupportssubclassofgav test supports subclass gav
+VARSIG5	completion expectedcompletions expected completions
+VARSIG4	expectedcomplete expected complete
+COMMENTS	unit test link gavconverter gav converter fixture asserts expected completions input existingdata existing data expectedcomplete expected complete expect converter report conversion complete expectedcompletions expected completions set invoke check set invoke check set invoke check
+CLASSES	gavconvertertest gav converter test
+VARSIG1	expectedmessage expected message
+VARSIG0	
+METHODS	assertinvalidstring invalid assertpossiblevalues values setup set testconvertfromemptystring test convert empty testconvertfromnull test convert testconvertfromonetoofewcoordinates test convert coordinates testconvertfromonetoomanycoordinates test convert coordinates testconvertfromvalidcoordinates test convert valid coordinates testdoesnotsupportobjects test support objects testgetallpossiblevaluesfornullinput test values input testsupportsgavs test supports testsupportssubclassofgav test supports subclass gav
+MTHSIG4	testconvertfromnull test convert
+MTHSIG5	testconvertfromonetoofewcoordinates test convert coordinates
+MTHSIG6	testconvertfromonetoomanycoordinates test convert coordinates
+MTHSIG7	testconvertfromvalidcoordinates test convert valid coordinates
+MTHSIG0	assertinvalidstring invalid expectedmessage expected message
+MTHSIG1	assertpossiblevalues values existingdata existing data expectedcomplete expected complete completion expectedcompletions expected completions
+PACKAGE	springframework roo project converter
+MTHSIG2	setup set
+MTHSIG3	testconvertfromemptystring test convert empty
+MTHSIG10	testsupportsgavs test supports
+VARIABLES	expectedmessage expected message existingdata existing data expectedcomplete expected complete expectedcompletions expected completions converter completions complete groupid group artifactid artifact version coordinates gav subclass
+MTHSIG8	testdoesnotsupportobjects test support objects
+MTHSIG9	testgetallpossiblevaluesfornullinput test values input

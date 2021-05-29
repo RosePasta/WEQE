@@ -1,0 +1,8 @@
+MTHSIG0	testclosenullclos test close closeabl 
+MTHSIG1	testclosenonnullcloseablewithouterror test close closeabl error 
+PACKAGE	springframework roo support util 
+MTHSIG2	testclosetwononnullcloseablewitherroronfirst test close closeabl error 
+COMMENTS	unit test link ioutil util shouldn except set invok check set invok check 
+CLASSES	ioutilstest util test 
+VARIABLES	mockclos mock closeabl mockclos mock closeabl mockclos mock closeabl 
+METHODS	testclosenullclos test close closeabl testclosenonnullcloseablewithouterror test close closeabl error testclosetwononnullcloseablewitherroronfirst test close closeabl error 

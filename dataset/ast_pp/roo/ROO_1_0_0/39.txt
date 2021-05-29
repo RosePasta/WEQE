@@ -1,0 +1,15 @@
+VARSIG3	ormprovider orm provider
+VARSIG2	object obj
+COMMENTS	orm providers jpa add
+CLASSES	ormprovider orm provider
+VARSIG1	adapter
+VARSIG0	provider
+METHODS	ormprovider orm provider getadapter adapter equals compareto compare tostring getkey key
+MTHSIG4	tostring
+MTHSIG5	getkey key
+MTHSIG0	ormprovider orm provider provider adapter
+MTHSIG1	getadapter adapter
+PACKAGE	springframework roo addon jpa
+MTHSIG2	equals object obj
+MTHSIG3	compareto compare ormprovider orm provider
+VARIABLES	provider adapter obj provider adapter hibernate openjpa eclipselink result tsc

@@ -1,0 +1,57 @@
+MTHSIG4	getmodulenames module names
+MTHSIG5	getrootpom root pom
+MTHSIG6	getfocusedmodule focused module
+MTHSIG7	getfocusedmodulename focused module
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	getmoduleforfileidentifier module file identifier fileidentifier file identifier
+PACKAGE	springframework roo project
+MTHSIG2	getpomfrompath pom path pompath pom path
+MTHSIG3	getpomfrommodulename pom module modulename module
+MTHSIG20	getpoms poms
+MTHSIG21	addpom add pom pom pom
+MTHSIG8	setfocusedmodule set focused module pom focusedmodule focused module
+MTHSIG9	setfocusedmodule set focused module focusedmodulepath focused module path
+CLASSES	pommanagementserviceimpl pom management service impl
+VARSIG29	
+VARSIG28	
+METHODS	activate getmoduleforfileidentifier module file identifier getpomfrompath pom path getpomfrommodulename pom module getmodulenames module names getrootpom root pom getfocusedmodule focused module getfocusedmodulename focused module setfocusedmodule set focused module setfocusedmodule set focused module updatepomcache update pom cache findunparsedpoms find unparsed poms parseunparsedpoms parse unparsed poms getmodulename module resolvepoms resolve poms resolveparentpom resolve parent pom resolvechildmodulepoms resolve child module poms resolverelativepath resolve relative path sortpommap sort pom map updateprojectmetadataformodules update project metadata modules getpoms poms addpom add pom
+VARSIG23	pompath pom path
+VARSIG22	relativepathsegment relative path segment
+VARSIG21	relativepath relative path
+VARSIG20	relativeto relative
+VARSIG27	map pom pommap pom map
+VARSIG26	pom pom
+VARSIG25	pom pom
+VARSIG24	iterable pom newpoms poms
+VARSIG7	focusedmodulepath focused module path
+VARSIG6	pom focusedmodule focused module
+VARSIG9	pomdirectory pom directory
+VARSIG8	change
+VARSIG3	modulename module
+VARSIG2	pompath pom path
+VARSIG5	pom module
+VARSIG4	pom pom
+COMMENTS	constants fields linked preserve sort order osgi lifecycle callbacks pommanagementservice pom management service methods ensures key exists test cases set service pom pom add required fields constructor pommap pom map
+VARSIG19	element module
+VARSIG1	fileidentifier file identifier
+VARSIG18	map pomset pom set
+VARSIG0	componentcontext component context context
+VARSIG17	pompath pom path
+VARSIG12	map pomset pom set
+VARSIG11	pompath pom path
+VARSIG10	element pomroot pom root
+VARSIG16	element pomroot pom root
+VARSIG15	element parentelement parent element
+VARSIG14	map pomset pom set
+VARSIG13	pompath pom path
+MTHSIG17	resolverelativepath resolve relative path relativeto relative relativepath relative path
+MTHSIG18	sortpommap sort pom map
+MTHSIG15	resolveparentpom resolve parent pom pompath pom path map pomset pom set element parentelement parent element
+MTHSIG16	resolvechildmodulepoms resolve child module poms element pomroot pom root pompath pom path map pomset pom set
+MTHSIG13	getmodulename module pomdirectory pom directory
+MTHSIG14	resolvepoms resolve poms element pomroot pom root pompath pom path map pomset pom set
+MTHSIG11	findunparsedpoms find unparsed poms
+MTHSIG12	parseunparsedpoms parse unparsed poms
+MTHSIG19	updateprojectmetadataformodules update project metadata modules iterable pom newpoms poms
+MTHSIG10	updatepomcache update pom cache
+VARIABLES	context fileidentifier file identifier pompath pom path modulename module pom module focusedmodule focused module focusedmodulepath focused module path change pomdirectory pom directory pomroot pom root pompath pom path pomset pom set pompath pom path pomset pom set parentelement parent element pomroot pom root pompath pom path pomset pom set module relativeto relative relativepath relative path relativepathsegment relative path segment pompath pom path newpoms poms pom pom pommap pom map pom relative path filemanager file manager filemonitorservice file monitor service metadatadependencyregistry metadata dependency registry metadataservice metadata service pomfactory pom factory shell tobeparsed parsed pommap pom map focusedmodulepath focused module path projectrootdirectory project root directory projectdirectory project directory startingpoint starting point pompath pom path pom modulenames module names newpoms poms pommodulemap pom module map newpoms poms iter pathtochangedpom path changed pom pomcontents pom contents rootelement root element modulename module pom normalisedrootpath normalised root path normalisedpomdirectory normalised pom directory modulename module parentelement parent element relativepath relative path parentpompath parent pom path alreadydiscovered discovered pomdocument pom document root modulename module modulepath module path alreadydiscovered discovered pomdocument pom document root relativepathsegments relative path segments backcount count path sortedpompaths sorted pom paths sortedpommap sorted pom map projectmetadataid project metadata pommap pom map

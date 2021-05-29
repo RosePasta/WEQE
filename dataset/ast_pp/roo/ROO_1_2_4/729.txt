@@ -1,0 +1,44 @@
+VARSIG7	javatype type domaintype domain type
+VARSIG6	javatype type domaintype domain type
+VARSIG9	memberdetails member details details
+VARSIG8	javatype type javatype type
+VARSIG3	javatype type domaintype domain type
+VARSIG2	javatype type domaintype domain type
+VARSIG5	javatype type type
+VARSIG4	classorinterfacetypedetails type details typedetails type details
+COMMENTS	implementation link persistencememberlocator persistence member locator scans presence persistence tags link memberdetails member details domain type update normal persistence fields cache update normal persistence cache update embedded fields cache update accessor cache update version field cache update version accessor cache
+VARSIG19	javatype type type
+VARSIG1	javatype type domaintype domain type
+VARSIG18	memberdetails member details details
+VARSIG0	javatype type domaintype domain type
+VARSIG17	javatype type type
+MTHSIG4	getmemberdetails member details classorinterfacetypedetails type details typedetails type details
+VARSIG12	memberdetails member details details
+MTHSIG5	getmemberdetails member details javatype type type
+VARSIG11	fieldmetadata field metadata field
+MTHSIG6	getversionaccessor version accessor javatype type domaintype domain type
+VARSIG10	javatype type type
+MTHSIG7	getversionfield version field javatype type domaintype domain type
+MTHSIG0	getembeddedidentifierfields embedded identifier fields javatype type domaintype domain type
+VARSIG16	memberdetails member details details
+MTHSIG1	getidentifieraccessor identifier accessor javatype type domaintype domain type
+VARSIG15	javatype type type
+PACKAGE	springframework roo classpath persistence
+MTHSIG2	getidentifierfields identifier fields javatype type domaintype domain type
+VARSIG14	memberdetails member details details
+MTHSIG3	getidentifiertype identifier type javatype type domaintype domain type
+VARSIG13	javatype type type
+MTHSIG8	haveassociatedtypeschanged types changed javatype type javatype type
+MTHSIG9	populateembeddedidfields populate embedded fields memberdetails member details details javatype type type
+MTHSIG15	updatecache update cache javatype type domaintype domain type
+MTHSIG13	populateversionaccessor populate version accessor memberdetails member details details javatype type type
+MTHSIG14	populateversionfield populate version field memberdetails member details details javatype type type
+MTHSIG11	populateidfields populate fields memberdetails member details details javatype type type
+MTHSIG12	populateidtypes populate types memberdetails member details details javatype type type
+CLASSES	persistencememberlocatorimpl persistence member locator impl
+METHODS	getembeddedidentifierfields embedded identifier fields getidentifieraccessor identifier accessor getidentifierfields identifier fields getidentifiertype identifier type getmemberdetails member details getmemberdetails member details getversionaccessor version accessor getversionfield version field haveassociatedtypeschanged types changed populateembeddedidfields populate embedded fields populateidaccessors populate accessors populateidfields populate fields populateidtypes populate types populateversionaccessor populate version accessor populateversionfield populate version field updatecache update cache
+VARSIG22	javatype type domaintype domain type
+VARSIG21	javatype type type
+VARSIG20	memberdetails member details details
+MTHSIG10	populateidaccessors populate accessors memberdetails member details details javatype type type
+VARIABLES	domaintype domain type domaintype domain type domaintype domain type domaintype domain type typedetails type details type domaintype domain type domaintype domain type javatype type details type field details type details type details type details type details type domaintype domain type itddiscoveryservice discovery service memberdetailsscanner member details scanner typelocationservice type location service domaintypeembeddedidfieldscache domain type embedded fields cache domaintypeidaccessorcache domain type accessor cache domaintypeidcache domain type cache domaintypeidfieldscache domain type fields cache domaintypeversionaccessorcache domain type version accessor cache domaintypeversionfieldcache domain type version field cache typedetails type details embeddedidfields embedded fields memberdetails member details idaccessor accessor idfields fields embeddedidfields embedded fields idfields fields embeddedidfields embedded fields versionaccessor version accessor versionfields version fields domaintypedetails domain type details memberdetails member details

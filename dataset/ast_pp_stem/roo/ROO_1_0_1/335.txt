@@ -1,0 +1,48 @@
+VARSIG7	except 
+VARSIG6	document document 
+VARSIG9	outputstream output stream outputentri output entri 
+VARSIG8	transform transform 
+VARSIG3	nodelist node list node 
+VARSIG2	outputstream output stream outputentri output entri 
+VARSIG5	outputstream output stream outputentri output entri 
+VARSIG4	transform transform 
+COMMENTS	util dom xml usag creat link streamresult stream result wrap outputentri output entri link outputstreamwrit output stream writer transform window end unix end window consist roo roo templat outputentri output entri streamresult stream result unsupportedencodingexcept unsupport encod except check root element find child element match xpath path express suppli return link element exist note xpath path parser namespac awar find element xpath path express bean http xpathexpress path express xpathexpress path express requir root parent dom element requir element discov check root element find child element match suppli return link element exist element requir root parent dom element requir element discov check root element find child element match xpath path express suppli link element exist return link element exist note xpath path parser namespac awar find element xpath path express bean http xpathexpress path express xpathexpress path express requir root parent dom element requir element discov except thrown check root element find child element match xpath path express suppli return link list link element exist note xpath path parser namespac awar find element xpath path express bean http xpathexpress path express xpathexpress path express root parent dom element link list type link element discov transform indent entri charact document builder factori setnamespaceawar set namespac awar 
+VARSIG19	len 
+VARSIG1	document document 
+VARSIG18	 
+VARSIG0	outputstream output stream outputentri output entri 
+VARSIG17	str 
+MTHSIG4	createunixstreamresultforentri creat unix stream result entri outputstream output stream outputentri output entri 
+VARSIG12	outputstream output stream outputentri output entri 
+MTHSIG5	findfirstel find element xpathexpress path express element root 
+VARSIG11	except 
+MTHSIG6	findfirstelementbynam find element element root 
+VARSIG10	nodelist node list node 
+MTHSIG7	findrequiredel find requir element xpathexpress path express element root 
+VARSIG31	parserconfigurationexcept parser configur except 
+MTHSIG0	writexml write xml outputstream output stream outputentri output entri document document 
+VARSIG16	 
+MTHSIG1	writemalformedxml write malform xml outputstream output stream outputentri output entri nodelist node list node 
+VARSIG15	len 
+PACKAGE	springframework roo support util 
+MTHSIG2	writexml write xml transform transform outputstream output stream outputentri output entri document document 
+VARSIG14	 
+MTHSIG3	writemalformedxml write malform xml transform transform outputstream output stream outputentri output entri nodelist node list node 
+VARSIG13	cbuf 
+MTHSIG8	findel find element xpathexpress path express element root 
+VARSIG30	except 
+MTHSIG9	createindentingtransform creat indent transform 
+CLASSES	xmlutil xml util 
+VARSIG29	xpathexpressionexcept path express except 
+VARSIG28	element root 
+METHODS	writexml write xml writemalformedxml write malform xml writexml write xml writemalformedxml write malform xml createunixstreamresultforentri creat unix stream result entri findfirstel find element findfirstelementbynam find element findrequiredel find requir element findel find element createindentingtransform creat indent transform getdocumentbuild document builder 
+VARSIG23	 
+VARSIG22	xpathexpressionexcept path express except 
+VARSIG21	element root 
+VARSIG20	xpathexpress path express 
+VARSIG27	xpathexpress path express 
+VARSIG26	element root 
+VARSIG25	xpathexpress path express 
+VARSIG24	element root 
+MTHSIG10	getdocumentbuild document builder 
+VARIABLES	outputentri output entri document outputentri output entri node transform outputentri output entri document transform outputentri output entri node outputentri output entri cbuf len str len xpathexpress path express root root xpathexpress path express root xpathexpress path express root compiledexpressioncach compil express cach xpath transformerfactori transform factori factori writer orig filter lengthdiff length diff rootel root element expr element element node expr xformer 

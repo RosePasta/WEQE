@@ -1,0 +1,19 @@
+VARSIG3	object acredenti credenti 
+VARSIG2	googleus googl user googleus googl user 
+VARSIG5	isauthent authent 
+VARSIG4	collect grantedauthor grant author author 
+COMMENTS	 
+CLASSES	googleauthent googl authent 
+VARSIG1	object acredenti credenti 
+VARSIG0	googleus googl user googleus googl user 
+METHODS	googleauthent googl authent googleauthent googl authent getnam getauthor author getcredenti credenti getprincip princip setauthent set authent isauthent authent 
+MTHSIG4	getcredenti credenti 
+MTHSIG5	getprincip princip 
+MTHSIG6	setauthent set authent isauthent authent 
+MTHSIG7	isauthent authent 
+MTHSIG0	googleauthent googl authent googleus googl user googleus googl user object acredenti credenti 
+MTHSIG1	googleauthent googl authent googleus googl user googleus googl user object acredenti credenti collect grantedauthor grant author author 
+PACKAGE	top level segment 
+MTHSIG2	getnam 
+MTHSIG3	getauthor author 
+VARIABLES	googleus googl user acredenti credenti googleus googl user acredenti credenti author isauthent authent serialversionuid serial version uid googleus googl user acredenti credenti isauthent authent 

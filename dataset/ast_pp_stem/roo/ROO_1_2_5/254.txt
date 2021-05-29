@@ -1,0 +1,19 @@
+VARSIG7	 
+VARSIG6	jmsprovid jm provid jmsprovid jm provid 
+VARSIG8	jmsdestinationtyp jm destin type destinationtyp destin type 
+VARSIG3	javatyp type targettyp target type 
+VARSIG2	jmsdestinationtyp jm destin type destinationtyp destin type 
+VARSIG5	async 
+VARSIG4	javasymbolnam symbol fieldnam field 
+COMMENTS	link jmsoperationsimpl jm oper impl 
+CLASSES	jmsoper jm oper 
+VARSIG1	 
+VARSIG0	javatyp type targettyp target type 
+METHODS	addjmslisten add jm listen injectjmstempl inject jm templat installjm instal jm isjmsinstallationposs jm instal ismanagejmsavail manag jm 
+MTHSIG4	ismanagejmsavail manag jm 
+MTHSIG0	addjmslisten add jm listen javatyp type targettyp target type jmsdestinationtyp jm destin type destinationtyp destin type 
+MTHSIG1	injectjmstempl inject jm templat javatyp type targettyp target type javasymbolnam symbol fieldnam field async 
+PACKAGE	springframework roo addon jm 
+MTHSIG2	installjm instal jm jmsprovid jm provid jmsprovid jm provid jmsdestinationtyp jm destin type destinationtyp destin type 
+MTHSIG3	isjmsinstallationposs jm instal 
+VARIABLES	targettyp target type destinationtyp destin type targettyp target type fieldnam field async jmsprovid jm provid destinationtyp destin type 

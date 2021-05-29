@@ -1,0 +1,8 @@
+MTHSIG0	schemaintrospector schema introspector connection connection
+MTHSIG1	getschemas schemas
+PACKAGE	springframework roo addon dbre model
+COMMENTS	returns database schemas live database connection jdbc
+CLASSES	schemaintrospector schema introspector
+VARIABLES	connection schemas
+VARSIG0	connection connection
+METHODS	schemaintrospector schema introspector getschemas schemas

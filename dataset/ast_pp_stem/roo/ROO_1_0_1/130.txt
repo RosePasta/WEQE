@@ -1,0 +1,34 @@
+VARSIG7	list javatyp type extendstyp type 
+VARSIG6	list methodmetadata metadata declaredmethod declar method 
+VARSIG9	list annotationmetadata annot metadata typeannot type annot 
+VARSIG8	list javatyp type implementstyp type 
+VARSIG3	set javatyp type registeredimport regist import 
+VARSIG2	privilegedaspect privileg aspect 
+VARSIG5	list fieldmetadata field metadata declaredfield declar field 
+VARSIG4	list constructormetadata constructor metadata declaredconstructor declar constructor 
+COMMENTS	represent link itdtypedetail type detail 
+VARSIG1	javatyp type aspect 
+VARSIG0	classorinterfacetypedetail type detail governor 
+MTHSIG4	getphysicaltypecategori physic type categori 
+VARSIG12	javatyp type aspect 
+MTHSIG5	getnam 
+VARSIG11	classorinterfacetypedetail type detail governor 
+MTHSIG6	getgovernor governor 
+VARSIG10	declaredbymetadataid declar metadata 
+MTHSIG7	getaspect aspect 
+MTHSIG0	defaultitdtypedetail type detail classorinterfacetypedetail type detail governor javatyp type aspect privilegedaspect privileg aspect set javatyp type registeredimport regist import list constructormetadata constructor metadata declaredconstructor declar constructor list fieldmetadata field metadata declaredfield declar field list methodmetadata metadata declaredmethod declar method list javatyp type extendstyp type list javatyp type implementstyp type list annotationmetadata annot metadata typeannot type annot 
+MTHSIG1	getbuild builder declaredbymetadataid declar metadata classorinterfacetypedetail type detail governor javatyp type aspect privilegedaspect privileg aspect 
+PACKAGE	springframework roo classpath detail 
+MTHSIG2	getregisteredimport regist import 
+MTHSIG3	getimplementstyp type 
+VARSIG13	privilegedaspect privileg aspect 
+MTHSIG8	isprivilegedaspect privileg aspect 
+MTHSIG9	getdeclaredconstructor declar constructor 
+MTHSIG13	gettypeannot type annot 
+MTHSIG14	tostr 
+MTHSIG11	getdeclaredmethod declar method 
+MTHSIG12	getextendstyp type 
+CLASSES	defaultitdtypedetail type detail 
+METHODS	defaultitdtypedetail type detail getbuild builder getregisteredimport regist import getimplementstyp type getphysicaltypecategori physic type categori getnam getgovernor governor getaspect aspect isprivilegedaspect privileg aspect getdeclaredconstructor declar constructor getdeclaredfield declar field getdeclaredmethod declar method getextendstyp type gettypeannot type annot tostr 
+MTHSIG10	getdeclaredfield declar field 
+VARIABLES	governor aspect privilegedaspect privileg aspect registeredimport regist import declaredconstructor declar constructor declaredfield declar field declaredmethod declar method extendstyp type implementstyp type typeannot type annot declaredbymetadataid declar metadata governor aspect privilegedaspect privileg aspect governor aspect privilegedaspect privileg aspect physicaltypecategori physic type categori declaredconstructor declar constructor declaredfield declar field declaredmethod declar method extendstyp type typeannot type annot implementstyp type registeredimport regist import tsc 

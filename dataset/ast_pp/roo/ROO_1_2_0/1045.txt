@@ -1,0 +1,12 @@
+MTHSIG4	testunequalkeyisnotequal test unequal key equal
+MTHSIG5	testunequalvalueisnotequal test unequal equal
+MTHSIG6	testotherclassisnotapair test pair
+MTHSIG0	testconstructwithnullkey test construct key
+MTHSIG1	testconstructwithnullvalue test construct
+PACKAGE	springframework roo support util
+MTHSIG2	testinstanceequalsitself test instance equals
+MTHSIG3	testequalkeyandvalueareequal test equal key equal
+COMMENTS	unit test link pair
+CLASSES	pairtest pair test
+VARIABLES	pair
+METHODS	testconstructwithnullkey test construct key testconstructwithnullvalue test construct testinstanceequalsitself test instance equals testequalkeyandvalueareequal test equal key equal testunequalkeyisnotequal test unequal key equal testunequalvalueisnotequal test unequal equal testotherclassisnotapair test pair

@@ -1,0 +1,9 @@
+MTHSIG0	regist eventbu event bu eventbu event bu 
+MTHSIG1	onauthfailur failur gaeauthenticationfailureev gae authent failur event requestev request event 
+PACKAGE	top level segment 
+COMMENTS	minim failur handler take user login 
+CLASSES	reloadonauthenticationfailur reload authent failur 
+VARIABLES	eventbu event bu requestev request event 
+VARSIG1	gaeauthenticationfailureev gae authent failur event requestev request event 
+VARSIG0	eventbu event bu eventbu event bu 
+METHODS	regist onauthfailur failur 

@@ -1,0 +1,77 @@
+VARSIG39	inputstream input stream inputstream input stream
+MTHSIG4	changeproperty change property logicalpath logical path propertyfilepath property file path propertyfilename property filename key
+VARSIG34	includevalues include values
+MTHSIG5	changeproperty change property logicalpath logical path propertyfilepath property file path propertyfilename property filename key sorted
+VARSIG33	propertyfilename property filename
+MTHSIG6	getproperties properties logicalpath logical path propertyfilepath property file path propertyfilename property filename
+VARSIG32	logicalpath logical path propertyfilepath property file path
+MTHSIG7	getproperty property logicalpath logical path propertyfilepath property file path propertyfilename property filename key
+VARSIG31	key
+MTHSIG0	addproperties add properties logicalpath logical path propertyfilepath property file path propertyfilename property filename map properties sorted changeexisting change existing
+VARSIG38	properties props
+MTHSIG1	addpropertyifnotexists add property exists logicalpath logical path propertyfilepath property file path propertyfilename property filename key
+VARSIG37	inputstream input stream inputstream input stream
+PACKAGE	springframework roo addon propfiles
+MTHSIG2	addpropertyifnotexists add property exists logicalpath logical path propertyfilepath property file path propertyfilename property filename key sorted
+VARSIG36	object key
+MTHSIG3	asmap map key
+VARSIG35	ioexception exception ioe
+MTHSIG8	getpropertykeys property logicalpath logical path propertyfilepath property file path propertyfilename property filename includevalues include values
+VARSIG30	propertyfilename property filename
+MTHSIG9	ispropertiescommandavailable properties command
+CLASSES	propfileoperationsimpl prop file operations impl
+VARSIG29	logicalpath logical path propertyfilepath property file path
+VARSIG28	object key
+METHODS	addproperties add properties addpropertyifnotexists add property exists addpropertyifnotexists add property exists asmap map changeproperty change property changeproperty change property getproperties properties getproperty property getpropertykeys property ispropertiescommandavailable properties command loadproperties load properties loadproperties load properties loadproperties load properties manageproperty manage property removeproperty remove property storeprops store props
+VARSIG23	
+VARSIG22	key
+VARSIG21	propertyfilename property filename
+VARSIG20	logicalpath logical path propertyfilepath property file path
+VARSIG27	ioexception exception ioe
+VARSIG26	propertyfilename property filename
+VARSIG25	logicalpath logical path propertyfilepath property file path
+VARSIG24	sorted
+VARSIG7	key
+VARSIG6	propertyfilename property filename
+VARSIG9	logicalpath logical path propertyfilepath property file path
+VARSIG8	
+VARSIG3	sorted
+VARSIG2	map properties
+VARSIG5	logicalpath logical path propertyfilepath property file path
+VARSIG4	changeexisting change existing
+COMMENTS	property file configuration operations override order alphabetically unable find file let create
+VARSIG19	
+VARSIG1	propertyfilename property filename
+VARSIG18	key
+VARSIG0	logicalpath logical path propertyfilepath property file path
+VARSIG17	propertyfilename property filename
+VARSIG12	
+VARSIG11	key
+VARSIG55	ioexception exception
+VARSIG10	propertyfilename property filename
+VARSIG54	comment
+VARSIG53	outputstream output stream outputstream output stream
+VARSIG16	logicalpath logical path propertyfilepath property file path
+VARSIG15	
+VARSIG14	key
+VARSIG13	sorted
+VARSIG52	properties props
+VARSIG51	key
+VARSIG50	propertyfilename property filename
+MTHSIG15	storeprops store props properties props outputstream output stream outputstream output stream comment
+MTHSIG13	manageproperty manage property logicalpath logical path propertyfilepath property file path propertyfilename property filename map properties sorted changeexisting change existing
+MTHSIG14	removeproperty remove property logicalpath logical path propertyfilepath property file path propertyfilename property filename key
+MTHSIG11	loadproperties load properties properties props inputstream input stream inputstream input stream
+MTHSIG12	loadproperties load properties filename loadingclass loading
+VARSIG45	map properties
+VARSIG44	propertyfilename property filename
+VARSIG43	logicalpath logical path propertyfilepath property file path
+VARSIG42	loadingclass loading
+VARSIG49	logicalpath logical path propertyfilepath property file path
+VARSIG48	entry entry
+VARSIG47	changeexisting change existing
+VARSIG46	sorted
+MTHSIG10	loadproperties load properties inputstream input stream inputstream input stream
+VARIABLES	propertyfilepath property file path propertyfilename property filename properties sorted changeexisting change existing propertyfilepath property file path propertyfilename property filename key propertyfilepath property file path propertyfilename property filename key sorted key propertyfilepath property file path propertyfilename property filename key propertyfilepath property file path propertyfilename property filename key sorted propertyfilepath property file path propertyfilename property filename ioe key propertyfilepath property file path propertyfilename property filename key propertyfilepath property file path propertyfilename property filename includevalues include values ioe key inputstream input stream props inputstream input stream filename loadingclass loading propertyfilepath property file path propertyfilename property filename properties sorted changeexisting change existing entry propertyfilepath property file path propertyfilename property filename key props outputstream output stream comment change existing sorted filemanager file manager projectoperations project operations properties filepath file path props result filepath file path mutablefile mutable file props filepath file path props result info properties filepath file path mutablefile mutable file props serialversionuid serial version uid saveneeded save needed key newvalue existingvalue existing filepath file path mutablefile mutable file props
+VARSIG41	filename
+VARSIG40	ioexception exception

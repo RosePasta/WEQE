@@ -1,0 +1,10 @@
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+VARSIG2	serviceregistration service registration registration
+PACKAGE	springframework roo uaa
+COMMENTS	registers uaa instances osgi components uaa factories conventions simplifies replacement sts fields
+CLASSES	uaarelatedcomponentregistrationhelper uaa component registration helper
+VARIABLES	context context registration registrations
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+METHODS	activate deactivate

@@ -1,0 +1,18 @@
+VARSIG7	addonfind add finder finder 
+VARSIG6	addonfind add finder finder 
+VARSIG3	addonfind add finder finder 
+VARSIG2	criteria 
+VARSIG5	bsn 
+VARSIG4	sortedmap sort map result 
+COMMENTS	implement link addonsearchmanag add search manag 
+CLASSES	addonsearchmanagerimpl add search manag impl 
+VARSIG1	addonfind add finder finder 
+VARSIG0	criteria 
+METHODS	completeaddonsearch complet add search completeaddonsearch complet add search printresult print result bindfind bind finder unbindfind unbind finder 
+MTHSIG4	unbindfind unbind finder addonfind add finder finder 
+MTHSIG0	completeaddonsearch complet add search criteria 
+MTHSIG1	completeaddonsearch complet add search criteria addonfind add finder finder 
+PACKAGE	springframework roo obr intern 
+MTHSIG2	printresult print result sortedmap sort map result 
+MTHSIG3	bindfind bind finder addonfind add finder finder 
+VARIABLES	criteria finder criteria finder result bsn finder finder mutex finder logger result result 

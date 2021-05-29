@@ -1,0 +1,21 @@
+VARSIG7	outputstream output stream outputstream output stream
+VARSIG6	database database
+VARSIG8	displayonly display
+VARSIG3	view
+VARSIG2	schema schema
+VARSIG5	set excludetables exclude tables
+VARSIG4	set includetables include tables
+COMMENTS	retrieves database metadata xml file jdbc connection determines database schemas examples databases schemas mysql sql firebird displayaddons display add ons display add ons required database supports schema runtimeexception runtime exception problem acquiring connection returns set database link schema schemas displayaddons display add ons display add ons required set schemas reads database metadata dbre xml note xml file store database database metadata parsed unavailable reason retrieves database metadata cache database metadata unavailable reason returns identifier dbre xml file representing path dbre xml file retrieves database metadata jdbc connection schema schema query required view database views retrieved includetables include tables set table names include excludetables exclude tables set table names exlude database metadata connect database schema writes database metadata output stream responsibility caller close output stream finished database database metadata required outputstream output stream output stream write required displayonly display serialization operation instrospection purposes roo managed dbre xml file
+CLASSES	dbremodelservice dbre model service
+VARSIG1	displayaddons display add ons
+VARSIG0	displayaddons display add ons
+METHODS	supportsschema supports schema getschemas schemas getdatabase database getdatabasefromcache database cache getdbrexmlpath dbre xml path refreshdatabase refresh database serializedatabase serialize database
+MTHSIG4	getdbrexmlpath dbre xml path
+MTHSIG5	refreshdatabase refresh database schema schema view set includetables include tables set excludetables exclude tables
+MTHSIG6	serializedatabase serialize database database database outputstream output stream outputstream output stream displayonly display
+MTHSIG0	supportsschema supports schema displayaddons display add ons
+MTHSIG1	getschemas schemas displayaddons display add ons
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	getdatabase database
+MTHSIG3	getdatabasefromcache database cache
+VARIABLES	displayaddons display add ons displayaddons display add ons schema view includetables include tables excludetables exclude tables database outputstream output stream displayonly display

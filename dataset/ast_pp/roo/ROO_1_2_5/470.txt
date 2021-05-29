@@ -1,0 +1,11 @@
+MTHSIG0	createtailorconfiguration create tailor configuration
+MTHSIG1	activate componentcontext component context context
+VARSIG2	msg
+PACKAGE	springframework roo addon tailor config xml
+MTHSIG2	logtailorxmlinvalid log tailor xml invalid msg
+COMMENTS	factory create tailorconfiguration tailor configuration xml configuration file named tailor xml shell root sample file invalid tailor xml file crash shell osgi component methods load root project directory startup shell object shell gethome running roo test mode pathresolver path resolver config file project created
+CLASSES	xmltailorconfigurationfactory xml tailor configuration factory
+VARIABLES	context msg logger filemanager file manager shellrootpath shell root path configfileidentifier config file identifier readxml read xml root shelldirectory shell directory
+VARSIG1	componentcontext component context context
+VARSIG0	exception
+METHODS	createtailorconfiguration create tailor configuration activate logtailorxmlinvalid log tailor xml invalid

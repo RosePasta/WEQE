@@ -1,0 +1,19 @@
+VARSIG7	ioexception exception
+VARSIG6	reason
+VARSIG9	throwable ignore
+VARSIG8	ioexception exception
+VARSIG3	undomanager undo manager undomanager undo manager
+VARSIG2	file directory
+VARSIG5	file directory
+VARSIG4	filenameresolver filename resolver filenameresolver filename resolver
+COMMENTS	link undoableoperation undoable operation delete directory constructor doesn reason undomanager undo manager required filenameresolver filename resolver required directory directory delete existing directory file constructor reason constructor reason undomanager undo manager required filenameresolver filename resolver required directory directory delete existing directory file reason reason directory directory deletion blank roo
+CLASSES	deletedirectory delete directory
+VARSIG1	filenameresolver filename resolver filenameresolver filename resolver
+VARSIG0	undomanager undo manager undomanager undo manager
+METHODS	deletedirectory delete directory deletedirectory delete directory reset undo
+MTHSIG0	deletedirectory delete directory undomanager undo manager undomanager undo manager filenameresolver filename resolver filenameresolver filename resolver file directory
+MTHSIG1	deletedirectory delete directory undomanager undo manager undomanager undo manager filenameresolver filename resolver filenameresolver filename resolver file directory reason
+PACKAGE	springframework roo file undo
+MTHSIG2	reset
+MTHSIG3	undo
+VARIABLES	undomanager undo manager filenameresolver filename resolver directory undomanager undo manager filenameresolver filename resolver directory reason ignore logger temp directory actual backup filenameresolver filename resolver deletionmessage deletion message success success

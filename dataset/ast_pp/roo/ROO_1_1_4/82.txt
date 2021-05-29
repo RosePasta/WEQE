@@ -1,0 +1,24 @@
+VARSIG7	subject
+VARSIG6	
+VARSIG9	javasymbolname symbol fieldname field
+VARSIG8	javatype type targettype target type
+VARSIG3	encoding
+VARSIG2	port
+VARSIG5	password
+VARSIG4	username
+COMMENTS	implementation link mailoperationsimpl mail operations impl physical type mutable details create content user started
+CLASSES	mailoperationsimpl mail operations impl
+VARSIG1	mailprotocol mail protocol protocol
+VARSIG0	hostserver host server
+METHODS	isinstallemailavailable install email ismanageemailavailable manage email getcontextpath context path installemail install email configuretemplatemessage configure template message injectemailtemplate inject email template updateconfiguration update configuration
+MTHSIG4	configuretemplatemessage configure template message subject
+MTHSIG5	injectemailtemplate inject email template javatype type targettype target type javasymbolname symbol fieldname field async
+VARSIG11	element dependencyelement dependency element
+MTHSIG6	updateconfiguration update configuration
+VARSIG10	async
+MTHSIG0	isinstallemailavailable install email
+MTHSIG1	ismanageemailavailable manage email
+PACKAGE	springframework roo addon email
+MTHSIG2	getcontextpath context path
+MTHSIG3	installemail install email hostserver host server mailprotocol mail protocol protocol port encoding username password
+VARIABLES	hostserver host server protocol port encoding username password subject targettype target type fieldname field async dependencyelement dependency element filemanager file manager metadataservice metadata service projectoperations project operations propfileoperations prop file operations contextpath context path document root installdependencies install dependencies props mailbean mail bean property pelement element pelement element pelement element pelement element pelement element javamailproperties mail properties securityprops security props prop prop prop contextpath context path document root props smmbean smm bean smmproperty smm property smmproperty smm property annotations declaredbymetadataid declared metadata ptm ptd mutabletypedetails mutable type details modifier fieldbuilder field builder contextpath context path document root smmbean smm bean bodybuilder body builder smmannotations smm annotations paramtypes types paramnames names smmfieldbuilder smm field builder methodbuilder builder configuration dependencies emaildependencies email dependencies

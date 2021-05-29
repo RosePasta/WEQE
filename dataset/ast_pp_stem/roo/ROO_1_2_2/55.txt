@@ -1,0 +1,37 @@
+VARSIG7	javatyp type annotationtyp annot type 
+VARSIG6	memberholdingtypedetail member hold type detail type 
+VARSIG9	memberholdingtypedetail member hold type detail annotatedtyp annot type 
+VARSIG8	javasymbolnam symbol attributenam attribut 
+VARSIG3	tablenam tabl 
+VARSIG2	iter classorinterfacetypedetail type detail managedent manag entiti 
+VARSIG5	classorinterfacetypedetail type detail managedent manag entiti 
+VARSIG4	schemanam schema 
+COMMENTS	method find type base tabl name type field name tabl column name annot attribut read schema link preserv iter order annot attribut read tabl link preserv iter order locat type present tabl managedent manag entiti set databas manag entiti search requir tabl tabl locat requir type locat type present tabl managedent manag entiti set databas manag entiti search requir tablenam tabl tabl locat requir schemanam schema tabl tabl schema type return attribut annot type expect annot type type type annot read requir annotationtyp annot type annot read requir attributenam attribut annot attribut read requir read attribut annot type return blank annotatedtyp annot type type read annot requir annotationattribut annot attribut annot attribut pair read type annot provid blank schema return databas schema entiti entitydetail entiti detail type search requir schema return databas tabl entiti entitydetail entiti detail type search requir tabl return field databas tabl column tabl column requir repres tabl column return field databas tabl tabl tabl requir repres tabl column return javatyp type tabl ident tablenam tabl tabl convert requir javapackag type javatyp type 
+VARSIG19	tablenam tabl 
+VARSIG1	tabl tabl 
+VARSIG18	str 
+VARSIG0	iter classorinterfacetypedetail type detail managedent manag entiti 
+VARSIG17	tabl tabl 
+MTHSIG4	getnam str isfield field 
+VARSIG12	str 
+MTHSIG5	getschemanam schema memberholdingtypedetail member hold type detail entitydetail entiti detail 
+VARSIG11	entri javatyp type javasymbolnam symbol entri 
+MTHSIG6	gettablenam tabl memberholdingtypedetail member hold type detail entitydetail entiti detail 
+VARSIG10	map javatyp type javasymbolnam symbol annotationattribut annot attribut 
+MTHSIG7	suggestfieldnam field 
+MTHSIG0	findtypefort find type tabl iter classorinterfacetypedetail type detail managedent manag entiti tabl tabl 
+VARSIG16	 
+MTHSIG1	findtypefortablenam find type tabl iter classorinterfacetypedetail type detail managedent manag entiti tablenam tabl schemanam schema 
+VARSIG15	memberholdingtypedetail member hold type detail entitydetail entiti detail 
+PACKAGE	springframework roo addon dbre 
+MTHSIG2	getannotationattribut annot attribut memberholdingtypedetail member hold type detail type javatyp type annotationtyp annot type javasymbolnam symbol attributenam attribut 
+VARSIG14	memberholdingtypedetail member hold type detail entitydetail entiti detail 
+MTHSIG3	getfirstnonblankattributevalu blank attribut memberholdingtypedetail member hold type detail annotatedtyp annot type map javatyp type javasymbolnam symbol annotationattribut annot attribut 
+VARSIG13	isfield field 
+MTHSIG8	suggestfieldnam field tabl tabl 
+MTHSIG9	suggestpackagenam str 
+CLASSES	dbretypeutil dbre type util 
+METHODS	findtypefort find type tabl findtypefortablenam find type tabl getannotationattribut annot attribut getfirstnonblankattributevalu blank attribut getnam getschemanam schema gettablenam tabl suggestfieldnam field suggestfieldnam field suggestpackagenam suggesttypenamefornewt type tabl 
+VARSIG20	javapackag javapackag 
+MTHSIG10	suggesttypenamefornewt type tabl tablenam tabl javapackag javapackag 
+VARIABLES	managedent manag entiti tabl managedent manag entiti tablenam tabl schemanam schema managedent manag entiti type annotationtyp annot type attributenam attribut annotatedtyp annot type annotationattribut annot attribut entri str isfield field entitydetail entiti detail entitydetail entiti detail tabl str tablenam tabl javapackag attribut schema attribut schema attribut tabl attribut tabl attribut managedschemanam manag schema typeannot type annot attributevalu attribut attributevalu attribut result isdelimchar delim result result 

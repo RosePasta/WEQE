@@ -1,0 +1,19 @@
+MTHSIG13	testaddsecurityconstraint test add security constraint
+MTHSIG11	testaddexceptiontype test add exception type
+MTHSIG12	testadderrorcode test add error code
+COMMENTS	unit tests link webxmlutils web xml utils
+CLASSES	webxmlutilstest web xml utils test
+METHODS	setup set testsetdisplayname test set display testsetdescription test set description testaddcontextparam test add context testaddfilter test add filter testaddfilteratpositionwithdispatcher test add filter position dispatcher testaddfilteratposition test add filter position testaddlistener test add listener testaddservlet test add servlet testsetsessiontimeout test set session timeout testaddwelcomefile test add file testaddexceptiontype test add exception type testadderrorcode test add error code testaddsecurityconstraint test add security constraint
+MTHSIG4	testaddfilter test add filter
+MTHSIG5	testaddfilteratpositionwithdispatcher test add filter position dispatcher
+MTHSIG6	testaddfilteratposition test add filter position
+MTHSIG7	testaddlistener test add listener
+MTHSIG0	setup set
+MTHSIG1	testsetdisplayname test set display
+PACKAGE	springframework roo support util
+MTHSIG2	testsetdescription test set description
+MTHSIG3	testaddcontextparam test add context
+MTHSIG10	testaddwelcomefile test add file
+VARIABLES	webxml web xml builder displayelement display element descriptionelement description element contextparamelement context element filterelement filter element filtermapping filter mapping initparams init params filterelement filter element filtermapping filter mapping dispatchers filterelements filter elements filtermappings filter mappings listenerelement listener element servletelement servlet element servletmapping servlet mapping initparams init params timeelement time element welcomefileelement file element errorpageelement error element errorpageelement error element securityconstraintelement security constraint element webresourcecollection web resource collection authconstraint constraint userdataconstraint user data constraint
+MTHSIG8	testaddservlet test add servlet
+MTHSIG9	testsetsessiontimeout test set session timeout

@@ -1,0 +1,69 @@
+MTHSIG26	getenclosingtypename enclosing type
+MTHSIG24	getimports imports
+MTHSIG25	getinnertypes types
+MTHSIG22	flush
+MTHSIG23	getcompilationunitpackage compilation unit
+MTHSIG4	getphysicaltypecategory physical type category
+VARSIG34	methodmetadata metadata candidate
+MTHSIG5	getname
+VARSIG33	fieldmetadata field metadata candidate
+MTHSIG6	getdeclaredconstructors declared constructors
+VARSIG32	javasymbolname symbol constant
+MTHSIG7	getenumconstants constants
+VARSIG31	annotationmetadata annotation metadata candidate
+MTHSIG0	javaparsermutableclassorinterfacetypedetails parser mutable type details compilationunit compilation unit compilationunit compilation unit typedeclaration type declaration typedeclaration type declaration filemanager file manager filemanager file manager declaredbymetadataid declared metadata fileidentifier file identifier javatype type typename type metadataservice metadata service metadataservice metadata service physicaltypemetadataprovider physical type metadata provider physicaltypemetadataprovider physical type metadata provider
+MTHSIG1	getdeclaredbymetadataid declared metadata
+PACKAGE	springframework roo classpath javaparser
+MTHSIG2	getmodifier modifier
+VARSIG36	ioexception exception ioe
+MTHSIG3	getsuperclass superclass
+VARSIG35	ioexception exception ioe
+MTHSIG20	createtype create type filemanager file manager filemanager file manager classorinterfacetypedetails type details cit fileidentifier file identifier
+MTHSIG21	tostring
+MTHSIG8	getdeclaredfields declared fields
+VARSIG30	javatype type current
+MTHSIG9	getdeclaredmethods declared methods
+CLASSES	javaparsermutableclassorinterfacetypedetails parser mutable type details
+VARSIG29	javatype type current
+VARSIG28	fileidentifier file identifier
+METHODS	javaparsermutableclassorinterfacetypedetails parser mutable type details getdeclaredbymetadataid declared metadata getmodifier modifier getsuperclass superclass getphysicaltypecategory physical type category getname getdeclaredconstructors declared constructors getenumconstants constants getdeclaredfields declared fields getdeclaredmethods declared methods getextendstypes types getimplementstypes types gettypeannotations type annotations addtypeannotation add type annotation removetypeannotation remove type annotation addfield add field addenumconstant add constant addenumconstant add constant removefield remove field addmethod add createtype create type tostring flush getcompilationunitpackage compilation unit getimports imports getinnertypes types getenclosingtypename enclosing type
+VARSIG23	permitflush permit flush
+VARSIG22	javasymbolname symbol
+VARSIG21	list enumconstantdeclaration constant declaration constants
+VARSIG20	compilationunitservices compilation unit services compilationunitservices compilation unit services
+VARSIG27	classorinterfacetypedetails type details cit
+VARSIG26	filemanager file manager filemanager file manager
+VARSIG25	methodmetadata metadata methodmetadata metadata
+VARSIG24	javasymbolname symbol fieldname field
+VARSIG7	physicaltypemetadataprovider physical type metadata provider physicaltypemetadataprovider physical type metadata provider
+VARSIG6	metadataservice metadata service metadataservice metadata service
+VARSIG9	classorinterfacetype type candidate
+VARSIG8	javatype type
+VARSIG3	declaredbymetadataid declared metadata
+VARSIG2	filemanager file manager filemanager file manager
+VARSIG5	javatype type typename type
+VARSIG4	fileidentifier file identifier
+COMMENTS	parser implementation link mutableclassorinterfacetypedetails mutable type details immutable constructed passed constructor computed constructor satisfy internal determine type adding type parameters revert original type avoiding unnecessary inferences lang types roo verify declaration appears correct convert parser modifier jdk modifier type parameters fortunately type names top level superclass finished declaring type introspect types referred body members defer illegal refer type signature enclosing type type determine location insert create compilation unit store type created create declaration represent actual type superclass handling handling add declaration compilation unit create compilation unit javatype type metadata methods add type annotations add constants add fields add methods write disk
+VARSIG19	javasymbolname symbol
+VARSIG1	typedeclaration type declaration typedeclaration type declaration
+VARSIG18	fieldmetadata field metadata fieldmetadata field metadata
+VARSIG0	compilationunit compilation unit compilationunit compilation unit
+VARSIG17	javatype type annotationtype annotation type
+VARSIG12	annotationexpr annotation expr candidate
+VARSIG11	classorinterfacetype type candidate
+VARSIG10	enumconstantdeclaration constant declaration enumconstants constants
+VARSIG16	annotationmetadata annotation metadata annotation
+VARSIG15	variabledeclarator variable declarator
+VARSIG14	bodydeclaration body declaration member
+VARSIG13	bodydeclaration body declaration bodydeclaration body declaration
+MTHSIG17	addenumconstant add constant compilationunitservices compilation unit services compilationunitservices compilation unit services list enumconstantdeclaration constant declaration constants javasymbolname symbol permitflush permit flush
+MTHSIG18	removefield remove field javasymbolname symbol fieldname field
+MTHSIG15	addfield add field fieldmetadata field metadata fieldmetadata field metadata
+MTHSIG16	addenumconstant add constant javasymbolname symbol
+MTHSIG13	addtypeannotation add type annotation annotationmetadata annotation metadata annotation
+MTHSIG14	removetypeannotation remove type annotation javatype type annotationtype annotation type
+MTHSIG11	getimplementstypes types
+MTHSIG12	gettypeannotations type annotations
+MTHSIG19	addmethod add methodmetadata metadata methodmetadata metadata
+MTHSIG10	getextendstypes types
+VARIABLES	compilationunit compilation unit typedeclaration type declaration filemanager file manager declaredbymetadataid declared metadata fileidentifier file identifier typename type metadataservice metadata service physicaltypemetadataprovider physical type metadata provider candidate enumconstants constants candidate candidate bodydeclaration body declaration member annotation annotationtype annotation type fieldmetadata field metadata compilationunitservices compilation unit services constants permitflush permit flush fieldname field methodmetadata metadata filemanager file manager cit fileidentifier file identifier current current candidate constant candidate candidate ioe ioe filemanager file manager fileidentifier file identifier declaredbymetadataid declared metadata physicaltypecategory physical type category declaredconstructors declared constructors declaredfields declared fields declaredmethods declared methods superclass extendstypes types implementstypes types typeannotations type annotations enumconstants constants clazz enumclazz clazz compilationunit compilation unit imports compilationunitpackage compilation unit typeparameternames type parameter names innertypes types unsupported message prefix modifier compilationunitservices compilation unit services newname arg extendslist list javatype type superclass superclassid superclass superptm ptm constants implementslist list javatype type annotationslist annotations list members castmember member castmember member castmember member annotations annotations members constants newentry entry members members compilationunit compilation unit javaparsermodifier parser modifier typedeclaration type declaration isinterface classorinterfacedeclaration declaration extendslist list nameexpr expr resolvedname resolved implementslist list nameexpr expr resolvedname resolved types compilationunitservices compilation unit services annotations enumdeclaration declaration constants mutablefile mutable file tsc compilationunitinputstream compilation unit input stream mutablefile mutable file

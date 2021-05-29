@@ -1,0 +1,77 @@
+VARSIG39	object key
+MTHSIG4	changeproperty change property logicalpath logical path propertyfilepath property file path propertyfilename property filename key
+VARSIG34	key
+MTHSIG5	changeproperty change property logicalpath logical path propertyfilepath property file path propertyfilename property filename key sorted
+VARSIG33	propertyfilename property filename
+MTHSIG6	manageproperty manage property logicalpath logical path propertyfilepath property file path propertyfilename property filename map properties sorted changeexisting change existing
+VARSIG32	logicalpath logical path propertyfilepath property file path
+MTHSIG7	removeproperty remove property logicalpath logical path propertyfilepath property file path propertyfilename property filename key
+VARSIG31	key
+MTHSIG0	ispropertiescommandavailable properties command
+VARSIG38	ioexception exception ioe
+MTHSIG1	addproperties add properties logicalpath logical path propertyfilepath property file path propertyfilename property filename map properties sorted changeexisting change existing
+VARSIG37	includevalues include values
+PACKAGE	springframework roo addon propfiles
+MTHSIG2	addpropertyifnotexists add property exists logicalpath logical path propertyfilepath property file path propertyfilename property filename key
+VARSIG36	propertyfilename property filename
+MTHSIG3	addpropertyifnotexists add property exists logicalpath logical path propertyfilepath property file path propertyfilename property filename key sorted
+VARSIG35	logicalpath logical path propertyfilepath property file path
+MTHSIG8	getproperty property logicalpath logical path propertyfilepath property file path propertyfilename property filename key
+VARSIG30	propertyfilename property filename
+MTHSIG9	getpropertykeys property logicalpath logical path propertyfilepath property file path propertyfilename property filename includevalues include values
+CLASSES	propfileoperationsimpl prop file operations impl
+VARSIG29	logicalpath logical path propertyfilepath property file path
+VARSIG28	entry entry
+METHODS	ispropertiescommandavailable properties command addproperties add properties addpropertyifnotexists add property exists addpropertyifnotexists add property exists changeproperty change property changeproperty change property manageproperty manage property removeproperty remove property getproperty property getpropertykeys property getproperties properties loadproperties load properties loadproperties load properties asmap map storeprops store props loadproperties load properties
+VARSIG23	logicalpath logical path propertyfilepath property file path
+VARSIG22	sorted
+VARSIG21	
+VARSIG20	key
+VARSIG27	changeexisting change existing
+VARSIG26	sorted
+VARSIG25	map properties
+VARSIG24	propertyfilename property filename
+VARSIG7	key
+VARSIG6	propertyfilename property filename
+VARSIG9	logicalpath logical path propertyfilepath property file path
+VARSIG8	
+VARSIG3	sorted
+VARSIG2	map properties
+VARSIG5	logicalpath logical path propertyfilepath property file path
+VARSIG4	changeexisting change existing
+COMMENTS	property file configuration operations constants fields override order alphabetically unable find file let create
+VARSIG19	propertyfilename property filename
+VARSIG1	propertyfilename property filename
+VARSIG18	logicalpath logical path propertyfilepath property file path
+VARSIG0	logicalpath logical path propertyfilepath property file path
+VARSIG17	
+VARSIG12	
+VARSIG11	key
+VARSIG55	loadingclass loading
+VARSIG10	propertyfilename property filename
+VARSIG54	filename
+VARSIG53	ioexception exception
+VARSIG16	key
+VARSIG15	propertyfilename property filename
+VARSIG14	logicalpath logical path propertyfilepath property file path
+VARSIG13	sorted
+VARSIG52	comment
+VARSIG51	outputstream output stream outputstream output stream
+VARSIG50	properties props
+MTHSIG15	loadproperties load properties filename loadingclass loading
+MTHSIG13	asmap map key
+MTHSIG14	storeprops store props properties props outputstream output stream outputstream output stream comment
+MTHSIG11	loadproperties load properties inputstream input stream inputstream input stream
+MTHSIG12	loadproperties load properties properties props inputstream input stream inputstream input stream
+VARSIG45	properties props
+VARSIG44	inputstream input stream inputstream input stream
+VARSIG43	object key
+VARSIG42	ioexception exception ioe
+VARSIG49	
+VARSIG48	key
+VARSIG47	ioexception exception
+VARSIG46	inputstream input stream inputstream input stream
+MTHSIG10	getproperties properties logicalpath logical path propertyfilepath property file path propertyfilename property filename
+VARIABLES	propertyfilepath property file path propertyfilename property filename properties sorted changeexisting change existing propertyfilepath property file path propertyfilename property filename key propertyfilepath property file path propertyfilename property filename key sorted propertyfilepath property file path propertyfilename property filename key propertyfilepath property file path propertyfilename property filename key sorted propertyfilepath property file path propertyfilename property filename properties sorted changeexisting change existing entry propertyfilepath property file path propertyfilename property filename key propertyfilepath property file path propertyfilename property filename key propertyfilepath property file path propertyfilename property filename includevalues include values ioe key propertyfilepath property file path propertyfilename property filename ioe key inputstream input stream props inputstream input stream key props outputstream output stream comment filename loadingclass loading sorted change existing filemanager file manager projectoperations project operations filepath file path mutablefile mutable file props serialversionuid serial version uid saveneeded save needed key newvalue existingvalue existing filepath file path mutablefile mutable file props filepath file path mutablefile mutable file props filepath file path props result info filepath file path props result properties properties
+VARSIG41	propertyfilename property filename
+VARSIG40	logicalpath logical path propertyfilepath property file path

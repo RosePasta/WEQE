@@ -1,0 +1,16 @@
+COMMENTS	values link rooservice roo service annotation fields constructor governorphysicaltypemetadata governor physical type metadata parse required
+CLASSES	serviceannotationvalues service annotation values
+VARSIG0	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+METHODS	serviceannotationvalues service annotation values getdomaintypes domain types getcountallmethod count getfindmethod find getfindallmethod find getfindentriesmethod find entries getsavemethod save getupdatemethod update getdeletemethod delete istransactional transactional
+MTHSIG4	getfindallmethod find
+MTHSIG5	getfindentriesmethod find entries
+MTHSIG6	getsavemethod save
+MTHSIG7	getupdatemethod update
+MTHSIG0	serviceannotationvalues service annotation values physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+MTHSIG1	getdomaintypes domain types
+PACKAGE	springframework roo addon layers service
+MTHSIG2	getcountallmethod count
+MTHSIG3	getfindmethod find
+VARIABLES	governorphysicaltypemetadata governor physical type metadata domaintypes domain types countallmethod count deletemethod delete findallmethod find findentriesmethod find entries findmethod find savemethod save updatemethod update transactional
+MTHSIG8	getdeletemethod delete
+MTHSIG9	istransactional transactional

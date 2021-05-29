@@ -1,0 +1,45 @@
+VARSIG7	jdbcdatabas jdbc databas databas 
+VARSIG6	jndi 
+VARSIG9	except 
+VARSIG8	jndi 
+VARSIG3	projectoper project oper projectoper project oper 
+VARSIG2	metadataservic metadata servic metadataservic metadata servic 
+VARSIG5	jdbcdatabas jdbc databas databas 
+VARSIG4	ormprovid orm provid ormprovid orm provid 
+COMMENTS	jpa configur oper respons manag jpa artifact meta inf persist xml applicationcontext applic context xml databas properti project pom xml ormprovid orm provid orm provid select hibern openjpa open jpa eclipselink link databas databas hsql mysql sql check exist configur abort hard code jpa hibern valid add provid element add properti 
+VARSIG19	element depend 
+VARSIG1	pathresolv path resolv pathresolv path resolv 
+VARSIG18	element depend 
+VARSIG0	filemanag file manag filemanag file manag 
+VARSIG17	element depend 
+MTHSIG4	updateapplicationcontext updat applic context jdbcdatabas jdbc databas databas jndi 
+VARSIG12	ioexcept except ioe 
+MTHSIG5	updatedatabaseproperti updat databas properti jdbcdatabas jdbc databas databas 
+VARSIG11	ioexcept except ioe 
+MTHSIG6	updatedepend updat depend ormprovid orm provid ormprovid orm provid jdbcdatabas jdbc databas databas 
+VARSIG10	jdbcdatabas jdbc databas databas 
+MTHSIG7	updatepersistencexml updat persist xml ormprovid orm provid ormprovid orm provid jdbcdatabas jdbc databas databas 
+MTHSIG0	jpaoper jpa oper filemanag file manag filemanag file manag pathresolv path resolv pathresolv path resolv metadataservic metadata servic metadataservic metadata servic projectoper project oper projectoper project oper 
+VARSIG16	element depend 
+MTHSIG1	isjpainstallationposs jpa instal 
+VARSIG15	except 
+PACKAGE	springframework roo addon jpa 
+MTHSIG2	isjpainstal jpa instal 
+VARSIG14	jdbcdatabas jdbc databas databas 
+MTHSIG3	configurejpa configur jpa ormprovid orm provid ormprovid orm provid jdbcdatabas jdbc databas databas jndi 
+VARSIG13	ormprovid orm provid ormprovid orm provid 
+MTHSIG8	createpropertyel creat properti element document doc 
+MTHSIG9	createrefel creat element document doc 
+CLASSES	jpaoper jpa oper 
+VARSIG29	document doc 
+VARSIG28	 
+METHODS	jpaoper jpa oper isjpainstallationposs jpa instal isjpainstal jpa instal configurejpa configur jpa updateapplicationcontext updat applic context updatedatabaseproperti updat databas properti updatedepend updat depend updatepersistencexml updat persist xml createpropertyel creat properti element createrefel creat element 
+VARSIG23	except 
+VARSIG22	except 
+VARSIG21	jdbcdatabas jdbc databas databas 
+VARSIG20	ormprovid orm provid ormprovid orm provid 
+VARSIG27	 
+VARSIG26	document doc 
+VARSIG25	 
+VARSIG24	 
+VARIABLES	filemanag file manag pathresolv path resolv metadataservic metadata servic projectoper project oper ormprovid orm provid databas jndi databas jndi databas ioe ioe ormprovid orm provid databas depend depend depend depend ormprovid orm provid databas doc doc logger filemanag file manag pathresolv path resolv metadataservic metadata servic projectoper project oper contextpath context path contextmutablefil context mutabl file appctx app ctx root datasourc data sourc datasourcejndi data sourc jndi transactionmanag transact manag aspectjtxmanag aspect manag entitymanagerfactori entiti manag factori databasepath databas path databasemutablefil databas mutabl file prop templateinputstream templat input stream connectionstr connect projectmetadata project metadata templateinputstream templat input stream dependencydoc depend doc depend databasedepen databas depen ormdepen orm depen jpadepend jpa depend springdepend spring depend persistencepath persist path persistencemutablefil persist mutabl file persist templateinputstream templat input stream dialect dialectsinputstream dialect input stream rootel root element persistenceunit persist unit provid properti properti properti 

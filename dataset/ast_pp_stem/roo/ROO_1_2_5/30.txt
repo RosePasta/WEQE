@@ -1,0 +1,24 @@
+VARSIG7	paddingrequir pad requir 
+VARSIG6	 
+VARSIG9	repeat 
+VARSIG8	 
+VARSIG3	head 
+VARSIG2	head 
+VARSIG5	columnnumb column number 
+VARSIG4	valu 
+COMMENTS	listen shell event support automat git repositori commit constructor titl head 
+CLASSES	shelltablerender shell tabl render 
+VARSIG1	head 
+VARSIG0	titl 
+METHODS	shelltablerender shell tabl render addcolumn add column addrow add row getcolumnwidth column width getoutput output getpad pad getrepeatingchar repeat char getunderlin underlin 
+MTHSIG4	getoutput output 
+MTHSIG5	getpad pad paddingrequir pad requir 
+MTHSIG6	getrepeatingchar repeat char repeat 
+VARSIG10	underlinerequir underlin requir 
+MTHSIG7	getunderlin underlin underlinerequir underlin requir 
+MTHSIG0	shelltablerender shell tabl render titl head 
+MTHSIG1	addcolumn add column head 
+PACKAGE	springframework roo addon cloud foundri 
+MTHSIG2	addrow add row valu 
+MTHSIG3	getcolumnwidth column width columnnumb column number 
+VARIABLES	titl head head head valu columnnumb column number paddingrequir pad requir repeat underlinerequir underlin requir column pad columnmap column map titl posit list list stringlist list largestvalu largest tabl longestrow longest row entri timetostop time list columnwidth column width text titlebuild titl builder titlelengthpluspad titl length pad pad emphasi extra 

@@ -1,0 +1,33 @@
+VARSIG7	element root
+VARSIG6	xpath path
+VARSIG9	runtimeexception runtime exception
+VARSIG8	element element
+VARSIG3	element root
+VARSIG2	modulename module
+VARSIG5	type
+VARSIG4	packaging
+COMMENTS	constants fields parses elements matching xpath path expression instances type type object parse type type object parse constructor accepts link element sole argument xpath path xpath path expression apply required root root xml document searched required list returns groupid group defined pom root pom pom root element required blank groupid group fall group assumed parent roo
+VARSIG19	relativepath relative path
+VARSIG1	pompath pom path
+VARSIG18	relativeto relative
+VARSIG0	element root
+VARSIG17	element root
+MTHSIG4	getmodules modules element root pompath pom path packaging
+VARSIG12	element root
+MTHSIG5	getparent parent pompath pom path element root
+VARSIG11	element root
+MTHSIG6	resolverelativepath resolve relative path relativeto relative relativepath relative path
+VARSIG10	exception
+MTHSIG0	getinstance instance element root pompath pom path modulename module
+VARSIG16	pompath pom path
+MTHSIG1	getpaths paths element root packaging
+VARSIG15	element module
+PACKAGE	springframework roo project maven
+MTHSIG2	parseelements parse elements type xpath path element root
+VARSIG14	packaging
+MTHSIG3	getgroupid group element root
+VARSIG13	pompath pom path
+CLASSES	pomfactoryimpl pom factory impl
+METHODS	getinstance instance getpaths paths parseelements parse elements getgroupid group getmodules modules getparent parent resolverelativepath resolve relative path
+VARSIG20	relativepathsegment relative path segment
+VARIABLES	root pompath pom path modulename module root packaging type xpath path root element root root pompath pom path packaging module pompath pom path root relativeto relative relativepath relative path relativepathsegment relative path segment artifact xpath relative path dependency xpath filter xpath group xpath module xpath xpath packaging provider property xpath packaging xpath parent group xpath parent xpath plugin repository xpath plugin xpath property xpath repository xpath resource xpath source directory xpath test source directory xpath version xpath packagingproviderregistry packaging provider registry artifactid artifact groupid group packaging version sourcedirectory source directory testsourcedirectory test source directory dependencies filters modules plugins pomproperties pom properties pluginrepositories plugin repositories repositories resources parent paths packagingproviderid packaging provider packagingprovider packaging provider projectgroupid project group modules modulename module modulepath module path parentelement parent element relativepath relative path parentpompath parent pom path relativepathsegments relative path segments backcount count path

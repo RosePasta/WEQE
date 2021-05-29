@@ -1,0 +1,104 @@
+MTHSIG28	getmostconcretemethodwithtag concret tag memberdetail member detail memberdetail member detail object tagkei tag kei 
+MTHSIG29	gettypeannot type annot identifiableannotatedjavastructur identifi annot structur memberholdingtypedetail member hold type detail javatyp type annotationtyp annot type 
+MTHSIG26	getmethodswithtag method tag memberdetail member detail memberdetail member detail object tagkei tag kei 
+MTHSIG27	getmostconcretememberholdingtypedetailswithtag concret member hold type detail tag memberdetail member detail memberdetail member detail object tag 
+MTHSIG24	getmethod method memberdetail member detail memberdetail member detail 
+MTHSIG25	getmethod method memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+MTHSIG22	getmethod memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail javasymbolnam symbol methodnam list javatyp type paramet 
+MTHSIG23	getmethod memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail methodnam 
+MTHSIG4	getdeclaredfield declar field memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail javasymbolnam symbol fieldnam field 
+MTHSIG5	getdeclaredinnertyp declar type memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail javatyp type typenam type 
+MTHSIG6	getdeclaredmethod declar memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail javasymbolnam symbol methodnam 
+MTHSIG7	getdeclaredmethod declar memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail javasymbolnam symbol methodnam list javatyp type paramet 
+MTHSIG0	getannotationoftyp annot type list annotationmetadata annot metadata annot javatyp type annotationtyp annot type 
+MTHSIG1	getannotationoftyp annot type memberholdingtypedetailsmetadataitem member hold type detail metadata item metadata javatyp type annotationtyp annot type 
+MTHSIG2	getconstructor constructor memberdetail member detail memberdetail member detail 
+MTHSIG3	getdeclaredconstructor declar constructor memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail list javatyp type paramet 
+MTHSIG20	getmethod memberdetail member detail memberdetail member detail methodnam 
+MTHSIG21	getmethod memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail javasymbolnam symbol methodnam 
+MTHSIG8	getdeclaredtypeannot declar type annot abstractidentifiableannotatedjavastructurebuild identifi annot structur builder identifiableannotatedjavastructur identifi annot structur builder javatyp type type 
+MTHSIG9	getdeclaredtypeannot declar type annot identifiableannotatedjavastructur identifi annot structur memberholdingtypedetail member hold type detail javatyp type type 
+METHODS	getannotationoftyp annot type getannotationoftyp annot type getconstructor constructor getdeclaredconstructor declar constructor getdeclaredfield declar field getdeclaredinnertyp declar type getdeclaredmethod declar getdeclaredmethod declar getdeclaredtypeannot declar type annot getdeclaredtypeannot declar type annot getdeclaredtypeannot declar type annot getfield field getfield field getfieldswithannot field annot getfieldswithtag field tag getfirstannot annot getmemberholdingtypedetailswithtag member hold type detail tag getmethod getmethod getmethod getmethod getmethod getmethod getmethod getmethod method getmethod method getmethodswithtag method tag getmostconcretememberholdingtypedetailswithtag concret member hold type detail tag getmostconcretemethodwithtag concret tag gettypeannot type annot memberfindingutil member find util 
+VARSIG67	javatyp type annotationtyp annot type 
+VARSIG66	identifiableannotatedjavastructur identifi annot structur memberholdingtypedetail member hold type detail 
+VARSIG65	object tagkei tag kei 
+VARSIG64	memberdetail member detail memberdetail member detail 
+MTHSIG30	memberfindingutil member find util 
+VARSIG63	object tag 
+VARSIG62	memberdetail member detail memberdetail member detail 
+VARSIG61	object tagkei tag kei 
+VARSIG60	memberdetail member detail memberdetail member detail 
+COMMENTS	util method find member link memberholdingtypedetail member hold type detail instanc locat metadata annot type list annot set annot search annotationtyp annot type annot locat annot return metadata annot type metadata metadata metadata search annotationtyp annot type type annot metadata search link memberdetail member detail return constructor memberdetail member detail link memberdetail member detail search requir constructor link memberdetail member detail getconstructor constructor locat constructor memberholdingtypedetail member hold type detail link memberholdingtypedetail member hold type detail search requir paramet locat paramet constructor link memberholdingtypedetail member hold type detail getdeclaredconstructor declar constructor list locat field link memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail link memberholdingtypedetail member hold type detail search requir fieldnam field locat requir field call link memberholdingtypedetail member hold type detail getdeclaredfield declar field javasymbolnam symbol locat type memberdetail member detail search requir typenam type locat requir link memberholdingtypedetail member hold type detail getdeclaredinnertyp declar type javatyp type locat link memberholdingtypedetail member hold type detail base memberholdingtypedetail member hold type detail link memberholdingtypedetail member hold type detail search methodnam locat simpli locat memberholdingtypedetail member hold type detail link memberholdingtypedetail member hold type detail search methodnam locat paramet locat paramet simpli locat type level annot builder link memberholdingtypedetail member hold type detail search requir type locat requir annot link abstractidentifiableannotatedjavastructurebuild identifi annot structur builder getdeclaredtypeannot declar type annot javatyp type locat type level annot memberholdingtypedetail member hold type detail link memberholdingtypedetail member hold type detail search requir type locat requir annot link identifiableannotatedjavastructur identifi annot structur getannot annot javatyp type locat type level annot memberdetail member detail link memberdetail member detail search requir type locat requir annot link memberdetail member detail getannot annot javatyp type search inherit hierarchi field locat memberholdingtypedetail member hold type detail search requir fieldnam field locat requir field link memberholdingtypedetail member hold type detail getfield field javasymbolnam symbol search link memberdetail member detail return field memberdetail member detail link memberdetail member detail search requir field link memberdetail member detail getfield field search inherit hierarchi locat declar field annot annot memberholdingtypedetail member hold type detail search requir annot locat requir locat field empti link memberholdingtypedetail member hold type detail getfieldswithannot field annot javatyp type return field link memberdetail member detail link customdata custom data tag memberdetail member detail link memberdetail member detail search tagkei tag kei link customdata custom data kei search field return type annot cid check annotationtyp annot type type annot order type arrai annot search link memberdetail member detail return link memberholdingtypedetail member hold type detail link customdata custom data tag memberdetail member detail link memberdetail member detail search tagkei tag kei link customdata custom data kei search requir link memberholdingtypedetail member hold type detail locat present search link memberdetail member detail locat memberdetail member detail link memberdetail member detail search requir methodnam locat locat link memberdetail member detail getmethod javasymbolnam symbol locat paramet signatur present search link memberdetail member detail locat memberdetail member detail link memberdetail member detail search requir methodnam locat paramet paramet signatur locat paramet requir locat link memberdetail member detail getmethod javasymbolnam symbol list locat paramet signatur present declar present mid memberdetail member detail link memberdetail member detail search requir methodnam locat paramet paramet signatur locat paramet requir excludingmid exclud mid mid declar locat link memberdetail member detail getmethod javasymbolnam symbol list conveni convert link javasymbolnam symbol standard link getmethod memberdetail member detail springframework roo model javasymbolnam symbol memberholdingtypedetail member hold type detail search requir methodnam locat requir search inherit hierarchi locat paramet account memberholdingtypedetail member hold type detail search requir methodnam locat requir link memberholdingtypedetail member hold type detail getmethod javasymbolnam symbol search inherit hierarchi paramet locat memberholdingtypedetail member hold type detail search requir methodnam locat requir paramet locat paramet link memberholdingtypedetail member hold type detail getmethod javasymbolnam symbol list conveni convert link javasymbolnam symbol standard link getmethod memberholdingtypedetail member hold type detail springframework roo model javasymbolnam symbol memberholdingtypedetail member hold type detail search requir methodnam locat requir search link memberdetail member detail return method memberdetail member detail link memberdetail member detail search requir method link memberdetail member detail getmethod method locat method superclass memberholdingtypedetail member hold type detail search requir method link memberholdingtypedetail member hold type detail getmethod method search link memberdetail member detail return method link customdata custom data tag memberdetail member detail link memberdetail member detail search requir tagkei tag kei link customdata custom data kei search method link memberdetail member detail getmethodswithtag method tag object determin concret link memberholdingtypedetail member hold type detail case multipl match tag memberdetail member detail link memberdetail member detail search tag link customdata custom data kei search requir concret tag type determin concret link memberholdingtypedetail member hold type detail case multipl match tag memberdetail member detail link memberdetail member detail search tagkei tag kei link customdata custom data kei search requir concret tag locat annot superclass memberholdingtypedetail member hold type detail search requir annotationtyp annot type annot locat requir annot link identifiableannotatedjavastructur identifi annot structur gettypeannot type annot javatyp type constructor prevent instanti 
+VARSIG19	abstractidentifiableannotatedjavastructurebuild identifi annot structur builder identifiableannotatedjavastructur identifi annot structur builder 
+VARSIG18	methodmetadata metadata 
+VARSIG17	list javatyp type paramet 
+VARSIG12	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG11	javatyp type typenam type 
+VARSIG10	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG16	javasymbolnam symbol methodnam 
+VARSIG15	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG14	methodmetadata metadata 
+VARSIG13	javasymbolnam symbol methodnam 
+MTHSIG17	getmethod memberdetail member detail memberdetail member detail javasymbolnam symbol methodnam 
+MTHSIG18	getmethod memberdetail member detail memberdetail member detail javasymbolnam symbol methodnam list javatyp type paramet 
+MTHSIG15	getfirstannot annot classorinterfacetypedetail type detail cid javatyp type annotationtyp annot type 
+MTHSIG16	getmemberholdingtypedetailswithtag member hold type detail tag memberdetail member detail memberdetail member detail object tagkei tag kei 
+MTHSIG13	getfieldswithannot field annot memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail javatyp type annot 
+MTHSIG14	getfieldswithtag field tag memberdetail member detail memberdetail member detail object tagkei tag kei 
+MTHSIG11	getfield field memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail javasymbolnam symbol fieldnam field 
+MTHSIG12	getfield field memberdetail member detail memberdetail member detail 
+MTHSIG19	getmethod memberdetail member detail memberdetail member detail javasymbolnam symbol methodnam list javatyp type paramet excludingmid exclud mid 
+MTHSIG10	getdeclaredtypeannot declar type annot memberdetail member detail memberdetail member detail javatyp type type 
+VARIABLES	annot annotationtyp annot type annot metadata annotationtyp annot type memberdetail member detail memberholdingtypedetail member hold type detail paramet memberholdingtypedetail member hold type detail fieldnam field memberholdingtypedetail member hold type detail typenam type memberholdingtypedetail member hold type detail methodnam memberholdingtypedetail member hold type detail methodnam paramet builder type memberholdingtypedetail member hold type detail type memberdetail member detail type memberholdingtypedetail member hold type detail fieldnam field memberdetail member detail memberholdingtypedetail member hold type detail annot memberdetail member detail tagkei tag kei memberholdingtypedetail member hold type detail field cid annotationtyp annot type annotationtyp annot type memberdetail member detail tagkei tag kei memberholdingtypedetail member hold type detail memberdetail member detail methodnam memberdetail member detail methodnam paramet memberdetail member detail methodnam paramet excludingmid exclud mid memberdetail member detail methodnam memberholdingtypedetail member hold type detail methodnam memberholdingtypedetail member hold type detail methodnam paramet memberholdingtypedetail member hold type detail methodnam memberdetail member detail memberholdingtypedetail member hold type detail memberdetail member detail tagkei tag kei memberdetail member detail tag memberdetail member detail tagkei tag kei memberholdingtypedetail member hold type detail annotationtyp annot type parametertyp paramet type field annot result memberholdingtypedetailslist member hold type detail list 
+VARSIG39	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG34	classorinterfacetypedetail type detail cid 
+VARSIG33	fieldmetadata field metadata field 
+VARSIG32	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG31	object tagkei tag kei 
+VARSIG38	object tagkei tag kei 
+VARSIG37	memberdetail member detail memberdetail member detail 
+PACKAGE	springframework roo classpath detail 
+VARSIG36	javatyp type annotationtyp annot type 
+VARSIG35	javatyp type annotationtyp annot type 
+VARSIG30	memberdetail member detail memberdetail member detail 
+CLASSES	memberfindingutil member find util 
+VARSIG29	javatyp type annot 
+VARSIG28	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG23	memberdetail member detail memberdetail member detail 
+VARSIG22	javatyp type type 
+VARSIG21	identifiableannotatedjavastructur identifi annot structur memberholdingtypedetail member hold type detail 
+VARSIG20	javatyp type type 
+VARSIG27	memberdetail member detail memberdetail member detail 
+VARSIG26	javasymbolnam symbol fieldnam field 
+VARSIG25	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG24	javatyp type type 
+VARSIG7	list javatyp type paramet 
+VARSIG6	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG9	javasymbolnam symbol fieldnam field 
+VARSIG8	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG3	memberholdingtypedetailsmetadataitem member hold type detail metadata item metadata 
+VARSIG2	annotationmetadata annot metadata annot 
+VARSIG5	memberdetail member detail memberdetail member detail 
+VARSIG4	javatyp type annotationtyp annot type 
+VARSIG1	javatyp type annotationtyp annot type 
+VARSIG0	list annotationmetadata annot metadata annot 
+VARSIG56	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG55	list javatyp type paramet 
+VARSIG54	javasymbolnam symbol methodnam 
+VARSIG53	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG59	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG58	memberdetail member detail memberdetail member detail 
+VARSIG57	methodnam 
+VARSIG52	javasymbolnam symbol methodnam 
+VARSIG51	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG50	methodnam 
+VARSIG45	memberdetail member detail memberdetail member detail 
+VARSIG44	list javatyp type paramet 
+VARSIG43	javasymbolnam symbol methodnam 
+VARSIG42	memberdetail member detail memberdetail member detail 
+VARSIG49	memberdetail member detail memberdetail member detail 
+VARSIG48	excludingmid exclud mid 
+VARSIG47	list javatyp type paramet 
+VARSIG46	javasymbolnam symbol methodnam 
+VARSIG41	javasymbolnam symbol methodnam 
+VARSIG40	memberdetail member detail memberdetail member detail 

@@ -1,0 +1,15 @@
+VARSIG3	set disallowedoperations disallowed operations
+VARSIG2	javatype type entity
+VARSIG4	path
+COMMENTS	link controlleroperationsimpl controller operations impl creates spring mvc controllers jpa entities project javapackage controllers scaffolded creates spring mvc controller automatically scaffolded request mappings assigned commence
+CLASSES	controlleroperations controller operations
+VARSIG1	javatype type controller
+VARSIG0	javapackage javapackage
+METHODS	generateall generate setup isnewcontrolleravailable controller isscaffoldavailable scaffold createautomaticcontroller create automatic controller
+MTHSIG4	createautomaticcontroller create automatic controller javatype type controller javatype type entity set disallowedoperations disallowed operations path
+MTHSIG0	generateall generate javapackage javapackage
+MTHSIG1	setup
+PACKAGE	springframework roo addon web mvc controller
+MTHSIG2	isnewcontrolleravailable controller
+MTHSIG3	isscaffoldavailable scaffold
+VARIABLES	javapackage controller entity disallowedoperations disallowed operations path

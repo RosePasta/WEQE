@@ -1,0 +1,26 @@
+VARSIG7	object obj 
+VARSIG6	insertableorupdat insert updat 
+VARSIG3	column foreigncolumn foreign column 
+VARSIG2	column localcolumn local column 
+VARSIG5	column foreigncolumn foreign column 
+VARSIG4	column localcolumn local column 
+COMMENTS	repres refer column local tabl column tabl local column foreign column local column foreign column creat refer column creat refer column localcolumn local column local column foreigncolumn foreign column remot column 
+VARSIG1	foreigncolumnnam foreign column 
+VARSIG0	localcolumnnam local column 
+MTHSIG4	getforeigncolumn foreign column 
+MTHSIG5	setforeigncolumn set foreign column column foreigncolumn foreign column 
+MTHSIG6	getlocalcolumnnam local column 
+MTHSIG7	getforeigncolumnnam foreign column 
+MTHSIG0	refer localcolumnnam local column foreigncolumnnam foreign column 
+MTHSIG1	refer column localcolumn local column column foreigncolumn foreign column 
+PACKAGE	springframework roo addon dbre model 
+MTHSIG2	getlocalcolumn local column 
+MTHSIG3	setlocalcolumn set local column column localcolumn local column 
+MTHSIG8	isinsertableorupdat insert updat 
+MTHSIG9	setinsertableorupdat set insert updat insertableorupdat insert updat 
+MTHSIG11	equal object obj 
+MTHSIG12	tostr 
+CLASSES	refer 
+METHODS	refer refer getlocalcolumn local column setlocalcolumn set local column getforeigncolumn foreign column setforeigncolumn set foreign column getlocalcolumnnam local column getforeigncolumnnam foreign column isinsertableorupdat insert updat setinsertableorupdat set insert updat hashcod hash code equal tostr 
+MTHSIG10	hashcod hash code 
+VARIABLES	localcolumnnam local column foreigncolumnnam foreign column localcolumn local column foreigncolumn foreign column localcolumn local column foreigncolumn foreign column insertableorupdat insert updat obj localcolumn local column foreigncolumn foreign column localcolumnnam local column foreigncolumnnam foreign column insertableorupdat insert updat prime result 

@@ -1,0 +1,107 @@
+MTHSIG28	getsourcedirectori sourc directori 
+MTHSIG29	gettestsourcedirectori test sourc directori 
+MTHSIG26	getresourc resourc 
+MTHSIG27	getroot root 
+MTHSIG24	getproperti properti 
+MTHSIG25	getrepositori repositori 
+MTHSIG22	getpomproperti pom properti 
+MTHSIG23	getpropertiesexcludingvalu properti exclud properti properti 
+MTHSIG4	getartifactid artifact 
+MTHSIG5	getbuildplugin build plugin 
+MTHSIG6	getbuildpluginsexcludingvers build plugin exclud version plugin plugin 
+MTHSIG7	getdepend depend 
+MTHSIG0	pom groupid group artifactid artifact version packag collect depend depend parent parent collect modul modul collect properti pomproperti pom properti collect repositori repositori collect repositori pluginrepositori plugin repositori sourcedirectori sourc directori testsourcedirectori test sourc directori collect filter filter collect plugin buildplugin build plugin collect resourc resourc path modulenam modul collect path path 
+MTHSIG1	asdepend depend dependencyscop depend scope scope 
+MTHSIG2	cachephysicalpath cach physic path collect path path 
+MTHSIG3	canadddepend add depend depend newdepend depend 
+MTHSIG20	getphysicalpath physic path 
+MTHSIG21	getpluginrepositori plugin repositori 
+MTHSIG8	getdependenciesexcludingvers depend exclud version depend depend 
+MTHSIG9	getdisplaynam displai 
+MTHSIG39	isdependencyregist depend regist depend depend 
+MTHSIG37	isanypluginsregist plugin regist collect plugin plugin 
+MTHSIG38	isbuildpluginregist build plugin regist plugin plugin 
+MTHSIG35	isallrepositoriesregist repositori regist collect repositori repositori 
+MTHSIG36	isanydependenciesregist depend regist collect depend depend 
+MTHSIG33	isallpluginrepositoriesregist plugin repositori regist collect repositori repositori 
+MTHSIG34	isallpluginsregist plugin regist collect plugin plugin 
+METHODS	pom asdepend depend cachephysicalpath cach physic path canadddepend add depend getartifactid artifact getbuildplugin build plugin getbuildpluginsexcludingvers build plugin exclud version getdepend depend getdependenciesexcludingvers depend exclud version getdisplaynam displai getfilt filter getgroupid group getmodulenam modul getmodul modul getnam getpackag packag getpar parent getpath path getpathloc path locat getphysicalpath physic path getphysicalpath physic path getpluginrepositori plugin repositori getpomproperti pom properti getpropertiesexcludingvalu properti exclud getproperti properti getrepositori repositori getresourc resourc getroot root getsourcedirectori sourc directori gettestsourcedirectori test sourc directori getvers version hasdependencyexcludingvers depend exclud version isalldependenciesregist depend regist isallpluginrepositoriesregist plugin repositori regist isallpluginsregist plugin regist isallrepositoriesregist repositori regist isanydependenciesregist depend regist isanypluginsregist plugin regist isbuildpluginregist build plugin regist isdependencyregist depend regist isfilterregist filter regist ispluginregist plugin regist ispluginrepositoryregist plugin repositori regist ispropertyregist properti regist isrepositoryregist repositori regist isresourceregist resourc regist tostr 
+MTHSIG31	hasdependencyexcludingvers depend exclud version depend depend 
+MTHSIG32	isalldependenciesregist depend regist collect depend depend 
+MTHSIG30	getvers version 
+COMMENTS	maven project object model pom maven behaviour todo pathcach path cach todo pathcach path cach constructor groupid group maven groupid group explicit inherit requir artifactid artifact maven artifactid artifact requir version version artifact built requir packag maven packag requir depend parent pom pom parent declar modul modul defin pom appli packag pom pomproperti pom properti properti defin pom maven artifact built blank repositori repositori defin pom pluginrepositori plugin repositori plugin repositori defin pom sourcedirectori sourc directori directori rel pom product code blank maven testsourcedirectori test sourc directori directori rel pom test code blank maven filter filter defin pom buildplugin build plugin plugin defin pom resourc build resourc defin pom path canon path pom requir modulenam modul maven modul blank project project root pom path link path requir modul addit root return modul depend scope instanc valid add link depend pom newdepend depend link depend check return artifact creat modul project blank return regist build plugin collect return build plugin groupid group artifactid artifact plugin upgrad case plugin locat requir note version number comparison match plugin return empti link set locat depend match present depend exclud version number upgrad case remov depend group artifact type depend upgrad depend locat match depend return empti link set return displai modul user project blank return organis group own modul project blank return programmat modul user project empti root modul return displai modul user project blank link getdisplaynam displai return descriptor descriptor canon path file system valid canon path return canon path link path modul trail separ path path canon locat requir modul path return link physicalpath physic path link path modul path path link physicalpath physic path modul path locat properti match present properti exclud upgrad case locat properti remov properti locat requir note comparison match properti return empti link set locat occurr properti return properti requir properti return canon path modul modul root directori trail separ valid canon path return version number modul project blank version number link pom link depend ignor version number depend link depend check depend depend regist call link isdependencyregist depend regist depend ignor element depend depend check element empti collect plugin repositori regist call link ispluginrepositoryregist plugin repositori regist repositori ignor element repositori plugin repositori check collect plugin regist base groupid group artifactid artifact version plugin plugin check requir regist repositori regist equival call link isrepositoryregist repositori regist repositori ignor element repositori repositori check collect depend regist call link isdependencyregist depend regist depend depend depend check plugin regist call link isbuildpluginregist build plugin regist plugin plugin plugin check requir plugin regist build plugin regist base groupid group artifactid artifact version plugin check requir build plugin regist link ispluginregist plugin regist gav depend regist check result link depend equal object depend depend check depend filter regist filter check requir filter regist plugin coordin regist coordin coordin match coordin plugin repositori regist repositori repositori check repositori build properti regist properti check requir properti regist repositori regist repositori check repositori resourc regist resourc check requir resourc regist debug 
+VARSIG19	dependencyscop depend scope scope 
+VARSIG18	collect path path 
+VARSIG17	modulenam modul 
+VARSIG12	testsourcedirectori test sourc directori 
+VARSIG11	sourcedirectori sourc directori 
+VARSIG10	collect repositori pluginrepositori plugin repositori 
+VARSIG16	path 
+VARSIG15	collect resourc resourc 
+VARSIG14	collect plugin buildplugin build plugin 
+VARSIG13	collect filter filter 
+MTHSIG17	getpath path 
+MTHSIG18	getpathloc path locat path path 
+MTHSIG15	getpackag packag 
+MTHSIG16	getpar parent 
+MTHSIG13	getmodul modul 
+MTHSIG14	getnam 
+MTHSIG11	getgroupid group 
+MTHSIG12	getmodulenam modul 
+MTHSIG19	getphysicalpath physic path path path 
+MTHSIG10	getfilt filter 
+VARIABLES	groupid group artifactid artifact version packag depend parent modul pomproperti pom properti repositori pluginrepositori plugin repositori sourcedirectori sourc directori testsourcedirectori test sourc directori filter buildplugin build plugin resourc path modulenam modul path scope path path newdepend depend plugin depend path path properti depend depend depend repositori repositori plugin plugin repositori repositori depend depend plugin plugin plugin depend filter gav existingplugin exist plugin repositori properti repositori resourc packag buildplugin build plugin depend filter gav modulenam modul modul packag parent path pathloc path locat pluginrepositori plugin repositori pomproperti pom properti repositori resourc sourcedirectori sourc directori testsourcedirectori test sourc directori pathstocach path cach result result modulepath modul path result 
+VARSIG39	plugin plugin 
+VARSIG34	collect depend depend 
+VARSIG33	depend depend 
+VARSIG32	properti 
+VARSIG31	 
+VARSIG38	collect plugin plugin 
+VARSIG37	repositori repositori 
+PACKAGE	springframework roo project maven 
+VARSIG36	collect repositori repositori 
+VARSIG35	depend depend 
+VARSIG30	properti 
+CLASSES	pom 
+VARSIG29	properti properti 
+VARSIG28	path path 
+VARSIG23	plugin plugin 
+VARSIG22	depend newdepend depend 
+VARSIG21	path path 
+VARSIG20	collect path path 
+VARSIG27	path path 
+VARSIG26	depend 
+VARSIG25	depend depend 
+VARSIG24	plugin 
+VARSIG7	collect properti pomproperti pom properti 
+VARSIG6	collect modul modul 
+VARSIG9	collect repositori repositori 
+VARSIG8	 
+MTHSIG46	tostr 
+VARSIG3	packag 
+VARSIG2	version 
+MTHSIG44	isrepositoryregist repositori regist repositori repositori 
+VARSIG5	parent parent 
+MTHSIG45	isresourceregist resourc regist resourc resourc 
+VARSIG4	collect depend depend 
+VARSIG1	artifactid artifact 
+VARSIG0	groupid group 
+VARSIG54	resourc resourc 
+VARSIG53	repositori repositori 
+MTHSIG42	ispluginrepositoryregist plugin repositori regist repositori repositori 
+MTHSIG43	ispropertyregist properti regist properti properti 
+MTHSIG40	isfilterregist filter regist filter filter 
+MTHSIG41	ispluginregist plugin regist gav gav 
+VARSIG52	properti properti 
+VARSIG51	repositori repositori 
+VARSIG50	plugin existingplugin exist plugin 
+VARSIG45	plugin plugin 
+VARSIG44	collect plugin plugin 
+VARSIG43	depend depend 
+VARSIG42	collect depend depend 
+VARSIG49	gav gav 
+VARSIG48	filter filter 
+VARSIG47	depend depend 
+VARSIG46	plugin plugin 
+VARSIG41	repositori repositori 
+VARSIG40	collect repositori repositori 

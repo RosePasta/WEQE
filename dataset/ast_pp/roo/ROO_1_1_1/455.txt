@@ -1,0 +1,34 @@
+VARSIG7	fileidentifier file identifier
+VARSIG6	filemanager file manager filemanager file manager
+VARSIG9	annotationmetadata annotation metadata annotation
+VARSIG8	annotationmetadata annotation metadata annotation
+VARSIG3	javatype type typename type
+VARSIG2	declaredbymetadataid declared metadata
+VARSIG5	physicaltypemetadataprovider physical type metadata provider physicaltypemetadataprovider physical type metadata provider
+VARSIG4	metadataservice metadata service metadataservice metadata service
+COMMENTS	parser implementation link mutableclassorinterfacetypedetails mutable type details immutable constructed build replacement annotationmetadata annotation metadata variable tracks attribute values replacement hold add copy incoming attributes exist attributestodeleteifpresent attributes delete set copy existing attributes attributes ensure incoming attribute replaces existing add attribute list attribute attribute determine attribute materially attribute exist add replacement attributes material annotationmetadata annotation metadata representing replacement
+VARSIG19	ioexception exception ioe
+VARSIG1	typedeclaration type declaration typedeclaration type declaration
+VARSIG18	methodmetadata metadata methodmetadata metadata
+VARSIG0	compilationunit compilation unit compilationunit compilation unit
+VARSIG17	javasymbolname symbol fieldname field
+MTHSIG4	addfield add field fieldmetadata field metadata fieldmetadata field metadata
+VARSIG12	javasymbolname symbol existingattributename existing attribute
+MTHSIG5	addenumconstant add constant javasymbolname symbol
+VARSIG11	javasymbolname symbol incomingattributename incoming attribute
+MTHSIG6	removefield remove field javasymbolname symbol fieldname field
+VARSIG10	set javasymbolname symbol attributestodeleteifpresent attributes delete
+MTHSIG7	addmethod add methodmetadata metadata methodmetadata metadata
+MTHSIG0	javaparsermutableclassorinterfacetypedetails parser mutable type details compilationunit compilation unit compilationunit compilation unit typedeclaration type declaration typedeclaration type declaration declaredbymetadataid declared metadata javatype type typename type metadataservice metadata service metadataservice metadata service physicaltypemetadataprovider physical type metadata provider physicaltypemetadataprovider physical type metadata provider filemanager file manager filemanager file manager fileidentifier file identifier
+VARSIG16	javasymbolname symbol
+MTHSIG1	addtypeannotation add type annotation annotationmetadata annotation metadata annotation
+VARSIG15	fieldmetadata field metadata fieldmetadata field metadata
+PACKAGE	springframework roo classpath javaparser
+MTHSIG2	updatetypeannotation update type annotation annotationmetadata annotation metadata annotation set javasymbolname symbol attributestodeleteifpresent attributes delete
+VARSIG14	javatype type annotationtype annotation type
+MTHSIG3	removetypeannotation remove type annotation javatype type annotationtype annotation type
+VARSIG13	javasymbolname symbol incomingattributename incoming attribute
+MTHSIG8	flush
+CLASSES	javaparsermutableclassorinterfacetypedetails parser mutable type details
+METHODS	javaparsermutableclassorinterfacetypedetails parser mutable type details addtypeannotation add type annotation updatetypeannotation update type annotation removetypeannotation remove type annotation addfield add field addenumconstant add constant removefield remove field addmethod add flush
+VARIABLES	compilationunit compilation unit typedeclaration type declaration declaredbymetadataid declared metadata typename type metadataservice metadata service physicaltypemetadataprovider physical type metadata provider filemanager file manager fileidentifier file identifier annotation annotation attributestodeleteifpresent attributes delete incomingattributename incoming attribute existingattributename existing attribute incomingattributename incoming attribute annotationtype annotation type fieldmetadata field metadata fieldname field methodmetadata metadata ioe filemanager file manager fileidentifier file identifier annotations writechangestodisk write disk replacementattributevalues replacement attribute values existing incomingvalue incoming replacement existingvalue existing incomingvalue incoming existingvalue existing replacement annotations members constants members members compilationunitinputstream compilation unit input stream mutablefile mutable file

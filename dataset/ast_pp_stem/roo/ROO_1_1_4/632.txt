@@ -1,0 +1,27 @@
+VARSIG7	clioption cli option kei artifactid artifact mandatori artifact depend artifactid artifact 
+VARSIG6	clioption cli option kei groupid group mandatori group depend groupid group 
+VARSIG9	clioption cli option kei mavencommand maven command mandatori user maven command test test extra 
+VARSIG8	clioption cli option kei version mandatori version depend version 
+VARSIG3	clioption cli option kei groupid group mandatori group depend groupid group 
+VARSIG2	clioption cli option kei mandatori forc major version auto detect unspecifi integ majorjavavers major version 
+VARSIG5	clioption cli option kei version mandatori version depend version 
+VARSIG4	clioption cli option kei artifactid artifact mandatori artifact depend artifactid artifact 
+COMMENTS	shell command link mavenoper maven oper launch mvn command 
+VARSIG1	clioption cli option kei projectnam project mandatori project segment projectnam project 
+VARSIG0	clioption cli option kei toplevelpackag top level mandatori optioncontext option context updat uppermost groupid group maven roo roo shell javapackag toplevelpackag top level 
+MTHSIG4	removedepend remov depend groupid group artifactid artifact version 
+MTHSIG5	isperformcommandallow perform command allow 
+MTHSIG6	runpackag 
+MTHSIG7	runeclips 
+MTHSIG0	iscreateprojectavail creat project 
+MTHSIG1	createproject creat project javapackag toplevelpackag top level projectnam project integ majorjavavers major version 
+PACKAGE	springframework roo project 
+MTHSIG2	isdependencymodificationallow depend modif allow 
+MTHSIG3	adddepend add depend groupid group artifactid artifact version 
+MTHSIG8	runtest test 
+MTHSIG9	runassembl assembl 
+MTHSIG11	mvn extra 
+CLASSES	mavencommand maven command 
+METHODS	iscreateprojectavail creat project createproject creat project isdependencymodificationallow depend modif allow adddepend add depend removedepend remov depend isperformcommandallow perform command allow runpackag runeclips runtest test runassembl assembl runclean clean mvn 
+MTHSIG10	runclean clean 
+VARIABLES	toplevelpackag top level projectnam project majorjavavers major version groupid group artifactid artifact version groupid group artifactid artifact version extra mavenoper maven oper 

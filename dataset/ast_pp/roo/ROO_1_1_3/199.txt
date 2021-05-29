@@ -1,0 +1,29 @@
+VARSIG7	clioption cli option key databasename database mandatory database databasename database
+VARSIG6	clioption cli option key hostname host mandatory host hostname host
+VARSIG9	clioption cli option key password mandatory password password
+VARSIG8	clioption cli option key username user mandatory username username user
+VARSIG3	clioption cli option key database mandatory database support jdbcdatabase jdbc database jdbcdatabase jdbc database
+VARSIG2	clioption cli option key provider mandatory persistence provider support ormprovider orm provider ormprovider orm provider
+VARSIG5	clioption cli option key jndidatasource jndi data source mandatory jndi datasource jndi
+VARSIG4	clioption cli option key applicationid application mandatory unspecifieddefaultvalue unspecified project project google app engine application identifier applicationid application
+COMMENTS	commands jpa add roo shell
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+MTHSIG4	databaseproperties database properties
+VARSIG12	clioption cli option key mandatory vale property key
+MTHSIG5	databaseset database set key
+VARSIG11	clioption cli option key key mandatory property key changed key
+MTHSIG6	databaseremove database remove key
+VARSIG10	clioption cli option key persistenceunit persistence unit mandatory persistence unit persistence xml file persistenceunit persistence unit
+MTHSIG7	isjpainstalled jpa installed
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo addon jpa
+MTHSIG2	isinstalljpaavailable install jpa
+MTHSIG3	installjpa install jpa ormprovider orm provider ormprovider orm provider jdbcdatabase jdbc database jdbcdatabase jdbc database applicationid application jndi hostname host databasename database username user password persistenceunit persistence unit
+VARSIG13	clioption cli option key key mandatory property key removed key
+MTHSIG8	hasdatabaseproperties database properties
+MTHSIG9	isjdk orhigher jdk higher
+CLASSES	jpacommands jpa commands
+METHODS	activate deactivate isinstalljpaavailable install jpa installjpa install jpa databaseproperties database properties databaseset database set databaseremove database remove isjpainstalled jpa installed hasdatabaseproperties database properties isjdk orhigher jdk higher
+VARIABLES	context context ormprovider orm provider jdbcdatabase jdbc database applicationid application jndi hostname host databasename database username user password persistenceunit persistence unit key key logger jpaoperations jpa operations propfileoperations prop file operations staticfieldconverter field converter ver

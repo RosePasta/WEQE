@@ -1,0 +1,27 @@
+VARSIG7	list javatype type annotationstodetect annotations detect
+VARSIG6	locatedtypecallback located type callback callback
+VARSIG9	javatype type annotationstodetect annotations detect
+VARSIG8	javatype type annotationstodetect annotations detect
+VARSIG3	javatype type requiredclassorinterface required
+VARSIG2	physicaltypeidentifier physical type identifier
+VARSIG5	list javatype type annotationstodetect annotations detect
+VARSIG4	javatype type requiredclassorinterface required
+COMMENTS	locates types obtains requested link javatype type assuming exists time parsed assumption met exception thrown requiredclassorinterface required parsed required classorinterfacetypedetails type details returns attempts find requested link javatype type assuming requiredclassorinterface required parsed required classorinterfacetypedetails type details processes types list annotations supplied link locatedtypecallback located type callback callback implementation process located types annotationstodetect annotations detect list annotations detect type callback link locatedtypecallback located type callback handle processing located type returns set link javatype type possess list annotations annotationstodetect annotations detect list annotations detect type set types annotations returns set link javatype type possess annotations vararg annotationstodetect annotations detect annotations vararg detect type set types annotations returns set link classorinterfacetypedetails type details possess annotations vararg annotationstodetect annotations detect annotations vararg detect type set classorinterfacetypedetails type details annotations returns set link classorinterfacetypedetails type details possess tag tag tag detect type set classorinterfacetypedetails type details tag returns list link classorinterfacetypedetails type details contained link path list classorinterfacetypedetails type details contained path
+VARSIG1	path path
+VARSIG0	javatype type javatype type
+MTHSIG4	processtypeswithannotation process types annotation list javatype type annotationstodetect annotations detect locatedtypecallback located type callback callback
+MTHSIG5	findtypeswithannotation find types annotation list javatype type annotationstodetect annotations detect
+VARSIG11	path path
+MTHSIG6	findtypeswithannotation find types annotation javatype type annotationstodetect annotations detect
+VARSIG10	object tag
+MTHSIG7	findclassesorinterfacedetailswithannotation find classes details annotation javatype type annotationstodetect annotations detect
+MTHSIG0	getphysicallocationcanonicalpath physical location canonical path javatype type javatype type path path
+MTHSIG1	getphysicallocationcanonicalpath physical location canonical path physicaltypeidentifier physical type identifier
+PACKAGE	springframework roo classpath
+MTHSIG2	getclassorinterface javatype type requiredclassorinterface required
+MTHSIG3	findclassorinterface find javatype type requiredclassorinterface required
+MTHSIG8	findclassesorinterfacedetailswithtag find classes details tag object tag
+MTHSIG9	getprojectjavatypes project types path path
+CLASSES	typelocationservice type location service
+METHODS	getphysicallocationcanonicalpath physical location canonical path getphysicallocationcanonicalpath physical location canonical path getclassorinterface findclassorinterface find processtypeswithannotation process types annotation findtypeswithannotation find types annotation findtypeswithannotation find types annotation findclassesorinterfacedetailswithannotation find classes details annotation findclassesorinterfacedetailswithtag find classes details tag getprojectjavatypes project types
+VARIABLES	javatype type path physicaltypeidentifier physical type identifier requiredclassorinterface required requiredclassorinterface required annotationstodetect annotations detect callback annotationstodetect annotations detect annotationstodetect annotations detect annotationstodetect annotations detect tag path

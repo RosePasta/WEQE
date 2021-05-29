@@ -1,0 +1,29 @@
+VARSIG7	javatype type aspectname aspect
+VARSIG6	metadataidentificationstring metadata identification
+VARSIG9	itdfilename filename
+VARSIG8	physicaltypemetadata physical type metadata governorphysicaltype governor physical type
+VARSIG3	metadataidentificationstring metadata identification
+VARSIG2	metadataidentificationstring metadata identification
+VARSIG5	componentcontext component context context
+VARSIG4	componentcontext component context context
+COMMENTS	link jpaentitymetadataprovider jpa entity metadata provider implementation jpa field matchers order array order annotations values trigger roojpaentity roo jpa entity user doesn active record methods trigger roojpaactiverecord roo jpa active record existing projects don add roojpaentity roo jpa entity fields mandatory abstractitdmetadataprovider metadata provider methods optional abstractitdmetadataprovider metadata provider methods type matchers field matchers matchers meat provider starts find entity level jpa details trigger annotation walk inheritance hierarchy existing jpaentitymetadata jpa entity metadata don monitor parent type trickle governing type governor governor members governor governor field project chance refresh item returns link jpaentityannotationvalues jpa entity annotation values domain type governorphysicaltype governor physical type required instance returns link identifier entity identified metadata metadataidentificationstring metadata identification isn potential identifier identifierservice identifier service identifier user provide identifier attributes roojpaactiverecord roo jpa active record
+VARSIG1	logicalpath logical path path
+VARSIG0	javatype type javatype type
+MTHSIG4	getprovidestype type
+VARSIG12	metadataidentificationstring metadata identification
+MTHSIG5	activate componentcontext component context context
+VARSIG11	javatype type triggerannotation trigger annotation
+MTHSIG6	deactivate componentcontext component context context
+VARSIG10	physicaltypemetadata physical type metadata governorphysicaltype governor physical type
+MTHSIG7	registermatchers register matchers
+MTHSIG0	createlocalidentifier create local identifier javatype type javatype type logicalpath logical path path
+MTHSIG1	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+PACKAGE	springframework roo addon jpa entity
+MTHSIG2	gettype type metadataidentificationstring metadata identification
+MTHSIG3	getitduniquenessfilenamesuffix uniqueness filename suffix
+MTHSIG8	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltype governor physical type itdfilename filename
+MTHSIG9	getjpaentityannotationvalues jpa entity annotation values physicaltypemetadata physical type metadata governorphysicaltype governor physical type
+CLASSES	jpaentitymetadataproviderimpl jpa entity metadata provider impl
+METHODS	createlocalidentifier create local identifier getgovernorphysicaltypeidentifier governor physical type identifier gettype type getitduniquenessfilenamesuffix uniqueness filename suffix getprovidestype type activate deactivate registermatchers register matchers getmetadata metadata getjpaentityannotationvalues jpa entity annotation values getidentifier identifier
+MTHSIG10	getidentifier identifier metadataidentificationstring metadata identification
+VARIABLES	javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification context context metadataidentificationstring metadata identification aspectname aspect governorphysicaltype governor physical type itdfilename filename governorphysicaltype governor physical type triggerannotation trigger annotation metadataidentificationstring metadata identification jpa column field matcher jpa embedded field matcher jpa embedded field matcher jpa enumerated field matcher jpa embedded field matcher jpa field matcher jpa lob field matcher jpa field matcher jpa field matcher jpa field matcher jpa field matcher jpa field matcher jpa version field matcher trigger annotations type type customdatakeydecorator custom data key decorator projectoperations project operations javatype type path jpaentityannotationvalues jpa entity annotation values parententity parent entity governormemberdetails governor member details identifier isgaeenabled gae enabled isdatabasedotcomenabled database dot enabled modulename module annotationvalues annotation values entity identifiers

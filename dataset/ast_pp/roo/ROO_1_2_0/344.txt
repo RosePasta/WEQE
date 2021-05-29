@@ -1,0 +1,42 @@
+VARSIG7	password
+VARSIG6	username
+VARSIG9	port
+VARSIG8	
+VARSIG3	javatype type classtype type
+VARSIG2	javatype type domaintype domain type
+VARSIG5	testautomatically test automatically
+VARSIG4	javatype type idtype type
+COMMENTS	link mongooperations mongo operations implementation constants fields type exists build type type exists
+VARSIG19	element dependencyelement dependency element
+VARSIG1	javatype type interfacetype type
+VARSIG18	modulename module
+VARSIG0	modulename module
+VARSIG17	ioexception exception
+MTHSIG4	setuprepository setup repository javatype type interfacetype type javatype type domaintype domain type
+VARSIG12	username
+MTHSIG5	createtype create type javatype type classtype type javatype type idtype type testautomatically test automatically
+VARSIG11	cloudfoundry cloud foundry
+MTHSIG6	setup username password port host cloudfoundry cloud foundry
+VARSIG10	host
+MTHSIG7	manageappctx manage app ctx username password cloudfoundry cloud foundry modulename module
+MTHSIG0	getname
+VARSIG16	modulename module
+MTHSIG1	isinstalledinmodule installed module modulename module
+VARSIG15	cloudfoundry cloud foundry
+PACKAGE	springframework roo addon layers repository mongo
+MTHSIG2	ismongoinstallationpossible mongo installation
+VARSIG14	
+MTHSIG3	isrepositoryinstallationpossible repository installation
+VARSIG13	password
+MTHSIG8	managedependencies manage dependencies modulename module
+MTHSIG9	writeproperties write properties username password port host modulename module
+CLASSES	mongooperationsimpl mongo operations impl
+METHODS	getname isinstalledinmodule installed module ismongoinstallationpossible mongo installation isrepositoryinstallationpossible repository installation setuprepository setup repository createtype create type setup manageappctx manage app ctx managedependencies manage dependencies writeproperties write properties
+VARSIG23	
+VARSIG22	password
+VARSIG21	username
+VARSIG20	element repositoryelement repository element
+VARSIG26	modulename module
+VARSIG25	host
+VARSIG24	port
+VARIABLES	modulename module interfacetype type domaintype domain type classtype type idtype type testautomatically test automatically username password port host cloudfoundry cloud foundry username password cloudfoundry cloud foundry modulename module modulename module dependencyelement dependency element repositoryelement repository element username password port host modulename module mongo xml dataondemandoperations data demand operations filemanager file manager integrationtestoperations integration test operations pathresolver path resolver projectoperations project operations propfileoperations prop file operations typelocationservice type location service typemanagementservice type management service interfaceidentifier identifier interfaceannotationmetadata annotation metadata interfacemdid cidbuilder cid builder listtype list type classidentifier identifier classmdid cidbuilder cid builder attributes modulename module appctxid app ctx inputstream input stream mutablefile mutable file input document root mongosetup mongo setup mongocloudsetup mongo cloud setup configuration dependencies springdependencies spring dependencies repositories repositoryelements repository elements properties

@@ -1,0 +1,10 @@
+MTHSIG4	testidenticalexecutionswithnoconfigurationareequal test identical executions configuration equal
+MTHSIG0	setup set
+MTHSIG1	testexecutionwithconfigurationdoesnotequalonewithout test execution configuration equal
+PACKAGE	springframework roo project
+MTHSIG2	testgetelementforminimalexecution test element minimal execution
+MTHSIG3	testidenticalexecutionsareequal test identical executions equal
+COMMENTS	unit test link execution fixture set invoke set invoke check
+CLASSES	executiontest execution test
+VARIABLES	execution configuration xml goal goal goals phase execution xml mockconfiguration mock configuration execution execution execution execution document mockconfiguration mock configuration execution element
+METHODS	setup set testexecutionwithconfigurationdoesnotequalonewithout test execution configuration equal testgetelementforminimalexecution test element minimal execution testidenticalexecutionsareequal test identical executions equal testidenticalexecutionswithnoconfigurationareequal test identical executions configuration equal

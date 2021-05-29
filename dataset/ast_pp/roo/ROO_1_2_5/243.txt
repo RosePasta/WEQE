@@ -1,0 +1,54 @@
+MTHSIG4	isvalid valid metadataidentificationstring metadata identification
+MTHSIG5	javabeanmetadata bean metadata identifier javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata javabeanannotationvalues bean annotation values annotationvalues annotation values map fieldmetadata field metadata javasymbolname symbol declaredfields declared fields
+MTHSIG6	getdeclaredgetter declared getter fieldmetadata field metadata field
+MTHSIG7	getdeclaredsetter declared setter fieldmetadata field metadata field
+MTHSIG0	createidentifier create identifier javatype type javatype type logicalpath logical path path
+MTHSIG1	getjavatype type metadataidentificationstring metadata identification
+PACKAGE	springframework roo addon javabean
+MTHSIG2	getmetadataidentifertype metadata identifer type
+MTHSIG3	getpath path metadataidentificationstring metadata identification
+MTHSIG8	getentitycollectionaccessorbody entity collection accessor body fieldmetadata field metadata field javasymbolname symbol entityidsfieldname entity ids field
+MTHSIG9	getentitycollectionmutatorbody entity collection mutator body fieldmetadata field metadata field javasymbolname symbol entityidsfieldname entity ids field
+CLASSES	javabeanmetadata bean metadata
+VARSIG29	annotationmetadata annotation metadata annotation
+VARSIG28	fieldmetadata field metadata field
+METHODS	createidentifier create identifier getjavatype type getmetadataidentifertype metadata identifer type getpath path isvalid valid javabeanmetadata bean metadata getdeclaredgetter declared getter getdeclaredsetter declared setter getentitycollectionaccessorbody entity collection accessor body getentitycollectionmutatorbody entity collection mutator body getgaeaccessorbody gae accessor body getgaemutatorbody gae mutator body getidentifiermethodname identifier getmultipleentityidfield multiple entity field getsingularentityaccessor singular entity accessor getsingularentityidfield singular entity field getsingularentitymutator singular entity mutator processgaeannotations process gae annotations tostring
+VARSIG23	fieldmetadata field metadata field
+VARSIG22	javasymbolname symbol fieldname field
+VARSIG21	fieldmetadata field metadata field
+VARSIG20	javasymbolname symbol hiddenidfieldname hidden field
+VARSIG27	javasymbolname symbol hiddenidfieldname hidden field
+VARSIG26	fieldmetadata field metadata field
+VARSIG25	javasymbolname symbol fieldname field
+VARSIG24	javasymbolname symbol hiddenidfieldname hidden field
+VARSIG7	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG6	javatype type aspectname aspect
+VARSIG9	map fieldmetadata field metadata javasymbolname symbol declaredfields declared fields
+VARSIG8	javabeanannotationvalues bean annotation values annotationvalues annotation values
+VARSIG3	metadataidentificationstring metadata identification
+VARSIG2	metadataidentificationstring metadata identification
+VARSIG5	identifier
+VARSIG4	metadataidentificationstring metadata identification
+COMMENTS	metadata link roojavabean roo bean constructor identifier metadata create valid aspectname aspect created required governorphysicaltypemetadata governor physical type metadata governor required annotationvalues annotation values values link roojavabean roo bean annotation required declaredfields declared fields fields declared governor required empty valid empty add getters setters check gae interested create representation desired output obtains specific accessor contained normal compilation unit introduced add field exists type introduction required declared type located accessor compute mutator type declared accessor decide produce accessor roo reason getter field obtains specific mutator contained normal compilation unit introduced add field exists type introduction required declared type located mutator compute mutator compute mutator parameters type declared mutator compute mutator parameter names decide produce mutator disallowed fields roo gae supports util list util set collections concrete implementation
+VARSIG19	fieldmetadata field metadata field
+VARSIG1	logicalpath logical path path
+VARSIG18	javasymbolname symbol hiddenidfieldname hidden field
+VARSIG0	javatype type javatype type
+VARSIG17	fieldmetadata field metadata field
+VARSIG12	fieldmetadata field metadata field
+VARSIG11	fieldmetadata field metadata field
+VARSIG10	entry fieldmetadata field metadata javasymbolname symbol entry
+VARSIG16	javasymbolname symbol entityidsfieldname entity ids field
+VARSIG15	fieldmetadata field metadata field
+VARSIG14	javasymbolname symbol entityidsfieldname entity ids field
+VARSIG13	fieldmetadata field metadata field
+MTHSIG17	processgaeannotations process gae annotations fieldmetadata field metadata field
+MTHSIG18	tostring
+MTHSIG15	getsingularentityidfield singular entity field javasymbolname symbol fieldname field
+MTHSIG16	getsingularentitymutator singular entity mutator fieldmetadata field metadata field javasymbolname symbol hiddenidfieldname hidden field
+MTHSIG13	getmultipleentityidfield multiple entity field javasymbolname symbol fieldname field
+MTHSIG14	getsingularentityaccessor singular entity accessor fieldmetadata field metadata field javasymbolname symbol hiddenidfieldname hidden field
+MTHSIG11	getgaemutatorbody gae mutator body fieldmetadata field metadata field javasymbolname symbol hiddenidfieldname hidden field
+MTHSIG12	getidentifiermethodname identifier fieldmetadata field metadata field
+MTHSIG10	getgaeaccessorbody gae accessor body fieldmetadata field metadata field javasymbolname symbol hiddenidfieldname hidden field
+VARIABLES	javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification metadataidentificationstring metadata identification identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata annotationvalues annotation values declaredfields declared fields entry field field field entityidsfieldname entity ids field field entityidsfieldname entity ids field field hiddenidfieldname hidden field field hiddenidfieldname hidden field field fieldname field field hiddenidfieldname hidden field fieldname field field hiddenidfieldname hidden field field annotation type type annotationvalues annotation values declaredfields declared fields field accessormethod accessor mutatormethod mutator hiddenidfieldname hidden field methodname bodybuilder body builder methodname parametertype parameter type parameternames parameter names bodybuilder body builder entitycollectionname entity collection entityidsname entity ids localenitiesname local enities collectionelementtype collection element type simplecollectionelementtypename simple collection element type collectiontype collection type collectionname collection instantiablecollection instantiable collection bodybuilder body builder entitycollectionname entity collection entityidsname entity ids collectionelementtype collection element type localenitiesname local enities collectiontype collection type collectionname collection instantiablecollection instantiable collection identifiermethodname identifier bodybuilder body builder identifieraccessormethodname identifier accessor entityname entity entityidname entity simplefieldtypename simple field type identifiermethodname identifier bodybuilder body builder entityname entity entityidname entity identifiermethodname identifier bodybuilder body builder builder

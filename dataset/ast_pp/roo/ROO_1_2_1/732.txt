@@ -1,0 +1,29 @@
+VARSIG6	javatype type types
+VARSIG3	projectavailable project
+VARSIG2	expectedpackage expected
+VARSIG5	path
+VARSIG4	completion expectedcompletions expected completions
+COMMENTS	unit test link javapackageconverter converter fixture asserts converting text option context expected text optioncontext option context expectedpackage expected set asserts converter asked completions expected completions projectavailable project expectedallcomplete expected complete expectedcompletions expected completions set invoke check set invoke check
+VARSIG1	optioncontext option context
+VARSIG0	text
+MTHSIG4	testconvertfromblanktext test convert blank text
+MTHSIG5	testconvertfromcompoundpackagenameinupdatecontext test convert compound update context
+MTHSIG6	testconvertfromemptytext test convert empty text
+MTHSIG7	testconvertfromnulltext test convert text
+MTHSIG0	assertconvertfromvalidtext convert valid text text optioncontext option context expectedpackage expected
+MTHSIG1	assertgetallpossiblevalues values projectavailable project completion expectedcompletions expected completions
+PACKAGE	springframework roo classpath converters
+MTHSIG2	setup set
+MTHSIG3	setupmockpom set mock pom path javatype type types
+MTHSIG8	testconvertfromsimplepackagenameinnocontext test convert simple context
+MTHSIG9	testconvertfromsimplepackagenamewithtrailingdotinnonupdatecontext test convert simple trailing dot update context
+MTHSIG15	testgetallpossiblevalueswhenprojectnotavailable test values project
+MTHSIG16	testsupportsjavapackage test supports
+MTHSIG13	testconvertfromtextwithtrailingdot test convert text trailing dot
+MTHSIG14	testgetallpossiblevalueswhenprojectisavailable test values project
+MTHSIG11	testconvertfromtextthatstartswithtoplevelpackagesymbolplusdot test convert text starts top level symbol dot
+MTHSIG12	testconvertfromtextthatstartswithtoplevelpackagesymbolplusnodot test convert text starts top level symbol dot
+CLASSES	javapackageconvertertest converter test
+METHODS	assertconvertfromvalidtext convert valid text assertgetallpossiblevalues values setup set setupmockpom set mock pom testconvertfromblanktext test convert blank text testconvertfromcompoundpackagenameinupdatecontext test convert compound update context testconvertfromemptytext test convert empty text testconvertfromnulltext test convert text testconvertfromsimplepackagenameinnocontext test convert simple context testconvertfromsimplepackagenamewithtrailingdotinnonupdatecontext test convert simple trailing dot update context testconvertfromtextthatistoplevelpackagesymbol test convert text top level symbol testconvertfromtextthatstartswithtoplevelpackagesymbolplusdot test convert text starts top level symbol dot testconvertfromtextthatstartswithtoplevelpackagesymbolplusnodot test convert text starts top level symbol dot testconvertfromtextwithtrailingdot test convert text trailing dot testgetallpossiblevalueswhenprojectisavailable test values project testgetallpossiblevalueswhenprojectnotavailable test values project testsupportsjavapackage test supports
+MTHSIG10	testconvertfromtextthatistoplevelpackagesymbol test convert text top level symbol
+VARIABLES	text optioncontext option context expectedpackage expected projectavailable project expectedcompletions expected completions path types top level converter mocklastused mock mockprojectoperations mock project operations mocktypelocationservice mock type location service mockpom mock pom completions allcomplete complete mockpom mock pom mockpom mock pom mockpom mock pom

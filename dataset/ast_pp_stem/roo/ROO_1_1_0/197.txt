@@ -1,0 +1,92 @@
+MTHSIG22	removedepend remov depend depend depend containingpath path path 
+MTHSIG23	removebuildplugin remov build plugin plugin plugin containingpath path path 
+VARSIG39	except 
+MTHSIG4	createdependencyel creat depend element depend depend document document 
+VARSIG34	except 
+MTHSIG5	removedepend remov depend depend depend 
+VARSIG33	path 
+MTHSIG6	addbuildplugin add build plugin plugin plugin 
+VARSIG32	repositori repositori 
+MTHSIG7	removebuildplugin remov build plugin plugin plugin 
+VARSIG31	except 
+MTHSIG0	activ componentcontext compon context context 
+VARSIG38	properti properti 
+MTHSIG1	metadataidentificationstr metadata identif 
+VARSIG37	except 
+PACKAGE	springframework roo addon maven 
+MTHSIG2	getprovidestyp type 
+VARSIG36	properti properti 
+MTHSIG3	adddepend add depend depend depend 
+VARSIG35	element candid 
+MTHSIG20	removeresourc remov resourc resourc resourc 
+MTHSIG21	onfileev file event fileev file event fileev file event 
+MTHSIG8	updateprojecttyp updat project type projecttyp project type projecttyp project type 
+VARSIG30	path 
+MTHSIG9	addrepositori add repositori repositori repositori 
+CLASSES	mavenprojectmetadataprovid maven project metadata provid 
+VARSIG29	containingpath path 
+VARSIG28	repositori repositori 
+METHODS	activ getprovidestyp type adddepend add depend createdependencyel creat depend element removedepend remov depend addbuildplugin add build plugin removebuildplugin remov build plugin updateprojecttyp updat project type addrepositori add repositori removerepositori remov repositori addpluginrepositori add plugin repositori removepluginrepositori remov plugin repositori addrepositori add repositori removerepositori remov repositori addproperti add properti removeproperti remov properti addfilt add filter removefilt remov filter addresourc add resourc removeresourc remov resourc onfileev file event removedepend remov depend removebuildplugin remov build plugin 
+VARSIG23	except 
+VARSIG22	projecttyp project type projecttyp project type 
+VARSIG21	plugin plugin 
+VARSIG20	depend depend 
+VARSIG27	repositori repositori 
+VARSIG26	repositori repositori 
+VARSIG25	repositori repositori 
+VARSIG24	repositori repositori 
+VARSIG62	element candid 
+VARSIG61	except 
+VARSIG60	path 
+VARSIG7	element prop 
+VARSIG6	element pluginrepositori plugin repositori 
+VARSIG9	element resourc 
+VARSIG8	element filter 
+VARSIG3	element depend 
+VARSIG2	except 
+VARSIG5	element repositori 
+VARSIG4	element plugin 
+COMMENTS	link projectmetadata project metadata simplic oper implement ship roo support link projectmetadata project metadata rebuild demand expect metadataservic metadata servic cach behalf read file project top level fallback group assum parent roo build depend list build plugin list build repositori list build plugin repositori list build properti list filter list resourc list xml don jar xml don compil add exclus defin add configur add execut defin add depend defin loop theoret declar pom loop theoret declar pom loop theoret declar pom loop theoret declar pom happen pom don notifi shut happen interest evict cach entri metadataservic metadata servic remov element identifi depend occur path loop theoret declar pom remov element identifi plugin occur path loop theoret declar pom 
+VARSIG19	goal 
+VARSIG1	metadataidentificationstr metadata identif 
+VARSIG18	execut execut 
+VARSIG0	componentcontext compon context context 
+VARSIG17	except 
+VARSIG12	depend depend 
+VARSIG56	except 
+VARSIG11	except 
+VARSIG55	path 
+VARSIG10	depend depend 
+VARSIG54	containingpath path 
+VARSIG53	depend depend 
+VARSIG16	plugin plugin 
+VARSIG15	depend depend 
+VARSIG59	containingpath path 
+VARSIG14	depend exclus 
+VARSIG58	plugin plugin 
+VARSIG13	document document 
+VARSIG57	element candid 
+VARSIG52	fileev file event fileev file event 
+VARSIG51	element candid 
+VARSIG50	except 
+MTHSIG17	addfilt add filter filter filter 
+MTHSIG18	removefilt remov filter filter filter 
+MTHSIG15	addproperti add properti properti properti 
+MTHSIG16	removeproperti remov properti properti properti 
+MTHSIG13	addrepositori add repositori repositori repositori containingpath path path 
+MTHSIG14	removerepositori remov repositori repositori repositori path 
+MTHSIG11	addpluginrepositori add plugin repositori repositori repositori 
+MTHSIG12	removepluginrepositori remov plugin repositori repositori repositori 
+MTHSIG19	addresourc add resourc resourc resourc 
+VARSIG45	element candid 
+VARSIG44	except 
+VARSIG43	filter filter 
+VARSIG42	except 
+VARSIG49	resourc resourc 
+VARSIG48	includ 
+VARSIG47	except 
+VARSIG46	resourc resourc 
+MTHSIG10	removerepositori remov repositori repositori repositori 
+VARIABLES	context metadataidentificationstr metadata identif depend plugin repositori pluginrepositori plugin repositori prop filter resourc depend depend document exclus depend plugin execut goal depend plugin projecttyp project type repositori repositori repositori repositori repositori containingpath path path repositori path candid properti properti candid filter filter candid resourc includ resourc candid fileev file event depend containingpath path path candid plugin containingpath path path candid type pathresolv path resolv filemanag file manag metadataservic metadata servic metadatadependencyregistri metadata depend registri shell pom inputstream input stream document rootel root element artifactidel artifact element artifactid artifact projectnam project groupidel group element toplevelpackagestr top level toplevelpackag top level depend buildplugin build plugin repositori pluginrepositori plugin repositori pomproperti pom properti filter resourc mutablefil mutabl file document rootel root element depend depel dep element groupid group artifactid artifact version type scope systempath system path exclus exclusionsel exclus element exclusionel exclus element exclusiongroupid exclus group exclusionartifactid exclus artifact mutablefil mutabl file document rootel root element plugin pluginel plugin element groupid group artifactid artifact version configur execut executionsel execut element executionel execut element executionid execut phase executionphas execut phase goalsel goal element goalel goal element depend dependenciesel depend element mutablefil mutabl file document packag mutablefil mutabl file document repositori repositoryel repositori element mutablefil mutabl file document mutablefil mutabl file document exist properti propertyel properti element mutablefil mutabl file document rootel root element properti mutablefil mutabl file document build exist filter filterel filter element mutablefil mutabl file document mutablefil mutabl file document build resourc resourceel resourc element directori filter includ includeel includ element mutablefil mutabl file document mutablefil mutabl file document rootel root element depend mutablefil mutabl file document rootel root element plugin 
+VARSIG41	filter filter 
+VARSIG40	element candid 

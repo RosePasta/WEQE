@@ -1,0 +1,14 @@
+VARSIG3	processmanagerstatus process manager status processmanagerstatus process manager status
+VARSIG2	processmanagerstatuslistener process manager status listener processmanagerstatuslistener process manager status listener
+VARSIG4	processmanagerstatuslistener process manager status listener listener
+COMMENTS	convenience superclass link processmanager process manager wishing publish status messages single object instance changing link processmanagerstatus process manager status needed single object instance synchronization purposes constructor initialstatus initial status obtains process manager status synchronization set process manager status synchronization change
+CLASSES	abstractprocessmanagerstatuspublisher process manager status publisher
+VARSIG1	processmanagerstatuslistener process manager status listener processmanagerstatuslistener process manager status listener
+VARSIG0	processmanagerstatus process manager status initialstatus initial status
+METHODS	addprocessmanagerstatuslistener add process manager status listener getprocessmanagerstatus process manager status removeprocessmanagerstatuslistener remove process manager status listener setprocessmanagerstatus set process manager status
+MTHSIG0	addprocessmanagerstatuslistener add process manager status listener processmanagerstatuslistener process manager status listener processmanagerstatuslistener process manager status listener
+MTHSIG1	getprocessmanagerstatus process manager status
+PACKAGE	springframework roo process manager event
+MTHSIG2	removeprocessmanagerstatuslistener remove process manager status listener processmanagerstatuslistener process manager status listener processmanagerstatuslistener process manager status listener
+MTHSIG3	setprocessmanagerstatus set process manager status processmanagerstatus process manager status processmanagerstatus process manager status
+VARIABLES	initialstatus initial status processmanagerstatuslistener process manager status listener processmanagerstatuslistener process manager status listener processmanagerstatus process manager status listener status processmanagerstatus process manager status processmanagerstatuslisteners process manager status listeners

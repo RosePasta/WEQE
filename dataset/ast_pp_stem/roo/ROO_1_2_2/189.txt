@@ -1,0 +1,15 @@
+VARSIG3	entityproxi entiti proxi proxytyp proxi type 
+VARSIG2	proxylistplac proxi list place place 
+VARSIG4	object obj 
+COMMENTS	place app deal list link entityproxi entiti proxi token 
+CLASSES	proxylistplac proxi list place 
+VARSIG1	token 
+VARSIG0	requestfactori request factori request 
+METHODS	proxylistplac proxi list place equal getproxyclass proxi hashcod hash code tostr 
+MTHSIG4	tostr 
+MTHSIG0	proxylistplac proxi list place entityproxi entiti proxi proxytyp proxi type 
+MTHSIG1	equal object obj 
+PACKAGE	top level client scaffold place 
+MTHSIG2	getproxyclass proxi 
+MTHSIG3	hashcod hash code 
+VARIABLES	request token place proxytyp proxi type obj request proxytyp proxi type prime result 

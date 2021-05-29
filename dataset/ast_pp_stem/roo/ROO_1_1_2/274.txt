@@ -1,0 +1,14 @@
+VARSIG3	clioption cli option kei path mandatori base path control listen rest re tful request default simpl form back object path 
+VARSIG2	clioption cli option kei entiti mandatori optioncontext option context updat project unspecifieddefaultvalu unspecifi entiti object control expos web tier javatyp type entiti 
+VARSIG5	oper 
+VARSIG4	clioption cli option kei disallowedoper disallow oper mandatori comma separ list oper creat updat delet allow gener control disallowedoper disallow oper 
+COMMENTS	command mvc control add roo shell 
+CLASSES	controllercommand control command 
+VARSIG1	clioption cli option kei mandatori path control object creat javatyp type control 
+VARSIG0	clioption cli option kei mandatori optioncontext option context updat control javapackag javapackag 
+METHODS	isnewcontrolleravail control generateal gener newcontrol control 
+MTHSIG0	isnewcontrolleravail control 
+MTHSIG1	generateal gener javapackag javapackag 
+PACKAGE	springframework roo addon web mvc control 
+MTHSIG2	newcontrol control javatyp type control javatyp type entiti path disallowedoper disallow oper 
+VARIABLES	javapackag control entiti path disallowedoper disallow oper oper logger controlleroper control oper metadataservic metadata servic projectmetadata project metadata entitymetadata entiti metadata disallowedoperationset disallow oper set pluralmetadata plural metadata 

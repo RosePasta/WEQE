@@ -1,0 +1,9 @@
+MTHSIG0	tailoractivate tailor activate tailorname tailor
+MTHSIG1	tailordeactivate tailor deactivate
+PACKAGE	springframework roo addon tailor
+MTHSIG2	tailorlist tailor list
+COMMENTS	commands list activate deactivate tailor configurations activates tailor configuration listed tailor list command deactivates current tailor lists tailor configurations roo shell type
+CLASSES	tailorcommands tailor commands
+VARIABLES	tailorname tailor logger configlocator config locator configs activeconfig active config iter configname config isactive active
+VARSIG0	clioption cli option key mandatory tailor configuration tailorname tailor
+METHODS	tailoractivate tailor activate tailordeactivate tailor deactivate tailorlist tailor list

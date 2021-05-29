@@ -1,0 +1,36 @@
+VARSIG7	jspfilename jsp filename
+VARSIG6	javasymbolname symbol paramname
+VARSIG9	exception
+VARSIG8	document proposed
+VARSIG3	methodmetadata metadata
+VARSIG2	metadataidentificationstring metadata identification
+VARSIG5	findername finder
+VARSIG4	fieldmetadata field metadata
+COMMENTS	listens link webscaffoldmetadata web scaffold metadata produces jsps requested metadata caution concurrent access supported work mids metadata depend javatype type path web scaffold controller can scaffold don manage jsps time shouldn needed notified change web scaffold metadata metadatadependencyregistry metadata dependency registry registerdependency register dependency webscaffoldmetadatakey web scaffold metadata key metadataidentificationstring metadata identification lookup metadata entity creating informed dependent metadata abort couldn find dependent metadata can hold entity needing build jsps install web artifacts spring mvc config missing holding directory controller directory jsps add create menu item setup labels support add list menu item finders scaffolded finder roo add find menu item clean links finders removed disk changed updated created mutablefile mutable file write contents jspcontent jsp content file build representation jsp write file file existing file contents wrote file file existed contained content include field shouldn mutator user include version field shouldn mutator user physical type changed determine local metadata identification proceed downstream dependency relationship registered registered event delivered instance specific downstream dependency processed
+VARSIG19	javatype type type
+VARSIG1	componentcontext component context context
+VARSIG18	exception
+VARSIG0	componentcontext component context context
+VARSIG17	imagepath image path
+MTHSIG4	getelegiblefields elegible fields
+VARSIG12	fieldmetadata field metadata fieldmetadata field metadata
+MTHSIG5	hasmutator mutator fieldmetadata field metadata fieldmetadata field metadata
+VARSIG11	methodmetadata metadata
+MTHSIG6	isrooidentifier roo identifier javatype type type
+VARSIG10	ioexception exception ioe
+MTHSIG7	notify upstreamdependency upstream dependency downstreamdependency downstream dependency
+MTHSIG0	activate componentcontext component context context
+VARSIG16	downstreamdependency downstream dependency
+MTHSIG1	deactivate componentcontext component context context
+VARSIG15	upstreamdependency upstream dependency
+PACKAGE	springframework roo addon web mvc jsp
+MTHSIG2	metadataidentificationstring metadata identification
+VARSIG14	javatype type type
+MTHSIG3	writetodiskifnecessary write disk jspfilename jsp filename document proposed
+VARSIG13	methodmetadata metadata mutator
+MTHSIG8	getprovidestype type
+MTHSIG9	installimage install image imagepath image path
+CLASSES	jspmetadatalistener jsp metadata listener
+METHODS	activate deactivate writetodiskifnecessary write disk getelegiblefields elegible fields hasmutator mutator isrooidentifier roo identifier notify getprovidestype type installimage install image getplural plural
+MTHSIG10	getplural plural javatype type type
+VARIABLES	context context metadataidentificationstring metadata identification findername finder paramname jspfilename jsp filename proposed ioe fieldmetadata field metadata mutator type upstreamdependency upstream dependency downstreamdependency downstream dependency imagepath image path type metadatadependencyregistry metadata dependency registry filemanager file manager metadataservice metadata service menuoperations menu operations jspoperations jsp operations pathresolver path resolver tilesoperations tiles operations propfileoperations prop file operations pluralcache plural cache beaninfometadata bean info metadata javatype type path webscaffoldmetadatakey web scaffold metadata key webscaffoldmetadata web scaffold metadata beaninfometadatakey bean info metadata key entitymetadatakey entity metadata key beaninfometadata bean info metadata entitymetadata entity metadata findermetadatakey finder metadata key findermetadata finder metadata projectmetadata project metadata elegiblefields elegible fields viewmanager view manager controllerpath controller path destinationdirectory destination directory file listpath list path showpath path categoryname category listpath list path listpath list path resourceid resource pluralresourceid plural resource fieldname field field fieldresourceid field resource pluralmetadata plural metadata allowedmenuitems allowed menu items listpath list path finderlabel finder label original mutablefile mutable file bytearrayoutputstream array output stream jspcontent jsp content fields propertyname property field physicaltypemetadata physical type metadata cid javatype type path imagefile image file pluralmetadata plural metadata

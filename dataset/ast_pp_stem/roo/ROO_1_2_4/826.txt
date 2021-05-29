@@ -1,0 +1,9 @@
+MTHSIG0	bindfileeventlisten bind file event listen fileeventlisten file event listen listen 
+MTHSIG1	unbindfileeventlisten unbind file event listen fileeventlisten file event listen listen 
+PACKAGE	springframework roo file monitor poll roo 
+COMMENTS	link pollingfilemonitorservic poll file monitor servic make osgi compon automat monitor environ environ link fileeventlisten file event listen compon 
+CLASSES	pollingfilemonitorcompon poll file monitor compon 
+VARIABLES	listen listen 
+VARSIG1	fileeventlisten file event listen listen 
+VARSIG0	fileeventlisten file event listen listen 
+METHODS	bindfileeventlisten bind file event listen unbindfileeventlisten unbind file event listen 

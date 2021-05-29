@@ -1,0 +1,48 @@
+VARSIG7	ioexception exception
+VARSIG6	javatype type typename type
+VARSIG9	declaredbymetadataid declared metadata
+VARSIG8	filecontents file contents
+VARSIG3	classorinterfacetypedetails type details cid
+VARSIG2	enumconstantdeclaration constant declaration constant
+VARSIG5	declaredbymetadataid declared metadata
+VARSIG4	fileidentifier file identifier
+COMMENTS	determine location insert create compilation unit store type created list replaced sorted version add declaration compilation unit appends presented presented body declarations body declarations presented compilation unit progressively build types compilationunit compilation unit work progress compilation unit required enclosingcompilationunitservices enclosing compilation unit services cid add required parent body declarations subclass denotes top level type compilation unit append imports declares create declaration represent actual type handling top level type type superclass handling handling adding top level type add compilation unit types top level enclosing compilationunitservices compilation unit services compilationunitservices compilation unit services created create compilation unit javatype type metadata methods hybrid compilationunitservices compilation unit services references enclosing types imports add type annotations add constants interfaces handling add fields add constructors add methods add types validate parameters load original compilation unit file load compilation unit cid update update imports update types contents
+VARSIG19	javatype type
+VARSIG1	javasymbolname symbol
+VARSIG18	javatype type current
+VARSIG0	list enumconstantdeclaration constant declaration constants
+VARSIG17	importmetadata metadata importtype type
+MTHSIG4	updateoutput update output compilationunit compilation unit compilationunit compilation unit compilationunitservices compilation unit services enclosingcompilationunitservices enclosing compilation unit services classorinterfacetypedetails type details cid list bodydeclaration body declaration parent
+VARSIG12	parseexception parse exception
+VARSIG34	parseexception parse exception
+MTHSIG5	updateandgetcompilationunitcontents update compilation unit contents fileidentifier file identifier classorinterfacetypedetails type details cid
+VARSIG11	ioexception exception
+VARSIG33	ioexception exception
+VARSIG10	javatype type typename type
+VARSIG32	ioexception exception
+VARSIG31	classorinterfacetypedetails type details cid
+MTHSIG0	addenumconstant add constant list enumconstantdeclaration constant declaration constants javasymbolname symbol
+VARSIG16	list bodydeclaration body declaration parent
+MTHSIG1	getcompilationunitcontents compilation unit contents classorinterfacetypedetails type details cid
+VARSIG15	classorinterfacetypedetails type details cid
+PACKAGE	springframework roo classpath antlrjavaparser
+MTHSIG2	gettypeatlocation type location fileidentifier file identifier declaredbymetadataid declared metadata javatype type typename type
+VARSIG14	compilationunitservices compilation unit services enclosingcompilationunitservices enclosing compilation unit services
+VARSIG36	parseexception parse exception
+MTHSIG3	gettypefromstring type filecontents file contents declaredbymetadataid declared metadata javatype type typename type
+VARSIG13	compilationunit compilation unit compilationunit compilation unit
+VARSIG35	ioexception exception
+VARSIG30	fileidentifier file identifier
+CLASSES	javaparsertypeparsingservice parser type parsing service
+VARSIG29	importdeclaration declaration importdeclaration declaration
+VARSIG28	importdeclaration declaration importdeclaration declaration
+METHODS	addenumconstant add constant getcompilationunitcontents compilation unit contents gettypeatlocation type location gettypefromstring type updateoutput update output updateandgetcompilationunitcontents update compilation unit contents
+VARSIG23	fieldmetadata field metadata candidate
+VARSIG22	javasymbolname symbol constant
+VARSIG21	annotationmetadata annotation metadata candidate
+VARSIG20	javatype type current
+VARSIG27	importdeclaration declaration importdeclaration declaration
+VARSIG26	classorinterfacetypedetails type details candidate
+VARSIG25	methodmetadata metadata candidate
+VARSIG24	constructormetadata constructor metadata candidate
+VARIABLES	constants constant cid fileidentifier file identifier declaredbymetadataid declared metadata typename type filecontents file contents declaredbymetadataid declared metadata typename type compilationunit compilation unit enclosingcompilationunitservices enclosing compilation unit services cid parent importtype type current current candidate constant candidate candidate candidate candidate importdeclaration declaration importdeclaration declaration importdeclaration declaration fileidentifier file identifier cid metadataservice metadata service typelocationservice type location service newentry entry compilationunit compilation unit types file typecontents type contents compilationunit compilation unit typedeclaration type declaration importdeclaration declaration typetoimportexpr type expr javaparsermodifier parser modifier typedeclaration type declaration classorinterfacedeclaration declaration implementslist list isinterface pnameexpr expr tempname temp presolvedname resolved extendslist list finalcompilationunitservices compilation unit services compilationunitservices compilation unit services annotations enumdeclaration declaration constants imported imports importpackage importtype type file filecontents file contents compilationunit compilation unit cidcontents cid contents cidcompilationunit cid compilation unit

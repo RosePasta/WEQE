@@ -1,0 +1,16 @@
+VARSIG3	relativepath rel path 
+VARSIG2	version 
+VARSIG4	pompath pom path 
+COMMENTS	parent declar maven pom field 
+CLASSES	parent 
+VARSIG1	artifactid artifact 
+VARSIG0	groupid group 
+METHODS	parent getgroupid group getartifactid artifact getvers version getrelativepath rel path getpompath pom path 
+MTHSIG4	getrelativepath rel path 
+MTHSIG5	getpompath pom path 
+MTHSIG0	parent groupid group artifactid artifact version relativepath rel path pompath pom path 
+MTHSIG1	getgroupid group 
+PACKAGE	springframework roo project maven 
+MTHSIG2	getartifactid artifact 
+MTHSIG3	getvers version 
+VARIABLES	groupid group artifactid artifact version relativepath rel path pompath pom path groupid group artifactid artifact version relativepath rel path pompath pom path 

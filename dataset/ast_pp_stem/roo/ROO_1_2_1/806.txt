@@ -1,0 +1,34 @@
+VARSIG7	downstreamdepend downstream depend 
+VARSIG6	upstreamdepend upstream depend 
+VARSIG9	downstreamdepend downstream depend 
+VARSIG8	upstreamdepend upstream depend 
+VARSIG3	upstream 
+VARSIG2	downstreamdepend downstream depend 
+VARSIG5	deleteupstream delet upstream 
+VARSIG4	downstreamdepend downstream depend 
+COMMENTS	implement link metadatadependencyregistri metadata depend registri implement thread safe access singl thread time enforc process manag semant avoid cost synchron kei downstream depend list kei upstream depend list acquir delet delet maintain upstream kei map exist maintain downstream kei map exist simplest outcom relationship exist don variabl don care downstream depend walk upstream depend depend parent depend graph verifi presenc propos downstream depend build set repres eventu upstream depend upstream depend depend valid upstream depend propos downstream dispatch fine grain instanc specif depend ensur upstreamdepend upstream depend downstream that care isvaliddepend valid depend dispatch coars grain specif depend upstream specif handl specif dispatch previou loop don notifi downstream direct instanc specif depend notifi previou loop don notifi upstream downstream doesn sens notifi event condit instanc regist receiv specif notif instanc caus event fire dispatch gener purpos addit listen maintain upstream kei map maintain downstream kei map 
+VARSIG1	set 
+VARSIG18	metadatanotificationlisten metadata notif listen listen 
+VARSIG0	metadatanotificationlisten metadata notif listen listen 
+VARSIG17	downstreamdepend downstream depend 
+MTHSIG4	getdownstream downstream upstreamdepend upstream depend 
+VARSIG12	upstreamdepend upstream depend 
+MTHSIG5	getupstream upstream downstreamdepend downstream depend 
+VARSIG11	downstreamdepend downstream depend 
+MTHSIG6	isvaliddepend valid depend upstreamdepend upstream depend downstreamdepend downstream depend 
+VARSIG10	upstreamdepend upstream depend 
+MTHSIG7	notifydownstream notifi downstream upstreamdepend upstream depend 
+MTHSIG0	addnotificationlisten add notif listen metadatanotificationlisten metadata notif listen listen 
+VARSIG16	upstreamdepend upstream depend 
+MTHSIG1	buildsetofallupstreamdepend build set upstream depend set downstreamdepend downstream depend 
+VARSIG15	metadatanotificationlisten metadata notif listen listen 
+PACKAGE	springframework roo metadata intern 
+MTHSIG2	deregisterdepend deregist depend downstreamdepend downstream depend 
+VARSIG14	downstream 
+MTHSIG3	deregisterdepend deregist depend upstreamdepend upstream depend downstreamdepend downstream depend 
+VARSIG13	downstream 
+MTHSIG8	registerdepend regist depend upstreamdepend upstream depend downstreamdepend downstream depend 
+MTHSIG9	removenotificationlisten remov notif listen metadatanotificationlisten metadata notif listen listen 
+CLASSES	defaultmetadatadependencyregistri metadata depend registri 
+METHODS	addnotificationlisten add notif listen buildsetofallupstreamdepend build set upstream depend deregisterdepend deregist depend deregisterdepend deregist depend getdownstream downstream getupstream upstream isvaliddepend valid depend notifydownstream notifi downstream registerdepend regist depend removenotificationlisten remov notif listen 
+VARIABLES	listen downstreamdepend downstream depend upstream downstreamdepend downstream depend deleteupstream delet upstream upstreamdepend upstream depend downstreamdepend downstream depend upstreamdepend upstream depend downstreamdepend downstream depend upstreamdepend upstream depend downstreamdepend downstream depend upstreamdepend upstream depend downstream downstream listen upstreamdepend upstream depend downstreamdepend downstream depend listen downstreamkei downstream kei listen metadatalogg metadata logger metadataservic metadata servic upstreamkei upstream kei upstream upstream upstreamtodelet upstream delet downstream upstream downstream upstream downstream allupstream upstream notifieddownstream notifi downstream responsibleclass respons asclass responsibleclass respons responsibleclass respons downstream upstream 

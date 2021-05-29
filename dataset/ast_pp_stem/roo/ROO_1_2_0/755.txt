@@ -1,0 +1,12 @@
+MTHSIG0	scannotifi scan notifi 
+MTHSIG1	notifychang notifi chang filecanonicalpath file canon path 
+VARSIG2	filecanonicalpath file canon path 
+PACKAGE	springframework roo file monitor 
+MTHSIG2	notifydelet notifi delet filecanonicalpath file canon path 
+MTHSIG3	notifycr notifi creat filecanonicalpath file canon path 
+COMMENTS	link filemonitorservic file monitor servic permit caller explicitli chang specif file file guarante includ chang notif link filemonitorservic file monitor servic scanal scan link scannotifi scan notifi call work practic problem file system provid precis file updat oper preclud poll base implement reli updat time identifi downsid type rapidli modifi file system chang failur file updat detect updat exist lightweight method explicitli record disk publish requir full scan link scanal scan notifi file explicitli advis notif method link notifiablefilemonitorservic notifi file monitor servic design faster oper full disk scan link scanal scan unnecessari note execut result chang notif number detect invoc canon path treat chang updat time equal actual disk timestamp implement file link filemonitorservic file monitor servic scanal scan link scannotifi scan notifi invoc repeatedli call file detect chang normal updat timestamp attempt verifi present path subject monitor expect link fileeventlisten file event listen ignor file interest filecanonicalpath file canon path requir notifi servic file system resourc delet filecanonicalpath file canon path 
+CLASSES	notifiablefilemonitorservic notifi file monitor servic 
+VARIABLES	filecanonicalpath file canon path filecanonicalpath file canon path filecanonicalpath file canon path 
+VARSIG1	filecanonicalpath file canon path 
+VARSIG0	filecanonicalpath file canon path 
+METHODS	scannotifi scan notifi notifychang notifi chang notifydelet notifi delet notifycr notifi creat 

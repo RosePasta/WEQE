@@ -1,0 +1,30 @@
+VARSIG7	 
+VARSIG6	javatyp type targettyp target type 
+VARSIG9	except 
+VARSIG8	jmsdestinationtyp jm destin type destinationtyp destin type 
+VARSIG3	except 
+VARSIG2	jmsdestinationtyp jm destin type destinationtyp destin type 
+VARSIG5	javasymbolnam symbol fieldnam field 
+VARSIG4	javatyp type targettyp target type 
+COMMENTS	jm configur oper physic type mutabl detail creat content peopl start creat content peopl start determin canon filenam check file doesn exist comput physic locat destin configur add 
+VARSIG1	 
+VARSIG0	jmsprovid jm provid jmsprovid jm provid 
+MTHSIG4	addjmslisten add jm listen javatyp type targettyp target type jmsdestinationtyp jm destin type destinationtyp destin type 
+VARSIG12	element depend 
+MTHSIG5	updateconfigur updat configur jmsprovid jm provid jmsprovid jm provid 
+VARSIG11	element depend 
+MTHSIG6	adddefaultdestin add destin document appctx app ctx 
+VARSIG10	jmsprovid jm provid jmsprovid jm provid 
+MTHSIG7	getphysicallocationcanonicalpath physic locat canon path physicaltypeidentifi physic type identifi 
+MTHSIG0	isinstalljmsavail instal jm 
+MTHSIG1	ismanagejmsavail manag jm 
+VARSIG15	physicaltypeidentifi physic type identifi 
+PACKAGE	springframework roo addon jm 
+MTHSIG2	installjm instal jm jmsprovid jm provid jmsprovid jm provid jmsdestinationtyp jm destin type destinationtyp destin type 
+VARSIG14	 
+MTHSIG3	injectjmstempl inject jm templat javatyp type targettyp target type javasymbolnam symbol fieldnam field 
+VARSIG13	document appctx app ctx 
+MTHSIG8	getpathresolv path resolv 
+CLASSES	jmsoperationsimpl jm oper impl 
+METHODS	isinstalljmsavail instal jm ismanagejmsavail manag jm installjm instal jm injectjmstempl inject jm templat addjmslisten add jm listen updateconfigur updat configur adddefaultdestin add destin getphysicallocationcanonicalpath physic locat canon path getpathresolv path resolv 
+VARIABLES	jmsprovid jm provid destinationtyp destin type targettyp target type fieldnam field targettyp target type destinationtyp destin type jmsprovid jm provid depend depend appctx app ctx physicaltypeidentifi physic type identifi filemanag file manag pathresolv path resolv metadataservic metadata servic physicaltypemetadataprovid physic type metadata provid projectoper project oper jmscontextpath jm context path jmscontextmutablefil jm context mutabl file appctx app ctx root needspersist persist destin listenercontain listen contain annot declaredbymetadataid declar metadata ptm ptd mutabletypedetail mutabl type detail paramtyp type paramnam name bodybuild bodi builder fieldbuild field builder methodbuild builder declaredbymetadataid declar metadata method paramtyp type paramnam name bodybuild bodi builder typedetailsbuild type detail builder physicallocationcanonicalpath physic locat canon path tocreat creat jmscontextpath jm context path jmscontextmutablefil jm context mutabl file appctx app ctx root listenercontain listen contain jmslisten jm listen bean configur springdepend spring depend depend root jmstemplat jm templat defaultdestin destin pathresolv path resolv javatyp type path relativepath rel path physicallocationcanonicalpath physic locat canon path projectmetadata project metadata 

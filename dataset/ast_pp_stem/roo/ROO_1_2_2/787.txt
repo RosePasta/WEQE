@@ -1,0 +1,28 @@
+VARSIG3	text 
+VARSIG2	text 
+VARSIG5	fileoper file oper expectedfileoper expect file oper 
+VARSIG4	file expectedfil expect file 
+COMMENTS	unit test link monitoringrequesteditor monitor request editor fixtur assert editor convert link monitoringrequest monitor request text mockmonitoringrequest mock monitor request expectedtext expect text except set invok check assert pass text link monitoringrequesteditor monitor request editor link monitoringrequest monitor request text text pass blank set invok check assert pass text link monitoringrequesteditor monitor request editor setastext set text link monitoringrequest monitor request valu text text pars link monitoringrequest monitor request expectedfil expect file file expect monitor expectedfileoper expect file oper oper expect notifi gener link monitoringrequest monitor request assert set invok check set set 
+VARSIG1	expectedtext expect text 
+VARSIG0	monitoringrequest monitor request mockmonitoringrequest mock monitor request 
+MTHSIG4	teardown tear 
+MTHSIG5	testgetastextwhenmonitoringdirectoryandsubtre test text monitor directori tree 
+MTHSIG6	testgetastextwhenmonitoringdirectoryonli test text monitor directori 
+MTHSIG7	testgetastextwhenmonitoringfil test text monitor file 
+MTHSIG0	assertastext text monitoringrequest monitor request mockmonitoringrequest mock monitor request expectedtext expect text 
+MTHSIG1	assertcreatesnullmonitoringrequest creat monitor request text 
+PACKAGE	springframework roo file monitor 
+MTHSIG2	assertmonitoringrequest monitor request text file expectedfil expect file fileoper file oper expectedfileoper expect file oper 
+MTHSIG3	setup set 
+MTHSIG8	testgetastextwhennovalueset test text set 
+MTHSIG9	testmonitordirectoryandsubtreefordelet test monitor directori subtre delet 
+MTHSIG15	testsettingtextwithnocommaisinvalid test set text comma invalid 
+MTHSIG16	testsettingtextwithnooperationcodesisinvalid test set text oper code invalid 
+MTHSIG13	testsettingemptyastextcreatesnullvalu test set empti text creat 
+MTHSIG14	testsettingnullastextcreatesnullvalu test set text creat 
+MTHSIG11	testmonitorfileforrenameupdateordelet test monitor file renam updat delet 
+MTHSIG12	testmonitoringsubtreeoffileisinvalid test monitor tree file invalid 
+CLASSES	monitoringrequesteditortest monitor request editor test 
+METHODS	assertastext text assertcreatesnullmonitoringrequest creat monitor request assertmonitoringrequest monitor request setup set teardown tear testgetastextwhenmonitoringdirectoryandsubtre test text monitor directori tree testgetastextwhenmonitoringdirectoryonli test text monitor directori testgetastextwhenmonitoringfil test text monitor file testgetastextwhennovalueset test text set testmonitordirectoryandsubtreefordelet test monitor directori subtre delet testmonitordirectorybutnotsubtreeforrenam test monitor directori subtre renam testmonitorfileforrenameupdateordelet test monitor file renam updat delet testmonitoringsubtreeoffileisinvalid test monitor tree file invalid testsettingemptyastextcreatesnullvalu test set empti text creat testsettingnullastextcreatesnullvalu test set text creat testsettingtextwithnocommaisinvalid test set text comma invalid testsettingtextwithnooperationcodesisinvalid test set text oper code invalid 
+MTHSIG10	testmonitordirectorybutnotsubtreeforrenam test monitor directori subtre renam 
+VARIABLES	mockmonitoringrequest mock monitor request expectedtext expect text text text expectedfil expect file expectedfileoper expect file oper temp dir editor testdirectori test directori testfil test file mockfil mock file oper text monitoringrequest monitor request monitoringrequest monitor request notifyon notifi mockmonitoringrequest mock monitor request mockmonitoringrequest mock monitor request monitoringrequest monitor request directorymonitoringrequest directori monitor request monitoringrequest monitor request directorymonitoringrequest directori monitor request 

@@ -1,0 +1,15 @@
+VARSIG3	element root
+VARSIG2	msg
+VARSIG5	element elaction action
+VARSIG4	element elconfig config
+COMMENTS	factory create tailorconfiguration tailor configuration xml configuration file named tailor xml shell root osgi component methods load root project directory startup shell object shell gethome running roo test mode pathresolver path resolver config file project created sample file invalid tailor xml file crash shell maps xml file contents tailorconfiguration tailor configuration object tailor supported configuration file root determine action type
+CLASSES	xmltailorconfigurationfactory xml tailor configuration factory
+VARSIG1	exception
+VARSIG0	componentcontext component context context
+METHODS	activate createtailorconfiguration create tailor configuration logtailorxmlinvalid log tailor xml invalid mapxmltotailorconfiguration map xml tailor configuration
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	createtailorconfiguration create tailor configuration
+PACKAGE	springframework roo addon tailor config xml
+MTHSIG2	logtailorxmlinvalid log tailor xml invalid msg
+MTHSIG3	mapxmltotailorconfiguration map xml tailor configuration element root
+VARIABLES	context msg root elconfig config elaction action logger filemanager file manager shellrootpath shell root path shelldirectory shell directory configfileidentifier config file identifier readxml read xml root eltailors tailors eltailor tailor result activeattribute active attribute isactive active elconfigs configs command newcmdconfig cmd config elactions actions newaction action attributes item attributekey attribute key

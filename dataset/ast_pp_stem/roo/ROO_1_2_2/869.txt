@@ -1,0 +1,16 @@
+VARSIG2	minimumdelaybetweenpol minimum delai poll 
+COMMENTS	coordin execut major roo oper link processmanag process manag deliv defin public model link processmanagerstatusprovid process manag statu provid startup time registr initi monitor request link completestartup complet startup call specif poll link filemonitorservic file monitor servic defin time abil execut link commandcallback command callback user request oper assur conduct transact model construct method link processmanag process manag oper transact manner achiev link filemanag file manag share link undomanag undo manag link processmanag process manag ordinarili wait link backgroundpol background poll link execut commandcallback command callback block link processmanag process manag return link processmanagerstatu process manag statu link processmanag process manag guarante statu remain link processmanagerstatu process manag statu start link completestartup complet startup call intend object depend link processmanag process manag link metadataservic metadata servic construct regist event initi monitor request regist link completestartup complet startup simplifi design depend object gener don retriev metadata produc listen freeli modifi file system pursuant link filemanag file manag assur correct transact behaviour success startup background poll command execut link undomanag undo manag reset call uncaught except link undomanag undo manag undo call throw except link filemonitorservic file monitor servic scanal scan call command execut call time call occur scope transact command link processmanag process manag implement guarante updat link activeprocessmanag activ process manag run oper clear oper complet execut user command transact block link processmanagerstatu process manag statu link runtimeexcept runtim except occur execut object link commandcallback command callback callback requir callback callback execut requir result execut callback system develop mode gener detail diagnost request add on default process manag termin gracefulli background thread start termin safe call process manag oper correctli termin 
+CLASSES	processmanag process manag 
+VARSIG1	developmentmod develop mode 
+VARSIG0	commandcallback command callback callback 
+METHODS	execut getlastpolldur poll durat getminimumdelaybetweenpol minimum delai poll isdevelopmentmod develop mode setdevelopmentmod set develop mode setminimumdelaybetweenpol set minimum delai poll termin timerbasedpol timer base poll 
+MTHSIG4	setdevelopmentmod set develop mode developmentmod develop mode 
+MTHSIG5	setminimumdelaybetweenpol set minimum delai poll minimumdelaybetweenpol minimum delai poll 
+MTHSIG6	termin 
+MTHSIG7	timerbasedpol timer base poll 
+MTHSIG0	execut commandcallback command callback callback 
+MTHSIG1	getlastpolldur poll durat 
+PACKAGE	springframework roo process manag 
+MTHSIG2	getminimumdelaybetweenpol minimum delai poll 
+MTHSIG3	isdevelopmentmod develop mode 
+VARIABLES	callback developmentmod develop mode minimumdelaybetweenpol minimum delai poll 

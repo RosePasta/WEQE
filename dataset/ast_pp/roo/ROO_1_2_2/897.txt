@@ -1,0 +1,49 @@
+MTHSIG4	focusmodule focus module pom module
+MTHSIG5	iscreateprojectavailable create project
+MTHSIG6	isdependencymodificationallowed dependency modification allowed
+MTHSIG7	ismodulecreationallowed module creation allowed
+MTHSIG0	adddependency add dependency groupid group artifactid artifact version classifier dependencyscope dependency scope scope
+MTHSIG1	addrepository add repository url
+PACKAGE	springframework roo project
+MTHSIG2	createmodule create module modulename module javapackage toplevelpackage top level integer majorjavaversion major version gav parentpom parent pom packagingprovider packaging provider packaging
+MTHSIG3	createproject create project javapackage toplevelpackage top level projectname project integer majorjavaversion major version gav parentpom parent pom packagingprovider packaging provider packaging
+MTHSIG8	ismodulefocusallowed module focus allowed
+MTHSIG9	isperformcommandallowed perform command allowed
+CLASSES	mavencommands maven commands
+METHODS	adddependency add dependency addrepository add repository createmodule create module createproject create project focusmodule focus module iscreateprojectavailable create project isdependencymodificationallowed dependency modification allowed ismodulecreationallowed module creation allowed ismodulefocusallowed module focus allowed isperformcommandallowed perform command allowed mvn removedependency remove dependency removerepository remove repository runassembly assembly runclean clean runeclipse runpackage runtest test
+VARSIG23	clioption cli option key classifier classifier dependency classifier
+VARSIG22	clioption cli option key version mandatory version dependency version
+VARSIG21	clioption cli option key artifactid artifact mandatory artifact dependency artifactid artifact
+VARSIG20	clioption cli option key groupid group mandatory group dependency groupid group
+VARSIG25	clioption cli option key url mandatory url repository url
+VARSIG24	clioption cli option key mandatory repository
+VARSIG7	clioption cli option key url mandatory url repository url
+VARSIG6	clioption cli option key mandatory repository
+VARSIG9	clioption cli option key toplevelpackage top level mandatory optioncontext option context update uppermost groupid group maven roo roo shell javapackage toplevelpackage top level
+VARSIG8	clioption cli option key modulename module mandatory module modulename module
+VARSIG3	clioption cli option key classifier classifier dependency classifier
+VARSIG2	clioption cli option key version mandatory version dependency version
+VARSIG5	clioption cli option key mandatory repository
+VARSIG4	clioption cli option key scope scope dependency dependencyscope dependency scope scope
+COMMENTS	shell commands link mavenoperations maven operations launch mvn commands
+VARSIG19	clioption cli option key mavencommand maven command mandatory user maven command test test command
+VARSIG1	clioption cli option key artifactid artifact mandatory artifact dependency artifactid artifact
+VARSIG18	clioption cli option key modulename module mandatory module focus pom module
+VARSIG0	clioption cli option key groupid group mandatory group dependency groupid group
+VARSIG17	clioption cli option key packaging maven packaging project unspecifieddefaultvalue unspecified jarpackaging jar packaging packagingprovider packaging provider packaging
+VARSIG12	clioption cli option key packaging maven packaging module unspecifieddefaultvalue unspecified jarpackaging jar packaging packagingprovider packaging provider packaging
+VARSIG11	clioption cli option key parent maven coordinates parent pom form groupid group artifactid artifact version gav parentpom parent pom
+VARSIG10	clioption cli option key forces major version auto detected unspecified integer majorjavaversion major version
+VARSIG16	clioption cli option key parent maven coordinates parent pom form groupid group artifactid artifact version gav parentpom parent pom
+VARSIG15	clioption cli option key forces major version auto detected unspecified integer majorjavaversion major version
+VARSIG14	clioption cli option key projectname project project segment projectname project
+VARSIG13	clioption cli option key toplevelpackage top level mandatory optioncontext option context update uppermost groupid group maven roo roo shell javapackage toplevelpackage top level
+MTHSIG17	runtest test
+MTHSIG15	runeclipse
+MTHSIG16	runpackage
+MTHSIG13	runassembly assembly
+MTHSIG14	runclean clean
+MTHSIG11	removedependency remove dependency groupid group artifactid artifact version classifier
+MTHSIG12	removerepository remove repository url
+MTHSIG10	mvn command
+VARIABLES	groupid group artifactid artifact version classifier scope url modulename module toplevelpackage top level majorjavaversion major version parentpom parent pom packaging toplevelpackage top level projectname project majorjavaversion major version parentpom parent pom packaging module command groupid group artifactid artifact version classifier url dependency add command dependency remove command module create command module focus command perform assembly command perform clean command perform command command perform command perform command perform tests command project command repository add command repository remove command mavenoperations maven operations

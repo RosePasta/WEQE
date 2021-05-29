@@ -1,0 +1,75 @@
+MTHSIG26	iscloudfoundrycommandavailable cloud foundry command
+MTHSIG27	issetupcommandavailable setup command
+MTHSIG24	renameapp rename app appname app newappname app
+MTHSIG25	setup
+MTHSIG22	map appname app url
+MTHSIG23	unmap map appname app url
+VARSIG39	url
+MTHSIG4	createservice create service service bind
+VARSIG34	instance
+MTHSIG5	deleteservice delete service service
+VARSIG33	path
+MTHSIG6	bindservice bind service service appname app
+VARSIG32	appname app
+MTHSIG7	unbindservice unbind service service appname app
+VARSIG31	instance
+MTHSIG0	info
+VARSIG38	appname app
+MTHSIG1	register email password
+VARSIG37	url
+PACKAGE	springframework roo addon cloud foundry
+MTHSIG2	login email password cloudcontrollerurl cloud controller url
+VARSIG36	appname app
+MTHSIG3	services
+VARSIG35	appname app
+MTHSIG20	files appname app path instance
+MTHSIG21	stats appname app
+MTHSIG8	apps
+VARSIG30	appname app
+MTHSIG9	push appname app integer instances integer memory path list urls
+CLASSES	cloudfoundryoperations cloud foundry operations
+VARSIG29	instance
+VARSIG28	appname app
+METHODS	info register login services createservice create service deleteservice delete service bindservice bind service unbindservice unbind service apps push start restart delete update instances mem crashes crashlogs crash logs logs files stats map unmap map renameapp rename app setup iscloudfoundrycommandavailable cloud foundry command issetupcommandavailable setup command
+VARSIG23	appname app
+VARSIG22	appname app
+VARSIG21	appname app
+VARSIG20	appname app
+VARSIG27	appname app
+VARSIG26	integer memsize mem size
+VARSIG25	appname app
+VARSIG24	number
+VARSIG7	bind
+VARSIG6	
+VARSIG9	service
+VARSIG8	service
+VARSIG3	password
+VARSIG2	email
+VARSIG5	service
+VARSIG4	cloudcontrollerurl cloud controller url
+COMMENTS	operations offered cloud foundry add initial setup cloud foundry target project check cloud foundry commands shell depends user logged cloud foundry availability check cloud foundry setup command shell availability
+VARSIG19	appname app
+VARSIG1	password
+VARSIG18	appname app
+VARSIG0	email
+VARSIG17	list urls
+VARSIG12	appname app
+VARSIG11	service
+VARSIG10	appname app
+VARSIG16	path
+VARSIG15	integer memory
+VARSIG14	integer instances
+VARSIG13	appname app
+MTHSIG17	crashes appname app
+MTHSIG18	crashlogs crash logs appname app instance
+MTHSIG15	instances appname app number
+MTHSIG16	mem appname app integer memsize mem size
+MTHSIG13	delete appname app
+MTHSIG14	update appname app
+MTHSIG11	appname app
+MTHSIG12	restart appname app
+MTHSIG19	logs appname app instance
+MTHSIG10	start appname app
+VARIABLES	email password email password cloudcontrollerurl cloud controller url service bind service service appname app service appname app appname app instances memory path urls appname app appname app appname app appname app appname app appname app number appname app memsize mem size appname app appname app instance appname app instance appname app path instance appname app appname app url appname app url appname app newappname app
+VARSIG41	newappname app
+VARSIG40	appname app

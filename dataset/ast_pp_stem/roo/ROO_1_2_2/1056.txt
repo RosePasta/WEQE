@@ -1,0 +1,15 @@
+VARSIG7	throwabl 
+VARSIG6	bundl bundl 
+VARSIG3	runtimeexcept runtim except 
+VARSIG2	bundl bundl 
+VARSIG5	typenameinexternalform type extern form 
+VARSIG4	bundlecontext bundl context context 
+COMMENTS	helper locat bundl symbol name spring roo locat bundl present type bundl symbol context bundl search requir typenameinexternalform type extern form type foo bar bundl symbol locat bundl present type context bundl search requir typenameinexternalform type extern form type foo bar 
+CLASSES	bundlefindingutil bundl find util 
+VARSIG1	typenameinexternalform type extern form 
+VARSIG0	bundlecontext bundl context context 
+METHODS	findfirstbundlefortypenam find bundl type findfirstbundlewithtyp find bundl type 
+MTHSIG0	findfirstbundlefortypenam find bundl type bundlecontext bundl context context typenameinexternalform type extern form 
+MTHSIG1	findfirstbundlewithtyp find bundl type bundlecontext bundl context context typenameinexternalform type extern form 
+PACKAGE	springframework roo support osgi 
+VARIABLES	context typenameinexternalform type extern form bundl context typenameinexternalform type extern form bundl resourcenam resourc bundl url resourcenam resourc bundl url 

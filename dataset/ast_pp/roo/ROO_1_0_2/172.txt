@@ -1,0 +1,18 @@
+VARSIG6	list annotationmetadata annotation metadata annotations
+VARSIG3	cardinality cardinality
+VARSIG2	javasymbolname symbol fieldname field
+VARSIG5	fetch fetch
+VARSIG4	joincolumnname join column
+COMMENTS	properties side relationship called reference order lineitem item link lineitem item reference order limited support collection mapping reflects pragmatic goals roo fact user edit generated files hand field intended jsr create manytoone joincolumn join column annotation
+CLASSES	referencefield reference field
+VARSIG1	javatype type fieldtype field type
+VARSIG0	physicaltypeidentifier physical type identifier
+METHODS	referencefield reference field getjoincolumnname join column setjoincolumnname set join column getfetch fetch setfetch set fetch decorateannotationslist decorate annotations list
+MTHSIG4	setfetch set fetch fetch fetch
+MTHSIG5	decorateannotationslist decorate annotations list list annotationmetadata annotation metadata annotations
+MTHSIG0	referencefield reference field physicaltypeidentifier physical type identifier javatype type fieldtype field type javasymbolname symbol fieldname field cardinality cardinality
+MTHSIG1	getjoincolumnname join column
+PACKAGE	springframework roo classpath operations jsr jsr
+MTHSIG2	setjoincolumnname set join column joincolumnname join column
+MTHSIG3	getfetch fetch
+VARIABLES	physicaltypeidentifier physical type identifier fieldtype field type fieldname field cardinality joincolumnname join column fetch annotations fieldtype field type joincolumnname join column fetch cardinality attributes jcattrs attrs

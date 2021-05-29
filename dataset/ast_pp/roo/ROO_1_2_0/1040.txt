@@ -1,0 +1,8 @@
+MTHSIG0	testclosenullcloseable test close closeable
+MTHSIG1	testclosenonnullcloseablewithouterror test close closeable error
+PACKAGE	springframework roo support util
+MTHSIG2	testclosetwononnullcloseablewitherroronfirst test close closeable error
+COMMENTS	unit test link ioutils utils shouldn exception set invoke check set invoke check
+CLASSES	ioutilstest utils test
+VARIABLES	mockcloseable mock closeable mockcloseable mock closeable mockcloseable mock closeable
+METHODS	testclosenullcloseable test close closeable testclosenonnullcloseablewithouterror test close closeable error testclosetwononnullcloseablewitherroronfirst test close closeable error

@@ -1,0 +1,33 @@
+VARSIG7	attribut attribut 
+VARSIG6	attribut attribut 
+VARSIG9	indextyp type indextyp type 
+VARSIG8	attribut attribut 
+VARSIG3	uri 
+VARSIG2	 
+VARSIG5	qname 
+VARSIG4	localnam local 
+COMMENTS	link contenthandl content handler implement convert dbre xml file link databas object constructor 
+VARSIG1	 
+VARSIG0	kei 
+MTHSIG4	geterrormessag error messag 
+VARSIG12	attribut attribut 
+MTHSIG5	getforeignkei foreign kei attribut attribut 
+VARSIG11	attribut attribut 
+MTHSIG6	getindex attribut attribut indextyp type indextyp type 
+VARSIG10	attribut attribut 
+MTHSIG7	getindexcolumn column attribut attribut 
+MTHSIG0	databasecontenthandl databas content handler 
+VARSIG16	attribut attribut 
+MTHSIG1	endel element uri localnam local qname 
+VARSIG15	qname 
+PACKAGE	springframework roo addon dbre model 
+MTHSIG2	getcolumn column attribut attribut 
+VARSIG14	localnam local 
+MTHSIG3	getdatabas databas 
+VARSIG13	uri 
+MTHSIG8	getrefer refer attribut attribut 
+MTHSIG9	gettabl tabl attribut attribut 
+CLASSES	databasecontenthandl databas content handler 
+METHODS	databasecontenthandl databas content handler endel element getcolumn column getdatabas databas geterrormessag error messag getforeignkei foreign kei getindex getindexcolumn column getrefer refer gettabl tabl startel start element 
+MTHSIG10	startel start element uri localnam local qname attribut attribut 
+VARIABLES	kei uri localnam local qname attribut attribut attribut indextyp type attribut attribut attribut uri localnam local qname attribut serialversionuid serial version uid kei activerecord activ record databas destinationpackag destin includenonportableattribut includ portabl attribut modulenam modul stack tabl testautomat test automat tmp option foreignkei foreign kei tabl type datatypeandnam data type datatyp data type typenam type columns column size scale size precisionscal precis scale column foreignkei foreign kei tabl 

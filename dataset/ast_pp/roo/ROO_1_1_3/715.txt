@@ -1,0 +1,140 @@
+MTHSIG26	encodefiletofile encode file file infile outfile
+MTHSIG27	decodefiletofile decode file file infile outfile
+MTHSIG24	decodefromfile decode file filename
+MTHSIG25	encodefromfile encode file filename
+MTHSIG22	encodetofile encode file datatoencode data encode filename
+MTHSIG23	decodetofile decode file datatodecode data decode filename
+MTHSIG4	encode encode source srcoffset src offset numsigbytes num sig bytes destination destoffset dest offset options
+VARSIG78	ioexception exception
+MTHSIG5	encode nio bytebuffer buffer raw nio bytebuffer buffer encoded
+VARSIG77	filename
+MTHSIG6	encode nio bytebuffer buffer raw nio charbuffer buffer encoded
+VARSIG76	datatodecode data decode
+MTHSIG7	encodeobject encode object serializable serializableobject serializable object
+VARSIG75	exception
+MTHSIG0	getalphabet alphabet options
+MTHSIG1	getdecodabet decodabet options
+MTHSIG2	base base
+MTHSIG3	encode encode threebytes bytes numsigbytes num sig bytes options
+VARSIG79	exception
+MTHSIG20	decodetoobject decode object encodedobject encoded object
+VARSIG70	exception
+MTHSIG21	decodetoobject decode object encodedobject encoded object options classloader loader loader
+MTHSIG8	encodeobject encode object serializable serializableobject serializable object options
+VARSIG74	ioexception exception
+MTHSIG9	encodebytes encode bytes source
+VARSIG73	filename
+VARSIG72	datatoencode data encode
+VARSIG71	exception
+METHODS	getalphabet alphabet getdecodabet decodabet base base encode encode encode encode encode encode encodeobject encode object encodeobject encode object encodebytes encode bytes encodebytes encode bytes encodebytes encode bytes encodebytes encode bytes encodebytestobytes encode bytes bytes encodebytestobytes encode bytes bytes decode decode decode decode decode decode decodetoobject decode object decodetoobject decode object encodetofile encode file decodetofile decode file decodefromfile decode file encodefromfile encode file encodefiletofile encode file file decodefiletofile decode file file
+VARSIG67	objectstreamclass object stream streamclass stream
+VARSIG66	classloader loader loader
+VARSIG65	options
+VARSIG64	encodedobject encoded object
+VARSIG69	lang classnotfoundexception exception
+VARSIG68	ioexception exception
+VARSIG63	encodedobject encoded object
+VARSIG62	exception
+VARSIG61	exception
+VARSIG60	exception
+COMMENTS	encodes decodes base base notation homepage http iharder net base base encoded base base encode mybytearray array mybytearray array base base decode encoded options parameter appears places pass pieces encoder higher level methods encodebytes encode bytes bytes options options parameter gzipping bytes encoding inserting linefeeds encoding url safe ordered dialects note rfc rfc implementations add feeds explicitly told base base set behavior earlier versions broke lines constants defined base base combine options call encoded base base encodebytes encode bytes mybytes base base gzip base base lines compress data encoding making output newline characters encoded base base encodebytes encode bytes crazystring crazy getbytes bytes change log fixed subtle base input stream contained invalid base character arrayindexoutofboundsexception array bounds exception led discovery mishandling potential handling bad input characters ioexception exception decoding bad characters fixed breaking lines encoded ended column buffer properly shrunk contained extra fixed link encodefromfile encode file estimated buffer size wrong files size bytes fixed working gzipped streams flushing base base outputstream output stream closed base base encoding padding equals signs option suppress automatic decoding gzipped streams experimental support loader link decodetoobject decode object lang lang classloader loader changed encoding ascii reduces internal footprint charencoders encoders fixed javadocs inconsistent removed imports ioexception exception explicitly inline reduced memory footprint refined guessing big encoded data code doesn create output arrays oversized initial exact sized big win link encodebytestobytes encode bytes bytes family methods gzip options mechanism streams stuff link encodebytestobytes encode bytes bytes helper methods efficient memory returning array drop replacement years comments fixes queued executed stuff wasn distribute fixes bad coding cleaned including throwing exceptions returning values affect lines compliance rfc rfc exceptions returning values operations permit gzip option streams possiblity ioexception exception thrown discussion thought changed behavior methods ioexceptions exceptions there error require code removed references system system err shame nullpointerexceptions pointer exceptions illegalargumentexceptions illegal argument exceptions needed passed arrays offsets invalid cleaned avoid warnings annoying people projects gobs warnings file fixed url safe ordered encodings fixed small files helper methods encoding decoding file support command encoding decoding file base base dialects rfc rfc format calling base base setformat set format base base base base format urlsafe format generates url file friendly format rfc rfc http faqs rfcs rfc rfc html calling base base setformat set format base base base base format ordered format generates url file friendly format preserves lexical ordering http faqs rfcc html special jim kellerman http powerset contributing base base dialects cleaned comments unused variables methods convenience methods reading writing files specifies utf encoding places code fails systems encodings ebcdic fixed error decoding single encoded data single rid methods booleans set options consolidated cleaner code detects data that decoded gzip compressed decompress automatically generally cleaner you change calls making support options format fixed decompressing decoding decode gzipcompressed gzip compressed ability suspend encoding output stream turn encoding embed base base data normal stream xml file output stream pases flush command doesn helps gzip streams ability gzip zip compress objects encoding helper methods read write files fixed outputstream output stream flush position reset flag turn breaks fixed input stream buffer read completely full returned fixed improperly padded stream error thrown wrong time fixed streams totally messed placing code domain software guarantees warranties plenty wishing visit http iharder net base base periodically check updates contribute improvements options encoding bit decoding bit data gzip compressed bit gzipped data automatically gunzipped lines encoding encode base base encoding url filename safe rfc rfc http faqs rfcs rfc rfc html note data encoded officially valid base base called base base encoded url filename safe dialect encode special ordered dialect base base http faqs rfcc html maximum length base base output equals sign character preferred encoding white space encoding equals sign encoding valid base base values host platform funny ebcdic hardcode values translates base base bit reconstruction negative number indicating meaning decimal whitespace tab linefeed decimal whitespace carriage decimal decimal whitespace space decimal sign decimal decimal slash decimal numbers decimal equals sign decimal decimal letters letters decimal letters letters decimal decimal decimal decimal decimal decimal decimal decimal decimal decimal decimal url filename safe dialect rfc rfc http faqs rfcs rfc rfc html notice bytes hyphen underscore slash decoding url filename safe dialects base base decimal whitespace tab linefeed decimal whitespace carriage decimal decimal whitespace space decimal sign decimal decimal sign decimal decimal slash decimal numbers decimal equals sign decimal decimal letters letters decimal underscore decimal decimal letters letters decimal decimal decimal decimal decimal decimal decimal decimal decimal decimal decimal don point technique requested http faqs rfcc html decoding ordered dialect base base decimal whitespace tab linefeed decimal whitespace carriage decimal decimal whitespace space decimal sign decimal decimal sign decimal decimal slash decimal numbers decimal equals sign decimal decimal letters letters decimal underscore decimal decimal letters letters decimal decimal decimal decimal decimal decimal decimal decimal decimal decimal decimal returns alphabet arrays depending options silly ordered urlsafe picked guarantee picked getalphabet alphabet returns decodabet arrays depending options silly ordered url safe picked guarantee picked getalphabet alphabet defeats instantiation encodes bytes array threebytes bytes returns array base base notation actual number bytes array numsigbytes num sig bytes array threebytes bytes big numsigbytes num sig bytes code reuse array passing array reusable array reduce array instantiation threebytes bytes array convert numsigbytes num sig bytes number bytes array array base base notation encode encode encodes bytes array source writes base base bytes destination source destination arrays manipulated length srcoffset src offset destoffset dest offset check arrays large accomodate srcoffset src offset source array destoffset dest offset destination array actual number bytes array numsigbytes num sig bytes lowest level encoding methods parameters source array convert srcoffset src offset conversion numsigbytes num sig bytes number bytes array destination array hold conversion destoffset dest offset output destination array bit position array position threebytes bytes bit groups alphabet shift additional create buffer padding bytes passed array shift left order flush treats negative encode encode performs base base encoding raw bytebuffer buffer writing encoded bytebuffer buffer experimental feature pass options link lines link gzip raw input buffer encoded output buffer input remaining performs base base encoding raw bytebuffer buffer writing encoded charbuffer buffer experimental feature pass options link lines link gzip raw input buffer encoded output buffer input remaining serializes object returns base base encoded version serialized object object serialized error ioexception exception earlier versions returned retrospect that pretty poor handle object gzip zip compressed encoded serializableobject serializable object object encode base base encoded object ioexception exception error nullpointerexception pointer exception serializedobject serialized object encodeobject encode object serializes object returns base base encoded version serialized object object serialized error ioexception exception earlier versions returned retrospect that pretty poor handle object gzip zip compressed encoded options gzip gzip compresses object encoding lines lines characters encodeobject encode object myobj obj base base gzip encodeobject encode object myobj obj base base gzip base base lines serializableobject serializable object object encode options options base base encoded object base base gzip base base lines ioexception exception error streams objectoutputstream object output stream gzip base base bytearrayoutputstream array output stream gzip gzipped block called cleanup relevant encoding fall encode encodes array base base notation gzip zip compress data source data convert data base base encoded form nullpointerexception pointer exception source array gzip encoding turned ioexception exception thrown force user encodebytes encode bytes encodes array base base notation options gzip gzip compresses object encoding lines lines characters note technically encoding compliant encodebytes encode bytes mydata data base base gzip encodebytes encode bytes mydata data base base gzip base base lines error gzip stream ioexception exception earlier versions returned retrospect that pretty poor handle source data convert options options base base encoded data base base gzip base base lines ioexception exception error nullpointerexception pointer exception source array encodebytes encode bytes encodes array base base notation gzip zip compress data error ioexception exception earlier versions returned retrospect that pretty poor handle source data convert offset array conversion len length data convert base base encoded data nullpointerexception pointer exception source array illegalargumentexception illegal argument exception source array offset length invalid gzip encoding turned ioexception exception thrown force user encodebytes encode bytes encodes array base base notation options gzip gzip compresses object encoding lines lines characters note technically encoding compliant encodebytes encode bytes mydata data base base gzip encodebytes encode bytes mydata data base base gzip base base lines error gzip stream ioexception exception earlier versions returned retrospect that pretty poor handle source data convert offset array conversion len length data convert options options base base encoded data base base gzip base base lines ioexception exception error nullpointerexception pointer exception source array illegalargumentexception illegal argument exception source array offset length invalid relevant encoding encodebytes encode bytes link encodebytes encode bytes returns array instantiating efficient you working streams large data sets encode source data convert base base encoded data ascii characters nullpointerexception pointer exception source array link encodebytes encode bytes returns array instantiating efficient you working streams large data sets encode source data convert offset array conversion len length data convert options options base base encoded data base base gzip base base lines ioexception exception error nullpointerexception pointer exception source array illegalargumentexception illegal argument exception source array offset length invalid len compress gzip zip base base bytearray array block called cleanup compress don compress streams len len len outbuff buff len len len account padding breaklines lines len len max length lines determine precisely big array don array copy save bunch memory bytes needed actual encoding extra newline characters dfor piece array padding needed resize array didn guess breaking lines falls length bytes extra array resized bad estimate array size system err println resize array outbuff buff length system err println resize array don compress encodebytestobytes encode bytes bytes decodes bytes array source writes bytes destination source destination arrays manipulated length srcoffset src offset destoffset dest offset check arrays large accomodate srcoffset src offset source array destoffset dest offset destination array returns actual number bytes converted base base encoding lowest level decoding methods parameters source array convert srcoffset src offset conversion destination array hold conversion destoffset dest offset output options alphabet type pulled standard url safe ordered number decoded bytes converted nullpointerexception pointer exception source destination arrays illegalargumentexception illegal argument exception srcoffset src offset destoffset dest offset invalid room array lots error checking exception throwing ways don outbuff buff decodabet source srcoffset src offset decodabet source srcoffset src offset dkl ways don outbuff buff decodabet source srcoffset src offset decodabet source srcoffset src offset decodabet source srcoffset src offset dkle ways don outbuff buff decodabet source srcoffset src offset decodabet source srcoffset src offset decodabet source srcoffset src offset decodabet source srcoffset src offset decodetobytes decode bytes level access decoding ascii characters form array ignores gunzip option set generally recommended internally decoding process special len empty array returned speed reduced memory footprint aren gzipping source base base encoded data decoded data ioexception exception ioexceptions exceptions gzipping zipping turned getmessage message level access decoding ascii characters form array ignores gunzip option set generally recommended internally decoding process special len empty array returned speed reduced memory footprint aren gzipping source base base encoded data offset decoding len length characters decode options options alphabet type decoded data ioexception exception bogus characters exist source data lots error checking exception throwing estimate array size upper limit size output track writing buffer source eliminating white space track input buffer source array counter special decodabet loop source white space equals sign legit base base character note values decodabets decodabe top file save whitespace time decode equals sign loop equals sign quartet built equals sign white space equals sign there bad input character base base stream input character decode decodes data base base notation automatically detecting gzip compressed data decompressing decode decoded data ioexception exception problem decodes data base base notation automatically detecting gzip compressed data decompressing decode options encode options url safe decoded data ioexception exception error nullpointerexception pointer exception change decode check gzip compressed gzip magic number reading input error bytes originally decoded bytes gzipped bytes length decode attempts decode base base data deserialize object returns error encodedobject encoded object base base data decode decoded deserialized object nullpointerexception pointer exception encodedobject encoded object ioexception exception general error classnotfoundexception exception decoded object jvm attempts decode base base data deserialize object returns error loader loader deserializing encodedobject encoded object base base data decode options parameters decoding loader optional loader deserializing classes decoded deserialized object nullpointerexception pointer exception encodedobject encoded object ioexception exception general error classnotfoundexception exception decoded object jvm decode gunzip custom loader java builtin ois loader customized object input stream loader loader resolveclass resolve ois custom loader order execute order execute decodeobject decode object convenience encoding data file error ioexception exception earlier versions returned retrospect that pretty poor handle datatoencode data encode array data encode base base form filename filename saving encoded data ioexception exception error nullpointerexception pointer exception datatoencode data encode iff execute block ioexception exception encodetofile encode file convenience decoding data file error ioexception exception earlier versions returned retrospect that pretty poor handle datatodecode data decode base base encoded data filename filename saving decoded data ioexception exception error execute block ioexception exception decodetofile decode file convenience reading base base encoded file decoding error ioexception exception earlier versions returned retrospect that pretty poor handle filename filename reading encoded data decoded array ioexception exception error set variables check size file file big open stream read save variable release execute ioexception exception decodefromfile decode file convenience reading binary file base base encoding error ioexception exception earlier versions returned retrospect that pretty poor handle filename filename reading binary data base base encoded ioexception exception error set variables max math small files corner cases open stream read save variable release execute ioexception exception encodefromfile encode file reads infile encodes outfile infile input file outfile output file ioexception exception error strict bit output release execute encodefiletofile encode file file reads infile decodes outfile infile input file outfile output file ioexception exception error release execute decodefiletofile decode file file link base base inputstream input stream read data inputstream input stream constructor encode decode base base notation fly base base encoding decoding current position buffer small buffer holding converted data length buffer number meaningful bytes buffer lines characters record options create stream local copies avoid extra calls constructs link base base inputstream input stream decode mode inputstream input stream read data constructor constructs link base base inputstream input stream encode decode mode valid options encode decode encode decode data read lines lines characters meaningful encoding base base inputstream input stream base base decode inputstream input stream read data options options base base encode base base decode base base lines record constructor reads input stream convert base base returns data stream loop stream needed input data stream encoding decoding read meaningful bytes reads stream stream needed input characters padded correctly broken decode data data relevant data encode data isn decoding throwing extra wasteful that intended unsigned position error read calls link read repeatedly stream reached len bytes read returns number bytes read array stream encountered dest array hold values offset array len max number bytes read array bytes read array stream encountered loop loop read read inputstream input stream link base base outputstream output stream write data outputstream output stream constructor encode decode base base notation fly base base scratch places record local copies avoid extra calls constructs link base base outputstream output stream encode mode outputstream output stream data written constructor constructs link base base outputstream output stream encode decode mode valid options encode decode encode decode data read lines don lines characters meaningful encoding base base outputstream output stream base base encode outputstream output stream data written options options base base encode base base decode base base lines constructor writes output stream converting base base notation encoding bytes buffered time output stream write call decoding bytes buffered time thebyte write encoding suspended supsended encode encode output encoding decoding meaningful base base character output output meaningful base base character white space decoding write calls link write repeatedly len bytes written thebytes bytes array read bytes offset array len max number bytes read array encoding suspended supsended written write phil phil rob pads buffer closing stream ioexception exception there error encoding decoding buffer partially full flush flushes closes superclass stream ensure pending characters written close stream base flushes closes close suspends encoding stream helpful embed piece base base encoded data stream ioexception exception there error flushing suspendencoding suspend encoding resumes encoding stream helpful embed piece base base encoded data stream resumeencoding resume encoding outputstream output stream base base
+VARSIG19	ioexception exception
+VARSIG18	options
+VARSIG17	serializable serializableobject serializable object
+VARSIG12	nio bytebuffer buffer raw
+VARSIG11	options
+VARSIG99	len
+VARSIG10	destoffset dest offset
+VARSIG98	
+VARSIG97	dest
+VARSIG16	serializable serializableobject serializable object
+VARSIG15	nio charbuffer buffer encoded
+VARSIG14	nio bytebuffer buffer raw
+VARSIG13	nio bytebuffer buffer encoded
+VARSIG92	ioexception exception
+VARSIG91	outfile
+VARSIG90	infile
+VARSIG96	options
+VARSIG95	inputstream input stream
+VARSIG94	inputstream input stream
+VARSIG93	exception
+MTHSIG17	decode source len options
+MTHSIG18	decode
+MTHSIG15	decode decode source srcoffset src offset destination destoffset dest offset options
+MTHSIG16	decode source
+MTHSIG13	encodebytestobytes encode bytes bytes source
+MTHSIG14	encodebytestobytes encode bytes bytes source len options
+MTHSIG11	encodebytes encode bytes source len
+MTHSIG12	encodebytes encode bytes source len options
+MTHSIG19	decode options
+VARSIG89	exception
+VARSIG88	ioexception exception
+VARSIG87	outfile
+VARSIG86	infile
+VARSIG81	ioexception exception
+MTHSIG10	encodebytes encode bytes source options
+VARSIG80	filename
+VARIABLES	options options threebytes bytes numsigbytes num sig bytes options source srcoffset src offset numsigbytes num sig bytes destination destoffset dest offset options raw encoded raw encoded serializableobject serializable object serializableobject serializable object options uue source source options source len source len options uue source source len options source srcoffset src offset destination destoffset dest offset options source source len options options uee encodedobject encoded object encodedobject encoded object options loader streamclass stream datatoencode data encode filename datatodecode data decode filename filename filename infile outfile infile outfile options dest len options thebyte thebytes bytes len options encode decode gzip dont gunzip lines url safe ordered max length equals sign preferred encoding white space enc equals sign enc standard alphabet standard decodabet url safe alphabet url safe decodabet ordered alphabet ordered decodabet alphabet inbuff buff raw raw enc enc rem raw raw enc enc rem baos gzos oos encoded baos gzos breaklines lines enclen enc len outbuff buff len len linelength length finalout decodabet outbuff buff outbuff buff outbuff buff decoded decodabet len len outbuff buff outbuffposn buff posn posn posn sbidecode sbi decode bytes dontgunzip dont gunzip head bais gzis baos buffer length objbytes obj bytes bais ois obj bos bos decodeddata decoded data bis file buffer length numbytes num bytes encodeddata encoded data bis file buffer length numbytes num bytes encoded decoded encode position buffer bufferlength buffer length numsigbytes num sig bytes linelength length breaklines lines options decodabet numbinarybytes num binary bytes encode position buffer bufferlength buffer length linelength length breaklines lines suspendencoding suspend encoding options decodabet len
+VARSIG85	exception
+VARSIG84	ioexception exception
+VARSIG83	filename
+VARSIG82	exception
+VARSIG39	len
+VARSIG34	options
+VARSIG33	len
+VARSIG32	
+VARSIG31	source
+VARSIG38	
+VARSIG37	source
+PACKAGE	springframework roo support util
+VARSIG36	source
+VARSIG35	unsupportedencodingexception unsupported encoding exception uue
+VARSIG30	len
+CLASSES	base base
+VARSIG29	
+VARSIG28	source
+VARSIG23	exception
+VARSIG22	exception
+VARSIG21	exception
+VARSIG20	exception
+VARSIG27	options
+VARSIG26	source
+VARSIG25	source
+VARSIG24	unsupportedencodingexception unsupported encoding exception uue
+VARSIG7	srcoffset src offset
+VARSIG6	source
+VARSIG9	destination
+VARSIG8	numsigbytes num sig bytes
+VARSIG3	threebytes bytes
+VARSIG2	
+VARSIG5	options
+VARSIG4	numsigbytes num sig bytes
+VARSIG1	options
+VARSIG0	options
+VARSIG56	
+VARSIG55	
+VARSIG54	options
+VARSIG53	len
+VARSIG59	ioexception exception
+VARSIG58	unsupportedencodingexception unsupported encoding exception uee
+VARSIG57	options
+VARSIG100	outputstream output stream
+VARSIG101	outputstream output stream
+VARSIG102	options
+VARSIG103	thebyte
+VARSIG104	thebytes bytes
+VARSIG52	
+VARSIG105	
+VARSIG51	source
+VARSIG106	len
+VARSIG50	source
+VARSIG45	source
+VARSIG44	exception
+VARSIG43	exception
+VARSIG42	exception
+VARSIG49	options
+VARSIG48	destoffset dest offset
+VARSIG47	destination
+VARSIG46	srcoffset src offset
+VARSIG41	ioexception exception
+VARSIG40	options

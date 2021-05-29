@@ -1,0 +1,22 @@
+VARSIG7	physicaltypeid physic type 
+VARSIG6	classorinterfacetypedetail type detail request 
+VARSIG9	downstreammid downstream mid 
+VARSIG8	upstreammid upstream mid 
+VARSIG3	javatyp type upstreamtyp upstream type 
+VARSIG2	upstreamdepend upstream depend 
+VARSIG5	memberholdingtypedetail member hold type detail upstreamtyp upstream type 
+VARSIG4	classorinterfacetypedetail type detail request 
+COMMENTS	trigger gener link gwtrequestmetadata gwt request metadata notifi link physicaltypemetadata physic type metadata user project upstream type entiti gwt request request downstream gwt request manag entiti layer compon gwt request request downstream instanc specif downstream depend process 
+CLASSES	gwtrequestmetadatanotificationlisten gwt request metadata notif listen 
+VARSIG1	componentcontext compon context context 
+VARSIG0	componentcontext compon context context 
+METHODS	activ deactiv getdownstreaminstanceid downstream instanc getdownstreamofgwtent downstream gwt entiti getdownstreamofgwtentitylayercompon downstream gwt entiti layer compon getlocalmid local mid notifi 
+MTHSIG4	getdownstreamofgwtentitylayercompon downstream gwt entiti layer compon memberholdingtypedetail member hold type detail upstreamtyp upstream type 
+MTHSIG5	getlocalmid local mid physicaltypeid physic type 
+MTHSIG6	notifi upstreammid upstream mid downstreammid downstream mid 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	deactiv componentcontext compon context context 
+PACKAGE	springframework roo addon gwt request 
+MTHSIG2	getdownstreaminstanceid downstream instanc upstreamdepend upstream depend 
+MTHSIG3	getdownstreamofgwtent downstream gwt entiti javatyp type upstreamtyp upstream type 
+VARIABLES	context context upstreamdepend upstream depend upstreamtyp upstream type request upstreamtyp upstream type request physicaltypeid physic type upstreammid upstream mid downstreammid downstream mid gwttypeservic gwt type servic metadatadependencyregistri metadata depend registri metadataservic metadata servic typelocationservic type locat servic upstreamtyp upstream type downstreamofgwtentitylayercompon downstream gwt entiti layer compon downstreamofgwtent downstream gwt entiti gwtrequestannot gwt request annot attributevalu attribut entityclass entiti layerent layer entiti entiti typenam type typepath type path downstreaminstanceid downstream instanc 

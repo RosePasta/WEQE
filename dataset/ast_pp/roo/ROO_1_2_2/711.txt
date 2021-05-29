@@ -1,0 +1,18 @@
+VARSIG3	physicaltypeid physical type
+VARSIG2	metadataid metadata
+VARSIG5	metadataidentificationstring metadata identification
+VARSIG4	metadataid metadata
+COMMENTS	manipulation functions link physicaltypemetadata physical type metadata ids level physical type metadata creates physical type metadata user project type exist link javatype type exists don link logicalpath logical path link typelocationservice type location service getphysicaltypeidentifier physical type identifier javatype type javatype type type create identifier required path path located required blank parses metadata user project type relates physicaltypeid physical type metadata parse identify instance link physicaltypeidentifier physical type identifier physical metadata type type returns level physical type metadata equivalent accessing link physical metadata type physical metadata type parses metadata path user project type relates metadataid metadata metadata parse identify instance link physicaltypeidentifier physical type identifier physical metadata type path metadata identifies physical type annotation metadataidentificationstring metadata identification metadata check constructor prevent instantiation
+CLASSES	physicaltypeidentifier physical type identifier
+VARSIG1	logicalpath logical path path
+VARSIG0	javatype type javatype type
+METHODS	createidentifier create identifier getfriendlyname friendly getjavatype type getmetadataidentifertype metadata identifer type getpath path isvalid valid physicaltypeidentifier physical type identifier
+MTHSIG4	getpath path metadataid metadata
+MTHSIG5	isvalid valid metadataidentificationstring metadata identification
+MTHSIG6	physicaltypeidentifier physical type identifier
+MTHSIG0	createidentifier create identifier javatype type javatype type logicalpath logical path path
+MTHSIG1	getfriendlyname friendly metadataid metadata
+PACKAGE	springframework roo classpath
+MTHSIG2	getjavatype type physicaltypeid physical type
+MTHSIG3	getmetadataidentifertype metadata identifer type
+VARIABLES	javatype type path metadataid metadata physicaltypeid physical type metadataid metadata metadataidentificationstring metadata identification physical metadata type physical metadata type

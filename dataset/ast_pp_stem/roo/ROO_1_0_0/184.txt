@@ -1,0 +1,21 @@
+VARSIG7	annotationexpr annot expr annot 
+VARSIG6	annotationexpr annot expr candid 
+VARSIG3	set javasymbolnam symbol typeparameternam type paramet name 
+VARSIG2	compilationunitservic compil unit servic compilationunitservic compil unit servic 
+VARSIG5	paramet 
+VARSIG4	typeparamet type paramet candid 
+COMMENTS	parser implement link constructormetadata constructor metadata convert parser modifi jdk modifi add declar type paramet list type paramet bodi lookup paramet name 
+CLASSES	javaparserconstructormetadata parser constructor metadata 
+VARSIG1	constructordeclar constructor declar constructordeclar constructor declar 
+VARSIG0	declaredbymetadataid declar metadata 
+METHODS	javaparserconstructormetadata parser constructor metadata getmodifi modifi getdeclaredbymetadataid declar metadata getannot annot getparameternam paramet name getparametertyp paramet type getbodi bodi tostr 
+MTHSIG4	getparameternam paramet name 
+MTHSIG5	getparametertyp paramet type 
+MTHSIG6	getbodi bodi 
+MTHSIG7	tostr 
+MTHSIG0	javaparserconstructormetadata parser constructor metadata declaredbymetadataid declar metadata constructordeclar constructor declar constructordeclar constructor declar compilationunitservic compil unit servic compilationunitservic compil unit servic set javasymbolnam symbol typeparameternam type paramet name 
+MTHSIG1	getmodifi modifi 
+PACKAGE	springframework roo classpath javapars detail 
+MTHSIG2	getdeclaredbymetadataid declar metadata 
+MTHSIG3	getannot annot 
+VARIABLES	declaredbymetadataid declar metadata constructordeclar constructor declar compilationunitservic compil unit servic typeparameternam type paramet name candid candid annot annot parametertyp paramet type parameternam paramet name bodi declaredbymetadataid declar metadata modifi fulltypeparamet full type paramet param currenttypeparam current type parametertyp paramet type annotationslist annot list annot tsc 

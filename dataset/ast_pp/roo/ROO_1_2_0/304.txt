@@ -1,0 +1,41 @@
+VARSIG7	itdfilename filename
+VARSIG6	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG9	memberdetails member details memberdetails member details
+VARSIG8	javatype type entity
+VARSIG3	javatype type type
+VARSIG2	itdtypedetails type details itdtypedetails type details
+VARSIG5	javatype type aspectname aspect
+VARSIG4	metadataidentificationstring metadata identification
+COMMENTS	implementation link jsfmanagedbeanmetadataprovider jsf managed bean metadata provider constants maximum number entity fields list view maximum number fields form drop field fields determine governor metadata hoping hear javatype type itds parse annotation expect remember entity javatype type matches metadata identification start clearing previous association returns iterable collection entity entity fields excluding version field flags max list view fields version fields displayable list view entity type entity entity find fields accessors required memberdetails member details entity entity members required metadataidentificationstring metadata identification metadata generated required versionaccessor version accessor identifieraccessor identifier accessor iterable collection check field displayed entity entity list view support type parameter parameter type entity test returns additions generated order invoke crud methods entity entity target entity type required metadataidentificationstring metadata identification metadata that created required map empty crud methods indeterminable exclude collections arrays values meaningful presentation interested embedded types
+VARSIG19	fieldmetadata field metadata field
+VARSIG1	componentcontext component context context
+VARSIG18	metadataidentificationstring metadata identification
+VARSIG0	componentcontext component context context
+VARSIG17	javatype type entity
+MTHSIG4	locatefields locate fields javatype type entity memberdetails member details memberdetails member details metadataidentificationstring metadata identification methodmetadata metadata identifieraccessor identifier accessor methodmetadata metadata versionaccessor version accessor
+VARSIG12	methodmetadata metadata versionaccessor version accessor
+MTHSIG5	getcrudadditions crud additions javatype type entity metadataidentificationstring metadata identification
+VARSIG11	methodmetadata metadata identifieraccessor identifier accessor
+MTHSIG6	isfieldofinterest field interest fieldmetadata field metadata field
+VARSIG10	metadataidentificationstring metadata identification
+MTHSIG7	isenum classorinterfacetypedetails type details cid
+MTHSIG0	activate componentcontext component context context
+VARSIG16	methodmetadata metadata applicationtypemethod application type
+MTHSIG1	deactivate componentcontext component context context
+VARSIG15	classorinterfacetypedetails type details managedbeantype managed bean type
+PACKAGE	springframework roo addon jsf managedbean
+MTHSIG2	getlocalmidtorequest local mid request itdtypedetails type details itdtypedetails type details
+VARSIG14	javatype type parameter
+MTHSIG3	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+VARSIG13	methodmetadata metadata
+MTHSIG8	getitduniquenessfilenamesuffix uniqueness filename suffix
+MTHSIG9	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+MTHSIG11	getprovidestype type
+CLASSES	jsfmanagedbeanmetadataproviderimpl jsf managed bean metadata provider impl
+METHODS	activate deactivate getlocalmidtorequest local mid request getmetadata metadata locatefields locate fields getcrudadditions crud additions isfieldofinterest field interest isenum getitduniquenessfilenamesuffix uniqueness filename suffix getgovernorphysicaltypeidentifier governor physical type identifier createlocalidentifier create local identifier getprovidestype type
+VARSIG23	logicalpath logical path path
+VARSIG22	javatype type javatype type
+VARSIG21	metadataidentificationstring metadata identification
+VARSIG20	classorinterfacetypedetails type details cid
+MTHSIG10	createlocalidentifier create local identifier javatype type javatype type logicalpath logical path path
+VARIABLES	context context itdtypedetails type details type metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename entity memberdetails member details metadataidentificationstring metadata identification identifieraccessor identifier accessor versionaccessor version accessor parameter managedbeantype managed bean type applicationtypemethod application type entity metadataidentificationstring metadata identification field cid metadataidentificationstring metadata identification javatype type path layer position max list view fields max drop fields configurablemetadataprovider configurable metadata provider layerservice layer service entitytomanagedbeanmidmap entity managed bean mid map managedbeanmidtoentitymap managed bean mid entity map governor localmid local mid memberholdingtypedetails member holding type details localmidtype local mid type annotationvalues annotation values entity memberdetails member details identifieraccessor identifier accessor versionaccessor version accessor locatedfields located fields oldentity entity physicaltypeidentifier physical type identifier path pluralmetadata plural metadata plural crudadditions crud additions locatedfields located fields managedbeantypes managed bean types listviewfields list view fields field customdatabuilder custom data builder fieldtype field type fieldtypecid field type cid enumerated parametertypecid parameter type cid managedbeanannotation managed bean annotation logicalpath logical path pluralmetadata plural metadata applicationtypeidentifieraccessor application type identifier accessor applicationtypeversionaccessor application type version accessor applicationtypefields application type fields dropdownfields drop fields applicationtypememberdetails application type member details applicationtypefield application type field fieldbuilder field builder idfields fields identifierfield identifier field identifiertype identifier type entityname entity entityparameter entity parameter idparameter parameter firstresultparameter result parameter maxresultsparameter max parameter additions fieldtype field type javatype type path

@@ -1,0 +1,22 @@
+VARSIG7	object obj
+VARSIG6	operation operation
+VARSIG3	entityproxy entity proxy proxyclass proxy
+VARSIG2	proxyplace proxy place place
+VARSIG5	entityproxyid entity proxy proxyid proxy
+VARSIG4	entityproxyid entity proxy record
+COMMENTS	place app deals specific link requestfactory request factory proxy record bookmarkable location scaffold app tokenizer proxyid proxy operation link operation create
+CLASSES	proxyplace proxy place
+VARSIG1	token
+VARSIG0	requestfactory request factory requests
+METHODS	proxyplace proxy place proxyplace proxy place proxyplace proxy place equals getoperation operation getproxyclass proxy getproxyid proxy hashcode hash code tostring
+MTHSIG4	getoperation operation
+MTHSIG5	getproxyclass proxy
+MTHSIG6	getproxyid proxy
+MTHSIG7	hashcode hash code
+MTHSIG0	proxyplace proxy place entityproxy entity proxy proxyclass proxy
+MTHSIG1	proxyplace proxy place entityproxyid entity proxy record
+PACKAGE	top level client scaffold place
+MTHSIG2	proxyplace proxy place entityproxyid entity proxy proxyid proxy operation operation
+MTHSIG3	equals object obj
+VARIABLES	requests token place proxyclass proxy record proxyid proxy operation obj operation separator requests bits operation proxyid proxy proxyclass proxy operation prime result
+MTHSIG8	tostring

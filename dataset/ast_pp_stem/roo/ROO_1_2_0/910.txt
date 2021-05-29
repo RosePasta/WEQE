@@ -1,0 +1,29 @@
+VARSIG7	expectedvers expect version 
+VARSIG6	expectedartifactid expect artifact 
+VARSIG9	modul modul 
+VARSIG8	providerid provid 
+VARSIG3	pomfil pom file 
+VARSIG2	pomfilenam pom file 
+VARSIG5	expectedgroupid expect group 
+VARSIG4	pom pom 
+COMMENTS	unit test link pomfactoryimpl pom factori impl constant fixtur return url pom file pomfilenam pom file pom test test url except return root element canon path pom file pomfilenam pom file pom test test pair except set invok check set invok check set invok check set invok check 
+VARSIG1	pomfilenam pom file 
+VARSIG0	pomfilenam pom file 
+MTHSIG4	invokefactori invok factori pomfil pom file 
+MTHSIG5	assertgav gav pom pom expectedgroupid expect group expectedartifactid expect artifact expectedvers expect version 
+VARSIG11	pomfilenam pom file 
+MTHSIG6	testgetminimalinst test minim instanc 
+VARSIG10	expectednam expect 
+MTHSIG7	setupmockpackagingprovid set mock packag provid providerid provid 
+MTHSIG0	setup set 
+MTHSIG1	getpomurl pom url pomfilenam pom file 
+PACKAGE	springframework roo project maven 
+MTHSIG2	getpom pom pomfilenam pom file 
+MTHSIG3	getpomfil pom file pomfilenam pom file 
+MTHSIG8	testgetinstancewithdepend test instanc depend 
+MTHSIG9	testgetinstancewithinheritedgroupid test instanc inherit group 
+MTHSIG11	assertmodul modul modul modul expectednam expect pomfilenam pom file 
+CLASSES	pomfactoryimpltest pom factori impl test 
+METHODS	setup set getpomurl pom url getpom pom getpomfil pom file invokefactori invok factori assertgav gav testgetminimalinst test minim instanc setupmockpackagingprovid set mock packag provid testgetinstancewithdepend test instanc depend testgetinstancewithinheritedgroupid test instanc inherit group testgetinstancewithpompackag test instanc pom packag assertmodul modul 
+MTHSIG10	testgetinstancewithpompackag test instanc pom packag 
+VARIABLES	pomfilenam pom file pomfilenam pom file pomfilenam pom file pomfil pom file pom expectedgroupid expect group expectedartifactid expect artifact expectedvers expect version providerid provid modul expectednam expect pomfilenam pom file modul factori mockpackagingproviderregistri mock packag provid registri pomurl pom url pomurl pom url pomfil pom file pomdocu pom document pomurl pom url pomdetail pom detail pom mockpackagingprovid mock packag provid pom depend depend pom pomfilenam pom file pom modul moduleiter modul iter parentpomdirectori parent pom directori moduledirectori modul directori modulepom modul pom 

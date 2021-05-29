@@ -1,0 +1,20 @@
+VARSIG3	keyid kei 
+VARSIG2	pgpsignatur pgp signatur signatur 
+VARSIG5	pgpkeyid pgp kei 
+VARSIG4	object obj 
+COMMENTS	repres digit hexadecim kei start uppercas uppercas shouldn 
+CLASSES	pgpkeyid pgp kei 
+VARSIG1	pgppublickei pgp kei keyid kei 
+VARSIG0	keyid kei 
+METHODS	pgpkeyid pgp kei pgpkeyid pgp kei pgpkeyid pgp kei pgpkeyid pgp kei equal hashcod hash code tostr compareto compar getid 
+MTHSIG4	equal object obj 
+MTHSIG5	hashcod hash code 
+MTHSIG6	tostr 
+MTHSIG7	compareto compar pgpkeyid pgp kei 
+MTHSIG0	pgpkeyid pgp kei keyid kei 
+MTHSIG1	pgpkeyid pgp kei pgppublickei pgp kei keyid kei 
+PACKAGE	springframework roo felix pgp 
+MTHSIG2	pgpkeyid pgp kei pgpsignatur pgp signatur signatur 
+MTHSIG3	pgpkeyid pgp kei keyid kei 
+VARIABLES	keyid kei keyid kei signatur keyid kei obj mask 
+MTHSIG8	getid 

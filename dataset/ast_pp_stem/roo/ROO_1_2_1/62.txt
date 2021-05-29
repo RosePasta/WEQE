@@ -1,0 +1,52 @@
+MTHSIG22	tostr 
+MTHSIG4	gettabl tabl schemanam schema 
+MTHSIG5	gettabl tabl 
+MTHSIG6	hashcod hash code 
+MTHSIG7	hasmultipleschema multipl schema 
+MTHSIG0	databas set tabl tabl 
+MTHSIG1	equal object obj 
+PACKAGE	springframework roo addon dbre model 
+MTHSIG2	getdestinationpackag destin 
+MTHSIG3	getmodulenam modul 
+MTHSIG20	setmodulenam set modul modulenam modul 
+MTHSIG21	settestautomat set test automat testautomat test automat 
+MTHSIG8	hastabl tabl 
+MTHSIG9	init 
+CLASSES	databas 
+METHODS	databas equal getdestinationpackag destin getmodulenam modul gettabl tabl gettabl tabl hashcod hash code hasmultipleschema multipl schema hastabl tabl init initializeexportedkei initi export initializeimportedkei initi import initializeindic initi indic initializejoint initi join tabl isactiverecord activ record isincludenonportableattribut includ portabl attribut istestautomat test automat setactiverecord set activ record setdestinationpackag set destin setincludenonportableattribut set includ portabl attribut setmodulenam set modul settestautomat set test automat tostr 
+VARSIG23	testautomat test automat 
+VARSIG22	modulenam modul 
+VARSIG21	includenonportableattribut includ portabl attribut 
+VARSIG20	javapackag destinationpackag destin 
+VARSIG7	foreignkei foreign kei exportedkei export kei 
+VARSIG6	tabl tabl 
+VARSIG9	tabl tabl 
+VARSIG8	refer refer 
+VARSIG3	schemanam schema 
+VARSIG2	 
+VARSIG5	tabl tabl 
+VARSIG4	tabl tabl 
+COMMENTS	repres databas model tabl databas gener activ record crud method entiti javapackag entiti creat includ portabl jpa attribut column annot modul entiti creat databas multipl schema tabl creat integr test constructor tabl requir initialis model establish relationship element model foreign mark repeat column insert updat determin tabl join tabl identifi join tabl tabl primari foreign point entiti tabl column activ record crud method gener entiti set activ record crud method gener entiti activerecord activ record 
+VARSIG19	activerecord activ record 
+VARSIG1	object obj 
+VARSIG18	tabl tabl 
+VARSIG0	set tabl tabl 
+VARSIG17	indexcolumn column indexcolumn column 
+VARSIG12	map entri column set foreignkei foreign kei entryset entri set 
+VARSIG11	refer refer 
+VARSIG10	foreignkei foreign kei foreignkei foreign kei 
+VARSIG16	 
+VARSIG15	tabl tabl 
+VARSIG14	refer refer 
+VARSIG13	foreignkei foreign kei foreignkei foreign kei 
+MTHSIG17	setactiverecord set activ record activerecord activ record 
+MTHSIG18	setdestinationpackag set destin javapackag destinationpackag destin 
+MTHSIG15	isincludenonportableattribut includ portabl attribut 
+MTHSIG16	istestautomat test automat 
+MTHSIG13	initializejoint initi join tabl tabl tabl 
+MTHSIG14	isactiverecord activ record 
+MTHSIG11	initializeimportedkei initi import tabl tabl 
+MTHSIG12	initializeindic initi indic tabl tabl 
+MTHSIG19	setincludenonportableattribut set includ portabl attribut includenonportableattribut includ portabl attribut 
+MTHSIG10	initializeexportedkei initi export tabl tabl 
+VARIABLES	tabl obj schemanam schema tabl tabl tabl exportedkei export kei refer tabl foreignkei foreign kei refer entryset entri set foreignkei foreign kei refer tabl indexcolumn column tabl activerecord activ record destinationpackag destin includenonportableattribut includ portabl attribut modulenam modul testautomat test automat activerecord activ record destinationpackag destin includenonportableattribut includ portabl attribut modulenam modul multipleschema multipl schema tabl testautomat test automat prime result schema keysequencemap kei sequenc map keysequ kei sequenc foreigntablenam foreign tabl foreignschemanam foreign schema targett target tabl localcolumn local column foreigncolumn foreign column keysequencemap kei sequenc map keysequ kei sequenc repeatedcolumn repeat column foreigntablenam foreign tabl foreignschemanam foreign schema targett target tabl localcolumn local column fkset set foreigncolumn foreign column foreignkei foreign column equal iter column 

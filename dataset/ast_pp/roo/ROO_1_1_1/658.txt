@@ -1,0 +1,16 @@
+VARSIG7	filename file
+VARSIG6	ioexception exception ioe
+VARSIG3	file destination
+VARSIG2	file source
+VARSIG5	file
+VARSIG4	deletedestinationonexit delete destination exit
+COMMENTS	utilities handling link file instances doesn check backslash colon issues paths windows deletes link file link file refers directory contents directory including directories deleted link file exist returns file delete required file exist file fully deleted failure deleting copies source directory destination source exist destination exist created destination exist directory file source existing source directory required destination destination directory required deletedestinationonexit delete destination exit mark created destinations deletion exit copy successful directory copy checks filename file denotes absolute path file system windows includes paths drive letters start check performed file exists filename file file absolute path filename file absolute path current check drive letter
+CLASSES	fileutils file utils
+VARSIG1	file
+VARSIG0	file file
+METHODS	deleterecursively delete recursively copyrecursively copy recursively denotesabsolutepath denotes absolute path
+MTHSIG0	deleterecursively delete recursively file file
+MTHSIG1	copyrecursively copy recursively file source file destination deletedestinationonexit delete destination exit
+PACKAGE	springframework roo support util
+MTHSIG2	denotesabsolutepath denotes absolute path filename file
+VARIABLES	file source destination deletedestinationonexit delete destination exit ioe filename file windows drive path

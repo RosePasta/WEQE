@@ -1,0 +1,2 @@
+fileconverter file converter unix specific check absolute path names breaking windows behavior
+current code checks denoting file starts file separator treat absolute path windows doesn work drive letters absolute paths

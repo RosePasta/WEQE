@@ -1,0 +1,37 @@
+VARSIG7	clioption cli option kei identifierfield identifi field mandatori jpa identifi field entiti identifierfield identifi field 
+VARSIG6	clioption cli option kei catalog mandatori jpa tabl catalog entiti catalog 
+VARSIG9	clioption cli option kei identifiertyp identifi type mandatori optioncontext option context lang project unspecifieddefaultvalu unspecifi lang specifieddefaultvalu lang data type jpa identifi field default lang javatyp type identifiertyp identifi type 
+VARSIG8	clioption cli option kei identifiercolumn identifi column mandatori jpa identifi field column entiti identifiercolumn identifi column 
+VARSIG3	clioption cli option kei testautomat test automat mandatori specifieddefaultvalu unspecifieddefaultvalu unspecifi creat automat integr test entiti testautomat test automat 
+VARSIG2	clioption cli option kei mandatori specifieddefaultvalu unspecifieddefaultvalu unspecifi gener mark createabstract creat 
+VARSIG5	clioption cli option kei schema mandatori jpa tabl schema entiti schema 
+VARSIG4	clioption cli option kei tabl mandatori jpa tabl entiti tabl 
+COMMENTS	shell command creat entiti integr test data demand dod class can test reject attempt entiti test clash data demand roo happen user insist permitreservedword permit reserv roo creat entiti entiti annot produc entiti creat entiti identifi requir 
+VARSIG19	clioption cli option kei permitreservedword permit reserv mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu reserv roo permitreservedword permit reserv 
+VARSIG1	clioption cli option kei mandatori unspecifieddefaultvalu unspecifi lang object superclass default lang object javatyp type superclass 
+VARSIG18	clioption cli option kei serializ mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu gener implement serializ serializ 
+VARSIG0	clioption cli option kei optioncontext option context updat project mandatori entiti creat javatyp type 
+VARSIG17	clioption cli option kei optioncontext option context updat project mandatori creat javatyp type 
+MTHSIG4	newdod dod javatyp type entiti javatyp type clazz permitreservedword permit reserv 
+VARSIG12	clioption cli option kei inheritancetyp inherit type mandatori jpa inherit inheritancetyp inherit type inheritancetyp inherit type 
+MTHSIG5	isentityreasonablynam entiti name javatyp type entiti 
+VARSIG11	clioption cli option kei versioncolumn version column mandatori jpa version field column entiti versioncolumn version column 
+VARSIG10	clioption cli option kei versionfield version field mandatori jpa version field entiti versionfield version field 
+MTHSIG0	ispersistentclassavail persist 
+VARSIG16	clioption cli option kei permitreservedword permit reserv mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu reserv roo permitreservedword permit reserv 
+MTHSIG1	newpersistenceclassjpa persist jpa javatyp type javatyp type superclass createabstract creat testautomat test automat tabl schema catalog identifierfield identifi field identifiercolumn identifi column javatyp type identifiertyp identifi type versionfield version field versioncolumn version column inheritancetyp inherit type inheritancetyp inherit type mappedsuperclass map superclass serializ persistenceunit persist unit permitreservedword permit reserv 
+VARSIG15	clioption cli option kei persistenceunit persist unit mandatori persist unit persist xml file persistenceunit persist unit 
+PACKAGE	springframework roo addon entiti 
+MTHSIG2	createembeddableclass creat embedd javatyp type serializ permitreservedword permit reserv 
+VARSIG14	clioption cli option kei serializ mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu gener implement serializ serializ 
+MTHSIG3	newintegrationtest integr test javatyp type entiti permitreservedword permit reserv 
+VARSIG13	clioption cli option kei mappedsuperclass map superclass mandatori specifieddefaultvalu unspecifieddefaultvalu unspecifi appli mappedsuperclass map superclass entiti mappedsuperclass map superclass 
+CLASSES	entitycommand entiti command 
+METHODS	ispersistentclassavail persist newpersistenceclassjpa persist jpa createembeddableclass creat embedd newintegrationtest integr test newdod dod isentityreasonablynam entiti name 
+VARSIG23	clioption cli option kei mandatori creat hold data demand provid default entiti dataondemand javatyp type clazz 
+VARSIG22	clioption cli option kei entiti mandatori unspecifieddefaultvalu unspecifi optioncontext option context updat project entiti data demand creat modifi requir javatyp type entiti 
+VARSIG21	clioption cli option kei permitreservedword permit reserv mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu reserv roo permitreservedword permit reserv 
+VARSIG20	clioption cli option kei entiti mandatori unspecifieddefaultvalu unspecifi optioncontext option context updat project entiti creat integr test javatyp type entiti 
+VARSIG25	javatyp type entiti 
+VARSIG24	clioption cli option kei permitreservedword permit reserv mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu reserv roo permitreservedword permit reserv 
+VARIABLES	superclass createabstract creat testautomat test automat tabl schema catalog identifierfield identifi field identifiercolumn identifi column identifiertyp identifi type versionfield version field versioncolumn version column inheritancetyp inherit type mappedsuperclass map superclass serializ persistenceunit persist unit permitreservedword permit reserv serializ permitreservedword permit reserv entiti permitreservedword permit reserv entiti clazz permitreservedword permit reserv entiti entityoper entiti oper annot rooentitybuild roo entiti builder 

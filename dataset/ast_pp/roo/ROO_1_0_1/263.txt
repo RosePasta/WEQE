@@ -1,0 +1,14 @@
+VARSIG2	path
+COMMENTS	immutable representation common file path conventions maven projects link pathresolver path resolver instances provide ability resolve paths physical locations include question mark character presented enumeration enable extension creates question mark character reserved character metadata identification tokenization required character
+CLASSES	path
+VARSIG1	object obj
+VARSIG0	
+METHODS	path getname hashcode hash code equals compareto compare tostring
+MTHSIG4	compareto compare path
+MTHSIG5	tostring
+MTHSIG0	path
+MTHSIG1	getname
+PACKAGE	springframework roo project
+MTHSIG2	hashcode hash code
+MTHSIG3	equals object obj
+VARIABLES	obj src src resources src test src test resources src webapp root spring config root

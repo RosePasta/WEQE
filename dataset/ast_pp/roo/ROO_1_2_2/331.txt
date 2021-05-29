@@ -1,0 +1,15 @@
+VARSIG3	javatype type interfacetype type
+VARSIG2	modulename module
+VARSIG4	javatype type domaintype domain type
+COMMENTS	link repositoryjpaoperations repository jpa operations implementation type exists build type care project configuration
+CLASSES	repositoryjpaoperationsimpl repository jpa operations impl
+VARSIG1	ioexception exception
+VARSIG0	element dependencyelement dependency element
+METHODS	configureproject configure project getname isinstalledinmodule installed module isrepositoryinstallationpossible repository installation setuprepository setup repository
+MTHSIG4	setuprepository setup repository javatype type interfacetype type javatype type domaintype domain type
+MTHSIG0	configureproject configure project
+MTHSIG1	getname
+PACKAGE	springframework roo addon layers repository jpa
+MTHSIG2	isinstalledinmodule installed module modulename module
+MTHSIG3	isrepositoryinstallationpossible repository installation
+VARIABLES	dependencyelement dependency element modulename module interfacetype type domaintype domain type filemanager file manager pathresolver path resolver projectoperations project operations typemanagementservice type management service configuration dependencies springdependencies spring dependencies appctxid app ctx templateinputstream template input stream outputstream output stream input mutablefile mutable file resourcespath resources path interfaceidentifier identifier interfaceannotationmetadata annotation metadata interfacemdid cidbuilder cid builder

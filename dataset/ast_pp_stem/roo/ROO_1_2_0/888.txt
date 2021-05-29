@@ -1,0 +1,52 @@
+MTHSIG4	getgroupid group element plugin 
+MTHSIG5	getvers version element plugin 
+MTHSIG6	plugin element plugin 
+MTHSIG7	plugin groupid group artifactid artifact version 
+MTHSIG0	getartifactid artifact element plugin 
+MTHSIG1	getconfigur configur element plugin 
+PACKAGE	springframework roo project 
+MTHSIG2	getdepend depend element plugin 
+MTHSIG3	getexecut execut element plugin 
+MTHSIG20	getel element document document 
+MTHSIG21	getgav gav 
+MTHSIG8	plugin groupid group artifactid artifact version configur configur collect depend depend collect execut execut 
+MTHSIG9	getgroupid group 
+CLASSES	plugin 
+METHODS	getartifactid artifact getconfigur configur getdepend depend getexecut execut getgroupid group getvers version plugin plugin plugin getgroupid group getartifactid artifact getvers version getconfigur configur getdepend depend getexecut execut hashcod hash code equal compareto compar getsimpledescript simpl descript tostr getel element getgav gav 
+VARSIG23	execut execut 
+VARSIG22	document document 
+VARSIG21	plugin 
+VARSIG20	object obj 
+VARSIG24	depend depend 
+VARSIG7	element goalel goal element 
+VARSIG6	element execut 
+VARSIG9	element plugin 
+VARSIG8	element plugin 
+VARSIG3	element dependencyel depend element 
+VARSIG2	element plugin 
+VARSIG5	element plugin 
+VARSIG4	element exclus 
+COMMENTS	simplifi immut represent maven build plugin structur model maven maven groupid group assign plugin pars plugin xml element plugin plugin maven artifactid artifact plugin xml element pars requir blank pars configur plugin global execut scope plugin xml element pars requir isn pars xml plugin element plugin plugin depend plugin xml element pars requir list groupid group artifactid artifact version pars exclus groupid group artifactid artifact pars xml plugin element plugin plugin execut plugin xml element pars requir list loop execut element plugin element pars plugin plugin maven groupid group element plugin element pars requir blank groupid group pars plugin plugin version number xml element plugin element pars requir version number empti field constructor pom style xml element defin maven plugin xml element pars requir constructor take minim maven artifact coordin groupid group group requir artifactid artifact artifact requir version version requir constructor field set groupid group group requir artifactid artifact artifact requir version version requir configur configur plugin option depend depend plugin execut execut plugin defens copi nullabl collect return plugin plugin groupid group return top level configur plugin note individu link execut link configur addit configur exist simpl descript consol output return link element add pom link document plugin plugin plugin creat xml element requir document document element belong requir element basic coordin configur execut depend return maven style coordin plugin set coordin 
+VARSIG19	collect execut execut 
+VARSIG1	element plugin 
+VARSIG18	collect depend depend 
+VARSIG0	element plugin 
+VARSIG17	configur configur 
+VARSIG12	artifactid artifact 
+VARSIG11	groupid group 
+VARSIG10	element plugin 
+VARSIG16	version 
+VARSIG15	artifactid artifact 
+VARSIG14	groupid group 
+VARSIG13	version 
+MTHSIG17	compareto compar plugin 
+MTHSIG18	getsimpledescript simpl descript 
+MTHSIG15	hashcod hash code 
+MTHSIG16	equal object obj 
+MTHSIG13	getdepend depend 
+MTHSIG14	getexecut execut 
+MTHSIG11	getvers version 
+MTHSIG12	getconfigur configur 
+MTHSIG19	tostr 
+MTHSIG10	getartifactid artifact 
+VARIABLES	plugin plugin plugin dependencyel depend element exclus plugin execut goalel goal element plugin plugin plugin groupid group artifactid artifact version groupid group artifactid artifact version configur depend execut obj document execut depend group depend groupidel group element groupid group artifactidel artifact element artifactid artifact versionel version element version depend exclusiongroupidel exclus group element exclusiongroupid exclus group exclusionartifactidel exclus artifact element exclusionartifactid exclus artifact execut idel element phaseel phase element phase goal configur versionel version element gav configur depend execut prime result result tsc pluginel plugin element configur executionsel execut element dependenciesel depend element 

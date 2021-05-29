@@ -1,0 +1,37 @@
+VARSIG7	bundlevers bundl version bundlevers bundl version 
+VARSIG6	comment comment 
+VARSIG9	bundlevers bundl version version 
+VARSIG8	bundlekei bundl kei 
+VARSIG3	comment 
+VARSIG2	list comment incom comment 
+VARSIG5	searchrelev search relev 
+VARSIG4	comment 
+COMMENTS	order rank search relev equal 
+VARSIG1	rank 
+VARSIG0	symbolicnam symbol 
+MTHSIG4	getrank rank 
+VARSIG12	bundl 
+MTHSIG5	getvers version 
+VARSIG11	list bundl bundl 
+MTHSIG6	getcom comment 
+VARSIG10	object obj 
+MTHSIG7	addcom add comment comment comment 
+MTHSIG0	bundl symbolicnam symbol rank list comment incom comment 
+VARSIG16	bundl 
+MTHSIG1	getsearchrelev search relev 
+VARSIG15	bundl 
+PACKAGE	springframework roo addon roobot client model 
+MTHSIG2	setsearchrelev set search relev searchrelev search relev 
+VARSIG14	list bundl bundl 
+MTHSIG3	getsymbolicnam symbol 
+VARSIG13	bundl 
+MTHSIG8	addvers add version bundlevers bundl version bundlevers bundl version 
+MTHSIG9	getlatestvers latest version 
+MTHSIG13	orderbyrank order rank list bundl bundl 
+MTHSIG14	orderbysearchrelev order search relev list bundl bundl 
+MTHSIG11	hashcod hash code 
+MTHSIG12	equal object obj 
+CLASSES	bundl 
+METHODS	bundl getsearchrelev search relev setsearchrelev set search relev getsymbolicnam symbol getrank rank getvers version getcom comment addcom add comment addvers add version getlatestvers latest version getbundlevers bundl version hashcod hash code equal orderbyrank order rank orderbysearchrelev order search relev 
+MTHSIG10	getbundlevers bundl version bundlekei bundl kei 
+VARIABLES	symbolicnam symbol rank incom comment searchrelev search relev comment bundlevers bundl version bundlekei bundl kei version obj bundl bundl symbolicnam symbol rank searchrelev search relev version comment version split remain prime result 

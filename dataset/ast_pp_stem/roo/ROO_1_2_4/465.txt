@@ -1,0 +1,18 @@
+VARSIG3	map option 
+VARSIG2	arg 
+VARSIG4	command 
+COMMENTS	data contain transport input command argument configur action action fill list outputcommand output command full input command incl argument list output command result transform inputcommand input command action execut pars token command argument repres kei argumentnam argumentvalu command element actual argument entri kei parserutil parser util token expect singl blank split command obsolet blank command 
+CLASSES	commandtransform command transform 
+VARSIG1	commandfrag command fragment 
+VARSIG0	command 
+METHODS	commandtransform command transform addoutputcommand add output command clearcommand clear command getargu argument getinputcommand input command getoutputcommand output command setargu set argument setinputcommand set input command 
+MTHSIG4	getinputcommand input command 
+MTHSIG5	getoutputcommand output command 
+MTHSIG6	setargu set argument map option 
+MTHSIG7	setinputcommand set input command command 
+MTHSIG0	commandtransform command transform command 
+MTHSIG1	addoutputcommand add output command commandfrag command fragment 
+PACKAGE	springframework roo addon tailor 
+MTHSIG2	clearcommand clear command 
+MTHSIG3	getargu argument 
+VARIABLES	command commandfrag command fragment arg option command inputcommand input command outputcommand output command argument outputcommand output command 

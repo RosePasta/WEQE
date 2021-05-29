@@ -1,0 +1,32 @@
+VARSIG7	javatype type targettype target type
+VARSIG6	element root
+VARSIG9	async
+VARSIG8	javasymbolname symbol fieldname field
+VARSIG3	async
+VARSIG2	javasymbolname symbol mailsendername mail sender
+VARSIG5	classorinterfacetypedetailsbuilder type details builder cidbuilder cid builder
+VARSIG4	targetclassmid target mid
+COMMENTS	implementation link mailoperationsimpl mail operations impl returns canonical path user project project applicationcontext application context xml file blank path generates send email domain type mailsendername mail sender mailsender mail sender field required async send email asynchronously targetclassmid target mid mid receive mutabletypedetails mutable type details type required builder created method body collect types names created method parameters there simplemailmessage simple mail message bean local variable set address set subject simplemailmessage simple mail message bean exists auto wire entity template injected bean template thread safety set address set message body add asynchronous email support application add task namespace spring config file write spring config file update email properties file finds simplemailmessage simple mail message bean spring xml file root element root bean physical type mutable details add mailsender mail sender field add sendmessage send message
+VARSIG1	subject
+VARSIG0	
+VARSIG17	element dependencyelement dependency element
+MTHSIG4	injectemailtemplate inject email template javatype type targettype target type javasymbolname symbol fieldname field async
+VARSIG12	port
+MTHSIG5	installemail install email hostserver host server mailprotocol mail protocol protocol port encoding username password
+VARSIG11	mailprotocol mail protocol protocol
+MTHSIG6	isemailinstallationpossible email installation
+VARSIG10	hostserver host server
+MTHSIG7	ismanageemailavailable manage email
+MTHSIG0	configuretemplatemessage configure template message subject
+VARSIG16	modulename module
+MTHSIG1	getapplicationcontextpath application context path
+VARSIG15	password
+PACKAGE	springframework roo addon email
+MTHSIG2	getsendmethod send javasymbolname symbol mailsendername mail sender async targetclassmid target mid classorinterfacetypedetailsbuilder type details builder cidbuilder cid builder
+VARSIG14	username
+MTHSIG3	getsimplemailmessagebean simple mail message bean element root
+VARSIG13	encoding
+MTHSIG8	updateconfiguration update configuration modulename module
+CLASSES	mailoperationsimpl mail operations impl
+METHODS	configuretemplatemessage configure template message getapplicationcontextpath application context path getsendmethod send getsimplemailmessagebean simple mail message bean injectemailtemplate inject email template installemail install email isemailinstallationpossible email installation ismanageemailavailable manage email updateconfiguration update configuration
+VARIABLES	subject mailsendername mail sender async targetclassmid target mid cidbuilder cid builder root targettype target type fieldname field async hostserver host server protocol port encoding username password modulename module dependencyelement dependency element local message variable logger spring task spring task xsd template message field filemanager file manager pathresolver path resolver projectoperations project operations propfileoperations prop file operations typelocationservice type location service typemanagementservice type management service contextpath context path document root props smmbean smm bean smmproperty smm property smmproperty smm property contextpath context path document root bodybuilder body builder parameters smmannotations smm annotations smmfieldbuilder smm field builder methodbuilder builder annotations declaredbymetadataid declared metadata existing cidbuilder cid builder mailsenderfieldbuilder mail sender field builder contextpath context path document root installdependencies install dependencies props mailbean mail bean property pelement element pelement element pelement element pelement element pelement element javamailproperties mail properties securityprops security props prop prop prop configuration dependencies emaildependencies email dependencies

@@ -1,0 +1,45 @@
+VARSIG7	noofcommitstorevert commit revert 
+VARSIG6	except 
+VARSIG9	revstr 
+VARSIG8	messag 
+VARSIG3	except 
+VARSIG2	messag 
+VARSIG5	revcommit rev commit commit 
+VARSIG4	maxhistori max histori 
+COMMENTS	oper git addon transport transport transport open repositori repositori getconfig config getstr remot origin url jgit transport pushresult push result transport push creat tmp branch commit rev renam master branch backup renam tmp branch master master commit updat head 
+VARSIG19	except 
+VARSIG1	ioexcept except 
+VARSIG18	ioexcept except 
+VARSIG0	componentcontext compon context context 
+VARSIG17	 
+MTHSIG4	push 
+VARSIG12	incorrectobjecttypeexcept incorrect object type except 
+MTHSIG5	log maxhistori max histori 
+VARSIG11	missingobjectexcept miss object except 
+MTHSIG6	revertcommit revert commit noofcommitstorevert commit revert messag 
+VARSIG10	messag 
+MTHSIG7	revertcommit revert commit revstr messag 
+MTHSIG0	activ componentcontext compon context context 
+VARSIG16	kei 
+MTHSIG1	isgitcommandavail git command 
+VARSIG15	categori 
+PACKAGE	springframework roo addon git 
+MTHSIG2	issetupcommandavail setup command 
+VARSIG14	except 
+MTHSIG3	commitallchang commit messag 
+VARSIG13	except ignor 
+MTHSIG8	setconfig set config categori kei 
+MTHSIG9	setup 
+MTHSIG13	loadgitignor load git ignor 
+MTHSIG11	createbranch creat branch objectid object objectid object branchnam branch 
+MTHSIG12	checkoutbranch checkout branch branchnam branch 
+CLASSES	gitoperationsimpl git oper impl 
+METHODS	activ isgitcommandavail git command issetupcommandavail setup command commitallchang commit push log revertcommit revert commit revertcommit revert commit setconfig set config setup getexclus exclus createbranch creat branch checkoutbranch checkout branch loadgitignor load git ignor 
+VARSIG23	branchnam branch 
+VARSIG22	branchnam branch 
+VARSIG21	objectid object objectid object 
+VARSIG20	ioexcept except 
+VARSIG25	ioexcept except ignor 
+VARSIG24	except ignor 
+MTHSIG10	getexclus exclus 
+VARIABLES	context messag maxhistori max histori commit noofcommitstorevert commit revert messag revstr messag ignor categori kei objectid object branchnam branch branchnam branch ignor ignor repositori person log exclus pathresolv path resolv filemanag file manag metadataservic metadata servic git rev git counter walk commit renamemast renam master renametmp renam tmp gitignor git ignor updateref updat walk head branch dco success refupd updat gitignor git ignor reader 

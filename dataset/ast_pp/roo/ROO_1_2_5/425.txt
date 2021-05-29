@@ -1,0 +1,37 @@
+VARSIG7	ranking
+VARSIG6	symbolicname symbolic
+VARSIG9	comment
+VARSIG8	list comment incomments comments
+VARSIG3	list bundle bundles
+VARSIG2	bundle
+VARSIG5	bundle
+VARSIG4	bundle
+COMMENTS	
+VARSIG1	bundle
+VARSIG0	list bundle bundles
+MTHSIG4	addversion add version bundleversion bundle version bundleversion bundle version
+VARSIG12	bundleversion bundle version bundleversion bundle version
+MTHSIG5	equals object obj
+VARSIG11	comment comment
+MTHSIG6	getbundleversion bundle version bundlekey bundle key
+VARSIG10	comment
+MTHSIG7	getcomments comments
+MTHSIG0	orderbyranking order ranking list bundle bundles
+VARSIG16	searchrelevance search relevance
+MTHSIG1	orderbysearchrelevance order search relevance list bundle bundles
+VARSIG15	bundleversion bundle version version
+PACKAGE	springframework roo addon roobot client model
+MTHSIG2	bundle symbolicname symbolic ranking list comment incomments comments
+VARSIG14	bundlekey bundle key
+MTHSIG3	addcomment add comment comment comment
+VARSIG13	object obj
+MTHSIG8	getlatestversion latest version
+MTHSIG9	getranking ranking
+MTHSIG13	hashcode hash code
+MTHSIG14	setsearchrelevance set search relevance searchrelevance search relevance
+MTHSIG11	getsymbolicname symbolic
+MTHSIG12	getversions versions
+CLASSES	bundle
+METHODS	orderbyranking order ranking orderbysearchrelevance order search relevance bundle addcomment add comment addversion add version equals getbundleversion bundle version getcomments comments getlatestversion latest version getranking ranking getsearchrelevance search relevance getsymbolicname symbolic getversions versions hashcode hash code setsearchrelevance set search relevance
+MTHSIG10	getsearchrelevance search relevance
+VARIABLES	bundles bundles symbolicname symbolic ranking incomments comments comment bundleversion bundle version obj bundlekey bundle key version searchrelevance search relevance comments ranking searchrelevance search relevance symbolicname symbolic versions split remains versions prime result

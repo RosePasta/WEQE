@@ -1,0 +1,63 @@
+VARSIG39	projectname project
+MTHSIG4	createi naddon create addon javapackage toplevelpackage top level language locale locale file messagebundle message bundle file flaggraphic flag graphic description projectname project
+VARSIG34	exception
+MTHSIG5	createproject create project javapackage toplevelpackage top level type type description projectname project
+VARSIG33	projectname project
+MTHSIG6	installifneeded install needed targetfilename target filename javapackage toplevelpackage top level path path type type projectname project
+VARSIG32	description
+MTHSIG7	writetextfile write text file fullpathfromroot full path root message projectmetadata project metadata projectmetadata project metadata
+VARSIG31	type type
+MTHSIG0	iscommandavailable command
+VARSIG38	type type
+MTHSIG1	createadvancedaddon create advanced addon javapackage toplevelpackage top level description projectname project
+VARSIG37	path path
+PACKAGE	springframework roo addon creator
+MTHSIG2	createsimpleaddon create simple addon javapackage toplevelpackage top level description projectname project
+VARSIG36	javapackage toplevelpackage top level
+MTHSIG3	createwrapperaddon create wrapper addon javapackage toplevelpackage top level groupid group artifactid artifact version vendorname vendor lincenseurl lincense url docurl doc url osgiimports osgi imports description projectname project
+VARSIG35	targetfilename target filename
+MTHSIG8	installflaggraphic install flag graphic locale locale packagepath path
+VARSIG30	javapackage toplevelpackage top level
+CLASSES	creatoroperationsimpl creator operations impl
+VARSIG29	ioexception exception ioe
+VARSIG28	ioexception exception
+METHODS	iscommandavailable command createadvancedaddon create advanced addon createsimpleaddon create simple addon createwrapperaddon create wrapper addon createi naddon create addon createproject create project installifneeded install needed writetextfile write text file installflaggraphic install flag graphic
+VARSIG23	projectname project
+VARSIG22	description
+VARSIG21	file flaggraphic flag graphic
+VARSIG20	file messagebundle message bundle
+VARSIG27	word
+VARSIG26	exception
+VARSIG25	ioexception exception
+VARSIG24	word
+VARSIG7	groupid group
+VARSIG6	javapackage toplevelpackage top level
+VARSIG9	version
+VARSIG8	artifactid artifact
+VARSIG3	javapackage toplevelpackage top level
+VARSIG2	projectname project
+VARSIG5	projectname project
+VARSIG4	description
+COMMENTS	addon generation operations read template insert user user input input replace locale locale tostring output file user destination assembly xml adjust roo annotation read template insert user user output file user retrieve icon file
+VARSIG19	locale locale
+VARSIG1	description
+VARSIG18	language
+VARSIG0	javapackage toplevelpackage top level
+VARSIG17	javapackage toplevelpackage top level
+VARSIG12	docurl doc url
+VARSIG11	lincenseurl lincense url
+VARSIG10	vendorname vendor
+VARSIG16	exception
+VARSIG15	projectname project
+VARSIG14	description
+VARSIG13	osgiimports osgi imports
+VARSIG45	locale locale
+VARSIG44	ioexception exception ioe
+VARSIG43	projectmetadata project metadata projectmetadata project metadata
+VARSIG42	message
+VARSIG48	exception ignore
+VARSIG47	exception
+VARSIG46	packagepath path
+VARIABLES	toplevelpackage top level description projectname project toplevelpackage top level description projectname project toplevelpackage top level groupid group artifactid artifact version vendorname vendor lincenseurl lincense url docurl doc url osgiimports osgi imports description projectname project toplevelpackage top level language locale messagebundle message bundle flaggraphic flag graphic description projectname project word word ioe toplevelpackage top level type description projectname project targetfilename target filename toplevelpackage top level path type projectname project ioe fullpathfromroot full path root message projectmetadata project metadata ioe locale packagepath path ignore filemanager file manager metadataservice metadata service pathresolver path resolver httpservice http service separator type pom rootelement root element config descriptione description pommutablefile pom mutable file split langwords lang langwords lang languagename language packagepath path destinationfile destination file templateinputstream template input stream input mutablefile mutable file pom rootelement root element pommutablefile pom mutable file projectmetadata project metadata tlp packagepath path destinationfile destination file templateinputstream template input stream input mutablefile mutable file path file mutablefile mutable file input success countrycode country code bis zis entry expectedentryname expected entry size buffer target bos
+VARSIG41	fullpathfromroot full path root
+VARSIG40	ioexception exception ioe

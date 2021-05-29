@@ -1,0 +1,38 @@
+VARSIG7	ioexcept except ioe 
+VARSIG6	fileidentifi file identifi 
+VARSIG9	ioexcept except 
+VARSIG8	fileidentifi file identifi 
+VARSIG3	filemonitorservic file monitor servic filemonitorservic file monitor servic 
+VARSIG2	metadatadependencyregistri metadata depend registri metadatadependencyregistri metadata depend registri 
+VARSIG5	fileidentifi file identifi 
+VARSIG4	classpathsearch classpath searcher classpathsearch classpath searcher 
+COMMENTS	implement link filemanag file manag acquir project metadata verifi path exist ensur monitor root assum monitor processmanag process manag creat directori notif happen start monitor explicitli perform scan directori monitor avoid oper valid 
+VARSIG19	antpath ant path 
+VARSIG1	undomanag undo manag undomanag undo manag 
+VARSIG18	path 
+VARSIG0	metadataservic metadata servic metadataservic metadata servic 
+VARSIG17	downstreamdepend downstream depend 
+MTHSIG4	readfil read file fileidentifi file identifi 
+VARSIG12	ioexcept except 
+MTHSIG5	createfil creat file fileidentifi file identifi 
+VARSIG11	fileidentifi file identifi 
+MTHSIG6	delet fileidentifi file identifi 
+VARSIG10	fileidentifi file identifi 
+MTHSIG7	updatefil updat file fileidentifi file identifi 
+MTHSIG0	defaultfilemanag file manag metadataservic metadata servic metadataservic metadata servic undomanag undo manag undomanag undo manag metadatadependencyregistri metadata depend registri metadatadependencyregistri metadata depend registri filemonitorservic file monitor servic filemonitorservic file monitor servic classpathsearch classpath searcher classpathsearch classpath searcher 
+VARSIG16	upstreamdepend upstream depend 
+MTHSIG1	exist fileidentifi file identifi 
+VARSIG15	fileidentifi file identifi 
+PACKAGE	springframework roo process manag intern 
+MTHSIG2	getinputstream input stream fileidentifi file identifi 
+VARSIG14	ioexcept except 
+MTHSIG3	createdirectori creat directori fileidentifi file identifi 
+VARSIG13	fileidentifi file identifi 
+MTHSIG8	notifi upstreamdepend upstream depend downstreamdepend downstream depend 
+MTHSIG9	findmatchingantpath find match ant path antpath ant path 
+MTHSIG11	scan 
+CLASSES	defaultfilemanag file manag 
+METHODS	defaultfilemanag file manag exist getinputstream input stream createdirectori creat directori readfil read file createfil creat file delet updatefil updat file notifi findmatchingantpath find match ant path findmatchingclasspathresourc find match classpath resourc scan 
+VARSIG20	antpath ant path 
+MTHSIG10	findmatchingclasspathresourc find match classpath resourc antpath ant path 
+VARIABLES	metadataservic metadata servic undomanag undo manag metadatadependencyregistri metadata depend registri filemonitorservic file monitor servic classpathsearch classpath searcher fileidentifi file identifi fileidentifi file identifi ioe fileidentifi file identifi fileidentifi file identifi fileidentifi file identifi fileidentifi file identifi fileidentifi file identifi upstreamdepend upstream depend downstreamdepend downstream depend antpath ant path antpath ant path metadataservic metadata servic undomanag undo manag filemonitorservic file monitor servic notifiablefilemonitorservic notifi file monitor servic filenameresolv filenam resolv pathsregist path regist classpathsearch classpath searcher file actual filedetail file detail actual parentdirectori parent directori actual actual pathresolv path resolv notifyon notifi fileidentifi file identifi file request 

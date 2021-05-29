@@ -1,0 +1,16 @@
+VARSIG2	path
+COMMENTS	specifies contract interactive shell interactive shell methods launched roo bootstrap mechanism envisaged implementations jline initially implementations presents console prompt user interact shell shell caller user finished session quit command exit requested exit code shell runs command control caller command execute required command successful exception parser shell level development mode exact meaning varies shell implementation developmentmode development mode development mode enabled path displayed shell prompt implementation ensure path included screen care merge product handle special formatting requirements ansi supported implementation path set empty formatted special ansi codes returns directory current running shell instance directory current shell instance
+CLASSES	shell
+VARSIG1	developmentmode development mode
+VARSIG0	
+METHODS	promptloop prompt loop getexitshellrequest exit shell request executecommand execute command getparser parser setdevelopmentmode set development mode isdevelopmentmode development mode setpromptpath set prompt path gethome
+MTHSIG4	setdevelopmentmode set development mode developmentmode development mode
+MTHSIG5	isdevelopmentmode development mode
+MTHSIG6	setpromptpath set prompt path path
+MTHSIG7	gethome
+MTHSIG0	promptloop prompt loop
+MTHSIG1	getexitshellrequest exit shell request
+PACKAGE	springframework roo shell
+MTHSIG2	executecommand execute command
+MTHSIG3	getparser parser
+VARIABLES	developmentmode development mode path

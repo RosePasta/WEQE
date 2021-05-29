@@ -1,0 +1,54 @@
+MTHSIG4	getproxymethod proxi method classorinterfacetypedetail type detail governortypedetail governor type detail 
+MTHSIG5	isdomainobject domain object javatyp type type 
+MTHSIG6	ismethodreturntypeinsourcepath type sourc path methodmetadata metadata memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail iter javapackag sourcepackag sourc packag 
+MTHSIG7	getsourcepackag sourc packag modulenam modul 
+MTHSIG0	getgwtsideleaftyp gwt side leaf type javatyp type returntyp type javatyp type governortyp governor type requesttyp request type convertprimit convert primit 
+MTHSIG1	getextendstyp type classorinterfacetypedetail type detail childtyp child type 
+PACKAGE	springframework roo addon gwt 
+MTHSIG2	buildtyp build type gwttype gwt type desttyp dest type classorinterfacetypedetail type detail templateclass templat list memberholdingtypedetail member hold type detail extendstyp type modulenam modul 
+MTHSIG3	buildtyp build type gwttype gwt type desttyp dest type list classorinterfacetypedetail type detail templatetypedetail templat type detail modulenam modul 
+MTHSIG8	lookuprequestfromproxi lookup request proxi classorinterfacetypedetail type detail proxi 
+MTHSIG9	lookupproxyfromrequest lookup proxi request classorinterfacetypedetail type detail request 
+CLASSES	gwttypeservic gwt type servic 
+VARSIG29	modulenam modul 
+VARSIG28	modulenam modul 
+METHODS	getgwtsideleaftyp gwt side leaf type getextendstyp type buildtyp build type buildtyp build type getproxymethod proxi method isdomainobject domain object ismethodreturntypeinsourcepath type sourc path getsourcepackag sourc packag lookuprequestfromproxi lookup request proxi lookupproxyfromrequest lookup proxi request lookuprequestfroment lookup request entiti lookupproxyfroment lookup proxi entiti lookupentityfromproxi lookup entiti proxi lookupentityfromrequest lookup entiti request lookupentityfromloc lookup entiti locat lookuptargetservicefromrequest lookup target servic request getgwtmodulexml gwt modul xml addsourcepath add sourc path getserviceloc servic locat 
+VARSIG23	classorinterfacetypedetail type detail request 
+VARSIG22	classorinterfacetypedetail type detail proxi 
+VARSIG21	classorinterfacetypedetail type detail entiti 
+VARSIG20	classorinterfacetypedetail type detail entiti 
+VARSIG27	sourcepath sourc path 
+VARSIG26	modulenam modul 
+VARSIG25	classorinterfacetypedetail type detail request 
+VARSIG24	classorinterfacetypedetail type detail request 
+VARSIG7	list memberholdingtypedetail member hold type detail extendstyp type 
+VARSIG6	classorinterfacetypedetail type detail templateclass templat 
+VARSIG9	gwttype gwt type desttyp dest type 
+VARSIG8	modulenam modul 
+VARSIG3	convertprimit convert primit 
+VARSIG2	requesttyp request type 
+VARSIG5	gwttype gwt type desttyp dest type 
+VARSIG4	classorinterfacetypedetail type detail childtyp child type 
+COMMENTS	link gwttypeserviceimpl gwt type servic impl method type resid gwt sourc packag memberholdingtypedetail member hold type detail sourcepackag sourc packag return packag modul gwt sourc modulenam modul modul empti root modul collect add gwt sourc path modul modul gwt xml file sourcepath sourc path path rel gwt xml file delimit link gwtoper gwt oper path delimit modulenam modul project modul gwt xml file updat return project type modul link googl web binderi requestfactori share serviceloc servic locat guarante type exist modulenam modul modul find locat can type 
+VARSIG19	classorinterfacetypedetail type detail request 
+VARSIG1	javatyp type governortyp governor type 
+VARSIG18	classorinterfacetypedetail type detail proxi 
+VARSIG0	javatyp type returntyp type 
+VARSIG17	modulenam modul 
+VARSIG12	classorinterfacetypedetail type detail governortypedetail governor type detail 
+VARSIG11	modulenam modul 
+VARSIG10	list classorinterfacetypedetail type detail templatetypedetail templat type detail 
+VARSIG16	iter javapackag sourcepackag sourc packag 
+VARSIG15	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG14	methodmetadata metadata 
+VARSIG13	javatyp type type 
+MTHSIG17	addsourcepath add sourc path sourcepath sourc path modulenam modul 
+MTHSIG18	getserviceloc servic locat modulenam modul 
+MTHSIG15	lookuptargetservicefromrequest lookup target servic request classorinterfacetypedetail type detail request 
+MTHSIG16	getgwtmodulexml gwt modul xml modulenam modul 
+MTHSIG13	lookupentityfromrequest lookup entiti request classorinterfacetypedetail type detail request 
+MTHSIG14	lookupentityfromloc lookup entiti locat classorinterfacetypedetail type detail request 
+MTHSIG11	lookupproxyfroment lookup proxi entiti classorinterfacetypedetail type detail entiti 
+MTHSIG12	lookupentityfromproxi lookup entiti proxi classorinterfacetypedetail type detail proxi 
+MTHSIG10	lookuprequestfroment lookup request entiti classorinterfacetypedetail type detail entiti 
+VARIABLES	returntyp type governortyp governor type requesttyp request type convertprimit convert primit childtyp child type desttyp dest type templateclass templat extendstyp type modulenam modul desttyp dest type templatetypedetail templat type detail modulenam modul governortypedetail governor type detail type memberholdingtypedetail member hold type detail sourcepackag sourc packag modulenam modul proxi request entiti entiti proxi request request request modulenam modul sourcepath sourc path modulenam modul modulenam modul 

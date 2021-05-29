@@ -1,0 +1,61 @@
+MTHSIG4	init classorinterfacetypedetails type details existing
+MTHSIG5	getname
+VARSIG33	collection importmetadata metadata imports
+MTHSIG6	setname set javatype type
+VARSIG32	javatype type type
+MTHSIG7	getphysicaltypecategory physical type category
+VARSIG31	javatype type type
+MTHSIG0	classorinterfacetypedetailsbuilder type details builder declaredbymetadataid declaredby metadata
+MTHSIG1	classorinterfacetypedetailsbuilder type details builder classorinterfacetypedetails type details existing
+PACKAGE	springframework roo classpath details
+MTHSIG2	classorinterfacetypedetailsbuilder type details builder declaredbymetadataid declaredby metadata classorinterfacetypedetails type details existing
+MTHSIG3	classorinterfacetypedetailsbuilder type details builder declaredbymetadataid declaredby metadata modifier javatype type physicaltypecategory physical type category physicaltypecategory physical type category
+MTHSIG20	copyto copy abstractmemberholdingtypedetailsbuilder member holding type details builder targetbuilder target builder classorinterfacetypedetails type details governordetails governor details
+MTHSIG21	addimports add imports collection importmetadata metadata imports
+MTHSIG8	setphysicaltypecategory set physical type category physicaltypecategory physical type category physicaltypecategory physical type category
+VARSIG30	classorinterfacetypedetailsbuilder type details builder targetinnertype target type
+MTHSIG9	getsuperclass superclass
+CLASSES	classorinterfacetypedetailsbuilder type details builder
+VARSIG29	classorinterfacetypedetailsbuilder type details builder innertype type
+VARSIG28	initializermetadatabuilder initializer metadata builder initializer
+METHODS	classorinterfacetypedetailsbuilder type details builder classorinterfacetypedetailsbuilder type details builder classorinterfacetypedetailsbuilder type details builder classorinterfacetypedetailsbuilder type details builder init getname setname set getphysicaltypecategory physical type category setphysicaltypecategory set physical type category getsuperclass superclass setsuperclass set superclass setsuperclass set superclass getenumconstants constants setenumconstants set constants addenumconstant add constant build getregisteredimports registered imports setregisteredimports set registered imports add add copyto copy addimports add imports
+VARSIG23	methodmetadatabuilder metadata builder targetmethod target
+VARSIG22	methodmetadatabuilder metadata builder
+VARSIG21	fieldmetadatabuilder field metadata builder targetfield target field
+VARSIG20	fieldmetadatabuilder field metadata builder field
+VARSIG27	constructormetadatabuilder constructor metadata builder targetconstructor target constructor
+VARSIG26	constructormetadatabuilder constructor metadata builder constructor
+VARSIG25	annotationmetadatabuilder annotation metadata builder targetannotation target annotation
+VARSIG24	annotationmetadatabuilder annotation metadata builder annotation
+VARSIG7	physicaltypecategory physical type category physicaltypecategory physical type category
+VARSIG6	javatype type
+VARSIG9	javatype type
+VARSIG8	classorinterfacetypedetails type details existing
+VARSIG3	classorinterfacetypedetails type details existing
+VARSIG2	declaredbymetadataid declaredby metadata
+VARSIG5	modifier
+VARSIG4	declaredbymetadataid declaredby metadata
+COMMENTS	builder link classorinterfacetypedetails type details fields constructor declaredbymetadataid declaredby metadata constructor existing constructor declaredbymetadataid declaredby metadata existing constructor declaredbymetadataid declaredby metadata modifier physicaltypecategory physical type category sets builder builder constants collection enumconstants constants defensively copied returns builder builder imports copy sets builder builder imports registeredimports registered imports defensively copied adds builder importmetadata metadata add add builder changed adds imports builder imports imports add builder changed copies builder builder modifications builder targetbuilder target builder builder receive additions required governordetails governor details link classorinterfacetypedetails type details governor required copy fields field exists move copy methods copy annotations copy custom data copy constructors copy initializers copy types copy types copy types copy imports
+VARSIG19	classorinterfacetypedetails type details governordetails governor details
+VARSIG1	classorinterfacetypedetails type details existing
+VARSIG18	abstractmemberholdingtypedetailsbuilder member holding type details builder targetbuilder target builder
+VARSIG0	declaredbymetadataid declaredby metadata
+VARSIG17	collection importmetadata metadata imports
+VARSIG12	classorinterfacetypedetails type details superclass
+VARSIG11	classorinterfacetypedetailsbuilder type details builder superclass
+VARSIG10	physicaltypecategory physical type category physicaltypecategory physical type category
+VARSIG16	importmetadata metadata importmetadata metadata
+VARSIG15	collection importmetadata metadata registeredimports registered imports
+VARSIG14	javasymbolname symbol javasymbolname symbol
+VARSIG13	collection javasymbolname symbol enumconstants constants
+MTHSIG17	setregisteredimports set registered imports collection importmetadata metadata registeredimports registered imports
+MTHSIG18	add importmetadata metadata importmetadata metadata
+MTHSIG15	build
+MTHSIG16	getregisteredimports registered imports
+MTHSIG13	setenumconstants set constants collection javasymbolname symbol enumconstants constants
+MTHSIG14	addenumconstant add constant javasymbolname symbol javasymbolname symbol
+MTHSIG11	setsuperclass set superclass classorinterfacetypedetails type details superclass
+MTHSIG12	getenumconstants constants
+MTHSIG19	add collection importmetadata metadata imports
+MTHSIG10	setsuperclass set superclass classorinterfacetypedetailsbuilder type details builder superclass
+VARIABLES	declaredbymetadataid declaredby metadata existing declaredbymetadataid declaredby metadata existing declaredbymetadataid declaredby metadata modifier physicaltypecategory physical type category existing physicaltypecategory physical type category superclass superclass enumconstants constants javasymbolname symbol registeredimports registered imports importmetadata metadata imports targetbuilder target builder governordetails governor details field targetfield target field targetmethod target annotation targetannotation target annotation constructor targetconstructor target constructor initializer innertype type targetinnertype target type type type imports physicaltypecategory physical type category superclass enumconstants constants registeredimports registered imports superclass

@@ -1,0 +1,39 @@
+VARSIG7	clioption cli option kei documentid document mandatori document 
+VARSIG6	clioption cli option kei provid mandatori document documentprovid document provid provid 
+VARSIG9	clioption cli option kei provid mandatori video videoprovid video provid provid 
+VARSIG8	clioption cli option kei viewnam view mandatori jspx view viewnam view 
+VARSIG3	clioption cli option kei viewnam view mandatori jspx view viewnam view 
+VARSIG2	clioption cli option kei url mandatori url sourc embed url 
+VARSIG5	clioption cli option kei viewnam view mandatori jspx view viewnam view 
+VARSIG4	clioption cli option kei waveid wave mandatori kei wave kei 
+COMMENTS	command web mvc emb todo disabl roo clicommand cli command web mvc emb financ emb stock ticker web mvc applic embedfin emb financ clioption cli option kei stocksymbol stock symbol mandatori stock symbol stocksymbol stock symbol clioption cli option kei viewnam view mandatori jspx view viewnam view map option hashmap hash map option provid financ option stocksymbol stock symbol stocksymbol stock symbol oper instal viewnam view option 
+VARSIG19	clioption cli option kei streamid stream mandatori stream streamid stream 
+VARSIG1	componentcontext compon context context 
+VARSIG18	clioption cli option kei provid mandatori provid video stream videostreamprovid video stream provid provid 
+VARSIG0	componentcontext compon context context 
+VARSIG17	clioption cli option kei viewnam view mandatori jspx view viewnam view 
+MTHSIG4	embedwav emb wave kei viewnam view 
+VARSIG12	clioption cli option kei locat mandatori locat map sydnei australia locat 
+MTHSIG5	embeddocu emb document documentprovid document provid provid viewnam view 
+VARSIG11	clioption cli option kei viewnam view mandatori jspx view viewnam view 
+MTHSIG6	embedvideo emb video videoprovid video provid provid viewnam view 
+VARSIG10	clioption cli option kei videoid video mandatori video 
+MTHSIG7	embedmap emb map locat viewnam view 
+MTHSIG0	activ componentcontext compon context context 
+VARSIG16	clioption cli option kei albumid album mandatori album albumid album 
+MTHSIG1	deactiv componentcontext compon context context 
+VARSIG15	clioption cli option kei userid user mandatori user userid user 
+PACKAGE	springframework roo addon web mvc embed 
+MTHSIG2	ispropertyavail properti 
+VARSIG14	clioption cli option kei provid mandatori provid photo galleri photoprovid photo provid provid 
+MTHSIG3	emb url viewnam view 
+VARSIG13	clioption cli option kei viewnam view mandatori jspx view viewnam view 
+MTHSIG8	embedphoto emb photo photoprovid photo provid provid userid user albumid album viewnam view 
+MTHSIG9	embedvideostream emb video stream videostreamprovid video stream provid provid streamid stream viewnam view 
+CLASSES	embeddedcommand embed command 
+METHODS	activ deactiv ispropertyavail properti emb embedwav emb wave embeddocu emb document embedvideo emb video embedmap emb map embedphoto emb photo embedvideostream emb video stream embedtwitt emb twitter 
+VARSIG22	clioption cli option kei viewnam view mandatori jspx view viewnam view 
+VARSIG21	clioption cli option kei searchterm search term mandatori search term displai searchterm search term 
+VARSIG20	clioption cli option kei viewnam view mandatori jspx view viewnam view 
+MTHSIG10	embedtwitt emb twitter searchterm search term viewnam view 
+VARIABLES	context context url viewnam view kei viewnam view provid viewnam view provid viewnam view locat viewnam view provid userid user albumid album viewnam view provid streamid stream viewnam view searchterm search term viewnam view oper fieldconvert field convert option option option option option option option 

@@ -1,0 +1,14 @@
+VARSIG3	list token tokens
+VARSIG2	list javasymbolname symbol parameternames parameter names
+COMMENTS	bean hold jpa query parameter types parameter names immutable constructed intended internal tokens process query internally immutable
+CLASSES	queryholder query holder
+VARSIG1	list javatype type parametertypes parameter types
+VARSIG0	jpaquery jpa query
+METHODS	queryholder query holder getjpaquery jpa query getparametertypes parameter types getparameternames parameter names gettokens tokens
+MTHSIG4	gettokens tokens
+MTHSIG0	queryholder query holder jpaquery jpa query list javatype type parametertypes parameter types list javasymbolname symbol parameternames parameter names list token tokens
+MTHSIG1	getjpaquery jpa query
+PACKAGE	springframework roo addon finder
+MTHSIG2	getparametertypes parameter types
+MTHSIG3	getparameternames parameter names
+VARIABLES	jpaquery jpa query parametertypes parameter types parameternames parameter names tokens jpaquery jpa query parametertypes parameter types parameternames parameter names tokens

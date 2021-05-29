@@ -1,0 +1,31 @@
+VARSIG7	map javatype type map object javasymbolname symbol compositepktypes composite types
+VARSIG6	map javatype type list methodmetadata metadata domainjavatypes domain types
+VARSIG9	javatype type type
+VARSIG8	javatype type type
+VARSIG3	identifier
+VARSIG2	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG5	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG4	javatype type aspectname aspect
+COMMENTS	represents metadata application wide conversion service generates methods afterpropertiesset properties set overrides initializingbean initializing bean lifecycle parent installlabelconverters install label converters formatterregistry formatter registry registry registers converter methods converter scaffolded domain types associations testing loading keyset domain type map treeset tree set create consistent ordering generated methods shell restarts
+VARSIG1	javatype type aspectname aspect
+VARSIG18	list annotatedjavatype annotated type parameters
+VARSIG0	identifier
+VARSIG17	javasymbolname symbol methodname
+MTHSIG4	getinstallmethodbuilder install builder
+VARSIG12	map object javasymbolname symbol jsonmethodnames json names
+MTHSIG5	getafterpropertiessetmethod properties set methodmetadata metadata installconvertersmethod install converters
+VARSIG11	javatype type targettype target type
+MTHSIG6	getgovernormethod governor javasymbolname symbol methodname list annotatedjavatype annotated type parameters
+VARSIG10	classorinterfacetypedetails type details converter
+MTHSIG0	conversionservicemetadata conversion service metadata identifier javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG16	methodmetadata metadata installconvertersmethod install converters
+MTHSIG1	conversionservicemetadata conversion service metadata identifier javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata map javatype type list methodmetadata metadata domainjavatypes domain types map javatype type map object javasymbolname symbol compositepktypes composite types
+VARSIG15	list methodmetadata metadata methods
+PACKAGE	springframework roo addon web mvc controller converter
+MTHSIG2	getcompositepkconverters composite converters javatype type targettype target type map object javasymbolname symbol jsonmethodnames json names
+VARSIG14	javatype type innertype type
+MTHSIG3	getconverter converter javatype type targettype target type javatype type innertype type list methodmetadata metadata methods
+VARSIG13	javatype type targettype target type
+CLASSES	conversionservicemetadata conversion service metadata
+METHODS	conversionservicemetadata conversion service metadata conversionservicemetadata conversion service metadata getcompositepkconverters composite converters getconverter converter getinstallmethodbuilder install builder getafterpropertiessetmethod properties set getgovernormethod governor
+VARIABLES	identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata domainjavatypes domain types compositepktypes composite types type type converter targettype target type jsonmethodnames json names targettype target type innertype type methods installconvertersmethod install converters methodname parameters installmethodbuilder install builder convertername converter converter installmethod install converters innertype type base base base name base typename type parameters converterjavatype converter type bodybuilder body builder convert converterbuilder converter builder parameters converterjavatype converter type bodybuilder body builder convert converterbuilder converter builder parameters converterjavatype converter type targettypename target type bodybuilder body builder convert classbuilder builder methodname parameters parameternames parameter names methodname parameters parameternames parameter names bodybuilder body builder

@@ -1,0 +1,12 @@
+MTHSIG0	activ componentcontext compon context context 
+VARSIG3	except 
+MTHSIG1	deactiv componentcontext compon context context 
+VARSIG2	driverclassnam driver 
+PACKAGE	springframework roo addon jdbc poll intern 
+MTHSIG2	loaddriv load driver driverclassnam driver 
+COMMENTS	basic implement link jdbcdriverprovid jdbc driver provid common jdbc driver return provid jdbc driver declar option jdbc add osgi bundl manifest field search let doesn loadabl that weird doesn driver time creat regist 
+CLASSES	commonjdbcdriverprovid common jdbc driver provid 
+VARIABLES	context context driverclassnam driver bundlecontext bundl context clazz result 
+VARSIG1	componentcontext compon context context 
+VARSIG0	componentcontext compon context context 
+METHODS	activ deactiv loaddriv load driver 

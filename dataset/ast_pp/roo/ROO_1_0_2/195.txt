@@ -1,0 +1,9 @@
+MTHSIG0	addfileeventlistener add file event listener fileeventlistener file event listener fileeventlistener file event listener
+MTHSIG1	removefileeventlistener remove file event listener fileeventlistener file event listener fileeventlistener file event listener
+PACKAGE	springframework roo file monitor event
+COMMENTS	implemented classes support publication file events implementations required provide guarantees respect order notifications delivered listeners implementations permit modification listener list delivering event notifications listeners listeners receive guarantee addition removal listener list effective event notification proceeding implementations ensure events delivered actual change place registers file event listener fileeventlistener file event listener register removes existing file event listener presented status listener returns exception fileeventlistener file event listener remove
+CLASSES	fileeventpublisher file event publisher
+VARIABLES	fileeventlistener file event listener fileeventlistener file event listener
+VARSIG1	fileeventlistener file event listener fileeventlistener file event listener
+VARSIG0	fileeventlistener file event listener fileeventlistener file event listener
+METHODS	addfileeventlistener add file event listener removefileeventlistener remove file event listener

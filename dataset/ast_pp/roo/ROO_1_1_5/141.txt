@@ -1,0 +1,72 @@
+VARSIG39	templatedatadictionary template data dictionary datadictionary data dictionary
+MTHSIG4	builddictionary build dictionary gwttype gwt type type
+VARSIG34	templatedatadictionary template data dictionary datadictionary data dictionary
+MTHSIG5	buildstandarddatadictionary build standard data dictionary gwttype gwt type type
+VARSIG33	gwttype gwt type desttype dest type
+MTHSIG6	addimport add templatedatadictionary template data dictionary datadictionary data dictionary simplename simple gwttype gwt type gwttype gwt type projectmetadata project metadata projectmetadata project metadata
+VARSIG32	map gwttype gwt type javatype type mirrortypemap mirror type map
+MTHSIG7	buildmirrordatadictionary build mirror data dictionary gwttype gwt type type classorinterfacetypedetails type details governortypedetails governor type details map gwttype gwt type javatype type mirrortypemap mirror type map map javasymbolname symbol gwtproxyproperty gwt proxy property clientsidetypemap client side type map
+VARSIG31	gwttype gwt type type
+MTHSIG0	getmirrortemplatetypedetails mirror template type details classorinterfacetypedetails type details governortypedetails governor type details map javasymbolname symbol gwtproxyproperty gwt proxy property clientsidetypemap client side type map
+VARSIG38	memberdetails member details memberdetails member details
+MTHSIG1	getstatictemplatetypedetails template type details gwttype gwt type type
+VARSIG37	classorinterfacetypedetails type details governortypedetails governor type details
+PACKAGE	springframework roo addon gwt
+MTHSIG2	gettemplatecontents template contents templatename template templatedatadictionary template data dictionary datadictionary data dictionary
+VARSIG36	
+MTHSIG3	gettemplatedetails template details templatedatadictionary template data dictionary datadictionary data dictionary templatefile template file javatype type templatetype template type
+VARSIG35	gwttype gwt type type
+MTHSIG8	addreference add reference templatedatadictionary template data dictionary datadictionary data dictionary gwttype gwt type type map gwttype gwt type javatype type mirrortypemap mirror type map
+VARSIG30	templatedatadictionary template data dictionary datadictionary data dictionary
+MTHSIG9	getdestinationjavatype destination type gwttype gwt type desttype dest type
+CLASSES	gwttemplateserviceimpl gwt template service impl
+VARSIG29	gwtproxyproperty gwt proxy property gwtproxyproperty gwt proxy property
+VARSIG28	gwttype gwt type reference
+METHODS	getmirrortemplatetypedetails mirror template type details getstatictemplatetypedetails template type details gettemplatecontents template contents gettemplatedetails template details builddictionary build dictionary buildstandarddatadictionary build standard data dictionary addimport add buildmirrordatadictionary build mirror data dictionary addreference add reference getdestinationjavatype destination type addreference add reference isreadonly read addimport add maybeaddimport add addimport add getcollectionimplementation collection implementation getfullyqualifiedtypename fully qualified type
+VARSIG23	projectmetadata project metadata projectmetadata project metadata
+VARSIG22	gwttype gwt type gwttype gwt type
+VARSIG21	simplename simple
+VARSIG20	templatedatadictionary template data dictionary datadictionary data dictionary
+VARSIG27	map javasymbolname symbol gwtproxyproperty gwt proxy property clientsidetypemap client side type map
+VARSIG26	map gwttype gwt type javatype type mirrortypemap mirror type map
+VARSIG25	classorinterfacetypedetails type details governortypedetails governor type details
+VARSIG24	gwttype gwt type type
+VARSIG7	templateexception template exception
+VARSIG6	templatedatadictionary template data dictionary datadictionary data dictionary
+VARSIG9	templatefile template file
+VARSIG8	templatedatadictionary template data dictionary datadictionary data dictionary
+VARSIG3	gwtproxyproperty gwt proxy property proxyproperty proxy property
+VARSIG2	gwttype gwt type gwttype gwt type
+VARSIG5	templatename template
+VARSIG4	gwttype gwt type type
+COMMENTS	basic implementation link gwttemplateservice gwt template service create link classorinterfacetypedetails type details objects source files created templates templating concerns place drop filename drop proxy suffix filename drop filename drop proxy suffix filename drop filename drop proxy suffix filename drop filename drop proxy suffix filename drop filename drop proxy suffix filename determine primary property choose field favor properties types choose property favor properties types determine property add mobile properties
+VARSIG19	gwttype gwt type reference
+VARSIG1	map javasymbolname symbol gwtproxyproperty gwt proxy property clientsidetypemap client side type map
+VARSIG18	gwttype gwt type type
+VARSIG0	classorinterfacetypedetails type details governortypedetails governor type details
+VARSIG17	filedetails file details
+VARSIG12	gwttype gwt type type
+VARSIG11	exception
+VARSIG10	javatype type templatetype template type
+VARSIG16	filedetails file details
+VARSIG15	filedetails file details
+VARSIG14	filedetails file details
+VARSIG13	filedetails file details
+MTHSIG15	getcollectionimplementation collection implementation javatype type javatype type
+MTHSIG16	getfullyqualifiedtypename fully qualified type gwttype gwt type gwttype gwt type projectmetadata project metadata projectmetadata project metadata
+MTHSIG13	maybeaddimport add templatedatadictionary template data dictionary datadictionary data dictionary set importset set javatype type type
+MTHSIG14	addimport add templatedatadictionary template data dictionary datadictionary data dictionary javatype type type
+MTHSIG11	isreadonly read classorinterfacetypedetails type details governortypedetails governor type details memberdetails member details memberdetails member details
+MTHSIG12	addimport add templatedatadictionary template data dictionary datadictionary data dictionary importdeclaration declaration
+VARSIG45	javatype type type
+VARSIG44	templatedatadictionary template data dictionary datadictionary data dictionary
+VARSIG43	javatype type type
+VARSIG42	set importset set
+VARSIG49	projectmetadata project metadata projectmetadata project metadata
+VARSIG48	gwttype gwt type gwttype gwt type
+VARSIG47	javatype type javatype type
+VARSIG46	javatype type
+MTHSIG10	addreference add reference templatedatadictionary template data dictionary datadictionary data dictionary gwttype gwt type type
+VARIABLES	governortypedetails governor type details clientsidetypemap client side type map gwttype gwt type proxyproperty proxy property type templatename template datadictionary data dictionary datadictionary data dictionary templatefile template file templatetype template type type type reference datadictionary data dictionary simplename simple gwttype gwt type projectmetadata project metadata type governortypedetails governor type details mirrortypemap mirror type map clientsidetypemap client side type map reference gwtproxyproperty gwt proxy property datadictionary data dictionary type mirrortypemap mirror type map desttype dest type datadictionary data dictionary type governortypedetails governor type details memberdetails member details datadictionary data dictionary importdeclaration declaration datadictionary data dictionary importset set type datadictionary data dictionary type javatype type gwttype gwt type projectmetadata project metadata filemanager file manager memberdetailsscanner member details scanner metadataservice metadata service physicaltypemetadataprovider physical type metadata provider projectoperations project operations projectmetadata project metadata mirrortypemap mirror type map templatetypedetailsmap template type details map xmltemplates xml templates datadictionary data dictionary contents xmlmap xml map typedetails type details datadictionary data dictionary collectiontypeimpl collection type impl collectiontype collection type boundcollectiontype bound collection type collectioneditortype collection editor type contents templatetypedetails template type details datadictionary data dictionary templateloader template loader template templatecontents template contents templateloader template loader template templateid template projectmetadata project metadata datadictionary data dictionary locate antpath ant path fullpath full path simplename simple entity entity entity entity entity entity fullpath full path simplename simple fullpath full path simplename simple entity fullpath full path simplename simple fullpath full path simplename simple entity projectmetadata project metadata javatype type datadictionary data dictionary projectmetadata project metadata proxytype proxy type javatype type datadictionary data dictionary pluralmetadatakey plural metadata key pluralmetadata plural metadata plural simpletypename simple type proxyfields proxy fields primaryproperty primary property secondaryproperty secondary property dateproperty property importset set memberdetails member details propertiessection properties editablesection editable proptypename prop type idfields fields idfield field idpropertyname property versionfields version fields versionfield version field versionpropertyname version property
+VARSIG41	templatedatadictionary template data dictionary datadictionary data dictionary
+VARSIG40	importdeclaration declaration

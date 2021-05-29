@@ -1,0 +1,18 @@
+VARSIG7	javatype type
+VARSIG6	javasymbolname symbol finder
+VARSIG8	runtimeexception runtime exception
+VARSIG3	javatype type typename type
+VARSIG2	object
+VARSIG5	fieldmetadata field metadata idfield field
+VARSIG4	integer depth
+COMMENTS	implementation link finderoperations finder operations entity metadata type finders entity entity metadata file exists there entity metadata existing rooentity roo entity annotation confirm typed valid finder destination list store attributes copy existing attributes excluding finder attribute ensure array strings add desired finder let add finders attribute entity metadata type finders entity entity metadata member details compute finders excluding version fields avoid displaying problematic finders query query
+CLASSES	finderoperationsimpl finder operations impl
+VARSIG1	javasymbolname symbol findername finder
+VARSIG0	javatype type typename type
+METHODS	geterrormsg error msg installfinder install finder isfinderinstallationpossible finder installation listfindersfor list finders
+MTHSIG0	geterrormsg error msg
+MTHSIG1	installfinder install finder javatype type typename type javasymbolname symbol findername finder
+PACKAGE	springframework roo addon finder
+MTHSIG2	isfinderinstallationpossible finder installation
+MTHSIG3	listfindersfor list finders javatype type typename type integer depth
+VARIABLES	typename type findername finder typename type depth idfield field finder logger dynamicfinderservices dynamic finder services memberdetailsscanner member details scanner metadataservice metadata service persistencememberlocator persistence member locator projectoperations project operations typelocationservice type location service typemanagementservice type management service javatype type path entitymid entity mid jpaactiverecordmetadata jpa active record metadata cid annotations jpaactiverecordannotation jpa active record annotation memberdetails member details attributes desiredfinders desired finders alreadyadded val arrayval array val cidbuilder cid builder annotation javatype type path entitymid entity mid jpaactiverecordmetadata jpa active record metadata physicaltypemetadata physical type metadata cid memberdetails member details idfields fields versionfield version field exclusions result finders queryholder query holder parameternames parameter names parametertypes parameter types signature

@@ -1,0 +1,93 @@
+MTHSIG28	updateservicetyp updat servic type 
+MTHSIG29	updateurlmap updat url map 
+MTHSIG26	updateapplicationnam updat applic name 
+MTHSIG27	updateprovisionedservic updat provis servic 
+MTHSIG24	crypt input opmod 
+MTHSIG25	getciph cipher opmod 
+MTHSIG22	encodeloginprefentri encod login pref entri list entri 
+MTHSIG23	decodeloginprefentri decod login pref entri entri 
+VARSIG39	invalidkeyexcept invalid kei except 
+MTHSIG4	login email password cloudcontrollerurl cloud control url 
+VARSIG34	except 
+MTHSIG5	putprefer prefer prefkei pref kei prefvalu pref 
+VARSIG33	opmod 
+MTHSIG6	getprefer prefer prefkei pref kei 
+VARSIG32	input 
+MTHSIG7	getclient client 
+VARSIG31	encodedentri encod entri 
+MTHSIG0	deactiv componentcontext compon context 
+VARSIG38	nosuchalgorithmexcept algorithm except 
+MTHSIG1	activ componentcontext compon context context 
+VARSIG37	nosuchpaddingexcept pad except 
+PACKAGE	springframework roo addon cloud foundri 
+MTHSIG2	beforetransmiss transmiss transmissiontyp transmiss type type 
+VARSIG36	invalidkeyspecexcept invalid kei spec except 
+MTHSIG3	aftertransmiss transmiss transmissiontyp transmiss type type success 
+VARSIG35	opmod 
+MTHSIG20	encodeloginprefentri encod login pref entri cloudcredenti cloud credenti cloudcredenti cloud credenti 
+MTHSIG21	decodeloginprefentri decod login pref entri encodedentri encod entri 
+MTHSIG8	getapplicationnam applic name 
+VARSIG30	entri 
+MTHSIG9	getprovisionedservic provis servic 
+CLASSES	cloudfoundrysessionimpl cloud foundri session impl 
+VARSIG29	list entri 
+VARSIG28	encodedentri encod entri 
+METHODS	deactiv activ beforetransmiss transmiss aftertransmiss transmiss login putprefer prefer getprefer prefer getclient client getapplicationnam applic name getprovisionedservic provis servic getboundurlmap bound url map getapplicationmemoryopt applic memori option getprovisionedservic provis servic getservic servic getservicetyp servic type getstoredemail store email getstoredurl store url clearstoredlogindetail clear store login detail getstoredemailsforurl store email url getstoredloginpref store login pref encodeloginprefentri encod login pref entri decodeloginprefentri decod login pref entri encodeloginprefentri encod login pref entri decodeloginprefentri decod login pref entri crypt getciph cipher updateapplicationnam updat applic name updateprovisionedservic updat provis servic updateservicetyp updat servic type updateurlmap updat url map updatememoryopt updat memori option getpreferencesfor prefer 
+VARSIG23	unsupportedencodingexcept unsupport encod except 
+VARSIG22	cloudcredenti cloud credenti cloudcredenti cloud credenti 
+VARSIG21	cloudcredenti cloud credenti cloudcredenti cloud credenti 
+VARSIG20	serviceconfigur servic configur serviceconfigur servic configur 
+VARSIG27	cloudcredenti cloud credenti cloudcredenti cloud credenti 
+VARSIG26	unsupportedencodingexcept unsupport encod except 
+VARSIG25	cloudcredenti cloud credenti cloudcredenti cloud credenti 
+VARSIG24	url 
+MTHSIG31	getpreferencesfor prefer clazz 
+MTHSIG30	updatememoryopt updat memori option 
+VARSIG7	password 
+VARSIG6	email 
+VARSIG9	cloudcredenti cloud credenti cloudcredenti cloud credenti 
+VARSIG8	cloudcontrollerurl cloud control url 
+VARSIG3	transmissiontyp transmiss type type 
+VARSIG2	componentcontext compon context context 
+VARSIG5	success 
+VARSIG4	transmissiontyp transmiss type type 
+COMMENTS	todo replac call versionhelp version helper getproductfromdictionari product dictionari uaa todo uaa uaa preferencesutil prefer util wait uaa uaa earlier creat prefer object suppress creat user prefer directori messag prefer directori 
+VARSIG19	servicevendor servic vendor 
+VARSIG1	backingstoreexcept back store except 
+VARSIG18	provisionedservicenam provis servic 
+VARSIG0	componentcontext compon context 
+VARSIG17	unsupportedencodingexcept unsupport encod except 
+VARSIG12	malformedurlexcept malform url except 
+VARSIG11	except 
+VARSIG55	object 
+VARSIG10	cloudcredenti cloud credenti cloudcredenti cloud credenti 
+VARSIG54	ioexcept except 
+VARSIG53	encodedfield encod field 
+VARSIG16	prefkei pref kei 
+VARSIG15	backingstoreexcept back store except 
+VARSIG14	prefvalu pref 
+VARSIG13	prefkei pref kei 
+VARSIG52	encod 
+VARSIG51	ioexcept except 
+VARSIG50	map properti 
+MTHSIG17	clearstoredlogindetail clear store login detail 
+MTHSIG18	getstoredemailsforurl store email url url 
+MTHSIG15	getstoredemail store email 
+MTHSIG16	getstoredurl store url 
+MTHSIG13	getservic servic servicevendor servic vendor 
+MTHSIG14	getservicetyp servic type 
+MTHSIG11	getapplicationmemoryopt applic memori option 
+MTHSIG12	getprovisionedservic provis servic provisionedservicenam provis servic 
+MTHSIG19	getstoredloginpref store login pref 
+VARSIG45	memoryopt memori option 
+VARSIG44	cloudappl cloud applic app 
+VARSIG43	serviceconfigur servic configur servicetyp servic type 
+VARSIG42	cloudservic cloud servic provisionedservic provis servic 
+VARSIG49	url 
+VARSIG48	password 
+VARSIG47	email 
+VARSIG46	clazz 
+MTHSIG10	getboundurlmap bound url map 
+VARIABLES	context type type success email password cloudcontrollerurl cloud control url cloudcredenti cloud credenti cloudcredenti cloud credenti prefkei pref kei prefvalu pref prefkei pref kei provisionedservicenam provis servic servicevendor servic vendor serviceconfigur servic configur cloudcredenti cloud credenti cloudcredenti cloud credenti url cloudcredenti cloud credenti cloudcredenti cloud credenti encodedentri encod entri entri entri encodedentri encod entri input opmod opmod app provisionedservic provis servic servicetyp servic type app memoryopt memori option clazz email password url properti encod encodedfield encod field logger empti email kei password kei url kei roo kei cloud foundri kei uaaservic uaa servic prefer product client appnam app name provisionedservic provis servic servicetyp servic type boundurlmap bound url map memoryopt memori option bundlevers bundl version gitcommithash git commit hash storecredenti store credenti emailmatch email match cloudcredentialsset cloud credenti set logincredenti login credenti cloudfoundryurl cloud foundri url simplefactori simpl factori list entri cloudcredenti cloud credenti storeddata store data set storeddata store data set cloudcredentialslist cloud credenti list decod encodedpref encod pref encodedentri encod entri set cipher keyspec kei spec keyfactori kei factori skei cipher boundurlmap bound url map origin email password url map encodedfield encod field valuepair pair clouldcredenti clould credenti result 
+VARSIG41	cloudappl cloud applic app 
+VARSIG40	unsupportedencodingexcept unsupport encod except 

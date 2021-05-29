@@ -1,0 +1,59 @@
+MTHSIG28	getcolumnnamepattern column pattern 
+MTHSIG29	getdialect dialect 
+MTHSIG26	getschemapattern schema pattern 
+MTHSIG27	gettablenamepattern tabl pattern 
+MTHSIG24	readprimarykeynam read primari kei name 
+MTHSIG25	getcatalog catalog 
+MTHSIG22	readindic read indic 
+MTHSIG23	findindex find set indic 
+MTHSIG4	setcatalognam set catalog catalognam catalog 
+MTHSIG5	getschema schema 
+MTHSIG6	getschemanam schema 
+MTHSIG7	setschema set schema schema schema 
+MTHSIG0	databaseintrospector databas introspector connect connect schema schema view set includet includ tabl set excludet exclud tabl 
+MTHSIG1	databaseintrospector databas introspector connect connect 
+PACKAGE	springframework roo addon dbre model 
+MTHSIG2	getconnect connect 
+MTHSIG3	getcatalognam catalog 
+MTHSIG20	hasexcludedt exclud tabl tablenam tabl 
+MTHSIG21	hastabl tabl set tabl tablenam tabl 
+MTHSIG8	gettablenam tabl 
+MTHSIG9	settablenam set tabl tablenam tabl 
+CLASSES	databaseintrospector databas introspector 
+METHODS	databaseintrospector databas introspector databaseintrospector databas introspector getconnect connect getcatalognam catalog setcatalognam set catalog getschema schema getschemanam schema setschema set schema gettablenam tabl settablenam set tabl getcolumnnam column setcolumnnam set column getschema schema createdatabas creat databas readtabl read tabl ignoret ignor tabl readcolumn read column readforeignkei read foreign getcascadeact cascad action hasincludedt includ tabl hasexcludedt exclud tabl hastabl tabl readindic read indic findindex find readprimarykeynam read primari kei name getcatalog catalog getschemapattern schema pattern gettablenamepattern tabl pattern getcolumnnamepattern column pattern getdialect dialect 
+VARSIG23	except 
+VARSIG22	 
+VARSIG21	set indic 
+VARSIG20	 
+VARSIG7	schema schema 
+VARSIG6	catalognam catalog 
+VARSIG9	columnnam column 
+VARSIG8	tablenam tabl 
+VARSIG3	set includet includ tabl 
+VARSIG2	view 
+VARSIG5	connect connect 
+VARSIG4	set excludet exclud tabl 
+COMMENTS	creat link databas databas model live databas jdbc check tabl oracl recycl bin tabl ignor catch sqlexcept sql except oracl throw except attempt retriev indic delet tabl exist oracl oracl recycl bin 
+VARSIG19	sqlexcept sql except 
+VARSIG1	schema schema 
+VARSIG18	tabl 
+VARSIG0	connect connect 
+VARSIG17	tablenam tabl 
+VARSIG12	export 
+VARSIG11	sqlexcept sql except 
+VARSIG10	columnnam column 
+VARSIG16	set tabl 
+VARSIG15	tablenam tabl 
+VARSIG14	tablenam tabl 
+VARSIG13	actionvalu action 
+MTHSIG17	readforeignkei read foreign export 
+MTHSIG18	getcascadeact cascad action actionvalu action 
+MTHSIG15	ignoret ignor tabl 
+MTHSIG16	readcolumn read column 
+MTHSIG13	createdatabas creat databas 
+MTHSIG14	readtabl read tabl 
+MTHSIG11	setcolumnnam set column columnnam column 
+MTHSIG12	getschema schema 
+MTHSIG19	hasincludedt includ tabl tablenam tabl 
+MTHSIG10	getcolumnnam column 
+VARIABLES	connect schema view includet includ tabl excludet exclud tabl connect catalognam catalog schema tablenam tabl columnnam column columnnam column export actionvalu action tablenam tabl tablenam tabl tabl tablenam tabl tabl indic connect databasemetadata databas meta data catalognam catalog schema view includet includ tabl excludet exclud tabl tablenam tabl columnnam column schema databas tabl type tabl column ignor column column foreignkei foreign foreigntablenam foreign tabl kei foreignkei foreign kei localcolumnnam local column foreigncolumnnam foreign column refer cascadeact cascad action regex pattern indic type indexnam indexcolumn column columnnam column name productnam product 

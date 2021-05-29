@@ -1,0 +1,20 @@
+VARSIG7	methodtarget target target
+VARSIG6	optioncontext option context
+VARSIG9	physicalpath physical path physicalpath physical path
+VARSIG8	pom pom
+VARSIG3	list completion completions
+VARSIG2	optioncontext option context
+VARSIG5	existingdata existing data
+VARSIG4	targettype target type
+COMMENTS	
+CLASSES	logicalpathconverter logical path converter
+VARSIG1	targettype target type
+VARSIG0	
+METHODS	convertfromtext convert text getallpossiblevalues values supports
+VARSIG11	optioncontext option context
+VARSIG10	requiredtype required type
+MTHSIG0	convertfromtext convert text targettype target type optioncontext option context
+MTHSIG1	getallpossiblevalues values list completion completions targettype target type existingdata existing data optioncontext option context methodtarget target target
+PACKAGE	springframework roo classpath converters
+MTHSIG2	supports requiredtype required type optioncontext option context
+VARIABLES	targettype target type optioncontext option context completions targettype target type existingdata existing data optioncontext option context target pom physicalpath physical path requiredtype required type optioncontext option context projectoperations project operations logicalpath logical path

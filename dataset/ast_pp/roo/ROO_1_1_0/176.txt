@@ -1,0 +1,19 @@
+VARSIG7	password
+VARSIG6	username user
+VARSIG8	persistenceunit persistence unit
+VARSIG3	applicationid application
+VARSIG2	jndi
+VARSIG5	databasename database
+VARSIG4	hostname host
+COMMENTS	commands link jpaoperationsimpl jpa operations impl responsible managing jpa artifacts meta inf persistence xml applicationcontext application context xml database properties project pom xml ormprovider orm provider orm provider selected hibernate openjpa open jpa eclipselink link database database hsql mysql sql jndi jndi datasource applicationid application google app engine application identifier defaults project project hostname host host database databasename database database username user username connect database password password connect database persistenceunit persistence unit persistence unit defined persistence xml file persistenceunit persistence unit
+CLASSES	jpaoperations jpa operations
+VARSIG1	jdbcdatabase jdbc database database
+VARSIG0	ormprovider orm provider ormprovider orm provider
+METHODS	isjpainstallationpossible jpa installation isjpainstalled jpa installed hasdatabaseproperties database properties configurejpa configure jpa getdatabaseproperties database properties
+MTHSIG4	getdatabaseproperties database properties
+MTHSIG0	isjpainstallationpossible jpa installation
+MTHSIG1	isjpainstalled jpa installed
+PACKAGE	springframework roo addon jpa
+MTHSIG2	hasdatabaseproperties database properties
+MTHSIG3	configurejpa configure jpa ormprovider orm provider ormprovider orm provider jdbcdatabase jdbc database database jndi applicationid application hostname host databasename database username user password persistenceunit persistence unit
+VARIABLES	ormprovider orm provider database jndi applicationid application hostname host databasename database username user password persistenceunit persistence unit

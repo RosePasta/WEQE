@@ -1,0 +1,28 @@
+VARSIG7	fieldmetadata field metadata idfield field 
+VARSIG6	fieldmetadata field metadata idfield field 
+VARSIG9	logicalpath logic path path 
+VARSIG8	javatyp type javatyp type 
+VARSIG3	javatyp type idtyp type 
+VARSIG2	physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+VARSIG5	javatyp type idtyp type 
+VARSIG4	memberdetail member detail memberdetail member detail 
+COMMENTS	creat metadata domain entiti itd annot link roomongoent roo mongo entiti constant field constructor identifi identifi item metadata requir aspectnam aspect type requir governorphysicaltypemetadata governor physic type metadata governor expect link classorinterfacetypedetail type detail requir idtyp type type entiti entiti identifi field requir governormemberdetail governor member detail member detail entiti build locat exist field spring data user field locat exist accessor exist requir accessor uniqu declar field produc accessor user field locat exist mutat exist requir mutat uniqu declar field produc mutat 
+VARSIG1	javatyp type aspectnam aspect 
+VARSIG0	identifi 
+MTHSIG4	getmetadataidentifertyp metadata identif type 
+VARSIG12	metadataidentificationstr metadata identif 
+MTHSIG5	createidentifi creat identifi javatyp type javatyp type logicalpath logic path path 
+VARSIG11	metadataidentificationstr metadata identif 
+MTHSIG6	getjavatyp type metadataidentificationstr metadata identif 
+VARSIG10	metadataidentificationstr metadata identif 
+MTHSIG7	getpath path metadataidentificationstr metadata identif 
+MTHSIG0	mongoentitymetadata mongo entiti metadata identifi javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata javatyp type idtyp type memberdetail member detail memberdetail member detail 
+MTHSIG1	getidentifierfield identifi field javatyp type idtyp type 
+PACKAGE	springframework roo addon layer repositori mongo 
+MTHSIG2	getidentifieraccessor identifi accessor fieldmetadata field metadata idfield field 
+MTHSIG3	getidentifiermut identifi mutat fieldmetadata field metadata idfield field 
+MTHSIG8	isvalid valid metadataidentificationstr metadata identif 
+MTHSIG9	tostr 
+CLASSES	mongoentitymetadata mongo entiti metadata 
+METHODS	mongoentitymetadata mongo entiti metadata getidentifierfield identifi field getidentifieraccessor identifi accessor getidentifiermut identifi mutat getmetadataidentifertyp metadata identif type createidentifi creat identifi getjavatyp type getpath path isvalid valid tostr 
+VARIABLES	identifi aspectnam aspect governorphysicaltypemetadata governor physic type metadata idtyp type memberdetail member detail idtyp type idfield field idfield field javatyp type path metadataidentificationstr metadata identif metadataidentificationstr metadata identif metadataidentificationstr metadata identif type type memberdetail member detail idfield field idfield field idfieldnam field fieldbuild field builder requiredaccessornam requir accessor bodybuild bodi builder requiredmutatornam requir mutat parametertyp paramet type parameternam paramet name bodybuild bodi builder tsc 

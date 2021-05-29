@@ -1,0 +1,204 @@
+MTHSIG28	getmodulenam modul name 
+MTHSIG29	getpathresolv path resolv 
+MTHSIG26	getfocusedtoplevelpackag focus top level 
+MTHSIG27	getmoduleforfileidentifi modul file identifi fileidentifi file identifi 
+MTHSIG24	getfocusedprojectmetadata focus project metadata 
+MTHSIG25	getfocusedprojectnam focus project 
+MTHSIG22	getfocusedmodul focus modul 
+MTHSIG23	getfocusedmodulenam focus modul 
+MTHSIG4	adddepend add depend modulenam modul collect depend newdepend depend 
+VARSIG78	modulenam modul 
+MTHSIG5	adddepend add depend modulenam modul depend depend 
+VARSIG77	modulenam modul 
+MTHSIG6	adddepend add depend modulenam modul groupid group artifactid artifact version 
+VARSIG76	featurenam featur 
+MTHSIG7	adddepend add depend modulenam modul groupid group artifactid artifact version dependencyscop depend scope scope 
+VARSIG75	featurenam featur name 
+MTHSIG0	getdescriptionofchang descript chang action collect item singular plural 
+MTHSIG1	highlight text 
+MTHSIG2	addbuildplugin add build plugin modulenam modul plugin plugin 
+MTHSIG3	addbuildplugin add build plugin modulenam modul collect plugin newplugin plugin 
+VARSIG79	plugin plugin 
+MTHSIG20	buildpluginupd build plugin updat modulenam modul plugin plugin 
+VARSIG70	modulenam modul 
+MTHSIG21	detectcirculardepend detect circular depend pom modul modul pom modul modul 
+MTHSIG8	adddepend add depend modulenam modul groupid group artifactid artifact version dependencyscop depend scope scope classifi 
+VARSIG74	modulenam modul 
+MTHSIG9	addfilt add filter modulenam modul filter filter 
+VARSIG73	featurenam featur 
+VARSIG72	modulenam modul 
+VARSIG71	featurenam featur 
+MTHSIG39	isfeatureinstalledinfocusedmodul featur instal focus modul featurenam featur name 
+MTHSIG37	isfeatureinstal featur instal featurenam featur 
+MTHSIG38	isfeatureinstalledinmodul featur instal modul featurenam featur modulenam modul 
+MTHSIG35	getprojectnam project modulenam modul 
+MTHSIG36	gettoplevelpackag top level modulenam modul 
+MTHSIG33	getpompluginsupdatemessag pom plugin updat messag collect addedplugin plugin collect removedplugin remov plugin 
+MTHSIG34	getprojectmetadata project metadata modulenam modul 
+METHODS	getdescriptionofchang descript chang highlight addbuildplugin add build plugin addbuildplugin add build plugin adddepend add depend adddepend add depend adddepend add depend adddepend add depend adddepend add depend addfilt add filter addmoduledepend add modul depend addpluginrepositori add plugin repositori addpluginrepositori add plugin repositori addproperti add properti addrepositori add repositori addrepositori add repositori addrepositori add repositori addrepositori add repositori addresourc add resourc bindfeatur bind featur buildpluginupd build plugin updat detectcirculardepend detect circular depend getfocusedmodul focus modul getfocusedmodulenam focus modul getfocusedprojectmetadata focus project metadata getfocusedprojectnam focus project getfocusedtoplevelpackag focus top level getmoduleforfileidentifi modul file identifi getmodulenam modul name getpathresolv path resolv getpomfrommodulenam pom modul getpom pom getpomdependenciesupdatemessag pom depend updat messag getpompluginsupdatemessag pom plugin updat messag getprojectmetadata project metadata getprojectnam project gettoplevelpackag top level isfeatureinstal featur instal isfeatureinstalledinmodul featur instal modul isfeatureinstalledinfocusedmodul featur instal focus modul isfocusedprojectavail focus project ismodulecreationallow modul creation allow ismodulefocusallow modul focu allow isprojectavail project removebuildplugin remov build plugin removebuildpluginimmedi remov build plugin removebuildplugin remov build plugin removebuildplugin remov build plugin removedepend remov depend removedepend remov depend removedepend remov depend removedepend remov depend removedepend remov depend removefilt remov filter removepluginrepositori remov plugin repositori removeproperti remov properti removerepositori remov repositori removerepositori remov repositori removeresourc remov resourc setmodul set modul unbindfeatur unbind featur updatebuildplugin updat build plugin updatedependencyscop updat depend scope updateprojecttyp updat project type 
+VARSIG67	collect removedplugin remov plugin 
+VARSIG66	collect addedplugin plugin 
+VARSIG65	collect skippeddepend skip depend 
+VARSIG64	collect removeddepend remov depend 
+VARSIG69	modulenam modul 
+VARSIG68	modulenam modul 
+MTHSIG31	getpom pom 
+MTHSIG32	getpomdependenciesupdatemessag pom depend updat messag collect addeddepend depend collect removeddepend remov depend collect skippeddepend skip depend 
+MTHSIG30	getpomfrommodulenam pom modul modulenam modul 
+VARSIG63	collect addeddepend depend 
+VARSIG62	modulenam modul 
+VARSIG61	fileidentifi file identifi 
+VARSIG60	pom modul modul 
+VARSIG99	modulenam modul 
+VARSIG98	element candid 
+VARSIG97	path 
+VARSIG92	modulenam modul 
+VARSIG91	depend dependencytoremov depend remov 
+VARSIG90	collect depend dependenciestoremov depend remov 
+VARSIG96	containingpath path 
+VARSIG95	depend depend 
+VARSIG94	modulenam modul 
+VARSIG93	depend depend 
+MTHSIG17	addrepositori add repositori modulenam modul repositori repositori containingpath path path 
+MTHSIG18	addresourc add resourc modulenam modul resourc resourc 
+MTHSIG15	addrepositori add repositori modulenam modul collect repositori repositori containingpath path path 
+MTHSIG16	addrepositori add repositori modulenam modul repositori repositori 
+MTHSIG13	addproperti add properti modulenam modul properti properti 
+MTHSIG14	addrepositori add repositori modulenam modul collect repositori repositori 
+MTHSIG11	addpluginrepositori add plugin repositori modulenam modul collect repositori repositori 
+MTHSIG12	addpluginrepositori add plugin repositori modulenam modul repositori repositori 
+MTHSIG19	bindfeatur bind featur featur featur 
+VARSIG89	modulenam modul 
+VARSIG88	element candid 
+VARSIG87	plugin plugin 
+VARSIG86	writeimmedi write 
+VARSIG81	plugin plugin 
+MTHSIG10	addmoduledepend add modul depend moduletodependupon modul depend 
+VARSIG80	modulenam modul 
+VARIABLES	action item singular plural text modulenam modul plugin modulenam modul newplugin plugin newplugin plugin existingpluginel exist plugin element modulenam modul newdepend depend newdepend depend existingdependencyel exist depend element modulenam modul depend modulenam modul groupid group artifactid artifact version modulenam modul groupid group artifactid artifact version scope modulenam modul groupid group artifactid artifact version scope classifi modulenam modul filter moduletodependupon modul depend modulenam modul repositori modulenam modul repositori modulenam modul properti modulenam modul repositori modulenam modul repositori containingpath path path repositori modulenam modul repositori modulenam modul repositori containingpath path path modulenam modul resourc featur modulenam modul plugin modul modul modul modul fileidentifi file identifi modulenam modul addeddepend depend removeddepend remov depend skippeddepend skip depend addedplugin plugin removedplugin remov plugin modulenam modul modulenam modul modulenam modul featurenam featur modulenam modul featurenam featur modulenam modul featurenam featur name featurenam featur modulenam modul modulenam modul plugin modulenam modul plugin modulenam modul plugin modulenam modul plugin writeimmedi write plugin candid modulenam modul dependenciestoremov depend remov dependencytoremov depend remov modulenam modul depend modulenam modul depend containingpath path path candid modulenam modul groupid group artifactid artifact version modulenam modul groupid group artifactid artifact version classifi modulenam modul filter candid modulenam modul repositori modulenam modul properti candid modulenam modul repositori modulenam modul repositori path candid modulenam modul resourc candid modul featur modulenam modul plugin existingplugin exist plugin modulenam modul depend dependencyscop depend scope modulenam modul projecttyp project type chang remov skip updat featur filemanag file manag metadataservic metadata servic pathresolv path resolv pommanagementservic pom manag servic shell pom document root pluginsel plugin element existingpluginel exist plugin element addedplugin plugin removedplugin remov plugin insert existingplugin exist plugin messag pom document dependenciesel depend element existingdependencyel exist depend element addeddepend depend removeddepend remov depend skippeddepend skip depend insert existingdepend exist depend messag depend pom document root descriptionofchang descript chang buildel build element existingfilt exist filter filtersel filter element focusedmodul focus modul dependencyproject depend project dependencypom depend pom depend pom document root descriptionofchang descript chang exist properti pom document repositoriesel repositori element addedrepositori repositori messag pom document buildel build element resourcesel resourc element descriptionofchang descript chang focusedprojectmetadata focus project metadata projectmetadata project metadata iter iter pom pom featur featur featur pom document root pluginsel plugin element removedplugin remov plugin candidateplugin candid plugin messag pom document root dependenciesel depend element existingdependencyel exist depend element removeddepend remov depend iter candid candidatedepend candid depend messag pom document root descriptionofchang descript chang dependenciesel depend element depend pom document root filtersel filter element descriptionofchang descript chang filterel filter element pom document root propertiesel properti element descriptionofchang descript chang pom document root descriptionofchang descript chang pom document root resourcesel resourc element descriptionofchang descript chang resourceel resourc element pom pom document root dependencyel depend element scopeel scope element descriptionofchang descript chang pom document packag descriptionofchang descript chang 
+VARSIG85	collect plugin plugin 
+VARSIG84	modulenam modul 
+VARSIG83	collect plugin plugin 
+VARSIG82	modulenam modul 
+VARSIG39	modulenam modul 
+VARSIG34	moduletodependupon modul depend 
+VARSIG33	filter filter 
+VARSIG32	modulenam modul 
+VARSIG31	classifi 
+VARSIG38	repositori repositori 
+VARSIG37	modulenam modul 
+PACKAGE	springframework roo project 
+VARSIG36	collect repositori repositori 
+VARSIG35	modulenam modul 
+VARSIG30	dependencyscop depend scope scope 
+VARSIG29	version 
+VARSIG28	artifactid artifact 
+VARSIG23	artifactid artifact 
+VARSIG22	groupid group 
+VARSIG21	modulenam modul 
+VARSIG20	version 
+VARSIG27	groupid group 
+VARSIG26	modulenam modul 
+VARSIG25	dependencyscop depend scope scope 
+VARSIG24	version 
+VARSIG56	featur featur 
+VARSIG55	resourc resourc 
+VARSIG54	modulenam modul 
+VARSIG53	path 
+VARSIG59	pom modul modul 
+VARSIG58	plugin plugin 
+VARSIG57	modulenam modul 
+VARSIG52	containingpath path 
+VARSIG51	repositori repositori 
+VARSIG50	modulenam modul 
+VARSIG45	containingpath path 
+VARSIG44	collect repositori repositori 
+VARSIG43	modulenam modul 
+VARSIG42	collect repositori repositori 
+VARSIG49	repositori repositori 
+VARSIG48	modulenam modul 
+VARSIG47	repositori repositori 
+VARSIG46	path 
+VARSIG41	modulenam modul 
+VARSIG40	properti properti 
+VARSIG120	path 
+VARSIG121	element candid 
+VARSIG122	modulenam modul 
+VARSIG123	resourc resourc 
+VARSIG124	element candid 
+VARSIG125	pom modul 
+VARSIG126	featur featur 
+VARSIG127	modulenam modul 
+VARSIG128	plugin plugin 
+VARSIG129	plugin existingplugin exist plugin 
+VARSIG110	element candid 
+VARSIG111	modulenam modul 
+VARSIG112	repositori repositori 
+VARSIG113	modulenam modul 
+VARSIG114	properti properti 
+VARSIG115	element candid 
+VARSIG116	modulenam modul 
+VARSIG117	repositori repositori 
+VARSIG118	modulenam modul 
+VARSIG119	repositori repositori 
+COMMENTS	common project oper subclass project specif oper subclass gener messag addit item pom action tens action perform item item act requir empti singular singular type item requir plural plural type item requir messag highlight text text text highlight blank highlight text exist instanc plugin artifact version exclus haven genuin version chang mention version messag remov previou loop didn encount exist depend coordin add exist instanc depend artifact version exclus haven genuin version chang mention version messag remov previou loop didn encount exist depend coordin add filter add add depend root pom exist properti add properti exist updat todo doesn work can filter xpath path groupid group option pom own plugin element groupid group artifactid artifact version plugin remov remov loop plugin pom depend remov ensur don remov depend loop pom remov element identifi depend occur path modulenam modul modul remov depend depend depend remov containingpath path path depend element path path individu depend element stai loop pom loop theoret pom stai loop pom stai loop pom stai loop pom updat window titl project exist quit delet exist plugin version add plugin 
+VARSIG19	artifactid artifact 
+VARSIG18	groupid group 
+VARSIG17	modulenam modul 
+VARSIG12	collect depend newdepend depend 
+VARSIG11	modulenam modul 
+VARSIG10	element existingpluginel exist plugin element 
+VARSIG16	depend depend 
+VARSIG15	modulenam modul 
+VARSIG14	element existingdependencyel exist depend element 
+VARSIG13	depend newdepend depend 
+VARSIG130	modulenam modul 
+VARSIG131	depend depend 
+VARSIG132	dependencyscop depend scope dependencyscop depend scope 
+VARSIG133	modulenam modul 
+VARSIG134	projecttyp project type projecttyp project type 
+MTHSIG62	updatedependencyscop updat depend scope modulenam modul depend depend dependencyscop depend scope dependencyscop depend scope 
+MTHSIG63	updateprojecttyp updat project type modulenam modul projecttyp project type projecttyp project type 
+MTHSIG60	unbindfeatur unbind featur featur featur 
+MTHSIG61	updatebuildplugin updat build plugin modulenam modul plugin plugin 
+CLASSES	abstractprojectoper project oper 
+VARSIG7	modulenam modul 
+VARSIG109	filter filter 
+VARSIG6	plugin plugin 
+MTHSIG48	removedepend remov depend modulenam modul collect depend dependenciestoremov depend remov 
+VARSIG9	plugin newplugin plugin 
+MTHSIG49	removedepend remov depend modulenam modul depend depend 
+VARSIG8	collect plugin newplugin plugin 
+MTHSIG46	removebuildplugin remov build plugin modulenam modul collect plugin plugin 
+VARSIG3	plural 
+MTHSIG47	removebuildplugin remov build plugin modulenam modul collect plugin plugin writeimmedi write 
+VARSIG2	singular 
+MTHSIG44	removebuildplugin remov build plugin modulenam modul plugin plugin 
+VARSIG5	modulenam modul 
+MTHSIG45	removebuildpluginimmedi remov build plugin modulenam modul plugin plugin 
+VARSIG4	text 
+VARSIG1	collect item 
+VARSIG0	action 
+VARSIG100	groupid group 
+MTHSIG42	ismodulefocusallow modul focu allow 
+VARSIG101	artifactid artifact 
+MTHSIG43	isprojectavail project modulenam modul 
+VARSIG102	version 
+MTHSIG40	isfocusedprojectavail focus project 
+VARSIG103	modulenam modul 
+MTHSIG41	ismodulecreationallow modul creation allow 
+VARSIG104	groupid group 
+VARSIG105	artifactid artifact 
+VARSIG106	version 
+VARSIG107	classifi 
+VARSIG108	modulenam modul 
+MTHSIG59	setmodul set modul pom modul 
+MTHSIG57	removerepositori remov repositori modulenam modul repositori repositori path 
+MTHSIG58	removeresourc remov resourc modulenam modul resourc resourc 
+MTHSIG55	removeproperti remov properti modulenam modul properti properti 
+MTHSIG56	removerepositori remov repositori modulenam modul repositori repositori 
+MTHSIG53	removefilt remov filter modulenam modul filter filter 
+MTHSIG54	removepluginrepositori remov plugin repositori modulenam modul repositori repositori 
+MTHSIG51	removedepend remov depend modulenam modul groupid group artifactid artifact version 
+MTHSIG52	removedepend remov depend modulenam modul groupid group artifactid artifact version classifi 
+MTHSIG50	removedepend remov depend modulenam modul depend depend containingpath path path 

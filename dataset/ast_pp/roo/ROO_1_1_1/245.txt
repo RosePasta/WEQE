@@ -1,0 +1,27 @@
+VARSIG7	exception
+VARSIG6	document proposed
+VARSIG9	upstreamdependency upstream dependency
+VARSIG8	ioexception exception ioe
+VARSIG3	path path
+VARSIG2	javatype type javatype type
+VARSIG5	jspfilename jsp filename
+VARSIG4	methodmetadata metadata accessor
+COMMENTS	metadata listener responsible installing web mvc jsp artifacts solr search addon install search jspx add document namespaces disk changed updated created mutablefile mutable file write contents jspcontent jsp content file build representation jsp write file file existing file contents wrote file file existed contained content physical type changed determine local metadata identification proceed downstream dependency relationship registered registered event delivered instance specific downstream dependency processed install search tagx
+VARSIG1	metadataidentificationstring metadata identification
+VARSIG0	componentcontext component context context
+MTHSIG4	writetodiskifnecessary write disk jspfilename jsp filename document proposed
+VARSIG12	relativeprojectfilelocation relative project file location
+MTHSIG5	getprovidestype type
+VARSIG11	relativetemplatelocation relative template location
+MTHSIG6	notify upstreamdependency upstream dependency downstreamdependency downstream dependency
+VARSIG10	downstreamdependency downstream dependency
+MTHSIG7	copyartifacts copy artifacts relativetemplatelocation relative template location relativeprojectfilelocation relative project file location
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	metadataidentificationstring metadata identification
+PACKAGE	springframework roo addon solr
+MTHSIG2	installmvcartifacts install mvc artifacts javatype type javatype type path path
+MTHSIG3	getsearchdocument search document
+VARSIG13	ioexception exception
+CLASSES	solrjspmetadatalistener solr jsp metadata listener
+METHODS	activate installmvcartifacts install mvc artifacts getsearchdocument search document writetodiskifnecessary write disk getprovidestype type notify copyartifacts copy artifacts
+VARIABLES	context metadataidentificationstring metadata identification javatype type path accessor jspfilename jsp filename proposed ioe upstreamdependency upstream dependency downstreamdependency downstream dependency relativetemplatelocation relative template location relativeprojectfilelocation relative project file location metadatadependencyregistry metadata dependency registry metadataservice metadata service filemanager file manager pathresolver path resolver tilesoperations tiles operations menuoperations menu operations webscaffoldmetadata web scaffold metadata beaninfometadata bean info metadata entitymetadata entity metadata javatype type path solrwebsearchmetadatakeystring solr web search metadata key websearchmetadata web search metadata foldername folder webscaffoldmetadata web scaffold metadata builder document div pagesearch search resulttable result table facetfields facet fields fieldcounter field counter field columnelement column element searchfacet search facet searchfield search field original mutablefile mutable file bytearrayoutputstream array output stream jspcontent jsp content javatype type path projectfilelocation project file location

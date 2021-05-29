@@ -1,0 +1,35 @@
+VARSIG7	list depend depend 
+VARSIG6	configur configur 
+VARSIG9	element plugin 
+VARSIG8	list execut execut 
+VARSIG3	groupid group 
+VARSIG2	version 
+VARSIG5	version 
+VARSIG4	artifactid artifact 
+COMMENTS	simplifi immut represent maven build plugin structur model maven creat immut link plugin groupid group group requir artifactid artifact artifact requir version version requir conveni constructor groupid group group requir artifactid artifact artifact requir version version requir configur configur plugin option depend depend plugin option execut execut plugin option conveni constructor xml element repres maven plugin pars requir pars configur pars execut pars depend pars exclus simpl descript consol output 
+VARSIG1	artifactid artifact 
+VARSIG0	groupid group 
+MTHSIG4	getartifactid artifact 
+VARSIG12	element depend 
+MTHSIG5	getvers version 
+VARSIG11	element goal 
+MTHSIG6	getconfigur configur 
+VARSIG10	element execut 
+MTHSIG7	getdepend depend 
+MTHSIG0	plugin groupid group artifactid artifact version 
+MTHSIG1	plugin groupid group artifactid artifact version configur configur list depend depend list execut execut 
+VARSIG15	plugin 
+PACKAGE	springframework roo project 
+MTHSIG2	plugin element plugin 
+VARSIG14	object obj 
+MTHSIG3	getgroupid group 
+VARSIG13	element exclus 
+MTHSIG8	getexecut execut 
+MTHSIG9	hashcod hash code 
+MTHSIG13	tostr 
+MTHSIG11	compareto compar plugin 
+MTHSIG12	getsimpledescript simpl descript 
+CLASSES	plugin 
+METHODS	plugin plugin plugin getgroupid group getartifactid artifact getvers version getconfigur configur getdepend depend getexecut execut hashcod hash code equal compareto compar getsimpledescript simpl descript tostr 
+MTHSIG10	equal object obj 
+VARIABLES	groupid group artifactid artifact version groupid group artifactid artifact version configur depend execut plugin execut goal depend exclus obj groupid group artifactid artifact version configur depend execut versionel version element configur executionlist execut list executionid execut executionphas execut phase phase goal goallist goal list dependencylist depend list dependencygroupid depend group groupid group dependencyartifactid depend artifact artifactid artifact dependencyvers depend version version dependencyel depend element exclusionlist exclus list exclusionel exclus element exclusionid exclus exclusionartifact exclus artifact exclusionartifactid exclus artifact prime result result tsc 

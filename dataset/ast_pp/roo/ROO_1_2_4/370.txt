@@ -1,0 +1,32 @@
+VARSIG7	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG6	javatype type aspectname aspect
+VARSIG9	serviceannotationvalues service annotation values annotationvalues annotation values
+VARSIG8	memberdetails member details governordetails governor details
+VARSIG3	metadataidentificationstring metadata identification
+VARSIG2	metadataidentificationstring metadata identification
+VARSIG5	identifier
+VARSIG4	metadataidentificationstring metadata identification
+COMMENTS	constructor identifier identifier item metadata required aspectname aspect type required governorphysicaltypemetadata governor physical type metadata governor expected link classorinterfacetypedetails type details required governordetails governor details required annotationvalues annotation values required domaintypetoidtypemap domain type type map required allcrudadditions crud additions additions service order invoke layer methods required domaintypeplurals domain type plurals plurals domain type managed service desired service file doesn generate layer checks save checks delete checks read adds required roles preauthorize pre authorize annotation required roles persist methods adds required roles preauthorize pre authorize annotation required roles exist read methods adds required roles preauthorize pre authorize annotation required roles exist delete methods add permission evaluator preauthorize pre authorize annotation required adds isauthenticated authenticated preauthorize pre authorize annotation usexmlconfiguration xml configuration add service introduce service annotation service service introduce transactional annotation service service create representation desired output
+VARSIG1	logicalpath logical path path
+VARSIG18	role
+VARSIG0	javatype type javatype type
+VARSIG17	roles
+MTHSIG4	isvalid valid metadataidentificationstring metadata identification
+VARSIG12	map javatype type domaintypeplurals domain type plurals
+MTHSIG5	serviceclassmetadata service metadata identifier javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata memberdetails member details governordetails governor details serviceannotationvalues service annotation values annotationvalues annotation values map javatype type javatype type domaintypetoidtypemap domain type type map map javatype type map servicelayermethod service layer membertypeadditions member type additions allcrudadditions crud additions map javatype type domaintypeplurals domain type plurals servicename service
+VARSIG11	map javatype type map servicelayermethod service layer membertypeadditions member type additions allcrudadditions crud additions
+MTHSIG6	addroles add roles stringbuilder builder preauthorizevalue pre authorize roles
+VARSIG10	map javatype type javatype type domaintypetoidtypemap domain type type map
+MTHSIG7	tostring
+MTHSIG0	createidentifier create identifier javatype type javatype type logicalpath logical path path
+VARSIG16	stringbuilder builder preauthorizevalue pre authorize
+MTHSIG1	getjavatype type metadataidentificationstring metadata identification
+VARSIG15	servicelayermethod service layer
+PACKAGE	springframework roo addon layers service
+MTHSIG2	getmetadataidentifertype metadata identifer type
+VARSIG14	entry javatype type javatype type entry
+MTHSIG3	getpath path metadataidentificationstring metadata identification
+VARSIG13	servicename service
+CLASSES	serviceclassmetadata service metadata
+METHODS	createidentifier create identifier getjavatype type getmetadataidentifertype metadata identifer type getpath path isvalid valid serviceclassmetadata service metadata addroles add roles tostring
+VARIABLES	javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification metadataidentificationstring metadata identification identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata governordetails governor details annotationvalues annotation values domaintypetoidtypemap domain type type map allcrudadditions crud additions domaintypeplurals domain type plurals servicename service entry preauthorizevalue pre authorize roles role type type domaintype domain type idtype type crudadditions crud additions methodname permissionname permission lowerlayercalladditions layer call additions body bodybuilder body builder parameternames parameter names methodmetadatabuilder metadata builder preauthorizevalue pre authorize iscreateorupdatemethod create update isreadmethod read isdeletemethod delete usesdomaintypemethod domain type requireauthentication require authentication annotationmetadatabuilder annotation metadata builder serviceannotation service annotation transactionalannotation transactional annotation builder

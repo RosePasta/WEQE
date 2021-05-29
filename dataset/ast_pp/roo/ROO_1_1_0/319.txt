@@ -1,0 +1,28 @@
+VARSIG7	list javatype type throwstypes types
+VARSIG6	list annotatedjavatype annotated type parametertypes parameter types
+VARSIG8	invocablememberbodybuilder invocable member body builder bodybuilder body builder
+VARSIG3	annotatedjavatype annotated type parametertype parameter type
+VARSIG2	javasymbolname symbol parametername parameter
+VARSIG5	list javasymbolname symbol parameternames parameter names
+VARSIG4	javatype type throwstype type
+COMMENTS	assists development builders build objects extend link abstractinvocablemembermetadata invocable member metadata
+VARSIG1	invocablemembermetadata invocable member metadata existing
+VARSIG0	declaredbymetadataid declaredby metadata
+MTHSIG4	addthrowstype add type javatype type throwstype type
+MTHSIG5	getparameternames parameter names
+MTHSIG6	setparameternames set parameter names list javasymbolname symbol parameternames parameter names
+MTHSIG7	getparametertypes parameter types
+MTHSIG0	abstractinvocablemembermetadatabuilder invocable member metadata builder declaredbymetadataid declaredby metadata
+MTHSIG1	abstractinvocablemembermetadatabuilder invocable member metadata builder invocablemembermetadata invocable member metadata existing
+PACKAGE	springframework roo classpath details
+MTHSIG2	addparametername add parameter javasymbolname symbol parametername parameter
+MTHSIG3	addparametertype add parameter type annotatedjavatype annotated type parametertype parameter type
+MTHSIG8	setparametertypes set parameter types list annotatedjavatype annotated type parametertypes parameter types
+MTHSIG9	getthrowstypes types
+MTHSIG13	setbodybuilder set body builder invocablememberbodybuilder invocable member body builder bodybuilder body builder
+MTHSIG11	getbody body
+MTHSIG12	getbodybuilder body builder
+CLASSES	abstractinvocablemembermetadatabuilder invocable member metadata builder
+METHODS	abstractinvocablemembermetadatabuilder invocable member metadata builder abstractinvocablemembermetadatabuilder invocable member metadata builder addparametername add parameter addparametertype add parameter type addthrowstype add type getparameternames parameter names setparameternames set parameter names getparametertypes parameter types setparametertypes set parameter types getthrowstypes types setthrowstypes set types getbody body getbodybuilder body builder setbodybuilder set body builder
+MTHSIG10	setthrowstypes set types list javatype type throwstypes types
+VARIABLES	declaredbymetadataid declaredby metadata existing parametername parameter parametertype parameter type throwstype type parameternames parameter names parametertypes parameter types throwstypes types bodybuilder body builder parameternames parameter names parametertypes parameter types throwstypes types bodybuilder body builder

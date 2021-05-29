@@ -1,0 +1,22 @@
+VARSIG7	set excludetables exclude tables
+VARSIG6	set includetables include tables
+VARSIG3	schema schema
+VARSIG2	schema schema
+VARSIG5	view
+VARSIG4	schema schema
+COMMENTS	specifies methods retrieve database metadata implementation guarantee discover link databaselistener database listener instances registered osgi container automatically notify database refreshed loaded time dbre xml file determines database schemas examples databases schemas mysql sql firebird displayaddons display add ons display add ons required database supports schema runtimeexception runtime exception problem acquiring connection returns set database link schema schemas displayaddons display add ons display add ons required set schemas returns schema schema introspected introspected latest representation database cache connect database cached schema load implementation schema database connect database schema forces cache refreshed schema database connection schema schema refresh required excludetables exclude tables set tables exclude database connect database schema link refreshdatabase refresh database schema change schema notify listeners update change caches disk ideal view database schema impact existing dbre status schema refresh required database connect database schema sets flag bring database view view database views retrieved specifies table names include includetables include tables empty tables set reverse engineered includetables include tables set table names specifies table names exclude reverse engineering excludetables exclude tables set table names
+CLASSES	dbremodelservice dbre model service
+VARSIG1	displayaddons display add ons
+VARSIG0	displayaddons display add ons
+METHODS	supportsschema supports schema getdatabaseschemas database schemas getlastschema schema getdatabase database refreshdatabase refresh database refreshdatabasesafely refresh database safely setview set view setincludetables set include tables setexcludetables set exclude tables
+MTHSIG4	refreshdatabase refresh database schema schema
+MTHSIG5	refreshdatabasesafely refresh database safely schema schema
+MTHSIG6	setview set view view
+MTHSIG7	setincludetables set include tables set includetables include tables
+MTHSIG0	supportsschema supports schema displayaddons display add ons
+MTHSIG1	getdatabaseschemas database schemas displayaddons display add ons
+PACKAGE	springframework roo addon dbre
+MTHSIG2	getlastschema schema
+MTHSIG3	getdatabase database schema schema
+VARIABLES	displayaddons display add ons displayaddons display add ons schema schema schema view includetables include tables excludetables exclude tables dbre file
+MTHSIG8	setexcludetables set exclude tables set excludetables exclude tables

@@ -1,0 +1,12 @@
+MTHSIG0	activate componentcontext component context componentcontext component context
+VARSIG3	shellstatus shell status newstatus status
+MTHSIG1	deactivate componentcontext component context componentcontext component context
+VARSIG2	shellstatus shell status oldstatus status
+PACKAGE	springframework roo uaa
+MTHSIG2	onshellstatuschange shell status change shellstatus shell status oldstatus status shellstatus shell status newstatus status
+COMMENTS	startup time reminder uaa status command user hasn uaa terms acceptance rejection separate link shellstatuslistener shell status listener uaa module lifecycle timing reasons minimal dependencies scr components preventing thread appearing jline console text file spaces overwrite roo prompt current
+CLASSES	uaashellstatuslistener uaa shell status listener
+VARIABLES	componentcontext component context componentcontext component context oldstatus status newstatus status shell startupmessageconsidered startup message considered uaaservice uaa service originalthreadname original thread
+VARSIG1	componentcontext component context componentcontext component context
+VARSIG0	componentcontext component context componentcontext component context
+METHODS	activate deactivate onshellstatuschange shell status change

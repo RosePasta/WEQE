@@ -1,0 +1,11 @@
+MTHSIG0	testdefaultpackaging test packaging
+MTHSIG1	testgetmodulepathsforminimaljarpom test module paths minimal jar pom
+PACKAGE	springframework roo project maven
+MTHSIG2	testgetasdependency test dependency
+MTHSIG3	getminimalpom minimal pom packaging
+COMMENTS	unit test link pom constants set invoke check set invoke check
+CLASSES	pomtest pom test
+VARIABLES	path packaging artifact group project root root module version war pom expectedpaths expected paths modulepath module path moduelpathid moduel path pom dependency
+VARSIG1	packaging
+VARSIG0	path path
+METHODS	testdefaultpackaging test packaging testgetmodulepathsforminimaljarpom test module paths minimal jar pom testgetasdependency test dependency getminimalpom minimal pom

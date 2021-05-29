@@ -1,0 +1,15 @@
+VARSIG6	sqlexception sql exception
+VARSIG3	map map
+VARSIG2	sqlexception sql exception
+VARSIG5	connection connection
+VARSIG4	displayaddons display add ons
+COMMENTS	implementation link connectionprovider connection provider properties user password required connection
+CLASSES	connectionproviderimpl connection provider impl
+VARSIG1	displayaddons display add ons
+VARSIG0	properties props
+METHODS	getconnection connection getconnection connection closeconnection close connection
+MTHSIG0	getconnection connection properties props displayaddons display add ons
+MTHSIG1	getconnection connection map map displayaddons display add ons
+PACKAGE	springframework roo addon dbre jdbc
+MTHSIG2	closeconnection close connection connection connection
+VARIABLES	props displayaddons display add ons map displayaddons display add ons connection user password jdbcdrivermanager jdbc driver manager driverclassname driver driver props

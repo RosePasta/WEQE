@@ -1,0 +1,23 @@
+VARSIG7	requiredtype required type
+VARSIG6	list completion completions
+VARSIG9	optioncontext option context
+VARSIG8	existingdata existing data
+VARSIG3	ioexception exception
+VARSIG2	optioncontext option context
+VARSIG5	optioncontext option context
+VARSIG4	requiredtype required type
+COMMENTS	conversion cloud foundry model classes constants fields
+CLASSES	clouddeployablefileconverter cloud deployable file converter
+VARSIG1	requiredtype required type
+VARSIG0	
+METHODS	convertfromtext convert text supports getallpossiblevalues values getoppositefileseparator file separator escapestring escape
+MTHSIG4	escapestring escape toescape escape
+VARSIG12	toescape escape
+VARSIG11	filedetails file details filedetail file detail
+VARSIG10	methodtarget target target
+MTHSIG0	convertfromtext convert text requiredtype required type optioncontext option context
+MTHSIG1	supports requiredtype required type optioncontext option context
+PACKAGE	springframework roo addon cloud foundry converter
+MTHSIG2	getallpossiblevalues values list completion completions requiredtype required type existingdata existing data optioncontext option context methodtarget target target
+MTHSIG3	getoppositefileseparator file separator
+VARIABLES	requiredtype required type optioncontext option context requiredtype required type optioncontext option context completions requiredtype required type existingdata existing data optioncontext option context target filedetail file detail toescape escape logger create option filemanager file manager projectoperations project operations rootpath root path filedetails file details filetodeploy file deploy oppositefileseparator file separator path filetodeploy file deploy rootpath root path filedetails file details fileseparator file separator result iterator character

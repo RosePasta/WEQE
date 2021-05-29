@@ -1,0 +1,13 @@
+VARSIG3	shellstatuslistener shell status listener listener
+VARSIG2	shellstatus shell status shellstatus shell status
+COMMENTS	convenience superclass shells wishing publish status messages
+CLASSES	abstractshellstatuspublisher shell status publisher
+VARSIG1	shellstatuslistener shell status listener shellstatuslistener shell status listener
+VARSIG0	shellstatuslistener shell status listener shellstatuslistener shell status listener
+METHODS	addshellstatuslistener add shell status listener removeshellstatuslistener remove shell status listener getshellstatus shell status setshellstatus set shell status
+MTHSIG0	addshellstatuslistener add shell status listener shellstatuslistener shell status listener shellstatuslistener shell status listener
+MTHSIG1	removeshellstatuslistener remove shell status listener shellstatuslistener shell status listener shellstatuslistener shell status listener
+PACKAGE	springframework roo shell event
+MTHSIG2	getshellstatus shell status
+MTHSIG3	setshellstatus set shell status shellstatus shell status shellstatus shell status
+VARIABLES	shellstatuslistener shell status listener shellstatuslistener shell status listener shellstatus shell status listener shellstatuslisteners shell status listeners shellstatus shell status

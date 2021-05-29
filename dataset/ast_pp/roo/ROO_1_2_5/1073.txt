@@ -1,0 +1,21 @@
+VARSIG7	collection collection
+VARSIG6	map map
+VARSIG8	collection items
+VARSIG3	element
+VARSIG2	filter filter
+VARSIG5	collection collection
+VARSIG4	collection collection
+COMMENTS	miscellaneous collection utility methods internal framework convert supplied array list primitive array converted list wrapper type source converted empty list source primitive array converted list result objectutils object utils toobjectarray object array object filters removes elements link iterable filter type object filtered unfiltered iterable filter filter filter apply list returns element collection collection element collection empty supplied collection empty collection collection check collection empty supplied map empty map map check map empty populates collection replacing existing contents elements safe type element collection collection collection populate items items populate collection empty collection anonymous constructor prevent instantiation
+CLASSES	collectionutils collection utils
+VARSIG1	iterable unfiltered
+VARSIG0	object source
+METHODS	arraytolist array list filter firstelementof element isempty empty isempty empty populate collectionutils collection utils
+MTHSIG4	isempty empty map map
+MTHSIG5	populate collection collection collection items
+MTHSIG6	collectionutils collection utils
+MTHSIG0	arraytolist array list object source
+MTHSIG1	filter iterable unfiltered filter filter
+PACKAGE	springframework roo support util
+MTHSIG2	firstelementof element collection collection
+MTHSIG3	isempty empty collection collection
+VARIABLES	source unfiltered filter element collection collection map collection items filtered

@@ -1,0 +1,64 @@
+MTHSIG28	initializeimportedkei initi import tabl tabl 
+MTHSIG29	initializeindic initi indic tabl tabl 
+MTHSIG26	init 
+MTHSIG27	initializeexportedkei initi export tabl tabl 
+MTHSIG24	settestautomat set test automat testautomat test automat 
+MTHSIG25	tostr 
+MTHSIG22	setrepositori set repositori repositori 
+MTHSIG23	setservic set servic servic 
+MTHSIG4	gettabl tabl schemanam schema 
+MTHSIG5	gettabl tabl 
+MTHSIG6	hashcod hash code 
+MTHSIG7	hasmultipleschema multipl schema 
+MTHSIG0	databas set tabl tabl 
+MTHSIG1	equal object obj 
+PACKAGE	springframework roo addon dbre model 
+MTHSIG2	getdestinationpackag destin 
+MTHSIG3	getmodulenam modul 
+MTHSIG20	setincludenonportableattribut set includ portabl attribut includenonportableattribut includ portabl attribut 
+MTHSIG21	setmodulenam set modul modulenam modul 
+MTHSIG8	hastabl tabl 
+MTHSIG9	isactiverecord activ record 
+CLASSES	databas 
+METHODS	databas equal getdestinationpackag destin getmodulenam modul gettabl tabl gettabl tabl hashcod hash code hasmultipleschema multipl schema hastabl tabl isactiverecord activ record isdisablegeneratedidentifi disabl gener identifi isdisableversionfield disabl version field isincludenonportableattribut includ portabl attribut isrepositori repositori isservic servic istestautomat test automat setactiverecord set activ record setdestinationpackag set destin setdisablegeneratedidentifi set disabl gener identifi setdisableversionfield set disabl version field setincludenonportableattribut set includ portabl attribut setmodulenam set modul setrepositori set repositori setservic set servic settestautomat set test automat tostr init initializeexportedkei initi export initializeimportedkei initi import initializeindic initi indic initializejoint initi join tabl 
+VARSIG23	refer refer 
+VARSIG22	foreignkei foreign kei foreignkei foreign kei 
+VARSIG21	map entri column set foreignkei foreign kei entryset entri set 
+VARSIG20	refer refer 
+VARSIG27	tabl tabl 
+VARSIG26	indexcolumn column indexcolumn column 
+VARSIG25	 
+VARSIG24	tabl tabl 
+MTHSIG30	initializejoint initi join tabl tabl tabl 
+VARSIG7	disablegeneratedidentifi disabl gener identifi 
+VARSIG6	javapackag destinationpackag destin 
+VARSIG9	includenonportableattribut includ portabl attribut 
+VARSIG8	disableversionfield disabl version field 
+VARSIG3	schemanam schema 
+VARSIG2	 
+VARSIG5	activerecord activ record 
+VARSIG4	tabl tabl 
+COMMENTS	repres databas model tabl databas gener activ record crud method entiti javapackag entiti creat disabl identifi auto gener disabl version field includ portabl jpa attribut column annot modul entiti creat databas multipl schema gener repositori layer entiti gener servic layer entiti tabl creat integr test constructor tabl requir activ record crud method gener entiti set activ record crud method gener entiti activerecord activ record initi model establish relationship element model foreign mark repeat column insert updat determin tabl join tabl identifi join tabl tabl primari foreign point entiti tabl column 
+VARSIG19	foreignkei foreign kei foreignkei foreign kei 
+VARSIG1	object obj 
+VARSIG18	tabl tabl 
+VARSIG0	set tabl tabl 
+VARSIG17	refer refer 
+VARSIG12	servic 
+VARSIG11	repositori 
+VARSIG10	modulenam modul 
+VARSIG16	foreignkei foreign kei exportedkei export kei 
+VARSIG15	tabl tabl 
+VARSIG14	tabl tabl 
+VARSIG13	testautomat test automat 
+MTHSIG17	setdestinationpackag set destin javapackag destinationpackag destin 
+MTHSIG18	setdisablegeneratedidentifi set disabl gener identifi disablegeneratedidentifi disabl gener identifi 
+MTHSIG15	istestautomat test automat 
+MTHSIG16	setactiverecord set activ record activerecord activ record 
+MTHSIG13	isrepositori repositori 
+MTHSIG14	isservic servic 
+MTHSIG11	isdisableversionfield disabl version field 
+MTHSIG12	isincludenonportableattribut includ portabl attribut 
+MTHSIG19	setdisableversionfield set disabl version field disableversionfield disabl version field 
+MTHSIG10	isdisablegeneratedidentifi disabl gener identifi 
+VARIABLES	tabl obj schemanam schema tabl activerecord activ record destinationpackag destin disablegeneratedidentifi disabl gener identifi disableversionfield disabl version field includenonportableattribut includ portabl attribut modulenam modul repositori servic testautomat test automat tabl tabl exportedkei export kei refer tabl foreignkei foreign kei refer entryset entri set foreignkei foreign kei refer tabl indexcolumn column tabl activerecord activ record destinationpackag destin disablegeneratedidentifi disabl gener identifi disableversionfield disabl version field includenonportableattribut includ portabl attribut modulenam modul multipleschema multipl schema repositori servic tabl testautomat test automat prime result schema keysequencemap kei sequenc map keysequ kei sequenc foreigntablenam foreign tabl foreignschemanam foreign schema targett target tabl localcolumn local column foreigncolumn foreign column keysequencemap kei sequenc map keysequ kei sequenc repeatedcolumn repeat column foreigntablenam foreign tabl foreignschemanam foreign schema targett target tabl localcolumn local column fkset set foreigncolumn foreign column foreignkei foreign column equal iter column 

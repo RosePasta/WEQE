@@ -1,0 +1,45 @@
+VARSIG7	javapackag toplevelpackag top level 
+VARSIG6	element root 
+VARSIG9	modulenam modul 
+VARSIG8	gav parentpom parent pom 
+VARSIG3	ioexcept except 
+VARSIG2	 
+VARSIG5	document pomdocu pom document 
+VARSIG4	modulenam modul 
+COMMENTS	implement link mavenoper maven oper constructor inputstream input stream processmanag process manag condit nix mac condit window ensur separ thread log roo close outputstream output stream avoid block maven command expect input roo return project project target version pom format majorjavavers major version major version user auto detect blank run roo 
+VARSIG19	packagingprovid packag provid selectedpackagingprovid select packag provid 
+VARSIG1	processmanag process manag processmanag process manag 
+VARSIG18	gav parentpom parent pom 
+VARSIG0	inputstream input stream inputstream input stream 
+VARSIG17	integ majorjavavers major version 
+MTHSIG4	executemvncommand execut mvn command extra 
+VARSIG12	artifactid artifact 
+MTHSIG5	getjavavers version integ majorjavavers major version 
+VARSIG11	integ majorjavavers major version 
+MTHSIG6	getpackagingprovid packag provid packagingprovid packag provid selectedpackagingprovid select packag provid 
+VARSIG10	packagingprovid packag provid selectedpackagingprovid select packag provid 
+MTHSIG7	getprojectroot project root 
+MTHSIG0	addmoduledeclar add modul declar modulenam modul document pomdocu pom document element root 
+VARSIG16	projectnam project 
+MTHSIG1	createmodul creat modul javapackag toplevelpackag top level gav parentpom parent pom modulenam modul packagingprovid packag provid selectedpackagingprovid select packag provid integ majorjavavers major version artifactid artifact 
+VARSIG15	javapackag toplevelpackag top level 
+PACKAGE	springframework roo project 
+MTHSIG2	createmoduleselementifnecessari creat modul element document pomdocu pom document element root 
+VARSIG14	element root 
+MTHSIG3	createproject creat project javapackag toplevelpackag top level projectnam project integ majorjavavers major version gav parentpom parent pom packagingprovid packag provid selectedpackagingprovid select packag provid 
+VARSIG13	document pomdocu pom document 
+MTHSIG8	iscreatemoduleavail creat modul 
+MTHSIG9	iscreateprojectavail creat project 
+MTHSIG11	updateparentmodulepom updat parent modul pom modulenam modul 
+CLASSES	mavenoperationsimpl maven oper impl 
+METHODS	addmoduledeclar add modul declar createmodul creat modul createmoduleselementifnecessari creat modul element createproject creat project executemvncommand execut mvn command getjavavers version getpackagingprovid packag provid getprojectroot project root iscreatemoduleavail creat modul iscreateprojectavail creat project ismodulealreadypres modul updateparentmodulepom updat parent modul pom 
+VARSIG23	packagingprovid packag provid selectedpackagingprovid select packag provid 
+VARSIG22	integ majorjavavers major version 
+VARSIG21	interruptedexcept interrupt except 
+VARSIG20	extra 
+VARSIG27	modulenam modul 
+VARSIG26	element element 
+VARSIG25	element modulesel modul element 
+VARSIG24	modulenam modul 
+MTHSIG10	ismodulealreadypres modul modulenam modul element modulesel modul element 
+VARIABLES	inputstream input stream processmanag process manag modulenam modul pomdocu pom document root toplevelpackag top level parentpom parent pom modulenam modul selectedpackagingprovid select packag provid majorjavavers major version artifactid artifact pomdocu pom document root toplevelpackag top level projectnam project majorjavavers major version parentpom parent pom selectedpackagingprovid select packag provid extra majorjavavers major version selectedpackagingprovid select packag provid modulenam modul modulesel modul element element modulenam modul inputstream input stream processmanag process manag logger packagingproviderregistri packag provid registri processmanag process manag modulesel modul element packagingprovid packag provid pathtonewpom path pom modulesel modul element repositori packagingprovid packag provid root cmd input error parentpompath parent pom path parentpomdocu parent pom document parentpomroot parent pom root addmodulemessag add modul messag 

@@ -1,0 +1,27 @@
+VARSIG7	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG6	javatype type aspectname aspect
+VARSIG9	classorinterfacetypedetails type details managedentity managed entity
+VARSIG8	itdfilename filename
+VARSIG3	logicalpath logical path path
+VARSIG2	javatype type javatype type
+VARSIG5	metadataidentificationstring metadata identification
+VARSIG4	metadataidentificationstring metadata identification
+COMMENTS	implementation link dbremetadataprovider dbre metadata provider fields parse annotation expect abort database couldn deserialized occur dbre xml file deleted empty governor type details safely search database managed entities
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+MTHSIG4	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+VARSIG12	metadataidentificationstring metadata identification
+MTHSIG5	getidentifierholder identifier holder javatype type javatype type
+VARSIG11	javatype type domaintype domain type
+MTHSIG6	getversionfield version field javatype type domaintype domain type metadataidentificationstring metadata identification
+VARSIG10	javatype type javatype type
+MTHSIG7	getitduniquenessfilenamesuffix uniqueness filename suffix
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo addon dbre
+MTHSIG2	createlocalidentifier create local identifier javatype type javatype type logicalpath logical path path
+MTHSIG3	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+MTHSIG8	getprovidestype type
+CLASSES	dbremetadataproviderimpl dbre metadata provider impl
+METHODS	activate deactivate createlocalidentifier create local identifier getgovernorphysicaltypeidentifier governor physical type identifier getmetadata metadata getidentifierholder identifier holder getversionfield version field getitduniquenessfilenamesuffix uniqueness filename suffix getprovidestype type
+VARIABLES	context context javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename managedentity managed entity javatype type domaintype domain type metadataidentificationstring metadata identification dbremodelservice dbre model service typemanagementservice type management service javatype type path annotationvalues annotation values database javatype type identifierholder identifier holder versionfield version field managedentities managed entities mid dbremetadata dbre metadata updatedgovernor updated governor identifierfields identifier fields identifierfield identifier field embeddedidfield embedded field embeddedidfields embedded fields

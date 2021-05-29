@@ -1,0 +1,13 @@
+VARSIG3	exception
+VARSIG2	ioexception exception ioe
+VARSIG5	exception
+VARSIG4	classorinterfacetypedetails type details serviceinterface service
+COMMENTS	transformer transformer xmlutils xml utils createindentingtransformer create indenting transformer transformer transformer xmlutils xml utils createindentingtransformer create indenting transformer
+CLASSES	servicelayertemplateserviceimpl service layer template service impl
+VARSIG1	classorinterfacetypedetails type details serviceclass service
+VARSIG0	classorinterfacetypedetails type details serviceinterface service
+METHODS	addservicetoxmlconfiguration add service xml configuration removeservicefromxmlconfiguration remove service xml configuration
+MTHSIG0	addservicetoxmlconfiguration add service xml configuration classorinterfacetypedetails type details serviceinterface service classorinterfacetypedetails type details serviceclass service
+MTHSIG1	removeservicefromxmlconfiguration remove service xml configuration classorinterfacetypedetails type details serviceinterface service
+PACKAGE	springframework roo addon layers service
+VARIABLES	serviceinterface service serviceclass service ioe serviceinterface service projectoperations project operations filemanager file manager pathresolver path resolver fileidentifier file identifier inputstream input stream outputstream output stream builder source filereader file reader document servicename service serviceelement service element beansnode beans node beanselement beans element transfac transformer domsource dom source result output pathresolver path resolver fileidentifier file identifier builder source filereader file reader document servicename service serviceelement service element beansnode beans node beanselement beans element transfac transformer domsource dom source result output

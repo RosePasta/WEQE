@@ -1,0 +1,12 @@
+MTHSIG0	activ componentcontext compon context context 
+VARSIG3	fileev file event fileev file event 
+MTHSIG1	onshellstatuschang shell statu chang shellstatu shell statu oldstatu statu shellstatu shell statu newstatu statu 
+VARSIG2	shellstatu shell statu newstatu statu 
+PACKAGE	springframework roo addon git 
+MTHSIG2	onfileev file event fileev file event fileev file event 
+COMMENTS	listen shell event support automat git repositori commit 
+CLASSES	gitshelleventlisten git shell event listen 
+VARIABLES	context oldstatu statu newstatu statu fileev file event log ant path roo log revisioncontrol revis control shell filemanag file manag pathresolv path resolv isdirti dirti commandresult command result 
+VARSIG1	shellstatu shell statu oldstatu statu 
+VARSIG0	componentcontext compon context context 
+METHODS	activ onshellstatuschang shell statu chang onfileev file event 

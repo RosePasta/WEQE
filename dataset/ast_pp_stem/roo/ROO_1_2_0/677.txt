@@ -1,0 +1,17 @@
+VARSIG3	list annotationmetadatabuild annot metadata builder annot 
+VARSIG2	javasymbolnam symbol fieldnam field 
+VARSIG5	decimalmax decim max 
+VARSIG4	decimalmin decim min 
+COMMENTS	constant jsr decimalmin decim min annot jsr decimalmax decim max annot 
+CLASSES	stringornumericfield numer field 
+VARSIG1	javatyp type fieldtyp field type 
+VARSIG0	physicaltypeidentifi physic type identifi 
+METHODS	stringornumericfield numer field decorateannotationslist decor annot list getdecimalmin decim min setdecimalmin set decim min getdecimalmax decim max setdecimalmax set decim max 
+MTHSIG4	getdecimalmax decim max 
+MTHSIG5	setdecimalmax set decim max decimalmax decim max 
+MTHSIG0	stringornumericfield numer field physicaltypeidentifi physic type identifi javatyp type fieldtyp field type javasymbolnam symbol fieldnam field 
+MTHSIG1	decorateannotationslist decor annot list list annotationmetadatabuild annot metadata builder annot 
+PACKAGE	springframework roo classpath oper jsr jsr 
+MTHSIG2	getdecimalmin decim min 
+MTHSIG3	setdecimalmin set decim min decimalmin decim min 
+VARIABLES	physicaltypeidentifi physic type identifi fieldtyp field type fieldnam field annot decimalmin decim min decimalmax decim max logger decimalmin decim min decimalmax decim max attr attr 

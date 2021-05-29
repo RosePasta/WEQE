@@ -1,0 +1,39 @@
+VARSIG7	path path 
+VARSIG6	javatyp type javatyp type 
+VARSIG9	path path 
+VARSIG8	relativepath rel path 
+VARSIG3	logicalpath logic path path 
+VARSIG2	physicalpath physic path thisphysicalpath physic path 
+VARSIG5	path path 
+VARSIG4	javatyp type javatyp type 
+COMMENTS	locat link physicalpath physic path constru parent present identifi identifi locat parent requir match parent pom exist modul creat modul root path 
+VARSIG19	logicalpath logic path modulepathid modul path 
+VARSIG1	pom pom 
+VARSIG18	physicalpath physic path modulepath modul path 
+VARSIG0	identifi 
+VARSIG17	pom pom 
+MTHSIG4	getfocusedpath focus path path path 
+VARSIG12	relativepath rel path 
+MTHSIG5	getfocusedroot focus root path path 
+VARSIG11	logicalpath logic path logicalpath logic path 
+MTHSIG6	getidentifi identifi logicalpath logic path logicalpath logic path relativepath rel path 
+VARSIG10	path path 
+MTHSIG7	getmoduleroot modul root modul pom pom 
+MTHSIG0	getapplicablephysicalpath applic physic path identifi 
+VARSIG16	sourceonli sourc 
+MTHSIG1	getcanonicalpath canon path logicalpath logic path path javatyp type javatyp type 
+VARSIG15	logicalpath logic path logicalpath logic path 
+PACKAGE	springframework roo project 
+MTHSIG2	getfocusedcanonicalpath focus canon path path path javatyp type javatyp type 
+VARSIG14	pom pom 
+MTHSIG3	getfocusedidentifi focus identifi path path relativepath rel path 
+VARSIG13	modul 
+MTHSIG8	getpath path logicalpath logic path logicalpath logic path 
+MTHSIG9	getpath path sourceonli sourc 
+MTHSIG11	isact activ 
+MTHSIG12	removetrailingsepar remov trail separ pompath pom path 
+CLASSES	mavenpathresolvingstrategi maven path resolv strategi 
+METHODS	getapplicablephysicalpath applic physic path getcanonicalpath canon path getfocusedcanonicalpath focus canon path getfocusedidentifi focus identifi getfocusedpath focus path getfocusedroot focus root getidentifi identifi getmoduleroot modul root getpath path getpath path getroot root isact activ removetrailingsepar remov trail separ 
+VARSIG20	pompath pom path 
+MTHSIG10	getroot root logicalpath logic path modulepathid modul path 
+VARIABLES	identifi pom thisphysicalpath physic path path javatyp type path javatyp type path relativepath rel path path path logicalpath logic path relativepath rel path modul pom logicalpath logic path sourceonli sourc pom modulepath modul path modulepathid modul path pompath pom path pommanagementservic pom manag servic physicalpath physic path longest nextlongest longest possiblepar parent physicalpath physic path initialpath initi path pom moduleroot modul root pathrelativetopom path rel pom pathid path id pom 

@@ -1,0 +1,29 @@
+VARSIG7	foldername folder
+VARSIG6	viewlocation view location
+VARSIG9	viewsdefinitionfile views definition file
+VARSIG8	logicalpath logical path path
+VARSIG3	logicalpath logical path path
+VARSIG2	foldername folder
+VARSIG5	tilestemplatename tiles template
+VARSIG4	tilesviewname tiles view
+COMMENTS	operations manage tiles view definitions behaviour definition exist returns canonical path views xml tiles configuration file folder foldername folder blank views file leading slash path path returns root element tiles configuration file viewsdefinitionfile views definition file canonical path file load root xml document file exist find menu item category exists viewsdefinitionfile views definition file canonical path file update body element parent document written build representation tiles config file mutablefile mutable file write contents jspcontent jsp content file verify file changed write file file existing file contents wrote file file existed contained content
+VARSIG1	systemid system
+VARSIG18	ioexception exception ioe
+VARSIG0	publicid
+VARSIG17	ioexception exception
+MTHSIG4	writetodiskifnecessary write disk tilesdefinitionfile tiles definition file element body
+VARSIG12	
+VARSIG11	ioexception exception ioe
+VARSIG10	saxexception sax exception
+MTHSIG0	addviewdefinition add view definition foldername folder logicalpath logical path path tilesviewname tiles view tilestemplatename tiles template viewlocation view location
+VARSIG16	element body
+MTHSIG1	gettilesconfigfile tiles config file foldername folder logicalpath logical path path
+VARSIG15	tilesdefinitionfile tiles definition file
+PACKAGE	springframework roo addon web mvc jsp tiles
+MTHSIG2	getviewselement views element viewsdefinitionfile views definition file
+VARSIG14	logicalpath logical path path
+MTHSIG3	removeviewdefinition remove view definition foldername folder logicalpath logical path path
+VARSIG13	foldername folder
+CLASSES	tilesoperationsimpl tiles operations impl
+METHODS	addviewdefinition add view definition gettilesconfigfile tiles config file getviewselement views element removeviewdefinition remove view definition writetodiskifnecessary write disk
+VARIABLES	publicid systemid system foldername folder path tilesviewname tiles view tilestemplatename tiles template viewlocation view location foldername folder path viewsdefinitionfile views definition file ioe foldername folder path tilesdefinitionfile tiles definition file body ioe filemanager file manager pathresolver path resolver viewsdefinitionfile views definition file unprefixedviewname unprefixed view root existingdefinition existing definition newdefinition definition putattribute attribute subpath path tilesview tiles view builder viewsdefinitionfile views definition file root element bytearrayoutputstream array output stream transformer viewcontent view content mutablefile mutable file file existing outputstream output stream

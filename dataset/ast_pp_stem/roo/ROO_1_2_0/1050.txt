@@ -1,0 +1,24 @@
+VARSIG7	bundl bundl 
+VARSIG6	antpathexpress ant path express 
+VARSIG9	illegalstateexcept illeg except 
+VARSIG8	urisyntaxexcept uri syntax except 
+VARSIG3	illegalstateexcept illeg except 
+VARSIG2	bundl bundl 
+VARSIG5	bundlecontext bundl context context 
+VARSIG4	urisyntaxexcept uri syntax except 
+COMMENTS	util method relat osgi root path osgi bundl properti store roo work directori search bundl context entri path context bundl search path path resourc locat link bundl getentri entri foo txt find foo txt root bundl failur set entri entri search success resourc simpli collect uri avoid duplic collect url can simpli set url url equal broken haven url add bundl uninstal ignor url can convert uri ignor return uri entri bundl url match ant style path context context bundl search antpathexpress ant path express pattern match url requir search can perform set antpathmatch ant path matcher match collect uri avoid duplic collect url can simpli set url url equal broken url can convert uri ignor bundl uninstal ignor execut callback bundl context callback context return roo work directori osgi compon context componentcontext compon context compon context requir path roo work directori constructor prevent instanti 
+CLASSES	osgiutil util 
+VARSIG1	path 
+VARSIG0	bundlecontext bundl context context 
+METHODS	findentriesbypath find entri path findentriesbypattern find entri pattern execut getrooworkingdirectori roo work directori osgiutil util 
+MTHSIG4	osgiutil util 
+VARSIG12	bundl bundl 
+VARSIG11	bundlecontext bundl context context 
+VARSIG10	bundlecallback bundl callback callback 
+MTHSIG0	findentriesbypath find entri path bundlecontext bundl context context path 
+MTHSIG1	findentriesbypattern find entri pattern bundlecontext bundl context context antpathexpress ant path express 
+PACKAGE	springframework roo support osgi 
+MTHSIG2	execut bundlecallback bundl callback callback bundlecontext bundl context context 
+MTHSIG3	getrooworkingdirectori roo work directori componentcontext compon context componentcontext compon context 
+VARSIG13	componentcontext compon context componentcontext compon context 
+VARIABLES	context path bundl context antpathexpress ant path express bundl callback context bundl componentcontext compon context root path roo work directori properti path matcher url uri url uri url uri enumer url uri bundl 

@@ -1,0 +1,59 @@
+MTHSIG4	getinvokedtype invoked type collection fieldmetadata field metadata invokedfields invoked fields
+VARSIG34	javatype type invokedtype invoked type
+MTHSIG5	getprovidestype type
+VARSIG33	classorinterfacetypedetails type details request
+MTHSIG6	getrequestmethod request classorinterfacetypedetails type details request methodmetadata metadata javatype type returntype type
+VARSIG32	requestmetadataid request metadata
+MTHSIG7	getrequestmethod request classorinterfacetypedetails type details request methodmetadata metadata javatype type entitytype entity type javatype type invokedtype invoked type
+VARSIG31	javatype type entitytype entity type
+MTHSIG0	activate componentcontext component context context
+VARSIG38	methodmetadata metadata
+MTHSIG1	deactivate componentcontext component context context
+VARSIG37	requestmetadataid request metadata
+PACKAGE	springframework roo addon gwt request
+MTHSIG2	requestmetadataid request metadata
+VARSIG36	javatype type entitytype entity type
+MTHSIG3	getgovernor governor metadataidentificationstring metadata identification
+VARSIG35	iterable methodmetadata metadata requestmethods request methods
+MTHSIG8	getrequestmethod request javatype type entity methodmetadatacustomdatakey metadata custom data key methodkey key membertypeadditions member type additions membertypeadditions member type additions declaredbymetadataid declared metadata
+VARSIG30	javatype type invokedtype invoked type
+MTHSIG9	getrequestmethodreturntype request type javatype type invokedtype invoked type methodmetadata metadata javatype type proxytype proxy type
+CLASSES	gwtrequestmetadataproviderimpl gwt request metadata provider impl
+VARSIG29	classorinterfacetypedetails type details request
+VARSIG28	javatype type entity
+METHODS	activate deactivate getgovernor governor getinvokedtype invoked type getprovidestype type getrequestmethod request getrequestmethod request getrequestmethod request getrequestmethodreturntype request type getrequestmethodsandinvokedtypes request methods invoked types getrequestmethodsignatures request signatures getreturntype type getservicenameannotation service annotation writerequestinterface write request
+VARSIG23	requestmetadataid request metadata
+VARSIG22	javatype type entity
+VARSIG21	javatype type proxytype proxy type
+VARSIG20	methodmetadata metadata
+VARSIG27	methodmetadatacustomdatakey metadata custom data key methodkey key
+VARSIG26	javatype type idtype type
+VARSIG25	javatype type domaintype domain type
+VARSIG24	entry methodmetadatacustomdatakey metadata custom data key collection methodparameter parameter methodsignature signature
+VARSIG7	methodmetadata metadata
+VARSIG6	classorinterfacetypedetails type details request
+VARSIG9	annotatedjavatype annotated type parametertype parameter type
+VARSIG8	javatype type returntype type
+VARSIG3	metadataidentificationstring metadata identification
+VARSIG2	requestmetadataid request metadata
+VARSIG5	fieldmetadata field metadata invokedfield invoked field
+VARSIG4	collection fieldmetadata field metadata invokedfields invoked fields
+COMMENTS	methods invoked type provide type returns type request methods invoked invokedfields invoked fields autowired fields invoked layer calls include elements active record calls active record layer component type wrong mid doesn matter overwrite modifiers todo active record instance methods correct parameters expected instancerequest instance request gwtbug client proxy thingproxy proxy lang persist actual request lang persist thingproxy proxy proxy calling active record that target entity instance active record entity type invoked service layer component repository service type invoked service locator gwt find creates updates entity specific request request requestmethods request methods methods declare mapped injected field type invoked required entitytype entity type requestmetadataid request metadata source code request service annotation roogwtrequest roo gwt request applied gwtoperationsimpl gwt operations impl createrequestinterface create request
+VARSIG19	javatype type invokedtype invoked type
+VARSIG1	componentcontext component context context
+VARSIG18	methodparameter parameter methodparameter parameter
+VARSIG0	componentcontext component context context
+VARSIG17	declaredbymetadataid declared metadata
+VARSIG12	javatype type entitytype entity type
+VARSIG11	methodmetadata metadata
+VARSIG10	classorinterfacetypedetails type details request
+VARSIG16	membertypeadditions member type additions membertypeadditions member type additions
+VARSIG15	methodmetadatacustomdatakey metadata custom data key methodkey key
+VARSIG14	javatype type entity
+VARSIG13	javatype type invokedtype invoked type
+MTHSIG13	getservicenameannotation service annotation classorinterfacetypedetails type details request javatype type invokedtype invoked type javatype type entitytype entity type requestmetadataid request metadata
+MTHSIG14	writerequestinterface write request classorinterfacetypedetails type details request javatype type invokedtype invoked type iterable methodmetadata metadata requestmethods request methods javatype type entitytype entity type requestmetadataid request metadata
+MTHSIG11	getrequestmethodsignatures request signatures javatype type domaintype domain type javatype type idtype type
+MTHSIG12	getreturntype type methodmetadatacustomdatakey metadata custom data key methodkey key javatype type entity
+MTHSIG10	getrequestmethodsandinvokedtypes request methods invoked types javatype type entity requestmetadataid request metadata
+VARIABLES	context context requestmetadataid request metadata metadataidentificationstring metadata identification invokedfields invoked fields invokedfield invoked field request returntype type parametertype parameter type request entitytype entity type invokedtype invoked type entity methodkey key membertypeadditions member type additions declaredbymetadataid declared metadata methodparameter parameter invokedtype invoked type proxytype proxy type entity requestmetadataid request metadata methodsignature signature domaintype domain type idtype type methodkey key entity request invokedtype invoked type entitytype entity type requestmetadataid request metadata request invokedtype invoked type requestmethods request methods entitytype entity type requestmetadataid request metadata layer position gwtfilemanager gwt file manager gwttypeservice gwt type service layerservice layer service memberdetailsscanner member details scanner persistencememberlocator persistence member locator projectoperations project operations typelocationservice type location service projectmetadata project metadata requestinterface request gwtrequestannotation gwt request annotation entitytype entity type requestmethods request methods invokedtype invoked type requesttypecontents request type contents gwtrequestmetadata gwt request metadata governortypename governor type governortypepath governor type path physicaltypeid physical type distinctinvokedtypes distinct invoked types entity parametertypes parameter types proxy methodreturntype type methodbuilder builder returntype type gwttype gwt type methodreturntypeargs type methodreturntypeargs type idtype type requestmethods request methods methodid membertypeadditions member type additions requestmethod request signatures noargs proxyparameteraslist proxy parameter list serviceattributevalues service attribute values stringattributevalue attribute stringattributevalue attribute requestlogicalpath request logical path servicelocator service locator locatorattributevalue locator attribute typedetailsbuilder type details builder

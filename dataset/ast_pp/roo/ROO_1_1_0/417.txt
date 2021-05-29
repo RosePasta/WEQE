@@ -1,0 +1,29 @@
+VARSIG7	runtimeexception runtime exception
+VARSIG6	filedetails file details file
+VARSIG9	locatedphysicaltypemid located physical type mid
+VARSIG8	javatype type annotation
+VARSIG3	downstreamdependency downstream dependency
+VARSIG2	upstreamdependency upstream dependency
+VARSIG5	locatedtypecallback located type callback callback
+VARSIG4	list javatype type annotationstodetect annotations detect
+COMMENTS	implementation link typelocationservice type location service performance reasons automatically caches queries invalidating cache link physicaltypemetadata physical type metadata notification received change drop cache ditch roo let work path store cache
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+MTHSIG4	findtypeswithannotation find types annotation list javatype type annotationstodetect annotations detect
+VARSIG12	javatype type annotationstodetect annotations detect
+MTHSIG5	findtypeswithannotation find types annotation javatype type annotationstodetect annotations detect
+VARSIG11	classorinterfacetypedetails type details located
+MTHSIG6	findclassesorinterfacedetailswithannotation find classes details annotation javatype type annotationstodetect annotations detect
+VARSIG10	list javatype type annotationstodetect annotations detect
+MTHSIG7	getclassorinterfacetypedetails type details physicaltypemid physical type mid
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+VARSIG15	physicaltypemid physical type mid
+PACKAGE	springframework roo classpath
+MTHSIG2	notify upstreamdependency upstream dependency downstreamdependency downstream dependency
+VARSIG14	classorinterfacetypedetails type details located
+MTHSIG3	processtypeswithannotation process types annotation list javatype type annotationstodetect annotations detect locatedtypecallback located type callback callback
+VARSIG13	javatype type annotationstodetect annotations detect
+CLASSES	typelocationserviceimpl type location service impl
+METHODS	activate deactivate notify processtypeswithannotation process types annotation findtypeswithannotation find types annotation findtypeswithannotation find types annotation findclassesorinterfacedetailswithannotation find classes details annotation getclassorinterfacetypedetails type details
+VARIABLES	context context upstreamdependency upstream dependency downstreamdependency downstream dependency annotationstodetect annotations detect callback file annotation locatedphysicaltypemid located physical type mid annotationstodetect annotations detect located annotationstodetect annotations detect annotationstodetect annotations detect located physicaltypemid physical type mid pathresolver path resolver filemanager file manager metadataservice metadata service physicaltypemetadataprovider physical type metadata provider dependencyregistry dependency registry cache locatedphysicaltypemids located physical type mids srcroot src root antpath ant path entries fullpath full path javatype type path physicaltypemid physical type mid located located types types physicaltypemetadata physical type metadata

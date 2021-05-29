@@ -1,0 +1,21 @@
+VARSIG7	subject 
+VARSIG6	 
+VARSIG9	javasymbolnam symbol fieldnam field 
+VARSIG8	javatyp type targettyp target type 
+VARSIG3	encod 
+VARSIG2	port 
+VARSIG5	password 
+VARSIG4	usernam 
+COMMENTS	email configur oper command ad javamailsend mail sender user user project command relat mail templat 
+CLASSES	mailoper mail oper 
+VARSIG1	mailprotocol mail protocol protocol 
+VARSIG0	hostserv host server 
+METHODS	isemailinstallationposs email instal ismanageemailavail manag email installemail instal email configuretemplatemessag configur templat messag injectemailtempl inject email templat 
+MTHSIG4	injectemailtempl inject email templat javatyp type targettyp target type javasymbolnam symbol fieldnam field async 
+VARSIG10	async 
+MTHSIG0	isemailinstallationposs email instal 
+MTHSIG1	ismanageemailavail manag email 
+PACKAGE	springframework roo addon email 
+MTHSIG2	installemail instal email hostserv host server mailprotocol mail protocol protocol port encod usernam password 
+MTHSIG3	configuretemplatemessag configur templat messag subject 
+VARIABLES	hostserv host server protocol port encod usernam password subject targettyp target type fieldnam field async 

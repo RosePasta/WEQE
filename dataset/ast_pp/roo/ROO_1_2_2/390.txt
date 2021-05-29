@@ -1,0 +1,13 @@
+VARSIG3	ioexception exception
+VARSIG2	
+VARSIG5	interruptedexception interrupted exception
+VARSIG4	command
+COMMENTS	implementation link osoperations operations prevent thread presented roo shell prevent thread presented roo shell ensure separate threads logging roo
+CLASSES	osoperationsimpl operations impl
+VARSIG1	processmanager process manager processmanager process manager
+VARSIG0	inputstream input stream inputstream input stream
+METHODS	executecommand execute command getprojectroot project root
+MTHSIG0	executecommand execute command command
+MTHSIG1	getprojectroot project root
+PACKAGE	springframework roo addon oscommands
+VARIABLES	inputstream input stream processmanager process manager command processmanager process manager reader logger pathresolver path resolver processmanager process manager root input errors

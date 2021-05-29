@@ -1,0 +1,14 @@
+VARSIG3	customdatabuilder custom data builder customdata custom data
+VARSIG2	object
+COMMENTS	assists creation link builder types eventually implement link customdataaccessor custom data accessor
+CLASSES	abstractcustomdataaccessorbuilder custom data accessor builder
+VARSIG1	object key
+VARSIG0	customdataaccessor custom data accessor existing
+METHODS	abstractcustomdataaccessorbuilder custom data accessor builder abstractcustomdataaccessorbuilder custom data accessor builder putcustomdata custom data getcustomdata custom data setcustomdata set custom data
+MTHSIG4	setcustomdata set custom data customdatabuilder custom data builder customdata custom data
+MTHSIG0	abstractcustomdataaccessorbuilder custom data accessor builder
+MTHSIG1	abstractcustomdataaccessorbuilder custom data accessor builder customdataaccessor custom data accessor existing
+PACKAGE	springframework roo model
+MTHSIG2	putcustomdata custom data object key object
+MTHSIG3	getcustomdata custom data
+VARIABLES	existing key customdata custom data customdata custom data

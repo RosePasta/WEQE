@@ -1,0 +1,47 @@
+VARSIG7	revstr
+VARSIG6	message
+VARSIG9	missingobjectexception missing object exception
+VARSIG8	message
+VARSIG3	revcommit rev commit commit
+VARSIG2	maxhistory max history
+VARSIG5	noofcommitstorevert commits revert
+VARSIG4	exception
+COMMENTS	operations git addon transport transport transport open repository repository getconfig config getstring remote origin url jgit transport pushresult push result transport push create tmp branch commits rev rename master branch backup rename tmp branch master master commit update head
+VARSIG19	ioexception exception
+VARSIG1	exception
+VARSIG18	ioexception exception
+VARSIG0	message
+VARSIG17	exception
+MTHSIG4	log maxhistory max history
+VARSIG12	exception
+MTHSIG5	revertcommit revert commit noofcommitstorevert commits revert message
+VARSIG11	exception ignore
+MTHSIG6	revertcommit revert commit revstr message
+VARSIG10	incorrectobjecttypeexception incorrect object type exception
+MTHSIG7	setconfig set config category key
+MTHSIG0	isgitcommandavailable git command
+VARSIG16	ioexception exception
+MTHSIG1	issetupcommandavailable setup command
+VARSIG15	
+PACKAGE	springframework roo addon git
+MTHSIG2	commitallchanges commit message
+VARSIG14	key
+MTHSIG3	push
+VARSIG13	category
+MTHSIG8	setup
+MTHSIG9	getexclusions exclusions
+MTHSIG13	checkoutbranch checkout branch repository repository branchname branch
+MTHSIG14	loadgitignore load git ignore
+MTHSIG11	hasdotgit dot git
+MTHSIG12	createbranch create branch repository repository objectid object objectid object branchname branch
+CLASSES	gitoperationsimpl git operations impl
+METHODS	isgitcommandavailable git command issetupcommandavailable setup command commitallchanges commit push log revertcommit revert commit revertcommit revert commit setconfig set config setup getexclusions exclusions getrepository repository hasdotgit dot git createbranch create branch checkoutbranch checkout branch loadgitignore load git ignore
+VARSIG23	repository repository
+VARSIG22	branchname branch
+VARSIG21	objectid object objectid object
+VARSIG20	repository repository
+VARSIG26	ioexception exception
+VARSIG25	exception
+VARSIG24	branchname branch
+MTHSIG10	getrepository repository
+VARIABLES	message maxhistory max history commit noofcommitstorevert commits revert message revstr message ignore category key repository objectid object branchname branch repository branchname branch logger filemanager file manager pathresolver path resolver person exclusions repository git rev repository git counter repository walk commit renamemaster rename master renametmp rename tmp repository repository gitignore git ignore updateref update walk head branch dco success refupdate update gitignore git ignore reader

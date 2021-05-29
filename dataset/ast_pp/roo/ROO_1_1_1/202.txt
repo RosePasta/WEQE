@@ -1,0 +1,16 @@
+VARSIG6	ioexception exception
+VARSIG3	integer majorjavaversion major version
+VARSIG2	projectname project
+VARSIG5	element
+VARSIG4	exception
+COMMENTS	maven project operations detect major version running roo javax annotation library included jaxb api hibernate
+CLASSES	mavenoperationsimpl maven operations impl
+VARSIG1	javapackage toplevelpackage top level
+VARSIG0	componentcontext component context context
+METHODS	activate iscreateprojectavailable create project getprojectroot project root createproject create project
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	iscreateprojectavailable create project
+PACKAGE	springframework roo addon maven
+MTHSIG2	getprojectroot project root
+MTHSIG3	createproject create project javapackage toplevelpackage top level projectname project integer majorjavaversion major version
+VARIABLES	context toplevelpackage top level projectname project majorjavaversion major version logger filemanager file manager pathresolver path resolver applicationcontextoperations application context operations ver packagename lastindex pom rootelement root element versionelements version elements pommutablefile pom mutable file

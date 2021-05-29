@@ -1,0 +1,23 @@
+VARSIG7	clioption cli option kei async mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu inject execut asynchron async 
+VARSIG6	clioption cli option kei mandatori unspecifieddefaultvalu unspecifi optioncontext option context updat project receiv field javatyp type typenam type 
+VARSIG9	clioption cli option kei destinationnam destin mandatori unspecifieddefaultvalu unspecifi mydestin destin specifieddefaultvalu mydestin destin destin 
+VARSIG8	clioption cli option kei mandatori creat javatyp type typenam type 
+VARSIG3	clioption cli option kei destinationnam destin mandatori unspecifieddefaultvalu unspecifi mydestin destin specifieddefaultvalu mydestin destin destin 
+VARSIG2	clioption cli option kei provid mandatori persist provid support jmsprovid jm provid jmsprovid jm provid 
+VARSIG5	clioption cli option kei fieldnam field mandatori specifieddefaultvalu jmstemplat jm templat unspecifieddefaultvalu unspecifi jmstemplat jm templat field add javasymbolnam symbol fieldnam field 
+VARSIG4	clioption cli option kei destinationtyp destin type mandatori unspecifieddefaultvalu unspecifi queue specifieddefaultvalu queue type destin jmsdestinationtyp jm destin type type 
+COMMENTS	command instal jm add roo shell 
+CLASSES	jmscommand jm command 
+VARSIG1	componentcontext compon context context 
+VARSIG0	componentcontext compon context context 
+METHODS	activ deactiv isinstalljmsavail instal jm installjm instal jm isinsertjmsavail insert jm injectjmsproduc inject jm produc addjmslisten add jm listen 
+MTHSIG4	isinsertjmsavail insert jm 
+MTHSIG5	injectjmsproduc inject jm produc javasymbolnam symbol fieldnam field javatyp type typenam type async 
+MTHSIG6	addjmslisten add jm listen javatyp type typenam type jmsdestinationtyp jm destin type type 
+VARSIG10	clioption cli option kei destinationtyp destin type mandatori unspecifieddefaultvalu unspecifi queue specifieddefaultvalu queue type destin jmsdestinationtyp jm destin type type 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	deactiv componentcontext compon context context 
+PACKAGE	springframework roo addon jm 
+MTHSIG2	isinstalljmsavail instal jm 
+MTHSIG3	installjm instal jm jmsprovid jm provid jmsprovid jm provid jmsdestinationtyp jm destin type type 
+VARIABLES	context context jmsprovid jm provid type fieldnam field typenam type async typenam type type jmsoper jm oper staticfieldconvert field convert 

@@ -1,0 +1,26 @@
+VARSIG7	 
+VARSIG6	except 
+VARSIG9	except 
+VARSIG8	subject 
+VARSIG3	encod 
+VARSIG2	port 
+VARSIG5	password 
+VARSIG4	usernam 
+COMMENTS	email configur oper physic type mutabl detail creat content user start 
+VARSIG1	mailprotocol mail protocol protocol 
+VARSIG0	hostserv host server 
+MTHSIG4	injectemailtempl inject email templat javatyp type targettyp target type javasymbolnam symbol fieldnam field async 
+VARSIG12	async 
+MTHSIG5	updateconfigur updat configur 
+VARSIG11	javasymbolnam symbol fieldnam field 
+VARSIG10	javatyp type targettyp target type 
+MTHSIG0	isinstallemailavail instal email 
+MTHSIG1	ismanageemailavail manag email 
+PACKAGE	springframework roo addon email 
+MTHSIG2	installemail instal email hostserv host server mailprotocol mail protocol protocol port encod usernam password 
+VARSIG14	element dependencyel depend element 
+MTHSIG3	configuretemplatemessag configur templat messag subject 
+VARSIG13	except 
+CLASSES	mailoperationsimpl mail oper impl 
+METHODS	isinstallemailavail instal email ismanageemailavail manag email installemail instal email configuretemplatemessag configur templat messag injectemailtempl inject email templat updateconfigur updat configur 
+VARIABLES	hostserv host server protocol port encod usernam password subject targettyp target type fieldnam field async dependencyel depend element filemanag file manag metadataservic metadata servic projectoper project oper propfileoper prop file oper prop contextpath context path contextmutablefil context mutabl file appctx app ctx root installdepend instal depend mailbean mail bean properti pelement element pelement element pelement element pelement element pelement element javamailproperti mail properti securityprop secur prop prop prop prop prop contextpath context path contextmutablefil context mutabl file appctx app ctx root smmbean smm bean smmproperti smm properti smmproperti smm properti annot declaredbymetadataid declar metadata ptm ptd mutabletypedetail mutabl type detail modifi fieldbuild field builder contextpath context path contextmutablefil context mutabl file appctx app ctx root smmbean smm bean bodybuild bodi builder smmannot smm annot paramtyp type paramnam name smmfieldbuild smm field builder methodbuild builder configur depend emaildepend email depend 

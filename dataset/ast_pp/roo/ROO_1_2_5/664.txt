@@ -1,0 +1,35 @@
+VARSIG7	javatype type importtype type
+VARSIG6	javapackage importpackage
+VARSIG9	isasterisk asterisk
+VARSIG8	isstatic
+VARSIG3	declaredbymetadataid declaredby metadata
+VARSIG2	importmetadata metadata existing
+VARSIG5	modifier
+VARSIG4	declaredbymetadataid declaredby metadata
+COMMENTS	builder link importmetadata metadata builds link javatype type caller callermid caller mid metadata compilation unit receive required typetoimport type type required wildcard
+VARSIG1	javatype type typetoimport type
+VARSIG0	callermid caller mid
+MTHSIG4	build
+VARSIG12	javatype type importtype type
+MTHSIG5	getimportpackage
+VARSIG11	javapackage importpackage
+MTHSIG6	getimporttype type
+VARSIG10	asterisk
+MTHSIG7	isasterisk asterisk
+MTHSIG0	getimport callermid caller mid javatype type typetoimport type
+MTHSIG1	importmetadatabuilder metadata builder importmetadata metadata existing
+PACKAGE	springframework roo classpath details
+MTHSIG2	importmetadatabuilder metadata builder declaredbymetadataid declaredby metadata
+VARSIG14	commentstructure comment structure commentstructure comment structure
+MTHSIG3	importmetadatabuilder metadata builder declaredbymetadataid declaredby metadata modifier javapackage importpackage javatype type importtype type isstatic isasterisk asterisk
+VARSIG13	astatic
+MTHSIG8	isstatic
+MTHSIG9	setasterisk set asterisk asterisk
+MTHSIG13	getcommentstructure comment structure
+MTHSIG14	setcommentstructure set comment structure commentstructure comment structure commentstructure comment structure
+MTHSIG11	setimporttype set type javatype type importtype type
+MTHSIG12	setstatic set astatic
+CLASSES	importmetadatabuilder metadata builder
+METHODS	getimport importmetadatabuilder metadata builder importmetadatabuilder metadata builder importmetadatabuilder metadata builder build getimportpackage getimporttype type isasterisk asterisk isstatic setasterisk set asterisk setimportpackage set setimporttype set type setstatic set getcommentstructure comment structure setcommentstructure set comment structure
+MTHSIG10	setimportpackage set javapackage importpackage
+VARIABLES	callermid caller mid typetoimport type existing declaredbymetadataid declaredby metadata declaredbymetadataid declaredby metadata modifier importpackage importtype type isstatic isasterisk asterisk asterisk importpackage importtype type astatic commentstructure comment structure importpackage importtype type isasterisk asterisk isstatic commentstructure comment structure

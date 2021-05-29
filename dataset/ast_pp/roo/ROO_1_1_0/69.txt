@@ -1,0 +1,30 @@
+VARSIG7	exception
+VARSIG6	ioexception exception ioe
+VARSIG9	
+VARSIG8	ioexception exception ioe
+VARSIG3	encoding
+VARSIG2	port
+VARSIG5	password
+VARSIG4	username
+COMMENTS	email configuration operations physical type mutable details create content user started
+VARSIG1	mailprotocol mail protocol protocol
+VARSIG0	hostserver host server
+VARSIG17	element dependency
+MTHSIG4	injectemailtemplate inject email template javatype type targettype target type javasymbolname symbol fieldname field
+VARSIG12	exception
+MTHSIG5	updateconfiguration update configuration
+VARSIG11	ioexception exception ioe
+MTHSIG6	getpathresolver path resolver
+VARSIG10	subject
+MTHSIG0	isinstallemailavailable install email
+VARSIG16	exception
+MTHSIG1	ismanageemailavailable manage email
+VARSIG15	javasymbolname symbol fieldname field
+PACKAGE	springframework roo addon email
+MTHSIG2	installemail install email hostserver host server mailprotocol mail protocol protocol port encoding username password
+VARSIG14	javatype type targettype target type
+MTHSIG3	configuretemplatemessage configure template message subject
+VARSIG13	ioexception exception ioe
+CLASSES	mailoperationsimpl mail operations impl
+METHODS	isinstallemailavailable install email ismanageemailavailable manage email installemail install email configuretemplatemessage configure template message injectemailtemplate inject email template updateconfiguration update configuration getpathresolver path resolver
+VARIABLES	hostserver host server protocol port encoding username password ioe ioe subject ioe ioe targettype target type fieldname field dependency filemanager file manager pathresolver path resolver metadataservice metadata service projectoperations project operations emailpropspath email props path databasemutablefile database mutable file props contextpath context path contextmutablefile context mutable file appctx app ctx root installdependencies install dependencies mailbean mail bean property pelement element pelement element pelement element pelement element pelement element javamailproperties mail properties securityprops security props prop prop prop emailpropspath email props path databasemutablefile database mutable file props contextpath context path contextmutablefile context mutable file appctx app ctx root smmbean smm bean smmproperty smm property smmproperty smm property annotations declaredbymetadataid declared metadata ptm ptd mutabletypedetails mutable type details modifier fieldbuilder field builder contextpath context path contextmutablefile context mutable file appctx app ctx root smmbean smm bean bodybuilder body builder smmannotations smm annotations paramtypes types paramnames names smmfieldbuilder smm field builder methodbuilder builder configuration dependencies projectmetadata project metadata

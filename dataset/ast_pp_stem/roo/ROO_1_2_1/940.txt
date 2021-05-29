@@ -1,0 +1,26 @@
+VARSIG6	path path 
+VARSIG3	artifactid artifact 
+VARSIG2	groupid group 
+VARSIG5	dependencytyp depend type type 
+VARSIG4	version 
+COMMENTS	unit test link pom set invok check set invok check set invok check set invok check set invok check set invok check set invok check set invok check set invok check set invok check set invok check 
+VARSIG1	depend depend 
+VARSIG0	packag 
+MTHSIG4	testcannotaddalreadyregistereddepend test add regist depend 
+MTHSIG5	testcannotaddnewdependencyofhighertyp test add depend higher type 
+MTHSIG6	testcannotaddnulldepend test add depend 
+MTHSIG7	testdefaultpackag test packag 
+MTHSIG0	getminimalpom minim pom packag depend depend 
+MTHSIG1	getmockdepend mock depend groupid group artifactid artifact version dependencytyp depend type type 
+PACKAGE	springframework roo project maven 
+MTHSIG2	testcanaddnewdependencyoflowertyp test add depend type 
+MTHSIG3	testcanaddnewdependencywhenowntypeisnonstandard test add depend type standard 
+MTHSIG8	testgetasdepend test depend 
+MTHSIG9	testgetmodulepathsforminimaljarpom test modul path minim jar pom 
+MTHSIG13	testhasdependencyexcludingversionwhendependencyisnul test depend exclud version depend 
+MTHSIG11	testhasdependencyexcludingversionwhendependencyhasdifferenttyp test depend exclud version depend type 
+MTHSIG12	testhasdependencyexcludingversionwhendependencyhasdifferentvers test depend exclud version depend version 
+CLASSES	pomtest pom test 
+METHODS	getminimalpom minim pom getmockdepend mock depend testcanaddnewdependencyoflowertyp test add depend type testcanaddnewdependencywhenowntypeisnonstandard test add depend type standard testcannotaddalreadyregistereddepend test add regist depend testcannotaddnewdependencyofhighertyp test add depend higher type testcannotaddnulldepend test add depend testdefaultpackag test packag testgetasdepend test depend testgetmodulepathsforminimaljarpom test modul path minim jar pom testhasdependencyexcludingversionwhendependencyhasdifferentgroupid test depend exclud version depend group testhasdependencyexcludingversionwhendependencyhasdifferenttyp test depend exclud version depend type testhasdependencyexcludingversionwhendependencyhasdifferentvers test depend exclud version depend version testhasdependencyexcludingversionwhendependencyisnul test depend exclud version depend 
+MTHSIG10	testhasdependencyexcludingversionwhendependencyhasdifferentgroupid test depend exclud version depend group 
+VARIABLES	packag depend groupid group artifactid artifact version type path artifact depend artifact depend group group jar pom project root root modul version war mockdepend mock depend mocknewdepend mock depend pom mocknewdepend mock depend pom mockexistingdepend mock exist depend pom mocknewdepend mock depend pom pom pom depend pom expectedpath expect path modulepath modul path moduelpathid moduel path mockexistingdepend mock exist depend pom mockotherdepend mock depend mockexistingdepend mock exist depend pom mockotherdepend mock depend existingvers exist version mockexistingdepend mock exist depend pom mockotherdepend mock depend pom 

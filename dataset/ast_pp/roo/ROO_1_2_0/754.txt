@@ -1,0 +1,18 @@
+VARSIG7	collection fileoperation file operation fileoperations file operations
+VARSIG6	file file
+VARSIG3	fileoperationcodes file operation codes
+VARSIG2	text
+VARSIG5	segments
+VARSIG4	fileoperation file operation fileoperation file operation
+COMMENTS	link propertyeditor property editor link monitoringrequest monitoring request syntax expected editor fullyqualifiedname fully qualified fileoperationcodes file operation codes fullyqualifiedname fully qualified link file resolvable required fileoperationcodes file operation codes characters create rename update delete link fileoperation file operation required literal watch subtree valid fullyqualifiedname fully qualified existing directory optional directory constants object specification javadocs docs object
+CLASSES	monitoringrequesteditor monitoring request editor
+VARSIG1	fileoperation file operation fileoperation file operation
+VARSIG0	ioexception exception ioe
+METHODS	getastext text getvalue setastext set text parsefileoperations parse file operations setvaluetodirectorymonitoringrequest set directory monitoring request
+MTHSIG4	setvaluetodirectorymonitoringrequest set directory monitoring request segments file file collection fileoperation file operation fileoperations file operations
+MTHSIG0	getastext text
+MTHSIG1	getvalue
+PACKAGE	springframework roo file monitor
+MTHSIG2	setastext set text text
+MTHSIG3	parsefileoperations parse file operations fileoperationcodes file operation codes
+VARIABLES	ioe fileoperation file operation text fileoperationcodes file operation codes fileoperation file operation segments file fileoperations file operations monitored operations subtree wildcard req text dmr segments file fileoperations file operations fileoperations file operations

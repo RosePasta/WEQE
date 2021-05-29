@@ -1,0 +1,36 @@
+VARSIG7	constructormatcher constructor matcher constructortagger constructor tagger
+VARSIG6	methodmetadata metadata methodmetadata metadata
+VARSIG9	typematcher type matcher typetagger type tagger
+VARSIG8	constructormetadata constructor metadata constructormetadata constructor metadata
+VARSIG3	fieldmatcher field matcher fieldtagger field tagger
+VARSIG2	memberholdingtypedetails member holding type details memberholdingtypedetails member holding type details
+VARSIG5	methodmatcher matcher methodtagger tagger
+VARSIG4	fieldmetadata field metadata fieldmetadata field metadata
+COMMENTS	implementation link customdatakeydecorator custom data key decorator locate requests add custom data identifiable structures returns plural term inflector attention rooplural roo plural account getplural plural term term pluralized locale locale pluralized term inflector failed roo don pluralize
+VARSIG19	matcher customdataaccessor custom data accessor matcher
+VARSIG1	memberdetails member details memberdetails member details
+VARSIG18	taggerkey tagger key
+VARSIG0	requestingclass requesting
+VARSIG17	taggerkey tagger key
+MTHSIG4	getmethodtaggers taggers
+VARSIG12	locale locale
+MTHSIG5	getfieldtaggers field taggers
+VARSIG11	term
+MTHSIG6	getconstructortaggers constructor taggers
+VARSIG10	memberholdingtypedetails member holding type details typedetails type details
+MTHSIG7	gettypetaggers type taggers
+MTHSIG0	decorate requestingclass requesting memberdetails member details memberdetails member details
+VARSIG16	addingclass adding
+MTHSIG1	getinflectorplural inflector plural term locale locale
+VARSIG15	matcher customdataaccessor custom data accessor matcher
+PACKAGE	springframework roo classpath customdata taggers
+MTHSIG2	registermatcher register matcher addingclass adding matcher customdataaccessor custom data accessor matcher
+VARSIG14	addingclass adding
+MTHSIG3	unregistermatchers unregister matchers addingclass adding
+VARSIG13	runtimeexception runtime exception
+CLASSES	customdatakeydecoratorimpl custom data key decorator impl
+METHODS	decorate getinflectorplural inflector plural registermatcher register matcher unregistermatchers unregister matchers getmethodtaggers taggers getfieldtaggers field taggers getconstructortaggers constructor taggers gettypetaggers type taggers
+VARSIG22	matcher customdataaccessor custom data accessor matcher
+VARSIG21	matcher customdataaccessor custom data accessor matcher
+VARSIG20	matcher customdataaccessor custom data accessor matcher
+VARIABLES	requestingclass requesting memberdetails member details memberholdingtypedetails member holding type details fieldtagger field tagger fieldmetadata field metadata methodtagger tagger methodmetadata metadata constructortagger constructor tagger constructormetadata constructor metadata typetagger type tagger typedetails type details term locale addingclass adding matcher addingclass adding taggerkey tagger key taggerkey tagger key matcher matcher matcher matcher taggermap tagger map pluralmap plural map memberdetailsbuilder member details builder toremove remove methodtaggers taggers fieldtaggers field taggers constructortaggers constructor taggers typetaggers type taggers

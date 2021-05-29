@@ -1,0 +1,28 @@
+VARSIG7	document document
+VARSIG6	fieldmetadata field metadata identifierfield identifier field
+VARSIG9	javasymbolname symbol fieldname field
+VARSIG8	javatype type javatype type
+VARSIG3	document document
+VARSIG2	integer maxvalue max
+VARSIG5	pluralname plural
+VARSIG4	javasymbolname symbol fieldname field
+COMMENTS	helper creates jsp form artifacts view layer generation
+VARSIG1	javasymbolname symbol field
+VARSIG0	document document
+MTHSIG4	getcheckbox check box document document javasymbolname symbol fieldname field
+VARSIG12	integer maxvalue max
+MTHSIG5	geterrorselement errors element document document javasymbolname symbol field
+VARSIG11	javasymbolname symbol fieldname field
+VARSIG10	document document
+MTHSIG0	getinputbox input box document document javasymbolname symbol field integer maxvalue max
+VARSIG16	javasymbolname symbol field
+MTHSIG1	getselectbox select box document document javasymbolname symbol fieldname field pluralname plural fieldmetadata field metadata identifierfield identifier field
+VARSIG15	document document
+PACKAGE	springframework roo addon mvc jsp
+MTHSIG2	getenumselectbox select box document document javatype type javatype type javasymbolname symbol fieldname field
+VARSIG14	javasymbolname symbol fieldname field
+MTHSIG3	gettextarea text area document document javasymbolname symbol fieldname field integer maxvalue max
+VARSIG13	document document
+CLASSES	jsputils jsp utils
+METHODS	getinputbox input box getselectbox select box getenumselectbox select box gettextarea text area getcheckbox check box geterrorselement errors element
+VARIABLES	document field maxvalue max document fieldname field pluralname plural identifierfield identifier field document javatype type fieldname field document fieldname field maxvalue max document fieldname field document field forminput form input formselect form select formoptions form options formselect form select textarea text area formcheck form check errors

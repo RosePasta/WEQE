@@ -1,0 +1,14 @@
+VARSIG3	processmanagerstatu process manag statu newstatu statu 
+VARSIG2	processmanagerstatu process manag statu oldstatu statu 
+VARSIG4	clioption cli option kei enabl mandatori specifieddefaultvalu unspecifieddefaultvalu unspecifi activ debug mode debug 
+COMMENTS	monitor link processmanag process manag develop mode user 
+CLASSES	processmanagerdiagnosticslisten process manag diagnost listen 
+VARSIG1	componentcontext compon context context 
+VARSIG0	componentcontext compon context context 
+METHODS	activ deactiv onprocessmanagerstatuschang process manag statu chang processmanagerdebug process manag debug 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	deactiv componentcontext compon context context 
+PACKAGE	springframework roo process manag intern 
+MTHSIG2	onprocessmanagerstatuschang process manag statu chang processmanagerstatu process manag statu oldstatu statu processmanagerstatu process manag statu newstatu statu 
+MTHSIG3	processmanagerdebug process manag debug debug 
+VARIABLES	context context oldstatu statu newstatu statu debug isdebug debug processmanagerstatusprovid process manag statu provid 

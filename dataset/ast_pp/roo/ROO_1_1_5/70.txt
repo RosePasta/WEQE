@@ -1,0 +1,36 @@
+VARSIG7	reference reference
+VARSIG6	keysequence key sequence
+VARSIG9	reference reference
+VARSIG8	column column
+VARSIG3	table foreigntable foreign table
+VARSIG2	exported
+VARSIG5	cascadeaction cascade action ondelete delete
+VARSIG4	cascadeaction cascade action onupdate update
+COMMENTS	represents database foreign key foreign key modeled link sql databasemetadata database meta data getimportedkeys imported link sql databasemetadata database meta data getexportedkeys exported methods foreign key foreign key imported exported key target table foreign target table action perform referenced column action perform referenced row deleted sequence number key table foreign table references local remote columns
+VARSIG1	foreigntablename foreign table
+VARSIG0	
+MTHSIG4	getforeigntable foreign table
+MTHSIG5	setforeigntable set foreign table table foreigntable foreign table
+MTHSIG6	getforeigntablename foreign table
+VARSIG10	object obj
+MTHSIG7	getonupdate update
+MTHSIG0	foreignkey foreign key foreigntablename foreign table
+MTHSIG1	getname
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	isexported exported
+MTHSIG3	setexported set exported exported
+MTHSIG8	setonupdate set update cascadeaction cascade action onupdate update
+MTHSIG9	getondelete delete
+MTHSIG17	hashcode hash code
+MTHSIG18	equals object obj
+MTHSIG15	addreference add reference reference reference
+MTHSIG16	haslocalcolumn local column column column
+MTHSIG13	getreferences references
+MTHSIG14	getreferencecount reference count
+MTHSIG11	getkeysequence key sequence
+MTHSIG12	setkeysequence set key sequence keysequence key sequence
+CLASSES	foreignkey foreign key
+METHODS	foreignkey foreign key getname isexported exported setexported set exported getforeigntable foreign table setforeigntable set foreign table getforeigntablename foreign table getonupdate update setonupdate set update getondelete delete setondelete set delete getkeysequence key sequence setkeysequence set key sequence getreferences references getreferencecount reference count addreference add reference haslocalcolumn local column hashcode hash code equals tostring
+MTHSIG19	tostring
+MTHSIG10	setondelete set delete cascadeaction cascade action ondelete delete
+VARIABLES	foreigntablename foreign table exported foreigntable foreign table onupdate update ondelete delete keysequence key sequence reference column reference obj exported foreigntable foreign table foreigntablename foreign table onupdate update ondelete delete keysequence key sequence references prime result

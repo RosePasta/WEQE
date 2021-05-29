@@ -1,0 +1,43 @@
+VARSIG7	list constructormetadata constructor metadata declaredconstructor declar constructor 
+VARSIG6	set javatyp type registeredimport regist import 
+VARSIG9	list methodmetadata metadata declaredmethod declar method 
+VARSIG8	list fieldmetadata field metadata declaredfield declar field 
+VARSIG3	classorinterfacetypedetail type detail governor 
+VARSIG2	modifi 
+VARSIG5	privilegedaspect privileg aspect 
+VARSIG4	javatyp type aspect 
+COMMENTS	represent link itdtypedetail type detail basic link hashcod hash code detect link abstractitdmetadataprovid metadata provid avoid downstream notif forc builder 
+VARSIG1	declaredbymetadataid declar metadata 
+VARSIG0	customdata custom data customdata custom data 
+VARSIG17	customdataaccessor custom data accessor accessor 
+MTHSIG4	getnam 
+VARSIG12	list annotationmetadata annot metadata typeannot type annot 
+MTHSIG5	getgovernor governor 
+VARSIG11	list javatyp type implementstyp type 
+MTHSIG6	getaspect aspect 
+VARSIG10	list javatyp type extendstyp type 
+MTHSIG7	isprivilegedaspect privileg aspect 
+MTHSIG0	defaultitdtypedetail type detail customdata custom data customdata custom data declaredbymetadataid declar metadata modifi classorinterfacetypedetail type detail governor javatyp type aspect privilegedaspect privileg aspect set javatyp type registeredimport regist import list constructormetadata constructor metadata declaredconstructor declar constructor list fieldmetadata field metadata declaredfield declar field list methodmetadata metadata declaredmethod declar method list javatyp type extendstyp type list javatyp type implementstyp type list annotationmetadata annot metadata typeannot type annot list declaredfieldannotationdetail declar field annot detail fieldannot field annot list declaredmethodannotationdetail declar annot detail methodannot annot list classorinterfacetypedetail type detail innertyp type 
+VARSIG16	collect customdataaccessor custom data accessor coll 
+MTHSIG1	getregisteredimport regist import 
+VARSIG15	list classorinterfacetypedetail type detail innertyp type 
+PACKAGE	springframework roo classpath detail 
+MTHSIG2	getimplementstyp type 
+VARSIG14	list declaredmethodannotationdetail declar annot detail methodannot annot 
+MTHSIG3	getphysicaltypecategori physic type categori 
+VARSIG13	list declaredfieldannotationdetail declar field annot detail fieldannot field annot 
+MTHSIG8	getdeclaredconstructor declar constructor 
+MTHSIG9	getdeclaredfield declar field 
+MTHSIG17	hashcod hash code 
+MTHSIG18	includecustomdatahash includ custom data hash collect customdataaccessor custom data accessor coll 
+MTHSIG15	getmethodannot annot 
+MTHSIG16	getinnertyp type 
+MTHSIG13	getextendstyp type 
+MTHSIG14	getfieldannot field annot 
+MTHSIG11	getdeclaredinnertyp declar type 
+MTHSIG12	getdeclarediniti declar initi 
+CLASSES	defaultitdtypedetail type detail 
+METHODS	defaultitdtypedetail type detail getregisteredimport regist import getimplementstyp type getphysicaltypecategori physic type categori getnam getgovernor governor getaspect aspect isprivilegedaspect privileg aspect getdeclaredconstructor declar constructor getdeclaredfield declar field getdeclaredmethod declar method getdeclaredinnertyp declar type getdeclarediniti declar initi getextendstyp type getfieldannot field annot getmethodannot annot getinnertyp type hashcod hash code includecustomdatahash includ custom data hash tostr 
+MTHSIG19	tostr 
+MTHSIG10	getdeclaredmethod declar method 
+VARIABLES	customdata custom data declaredbymetadataid declar metadata modifi governor aspect privilegedaspect privileg aspect registeredimport regist import declaredconstructor declar constructor declaredfield declar field declaredmethod declar method extendstyp type implementstyp type typeannot type annot fieldannot field annot methodannot annot innertyp type coll accessor governor aspect privilegedaspect privileg aspect physicaltypecategori physic type categori declaredconstructor declar constructor declaredfield declar field declaredmethod declar method declaredinnertyp declar type declarediniti declar initi extendstyp type implementstyp type registeredimport regist import fieldannot field annot methodannot annot innertyp type hash result tsc 

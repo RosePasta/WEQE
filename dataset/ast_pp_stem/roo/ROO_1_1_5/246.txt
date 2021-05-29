@@ -1,0 +1,12 @@
+MTHSIG4	getselectedlocal select local 
+MTHSIG5	setselectedlocal set select local 
+MTHSIG0	localebean local bean 
+MTHSIG1	getlocal local 
+PACKAGE	 
+MTHSIG2	setlocal set local local local 
+MTHSIG3	getlocal local 
+COMMENTS	 
+CLASSES	localebean local bean 
+VARIABLES	local local item applic supportedlocal support local local local localestr local 
+VARSIG0	local local 
+METHODS	localebean local bean getlocal local setlocal set local getlocal local getselectedlocal select local setselectedlocal set select local 

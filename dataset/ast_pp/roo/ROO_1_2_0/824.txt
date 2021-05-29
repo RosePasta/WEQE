@@ -1,0 +1,14 @@
+VARSIG3	processmanagerstatuslistener process manager status listener listener
+VARSIG2	processmanagerstatus process manager status processmanagerstatus process manager status
+VARSIG4	processmanagerstatus process manager status initialstatus initial status
+COMMENTS	convenience superclass link processmanager process manager wishing publish status messages obtains process manager status synchronization set process manager status synchronization change single object instance changing link processmanagerstatus process manager status needed single object instance synchronization purposes fields constructor initialstatus initial status
+CLASSES	abstractprocessmanagerstatuspublisher process manager status publisher
+VARSIG1	processmanagerstatuslistener process manager status listener processmanagerstatuslistener process manager status listener
+VARSIG0	processmanagerstatuslistener process manager status listener processmanagerstatuslistener process manager status listener
+METHODS	addprocessmanagerstatuslistener add process manager status listener removeprocessmanagerstatuslistener remove process manager status listener getprocessmanagerstatus process manager status setprocessmanagerstatus set process manager status
+MTHSIG0	addprocessmanagerstatuslistener add process manager status listener processmanagerstatuslistener process manager status listener processmanagerstatuslistener process manager status listener
+MTHSIG1	removeprocessmanagerstatuslistener remove process manager status listener processmanagerstatuslistener process manager status listener processmanagerstatuslistener process manager status listener
+PACKAGE	springframework roo process manager event
+MTHSIG2	getprocessmanagerstatus process manager status
+MTHSIG3	setprocessmanagerstatus set process manager status processmanagerstatus process manager status processmanagerstatus process manager status
+VARIABLES	processmanagerstatuslistener process manager status listener processmanagerstatuslistener process manager status listener processmanagerstatus process manager status listener initialstatus initial status processmanagerstatuslisteners process manager status listeners processmanagerstatus process manager status status

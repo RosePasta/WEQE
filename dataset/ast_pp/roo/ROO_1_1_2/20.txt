@@ -1,0 +1,61 @@
+MTHSIG22	getconnectionpropertiesfromdatanucleusconfiguration connection properties data nucleus configuration
+MTHSIG23	getdbrexmlpath dbre xml path
+MTHSIG4	binddatabaselistener bind database listener databaselistener database listener listener
+MTHSIG5	unbinddatabaselistener unbind database listener databaselistener database listener listener
+MTHSIG6	supportsschema supports schema displayaddons display add ons
+MTHSIG7	getdatabaseschemas database schemas displayaddons display add ons
+VARSIG31	element propertyelement property element
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo addon dbre
+MTHSIG2	onprocessmanagerstatuschange process manager status change processmanagerstatus process manager status oldstatus status processmanagerstatus process manager status newstatus status
+MTHSIG3	considerstartup startup processmanagerstatus process manager status newstatus status
+MTHSIG20	deserializedatabasemetadataifpossible deserialize database metadata
+MTHSIG21	getconnection connection displayaddons display add ons
+MTHSIG8	getlastschema schema
+VARSIG30	exception
+MTHSIG9	getdatabase database schema schema
+CLASSES	dbremodelserviceimpl dbre model service impl
+VARSIG29	displayaddons display add ons
+VARSIG28	exception
+METHODS	activate deactivate onprocessmanagerstatuschange process manager status change considerstartup startup binddatabaselistener bind database listener unbinddatabaselistener unbind database listener supportsschema supports schema getdatabaseschemas database schemas getlastschema schema getdatabase database refreshdatabase refresh database refreshdatabasesafely refresh database safely setdestinationpackage set destination setview set view setincludetables set include tables setexcludetables set exclude tables getdatabase database publishtolisteners publish listeners serializedatabasemetadatatofile serialize database metadata file deserializeschemametadataifpossible deserialize schema metadata deserializedatabasemetadataifpossible deserialize database metadata getconnection connection getconnectionpropertiesfromdatanucleusconfiguration connection properties data nucleus configuration getdbrexmlpath dbre xml path
+VARSIG23	database database
+VARSIG22	exception
+VARSIG21	safemode safe mode
+VARSIG20	forcereadfromdatabase force read database
+VARSIG27	exception
+VARSIG26	database database
+VARSIG25	runtimeexception runtime exception ignoreandmoveon ignore move
+VARSIG24	databaselistener database listener listener
+VARSIG7	databaselistener database listener listener
+VARSIG6	runtimeexception runtime exception
+VARSIG9	exception
+VARSIG8	displayaddons display add ons
+VARSIG3	processmanagerstatus process manager status newstatus status
+VARSIG2	processmanagerstatus process manager status oldstatus status
+VARSIG5	databaselistener database listener listener
+VARSIG4	processmanagerstatus process manager status newstatus status
+COMMENTS	implementation link dbremodelservice dbre model service time starting listeners database simply calling registered listeners discover database listener missed startup event share they online safe mode avoid telling database separately they command schema set fallback compute file load note change schema field getter side free cached copy dbre xml file sourced version force grab safe mode earlier assertions determine schema store schema schema call happen schema read roo dbre xml file schema deserialized disk database cache don change notify leave worked store store time load roo they aeroplane flying sydney san francisco don database todo detect gps coordinates they syd sfo lastly let listeners writes database xml note xml file store database database serialize disk required reads database schema xml note xml file store database database schema parsed unavailable reason reads database xml note xml file store database database parsed unavailable reason required properties ignore elements
+VARSIG19	schema schema
+VARSIG1	componentcontext component context context
+VARSIG18	set excludetables exclude tables
+VARSIG0	componentcontext component context context
+VARSIG17	set includetables include tables
+VARSIG12	schema schema
+VARSIG11	exception
+VARSIG10	displayaddons display add ons
+VARSIG16	view
+VARSIG15	javapackage destinationpackage destination
+VARSIG14	schema schema
+VARSIG13	schema schema
+MTHSIG17	publishtolisteners publish listeners database database
+MTHSIG18	serializedatabasemetadatatofile serialize database metadata file database database
+MTHSIG15	setexcludetables set exclude tables set excludetables exclude tables
+MTHSIG16	getdatabase database schema schema forcereadfromdatabase force read database safemode safe mode
+MTHSIG13	setview set view view
+MTHSIG14	setincludetables set include tables set includetables include tables
+MTHSIG11	refreshdatabasesafely refresh database safely schema schema
+MTHSIG12	setdestinationpackage set destination javapackage destinationpackage destination
+MTHSIG19	deserializeschemametadataifpossible deserialize schema metadata
+MTHSIG10	refreshdatabase refresh database schema schema
+VARIABLES	context context oldstatus status newstatus status newstatus status listener listener displayaddons display add ons displayaddons display add ons schema schema schema destinationpackage destination view includetables include tables excludetables exclude tables schema forcereadfromdatabase force read database safemode safe mode database listener ignoreandmoveon ignore move database displayaddons display add ons propertyelement property element connectionprovider connection provider filemanager file manager processmanagerstatusprovider process manager status provider projectoperations project operations propfileoperations prop file operations cachedintrospections cached introspections lastschema schema destinationpackage destination view includetables include tables excludetables exclude tables listeners startupcompleted startup completed database connection databasemetadata database meta data schematerm schema term connection introspector database connection introspector database dbrexmlpath dbre xml path outputstream output stream dbrexmlpath dbre xml path filedetails file details inputstream input stream dbrexmlpath dbre xml path filedetails file details inputstream input stream connectionproperties connection properties connectionproperties connection properties persistencexmlpath persistence xml path filedetails file details document builder propertyelements property elements properties key

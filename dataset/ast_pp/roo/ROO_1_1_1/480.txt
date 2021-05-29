@@ -1,0 +1,12 @@
+MTHSIG0	scannotified scan notified
+MTHSIG1	notifychanged notify changed filecanonicalpath file canonical path
+VARSIG2	filecanonicalpath file canonical path
+PACKAGE	springframework roo file monitor
+MTHSIG2	notifydeleted notify deleted filecanonicalpath file canonical path
+MTHSIG3	notifycreated notify created filecanonicalpath file canonical path
+COMMENTS	link filemonitorservice file monitor service permits callers explicitly changed specific file files guaranteed included change notification link filemonitorservice file monitor service scanall scan link scannotified scan notified called works practical problem file systems provide precision file update operations precludes polling based implementations rely update time identifying downside type rapidly modify file system change failure files updated detected updated exists lightweight methods explicitly recording disk publishing requiring full scan link scanall scan notify files explicitly advised notification methods link notifiablefilemonitorservice notifiable file monitor service designed faster operation full disk scan link scanall scan unnecessary note executing result change notifications number detected invocation canonical path treated changed update time equal actual disk timestamp implementation file link filemonitorservice file monitor service scanall scan link scannotified scan notified invocation repeatedly called file detected changed normal updated timestamps attempt verify presented path subject monitoring expected link fileeventlistener file event listener ignore files interested filecanonicalpath file canonical path required
+CLASSES	notifiablefilemonitorservice notifiable file monitor service
+VARIABLES	filecanonicalpath file canonical path filecanonicalpath file canonical path filecanonicalpath file canonical path
+VARSIG1	filecanonicalpath file canonical path
+VARSIG0	filecanonicalpath file canonical path
+METHODS	scannotified scan notified notifychanged notify changed notifydeleted notify deleted notifycreated notify created

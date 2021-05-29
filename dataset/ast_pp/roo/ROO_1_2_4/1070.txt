@@ -1,0 +1,21 @@
+VARSIG7	level fallbackseverity fallback severity
+VARSIG6	logger logger
+VARSIG9	logrecord log record record
+VARSIG8	handler
+VARSIG3	logger logger
+VARSIG2	clazz
+VARSIG5	handler
+VARSIG4	handler target
+COMMENTS	utility methods dealing link handler objects forces link handler instances registered presented link logger flushed logger flush required number link handler flushed obtains link logger guarantees set link level link level fine springframework roo needed regression jdk issue roo clazz retrieve logger required logger link level fine level registers presented target link handler link deferredloghandler deferred log handler encountered presented link logger generally link logger instances presented link wrapwithdeferredloghandler wrap deferred log handler logger level count link deferredloghandler deferred log handler instances detected note attempt distinguish instances possessing intended target link handler possessing target link handler overwrites target link handler returned count represents overwrites place logger introspect link deferredloghandler deferred log handler instances required target set target link handler number link deferredloghandler deferred log handler instances detected updated replaces link handler defined presented link logger link deferredloghandler deferred log handler ensuring link handler defaults defined user preserved treated link deferredloghandler deferred log handler fallback link handler severity link level encountered create link consolehandler console handler presented link logger current link handler logger introspect replace link handler required fallbackseverity fallback severity trigger fallback mode required number link deferredloghandler deferred log handler registered link logger guaranteed create deferredloghandlers deferred log handlers handler presented logger create deferredloghandler deferred log handler handler defined presented logger add deferredloghandlers deferred log handlers presented logger constructor prevent instantiation
+CLASSES	handlerutils handler utils
+VARSIG1	handler
+VARSIG0	logger logger
+METHODS	flushallhandlers flush handlers getlogger logger registertargethandler register target handler wrapwithdeferredloghandler wrap deferred log handler handlerutils handler utils
+MTHSIG4	handlerutils handler utils
+VARSIG10	deferredloghandler deferred log handler
+MTHSIG0	flushallhandlers flush handlers logger logger
+MTHSIG1	getlogger logger clazz
+PACKAGE	springframework roo support logging
+MTHSIG2	registertargethandler register target handler logger logger handler target
+MTHSIG3	wrapwithdeferredloghandler wrap deferred log handler logger logger level fallbackseverity fallback severity
+VARIABLES	logger clazz logger target logger fallbackseverity fallback severity record flushed handlers logger replaced handlers deflogger def logger newhandlers handlers handlers consolehandler console handler

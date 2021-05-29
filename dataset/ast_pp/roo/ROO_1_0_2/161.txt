@@ -1,0 +1,14 @@
+VARSIG2	fetch
+COMMENTS	fetch type options set relationships
+CLASSES	fetch
+VARSIG1	object obj
+VARSIG0	key
+METHODS	fetch getkey key hashcode hash code equals compareto compare tostring
+MTHSIG4	compareto compare fetch
+MTHSIG5	tostring
+MTHSIG0	fetch key
+MTHSIG1	getkey key
+PACKAGE	springframework roo classpath operations
+MTHSIG2	hashcode hash code
+MTHSIG3	equals object obj
+VARIABLES	key obj key eager lazy tsc

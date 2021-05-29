@@ -1,0 +1,10 @@
+MTHSIG0	webflowcommands web flow commands webflowoperations web flow operations webflowoperations web flow operations
+MTHSIG1	isinstallwebflowavailable install web flow
+PACKAGE	springframework roo addon web flow
+MTHSIG2	installwebflow install web flow flowname flow
+COMMENTS	commands web flow add roo shell
+CLASSES	webflowcommands web flow commands
+VARIABLES	webflowoperations web flow operations flowname flow webflowoperations web flow operations
+VARSIG1	clioption cli option key flowname flow mandatory web flow flowname flow
+VARSIG0	webflowoperations web flow operations webflowoperations web flow operations
+METHODS	webflowcommands web flow commands isinstallwebflowavailable install web flow installwebflow install web flow

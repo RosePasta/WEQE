@@ -1,0 +1,109 @@
+MTHSIG28	removefilt remov filter filter filter 
+MTHSIG29	addresourc add resourc resourc resourc 
+MTHSIG26	removeproperti remov properti properti properti 
+MTHSIG27	addfilt add filter filter filter 
+MTHSIG24	getpluginel plugin element plugin plugin document document 
+MTHSIG25	addproperti add properti properti properti 
+MTHSIG22	addrepositori add repositori repositori repositori containingpath path path 
+MTHSIG23	removerepositori remov repositori repositori repositori path 
+MTHSIG4	adddepend add depend list depend depend 
+MTHSIG5	adddepend add depend depend depend 
+MTHSIG6	removedepend remov depend list depend depend 
+MTHSIG7	removedepend remov depend depend depend 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	metadataidentificationstr metadata identif 
+MTHSIG2	onfileev file event fileev file event fileev file event 
+MTHSIG3	getprovidestyp type 
+MTHSIG20	createdependencyel creat depend element depend depend document document 
+VARSIG70	element candid 
+MTHSIG21	createrepositoryel creat repositori element document document repositori repositori path 
+MTHSIG8	addbuildplugin add build plugin list plugin plugin 
+MTHSIG9	addbuildplugin add build plugin plugin plugin 
+METHODS	activ onfileev file event getprovidestyp type adddepend add depend adddepend add depend removedepend remov depend removedepend remov depend addbuildplugin add build plugin addbuildplugin add build plugin removebuildplugin remov build plugin removebuildplugin remov build plugin addrepositori add repositori addrepositori add repositori removerepositori remov repositori addpluginrepositori add plugin repositori addpluginrepositori add plugin repositori removepluginrepositori remov plugin repositori updateprojecttyp updat project type addrepositori add repositori createdependencyel creat depend element createrepositoryel creat repositori element addrepositori add repositori removerepositori remov repositori getpluginel plugin element addproperti add properti removeproperti remov properti addfilt add filter removefilt remov filter addresourc add resourc removeresourc remov resourc removedepend remov depend removebuildplugin remov build plugin 
+VARSIG67	plugin plugin 
+VARSIG66	element candid 
+VARSIG65	path 
+VARSIG64	containingpath path 
+VARSIG69	path 
+VARSIG68	containingpath path 
+MTHSIG31	removedepend remov depend depend depend containingpath path path 
+MTHSIG32	removebuildplugin remov build plugin plugin plugin containingpath path path 
+MTHSIG30	removeresourc remov resourc resourc resourc 
+VARSIG63	depend depend 
+VARSIG62	element candid 
+VARSIG61	resourc resourc 
+VARSIG60	includ 
+COMMENTS	link projectmetadata project metadata simplic oper implement ship roo support link projectmetadata project metadata rebuild demand expect metadataservic metadata servic cach behalf read file project top level fall group assum parent roo build depend list build plugin list build repositori list build plugin repositori list build properti list filter list resourc list updat window titl project updat uaa project updat uaa spring open sourc depend regist robust pom xml declar depend metadata proper bundl version number lookup moment regist spring uaa automat intern uaa depend detect convert detect depend product version sequenc properti strip version sequenc on treat version sequenc handl version sequenc regist spring product uaa happen pom don notifi shut happen interest evict cach entri metadataservic metadata servic xml don jar xml don compil add exclus defin loop theoret declar pom add configur add execut defin add depend defin loop theoret declar pom loop theoret declar pom loop theoret declar pom remov element identifi depend occur path loop theoret declar pom remov element identifi plugin occur path loop theoret declar pom 
+VARSIG19	plugin plugin 
+VARSIG18	list plugin plugin 
+VARSIG17	depend depend 
+VARSIG12	depend depend 
+VARSIG11	list depend depend 
+VARSIG10	fileev file event fileev file event 
+VARSIG16	element candid 
+VARSIG15	depend depend 
+VARSIG14	list depend depend 
+VARSIG13	depend depend 
+MTHSIG17	removepluginrepositori remov plugin repositori repositori repositori 
+MTHSIG18	updateprojecttyp updat project type projecttyp project type projecttyp project type 
+MTHSIG15	addpluginrepositori add plugin repositori list repositori repositori 
+MTHSIG16	addpluginrepositori add plugin repositori repositori repositori 
+MTHSIG13	addrepositori add repositori repositori repositori 
+MTHSIG14	removerepositori remov repositori repositori repositori 
+MTHSIG11	removebuildplugin remov build plugin plugin plugin 
+MTHSIG12	addrepositori add repositori list repositori repositori 
+MTHSIG19	addrepositori add repositori list repositori repositori containingpath path path 
+MTHSIG10	removebuildplugin remov build plugin list plugin plugin 
+VARIABLES	context metadataidentificationstr metadata identif depend plugin repositori pluginrepositori plugin repositori prop filter resourc productinfo product info fileev file event depend depend depend depend depend candid depend plugin plugin plugin plugin plugin candid plugin repositori repositori repositori repositori repositori repositori projecttyp project type repositori containingpath path path repositori depend document exclus document repositori path repositori containingpath path path repositori path candid plugin document execut goal depend properti properti candid filter filter candid resourc includ resourc candid depend containingpath path path candid plugin containingpath path path candid type pathresolv path resolv filemanag file manag metadataservic metadata servic metadatadependencyregistri metadata depend registri shell uaaregistrationservic uaa registr servic uaadetectedproduct uaa detect product pom document root artifactidel artifact element artifactid artifact projectnam project groupidel group element toplevelpackagestr top level toplevelpackag top level depend buildplugin build plugin repositori pluginrepositori plugin repositori pomproperti pom properti filter resourc result depend dependenciesexcludingvers depend exclud version versionsequ version sequenc propertynam properti prop product projectmetadata project metadata document root dependenciesel depend element builder projectmetadata project metadata document root depend descriptionofchang descript chang projectmetadata project metadata document root dependenciesel depend element removecount remov count builder projectmetadata project metadata document root pluginsel plugin element builder projectmetadata project metadata document root pluginsel plugin element descriptionofchang descript chang projectmetadata project metadata document root pluginsel plugin element removecount remov count builder projectmetadata project metadata document root packag descriptionofchang descript chang projectmetadata project metadata document root repositoriesel repositori element builder dependencyel depend element groupidel group element artifactidel artifact element versionel version element type scope systempath system path exclus exclusionsel exclus element exclusionel exclus element exclusiongroupid exclus group exclusionartifactid exclus artifact repositoryel repositori element projectmetadata project metadata document root repositoriesel repositori element descriptionofchang descript chang projectmetadata project metadata document root descriptionofchang descript chang pluginel plugin element groupidel group element artifactidel artifact element versionel version element configur execut executionsel execut element executionel execut element executionid execut phase executionphas execut phase goalsel goal element goalel goal element depend dependenciesel depend element projectmetadata project metadata document root descriptionofchang descript chang exist properti propertyel properti element projectmetadata project metadata document root descriptionofchang descript chang propertiesel properti element projectmetadata project metadata document root buildel build element descriptionofchang descript chang exist filtersel filter element filterel filter element projectmetadata project metadata document root filtersel filter element descriptionofchang descript chang filterel filter element projectmetadata project metadata document root buildel build element resourcesel resourc element resourceel resourc element directoryel directori element filter includ includeel includ element descriptionofchang descript chang projectmetadata project metadata document root resourcesel resourc element descriptionofchang descript chang resourceel resourc element projectmetadata project metadata document root descriptionofchang descript chang dependenciesel depend element projectmetadata project metadata document root descriptionofchang descript chang pluginsel plugin element 
+VARSIG39	document document 
+VARSIG34	path 
+VARSIG33	containingpath path 
+VARSIG32	list repositori repositori 
+VARSIG31	projecttyp project type projecttyp project type 
+VARSIG38	depend exclus 
+VARSIG37	document document 
+PACKAGE	springframework roo project 
+VARSIG36	depend depend 
+VARSIG35	repositori repositori 
+VARSIG30	repositori repositori 
+CLASSES	mavenprojectmetadataprovid maven project metadata provid 
+VARSIG29	repositori repositori 
+VARSIG28	list repositori repositori 
+VARSIG23	element candid 
+VARSIG22	plugin plugin 
+VARSIG21	list plugin plugin 
+VARSIG20	plugin plugin 
+VARSIG27	repositori repositori 
+VARSIG26	repositori repositori 
+VARSIG25	list repositori repositori 
+VARSIG24	plugin plugin 
+VARSIG7	element filter 
+VARSIG6	element prop 
+VARSIG9	productinfo product info productinfo product info 
+VARSIG8	element resourc 
+VARSIG3	element plugin 
+VARSIG2	element depend 
+VARSIG5	element pluginrepositori plugin repositori 
+VARSIG4	element repositori 
+VARSIG1	metadataidentificationstr metadata identif 
+VARSIG0	componentcontext compon context context 
+VARSIG56	filter filter 
+VARSIG55	element candid 
+VARSIG54	properti properti 
+VARSIG53	properti properti 
+VARSIG59	resourc resourc 
+VARSIG58	element candid 
+VARSIG57	filter filter 
+VARSIG52	depend depend 
+VARSIG51	goal 
+VARSIG50	execut execut 
+VARSIG45	repositori repositori 
+VARSIG44	path 
+VARSIG43	containingpath path 
+VARSIG42	repositori repositori 
+VARSIG49	document document 
+VARSIG48	plugin plugin 
+VARSIG47	element candid 
+VARSIG46	path 
+VARSIG41	path 
+VARSIG40	repositori repositori 

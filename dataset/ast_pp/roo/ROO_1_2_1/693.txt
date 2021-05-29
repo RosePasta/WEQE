@@ -1,0 +1,29 @@
+VARSIG7	pattern
+VARSIG6	
+VARSIG9	datetime time timeformat time format
+VARSIG8	datefieldpersistencetype field persistence type persistencetype persistence type
+VARSIG3	list annotationmetadatabuilder annotation metadata builder annotations
+VARSIG2	javasymbolname symbol fieldname field
+VARSIG5	
+VARSIG4	datetime time dateformat format
+COMMENTS	field optionally provide mandatory jsr temporal annotation jsr annotation jsr annotation custom formatting datetime time pattern yyyy jsr temporal annotation add jsr temporal annotation add datetimeformat time format annotation
+VARSIG1	javatype type fieldtype field type
+VARSIG0	physicaltypeidentifier physical type identifier
+MTHSIG4	getpersistencetype persistence type
+MTHSIG5	gettimeformat time format
+MTHSIG6	isfuture
+MTHSIG7	ispast
+MTHSIG0	datefield field physicaltypeidentifier physical type identifier javatype type fieldtype field type javasymbolname symbol fieldname field
+MTHSIG1	decorateannotationslist decorate annotations list list annotationmetadatabuilder annotation metadata builder annotations
+PACKAGE	springframework roo classpath operations jsr jsr
+MTHSIG2	getdateformat format
+MTHSIG3	getpattern pattern
+MTHSIG8	setdateformat set format datetime time dateformat format
+MTHSIG9	setfuture set
+MTHSIG13	settimeformat set time format datetime time timeformat time format
+MTHSIG11	setpattern set pattern pattern
+MTHSIG12	setpersistencetype set persistence type datefieldpersistencetype field persistence type persistencetype persistence type
+CLASSES	datefield field
+METHODS	datefield field decorateannotationslist decorate annotations list getdateformat format getpattern pattern getpersistencetype persistence type gettimeformat time format isfuture ispast setdateformat set format setfuture set setpast set setpattern set pattern setpersistencetype set persistence type settimeformat set time format
+MTHSIG10	setpast set
+VARIABLES	physicaltypeidentifier physical type identifier fieldtype field type fieldname field annotations dateformat format pattern persistencetype persistence type timeformat time format dateformat format pattern persistencetype persistence type timeformat time format attrs attributes datestyle style timestyle time style

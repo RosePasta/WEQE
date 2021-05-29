@@ -1,0 +1,25 @@
+VARSIG7	tagname tag
+VARSIG6	element contentelement content element
+VARSIG9	candidate
+VARSIG8	ioexception exception
+VARSIG3	defaultname
+VARSIG2	viewname view
+VARSIG5	title
+VARSIG4	viewname view
+COMMENTS	convenience implementation link embeddedprovider embedded provider offers methods installing tagx jspx files making http requests convenience create readable title embeddedcompletor embedded completor providername provider original readable convenience clean view jspx viewname view view clean defaultname cleaned install jspx file web inf views embed target project viewname view jspx file install required title title displayed required viewname view alternatively contentelement content element dom element include add document namespaces install tagx file web inf tags embed target project tagname tag helper determine provider supported implementation candidate provider completors completors offered implementation provider supported send http request roo infrastructure urlstr url str url result request
+VARSIG1	
+VARSIG0	providername provider
+MTHSIG4	isprovidersupported provider supported candidate embeddedcompletor embedded completor completors
+VARSIG12	urlstr url str
+MTHSIG5	sendhttpgetrequest send http request urlstr url str
+VARSIG11	embeddedcompletor embedded completor completor
+VARSIG10	embeddedcompletor embedded completor completors
+MTHSIG0	gettitle title providername provider
+MTHSIG1	getviewname view viewname view defaultname
+PACKAGE	springframework roo addon web mvc embedded
+MTHSIG2	installjspx install jspx viewname view title element contentelement content element
+MTHSIG3	installtagx install tagx tagname tag
+VARSIG13	ioexception exception
+CLASSES	abstractembeddedprovider embedded provider
+METHODS	gettitle title getviewname view installjspx install jspx installtagx install tagx isprovidersupported provider supported sendhttpgetrequest send http request
+VARIABLES	providername provider viewname view defaultname viewname view title contentelement content element tagname tag candidate completors completor urlstr url str logger filemanager file manager urlinputstreamservice url input stream service jspoperations jsp operations pathresolver path resolver names jspx document div tagx inputstream input stream outputstream output stream result inputstream input stream url

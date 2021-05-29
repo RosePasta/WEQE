@@ -1,0 +1,52 @@
+MTHSIG24	tostr 
+MTHSIG25	getentitynam entiti 
+MTHSIG22	getdynamicfind dynam finder 
+MTHSIG23	getplur plural 
+MTHSIG4	isvalid valid metadataidentificationstr metadata identif 
+MTHSIG5	jpaactiverecordmetadata jpa activ record metadata metadataidentificationstr metadata identif javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata jpaactiverecordmetadata jpa activ record metadata parent jpacrudannotationvalu jpa crud annot valu crudannotationvalu crud annot valu plural fieldmetadata field metadata identifierfield identifi field entitynam entiti isgaeen gae enabl 
+MTHSIG6	getentitymanagerfield entiti manag field 
+MTHSIG7	getpersistmethod persist 
+MTHSIG0	getmetadataidentifiertyp metadata identifi type 
+MTHSIG1	createidentifi creat identifi javatyp type javatyp type logicalpath logic path path 
+PACKAGE	springframework roo addon jpa activerecord 
+MTHSIG2	getjavatyp type metadataidentificationstr metadata identif 
+MTHSIG3	getpath path metadataidentificationstr metadata identif 
+MTHSIG20	setfindmethod set find 
+MTHSIG21	getfindentriesmethod find entri 
+MTHSIG8	getremovemethod remov 
+MTHSIG9	getflushmethod flush 
+CLASSES	jpaactiverecordmetadata jpa activ record metadata 
+METHODS	getmetadataidentifiertyp metadata identifi type createidentifi creat identifi getjavatyp type getpath path isvalid valid jpaactiverecordmetadata jpa activ record metadata getentitymanagerfield entiti manag field getpersistmethod persist getremovemethod remov getflushmethod flush getclearmethod clear getmergemethod merg getdelegatemethod deleg addtransactionalannot add transact annot addtransactionalannot add transact annot getentitymanagermethod entiti manag setentitymanagermethod set entiti manag getcountmethod count getfindallmethod find getfindmethod find setfindmethod set find getfindentriesmethod find entri getdynamicfind dynam finder getplur plural tostr getentitynam entiti 
+VARSIG20	javasymbolnam symbol 
+VARSIG7	physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+VARSIG6	javatyp type aspectnam aspect 
+VARSIG9	jpacrudannotationvalu jpa crud annot valu crudannotationvalu crud annot valu 
+VARSIG8	jpaactiverecordmetadata jpa activ record metadata parent 
+VARSIG3	metadataidentificationstr metadata identif 
+VARSIG2	metadataidentificationstr metadata identif 
+VARSIG5	metadataidentificationstr metadata identif 
+VARSIG4	metadataidentificationstr metadata identif 
+COMMENTS	metadata type annot link roojpaactiverecord roo jpa activ record constant field field constructor metadataidentificationstr metadata identif requir aspectnam aspect requir governorphysicaltypemetadata governor physic type metadata requir parent projectmetadata project metadata requir crudannotationvalu crud annot valu crud annot valu requir plural plural form entiti requir identifierfield identifi field entiti entiti identifi field requir entitynam entiti jpa entiti requir determin entiti entiti entitymanag entiti manag field guarante access add method add helper method creat represent desir output locat entiti manag field parent defin provid field gener expect field name entitymanag entiti manag type javax persist entitymanag entiti manag requir annot persistencecontext persist context exist field doesn meet requir add underscor prefix entitymanag entiti manag time uniqu meet requir creat entiti manag field return parent requir guarante locat ourself comput requir field verifi candid suitabl candid simpli field subclass inherit field subsequ subclass won candid isn entitymanag entiti manag candid doesn persistencecontext persist context annot valid candid candid let creat persist remov flush return clear return merg return definit find build locat user defin creat address inject entiti manag field getentitymanag entiti manag acquir entiti manag except acquir persist util entitymanag entiti manag method entiti manag util user code return null parent requir guarante definit find build locat user defin creat creat anonym arg constructor jpa entiti handl method instanti argument constructor entiti compli jpa arg constructor requir find creat count entiti type count definit find build locat user defin creat find definit find build locat user defin creat find find definit find build locat user defin creat find entri definit find build locat user defin creat dynam custom finder return empti list pluralis return empti return jpa entiti empti 
+VARSIG19	methodmetadata metadata 
+VARSIG1	logicalpath logic path path 
+VARSIG18	list annotationmetadatabuild annot metadata builder annot 
+VARSIG0	javatyp type javatyp type 
+VARSIG17	ispersistmethod persist 
+VARSIG12	entitynam entiti 
+VARSIG11	fieldmetadata field metadata identifierfield identifi field 
+VARSIG10	plural 
+VARSIG16	list annotationmetadatabuild annot metadata builder annot 
+VARSIG15	methoddelegatenam deleg 
+VARSIG14	javasymbolnam symbol methodnam 
+VARSIG13	isgaeen gae enabl 
+MTHSIG17	getcountmethod count 
+MTHSIG18	getfindallmethod find 
+MTHSIG15	getentitymanagermethod entiti manag 
+MTHSIG16	setentitymanagermethod set entiti manag 
+MTHSIG13	addtransactionalannot add transact annot list annotationmetadatabuild annot metadata builder annot ispersistmethod persist 
+MTHSIG14	addtransactionalannot add transact annot list annotationmetadatabuild annot metadata builder annot 
+MTHSIG11	getmergemethod merg 
+MTHSIG12	getdelegatemethod deleg javasymbolnam symbol methodnam methoddelegatenam deleg 
+MTHSIG19	getfindmethod find 
+MTHSIG10	getclearmethod clear 
+VARIABLES	javatyp type path metadataidentificationstr metadata identif metadataidentificationstr metadata identif metadataidentificationstr metadata identif metadataidentificationstr metadata identif aspectnam aspect governorphysicaltypemetadata governor physic type metadata parent crudannotationvalu crud annot valu plural identifierfield identifi field entitynam entiti isgaeen gae enabl methodnam methoddelegatenam deleg annot ispersistmethod persist annot entiti manag type type count type entitymanagermethod entiti manag findmethod find isgaeen gae enabl parent identifierfield identifi field crudannotationvalu crud annot valu entitynam entiti plural fieldsymbolnam field symbol candid annot annotationbuild annot builder parametertyp paramet type usermethod user annot bodybuild bodi builder entitymanagermethod entiti manag entitymanagerfieldnam entiti manag field returntyp type methodbuild builder transactionalbuild transact builder methodnam parametertyp paramet type returntyp type usermethod user bodybuild bodi builder param type type newmodifi modifi modifi methodbuild builder methodnam parametertyp paramet type parameternam paramet name usermethod user annot bodybuild bodi builder methodbuild builder methodnam parametertyp paramet type parameternam paramet name returntyp type usermethod user annot bodybuild bodi builder methodbuild builder idfieldnam field methodnam parametertyp paramet type parameternam paramet name returntyp type usermethod user annot bodybuild bodi builder methodbuild builder methodnam parametertyp paramet type parameternam paramet name returntyp type usermethod user annot bodybuild bodi builder methodbuild builder tsc 

@@ -1,0 +1,30 @@
+VARSIG7	attribut attribut 
+VARSIG6	qname 
+VARSIG9	attribut attribut 
+VARSIG8	attribut attribut 
+VARSIG3	attribut attribut 
+VARSIG2	qname 
+VARSIG5	localnam local 
+VARSIG4	uri 
+COMMENTS	link contenthandl content handler implement convert dbre xml file link databas object 
+VARSIG1	localnam local 
+VARSIG0	uri 
+MTHSIG4	enddocu document 
+VARSIG12	indextyp type indextyp type 
+MTHSIG5	populatet popul tabl attribut attribut 
+VARSIG11	attribut attribut 
+MTHSIG6	populatecolumn popul column attribut attribut 
+VARSIG10	attribut attribut 
+MTHSIG7	populateforeignkei popul foreign kei attribut attribut 
+MTHSIG0	databasecontenthandl databas content handler 
+MTHSIG1	getdatabas databas 
+PACKAGE	springframework roo addon dbre model 
+MTHSIG2	startel start element uri localnam local qname attribut attribut 
+MTHSIG3	endel element uri localnam local qname 
+VARSIG13	attribut attribut 
+MTHSIG8	populaterefer popul refer attribut attribut 
+MTHSIG9	populateindex popul attribut attribut indextyp type indextyp type 
+CLASSES	databasecontenthandl databas content handler 
+METHODS	databasecontenthandl databas content handler getdatabas databas startel start element endel element enddocu document populatet popul tabl populatecolumn popul column populateforeignkei popul foreign kei populaterefer popul refer populateindex popul populateindexcolumn popul column 
+MTHSIG10	populateindexcolumn popul column attribut attribut 
+VARIABLES	uri localnam local qname attribut uri localnam local qname attribut attribut attribut attribut attribut indextyp type attribut databas schema tabl tabl column foreignkei foreign kei refer indexcolumn column sequenc size precisionscal precis scale 

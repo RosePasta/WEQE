@@ -1,0 +1,32 @@
+VARSIG7	javatype type type
+VARSIG6	methodmetadatabuilder metadata builder
+VARSIG9	annotationmetadatabuilder annotation metadata builder
+VARSIG8	javatype type type
+VARSIG3	privilegedaspect privileged aspect
+VARSIG2	javatype type aspect
+VARSIG5	fieldmetadatabuilder field metadata builder
+VARSIG4	constructormetadatabuilder constructor metadata builder
+COMMENTS	assists building link itdtypedetails type details instance methods include constructor accept arguments automatically ignore attempt add link identifiablejavastructure identifiable structure declaredbymetadataid declared metadata instance constructed addition accepts link invocablemembermetadata invocable member metadata verify link invocablemembermetadata invocable member metadata getbody body detects programming errors result requesting member included providing actual executable body member addannotation add annotation
+VARSIG1	classorinterfacetypedetails type details governor
+VARSIG0	declaredbymetadataid declared metadata
+MTHSIG4	onaddfield add field fieldmetadatabuilder field metadata builder
+VARSIG12	classorinterfacetypedetails type details classorinterfacetypedetails type details
+MTHSIG5	onaddmethod add methodmetadatabuilder metadata builder
+VARSIG11	declaredmethodannotationdetails declared annotation details declaredmethodannotationdetails declared annotation details
+MTHSIG6	onaddextendstypes add types javatype type type
+VARSIG10	declaredfieldannotationdetails declared field annotation details declaredfieldannotationdetails declared field annotation details
+MTHSIG7	onaddimplementtype add implement type javatype type type
+MTHSIG0	itdtypedetailsbuilder type details builder declaredbymetadataid declared metadata classorinterfacetypedetails type details governor javatype type aspect privilegedaspect privileged aspect
+MTHSIG1	build
+PACKAGE	springframework roo classpath details
+MTHSIG2	getimportregistrationresolver registration resolver
+MTHSIG3	onaddconstructor add constructor constructormetadatabuilder constructor metadata builder
+VARSIG13	annotationmetadata annotation metadata annotationmetadata annotation metadata
+MTHSIG8	onaddannotation add annotation annotationmetadatabuilder annotation metadata builder
+MTHSIG9	addfieldannotation add field annotation declaredfieldannotationdetails declared field annotation details declaredfieldannotationdetails declared field annotation details
+MTHSIG11	addinnertype add type classorinterfacetypedetails type details classorinterfacetypedetails type details
+MTHSIG12	addtypeannotation add type annotation annotationmetadata annotation metadata annotationmetadata annotation metadata
+CLASSES	itdtypedetailsbuilder type details builder
+METHODS	itdtypedetailsbuilder type details builder build getimportregistrationresolver registration resolver onaddconstructor add constructor onaddfield add field onaddmethod add onaddextendstypes add types onaddimplementtype add implement type onaddannotation add annotation addfieldannotation add field annotation addmethodannotation add annotation addinnertype add type addtypeannotation add type annotation
+MTHSIG10	addmethodannotation add annotation declaredmethodannotationdetails declared annotation details declaredmethodannotationdetails declared annotation details
+VARIABLES	declaredbymetadataid declared metadata governor aspect privilegedaspect privileged aspect type type declaredfieldannotationdetails declared field annotation details declaredmethodannotationdetails declared annotation details classorinterfacetypedetails type details annotationmetadata annotation metadata governor aspect privilegedaspect privileged aspect importregistrationresolver registration resolver innertypes types fieldannotations field annotations methodannotations annotations declaredby declared hasannotation annotation declaredby declared hasannotation annotation

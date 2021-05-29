@@ -1,0 +1,17 @@
+VARSIG3	loggerpackag logger 
+VARSIG2	object obj 
+COMMENTS	configur logger configur root logger log area interest 
+CLASSES	loggerpackag logger 
+VARSIG1	packagenam name 
+VARSIG0	layer 
+METHODS	loggerpackag logger getlay layer getpackagenam name getkei kei hashcod hash code equal compareto compar tostr 
+MTHSIG4	hashcod hash code 
+MTHSIG5	equal object obj 
+MTHSIG6	compareto compar loggerpackag logger 
+MTHSIG7	tostr 
+MTHSIG0	loggerpackag logger layer packagenam name 
+MTHSIG1	getlay layer 
+PACKAGE	springframework roo addon log 
+MTHSIG2	getpackagenam name 
+MTHSIG3	getkei kei 
+VARIABLES	layer packagenam name obj layer packagenam name root project transact secur aop persist spring web tsc 

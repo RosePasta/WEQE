@@ -1,0 +1,32 @@
+VARSIG3	logicalpath logical path instance
+VARSIG2	expectedinstancename expected instance
+VARSIG5	expectedmodulename expected module
+VARSIG4	expectedinstancename expected instance
+COMMENTS	unit test link logicalpath logical path constants arbitrary can mocked asserts calling link logicalpath logical path getinstance instance path module expected behaviour inputmodulename input module expectedmodulename expected module expectedinstancename expected instance set invoke check asserts instance expected values instance instance check required expectedinstancename expected instance expectedmodulename expected module set invoke check set invoke check invoke check invoke check
+VARSIG1	expectedmodulename expected module
+VARSIG0	inputmodulename input module
+MTHSIG4	assertgetinstance instance inputmodulename input module expectedmodulename expected module expectedinstancename expected instance
+MTHSIG5	assertcontextualpath contextual path logicalpath logical path instance expectedinstancename expected instance expectedmodulename expected module
+MTHSIG6	testsamepathsinsamemoduleareequal test paths module equal
+MTHSIG7	testsamepathsindifferentmodulesarenotequal test paths modules equal
+MTHSIG0	testgetinstancewithnullmodulename test instance module
+MTHSIG1	testgetinstancewithemptymodulename test instance empty module
+PACKAGE	springframework roo project
+MTHSIG2	testgetinstancewithblankmodulename test instance blank module
+MTHSIG3	testgetinstancewithnonblankmodulename test instance blank module
+MTHSIG20	testsubmodulerootismoduleroot test module root module root
+MTHSIG8	testdoesnotequalothertype test equal type
+MTHSIG9	testgetinstancefrompathnameonly test instance path
+MTHSIG17	testprojectrootisprojectroot test project root project root
+MTHSIG18	testnonrootpathisnotmoduleroot test root path module root
+MTHSIG15	testmodulerootisnotprojectroot test module root project root
+MTHSIG16	testnonrootpathisnotprojectroot test root path project root
+MTHSIG13	testgetinstancefromemptystring test instance empty
+MTHSIG14	testgetinstancefromblankstring test instance blank
+MTHSIG11	testcomparetonull test compare
+MTHSIG12	testgetinstancefromnullstring test instance
+CLASSES	logicalpathtest logical path test
+METHODS	testgetinstancewithnullmodulename test instance module testgetinstancewithemptymodulename test instance empty module testgetinstancewithblankmodulename test instance blank module testgetinstancewithnonblankmodulename test instance blank module assertgetinstance instance assertcontextualpath contextual path testsamepathsinsamemoduleareequal test paths module equal testsamepathsindifferentmodulesarenotequal test paths modules equal testdoesnotequalothertype test equal type testgetinstancefrompathnameonly test instance path testgetinstancefromcombinedpathandmodulename test instance combined path module testcomparetonull test compare testgetinstancefromnullstring test instance testgetinstancefromemptystring test instance empty testgetinstancefromblankstring test instance blank testmodulerootisnotprojectroot test module root project root testnonrootpathisnotprojectroot test root path project root testprojectrootisprojectroot test project root project root testnonrootpathisnotmoduleroot test root path module root testprojectrootismoduleroot test project root module root testsubmodulerootismoduleroot test module root module root
+MTHSIG19	testprojectrootismoduleroot test project root module root
+MTHSIG10	testgetinstancefromcombinedpathandmodulename test instance combined path module
+VARIABLES	inputmodulename input module expectedmodulename expected module expectedinstancename expected instance instance expectedinstancename expected instance expectedmodulename expected module path module module path instance instance instance instance instance equal instance instance instance instance equal instance instance

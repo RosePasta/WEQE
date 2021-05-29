@@ -1,0 +1,13 @@
+VARSIG3	exception
+VARSIG2	domelementcallback dom element callback rootelementcallback root element callback
+VARSIG5	element rootelement root element
+VARSIG4	document document
+COMMENTS	making updates xml file relies link filemanager file manager link xmlutils xml utils update xml convenient callback mechanism access link document root link element wraps common code updating xml file callers provide callback focus actual details resolvedpathidentifier resolved path identifier path xml file update rootelementcallback root element callback callback logic applied updated provide logic updating link document document document rootelement root element root element document require saving
+CLASSES	xmltemplate xml template
+VARSIG1	resolvedpathidentifier resolved path identifier
+VARSIG0	filemanager file manager filemanager file manager
+METHODS	xmltemplate xml template update
+MTHSIG0	xmltemplate xml template filemanager file manager filemanager file manager
+MTHSIG1	update resolvedpathidentifier resolved path identifier domelementcallback dom element callback rootelementcallback root element callback
+PACKAGE	springframework roo addon web mvc controller
+VARIABLES	filemanager file manager resolvedpathidentifier resolved path identifier rootelementcallback root element callback document rootelement root element filemanager file manager mutablefile mutable file document root

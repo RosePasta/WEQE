@@ -1,0 +1,98 @@
+MTHSIG28	updatebuildplugins update build plugins isgaeenabled gae enabled
+MTHSIG29	updatedependencies update dependencies element configuration
+MTHSIG26	setup
+MTHSIG27	updatebuildoutputdirectory update build output directory
+MTHSIG24	scaffoldall scaffold javapackage proxypackage proxy javapackage requestpackage request
+MTHSIG25	scaffoldtype scaffold type javapackage proxypackage proxy javapackage requestpackage request javatype type type
+MTHSIG22	requestall request javapackage proxypackage proxy
+MTHSIG23	requesttype request type javapackage requestpackage request javatype type type
+MTHSIG4	createproxy create proxy classorinterfacetypedetails type details entity javapackage destinationpackage destination
+MTHSIG5	createrequestinterface create request classorinterfacetypedetails type details entity javapackage destinationpackage destination
+MTHSIG6	createrequestinterfaceifnecessary create request classorinterfacetypedetails type details entity javapackage destinationpackage destination
+MTHSIG7	createscaffold create scaffold classorinterfacetypedetails type details proxy
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	addpackagetogwtxml add gwt xml javapackage sourcepackage source
+MTHSIG2	copydirectorycontents copy directory contents
+MTHSIG3	copydirectorycontents copy directory contents gwtpath gwt path gwtpath gwt path
+MTHSIG20	proxytype proxy type javapackage proxypackage proxy javatype type type
+MTHSIG21	removeiffound remove xpath element webxmlroot web xml root
+MTHSIG8	deleteuntouchedsetupfiles delete untouched setup files sourceantpath source ant path targetdirectory target directory
+MTHSIG9	getgaehookup gae hookup
+MTHSIG35	updatescaffoldboilerplate update scaffold boiler plate
+MTHSIG36	updatewebxml update web xml
+MTHSIG33	updategaehelper update gae helper
+MTHSIG34	updaterepositories update repositories element configuration
+METHODS	activate addpackagetogwtxml add gwt xml copydirectorycontents copy directory contents copydirectorycontents copy directory contents createproxy create proxy createrequestinterface create request createrequestinterfaceifnecessary create request createscaffold create scaffold deleteuntouchedsetupfiles delete untouched setup files getgaehookup gae hookup getname getpompath pom path getroogwtrequestannotation roo gwt request annotation isgwtinstallationpossible gwt installation isinstalledinmodule installed module isscaffoldavailable scaffold processtemplate process template proxyall proxy proxyandrequestall proxy request proxyandrequesttype proxy request type proxytype proxy type removeiffound remove requestall request requesttype request type scaffoldall scaffold scaffoldtype scaffold type setup updatebuildoutputdirectory update build output directory updatebuildplugins update build plugins updatedependencies update dependencies updateeclipseplugin update plugin updatefile update file updategaeconfiguration update gae configuration updategaehelper update gae helper updaterepositories update repositories updatescaffoldboilerplate update scaffold boiler plate updatewebxml update web xml
+MTHSIG31	updatefile update file sourceantpath source ant path targetdirectory target directory segmentpackage segment overwrite
+MTHSIG32	updategaeconfiguration update gae configuration
+MTHSIG30	updateeclipseplugin update plugin
+COMMENTS	implementation link gwtoperations gwt operations builds entity entity requestcontext request context note don generate entire roogwtrequest roo gwt request annotation invoke metadata provider takes generates remaining code declarations servicename service annotation analogous based addons work adding trigger annotation letting metadata provider metadata provider correctly respond project entity entity create gwt request required destinationpackage destination create request required trigger gwtrequestmetadataprovider gwt request metadata provider finish generating code file targetfilename target filename delete gwtrequestmetadataprovider gwt request metadata provider doesn excluded methods actively adds required crud methods install web pieces installed add gwt natures builder names maven plugin add outputdirectory output directory build element pom add pom repositories add dependencies update web xml update gwt maven plugin sets pom pom output directory output directory set read pom create update pom updates plugin pom gwt details load pom add gwt buildcommand build command add gwt projectnature read template insert user user output file user update gaehelper gae helper type ensure gwt maven plugin gae enabled disabled environment updated appengine sdk denoted gae type add appengine api sdk dependency pom xml file copy missing files gae changed enabled
+VARSIG19	input
+VARSIG18	plugin buildplugin build plugin
+VARSIG17	modulename module
+VARSIG12	sourceantpath source ant path
+VARSIG11	annotationmetadatabuilder annotation metadata builder existingannotation existing annotation
+VARSIG10	classorinterfacetypedetails type details proxy
+VARSIG16	classorinterfacetypedetails type details entity
+VARSIG15	ioexception exception
+VARSIG14	url url
+VARSIG13	targetdirectory target directory
+MTHSIG17	proxyall proxy javapackage proxypackage proxy
+MTHSIG18	proxyandrequestall proxy request javapackage proxyandrequestpackage proxy request
+MTHSIG15	isscaffoldavailable scaffold
+MTHSIG16	processtemplate process template input segmentpackage segment
+MTHSIG13	isgwtinstallationpossible gwt installation
+MTHSIG14	isinstalledinmodule installed module modulename module
+MTHSIG11	getpompath pom path
+MTHSIG12	getroogwtrequestannotation roo gwt request annotation classorinterfacetypedetails type details entity
+MTHSIG19	proxyandrequesttype proxy request type javapackage proxyandrequestpackage proxy request javatype type type
+MTHSIG10	getname
+VARIABLES	context sourcepackage source path gwtpath gwt path entity destinationpackage destination entity destinationpackage destination entity destinationpackage destination proxy existingannotation existing annotation sourceantpath source ant path targetdirectory target directory url entity modulename module buildplugin build plugin input segmentpackage segment proxypackage proxy entity proxyandrequestpackage proxy request proxyandrequestpackage proxy request type proxypackage proxy type xpath webxmlroot web xml root toremove remove proxypackage proxy entity requestpackage request type proxypackage proxy requestpackage request proxy proxypackage proxy requestpackage request type proxyorrequest proxy request isgaeenabled gae enabled pluginelement plugin element plugin configuration dependencyelement dependency element sourceantpath source ant path targetdirectory target directory segmentpackage segment overwrite url configuration repositoryelement repository element repositoryelement repository element gwt build command gwt project nature maven plugin output directory filemanager file manager gwttemplateservice gwt template service gwttypeservice gwt type service metadataservice metadata service persistencememberlocator persistence member locator projectoperations project operations typelocationservice type location service typemanagementservice type management service webmvcoperations web mvc operations wasgaeenabled gae enabled context gwtconfig gwt config moduleroot module root toplevelpackage top level relativepackage relative sourceantpath source ant path targetdirectory target directory existingproxy existing proxy proxytype proxy type focusedmodule focused module proxylogicalpath proxy logical path cidbuilder cid builder attributevalues attribute values stringattributevalue attribute locator locatorattributevalue locator attribute readonlyvalues read values versionfield version field idfields fields readonlyattribute read attribute requesttype request type focusedsrcmainjava focused src requestbuilder request builder annotationmetadata annotation metadata booleanattributevalue attribute cidbuilder cid builder annotationmetadatabuilder annotation metadata builder path uris filename file targetfilename target filename input existing builder entityattributevalue entity attribute gwtrequestattributevalues gwt request attribute values pom toplevelpackage top level entity request entity proxy request toppackagename top gwtconfigs gwt configs gwtalreadysetup gwt setup sourceantpath source ant path targetdirectory target directory cidbuilder cid builder annotationmetadata annotation metadata annotationmetadatabuilder annotation metadata builder annotationmetadata annotation metadata annotationmetadatabuilder annotation metadata builder configuration pom document root outputdirectoryelement output directory element buildelement build element xpathexpression path expression pluginelements plugin elements defaultplugin plugin dependencies gwtdependencies gwt dependencies pom document root additionalbuildcommandselement additional build commands element gwtbuildcommandelement gwt build command element nameelement element additionalprojectnatureselement additional project natures element gwtprojectnatureelement gwt project nature element path urls filename file targetfilename target filename inputstream input stream outputstream output stream input isgaeenabled gae enabled hasgaestatechanged gae changed rootpath root path files configuration gaedependency gae dependency sourceantpath source ant path segmentpackage segment targetdirectory target directory repositories gwtrepositories gwt repositories gwtpluginrepositories gwt plugin repositories targetdirectory target directory webxmlpath web xmlpath webxml web xml root displayname display webresourcecollection web resource collection rolenames role names userdataconstraint user data constraint filter filtermapping filter mapping securityconstraint security constraint
+VARSIG39	javapackage requestpackage request
+VARSIG34	javatype type type
+VARSIG33	javapackage requestpackage request
+VARSIG32	classorinterfacetypedetails type details entity
+VARSIG31	javapackage proxypackage proxy
+VARSIG38	javapackage proxypackage proxy
+VARSIG37	classorinterfacetypedetails type details proxy
+PACKAGE	springframework roo addon gwt
+VARSIG36	javapackage requestpackage request
+VARSIG35	javapackage proxypackage proxy
+VARSIG30	element toremove remove
+CLASSES	gwtoperationsimpl gwt operations impl
+VARSIG29	element webxmlroot web xml root
+VARSIG28	xpath
+VARSIG23	javapackage proxyandrequestpackage proxy request
+VARSIG22	classorinterfacetypedetails type details entity
+VARSIG21	javapackage proxypackage proxy
+VARSIG20	segmentpackage segment
+VARSIG27	javatype type type
+VARSIG26	javapackage proxypackage proxy
+VARSIG25	javatype type type
+VARSIG24	javapackage proxyandrequestpackage proxy request
+VARSIG7	javapackage destinationpackage destination
+VARSIG6	classorinterfacetypedetails type details entity
+VARSIG9	javapackage destinationpackage destination
+VARSIG8	classorinterfacetypedetails type details entity
+VARSIG3	gwtpath gwt path gwtpath gwt path
+VARSIG2	gwtpath gwt path path
+VARSIG5	javapackage destinationpackage destination
+VARSIG4	classorinterfacetypedetails type details entity
+VARSIG1	javapackage sourcepackage source
+VARSIG0	componentcontext component context context
+VARSIG55	element repositoryelement repository element
+VARSIG54	element repositoryelement repository element
+VARSIG53	element configuration
+VARSIG52	ioexception exception
+VARSIG51	url url
+VARSIG50	overwrite
+VARSIG45	element configuration
+VARSIG44	plugin plugin
+VARSIG43	element pluginelement plugin element
+VARSIG42	isgaeenabled gae enabled
+VARSIG49	segmentpackage segment
+VARSIG48	targetdirectory target directory
+VARSIG47	sourceantpath source ant path
+VARSIG46	element dependencyelement dependency element
+VARSIG41	classorinterfacetypedetails type details proxyorrequest proxy request
+VARSIG40	javatype type type

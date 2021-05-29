@@ -1,0 +1,14 @@
+VARSIG3	element elconfig config 
+VARSIG2	element eltailor tailor 
+VARSIG5	msg 
+VARSIG4	element elact action 
+COMMENTS	map xml file content tailorconfigur tailor configur object multipl configur tailor xml root list tailor configur map singl xml tailor configur tailorconfigur tailor configur object tailor element tailor configur determin action type 
+CLASSES	tailorpars tailor parser 
+VARSIG1	element etailor tailor 
+VARSIG0	element root 
+METHODS	mapxmltotailorconfigur map xml tailor configur parsetailorconfigur pars tailor configur logtailorxmlinvalid log tailor xml invalid 
+MTHSIG0	mapxmltotailorconfigur map xml tailor configur element root 
+MTHSIG1	parsetailorconfigur pars tailor configur element eltailor tailor 
+PACKAGE	springframework roo addon tailor config xml 
+MTHSIG2	logtailorxmlinvalid log tailor xml invalid msg 
+VARIABLES	root etailor tailor eltailor tailor elconfig config elact action msg logger eltailor tailor config config result activeattribut activ attribut isact activ elconfig config command newcmdconfig cmd config elact action newact action attribut item attributekei attribut kei 

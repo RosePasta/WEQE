@@ -1,0 +1,31 @@
+VARSIG7	javatype type aspectname aspect
+VARSIG6	metadataidentificationstring metadata identification
+VARSIG9	itdfilename filename
+VARSIG8	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG3	componentcontext component context context
+VARSIG2	logicalpath logical path path
+VARSIG5	itdtypedetails type details itdtypedetails type details
+VARSIG4	metadataidentificationstring metadata identification
+COMMENTS	implementation link equalsmetadataprovider equals metadata provider
+VARSIG1	javatype type javatype type
+VARSIG0	componentcontext component context context
+MTHSIG4	getitduniquenessfilenamesuffix uniqueness filename suffix
+VARSIG12	memberdetails member details memberdetails member details
+MTHSIG5	getlocalmidtorequest local mid request itdtypedetails type details itdtypedetails type details
+VARSIG11	excludefields exclude fields
+MTHSIG6	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+VARSIG10	javatype type javatype type
+MTHSIG7	getprovidestype type
+MTHSIG0	activate componentcontext component context context
+VARSIG16	fieldmetadata field metadata field
+MTHSIG1	createlocalidentifier create local identifier javatype type javatype type logicalpath logical path path
+VARSIG15	fieldmetadata field metadata
+PACKAGE	springframework roo addon equals
+MTHSIG2	deactivate componentcontext component context context
+VARSIG14	fieldmetadata field metadata
+MTHSIG3	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+VARSIG13	metadataidentificationstring metadata identification
+MTHSIG8	locatefields locate fields javatype type javatype type excludefields exclude fields memberdetails member details memberdetails member details metadataidentificationstring metadata identification
+CLASSES	equalsmetadataproviderimpl equals metadata provider impl
+METHODS	activate createlocalidentifier create local identifier deactivate getgovernorphysicaltypeidentifier governor physical type identifier getitduniquenessfilenamesuffix uniqueness filename suffix getlocalmidtorequest local mid request getmetadata metadata getprovidestype type locatefields locate fields
+VARIABLES	context javatype type path context metadataidentificationstring metadata identification itdtypedetails type details metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename javatype type excludefields exclude fields memberdetails member details metadataidentificationstring metadata identification field javatype type path annotationvalues annotation values memberdetails member details javatype type equalityfields equality fields locatedfields located fields excludefieldslist exclude fields list versionfield version field

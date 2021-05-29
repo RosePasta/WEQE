@@ -1,0 +1,26 @@
+VARSIG7	logrecord log record event 
+VARSIG6	except 
+VARSIG9	str 
+VARSIG8	str 
+VARSIG3	except 
+VARSIG2	logrecord log record record 
+VARSIG5	logrecord log record record 
+VARSIG4	includ 
+COMMENTS	jdk log link handler emit log messag jline link consoleread consol reader roo avoid repeat messag displai current messag roo user semi type debug messag separ cancel type reset appear empti ensur displai redraw restor format set origin build event indent nice left hand side thread text brighter request system properti roo bright work issu window revers combin jansi lib leav neg flag set reset explicitli patch ansibuff ansi buffer color code add bright code 
+VARSIG1	shellpromptaccessor shell prompt accessor shellpromptaccessor shell prompt accessor 
+VARSIG0	consoleread consol reader reader 
+MTHSIG4	cancelredrawprohibit cancel redraw prohibit 
+MTHSIG5	setincludethreadnam set includ thread includ 
+MTHSIG6	resetmessagetrack reset messag track 
+VARSIG10	code 
+MTHSIG7	publish logrecord log record record 
+MTHSIG0	jlineloghandl log handler consoleread consol reader reader shellpromptaccessor shell prompt accessor shellpromptaccessor shell prompt accessor 
+MTHSIG1	flush 
+PACKAGE	springframework roo shell jline 
+MTHSIG2	close 
+MTHSIG3	prohibitredraw prohibit redraw 
+MTHSIG8	todisplai displai logrecord log record event 
+MTHSIG9	getansibuff ansi buffer 
+CLASSES	jlineloghandl log handler 
+METHODS	jlineloghandl log handler flush close prohibitredraw prohibit redraw cancelredrawprohibit cancel redraw prohibit setincludethreadnam set includ thread resetmessagetrack reset messag track publish todisplai displai getansibuff ansi buffer 
+VARIABLES	reader shellpromptaccessor shell prompt accessor record includ record event str str code window bright color reader shellpromptaccessor shell prompt accessor redrawprohibit redraw prohibit lastmessag messag includethreadnam includ thread ansisupport ansi support userinterfacethreadnam user thread todisplai displai buffer cursor prohibitingredraw prohibit redraw threadnam thread eventstr event lineseparatorandindentingstr separ indent esc 

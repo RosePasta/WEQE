@@ -1,0 +1,34 @@
+VARSIG7	ioexception exception ioe
+VARSIG6	
+VARSIG9	path propertyfilepath property file path
+VARSIG8	ioexception exception ioe
+VARSIG3	path propertyfilepath property file path
+VARSIG2	pathresolver path resolver pathresolver path resolver
+VARSIG5	key
+VARSIG4	propertyfilename property filename
+COMMENTS	property file configuration operations property throwing exception file exist propertyfilepath property file path location property file required propertyfilename property filename property file path required key property key update required property set property key required removes property throwing exception file exist propertyfilepath property file path location property file required propertyfilename property filename property file path required key property key remove required retrieves property returning property file exist propertyfilepath property file path location property file required propertyfilename property filename property file path required key property key retrieve required property property file requested property exist retrieves property property throwing exception file exist propertyfilepath property file path location property file required propertyfilename property filename property file path required includevalues include values appends thevalue returned property file exist
+VARSIG19	propertyfilename property filename
+VARSIG1	filemanager file manager filemanager file manager
+VARSIG18	path propertyfilepath property file path
+VARSIG0	metadataservice metadata service metadataservice metadata service
+VARSIG17	ioexception exception ioe
+MTHSIG4	getproperty property path propertyfilepath property file path propertyfilename property filename key
+VARSIG12	ioexception exception ioe
+MTHSIG5	getpropertykeys property path propertyfilepath property file path propertyfilename property filename includevalues include values
+VARSIG11	key
+VARSIG10	propertyfilename property filename
+MTHSIG0	propfileoperations prop file operations metadataservice metadata service metadataservice metadata service filemanager file manager filemanager file manager pathresolver path resolver pathresolver path resolver
+VARSIG16	key
+MTHSIG1	ispropertiescommandavailable properties command
+VARSIG15	propertyfilename property filename
+PACKAGE	springframework roo addon propfiles
+MTHSIG2	changeproperty change property path propertyfilepath property file path propertyfilename property filename key
+VARSIG14	path propertyfilepath property file path
+MTHSIG3	removeproperty remove property path propertyfilepath property file path propertyfilename property filename key
+VARSIG13	ioexception exception ioe
+CLASSES	propfileoperations prop file operations
+METHODS	propfileoperations prop file operations ispropertiescommandavailable properties command changeproperty change property removeproperty remove property getproperty property getpropertykeys property
+VARSIG22	object key
+VARSIG21	ioexception exception ioe
+VARSIG20	includevalues include values
+VARIABLES	metadataservice metadata service filemanager file manager pathresolver path resolver propertyfilepath property file path propertyfilename property filename key ioe ioe propertyfilepath property file path propertyfilename property filename key ioe ioe propertyfilepath property file path propertyfilename property filename key ioe propertyfilepath property file path propertyfilename property filename includevalues include values ioe key filemanager file manager pathresolver path resolver metadataservice metadata service filepath file path mutablefile mutable file props filepath file path mutablefile mutable file props filepath file path mutablefile mutable file props filepath file path props result info

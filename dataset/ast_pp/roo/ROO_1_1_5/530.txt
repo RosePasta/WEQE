@@ -1,0 +1,51 @@
+MTHSIG4	getphysicallocationcanonicalpath physical location canonical path physicaltypeidentifier physical type identifier
+MTHSIG5	getclassorinterface javatype type requiredclassorinterface required
+MTHSIG6	findclassorinterface find javatype type requiredclassorinterface required
+MTHSIG7	processtypeswithtag process types tag object tag locatedtypecallback located type callback callback
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo classpath
+MTHSIG2	notify upstreamdependency upstream dependency downstreamdependency downstream dependency
+MTHSIG3	getphysicallocationcanonicalpath physical location canonical path javatype type javatype type path path
+MTHSIG8	processtypeswithannotation process types annotation list javatype type annotationstodetect annotations detect locatedtypecallback located type callback callback
+VARSIG30	runtimeexception runtime exception
+MTHSIG9	findtypeswithannotation find types annotation list javatype type annotationstodetect annotations detect
+CLASSES	typelocationserviceimpl type location service impl
+VARSIG29	filedetails file details file
+VARSIG28	path path
+METHODS	activate deactivate notify getphysicallocationcanonicalpath physical location canonical path getphysicallocationcanonicalpath physical location canonical path getclassorinterface findclassorinterface find processtypeswithtag process types tag processtypeswithannotation process types annotation findtypeswithannotation find types annotation findtypeswithannotation find types annotation findclassesorinterfacedetailswithannotation find classes details annotation findclassesorinterfacedetailswithtag find classes details tag getclassorinterfacetypedetails type details getprojectjavatypes project types
+VARSIG23	javatype type annotationstodetect annotations detect
+VARSIG22	javatype type annotationstodetect annotations detect
+VARSIG21	classorinterfacetypedetails type details located
+VARSIG20	list javatype type annotationstodetect annotations detect
+VARSIG27	physicaltypemid physical type mid
+VARSIG26	classorinterfacetypedetails type details located
+VARSIG25	object tag
+VARSIG24	classorinterfacetypedetails type details located
+VARSIG7	path path
+VARSIG6	javatype type javatype type
+VARSIG9	javatype type requiredclassorinterface required
+VARSIG8	physicaltypeidentifier physical type identifier
+VARSIG3	downstreamdependency downstream dependency
+VARSIG2	upstreamdependency upstream dependency
+VARSIG5	object tagdetected tag detected
+VARSIG4	javatype type annotationdetected annotation detected
+COMMENTS	implementation link typelocationservice type location service performance reasons automatically caches queries invalidating cache link physicaltypemetadata physical type metadata notification received change drop cache iterate entire annotation cache type annotation guarantee insertion type annotation guarantee removal iterate entire tag cache type tag guarantee insertion type tag guarantee removal obtains details physical type identifier physicaltypemid physical type mid lookup required details unavailable ditch roo let work path
+VARSIG19	classorinterfacetypedetails type details cid
+VARSIG1	componentcontext component context context
+VARSIG18	locatedmid located mid
+VARSIG0	componentcontext component context context
+VARSIG17	javatype type annotationtype annotation type
+VARSIG12	locatedtypecallback located type callback callback
+VARSIG11	object tag
+VARSIG10	javatype type requiredclassorinterface required
+VARSIG16	locatedtypecallback located type callback callback
+VARSIG15	list javatype type annotationstodetect annotations detect
+VARSIG14	classorinterfacetypedetails type details cid
+VARSIG13	locatedmid located mid
+MTHSIG13	getclassorinterfacetypedetails type details physicaltypemid physical type mid
+MTHSIG14	getprojectjavatypes project types path path
+MTHSIG11	findclassesorinterfacedetailswithannotation find classes details annotation javatype type annotationstodetect annotations detect
+MTHSIG12	findclassesorinterfacedetailswithtag find classes details tag object tag
+MTHSIG10	findtypeswithannotation find types annotation javatype type annotationstodetect annotations detect
+VARIABLES	context context upstreamdependency upstream dependency downstreamdependency downstream dependency annotationdetected annotation detected tagdetected tag detected javatype type path physicaltypeidentifier physical type identifier requiredclassorinterface required requiredclassorinterface required tag callback locatedmid located mid cid annotationstodetect annotations detect callback annotationtype annotation type locatedmid located mid cid annotationstodetect annotations detect located annotationstodetect annotations detect annotationstodetect annotations detect located tag located physicaltypemid physical type mid path file filemanager file manager filemonitorservice file monitor service dependencyregistry dependency registry metadataservice metadata service physicaltypemetadataprovider physical type metadata provider projectoperations project operations memberdetailsscanner member details scanner annotationtomidmap annotation mid map tagtomidmap tag mid map cid memberdetails member details relativepath relative path javatype type path relativepath relative path metadataidentificationstring metadata identification physicaltypemetadata physical type metadata physicaltypedetails physical type details metadataidentificationstring metadata identification physicaltypemetadata physical type metadata physicaltypedetails physical type details cacheallowed cache allowed located locatedmids located mids memberdetails member details cacheallowed cache allowed located locatedmids located mids types types types physicaltypemetadata physical type metadata pathresolver path resolver srcroot src root projecttypes project types fullpath full path javatype type locatedpath located path physicaltypemid physical type mid located

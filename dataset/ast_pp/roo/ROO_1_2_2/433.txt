@@ -1,0 +1,43 @@
+VARSIG7	solrsearchannotationvalues solr search annotation values annotationvalues annotation values
+VARSIG6	javatype type aspectname aspect
+VARSIG9	methodmetadata metadata identifieraccessor identifier accessor
+VARSIG8	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG3	metadataidentificationstring metadata identification
+VARSIG2	metadataidentificationstring metadata identification
+VARSIG5	identifier
+VARSIG4	metadataidentificationstring metadata identification
+COMMENTS	metadata link roosolrsearchable roo solr searchable create representation desired output
+VARSIG19	javatype type type
+VARSIG1	logicalpath logical path path
+VARSIG18	annotationmetadata annotation metadata annotation
+VARSIG0	javatype type javatype type
+VARSIG17	entry methodmetadata metadata fieldmetadata field metadata entry
+MTHSIG4	isvalid valid metadataidentificationstring metadata identification
+VARSIG12	javatypeplural type plural
+MTHSIG5	solrmetadata solr metadata identifier javatype type aspectname aspect solrsearchannotationvalues solr search annotation values annotationvalues annotation values physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata methodmetadata metadata identifieraccessor identifier accessor fieldmetadata field metadata versionfield version field map methodmetadata metadata fieldmetadata field metadata accessordetails accessor details javatypeplural type plural
+VARSIG11	map methodmetadata metadata fieldmetadata field metadata accessordetails accessor details
+MTHSIG6	getannotationvalues annotation values
+VARSIG10	fieldmetadata field metadata versionfield version field
+MTHSIG7	getdeleteindexmethod delete methodmetadata metadata identifieraccessor identifier accessor
+MTHSIG0	createidentifier create identifier javatype type javatype type logicalpath logical path path
+VARSIG16	fieldmetadata field metadata versionfield version field
+MTHSIG1	getjavatype type metadataidentificationstring metadata identification
+VARSIG15	methodmetadata metadata identifieraccessor identifier accessor
+PACKAGE	springframework roo addon solr
+MTHSIG2	getmetadataidentifertype metadata identifer type
+VARSIG14	map methodmetadata metadata fieldmetadata field metadata accessordetails accessor details
+MTHSIG3	getpath path metadataidentificationstring metadata identification
+VARSIG13	methodmetadata metadata identifieraccessor identifier accessor
+MTHSIG8	getindexentitiesmethod entities map methodmetadata metadata fieldmetadata field metadata accessordetails accessor details methodmetadata metadata identifieraccessor identifier accessor fieldmetadata field metadata versionfield version field
+MTHSIG9	getindexentitymethod entity
+MTHSIG17	tostring
+MTHSIG15	getsolrserverfield solr server field
+MTHSIG16	getsolrservermethod solr server
+MTHSIG13	getsimplename simple javatype type type
+MTHSIG14	getsimplesearchmethod simple search
+MTHSIG11	getpreremovemethod pre remove
+MTHSIG12	getsearchmethod search
+CLASSES	solrmetadata solr metadata
+METHODS	createidentifier create identifier getjavatype type getmetadataidentifertype metadata identifer type getpath path isvalid valid solrmetadata solr metadata getannotationvalues annotation values getdeleteindexmethod delete getindexentitiesmethod entities getindexentitymethod entity getpostpersistorupdatemethod post persist update getpreremovemethod pre remove getsearchmethod search getsimplename simple getsimplesearchmethod simple search getsolrserverfield solr server field getsolrservermethod solr server tostring
+MTHSIG10	getpostpersistorupdatemethod post persist update
+VARIABLES	javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification metadataidentificationstring metadata identification identifier aspectname aspect annotationvalues annotation values governorphysicaltypemetadata governor physical type metadata identifieraccessor identifier accessor versionfield version field accessordetails accessor details javatypeplural type plural identifieraccessor identifier accessor accessordetails accessor details identifieraccessor identifier accessor versionfield version field entry annotation type type type solr input document solr query solr query response solr server annotationvalues annotation values beanplural bean plural javabeanfieldname bean field methodname parametertype parameter type parameternames parameter names bodybuilder body builder methodbuilder builder methodname parametertype parameter type parameternames parameter names bodybuilder body builder sid sidtypeparams sid type params listvar list textfield text field field accessormethod accessor fieldname field methodbuilder builder methodname parametertype parameter type bodybuilder body builder listtype list type arraylisttype array list type parameternames parameter names methodname annotations bodybuilder body builder methodbuilder builder methodname annotations bodybuilder body builder methodbuilder builder methodname parametertype parameter type queryresponse query response parameternames parameter names bodybuilder body builder methodname parametertype parameter type queryresponse query response parameternames parameter names bodybuilder body builder fieldname field methodname returntype type bodybuilder body builder builder

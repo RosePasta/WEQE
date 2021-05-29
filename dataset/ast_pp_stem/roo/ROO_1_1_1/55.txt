@@ -1,0 +1,71 @@
+MTHSIG28	findexportedkeybylocalcolumnnam find export kei local column localcolumnnam local column 
+MTHSIG29	getindic indic 
+MTHSIG26	addexportedkei add export set foreignkei foreign kei exportedkei export 
+MTHSIG27	addexportedkei add export kei foreignkei foreign kei exportedkei export kei 
+MTHSIG24	getexportedkeycount export kei count 
+MTHSIG25	getexportedkeycountbyforeigntablenam export kei count foreign tabl foreigntablenam foreign tabl 
+MTHSIG22	findimportedkeybylocalcolumnnam find import kei local column localcolumnnam local column 
+MTHSIG23	getexportedkei export 
+MTHSIG4	setschema set schema schema schema 
+MTHSIG5	getnam 
+MTHSIG6	setnam set 
+MTHSIG7	getdescript descript 
+MTHSIG0	tabl 
+MTHSIG1	getcatalog catalog 
+PACKAGE	springframework roo addon dbre model 
+MTHSIG2	setcatalog set catalog catalog 
+MTHSIG3	getschema schema 
+MTHSIG20	addimportedkei add import set foreignkei foreign kei foreignkei foreign 
+MTHSIG21	addimportedkei add import kei foreignkei foreign kei foreignkei foreign kei 
+MTHSIG8	setdescript set descript descript 
+MTHSIG9	getcolumn column 
+MTHSIG35	tostr 
+MTHSIG33	hashcod hash code 
+MTHSIG34	equal object obj 
+CLASSES	tabl 
+VARSIG29	object obj 
+VARSIG28	column column 
+METHODS	tabl getcatalog catalog setcatalog set catalog getschema schema setschema set schema getnam setnam set getdescript descript setdescript set descript getcolumn column getcolumncount column count addcolumn add column addcolumn add column findcolumn find column getprimarykei primari getprimarykeycount primari kei count getimportedkei import getimportedkeycount import kei count getimportedkei import kei getimportedkeycountbyforeigntablenam import kei count foreign tabl addimportedkei add import addimportedkei add import kei findimportedkeybylocalcolumnnam find import kei local column getexportedkei export getexportedkeycount export kei count getexportedkeycountbyforeigntablenam export kei count foreign tabl addexportedkei add export addexportedkei add export kei findexportedkeybylocalcolumnnam find export kei local column getindic indic addindex add addindic add indic isprimarykeyindex primari kei hashcod hash code equal tostr 
+VARSIG23	foreignkei foreign kei exportedkei export kei 
+VARSIG22	localcolumnnam local column 
+VARSIG21	foreignkei foreign kei exportedkei export kei 
+VARSIG20	set foreignkei foreign kei exportedkei export 
+VARSIG27	 
+VARSIG26	set indic 
+VARSIG25	 
+VARSIG24	refer refer 
+MTHSIG31	addindic add indic set indic 
+MTHSIG32	isprimarykeyindex primari kei 
+MTHSIG30	addindex add 
+VARSIG7	column column 
+VARSIG6	 
+VARSIG9	 
+VARSIG8	column column 
+VARSIG3	descript 
+VARSIG2	 
+VARSIG5	column column 
+VARSIG4	set column column 
+COMMENTS	repres tabl databas model finduniquerefer find uniqu refer uniquecolumnnam uniqu column indic isuniqu uniqu indexcolumn column column getcolumn column column getnam equalsignorecas equal ignor uniquecolumnnam uniqu column 
+VARSIG19	foreignkei foreign kei exportedkei export kei 
+VARSIG1	schema schema 
+VARSIG18	foreigntablenam foreign tabl 
+VARSIG0	catalog 
+VARSIG17	refer refer 
+VARSIG12	foreignkei foreign kei foreignkei foreign kei 
+VARSIG11	foreigntablenam foreign tabl 
+VARSIG10	foreignkei foreign kei foreignkei foreign kei 
+VARSIG16	foreignkei foreign kei foreignkei foreign kei 
+VARSIG15	localcolumnnam local column 
+VARSIG14	foreignkei foreign kei foreignkei foreign kei 
+VARSIG13	set foreignkei foreign kei foreignkei foreign 
+MTHSIG17	getimportedkeycount import kei count 
+MTHSIG18	getimportedkei import kei 
+MTHSIG15	getprimarykeycount primari kei count 
+MTHSIG16	getimportedkei import 
+MTHSIG13	findcolumn find column 
+MTHSIG14	getprimarykei primari 
+MTHSIG11	addcolumn add column set column column 
+MTHSIG12	addcolumn add column column column 
+MTHSIG19	getimportedkeycountbyforeigntablenam import kei count foreign tabl foreigntablenam foreign tabl 
+MTHSIG10	getcolumncount column count 
+VARIABLES	catalog schema descript column column column column foreignkei foreign kei foreigntablenam foreign tabl foreignkei foreign kei foreignkei foreign foreignkei foreign kei localcolumnnam local column foreignkei foreign kei refer foreigntablenam foreign tabl exportedkei export kei exportedkei export exportedkei export kei localcolumnnam local column exportedkei export kei refer indic column obj serialversionuid serial version uid catalog schema descript column importedkei import exportedkei export indic primarykei primari count count primarykei primari primarykeyindex primari kei prime result 

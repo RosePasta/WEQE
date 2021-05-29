@@ -1,0 +1,10 @@
+MTHSIG0	isservicecommandavailable service command
+MTHSIG1	service javatype type interfacetype type javatype type classtype type javatype type domaintype domain type
+VARSIG2	clioption cli option key entity unspecifieddefaultvalue unspecified optioncontext option context update project mandatory domain entity service expose javatype type domaintype domain type
+PACKAGE	springframework roo addon layers service
+COMMENTS	shell commands create domain services fields
+CLASSES	servicecommands service commands
+VARIABLES	interfacetype type classtype type domaintype domain type serviceoperations service operations
+VARSIG1	clioption cli option key mandatory implementation javatype type classtype type
+VARSIG0	clioption cli option key mandatory apply annotation javatype type interfacetype type
+METHODS	isservicecommandavailable service command service

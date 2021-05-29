@@ -1,0 +1,27 @@
+VARSIG7	itdfilename filename
+VARSIG6	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG9	javatype type entity
+VARSIG8	memberholdingtypedetails member holding type details memberholdingtypedetails member holding type details
+VARSIG3	producedmid produced mid
+VARSIG2	upstreamdependency upstream dependency
+VARSIG5	javatype type aspectname aspect
+VARSIG4	metadataidentificationstring metadata identification
+COMMENTS	implementation link integrationtestmetadataprovider integration test metadata provider integration test classes configurable dod classes provide relationships notified projectmetadata project metadata order handle jpa gae persistence upstream dependency invalid upstream dependency isn projectmetadata project metadata projectmetadata project metadata isn valid determine persistence changed comparing current governor type details safely parse annotation expect lookup dod dod metadata dod conform dod naming conventions informed dependent metadata lookup entity entity metadata order handle switching gae jpa produced mids remembered regenerated jpa gae
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+MTHSIG4	getentitysuperclass entity superclass javatype type entity
+VARSIG12	path path
+MTHSIG5	getitduniquenessfilenamesuffix uniqueness filename suffix
+VARSIG11	javatype type javatype type
+MTHSIG6	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+VARSIG10	metadataidentificationstring metadata identification
+MTHSIG7	createlocalidentifier create local identifier javatype type javatype type path path
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo addon test
+MTHSIG2	notifyforgenericlistener notify listener upstreamdependency upstream dependency
+MTHSIG3	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+MTHSIG8	getprovidestype type
+CLASSES	integrationtestmetadataproviderimpl integration test metadata provider impl
+METHODS	activate deactivate notifyforgenericlistener notify listener getmetadata metadata getentitysuperclass entity superclass getitduniquenessfilenamesuffix uniqueness filename suffix getgovernorphysicaltypeidentifier governor physical type identifier createlocalidentifier create local identifier getprovidestype type
+VARIABLES	context context upstreamdependency upstream dependency producedmid produced mid metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename memberholdingtypedetails member holding type details entity metadataidentificationstring metadata identification javatype type path configurablemetadataprovider configurable metadata provider projectoperations project operations producedmids produced mids wasgaeenabled gae enabled projectmetadata project metadata isgaeenabled gae enabled hasgaestatechanged gae changed projectmetadata project metadata annotationvalues annotation values dodjavatype dod type dataondemandmetadatakey data demand metadata key dataondemandmetadata data demand metadata memberdetails member details identifieraccessormethod identifier accessor versionaccessormethod version accessor countmethod count findmethod find findallmethod find findentriesmethod find entries flushmethod flush mergemethod merge persistmethod persist removemethod remove transactionmanager transaction manager rooentity roo entity transactionmanagerattr transaction manager attr hasembeddedidentifier embedded identifier entityhassuperclass entity superclass physicaltypeidentifier physical type identifier ptm ptd classorinterfacetypedetails type details javatype type path

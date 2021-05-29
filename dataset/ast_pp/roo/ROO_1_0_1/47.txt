@@ -1,0 +1,22 @@
+VARSIG7	javapackage toplevelpackage top level
+VARSIG6	template template
+VARSIG9	integer majorjavaversion major version
+VARSIG8	projectname project
+VARSIG3	pathresolver path resolver pathresolver path resolver
+VARSIG2	filemanager file manager filemanager file manager
+VARSIG5	addonjumpstartoperations add jumpstart operations addonjumpstartoperations add jumpstart operations
+VARSIG4	applicationcontextoperations application context operations applicationcontextoperations application context operations
+COMMENTS	maven project operations note template getkey key maven pom template filename read detect major version running roo discard add discard add apply special add convention rules javax annotation library included
+CLASSES	mavenoperations maven operations
+VARSIG1	projectmetadataprovider project metadata provider projectmetadataprovider project metadata provider
+VARSIG0	metadataservice metadata service metadataservice metadata service
+METHODS	mavenoperations maven operations iscreateprojectavailable create project getprojectroot project root createproject create project
+VARSIG12	ioexception exception
+VARSIG11	element
+VARSIG10	exception
+MTHSIG0	mavenoperations maven operations metadataservice metadata service metadataservice metadata service projectmetadataprovider project metadata provider projectmetadataprovider project metadata provider filemanager file manager filemanager file manager pathresolver path resolver pathresolver path resolver applicationcontextoperations application context operations applicationcontextoperations application context operations addonjumpstartoperations add jumpstart operations addonjumpstartoperations add jumpstart operations
+MTHSIG1	iscreateprojectavailable create project
+PACKAGE	springframework roo addon maven
+MTHSIG2	getprojectroot project root
+MTHSIG3	createproject create project template template javapackage toplevelpackage top level projectname project integer majorjavaversion major version
+VARIABLES	metadataservice metadata service projectmetadataprovider project metadata provider filemanager file manager pathresolver path resolver applicationcontextoperations application context operations addonjumpstartoperations add jumpstart operations template toplevelpackage top level projectname project majorjavaversion major version logger filemanager file manager pathresolver path resolver metadataservice metadata service applicationcontextoperations application context operations addonjumpstartoperations add jumpstart operations templateinputstream template input stream ver packagename lastindex pom rootelement root element versionelements version elements pommutablefile pom mutable file

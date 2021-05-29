@@ -1,0 +1,158 @@
+MTHSIG28	getproviderxpath provider path ormprovider orm provider provider
+MTHSIG29	getproviderxpath provider path list ormprovider orm provider ormproviders orm providers
+MTHSIG26	getdbxpath path jdbcdatabase jdbc database jdbcdatabase jdbc database
+MTHSIG27	getdbxpath path list jdbcdatabase jdbc database databases
+MTHSIG24	cleanup element configuration ormprovider orm provider ormprovider orm provider jdbcdatabase jdbc database jdbcdatabase jdbc database
+MTHSIG25	removeartifacts remove artifacts xpathexpression path expression element root element configuration
+MTHSIG22	updateeclipseplugin update plugin addbuildcommand add build command
+MTHSIG23	updateeclipseplugin update plugin addbuildcommand add build command document pom mutablefile mutable file mutablefile mutable file
+MTHSIG4	getpersistencepath persistence path
+VARSIG78	jdbcdatabase jdbc database jdbcdatabase jdbc database
+MTHSIG5	getdatabasepropertiespath database properties path
+VARSIG77	ormprovider orm provider ormprovider orm provider
+MTHSIG6	configurejpa configure jpa ormprovider orm provider ormprovider orm provider jdbcdatabase jdbc database jdbcdatabase jdbc database jndi applicationid application hostname host databasename database username user password persistenceunit persistence unit
+VARSIG76	element configuration
+MTHSIG7	updateapplicationcontext update application context ormprovider orm provider ormprovider orm provider jdbcdatabase jdbc database jdbcdatabase jdbc database jndi persistenceunit persistence unit
+VARSIG75	filter filter
+MTHSIG0	isjpainstallationpossible jpa installation
+MTHSIG1	isjpainstalled jpa installed
+MTHSIG2	hasdatabaseproperties database properties
+MTHSIG3	getdatabaseproperties database properties
+VARSIG79	element resourceelement resource element
+MTHSIG20	updateresources update resources element configuration ormprovider orm provider ormprovider orm provider jdbcdatabase jdbc database jdbcdatabase jdbc database
+VARSIG70	element configuration
+MTHSIG21	updatebuildplugins update build plugins element configuration ormprovider orm provider ormprovider orm provider jdbcdatabase jdbc database jdbcdatabase jdbc database
+MTHSIG8	updatepersistencexml update persistence xml ormprovider orm provider ormprovider orm provider jdbcdatabase jdbc database jdbcdatabase jdbc database hostname host databasename database username user password persistenceunit persistence unit
+VARSIG74	element filterelement filter element
+MTHSIG9	getconnectionstring connection jdbcdatabase jdbc database jdbcdatabase jdbc database hostname host databasename database
+VARSIG73	element filterelement filter element
+VARSIG72	jdbcdatabase jdbc database jdbcdatabase jdbc database
+VARSIG71	ormprovider orm provider ormprovider orm provider
+METHODS	isjpainstallationpossible jpa installation isjpainstalled jpa installed hasdatabaseproperties database properties getdatabaseproperties database properties getpersistencepath persistence path getdatabasepropertiespath database properties path configurejpa configure jpa updateapplicationcontext update application context updatepersistencexml update persistence xml getconnectionstring connection updategaexml update gae xml updatedatabaseproperties update database properties updatevmforceconfigproperties update mforce config properties updatelog update log updatepomproperties update pom properties updatedependencies update dependencies getprojectname project updaterepositories update repositories updatepluginrepositories update plugin repositories updatefilters update filters updateresources update resources updatebuildplugins update build plugins updateeclipseplugin update plugin updateeclipseplugin update plugin cleanup removeartifacts remove artifacts getdbxpath path getdbxpath path getproviderxpath provider path getproviderxpath provider path createpropertyelement create property element createrefelement create element getpropertiesfromdatanucleusconfiguration properties data nucleus configuration
+VARSIG67	jdbcdatabase jdbc database jdbcdatabase jdbc database
+VARSIG66	ormprovider orm provider ormprovider orm provider
+VARSIG65	element configuration
+VARSIG64	element repositoryelement repository element
+VARSIG69	element pluginrepositoryelement plugin repository element
+VARSIG110	ormprovider orm provider provider
+VARSIG68	element pluginrepositoryelement plugin repository element
+VARSIG111	list ormprovider orm provider ormproviders orm providers
+MTHSIG31	createrefelement create element document doc
+VARSIG112	
+MTHSIG32	getpropertiesfromdatanucleusconfiguration properties data nucleus configuration
+VARSIG113	
+VARSIG114	document doc
+MTHSIG30	createpropertyelement create property element document doc
+VARSIG115	
+VARSIG63	element repositoryelement repository element
+VARSIG116	
+VARSIG62	element repositoryelement repository element
+VARSIG117	document doc
+VARSIG61	jdbcdatabase jdbc database jdbcdatabase jdbc database
+VARSIG118	exception
+VARSIG60	ormprovider orm provider ormprovider orm provider
+VARSIG119	element propertyelement property element
+COMMENTS	jpa configuration operations parse configuration xml file remove unnecessary artifacts specific current database jpa provider checking existence configurations abort set attributes datanuclueus data nuclueus gae specific requirements add provider element add properties roo roo roo oracle connection url roo hard coded jpa hibernate validator add dependencies pom xml add repositories pom xml add plugin repositories pom xml remove unwanted dependencies remove unwanted filters remove unwanted plugins required properties ignore elements
+VARSIG19	password
+VARSIG18	username user
+VARSIG17	databasename database
+VARSIG12	persistenceunit persistence unit
+VARSIG11	jndi
+VARSIG99	xpathexpression path expression
+VARSIG10	jdbcdatabase jdbc database jdbcdatabase jdbc database
+VARSIG98	ormprovider orm provider provider
+VARSIG97	jdbcdatabase jdbc database database
+VARSIG16	hostname host
+VARSIG15	jdbcdatabase jdbc database jdbcdatabase jdbc database
+VARSIG14	ormprovider orm provider ormprovider orm provider
+VARSIG13	exception
+VARSIG92	mutablefile mutable file mutablefile mutable file
+VARSIG91	document pom
+VARSIG90	addbuildcommand add build command
+VARSIG96	exception
+VARSIG95	jdbcdatabase jdbc database jdbcdatabase jdbc database
+VARSIG94	ormprovider orm provider ormprovider orm provider
+VARSIG93	element configuration
+MTHSIG17	updaterepositories update repositories element configuration ormprovider orm provider ormprovider orm provider jdbcdatabase jdbc database jdbcdatabase jdbc database
+MTHSIG18	updatepluginrepositories update plugin repositories element configuration ormprovider orm provider ormprovider orm provider jdbcdatabase jdbc database jdbcdatabase jdbc database
+MTHSIG15	updatedependencies update dependencies element configuration ormprovider orm provider ormprovider orm provider jdbcdatabase jdbc database jdbcdatabase jdbc database
+MTHSIG16	getprojectname project
+MTHSIG13	updatelog update log ormprovider orm provider ormprovider orm provider
+MTHSIG14	updatepomproperties update pom properties element configuration ormprovider orm provider ormprovider orm provider jdbcdatabase jdbc database jdbcdatabase jdbc database
+MTHSIG11	updatedatabaseproperties update database properties ormprovider orm provider ormprovider orm provider jdbcdatabase jdbc database jdbcdatabase jdbc database hostname host databasename database username user password
+MTHSIG12	updatevmforceconfigproperties update mforce config properties ormprovider orm provider ormprovider orm provider jdbcdatabase jdbc database jdbcdatabase jdbc database username user password
+MTHSIG19	updatefilters update filters element configuration ormprovider orm provider ormprovider orm provider jdbcdatabase jdbc database jdbcdatabase jdbc database
+VARSIG89	exception
+VARSIG88	addbuildcommand add build command
+VARSIG87	plugin buildplugin build plugin
+VARSIG86	element pluginelement plugin element
+VARSIG81	resource resource
+MTHSIG10	updategaexml update gae xml ormprovider orm provider ormprovider orm provider jdbcdatabase jdbc database jdbcdatabase jdbc database applicationid application
+VARSIG80	element resourceelement resource element
+VARIABLES	ormprovider orm provider jdbcdatabase jdbc database jndi applicationid application hostname host databasename database username user password persistenceunit persistence unit ormprovider orm provider jdbcdatabase jdbc database jndi persistenceunit persistence unit ormprovider orm provider jdbcdatabase jdbc database hostname host databasename database username user password persistenceunit persistence unit jdbcdatabase jdbc database hostname host databasename database ormprovider orm provider jdbcdatabase jdbc database applicationid application ormprovider orm provider jdbcdatabase jdbc database hostname host databasename database username user password ioe ormprovider orm provider jdbcdatabase jdbc database username user password ioe ormprovider orm provider ioe configuration ormprovider orm provider jdbcdatabase jdbc database property property configuration ormprovider orm provider jdbcdatabase jdbc database dependencyelement dependency element dependencyelement dependency element dependencyelement dependency element dependencyelement dependency element configuration ormprovider orm provider jdbcdatabase jdbc database repositoryelement repository element repositoryelement repository element repositoryelement repository element configuration ormprovider orm provider jdbcdatabase jdbc database pluginrepositoryelement plugin repository element pluginrepositoryelement plugin repository element configuration ormprovider orm provider jdbcdatabase jdbc database filterelement filter element filterelement filter element filter configuration ormprovider orm provider jdbcdatabase jdbc database resourceelement resource element resourceelement resource element resource configuration ormprovider orm provider jdbcdatabase jdbc database pluginelement plugin element pluginelement plugin element buildplugin build plugin addbuildcommand add build command addbuildcommand add build command pom mutablefile mutable file configuration ormprovider orm provider jdbcdatabase jdbc database database provider xpathexpression path expression root configuration candidate dependencyelement dependency element candidate filterelement filter element candidate pluginelement plugin element jdbcdatabase jdbc database databases provider ormproviders orm providers doc doc propertyelement property element persistence unit gae persistence unit persistence unit filemanager file manager metadataservice metadata service projectoperations project operations propfileoperations prop file operations configuration contextpath context path contextmutablefile context mutable file appctx app ctx root datasource data source datasourcejndi data source jndi validationqueryelement validation query element testonborrowelement test borrow element transactionmanager transaction manager qualifier aspectjtxmanager aspect manager entitymanagerfactory entity manager factory persistencepath persistence path persistencemutablefile persistence mutable file persistence templateinputstream template input stream dialects dialectsinputstream dialects input stream root persistenceelement persistence element persistenceunitelement persistence unit element provider properties hbm dll hbm dll connectionstring connection projectmetadata project metadata connectionstring connection projectmetadata project metadata dbdelimiter delimiter pathresolver path resolver appenginepath appengine path appenginepathexists appengine path exists loggingpropertiespath logging properties path loggingpropertiespathexists logging properties path exists appenginemutablefile appengine mutable file appengine templateinputstream template input stream rootelement root element applicationelement application element templateinputstream template input stream databasepath database path databaseexists database exists databasemutablefile database mutable file props templateinputstream template input stream connectionstring connection outputstream output stream configpath config path configexists config exists configmutablefile config mutable file props templateinputstream template input stream outputstream output stream log jpath log path log jmutablefile log mutable file props dnkey key outputstream output stream outputstream output stream databaseproperties database properties providerproperties provider properties dependencies databasedependencies database dependencies ormdependencies orm dependencies jpadependencies jpa dependencies springdependencies spring dependencies repositories databaserepositories database repositories ormrepositories orm repositories jparepositories jpa repositories pluginrepositories plugin repositories databasepluginrepositories database plugin repositories ormpluginrepositories orm plugin repositories filters databasefilters database filters ormfilters orm filters resources databaseresources database resources ormresources orm resources buildplugins build plugins databaseplugins database plugins ormplugins orm plugins pompath pom path mutablefile mutable file pom root gaebuildcommandname gae build command additionalbuildcommandselement additional buildcommands element buildcommandelement build command element nameelement element pompath pom path mutablefile mutable file pom root databases ormproviders orm providers dependencieselement dependencies element filterselement filters element pluginselement plugins element builder builder property property persistencexmlpath persistence xml path filedetails file details document builder propertyelements property elements properties key
+VARSIG85	element pluginelement plugin element
+VARSIG84	jdbcdatabase jdbc database jdbcdatabase jdbc database
+VARSIG83	ormprovider orm provider ormprovider orm provider
+VARSIG82	element configuration
+VARSIG39	ormprovider orm provider ormprovider orm provider
+VARSIG34	databasename database
+VARSIG33	hostname host
+VARSIG32	jdbcdatabase jdbc database jdbcdatabase jdbc database
+VARSIG31	ormprovider orm provider ormprovider orm provider
+VARSIG38	ioexception exception ioe
+VARSIG37	ioexception exception
+PACKAGE	springframework roo addon jpa
+VARSIG36	password
+VARSIG35	username user
+VARSIG30	ioexception exception
+CLASSES	jpaoperationsimpl jpa operations impl
+VARSIG29	exception
+VARSIG28	applicationid application
+VARSIG23	jdbcdatabase jdbc database jdbcdatabase jdbc database
+VARSIG22	exception
+VARSIG21	exception
+VARSIG20	persistenceunit persistence unit
+VARSIG27	jdbcdatabase jdbc database jdbcdatabase jdbc database
+VARSIG26	ormprovider orm provider ormprovider orm provider
+VARSIG25	databasename database
+VARSIG24	hostname host
+VARSIG7	password
+VARSIG109	list jdbcdatabase jdbc database databases
+VARSIG6	username user
+VARSIG9	ormprovider orm provider ormprovider orm provider
+VARSIG8	persistenceunit persistence unit
+VARSIG3	applicationid application
+VARSIG2	jndi
+VARSIG5	databasename database
+VARSIG4	hostname host
+VARSIG1	jdbcdatabase jdbc database jdbcdatabase jdbc database
+VARSIG0	ormprovider orm provider ormprovider orm provider
+VARSIG56	element dependencyelement dependency element
+VARSIG55	element dependencyelement dependency element
+VARSIG54	jdbcdatabase jdbc database jdbcdatabase jdbc database
+VARSIG53	ormprovider orm provider ormprovider orm provider
+VARSIG59	element configuration
+VARSIG58	element dependencyelement dependency element
+VARSIG57	element dependencyelement dependency element
+VARSIG100	element root
+VARSIG101	element configuration
+VARSIG102	element candidate
+VARSIG103	element dependencyelement dependency element
+VARSIG104	element candidate
+VARSIG52	element configuration
+VARSIG105	element filterelement filter element
+VARSIG51	element property
+VARSIG106	element candidate
+VARSIG50	element property
+VARSIG107	element pluginelement plugin element
+VARSIG108	jdbcdatabase jdbc database jdbcdatabase jdbc database
+VARSIG45	ormprovider orm provider ormprovider orm provider
+VARSIG44	ioexception exception
+VARSIG43	ioexception exception ioe
+VARSIG42	password
+VARSIG49	jdbcdatabase jdbc database jdbcdatabase jdbc database
+VARSIG48	ormprovider orm provider ormprovider orm provider
+VARSIG47	element configuration
+VARSIG46	ioexception exception ioe
+VARSIG41	username user
+VARSIG40	jdbcdatabase jdbc database jdbcdatabase jdbc database

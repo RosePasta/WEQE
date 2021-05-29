@@ -1,0 +1,64 @@
+MTHSIG28	initializeimportedkeys initialize imported table table
+MTHSIG29	initializeindices initialize indices table table
+MTHSIG26	init
+MTHSIG27	initializeexportedkeys initialize exported table table
+MTHSIG24	settestautomatically set test automatically testautomatically test automatically
+MTHSIG25	tostring
+MTHSIG22	setrepository set repository repository
+MTHSIG23	setservice set service service
+MTHSIG4	gettable table schemaname schema
+MTHSIG5	gettables tables
+MTHSIG6	hashcode hash code
+MTHSIG7	hasmultipleschemas multiple schemas
+MTHSIG0	database set table tables
+MTHSIG1	equals object obj
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	getdestinationpackage destination
+MTHSIG3	getmodulename module
+MTHSIG20	setincludenonportableattributes set include portable attributes includenonportableattributes include portable attributes
+MTHSIG21	setmodulename set module modulename module
+MTHSIG8	hastables tables
+MTHSIG9	isactiverecord active record
+CLASSES	database
+METHODS	database equals getdestinationpackage destination getmodulename module gettable table gettables tables hashcode hash code hasmultipleschemas multiple schemas hastables tables isactiverecord active record isdisablegeneratedidentifiers disable generated identifiers isdisableversionfields disable version fields isincludenonportableattributes include portable attributes isrepository repository isservice service istestautomatically test automatically setactiverecord set active record setdestinationpackage set destination setdisablegeneratedidentifiers set disable generated identifiers setdisableversionfields set disable version fields setincludenonportableattributes set include portable attributes setmodulename set module setrepository set repository setservice set service settestautomatically set test automatically tostring init initializeexportedkeys initialize exported initializeimportedkeys initialize imported initializeindices initialize indices initializejointable initialize join table
+VARSIG23	reference reference
+VARSIG22	foreignkey foreign key foreignkey foreign key
+VARSIG21	map entry column set foreignkey foreign key entryset entry set
+VARSIG20	reference reference
+VARSIG27	table table
+VARSIG26	indexcolumn column indexcolumn column
+VARSIG25	
+VARSIG24	table table
+MTHSIG30	initializejointable initialize join table table table
+VARSIG7	disablegeneratedidentifiers disable generated identifiers
+VARSIG6	javapackage destinationpackage destination
+VARSIG9	includenonportableattributes include portable attributes
+VARSIG8	disableversionfields disable version fields
+VARSIG3	schemaname schema
+VARSIG2	
+VARSIG5	activerecord active record
+VARSIG4	table table
+COMMENTS	represents database model tables database generate active record crud methods entity javapackage entities created disable identifier auto generation disable version fields included portable jpa attributes column annotation module entities created database multiple schemas generate repository layer entity generate service layer entity tables create integration tests constructor tables required active record crud methods generated entity sets active record crud methods generated entity activerecord active record initializes model establishing relationships elements model foreign mark repeated columns insertable updatable determines table join table identified join table table primary foreign pointing entity tables columns
+VARSIG19	foreignkey foreign key foreignkey foreign key
+VARSIG1	object obj
+VARSIG18	table table
+VARSIG0	set table tables
+VARSIG17	reference reference
+VARSIG12	service
+VARSIG11	repository
+VARSIG10	modulename module
+VARSIG16	foreignkey foreign key exportedkey exported key
+VARSIG15	table table
+VARSIG14	table table
+VARSIG13	testautomatically test automatically
+MTHSIG17	setdestinationpackage set destination javapackage destinationpackage destination
+MTHSIG18	setdisablegeneratedidentifiers set disable generated identifiers disablegeneratedidentifiers disable generated identifiers
+MTHSIG15	istestautomatically test automatically
+MTHSIG16	setactiverecord set active record activerecord active record
+MTHSIG13	isrepository repository
+MTHSIG14	isservice service
+MTHSIG11	isdisableversionfields disable version fields
+MTHSIG12	isincludenonportableattributes include portable attributes
+MTHSIG19	setdisableversionfields set disable version fields disableversionfields disable version fields
+MTHSIG10	isdisablegeneratedidentifiers disable generated identifiers
+VARIABLES	tables obj schemaname schema table activerecord active record destinationpackage destination disablegeneratedidentifiers disable generated identifiers disableversionfields disable version fields includenonportableattributes include portable attributes modulename module repository service testautomatically test automatically table table exportedkey exported key reference table foreignkey foreign key reference entryset entry set foreignkey foreign key reference table indexcolumn column table activerecord active record destinationpackage destination disablegeneratedidentifiers disable generated identifiers disableversionfields disable version fields includenonportableattributes include portable attributes modulename module multipleschemas multiple schemas repository service tables testautomatically test automatically prime result schemas keysequencemap key sequence map keysequence key sequence foreigntablename foreign table foreignschemaname foreign schema targettable target table localcolumn local column foreigncolumn foreign column keysequencemap key sequence map keysequence key sequence repeatedcolumns repeated columns foreigntablename foreign table foreignschemaname foreign schema targettable target table localcolumn local column fkset set foreigncolumn foreign column foreignkeys foreign column equals iter column

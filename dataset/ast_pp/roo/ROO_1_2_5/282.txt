@@ -1,0 +1,89 @@
+VARSIG39	clioption cli option key versiontype version type mandatory optioncontext option context lang project unspecifieddefaultvalue unspecified lang integer data type jpa version field defaults lang integer javatype type versiontype version type
+MTHSIG4	hasdatabaseproperties database properties
+VARSIG34	clioption cli option key identifierfield identifier field mandatory jpa identifier field entity identifierfield identifier field
+MTHSIG5	installjpa install jpa ormprovider orm provider ormprovider orm provider jdbcdatabase jdbc database jdbcdatabase jdbc database applicationid application jndi hostname host databasename database username user password transactionmanager transaction manager persistenceunit persistence unit
+VARSIG33	clioption cli option key catalog mandatory jpa table catalog entity catalog
+MTHSIG6	installpersistence install persistence ormprovider orm provider ormprovider orm provider jdbcdatabase jdbc database jdbcdatabase jdbc database applicationid application jndi hostname host databasename database username user password transactionmanager transaction manager persistenceunit persistence unit
+VARSIG32	clioption cli option key schema mandatory jpa table schema entity schema
+MTHSIG7	isjpasetupavailable jpa setup
+VARSIG31	clioption cli option key table mandatory jpa table entity table
+MTHSIG0	createembeddableclass create embeddable javatype type serializable permitreservedwords permit reserved
+VARSIG38	clioption cli option key versioncolumn version column mandatory jpa version field column entity versioncolumn version column
+MTHSIG1	databaseproperties database properties
+VARSIG37	clioption cli option key versionfield version field mandatory jpa version field entity versionfield version field
+PACKAGE	springframework roo addon jpa
+MTHSIG2	databaseremove database remove key
+VARSIG36	clioption cli option key identifiertype identifier type mandatory optioncontext option context lang project unspecifieddefaultvalue unspecified lang specifieddefaultvalue lang data type jpa identifier field defaults lang javatype type identifiertype identifier type
+MTHSIG3	databaseset database set key
+VARSIG35	clioption cli option key identifiercolumn identifier column mandatory jpa identifier field column entity identifiercolumn identifier column
+MTHSIG8	ispersistentclassavailable persistent
+VARSIG30	clioption cli option key testautomatically test automatically mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified create automatic integration tests entity testautomatically test automatically
+MTHSIG9	newpersistenceclassjpa persistence jpa javatype type javatype type superclass javatype type implementstype type createabstract create testautomatically test automatically table schema catalog identifierfield identifier field identifiercolumn identifier column javatype type identifiertype identifier type versionfield version field versioncolumn version column javatype type versiontype version type inheritancetype inheritance type inheritancetype inheritance type mappedsuperclass mapped superclass equals serializable persistenceunit persistence unit transactionmanager transaction manager permitreservedwords permit reserved entityname entity sequencename sequence activerecord active record
+CLASSES	jpacommands jpa commands
+VARSIG29	clioption cli option key mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified generated marked createabstract create
+VARSIG28	clioption cli option key mandatory optioncontext option context implement javatype type implementstype type
+METHODS	createembeddableclass create embeddable databaseproperties database properties databaseremove database remove databaseset database set hasdatabaseproperties database properties installjpa install jpa installpersistence install persistence isjpasetupavailable jpa setup ispersistentclassavailable persistent newpersistenceclassjpa persistence jpa activate deactivate getentityannotationbuilder entity annotation builder getentityannotationtype entity annotation type isjdk orhigher jdk higher
+VARSIG23	clioption cli option key password mandatory password password
+VARSIG67	activerecord active record
+VARSIG22	clioption cli option key username user mandatory username username user
+VARSIG66	sequencename sequence
+VARSIG21	clioption cli option key databasename database mandatory database databasename database
+VARSIG65	entityname entity
+VARSIG20	clioption cli option key hostname host mandatory host hostname host
+VARSIG64	transactionmanager transaction manager
+VARSIG27	clioption cli option key mandatory unspecifieddefaultvalue unspecified lang object optioncontext option context superclass superclass defaults lang object javatype type superclass
+VARSIG26	clioption cli option key optioncontext option context update project mandatory entity create javatype type
+VARSIG25	clioption cli option key persistenceunit persistence unit mandatory persistence unit persistence xml file persistenceunit persistence unit
+VARSIG24	clioption cli option key transactionmanager transaction manager mandatory transaction manager transactionmanager transaction manager
+VARSIG68	activerecord active record
+VARSIG63	persistenceunit persistence unit
+VARSIG62	mappedsuperclass mapped superclass
+VARSIG61	inheritancetype inheritance type inheritancetype inheritance type
+VARSIG60	javatype type versiontype version type
+VARSIG7	clioption cli option key database mandatory database support jdbcdatabase jdbc database jdbcdatabase jdbc database
+VARSIG6	clioption cli option key provider mandatory persistence provider support ormprovider orm provider ormprovider orm provider
+VARSIG9	clioption cli option key jndidatasource jndi data source mandatory jndi datasource jndi
+VARSIG8	clioption cli option key applicationid application mandatory unspecifieddefaultvalue unspecified project project google app engine application identifier applicationid application
+VARSIG3	clioption cli option key key mandatory property key removed key
+VARSIG2	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+VARSIG5	clioption cli option key mandatory vale property key
+VARSIG4	clioption cli option key key mandatory property key changed key
+COMMENTS	commands jpa add roo shell can test reject attempts entity test clashes data demand roo happen user insists permitreservedwords permit reserved roo create entity entity annotations produce entity create entity identifier required returns builder entity annotation newly created jpa entity table schema catalog identifierfield identifier field identifiercolumn identifier column identifiertype identifier type versionfield version field versioncolumn version column versiontype version type inheritancetype inheritance type mappedsuperclass mapped superclass persistenceunit persistence unit transactionmanager transaction manager entityname entity sequencename sequence activerecord active record generate active record crud methods entity builder attributes apply jpa entities active record attributes apply entities crud active record methods returns type annotation entity activerecord active record entity crud active record methods generated type
+VARSIG19	clioption cli option key jndidatasource jndi data source mandatory jndi datasource jndi
+VARSIG1	clioption cli option key serializable mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue generated implement serializable serializable
+VARSIG18	clioption cli option key applicationid application mandatory unspecifieddefaultvalue unspecified project project google app engine application identifier applicationid application
+VARSIG0	clioption cli option key optioncontext option context update project mandatory create javatype type
+VARSIG17	clioption cli option key database mandatory database support jdbcdatabase jdbc database jdbcdatabase jdbc database
+VARSIG12	clioption cli option key username user mandatory username username user
+VARSIG56	identifiercolumn identifier column
+VARSIG11	clioption cli option key databasename database mandatory database databasename database
+VARSIG55	identifierfield identifier field
+VARSIG10	clioption cli option key hostname host mandatory host hostname host
+VARSIG54	catalog
+VARSIG53	schema
+VARSIG16	clioption cli option key provider mandatory persistence provider support ormprovider orm provider ormprovider orm provider
+VARSIG15	clioption cli option key persistenceunit persistence unit mandatory persistence unit persistence xml file persistenceunit persistence unit
+VARSIG59	versioncolumn version column
+VARSIG14	clioption cli option key transactionmanager transaction manager mandatory transaction manager transactionmanager transaction manager
+VARSIG58	versionfield version field
+VARSIG13	clioption cli option key password mandatory password password
+VARSIG57	javatype type identifiertype identifier type
+VARSIG52	table
+VARSIG51	componentcontext component context context
+VARSIG50	componentcontext component context context
+MTHSIG13	getentityannotationtype entity annotation type activerecord active record
+MTHSIG14	isjdk orhigher jdk higher
+MTHSIG11	deactivate componentcontext component context context
+MTHSIG12	getentityannotationbuilder entity annotation builder table schema catalog identifierfield identifier field identifiercolumn identifier column javatype type identifiertype identifier type versionfield version field versioncolumn version column javatype type versiontype version type inheritancetype inheritance type inheritancetype inheritance type mappedsuperclass mapped superclass persistenceunit persistence unit transactionmanager transaction manager entityname entity sequencename sequence activerecord active record
+VARSIG45	clioption cli option key transactionmanager transaction manager mandatory transaction manager transactionmanager transaction manager
+VARSIG44	clioption cli option key persistenceunit persistence unit mandatory persistence unit persistence xml file persistenceunit persistence unit
+VARSIG43	clioption cli option key serializable mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue generated implement serializable serializable
+VARSIG42	clioption cli option key equals mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue generated implement equals hashcode hash code methods equals
+VARSIG49	clioption cli option key activerecord active record mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified generate crud active record methods entity activerecord active record
+VARSIG48	clioption cli option key sequencename sequence mandatory sequence incrementing sequence driven primary sequencename sequence
+VARSIG47	clioption cli option key entityname entity mandatory refer entity queries entityname entity
+VARSIG46	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+MTHSIG10	activate componentcontext component context context
+VARIABLES	serializable permitreservedwords permit reserved key key ormprovider orm provider jdbcdatabase jdbc database applicationid application jndi hostname host databasename database username user password transactionmanager transaction manager persistenceunit persistence unit ormprovider orm provider jdbcdatabase jdbc database applicationid application jndi hostname host databasename database username user password transactionmanager transaction manager persistenceunit persistence unit superclass implementstype type createabstract create testautomatically test automatically table schema catalog identifierfield identifier field identifiercolumn identifier column identifiertype identifier type versionfield version field versioncolumn version column versiontype version type inheritancetype inheritance type mappedsuperclass mapped superclass equals serializable persistenceunit persistence unit transactionmanager transaction manager permitreservedwords permit reserved entityname entity sequencename sequence activerecord active record context context table schema catalog identifierfield identifier field identifiercolumn identifier column identifiertype identifier type versionfield version field versioncolumn version column versiontype version type inheritancetype inheritance type mappedsuperclass mapped superclass persistenceunit persistence unit transactionmanager transaction manager entityname entity sequencename sequence activerecord active record activerecord active record logger roo equals builder roo bean builder roo serializable builder roo builder integrationtestoperations integration test operations jpaoperations jpa operations projectoperations project operations propfileoperations prop file operations staticfieldconverter field converter annotationbuilder annotation builder entityannotationbuilder entity annotation builder ver
+VARSIG41	clioption cli option key mappedsuperclass mapped superclass mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified apply mappedsuperclass mapped superclass entity mappedsuperclass mapped superclass
+VARSIG40	clioption cli option key inheritancetype inheritance type mandatory jpa inheritance apply base inheritancetype inheritance type inheritancetype inheritance type

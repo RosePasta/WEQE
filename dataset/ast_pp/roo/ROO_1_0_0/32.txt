@@ -1,0 +1,21 @@
+VARSIG7	clioption cli option key mandatory create javatype type typename type
+VARSIG6	clioption cli option key mandatory unspecifieddefaultvalue unspecified optioncontext option context update project receive field javatype type typename type
+VARSIG9	clioption cli option key destinationtype destination type mandatory unspecifieddefaultvalue unspecified queue specifieddefaultvalue queue type destination jmsdestinationtype jms destination type type
+VARSIG8	clioption cli option key destinationname destination mandatory unspecifieddefaultvalue unspecified mydestination destination specifieddefaultvalue mydestination destination destination
+VARSIG3	clioption cli option key destinationname destination mandatory unspecifieddefaultvalue unspecified mydestination destination specifieddefaultvalue mydestination destination destination
+VARSIG2	clioption cli option key provider mandatory persistence provider support jmsprovider jms provider jmsprovider jms provider
+VARSIG5	clioption cli option key fieldname field mandatory specifieddefaultvalue jmstemplate jms template unspecifieddefaultvalue unspecified jmstemplate jms template field add javasymbolname symbol fieldname field
+VARSIG4	clioption cli option key destinationtype destination type mandatory unspecifieddefaultvalue unspecified queue specifieddefaultvalue queue type destination jmsdestinationtype jms destination type type
+COMMENTS	commands install jms add roo shell
+CLASSES	jmscommands jms commands
+VARSIG1	jmsoperations jms operations jmsoperations jms operations
+VARSIG0	staticfieldconverter field converter staticfieldconverter field converter
+METHODS	jmscommands jms commands isinstalljmsavailable install jms installjms install jms isinsertjmsavailable insert jms injectjmsproducer inject jms producer addjmslistener add jms listener
+MTHSIG4	injectjmsproducer inject jms producer javasymbolname symbol fieldname field javatype type typename type
+MTHSIG5	addjmslistener add jms listener javatype type typename type jmsdestinationtype jms destination type type
+MTHSIG0	jmscommands jms commands staticfieldconverter field converter staticfieldconverter field converter jmsoperations jms operations jmsoperations jms operations
+MTHSIG1	isinstalljmsavailable install jms
+PACKAGE	springframework roo addon jms
+MTHSIG2	installjms install jms jmsprovider jms provider jmsprovider jms provider jmsdestinationtype jms destination type type
+MTHSIG3	isinsertjmsavailable insert jms
+VARIABLES	staticfieldconverter field converter jmsoperations jms operations jmsprovider jms provider type fieldname field typename type typename type type jmsoperations jms operations

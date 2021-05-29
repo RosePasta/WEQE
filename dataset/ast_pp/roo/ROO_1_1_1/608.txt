@@ -1,0 +1,11 @@
+MTHSIG0	parse buffer
+VARSIG3	list candidates
+MTHSIG1	complete buffer cursor list candidates
+VARSIG2	cursor
+PACKAGE	springframework roo shell
+COMMENTS	link simpleparser simple parser
+CLASSES	parser
+VARIABLES	buffer buffer cursor candidates
+VARSIG1	buffer
+VARSIG0	buffer
+METHODS	parse complete

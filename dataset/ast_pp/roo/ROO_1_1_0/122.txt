@@ -1,0 +1,49 @@
+MTHSIG4	oncancel cancel
+MTHSIG5	onrangechanged range changed hasdata data listview list view
+MTHSIG6	onstop
+MTHSIG7	select entityproxyid entity proxy proxyid proxy
+MTHSIG0	abstractproxylistactivity proxy list activity placecontroller place controller placecontroller place controller proxylistview proxy list view view proxytype proxy type
+MTHSIG1	createclicked create clicked
+PACKAGE	top level client scaffold place
+MTHSIG2	getview view
+MTHSIG3	maystop
+MTHSIG8	start acceptsonewidget accepts widget display eventbus event bus eventbus event bus
+MTHSIG9	update writeoperation write operation writeoperation write operation entityproxyid entity proxy proxyid proxy
+CLASSES	abstractproxylistactivity proxy list activity
+METHODS	abstractproxylistactivity proxy list activity createclicked create clicked getview view maystop oncancel cancel onrangechanged range changed onstop select start update createrangerequest create range request firecountrequest fire count request showdetails details firerangerequest fire range request getlastpage init update updateselection update selection
+VARSIG23	list response
+VARSIG22	entityproxyid entity proxy proxyid proxy
+VARSIG21	response
+VARSIG20	response
+VARSIG24	place newplace place
+VARSIG7	entityproxyid entity proxy proxyid proxy
+VARSIG6	list values
+VARSIG9	eventbus event bus eventbus event bus
+VARSIG8	acceptsonewidget accepts widget display
+VARSIG3	rangechangeevent range change event event
+VARSIG2	proxytype proxy type
+VARSIG5	hasdata data listview list view
+VARSIG4	selectionchangeevent selection change event event
+COMMENTS	activity displaying list link entityproxy entity proxy activities usable stopped restarted subclasses provide link proxylistview proxy list view implement request full count implement find range entities respond details commands properties required view requested type link entityproxy entity proxy listed mapping update individual rows records change inherit view view key provider called table data activity dead needed select record clear selection called don selectionmodel selection model flash code simple clear selection select proxy relevant create presume record list fetch items called user chooses record view implementation sends link placecontroller place controller link proxyplace proxy place record chosen record activity dead activity dead
+VARSIG19	receiver list callback
+VARSIG1	proxylistview proxy list view view
+VARSIG18	range range
+VARSIG0	placecontroller place controller placecontroller place controller
+VARSIG17	proxyplace proxy place proxyplace proxy place
+VARSIG12	writeoperation write operation writeoperation write operation
+VARSIG11	placechangeevent place change event event
+VARSIG10	entityproxychange entity proxy change event
+VARSIG16	record
+VARSIG15	receiver callback
+VARSIG14	range range
+VARSIG13	entityproxyid entity proxy proxyid proxy
+MTHSIG17	update entityproxyid entity proxy proxyid proxy
+MTHSIG18	updateselection update selection place newplace place
+MTHSIG15	getlastpage
+MTHSIG16	init
+MTHSIG13	proxyplace proxy place proxyplace proxy place
+MTHSIG14	firerangerequest fire range request range range receiver list callback
+MTHSIG11	firecountrequest fire count request receiver callback
+MTHSIG12	showdetails details record
+MTHSIG10	createrangerequest create range request range range
+VARIABLES	placecontroller place controller view proxytype proxy type event event listview list view values proxyid proxy display eventbus event bus event event writeoperation write operation proxyid proxy range callback record proxyplace proxy place range callback response response proxyid proxy response newplace place idtorow row idtoproxy proxy placecontroller place controller selectionmodel selection model proxyclass proxy rangechangehandler range change handler view display hasdata data keyprovider key provider selectedobject selected object range callback row proxy proxyid proxy selected selectme select table rows pagesize size remnant row proxyplace proxy place

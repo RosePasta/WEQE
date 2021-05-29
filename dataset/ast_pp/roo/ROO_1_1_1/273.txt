@@ -1,0 +1,28 @@
+VARSIG7	path path
+VARSIG6	javatype type javatype type
+VARSIG9	javatype type controller
+VARSIG8	metadataid metadata
+VARSIG3	javatype type aspectname aspect
+VARSIG2	metadataidentificationstring metadata identification
+VARSIG5	itdfilename filename
+VARSIG4	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+COMMENTS	metadata provider link conversionservicemetadata conversion service metadata monitors notifications link rooconversionservice roo conversion service link roowebscaffold roo web scaffold annotated types listens scaffolded domain types domain types helper methods
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+MTHSIG4	getprovidestype type
+VARSIG12	javatypewrapper type wrapper domainjavatype domain type
+MTHSIG5	createlocalidentifier create local identifier javatype type javatype type path path
+VARSIG11	metadataid metadata
+MTHSIG6	getgovernorphysicaltypeidentifier governor physical type identifier metadataid metadata
+VARSIG10	linkedhashset linked hash set javatypewrapper type wrapper domainjavatypes domain types
+MTHSIG7	findformbackingobjecttypes find form backing object types
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo addon web mvc controller
+MTHSIG2	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+MTHSIG3	getitduniquenessfilenamesuffix uniqueness filename suffix
+VARSIG13	javatypewrapper type wrapper relatedtype type
+MTHSIG8	registerdependencies register dependencies linkedhashset linked hash set javatypewrapper type wrapper domainjavatypes domain types metadataid metadata
+CLASSES	conversionservicemetadataproviderimpl conversion service metadata provider impl
+METHODS	activate deactivate getmetadata metadata getitduniquenessfilenamesuffix uniqueness filename suffix getprovidestype type createlocalidentifier create local identifier getgovernorphysicaltypeidentifier governor physical type identifier findformbackingobjecttypes find form backing object types registerdependencies register dependencies
+VARIABLES	context context metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename javatype type path metadataid metadata controller domainjavatypes domain types metadataid metadata domainjavatype domain type relatedtype type logger typelocationservice type location service roojavatypes roo types javatype type path roowebscaffold roo web scaffold formbackingobjects form backing objects controllers annotation javatype type issuccessful successful relateddomaintypes domain types

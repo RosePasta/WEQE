@@ -1,0 +1,39 @@
+VARSIG7	fileidentifier file identifier
+VARSIG6	ioexception exception
+VARSIG9	ioexception exception
+VARSIG8	fileidentifier file identifier
+VARSIG3	fileidentifier file identifier
+VARSIG2	fileidentifier file identifier
+VARSIG5	fileidentifier file identifier
+VARSIG4	ioexception exception ioe
+COMMENTS	implementation link filemanager file manager acquire project metadata verify path exists ensure monitored root assume monitored processmanager process manager create directory notifications happen start monitoring explicitly perform scan directories monitor avoid operation validity verify file changed
+VARSIG19	ioexception exception ignoreandjustoverwriteit ignore overwrite
+VARSIG1	componentcontext component context context
+VARSIG18	newcontents contents
+VARSIG0	componentcontext component context context
+VARSIG17	fileidentifier file identifier
+MTHSIG4	createdirectory create directory fileidentifier file identifier
+VARSIG12	fileidentifier file identifier
+MTHSIG5	readfile read file fileidentifier file identifier
+VARSIG11	ioexception exception
+MTHSIG6	createfile create file fileidentifier file identifier
+VARSIG10	fileidentifier file identifier
+MTHSIG7	delete fileidentifier file identifier
+MTHSIG0	activate componentcontext component context context
+VARSIG16	antpath ant path
+MTHSIG1	deactivate componentcontext component context context
+VARSIG15	path
+PACKAGE	springframework roo process manager internal
+MTHSIG2	exists fileidentifier file identifier
+VARSIG14	downstreamdependency downstream dependency
+MTHSIG3	getinputstream input stream fileidentifier file identifier
+VARSIG13	upstreamdependency upstream dependency
+MTHSIG8	updatefile update file fileidentifier file identifier
+MTHSIG9	notify upstreamdependency upstream dependency downstreamdependency downstream dependency
+MTHSIG11	scan
+MTHSIG12	createorupdatetextfileifrequired create update text file required fileidentifier file identifier newcontents contents
+CLASSES	defaultfilemanager file manager
+METHODS	activate deactivate exists getinputstream input stream createdirectory create directory readfile read file createfile create file delete updatefile update file notify findmatchingantpath find matching ant path scan createorupdatetextfileifrequired create update text file required
+VARSIG20	ioexception exception ioe
+MTHSIG10	findmatchingantpath find matching ant path antpath ant path
+VARIABLES	context context fileidentifier file identifier fileidentifier file identifier ioe fileidentifier file identifier fileidentifier file identifier fileidentifier file identifier fileidentifier file identifier fileidentifier file identifier upstreamdependency upstream dependency downstreamdependency downstream dependency antpath ant path fileidentifier file identifier newcontents contents ignoreandjustoverwriteit ignore overwrite ioe metadataservice metadata service undomanager undo manager filemonitorservice file monitor service metadatadependencyregistry metadata dependency registry pathsregistered paths registered filenameresolver filename resolver file actual filedetails file details actual parentdirectory parent directory renderer actual actual renderer pathresolver path resolver notifyon notify fileidentifier file identifier file request mutablefile mutable file existing

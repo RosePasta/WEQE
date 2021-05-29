@@ -1,0 +1,16 @@
+VARSIG3	psoptions options
+VARSIG2	object obj
+COMMENTS	display formats felix command
+CLASSES	psoptions options
+VARSIG1	felixcode felix code
+VARSIG0	key
+METHODS	psoptions options getfelixcode felix code getkey key hashcode hash code equals compareto compare tostring
+MTHSIG4	equals object obj
+MTHSIG5	compareto compare psoptions options
+MTHSIG6	tostring
+MTHSIG0	psoptions options key felixcode felix code
+MTHSIG1	getfelixcode felix code
+PACKAGE	springframework roo felix
+MTHSIG2	getkey key
+MTHSIG3	hashcode hash code
+VARIABLES	key felixcode felix code obj key felixcode felix code bundle symbolic location path update path result tsc

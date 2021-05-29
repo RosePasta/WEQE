@@ -1,0 +1,16 @@
+VARSIG6	javatype type domaintype domain type
+VARSIG3	javatype type domaintype domain type
+VARSIG2	javatype type interfacetype type
+VARSIG5	javatype type classtype type
+VARSIG4	javatype type interfacetype type
+COMMENTS	link serviceoperations service operations implementation type exists type exists
+CLASSES	serviceoperationsimpl service operations impl
+VARSIG1	javatype type classtype type
+VARSIG0	javatype type interfacetype type
+METHODS	createserviceclass create service createserviceinterface create service isserviceinstallationpossible service installation setupservice setup service
+MTHSIG0	createserviceclass create service javatype type interfacetype type javatype type classtype type
+MTHSIG1	createserviceinterface create service javatype type interfacetype type javatype type domaintype domain type
+PACKAGE	springframework roo addon layers service
+MTHSIG2	isserviceinstallationpossible service installation
+MTHSIG3	setupservice setup service javatype type interfacetype type javatype type classtype type javatype type domaintype domain type
+VARIABLES	interfacetype type classtype type interfacetype type domaintype domain type interfacetype type classtype type domaintype domain type filemanager file manager pathresolver path resolver projectoperations project operations typemanagementservice type management service classidentifier identifier classmid mid classtypebuilder type builder interfaceidentifier identifier interfaceannotationmetadata annotation metadata interfacemid mid interfacetypebuilder type builder

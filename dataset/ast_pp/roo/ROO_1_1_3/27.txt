@@ -1,0 +1,43 @@
+VARSIG7	table table
+VARSIG6	includenonportableattributes include portable attributes
+VARSIG9	foreignkey foreign key foreignkey foreign key
+VARSIG8	table table
+VARSIG3	table table
+VARSIG2	
+VARSIG5	testautomatically test automatically
+VARSIG4	javapackage destinationpackage destination
+COMMENTS	represents database model tables database database model defaults catalog schema tables javapackage entities created create integration tests included portable jpa attribues column annotation initialises model establishing relationships elements model foreign mark repeated columns insertable updatable determines table join table identified join table table primary foreign pointing entity tables columns
+VARSIG19	indexcolumn column indexcolumn column
+VARSIG1	set table tables
+VARSIG18	
+VARSIG0	
+VARSIG17	table table
+MTHSIG4	hastables tables
+VARSIG12	foreignkey foreign key foreignkey foreign key
+MTHSIG5	gettable table
+VARSIG11	map entry column set foreignkey foreign key entryset entry set
+MTHSIG6	getdestinationpackage destination
+VARSIG10	reference reference
+MTHSIG7	setdestinationpackage set destination javapackage destinationpackage destination
+MTHSIG0	database set table tables
+VARSIG16	reference reference
+MTHSIG1	getname
+VARSIG15	foreignkey foreign key exportedkey exported key
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	getschema schema
+VARSIG14	table table
+MTHSIG3	gettables tables
+VARSIG13	reference reference
+MTHSIG8	istestautomatically test automatically
+MTHSIG9	settestautomatically set test automatically testautomatically test automatically
+MTHSIG15	initializeindices initialize indices table table
+MTHSIG16	initializejointable initialize join table table table
+MTHSIG13	initializeimportedkeys initialize imported table table
+MTHSIG14	initializeexportedkeys initialize exported table table
+MTHSIG11	setincludenonportableattributes set include portable attributes includenonportableattributes include portable attributes
+MTHSIG12	initialize
+CLASSES	database
+METHODS	database getname getschema schema gettables tables hastables tables gettable table getdestinationpackage destination setdestinationpackage set destination istestautomatically test automatically settestautomatically set test automatically isincludenonportableattributes include portable attributes setincludenonportableattributes set include portable attributes initialize initializeimportedkeys initialize imported initializeexportedkeys initialize exported initializeindices initialize indices initializejointable initialize join table
+VARSIG20	table table
+MTHSIG10	isincludenonportableattributes include portable attributes
+VARIABLES	tables table destinationpackage destination testautomatically test automatically includenonportableattributes include portable attributes table table foreignkey foreign key reference entryset entry set foreignkey foreign key reference table exportedkey exported key reference table indexcolumn column table serialversionuid serial version uid tables destinationpackage destination testautomatically test automatically includenonportableattributes include portable attributes keysequencemap key sequence map keysequence key sequence repeatedcolumns repeated columns foreigntablename foreign table targettable target table localcolumn local column fkset set foreigncolumn foreign column foreignkeys foreign reference keysequencemap key sequence map keysequence key sequence foreigntablename foreign table targettable target table localcolumn local column foreigncolumn foreign column column equals iter column

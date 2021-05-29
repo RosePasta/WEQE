@@ -1,0 +1,10 @@
+MTHSIG0	getoptioncontext option context
+MTHSIG1	setoptioncontext set option context optioncontext option context
+PACKAGE	springframework roo shell
+MTHSIG2	resetoptioncontext reset option context
+MTHSIG3	clioptioncontext cli option context
+COMMENTS	utility methods relating shell option contexts fields returns option context current thread set stores option context current thread optioncontext option context option context store resets option context current thread constructor prevent instantiation
+CLASSES	clioptioncontext cli option context
+VARIABLES	optioncontext option context optioncontextholder option context holder
+VARSIG0	optioncontext option context
+METHODS	getoptioncontext option context setoptioncontext set option context resetoptioncontext reset option context clioptioncontext cli option context

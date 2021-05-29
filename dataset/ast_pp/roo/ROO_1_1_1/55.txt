@@ -1,0 +1,71 @@
+MTHSIG28	findexportedkeybylocalcolumnname find exported key local column localcolumnname local column
+MTHSIG29	getindices indices
+MTHSIG26	addexportedkeys add exported set foreignkey foreign key exportedkeys exported
+MTHSIG27	addexportedkey add exported key foreignkey foreign key exportedkey exported key
+MTHSIG24	getexportedkeycount exported key count
+MTHSIG25	getexportedkeycountbyforeigntablename exported key count foreign table foreigntablename foreign table
+MTHSIG22	findimportedkeybylocalcolumnname find imported key local column localcolumnname local column
+MTHSIG23	getexportedkeys exported
+MTHSIG4	setschema set schema schema schema
+MTHSIG5	getname
+MTHSIG6	setname set
+MTHSIG7	getdescription description
+MTHSIG0	table
+MTHSIG1	getcatalog catalog
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	setcatalog set catalog catalog
+MTHSIG3	getschema schema
+MTHSIG20	addimportedkeys add imported set foreignkey foreign key foreignkeys foreign
+MTHSIG21	addimportedkey add imported key foreignkey foreign key foreignkey foreign key
+MTHSIG8	setdescription set description description
+MTHSIG9	getcolumns columns
+MTHSIG35	tostring
+MTHSIG33	hashcode hash code
+MTHSIG34	equals object obj
+CLASSES	table
+VARSIG29	object obj
+VARSIG28	column column
+METHODS	table getcatalog catalog setcatalog set catalog getschema schema setschema set schema getname setname set getdescription description setdescription set description getcolumns columns getcolumncount column count addcolumns add columns addcolumn add column findcolumn find column getprimarykeys primary getprimarykeycount primary key count getimportedkeys imported getimportedkeycount imported key count getimportedkey imported key getimportedkeycountbyforeigntablename imported key count foreign table addimportedkeys add imported addimportedkey add imported key findimportedkeybylocalcolumnname find imported key local column getexportedkeys exported getexportedkeycount exported key count getexportedkeycountbyforeigntablename exported key count foreign table addexportedkeys add exported addexportedkey add exported key findexportedkeybylocalcolumnname find exported key local column getindices indices addindex add addindices add indices isprimarykeyindex primary key hashcode hash code equals tostring
+VARSIG23	foreignkey foreign key exportedkey exported key
+VARSIG22	localcolumnname local column
+VARSIG21	foreignkey foreign key exportedkey exported key
+VARSIG20	set foreignkey foreign key exportedkeys exported
+VARSIG27	
+VARSIG26	set indices
+VARSIG25	
+VARSIG24	reference reference
+MTHSIG31	addindices add indices set indices
+MTHSIG32	isprimarykeyindex primary key
+MTHSIG30	addindex add
+VARSIG7	column column
+VARSIG6	
+VARSIG9	
+VARSIG8	column column
+VARSIG3	description
+VARSIG2	
+VARSIG5	column column
+VARSIG4	set column columns
+COMMENTS	represents table database model finduniquereference find unique reference uniquecolumnname unique column indices isunique unique indexcolumn column column getcolumns columns column getname equalsignorecase equals ignore uniquecolumnname unique column
+VARSIG19	foreignkey foreign key exportedkey exported key
+VARSIG1	schema schema
+VARSIG18	foreigntablename foreign table
+VARSIG0	catalog
+VARSIG17	reference reference
+VARSIG12	foreignkey foreign key foreignkey foreign key
+VARSIG11	foreigntablename foreign table
+VARSIG10	foreignkey foreign key foreignkey foreign key
+VARSIG16	foreignkey foreign key foreignkey foreign key
+VARSIG15	localcolumnname local column
+VARSIG14	foreignkey foreign key foreignkey foreign key
+VARSIG13	set foreignkey foreign key foreignkeys foreign
+MTHSIG17	getimportedkeycount imported key count
+MTHSIG18	getimportedkey imported key
+MTHSIG15	getprimarykeycount primary key count
+MTHSIG16	getimportedkeys imported
+MTHSIG13	findcolumn find column
+MTHSIG14	getprimarykeys primary
+MTHSIG11	addcolumns add columns set column columns
+MTHSIG12	addcolumn add column column column
+MTHSIG19	getimportedkeycountbyforeigntablename imported key count foreign table foreigntablename foreign table
+MTHSIG10	getcolumncount column count
+VARIABLES	catalog schema description columns column column column foreignkey foreign key foreigntablename foreign table foreignkey foreign key foreignkeys foreign foreignkey foreign key localcolumnname local column foreignkey foreign key reference foreigntablename foreign table exportedkey exported key exportedkeys exported exportedkey exported key localcolumnname local column exportedkey exported key reference indices column obj serialversionuid serial version uid catalog schema description columns importedkeys imported exportedkeys exported indices primarykeys primary count count primarykeys primary primarykeyindex primary key prime result

@@ -1,0 +1,31 @@
+VARSIG7	pgpdescriptions pgp descriptions
+VARSIG6	pgpkey pgp key
+VARSIG9	map commands
+VARSIG8	rooversion roo version
+VARSIG3	presentationname presentation
+VARSIG2	version
+VARSIG5	description
+VARSIG4	size
+COMMENTS	
+VARSIG1	obrurl obr url
+VARSIG0	uri
+MTHSIG4	getpresentationname presentation
+VARSIG12	bundleversion bundle version
+MTHSIG5	getsize size
+VARSIG11	bundleversion bundle version
+MTHSIG6	getrooversion roo version
+VARSIG10	list bundleversion bundle version versions
+MTHSIG7	getdescription description
+MTHSIG0	bundleversion bundle version uri obrurl obr url version presentationname presentation size description pgpkey pgp key pgpdescriptions pgp descriptions rooversion roo version map commands
+MTHSIG1	geturi uri
+PACKAGE	springframework roo addon roobot client model
+MTHSIG2	getobrurl obr url
+MTHSIG3	getversion version
+MTHSIG8	getcommands commands
+MTHSIG9	getpgpkey pgp key
+MTHSIG11	getsummary summary
+MTHSIG12	orderbyversion order version list bundleversion bundle version versions
+CLASSES	bundleversion bundle version
+METHODS	bundleversion bundle version geturi uri getobrurl obr url getversion version getpresentationname presentation getsize size getrooversion roo version getdescription description getcommands commands getpgpkey pgp key getpgpdescriptions pgp descriptions getsummary summary orderbyversion order version
+MTHSIG10	getpgpdescriptions pgp descriptions
+VARIABLES	uri obrurl obr url version presentationname presentation size description pgpkey pgp key pgpdescriptions pgp descriptions rooversion roo version commands versions uri obrurl obr url version presentationname presentation size description commands pgpkey pgp key pgpdescriptions pgp descriptions rooversion roo version

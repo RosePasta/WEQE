@@ -1,0 +1,25 @@
+VARSIG7	metadataprovider metadata provider
+VARSIG6	metadataprovider metadata provider
+VARSIG9	requestingclass requesting
+VARSIG8	componentcontext component context componentcontext component context
+VARSIG3	memberdetailsdecorator member details decorator
+VARSIG2	memberdetailsdecorator member details decorator
+VARSIG5	memberdetailsdecorator member details decorator decorator
+VARSIG4	memberdetailsdecorator member details decorator decorator
+COMMENTS	implementation link memberdetailsscanner member details scanner automatically detects link memberdetailsdecorator member details decorator instances osgi container delegate execution link getmemberdetails member details classorinterfacetypedetails type details internally implementation visit link metadataprovider metadata provider link memberdetailsdecorator member details decorator order type essential add developer rely behaviour correct metadata infrastructure require special type naming approaches employed ordering behaviour exists solely simplify debugging add developers log comparison invocations mutex create list discovered members build list representing hierarchy element absolute superclass note top list add governor superclasses locate metadataprovider metadata provider instances provide itds memberholdingtypedetails member holding type details skip providers skip determine key provider type metadata ensure type details capture member details turn list discovered members result loop time complete full loop result
+VARSIG1	metadataprovider metadata provider
+VARSIG0	metadataprovider metadata provider
+MTHSIG4	deactivate componentcontext component context componentcontext component context
+VARSIG12	metadataprovider metadata provider
+MTHSIG5	getmemberdetails member details requestingclass requesting classorinterfacetypedetails type details cid
+VARSIG11	classorinterfacetypedetails type details currentclass current
+VARSIG10	classorinterfacetypedetails type details cid
+MTHSIG0	bindmemberholdingdecorator bind member holding decorator memberdetailsdecorator member details decorator decorator
+MTHSIG1	unbindmemberholdingdecorator unbind member holding decorator memberdetailsdecorator member details decorator decorator
+PACKAGE	springframework roo classpath scanner
+MTHSIG2	bindmetadataprovider bind metadata provider metadataprovider metadata provider
+MTHSIG3	unbindmetadataprovider unbind metadata provider metadataprovider metadata provider
+VARSIG13	memberdetailsdecorator member details decorator decorator
+CLASSES	memberdetailsscannerimpl member details scanner impl
+METHODS	bindmemberholdingdecorator bind member holding decorator unbindmemberholdingdecorator unbind member holding decorator bindmetadataprovider bind metadata provider unbindmetadataprovider unbind metadata provider deactivate getmemberdetails member details
+VARIABLES	decorator decorator componentcontext component context requestingclass requesting cid currentclass current decorator metadataservice metadata service lock providers decorators mid memberholdingtypedetails member holding type details cidhierarchy cid hierarchy key metadataitem metadata item itdtypedetailsmd type details result additionallooprequired additional loop required newresult result

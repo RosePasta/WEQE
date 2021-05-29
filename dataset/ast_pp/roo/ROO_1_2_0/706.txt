@@ -1,0 +1,29 @@
+VARSIG6	types
+VARSIG3	projectavailable project
+VARSIG2	expectedpackage expected
+VARSIG5	path
+VARSIG4	completion expectedcompletions expected completions
+COMMENTS	unit test link javapackageconverter converter constants fixture asserts converting text option context expected text optioncontext option context expectedpackage expected set asserts converter asked completions expected completions projectavailable project expectedallcomplete expected complete expectedcompletions expected completions set invoke check set invoke check
+VARSIG1	optioncontext option context
+VARSIG0	text
+MTHSIG4	testconvertfromblanktext test convert blank text
+MTHSIG5	assertconvertfromvalidtext convert valid text text optioncontext option context expectedpackage expected
+MTHSIG6	testconvertfromsimplepackagenameinnocontext test convert simple context
+MTHSIG7	testconvertfromsimplepackagenamewithtrailingdotinnonupdatecontext test convert simple trailing dot update context
+MTHSIG0	setup set
+MTHSIG1	testsupportsjavapackage test supports
+PACKAGE	springframework roo classpath converters
+MTHSIG2	testconvertfromnulltext test convert text
+MTHSIG3	testconvertfromemptytext test convert empty text
+MTHSIG8	testconvertfromcompoundpackagenameinupdatecontext test convert compound update context
+MTHSIG9	testconvertfromtextthatstartswithtoplevelpackagesymbolplusdot test convert text starts top level symbol dot
+MTHSIG15	testgetallpossiblevalueswhenprojectisavailable test values project
+MTHSIG16	setupmockpom set mock pom path types
+MTHSIG13	assertgetallpossiblevalues values projectavailable project completion expectedcompletions expected completions
+MTHSIG14	testgetallpossiblevalueswhenprojectnotavailable test values project
+MTHSIG11	testconvertfromtextthatstartswithtoplevelpackagesymbolplusnodot test convert text starts top level symbol dot
+MTHSIG12	testconvertfromtextthatistoplevelpackagesymbol test convert text top level symbol
+CLASSES	javapackageconvertertest converter test
+METHODS	setup set testsupportsjavapackage test supports testconvertfromnulltext test convert text testconvertfromemptytext test convert empty text testconvertfromblanktext test convert blank text assertconvertfromvalidtext convert valid text testconvertfromsimplepackagenameinnocontext test convert simple context testconvertfromsimplepackagenamewithtrailingdotinnonupdatecontext test convert simple trailing dot update context testconvertfromcompoundpackagenameinupdatecontext test convert compound update context testconvertfromtextthatstartswithtoplevelpackagesymbolplusdot test convert text starts top level symbol dot testconvertfromtextwithtrailingdot test convert text trailing dot testconvertfromtextthatstartswithtoplevelpackagesymbolplusnodot test convert text starts top level symbol dot testconvertfromtextthatistoplevelpackagesymbol test convert text top level symbol assertgetallpossiblevalues values testgetallpossiblevalueswhenprojectnotavailable test values project testgetallpossiblevalueswhenprojectisavailable test values project setupmockpom set mock pom
+MTHSIG10	testconvertfromtextwithtrailingdot test convert text trailing dot
+VARIABLES	text optioncontext option context expectedpackage expected projectavailable project expectedcompletions expected completions path types top level converter mocklastused mock mockprojectoperations mock project operations mocktypelocationservice mock type location service mockpom mock pom completions allcomplete complete mockpom mock pom mockpom mock pom mockpom mock pom

@@ -1,0 +1,12 @@
+MTHSIG0	loggingcommand log command staticfieldconvert field convert staticfieldconvert field convert loggingoper log oper loggingoper log oper 
+VARSIG3	clioption cli option kei mandatori append log level loggerpackag logger loggerappend logger append 
+MTHSIG1	isconfigureloggingavail configur log 
+VARSIG2	clioption cli option kei level mandatori log level configur loglevel log level loglevel log level 
+PACKAGE	springframework roo addon log 
+MTHSIG2	configurelog configur log loglevel log level loglevel log level loggerpackag logger loggerappend logger append 
+COMMENTS	command log add roo shell 
+CLASSES	loggingcommand log command 
+VARIABLES	staticfieldconvert field convert loggingoper log oper loglevel log level loggerappend logger append loggingoper log oper 
+VARSIG1	loggingoper log oper loggingoper log oper 
+VARSIG0	staticfieldconvert field convert staticfieldconvert field convert 
+METHODS	loggingcommand log command isconfigureloggingavail configur log configurelog configur log 

@@ -1,0 +1,23 @@
+VARSIG6	modulename module
+VARSIG3	canonicalpath canonical path
+VARSIG2	modulename module
+VARSIG5	modulenames module names
+VARSIG4	relativepath relative path
+COMMENTS	unit test link pommanagementserviceimpl pom management service impl fixture sets working directory service test relativepath relative path desired working directory relative project ioexception exception set invoke check set invoke check set invoke check set invoke check set invoke check set invoke check
+CLASSES	pommanagementserviceimpltest pom management service impl test
+VARSIG1	exception
+VARSIG0	relativepath relative path
+METHODS	getcanonicalpath canonical path getmockpom mock pom setup set setupworkingdirectory set working directory testgetpomofsinglemoduleprojectwhenparenthasnorelativepath test pom single module project parent relative path testgetpomsofmultimoduleprojectwhenchildisdirty test poms multi module project child dirty testgetpomsofmultimoduleprojectwhenparentandchildaredirty test poms multi module project parent child dirty testgetpomswhennopomsaredirty test poms poms dirty testgetpomswhenoneemptypomisdirty test poms empty pom dirty testgetpomswhenonenonexistantpomisdirty test poms existant pom dirty verifyprojectmetadatanotification verify project metadata notification
+MTHSIG4	testgetpomofsinglemoduleprojectwhenparenthasnorelativepath test pom single module project parent relative path
+MTHSIG5	testgetpomsofmultimoduleprojectwhenchildisdirty test poms multi module project child dirty
+MTHSIG6	testgetpomsofmultimoduleprojectwhenparentandchildaredirty test poms multi module project parent child dirty
+MTHSIG7	testgetpomswhennopomsaredirty test poms poms dirty
+MTHSIG0	getcanonicalpath canonical path relativepath relative path
+MTHSIG1	getmockpom mock pom modulename module canonicalpath canonical path
+PACKAGE	springframework roo project
+MTHSIG2	setup set
+MTHSIG3	setupworkingdirectory set working directory relativepath relative path
+MTHSIG10	verifyprojectmetadatanotification verify project metadata notification modulenames module names
+VARIABLES	relativepath relative path modulename module canonicalpath canonical path relativepath relative path modulenames module names modulename module root module mockfilemanager mock file manager mockfilemonitorservice mock file monitor service mockmetadatadependencyregistry mock metadata dependency registry mockmetadataservice mock metadata service mockpomfactory mock pom factory mockshell mock shell service systemdependentpath system dependent path resource mockpom mock pom mockcomponentcontext mock component context mockbundlecontext mock bundle context workingdirectory working directory canonicalpath canonical path mockpom mock pom poms rootpom root pom rootpomcanonicalpath root pom canonical path childpom child pom childpomcanonicalpath child pom canonical path dirtyfiles dirty files mockrootpom mock root pom childmodulename child module mockchildpom mock child pom poms expectedpoms expected poms rootpom root pom rootpomcanonicalpath root pom canonical path childpom child pom childpomcanonicalpath child pom canonical path dirtyfiles dirty files mockrootpom mock root pom childmodulename child module mockchildpom mock child pom poms expectedpoms expected poms dirtyfiles dirty files poms dirtyfiles dirty files poms dirtyfiles dirty files poms projectmetadataid project metadata
+MTHSIG8	testgetpomswhenoneemptypomisdirty test poms empty pom dirty
+MTHSIG9	testgetpomswhenonenonexistantpomisdirty test poms existant pom dirty

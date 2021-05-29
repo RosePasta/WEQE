@@ -1,0 +1,16 @@
+VARSIG7	clioption cli option kei findernam finder mandatori finder gener finder list command javasymbolnam symbol findernam finder 
+VARSIG6	clioption cli option kei mandatori unspecifieddefaultvalu unspecifi optioncontext option context updat project control entiti finder gener javatyp type typenam type 
+VARSIG3	requiredstr requir 
+VARSIG2	clioption cli option kei filter mandatori comma separ list string filter includ filter 
+VARSIG5	requiredentri requir entri 
+VARSIG4	finder 
+COMMENTS	command finder add roo shell field 
+CLASSES	findercommand finder command 
+VARSIG1	clioption cli option kei depth mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu depth attribut combin gener finder integ depth 
+VARSIG0	clioption cli option kei mandatori unspecifieddefaultvalu unspecifi optioncontext option context updat project control entiti finder gener javatyp type typenam type 
+METHODS	isfindercommandavail finder command listfind list finder installfind instal finder 
+MTHSIG0	isfindercommandavail finder command 
+MTHSIG1	listfind list finder javatyp type typenam type integ depth filter 
+PACKAGE	springframework roo addon finder 
+MTHSIG2	installfind instal finder javatyp type typenam type javasymbolnam symbol findernam finder 
+VARIABLES	typenam type depth filter requiredstr requir finder requiredentri requir entri typenam type findernam finder finderoper finder oper finder requiredentri requir entri result 

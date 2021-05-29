@@ -1,0 +1,19 @@
+VARSIG7	modulename module
+VARSIG6	gav parentpom parent pom
+VARSIG8	projectoperations project operations projectoperations project operations
+VARSIG3	javapackage toplevelpackage top level
+VARSIG2	projectoperations project operations projectoperations project operations
+VARSIG5	javaversion version
+VARSIG4	nullableprojectname nullable project
+COMMENTS	link packagingprovider packaging provider creates jar file constructor invoked osgi container
+CLASSES	jarpackaging jar packaging
+VARSIG1	module
+VARSIG0	javapackage toplevelpackage top level
+METHODS	jarpackaging jar packaging createotherartifacts create artifacts createpom create pom getpaths paths isdefault
+MTHSIG4	isdefault
+MTHSIG0	jarpackaging jar packaging
+MTHSIG1	createotherartifacts create artifacts javapackage toplevelpackage top level module projectoperations project operations projectoperations project operations
+PACKAGE	springframework roo project packaging
+MTHSIG2	createpom create pom javapackage toplevelpackage top level nullableprojectname nullable project javaversion version gav parentpom parent pom modulename module projectoperations project operations projectoperations project operations
+MTHSIG3	getpaths paths
+VARIABLES	toplevelpackage top level module projectoperations project operations toplevelpackage top level nullableprojectname nullable project javaversion version parentpom parent pom modulename module projectoperations project operations fullyqualifiedmodulename fully qualified module pompath pom path

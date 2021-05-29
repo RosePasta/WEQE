@@ -1,0 +1,15 @@
+VARSIG3	fieldmetadata field metadata field
+VARSIG2	javasymbolname symbol constantname constant
+VARSIG5	classorinterfacetypedetails type details cid
+VARSIG4	annotationmetadata annotation metadata annotation
+COMMENTS	implementation link typemanagementservice type management service fields physical type mutable details ensure physical type mutable details automatically add jsr bean validation api support current jsr support jsr annotation version represents version user user dependency list
+CLASSES	typemanagementserviceimpl type management service impl
+VARSIG1	physicaltypeidentifier physical type identifier
+VARSIG0	classorinterfacetypedetails type details cid
+METHODS	generateclassfile generate file addenumconstant add constant addfield add field createorupdatetypeondisk create update type disk
+MTHSIG0	generateclassfile generate file classorinterfacetypedetails type details cid
+MTHSIG1	addenumconstant add constant physicaltypeidentifier physical type identifier javasymbolname symbol constantname constant
+PACKAGE	springframework roo classpath
+MTHSIG2	addfield add field fieldmetadata field metadata field
+MTHSIG3	createorupdatetypeondisk create update type disk classorinterfacetypedetails type details cid
+VARIABLES	cid physicaltypeidentifier physical type identifier constantname constant field annotation cid filemanager file manager metadataservice metadata service projectoperations project operations typelocationservice type location service typeparsingservice type parsing service ptm ptd cidbuilder cid builder ptm ptd cidbuilder cid builder jsr required jsr required path filecanonicalpath file canonical path newcontents contents

@@ -1,0 +1,20 @@
+MTHSIG13	testpomishigherthanwar test pom higher war
+MTHSIG14	testwarishigherthanjar test war higher jar
+MTHSIG11	testjarisnothigherthanwar test jar higher war
+MTHSIG12	testnulldependencydoesnothavesamecoordinates test dependency coordinates
+COMMENTS	unit test link dependency set invoke check set invoke check set invoke check set invoke check set invoke check set invoke check set invoke check set invoke check set invoke check
+CLASSES	dependencytest dependency test
+METHODS	testaddexclusion test add exclusion testconstructfromgav test construct gav testconstructwithcustomtypeandscope test construct custom type scope testdependencieswithdifferentversionsarenotequal test dependencies versions equal testdependencieswithdifferentversionshavesamecoordinates test dependencies versions coordinates testdependencieswithsameversionareequal test dependencies version equal testdependencieswithsameversionhavesamecoordinates test dependencies version coordinates testearishigherthanjar test ear higher jar testearishigherthanwar test ear higher war testgetelementforminimaldependency test element minimal dependency testjarisnothigherthanitself test jar higher testjarisnothigherthanwar test jar higher war testnulldependencydoesnothavesamecoordinates test dependency coordinates testpomishigherthanwar test pom higher war testwarishigherthanjar test war higher jar
+MTHSIG4	testdependencieswithdifferentversionshavesamecoordinates test dependencies versions coordinates
+MTHSIG5	testdependencieswithsameversionareequal test dependencies version equal
+MTHSIG6	testdependencieswithsameversionhavesamecoordinates test dependencies version coordinates
+MTHSIG7	testearishigherthanjar test ear higher jar
+MTHSIG0	testaddexclusion test add exclusion
+MTHSIG1	testconstructfromgav test construct gav
+PACKAGE	springframework roo project
+MTHSIG2	testconstructwithcustomtypeandscope test construct custom type scope
+MTHSIG3	testdependencieswithdifferentversionsarenotequal test dependencies versions equal
+MTHSIG10	testjarisnothigherthanitself test jar higher
+VARIABLES	dependency artifact dependency group dependency version exclusion artifact exclusion group expected element minimal dependency dependency originalexclusioncount original exclusion count mockgav mock gav dependency dependency dependency dependency dependency dependency equal dependency dependency dependency dependency dependency dependency dependency dependency equal dependency dependency dependency dependency dependency element dependency
+MTHSIG8	testearishigherthanwar test ear higher war
+MTHSIG9	testgetelementforminimaldependency test element minimal dependency

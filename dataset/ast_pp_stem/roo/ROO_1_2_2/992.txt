@@ -1,0 +1,15 @@
+VARSIG6	buffer 
+VARSIG3	buffer 
+VARSIG2	list candid 
+VARSIG5	list complet candid 
+VARSIG4	cursor 
+COMMENTS	link simplepars simpl parser popul list complet candid requir compat st version buffer cursor candid popul list complet candid buffer cursor candid 
+CLASSES	parser 
+VARSIG1	cursor 
+VARSIG0	buffer 
+METHODS	complet completeadvanc complet advanc pars 
+MTHSIG0	complet buffer cursor list candid 
+MTHSIG1	completeadvanc complet advanc buffer cursor list complet candid 
+PACKAGE	springframework roo shell 
+MTHSIG2	pars buffer 
+VARIABLES	buffer cursor candid buffer cursor candid buffer 

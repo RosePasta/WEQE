@@ -1,0 +1,17 @@
+VARSIG3	clioption cli option key file mandatory file save uaa json content file file
+VARSIG2	clioption cli option key privacylevel privacy level mandatory uaa privacy level privacylevel privacy level privacylevel privacy level
+VARSIG4	ioexception exception ioe
+COMMENTS	shell commands user interaction spring user agent analysis uaa system
+CLASSES	uaacommands uaa commands
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+METHODS	accepttou accept tou activate deactivate privacylevel privacy level rejecttou reject tou uaastatus uaa status view
+MTHSIG4	rejecttou reject tou
+MTHSIG5	uaastatus uaa status
+MTHSIG6	view file file
+MTHSIG0	accepttou accept tou
+MTHSIG1	activate componentcontext component context context
+PACKAGE	springframework roo uaa
+MTHSIG2	deactivate componentcontext component context context
+MTHSIG3	privacylevel privacy level privacylevel privacy level privacylevel privacy level
+VARIABLES	context context privacylevel privacy level file ioe staticfieldconverter field converter uaaregistrationservice uaa registration service uaaservice uaa service privacylevel privacy level readablepayload readable payload

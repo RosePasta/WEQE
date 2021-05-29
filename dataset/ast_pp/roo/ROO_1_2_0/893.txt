@@ -1,0 +1,141 @@
+MTHSIG28	addbuildplugins add build plugins modulename module collection plugin plugins
+MTHSIG29	addbuildplugin add build plugin modulename module plugin plugin
+MTHSIG26	addpluginrepository add plugin repository modulename module repository repository
+MTHSIG27	removepluginrepository remove plugin repository modulename module repository repository
+MTHSIG24	removerepository remove repository modulename module repository repository
+MTHSIG25	addpluginrepositories add plugin repositories modulename module collection repository repositories
+MTHSIG22	addrepositories add repositories modulename module collection repository repositories
+MTHSIG23	addrepository add repository modulename module repository repository
+MTHSIG4	isfeatureinstalled feature installed featurename feature
+VARSIG78	modulename module
+MTHSIG5	isfeatureinstalledinfocusedmodule feature installed focused module featurenames feature names
+VARSIG77	resource resource
+MTHSIG6	getprojectmetadata project metadata modulename module
+VARSIG76	modulename module
+MTHSIG7	getfocusedprojectmetadata focused project metadata
+VARSIG75	filter filter
+MTHSIG0	ismodulecreationallowed module creation allowed
+MTHSIG1	ismodulefocusallowed module focus allowed
+MTHSIG2	isprojectavailable project modulename module
+MTHSIG3	isfocusedprojectavailable focused project
+VARSIG79	resource resource
+MTHSIG20	removedependency remove dependency modulename module groupid group artifactid artifact version
+VARSIG70	modulename module
+MTHSIG21	updatedependencyscope update dependency scope modulename module dependency dependency dependencyscope dependency scope dependencyscope dependency scope
+MTHSIG8	getmoduleforfileidentifier module file identifier fileidentifier file identifier
+VARSIG74	modulename module
+MTHSIG9	getmodulenames module names
+VARSIG73	filter filter
+VARSIG72	modulename module
+VARSIG71	property property
+MTHSIG39	addresource add resource modulename module resource resource
+MTHSIG37	addfilter add filter modulename module filter filter
+MTHSIG38	removefilter remove filter modulename module filter filter
+MTHSIG35	addproperty add property modulename module property property
+MTHSIG36	removeproperty remove property modulename module property property
+MTHSIG33	updatebuildplugin update build plugin modulename module plugin plugin
+MTHSIG34	buildpluginupdate build plugin update modulename module plugin plugin
+METHODS	ismodulecreationallowed module creation allowed ismodulefocusallowed module focus allowed isprojectavailable project isfocusedprojectavailable focused project isfeatureinstalled feature installed isfeatureinstalledinfocusedmodule feature installed focused module getprojectmetadata project metadata getfocusedprojectmetadata focused project metadata getmoduleforfileidentifier module file identifier getmodulenames module names getpathresolver path resolver updateprojecttype update project type adddependencies add dependencies adddependency add dependency adddependency add dependency adddependency add dependency adddependency add dependency removedependencies remove dependencies removedependency remove dependency removedependency remove dependency removedependency remove dependency updatedependencyscope update dependency scope addrepositories add repositories addrepository add repository removerepository remove repository addpluginrepositories add plugin repositories addpluginrepository add plugin repository removepluginrepository remove plugin repository addbuildplugins add build plugins addbuildplugin add build plugin removebuildplugins remove build plugins removebuildplugin remove build plugin removebuildpluginimmediately remove build plugin updatebuildplugin update build plugin buildpluginupdate build plugin update addproperty add property removeproperty remove property addfilter add filter removefilter remove filter addresource add resource removeresource remove resource gettoplevelpackage top level getprojectname project getfocusedtoplevelpackage focused top level getfocusedprojectname focused project setmodule set module getfocusedmodule focused module getfocusedmodulename focused module getpomfrommodulename pom module getpoms poms addmoduledependency add module dependency
+VARSIG67	plugin plugin
+VARSIG66	modulename module
+VARSIG65	plugin plugin
+VARSIG64	modulename module
+VARSIG69	property property
+VARSIG68	modulename module
+MTHSIG31	removebuildplugin remove build plugin modulename module plugin plugin
+MTHSIG32	removebuildpluginimmediately remove build plugin modulename module plugin plugin
+MTHSIG30	removebuildplugins remove build plugins modulename module collection plugin plugins
+VARSIG63	plugin plugin
+VARSIG62	modulename module
+VARSIG61	plugin plugin
+VARSIG60	modulename module
+COMMENTS	methods project operations user create project module user change focused module module modulename module module blank module focus supplied feature installed module project featurename feature feature link featurenames feature names features feature installed module supplied features installed focused module featurenames feature names names features link featurenames feature names features supplied features installed focused module returns link projectmetadata project metadata module modulename module module metadata requested empty signify root module metadata returns metadata focussed module project metadata returns module file belongs fileidentifier file identifier canonical path returns names module user user project list convenience link pathresolver path resolver project project link projectmetadata project metadata link pathresolver path resolver project unavailable attempts update project packaging type defined link projecttype project type project packaging defined create definition exception thrown called link projectmetadata project metadata disk representation modified reason modulename module module required projecttype project type project type update required attempts add dependencies dependencies exist link projectmetadata project metadata isalldependencyregistered dependency registered dependency silently returns dependency exception thrown called link projectmetadata project metadata disk representation modified reason modulename module module required dependencies dependencies add required attempts add dependency dependency exists link projectmetadata project metadata isdependencyregistered dependency registered springframework roo project dependency silently returns dependency exception thrown called link projectmetadata project metadata disk representation modified reason modulename module module required dependency dependency add required addition jar dependency pom convenient parties instruct users cli add support projects requiring user manually edit pom xml write add modulename module module required groupid group group dependency required artifactid artifact artifact dependency required version version dependency required scope scope dependency classifier classifier dependency addition jar dependency pom convenient parties instruct users cli add support projects requiring user manually edit pom xml write add modulename module module required groupid group group dependency required artifactid artifact artifact dependency required version version dependency required scope scope dependency addition jar dependency pom convenient parties instruct users cli add support projects requiring user manually edit pom xml write add modulename module module required groupid group group dependency required artifactid artifact artifact dependency required version version dependency required attempts remove dependencies dependencies exist link projectmetadata project metadata isdependencyregistered dependency registered dependency silently returns located dependency removed exception thrown called link projectmetadata project metadata disk representation modified reason modulename module module required dependencies dependencies remove required attempts remove dependency dependency exist link projectmetadata project metadata isdependencyregistered dependency registered dependency silently returns located dependency removed exception thrown called link projectmetadata project metadata disk representation modified reason modulename module module required dependency dependency remove required remove existing jar dependency pom convenient parties instruct users cli remove unwanted dependency projects requiring user manually edit pom xml write add modulename module module required groupid group group dependency required artifactid artifact artifact dependency required version version dependency required classifier classifier dependency remove existing jar dependency pom convenient parties instruct users cli remove unwanted dependency projects requiring user manually edit pom xml write add modulename module module required groupid group group dependency required artifactid artifact artifact dependency required version version dependency required attempts update scope dependency dependency exist link projectmetadata project metadata isdependencyregistered dependency registered dependency silently returns located dependency updated exception thrown called link projectmetadata project metadata disk representation modified reason modulename module module required dependency dependency update required dependencyscope dependency scope dependency scope element removed attempts add repositories repositories exists link projectmetadata project metadata isrepositoryregistered repository registered repository silently returns repository exception thrown called link projectmetadata project metadata disk representation modified reason modulename module module required repositories list repositories add required attempts add repository repository exists link projectmetadata project metadata isrepositoryregistered repository registered repository silently returns repository exception thrown called link projectmetadata project metadata disk representation modified reason modulename module module required repository repository add required attempts remove repository repository exist link projectmetadata project metadata isrepositoryregistered repository registered repository silently returns located repository removed exception thrown called link projectmetadata project metadata disk representation modified reason modulename module module required repository repository remove required attempts add plugin repositories repositories exists link projectmetadata project metadata ispluginrepositoryregistered plugin repository registered repository silently returns repository exception thrown called link projectmetadata project metadata disk representation modified reason modulename module module required repositories list plugin repositories add required attempts add plugin repository plugin repository exists link projectmetadata project metadata ispluginrepositoryregistered plugin repository registered repository silently returns repository exception thrown called link projectmetadata project metadata disk representation modified reason modulename module module required repository plugin repository add required attempts remove plugin repository plugin repository exist link projectmetadata project metadata ispluginrepositoryregistered plugin repository registered repository silently returns located plugin repository removed exception thrown called link projectmetadata project metadata disk representation modified reason modulename module module required repository plugin repository remove required attempts add plugins plugins exist link projectmetadata project metadata isallpluginregistered plugin registered plugin silently returns dependency exception thrown called link projectmetadata project metadata disk representation modified reason modulename module module required plugins plugins add required attempts add build plugin plugin exists link projectmetadata project metadata isbuildpluginregistered build plugin registered springframework roo project plugin silently returns plugin exception thrown called link projectmetadata project metadata disk representation modified reason modulename module module required plugin plugin add required removes plugins groupid group artifactid artifact plugins modulename module module required plugins plugins remove elements quietly illegalargumentexception illegal argument exception called link projectmetadata project metadata disk representation modified reason removes plugins groupid group artifactid artifact plugin modulename module module required plugin plugin remove illegalargumentexception illegal argument exception called link projectmetadata project metadata disk representation modified reason removes plugins groupid group artifactid artifact plugin writes pom file system modulename module module required plugin plugin remove illegalargumentexception illegal argument exception called link projectmetadata project metadata disk representation modified reason verifies build plugin silently returns removes build plugin matches link projectmetadata project metadata getbuildpluginsexcludingversion build plugins excluding version plugin adds presented plugin modulename module module required plugin build plugin update required verifies build plugin silently returns removes build plugin matches link projectmetadata project metadata getbuildpluginsexcludingversion build plugins excluding version plugin adds presented plugin deprecated link updatebuildplugin update build plugin plugin modulename module module required plugin build plugin update required attempts add property property exists link projectmetadata project metadata ispropertyregistered property registered springframework roo project property silently returns property exception thrown called link projectmetadata project metadata disk representation modified reason modulename module module required property property add required attempts remove property dependency dependency exist link projectmetadata project metadata ispropertyregistered property registered property silently returns located dependency removed exception thrown called link projectmetadata project metadata disk representation modified reason modulename module module required property property remove required attempts add filter filter exists link projectmetadata project metadata isfilterregistered filter registered springframework roo project filter silently returns filter exception thrown called link projectmetadata project metadata disk representation modified reason modulename module module required filter filter add required attempts remove filter filter exist link projectmetadata project metadata isfilterregistered filter registered springframework roo project filter silently returns located filter removed exception thrown called link projectmetadata project metadata disk representation modified reason modulename module module required filter filter remove required attempts add resource resource exists link projectmetadata project metadata isresourceregistered resource registered resource silently returns resource exception thrown called link projectmetadata project metadata disk representation modified reason modulename module module required resource resource add required attempts remove resource resource exist link projectmetadata project metadata isresourceregistered resource registered resource silently returns located resource removed exception thrown called link projectmetadata project metadata disk representation modified reason modulename module module required resource resource remove required modulename module module required modulename module module required module returns link pom focussed module module focus root link pom descriptors exist returns focussed module empty module focus fully qualified separated link file separator returns module module link pom modulename module fully qualified module required returns link pom modules user user project collection adds module dependency focused module modulename module module required
+VARSIG19	artifactid artifact
+VARSIG18	groupid group
+VARSIG17	modulename module
+VARSIG12	groupid group
+VARSIG11	modulename module
+VARSIG10	dependency dependency
+VARSIG16	classifier
+VARSIG15	dependencyscope dependency scope scope
+VARSIG14	version
+VARSIG13	artifactid artifact
+MTHSIG17	removedependencies remove dependencies modulename module collection dependency dependencies
+MTHSIG18	removedependency remove dependency modulename module dependency dependency
+MTHSIG15	adddependency add dependency modulename module groupid group artifactid artifact version dependencyscope dependency scope scope
+MTHSIG16	adddependency add dependency modulename module groupid group artifactid artifact version
+MTHSIG13	adddependency add dependency modulename module dependency dependency
+MTHSIG14	adddependency add dependency modulename module groupid group artifactid artifact version dependencyscope dependency scope scope classifier
+MTHSIG11	updateprojecttype update project type modulename module projecttype project type projecttype project type
+MTHSIG12	adddependencies add dependencies modulename module collection dependency dependencies
+MTHSIG19	removedependency remove dependency modulename module groupid group artifactid artifact version classifier
+VARSIG81	modulename module
+MTHSIG10	getpathresolver path resolver
+VARSIG80	modulename module
+VARIABLES	modulename module featurename feature featurenames feature names modulename module fileidentifier file identifier modulename module projecttype project type modulename module dependencies modulename module dependency modulename module groupid group artifactid artifact version scope classifier modulename module groupid group artifactid artifact version scope modulename module groupid group artifactid artifact version modulename module dependencies modulename module dependency modulename module groupid group artifactid artifact version classifier modulename module groupid group artifactid artifact version modulename module dependency dependencyscope dependency scope modulename module repositories modulename module repository modulename module repository modulename module repositories modulename module repository modulename module repository modulename module plugins modulename module plugin modulename module plugins modulename module plugin modulename module plugin modulename module plugin modulename module plugin modulename module property modulename module property modulename module filter modulename module filter modulename module resource modulename module resource modulename module modulename module module modulename module modulename module
+VARSIG84	modulename module
+VARSIG83	modulename module
+VARSIG82	pom module
+VARSIG39	modulename module
+VARSIG34	classifier
+VARSIG33	version
+VARSIG32	artifactid artifact
+VARSIG31	groupid group
+VARSIG38	version
+VARSIG37	artifactid artifact
+PACKAGE	springframework roo project
+VARSIG36	groupid group
+VARSIG35	modulename module
+VARSIG30	modulename module
+CLASSES	projectoperations project operations
+VARSIG29	dependency dependency
+VARSIG28	modulename module
+VARSIG23	groupid group
+VARSIG22	modulename module
+VARSIG21	dependencyscope dependency scope scope
+VARSIG20	version
+VARSIG27	collection dependency dependencies
+VARSIG26	modulename module
+VARSIG25	version
+VARSIG24	artifactid artifact
+VARSIG7	modulename module
+VARSIG6	projecttype project type projecttype project type
+MTHSIG48	getpomfrommodulename pom module modulename module
+VARSIG9	modulename module
+MTHSIG49	getpoms poms
+VARSIG8	collection dependency dependencies
+MTHSIG46	getfocusedmodule focused module
+VARSIG3	modulename module
+MTHSIG47	getfocusedmodulename focused module
+VARSIG2	featurenames feature names
+MTHSIG44	getfocusedprojectname focused project
+VARSIG5	modulename module
+MTHSIG45	setmodule set module pom module
+VARSIG4	fileidentifier file identifier
+VARSIG1	featurename feature
+VARSIG0	modulename module
+VARSIG56	modulename module
+VARSIG55	collection plugin plugins
+VARSIG54	modulename module
+VARSIG53	repository repository
+VARSIG59	collection plugin plugins
+VARSIG58	modulename module
+VARSIG57	plugin plugin
+MTHSIG42	getprojectname project modulename module
+MTHSIG43	getfocusedtoplevelpackage focused top level
+MTHSIG40	removeresource remove resource modulename module resource resource
+MTHSIG41	gettoplevelpackage top level modulename module
+VARSIG52	modulename module
+VARSIG51	repository repository
+VARSIG50	modulename module
+VARSIG45	repository repository
+VARSIG44	modulename module
+VARSIG43	collection repository repositories
+VARSIG42	modulename module
+VARSIG49	collection repository repositories
+VARSIG48	modulename module
+VARSIG47	repository repository
+VARSIG46	modulename module
+VARSIG41	dependencyscope dependency scope dependencyscope dependency scope
+MTHSIG50	addmoduledependency add module dependency modulename module
+VARSIG40	dependency dependency

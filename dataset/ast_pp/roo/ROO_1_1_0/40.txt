@@ -1,0 +1,8 @@
+MTHSIG0	supportssequences supports sequences
+MTHSIG1	getquerysequencesstring query sequences schema schema
+PACKAGE	springframework roo addon dbre model dialect
+COMMENTS	represents dialect sql implemented rdbms support querying sequences stage
+CLASSES	dialect
+VARIABLES	schema
+VARSIG0	schema schema
+METHODS	supportssequences supports sequences getquerysequencesstring query sequences

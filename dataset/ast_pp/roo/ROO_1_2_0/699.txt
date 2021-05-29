@@ -1,0 +1,28 @@
+VARSIG7	typeidentifier type identifier
+VARSIG6	javatype type javatype type
+VARSIG9	mid
+VARSIG8	modulefilepath module file path
+VARSIG3	typefilepath type file path
+VARSIG2	simpletypename simple type
+VARSIG5	pom pom
+VARSIG4	typeidentifier type identifier
+COMMENTS	
+VARSIG1	classorinterfacetypedetails type details cid
+VARSIG0	typefilepath type file path
+MTHSIG4	getalltypeidentifiers type identifiers
+MTHSIG5	getalltypes types
+VARSIG11	typefilepath type file path
+MTHSIG6	removetype remove type typeidentifier type identifier
+VARSIG10	javatype type javatype type
+MTHSIG7	gettypenamesformodulefilepath type names module file path modulefilepath module file path
+MTHSIG0	cachetype cache type typefilepath type file path classorinterfacetypedetails type details cid
+MTHSIG1	gettypesforsimpletypename types simple type simpletypename simple type
+PACKAGE	springframework roo classpath
+MTHSIG2	cachefilepathagainsttypeidentifier cache file path type identifier typefilepath type file path typeidentifier type identifier
+MTHSIG3	cachetypeagainstmodule cache type module pom pom javatype type javatype type
+MTHSIG8	gettypedetails type details mid
+MTHSIG9	getphysicaltypeidentifier physical type identifier javatype type javatype type
+CLASSES	typecacheimpl type cache impl
+METHODS	cachetype cache type gettypesforsimpletypename types simple type cachefilepathagainsttypeidentifier cache file path type identifier cachetypeagainstmodule cache type module getalltypeidentifiers type identifiers getalltypes types removetype remove type gettypenamesformodulefilepath type names module file path gettypedetails type details getphysicaltypeidentifier physical type identifier gettypeidfromtypefilepath type type file path
+MTHSIG10	gettypeidfromtypefilepath type type file path typefilepath type file path
+VARIABLES	typefilepath type file path cid simpletypename simple type typefilepath type file path typeidentifier type identifier pom javatype type typeidentifier type identifier modulefilepath module file path mid javatype type typefilepath type file path midtotypedetailsmap mid type details map types typenametomidmap type mid map typefilepathtomidmap type file path mid map typenametomodulefilepathmap type module file path map typenametomodulenamemap type module map typeidentifiertofilepathmap type identifier file path map modulefilepathtotypenamesmap module file path type names map simpletypenametypesmap simple type types map fullyqualifiedtypename fully qualified type simpletypename simple type cid filepath file path

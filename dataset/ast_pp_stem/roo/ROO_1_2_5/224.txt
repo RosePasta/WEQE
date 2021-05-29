@@ -1,0 +1,12 @@
+MTHSIG0	destroi 
+VARSIG3	filterconfig filter config config 
+MTHSIG1	dofilt filter servletrequest servlet request servletrequest servlet request servletrespons servlet respons servletrespons servlet respons filterchain filter chain filterchain filter chain 
+VARSIG2	filterchain filter chain filterchain filter chain 
+PACKAGE	top level segment 
+MTHSIG2	init filterconfig filter config config 
+COMMENTS	servlet filter handl basic gae user authent 
+CLASSES	gaeauthfilt gae filter 
+VARIABLES	servletrequest servlet request servletrespons servlet respons filterchain filter chain config userservic user servic request respons requesturl request url 
+VARSIG1	servletrespons servlet respons servletrespons servlet respons 
+VARSIG0	servletrequest servlet request servletrequest servlet request 
+METHODS	destroi dofilt filter init 

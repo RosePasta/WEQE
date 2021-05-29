@@ -1,0 +1,15 @@
+VARSIG3	valuechangeev chang event proxylistplac proxi list place event 
+VARSIG2	placechangeev place chang event event 
+VARSIG5	hasconstrainedvalu constrain proxylistplac proxi list place view 
+VARSIG4	eventbu event bu eventbu event bu 
+COMMENTS	drive link valuechangehandl chang handler popul link proxylistplac proxi list place instanc keep sync link placecontrol place control notion current place fire place chang event select 
+CLASSES	proxylistplacepick proxi list place picker 
+VARSIG1	proxyplacetolistplac proxi place list place proxyplacetolistplac proxi place list place 
+VARSIG0	placecontrol place control placecontrol place control 
+METHODS	proxylistplacepick proxi list place picker onplacechang place chang onvaluechang chang regist 
+MTHSIG0	proxylistplacepick proxi list place picker placecontrol place control placecontrol place control proxyplacetolistplac proxi place list place proxyplacetolistplac proxi place list place 
+MTHSIG1	onplacechang place chang placechangeev place chang event event 
+PACKAGE	top level client scaffold place 
+MTHSIG2	onvaluechang chang valuechangeev chang event proxylistplac proxi list place event 
+MTHSIG3	regist eventbu event bu eventbu event bu hasconstrainedvalu constrain proxylistplac proxi list place view 
+VARIABLES	placecontrol place control proxyplacetolistplac proxi place list place event event eventbu event bu view view placecontrol place control proxyplacetolistplac proxi place list place placeregistr place registr viewregistr view registr 

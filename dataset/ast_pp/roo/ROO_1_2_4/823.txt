@@ -1,0 +1,28 @@
+VARSIG3	text
+VARSIG2	text
+VARSIG5	fileoperation file operation expectedfileoperations expected file operations
+VARSIG4	file expectedfile expected file
+COMMENTS	unit test link monitoringrequesteditor monitoring request editor fixture asserts editor converts link monitoringrequest monitoring request text mockmonitoringrequest mock monitoring request expectedtext expected text exception set invoke check asserts passing text link monitoringrequesteditor monitoring request editor link monitoringrequest monitoring request text text pass blank set invoke check asserts passing text link monitoringrequesteditor monitoring request editor setastext set text link monitoringrequest monitoring request values text text parse link monitoringrequest monitoring request expectedfile expected file file expect monitored expectedfileoperations expected file operations operations expect notified generated link monitoringrequest monitoring request assertions set invoke check set set
+VARSIG1	expectedtext expected text
+VARSIG0	monitoringrequest monitoring request mockmonitoringrequest mock monitoring request
+MTHSIG4	teardown tear
+MTHSIG5	testgetastextwhenmonitoringdirectoryandsubtree test text monitoring directory tree
+MTHSIG6	testgetastextwhenmonitoringdirectoryonly test text monitoring directory
+MTHSIG7	testgetastextwhenmonitoringfile test text monitoring file
+MTHSIG0	assertastext text monitoringrequest monitoring request mockmonitoringrequest mock monitoring request expectedtext expected text
+MTHSIG1	assertcreatesnullmonitoringrequest creates monitoring request text
+PACKAGE	springframework roo file monitor
+MTHSIG2	assertmonitoringrequest monitoring request text file expectedfile expected file fileoperation file operation expectedfileoperations expected file operations
+MTHSIG3	setup set
+MTHSIG8	testgetastextwhennovalueset test text set
+MTHSIG9	testmonitordirectoryandsubtreefordelete test monitor directory subtree delete
+MTHSIG15	testsettingtextwithnocommaisinvalid test setting text comma invalid
+MTHSIG16	testsettingtextwithnooperationcodesisinvalid test setting text operation codes invalid
+MTHSIG13	testsettingemptyastextcreatesnullvalue test setting empty text creates
+MTHSIG14	testsettingnullastextcreatesnullvalue test setting text creates
+MTHSIG11	testmonitorfileforrenameupdateordelete test monitor file rename update delete
+MTHSIG12	testmonitoringsubtreeoffileisinvalid test monitoring tree file invalid
+CLASSES	monitoringrequesteditortest monitoring request editor test
+METHODS	assertastext text assertcreatesnullmonitoringrequest creates monitoring request assertmonitoringrequest monitoring request setup set teardown tear testgetastextwhenmonitoringdirectoryandsubtree test text monitoring directory tree testgetastextwhenmonitoringdirectoryonly test text monitoring directory testgetastextwhenmonitoringfile test text monitoring file testgetastextwhennovalueset test text set testmonitordirectoryandsubtreefordelete test monitor directory subtree delete testmonitordirectorybutnotsubtreeforrename test monitor directory subtree rename testmonitorfileforrenameupdateordelete test monitor file rename update delete testmonitoringsubtreeoffileisinvalid test monitoring tree file invalid testsettingemptyastextcreatesnullvalue test setting empty text creates testsettingnullastextcreatesnullvalue test setting text creates testsettingtextwithnocommaisinvalid test setting text comma invalid testsettingtextwithnooperationcodesisinvalid test setting text operation codes invalid
+MTHSIG10	testmonitordirectorybutnotsubtreeforrename test monitor directory subtree rename
+VARIABLES	mockmonitoringrequest mock monitoring request expectedtext expected text text text expectedfile expected file expectedfileoperations expected file operations temp dir editor testdirectory test directory testfile test file mockfile mock file operations text monitoringrequest monitoring request monitoringrequest monitoring request notifyon notify mockmonitoringrequest mock monitoring request mockmonitoringrequest mock monitoring request monitoringrequest monitoring request directorymonitoringrequest directory monitoring request monitoringrequest monitoring request directorymonitoringrequest directory monitoring request

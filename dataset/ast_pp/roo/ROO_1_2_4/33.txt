@@ -1,0 +1,9 @@
+MTHSIG0	testdifferentemailaddressisnotsameaccount test email address account
+MTHSIG1	testdifferenturlisnotsameaccount test url account
+PACKAGE	springframework roo addon cloud foundry
+MTHSIG2	testencodeanddecoderoundtrip test encode decode trip
+MTHSIG3	testsamedetailsissameaccount test details account
+COMMENTS	unit test link cloudcredentials cloud credentials set invoke check
+CLASSES	cloudcredentialstest cloud credentials test
+VARIABLES	email password url credentials encoded decoded
+METHODS	testdifferentemailaddressisnotsameaccount test email address account testdifferenturlisnotsameaccount test url account testencodeanddecoderoundtrip test encode decode trip testsamedetailsissameaccount test details account

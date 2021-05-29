@@ -1,0 +1,63 @@
+MTHSIG26	tostr 
+MTHSIG24	isdatanucleusen data nucleu enabl 
+MTHSIG25	isvmforceen mforc enabl 
+MTHSIG22	getresourc resourc 
+MTHSIG23	isgaeen gae enabl 
+MTHSIG4	isallrepositoriesregist repositori regist list repositori repositori 
+MTHSIG5	isrepositoryregist repositori regist repositori repositori 
+MTHSIG6	isallpluginrepositoriesregist plugin repositori regist list repositori repositori 
+MTHSIG7	ispluginrepositoryregist plugin repositori regist repositori repositori 
+MTHSIG0	projectmetadata project metadata javapackag toplevelpackag top level projectnam project set depend depend set plugin buildplugin build plugin set repositori repositori set repositori pluginrepositori plugin repositori set properti pomproperti pom properti set filter filter set resourc resourc pathresolv path resolv pathresolv path resolv 
+MTHSIG1	getprojectidentifi project identifi 
+PACKAGE	springframework roo project 
+MTHSIG2	isalldependenciesregist depend regist list depend depend 
+MTHSIG3	isdependencyregist depend regist depend depend 
+MTHSIG20	getproperti properti 
+MTHSIG21	getfilt filter 
+MTHSIG8	isbuildpluginregist build plugin regist plugin plugin 
+VARSIG30	depend depend 
+MTHSIG9	ispropertyregist properti regist properti properti 
+CLASSES	projectmetadata project metadata 
+VARSIG29	plugin buildplugin build plugin 
+VARSIG28	plugin buildplugin build plugin 
+METHODS	projectmetadata project metadata getprojectidentifi project identifi isalldependenciesregist depend regist isdependencyregist depend regist isallrepositoriesregist repositori regist isrepositoryregist repositori regist isallpluginrepositoriesregist plugin repositori regist ispluginrepositoryregist plugin repositori regist isbuildpluginregist build plugin regist ispropertyregist properti regist isfilterregist filter regist isresourceregist resourc regist gettoplevelpackag top level getprojectnam project getpathresolv path resolv getdepend depend getdependenciesexcludingvers depend exclud version getbuildplugin build plugin getbuildpluginsexcludingvers build plugin exclud version getpropertiesexcludingvalu properti exclud getproperti properti getfilt filter getresourc resourc isgaeen gae enabl isdatanucleusen data nucleu enabl isvmforceen mforc enabl tostr 
+VARSIG23	plugin 
+VARSIG22	plugin plugin 
+VARSIG21	depend 
+VARSIG20	depend depend 
+VARSIG27	properti 
+VARSIG26	 
+VARSIG25	properti 
+VARSIG24	properti properti 
+VARSIG7	set filter filter 
+VARSIG6	set properti pomproperti pom properti 
+VARSIG9	pathresolv path resolv pathresolv path resolv 
+VARSIG8	set resourc resourc 
+VARSIG3	set plugin buildplugin build plugin 
+VARSIG2	set depend depend 
+VARSIG5	set repositori pluginrepositori plugin repositori 
+VARSIG4	set repositori repositori 
+COMMENTS	repres project roo instanc singl project activ time project add on expect subclass link projectmetadata project metadata implement method link projectmetadata project metadata offer conveni method acquir project top level project regist depend path resolut servic concret subclass regist correct depend project build system requir read file chang subclass provid valid link pathresolv path resolv implement understand target project layout mid springframework roo project projectmetadata project metadata project conveni determin present depend regist depend depend check requir depend regist conveni determin depend regist depend depend check requir depend regist conveni determin present repositori regist repositori repositori check requir repositori regist conveni determin repositori regist repositori check requir repositori regist conveni determin present plugin repositori regist repositori plugin repositori check requir plugin repositori regist conveni determin plugin repositori regist repositori repositori check requir plugin repositori regist conveni determin build plugin regist plugin check requir build plugin regist conveni determin pom properti regist properti check requir properti regist conveni determin filter regist filter check requir filter regist conveni determin resourc regist resourc check requir resourc regist unmodifi represent depend empti locat depend match present depend exclud version number upgrad case locat depend group artifact type identif remov depend locat requir note version number comparison match depend return empti link set unmodifi collect build plugin empti locat build plugin match present plugin exclud version number upgrad case locat build plugin group artifact identif remov plugin locat requir note version number comparison match plugin return empti link set locat properti match present properti exclud upgrad case locat properti remov properti locat requir note comparison match properti return empti link set locat occur properti return properti requir properti unmodifi represent filter empti unmodifi represent resourc empti determin googl app engin maven plugin exist pom maven gae plugin pom xml determin datanucleu data nucleu maven plugin exist pom maven datanucleu plugin pom xml determin vmforc mforc maven depend exist pom forc sdk pom xml 
+VARSIG19	resourc resourc 
+VARSIG1	projectnam project 
+VARSIG18	filter filter 
+VARSIG0	javapackag toplevelpackag top level 
+VARSIG17	properti properti 
+VARSIG12	list repositori repositori 
+VARSIG11	depend depend 
+VARSIG10	list depend depend 
+VARSIG16	plugin plugin 
+VARSIG15	repositori repositori 
+VARSIG14	list repositori repositori 
+VARSIG13	repositori repositori 
+MTHSIG17	getbuildplugin build plugin 
+MTHSIG18	getbuildpluginsexcludingvers build plugin exclud version plugin plugin 
+MTHSIG15	getdepend depend 
+MTHSIG16	getdependenciesexcludingvers depend exclud version depend depend 
+MTHSIG13	getprojectnam project 
+MTHSIG14	getpathresolv path resolv 
+MTHSIG11	isresourceregist resourc regist resourc resourc 
+MTHSIG12	gettoplevelpackag top level 
+MTHSIG19	getpropertiesexcludingvalu properti exclud properti properti 
+MTHSIG10	isfilterregist filter regist filter filter 
+VARIABLES	toplevelpackag top level projectnam project depend buildplugin build plugin repositori pluginrepositori plugin repositori pomproperti pom properti filter resourc pathresolv path resolv depend depend repositori repositori repositori repositori plugin properti filter resourc depend plugin properti buildplugin build plugin buildplugin build plugin depend project identifi toplevelpackag top level projectnam project depend buildplugin build plugin repositori pluginrepositori plugin repositori pomproperti pom properti filter resourc pathresolv path resolv result result result tsc 

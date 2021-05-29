@@ -1,0 +1,47 @@
+VARSIG7	columnname column
+VARSIG6	schema schema
+VARSIG9	sqlexception sql exception
+VARSIG8	tablename table
+VARSIG3	set includetables include tables
+VARSIG2	view
+VARSIG5	schema schema
+VARSIG4	set excludetables exclude tables
+COMMENTS	creates link database database model live database jdbc fields check tables oracle recycle bin tables ignore catching sqlexception sql exception oracle throwing exception attempting retrieve indices deleted tables exist oracle oracle recycle bin
+VARSIG19	table
+VARSIG1	set schema schemas
+VARSIG18	tablename table
+VARSIG0	connection connection
+VARSIG17	set tables
+MTHSIG4	readcolumns read columns table table
+VARSIG12	exported
+MTHSIG5	readforeignkeys read foreign table table exported
+VARSIG11	table table
+MTHSIG6	getcascadeaction cascade action actionvalue action
+VARSIG10	table table
+MTHSIG7	hasincludedtable included table tablename table
+MTHSIG0	databaseintrospector database introspector connection connection set schema schemas view set includetables include tables set excludetables exclude tables
+VARSIG16	tablename table
+MTHSIG1	createdatabase create database
+VARSIG15	tablename table
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	gettables tables schema schema
+VARSIG14	actionvalue action
+MTHSIG3	ignoretables ignore tables tablename table
+VARSIG13	foreignkey foreign key foreignkey foreign key
+MTHSIG8	hasexcludedtable excluded table tablename table
+MTHSIG9	hastable table set tables tablename table
+MTHSIG13	getartifact artifact artifactname artifact
+MTHSIG11	findindex find set indices
+MTHSIG12	readprimarykeynames read primary key names table table
+CLASSES	databaseintrospector database introspector
+METHODS	databaseintrospector database introspector createdatabase create database gettables tables ignoretables ignore tables readcolumns read columns readforeignkeys read foreign getcascadeaction cascade action hasincludedtable included table hasexcludedtable excluded table hastable table readindices read indices findindex find readprimarykeynames read primary key names getartifact artifact
+VARSIG23	
+VARSIG22	
+VARSIG21	sqlexception sql exception
+VARSIG20	table table
+VARSIG27	artifactname artifact
+VARSIG26	table table
+VARSIG25	
+VARSIG24	set indices
+MTHSIG10	readindices read indices table table
+VARIABLES	connection schemas view includetables include tables excludetables exclude tables schema schema columnname column tablename table table table exported foreignkey foreign key actionvalue action tablename table tablename table tables tablename table table table indices table artifactname artifact schemas view includetables include tables excludetables exclude tables tables tables types tablename table table column ignore column foreignkeys foreign foreigntablename foreign table key foreignkey foreign key localcolumnname local column foreigncolumnname foreign column reference cascadeaction cascade action regex pattern indices type indexname indexcolumn column columnnames column names

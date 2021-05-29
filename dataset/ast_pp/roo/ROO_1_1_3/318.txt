@@ -1,0 +1,17 @@
+VARSIG3	exception
+VARSIG2	exception
+VARSIG5	element dependency
+VARSIG4	ioexception exception
+COMMENTS	operations create view layer resources note sequence matters artifacts loaded verify servlet application context exists file exists verify web xml exists webxmlutils web xml utils addwelcomefile add file webxml web xml verify middle tier application context exists file exists
+CLASSES	webmvcoperationsimpl web mvc operations impl
+VARSIG1	ioexception exception
+VARSIG0	exception
+METHODS	installminmalwebartefacts install minmal web artefacts installallwebmvcartifacts install web mvc artifacts copywebxml copy web xml managewebxml manage web xml createwebapplicationcontext create web application context updateconfiguration update configuration
+MTHSIG4	createwebapplicationcontext create web application context
+MTHSIG5	updateconfiguration update configuration
+MTHSIG0	installminmalwebartefacts install minmal web artefacts
+MTHSIG1	installallwebmvcartifacts install web mvc artifacts
+PACKAGE	springframework roo addon web mvc controller
+MTHSIG2	copywebxml copy web xml
+MTHSIG3	managewebxml manage web xml
+VARIABLES	dependency filemanager file manager projectoperations project operations pathresolver path resolver servletctxfilename servlet ctx filename webxmlpath web xml path templateinputstream template input stream webxml web xml projectname project pathresolver path resolver webxmlfile web xml file webxml web xml pathresolver path resolver templateinputstream template input stream webmvcconfig web mvc config rootelement root element configuration dependencies springdependencies spring dependencies

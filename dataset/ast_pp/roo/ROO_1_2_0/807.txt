@@ -1,0 +1,26 @@
+VARSIG7	javatype type typetoimport type
+VARSIG6	list javatype type typestoimport types
+VARSIG9	javatype type candidate
+VARSIG8	javatype type javatype type
+VARSIG3	javatype type javatype type
+VARSIG2	javapackage compilationunitpackage compilation unit
+VARSIG5	javatype type typetoimport type
+VARSIG4	javatype type typestoimport types
+COMMENTS	implementation link importregistrationresolver registration resolver fields type variable primitive types legal isn existing registration conflicts conflict detected primitives type variables fully qualified form explicit registration fully qualified add simple fully qualified form
+VARSIG1	javatype type
+VARSIG0	javatype type
+MTHSIG4	addimports add imports list javatype type typestoimport types
+MTHSIG5	isadditionlegal addition legal javatype type javatype type
+VARSIG11	javatype type javatype type
+MTHSIG6	isfullyqualifiedformrequired fully qualified form required javatype type javatype type
+VARSIG10	javatype type javatype type
+MTHSIG7	isfullyqualifiedformrequiredafterautoimport fully qualified form required auto javatype type javatype type
+MTHSIG0	importregistrationresolverimpl registration resolver impl javapackage compilationunitpackage compilation unit
+MTHSIG1	getcompilationunitpackage compilation unit
+PACKAGE	springframework roo model
+MTHSIG2	addimport add javatype type javatype type
+MTHSIG3	addimports add imports javatype type typestoimport types
+MTHSIG8	getregisteredimports registered imports
+CLASSES	importregistrationresolverimpl registration resolver impl
+METHODS	importregistrationresolverimpl registration resolver impl getcompilationunitpackage compilation unit addimport add addimports add imports addimports add imports isadditionlegal addition legal isfullyqualifiedformrequired fully qualified form required isfullyqualifiedformrequiredafterautoimport fully qualified form required auto getregisteredimports registered imports
+VARIABLES	compilationunitpackage compilation unit javatype type typestoimport types typetoimport type typestoimport types typetoimport type javatype type candidate javatype type javatype type compilationunitpackage compilation unit registeredimports registered imports

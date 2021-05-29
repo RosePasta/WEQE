@@ -1,0 +1,18 @@
+VARSIG6	capability capability
+VARSIG3	jdbcdriverprovider jdbc driver provider provider
+VARSIG2	driverclassname driver
+VARSIG5	resource resource
+VARSIG4	driverclassname driver
+COMMENTS	polls osgi located link jdbcdriverprovider jdbc driver provider instances returns jdbc driver instance failing location suitable link jdbcdriverprovider jdbc driver provider automatically suggests add provide driver console message implementation provide jdbc driver
+CLASSES	pollingjdbcdrivermanager polling jdbc driver manager
+VARSIG1	jdbcdriverprovider jdbc driver provider listener
+VARSIG0	jdbcdriverprovider jdbc driver provider listener
+METHODS	bindjdbcdriverprovider bind jdbc driver provider unbindjdbcdriverprovider unbind jdbc driver provider loaddriver load driver findaddonsoffering find add ons offering getfindertargetsingular finder target singular getfindertargetplural finder target plural
+MTHSIG4	getfindertargetsingular finder target singular
+MTHSIG5	getfindertargetplural finder target plural
+MTHSIG0	bindjdbcdriverprovider bind jdbc driver provider jdbcdriverprovider jdbc driver provider listener
+MTHSIG1	unbindjdbcdriverprovider unbind jdbc driver provider jdbcdriverprovider jdbc driver provider listener
+PACKAGE	springframework roo addon jdbc polling internal
+MTHSIG2	loaddriver load driver driverclassname driver
+MTHSIG3	findaddonsoffering find add ons offering driverclassname driver
+VARIABLES	listener listener driverclassname driver provider driverclassname driver resource capability providers obrresourcefinder obr resource finder addonsearchmanager add search manager driver result resources props vstring

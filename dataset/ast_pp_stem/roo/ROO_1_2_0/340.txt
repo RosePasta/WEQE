@@ -1,0 +1,21 @@
+VARSIG7	logicalpath logic path path 
+VARSIG6	javatyp type javatyp type 
+VARSIG8	metadataidentificationstr metadata identif 
+VARSIG3	javatyp type aspectnam aspect 
+VARSIG2	metadataidentificationstr metadata identif 
+VARSIG5	itdfilenam filenam 
+VARSIG4	physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+COMMENTS	implement link mongoentitymetadataprovid mongo entiti metadata provid constant field governor governor member detail 
+CLASSES	mongoentitymetadataproviderimpl mongo entiti metadata provid impl 
+VARSIG1	componentcontext compon context context 
+VARSIG0	componentcontext compon context context 
+METHODS	activ deactiv getmetadata metadata getitduniquenessfilenamesuffix uniqu filenam suffix getprovidestyp type createlocalidentifi creat local identifi getgovernorphysicaltypeidentifi governor physic type identifi 
+MTHSIG4	getprovidestyp type 
+MTHSIG5	createlocalidentifi creat local identifi javatyp type javatyp type logicalpath logic path path 
+MTHSIG6	getgovernorphysicaltypeidentifi governor physic type identifi metadataidentificationstr metadata identif 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	deactiv componentcontext compon context context 
+PACKAGE	springframework roo addon layer repositori mongo 
+MTHSIG2	getmetadata metadata metadataidentificationstr metadata identif javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata itdfilenam filenam 
+MTHSIG3	getitduniquenessfilenamesuffix uniqu filenam suffix 
+VARIABLES	context context metadataidentificationstr metadata identif aspectnam aspect governorphysicaltypemetadata governor physic type metadata itdfilenam filenam javatyp type path metadataidentificationstr metadata identif field matcher persist type matcher accessor matcher mutat matcher customdatakeydecor custom data kei decor annotationvalu annot valu identifiertyp identifi type memberdetail member detail javatyp type path 

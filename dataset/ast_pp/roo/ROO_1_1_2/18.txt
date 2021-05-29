@@ -1,0 +1,21 @@
+VARSIG7	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG6	javatype type aspectname aspect
+VARSIG8	itdfilename filename
+VARSIG3	path path
+VARSIG2	javatype type javatype type
+VARSIG5	metadataidentificationstring metadata identification
+VARSIG4	metadataidentificationstring metadata identification
+COMMENTS	link dbremetadata dbre metadata governor type details safely abort database couldn deserialized occur dbre xml file deleted empty search database managed entities
+CLASSES	dbremetadataproviderimpl dbre metadata provider impl
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+METHODS	activate deactivate createlocalidentifier create local identifier getgovernorphysicaltypeidentifier governor physical type identifier getmetadata metadata getitduniquenessfilenamesuffix uniqueness filename suffix getprovidestype type
+MTHSIG4	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+MTHSIG5	getitduniquenessfilenamesuffix uniqueness filename suffix
+MTHSIG6	getprovidestype type
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo addon dbre
+MTHSIG2	createlocalidentifier create local identifier javatype type javatype type path path
+MTHSIG3	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+VARIABLES	context context javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename dbremodelservice dbre model service typelocationservice type location service javatype type path javatype type entitymetadata entity metadata entityfields entity fields entitymethods entity methods identifierfields identifier fields identifiermetadatamid identifier metadata mid identifiermetadata identifier metadata database managedentities managed entities

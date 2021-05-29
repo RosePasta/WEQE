@@ -1,0 +1,21 @@
+VARSIG7	interruptedexception interrupted exception
+VARSIG6	extra
+VARSIG9	processmanager process manager processmanager process manager
+VARSIG8	inputstream input stream inputstream input stream
+VARSIG3	exception
+VARSIG2	integer majorjavaversion major version
+VARSIG5	ioexception exception
+VARSIG4	element versionelement version element
+COMMENTS	implementation link mavenoperations maven operations detect major version running roo javax annotation library included jaxb api hibernate ensure separate threads logging roo close outputstream output stream avoid blocking maven commands expect input roo nix mac windows
+CLASSES	mavenoperationsimpl maven operations impl
+VARSIG1	projectname project
+VARSIG0	javapackage toplevelpackage top level
+METHODS	iscreateprojectavailable create project getprojectroot project root createproject create project executemvncommand execute mvn command
+VARSIG11	ioexception exception
+VARSIG10	ioexception exception
+MTHSIG0	iscreateprojectavailable create project
+MTHSIG1	getprojectroot project root
+PACKAGE	springframework roo project
+MTHSIG2	createproject create project javapackage toplevelpackage top level projectname project integer majorjavaversion major version
+MTHSIG3	executemvncommand execute mvn command extra
+VARIABLES	toplevelpackage top level projectname project majorjavaversion major version versionelement version element extra inputstream input stream processmanager process manager logger applicationcontextoperations application context operations filemanager file manager pathresolver path resolver processmanager process manager ver packagename lastindex pom root versionelements version elements dependencies root cmd input errors reader processmanager process manager

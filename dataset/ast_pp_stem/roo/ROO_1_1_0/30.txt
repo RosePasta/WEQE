@@ -1,0 +1,54 @@
+MTHSIG28	getordinalposit ordin posit 
+MTHSIG29	setordinalposit set ordin posit ordinalposit ordin posit 
+MTHSIG26	getjavatyp type 
+MTHSIG27	setjavatyp set type javatyp type 
+MTHSIG24	getdefaultvalu 
+MTHSIG25	setdefaultvalu set defaultvalu 
+MTHSIG22	getscal scale 
+MTHSIG23	setscal set scale scale 
+MTHSIG4	getdescript descript 
+MTHSIG5	setdescript set descript descript 
+MTHSIG6	gettabl tabl 
+MTHSIG7	settabl set tabl tabl tabl 
+MTHSIG0	column 
+MTHSIG1	getnam 
+PACKAGE	springframework roo addon dbre model 
+MTHSIG2	getescapednam escap 
+MTHSIG3	setnam set 
+MTHSIG20	getprecis precis 
+MTHSIG21	setprecis set precis precis 
+MTHSIG8	isprimarykei primari kei 
+MTHSIG9	setprimarykei set primari kei primarykei primari kei 
+CLASSES	column 
+METHODS	column getnam getescapednam escap setnam set getdescript descript setdescript set descript gettabl tabl settabl set tabl isprimarykei primari kei setprimarykei set primari kei isrequir requir setrequir set requir isautoincr auto increment setautoincr set auto increment gettypecod type code settypecod set type code gettyp type settyp set type getlength length setlength set length getprecis precis setprecis set precis getscal scale setscal set scale getdefaultvalu setdefaultvalu set getjavatyp type setjavatyp set type getordinalposit ordin posit setordinalposit set ordin posit hashcod hash code equal tostr 
+MTHSIG31	equal object obj 
+MTHSIG32	tostr 
+MTHSIG30	hashcod hash code 
+VARSIG7	typecod type code 
+VARSIG6	autoincr auto increment 
+VARSIG9	length 
+VARSIG8	columntyp column type type 
+VARSIG3	tabl tabl 
+VARSIG2	descript 
+VARSIG5	requir 
+VARSIG4	primarykei primari kei 
+COMMENTS	repres column databas model 
+VARSIG1	 
+VARSIG0	 
+VARSIG12	defaultvalu 
+VARSIG11	scale 
+VARSIG10	precis 
+VARSIG15	object obj 
+VARSIG14	ordinalposit ordin posit 
+VARSIG13	javatyp type 
+MTHSIG17	settyp set type columntyp column type type 
+MTHSIG18	getlength length 
+MTHSIG15	settypecod set type code typecod type code 
+MTHSIG16	gettyp type 
+MTHSIG13	setautoincr set auto increment autoincr auto increment 
+MTHSIG14	gettypecod type code 
+MTHSIG11	setrequir set requir requir 
+MTHSIG12	isautoincr auto increment 
+MTHSIG19	setlength set length length 
+MTHSIG10	isrequir requir 
+VARIABLES	descript tabl primarykei primari kei requir autoincr auto increment typecod type code type length precis scale defaultvalu javatyp type ordinalposit ordin posit obj serialversionuid serial version uid descript tabl primarykei primari kei requir autoincr auto increment typecod type code type length precis scale defaultvalu javatyp type ordinalposit ordin posit prime result 

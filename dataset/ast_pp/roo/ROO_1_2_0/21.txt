@@ -1,0 +1,19 @@
+VARSIG7	existingdata existing data
+VARSIG6	requiredtype required type
+VARSIG9	methodtarget target target
+VARSIG8	optioncontext option context
+VARSIG3	requiredtype required type
+VARSIG2	optioncontext option context
+VARSIG5	list completion completions
+VARSIG4	optioncontext option context
+COMMENTS	conversion cloud foundry model classes
+CLASSES	serviceconfigurationconverter service configuration converter
+VARSIG1	requiredtype required type
+VARSIG0	
+METHODS	convertfromtext convert text supports getallpossiblevalues values
+VARSIG10	servicetype service type
+MTHSIG0	convertfromtext convert text requiredtype required type optioncontext option context
+MTHSIG1	supports requiredtype required type optioncontext option context
+PACKAGE	springframework roo addon cloud foundry converter
+MTHSIG2	getallpossiblevalues values list completion completions requiredtype required type existingdata existing data optioncontext option context methodtarget target target
+VARIABLES	requiredtype required type optioncontext option context requiredtype required type optioncontext option context completions requiredtype required type existingdata existing data optioncontext option context target servicetype service type session

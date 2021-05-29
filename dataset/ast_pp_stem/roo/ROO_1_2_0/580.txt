@@ -1,0 +1,79 @@
+MTHSIG28	build 
+MTHSIG26	getattribut attribut 
+MTHSIG27	setattribut set attribut collect annotationattributevalu annot attribut attributevalu attribut valu 
+MTHSIG24	getannotationtyp annot type 
+MTHSIG25	setannotationtyp set annot type javatyp type annotationtyp annot type 
+MTHSIG22	addattribut add attribut annotationattributevalu annot attribut 
+MTHSIG23	removeattribut remov attribut kei 
+VARSIG39	 
+MTHSIG4	annotationmetadatabuild annot metadata builder 
+VARSIG34	kei 
+MTHSIG5	annotationmetadatabuild annot metadata builder annotationmetadata annot metadata exist 
+VARSIG33	enumdetail detail detail 
+MTHSIG6	annotationmetadatabuild annot metadata builder annotationtyp annot type 
+VARSIG32	kei 
+MTHSIG7	annotationmetadatabuild annot metadata builder annotationtyp annot type 
+VARSIG31	javasymbolnam symbol enumconst constant 
+MTHSIG0	getinst instanc annotationtyp annot type 
+VARSIG38	kei 
+MTHSIG1	getinst instanc javatyp type annotationtyp annot type 
+VARSIG37	 
+PACKAGE	springframework roo classpath detail annot 
+MTHSIG2	getinst instanc javatyp type annotationtyp annot type collect annotationattributevalu annot attribut attributevalu attribut valu 
+VARSIG36	kei 
+MTHSIG3	getinst instanc annotationtyp annot type 
+VARSIG35	 
+MTHSIG20	addlongattribut add attribut kei 
+MTHSIG21	addstringattribut add attribut kei 
+MTHSIG8	annotationmetadatabuild annot metadata builder javatyp type annotationtyp annot type 
+VARSIG30	javatyp type javatyp type 
+MTHSIG9	annotationmetadatabuild annot metadata builder javatyp type annotationtyp annot type collect annotationattributevalu annot attribut attributevalu attribut valu 
+CLASSES	annotationmetadatabuild annot metadata builder 
+VARSIG29	kei 
+VARSIG28	enumconst constant 
+METHODS	getinst instanc getinst instanc getinst instanc getinst instanc annotationmetadatabuild annot metadata builder annotationmetadatabuild annot metadata builder annotationmetadatabuild annot metadata builder annotationmetadatabuild annot metadata builder annotationmetadatabuild annot metadata builder annotationmetadatabuild annot metadata builder addbooleanattribut add attribut addcharattribut add attribut addclassattribut add attribut addclassattribut add attribut adddoubleattribut add attribut addenumattribut add attribut addenumattribut add attribut addenumattribut add attribut addenumattribut add attribut addintegerattribut add integ attribut addlongattribut add attribut addstringattribut add attribut addattribut add attribut removeattribut remov attribut getannotationtyp annot type setannotationtyp set annot type getattribut attribut setattribut set attribut build 
+VARSIG23	kei 
+VARSIG22	floatingprecisiononli float precis 
+VARSIG21	 
+VARSIG20	kei 
+VARSIG27	javatyp type javatyp type 
+VARSIG26	kei 
+VARSIG25	enumconst constant 
+VARSIG24	fullyqualifiedtypenam fulli qualifi type 
+VARSIG7	annotationtyp annot type 
+VARSIG6	javasymbolnam symbol attributenam attribut 
+VARSIG9	javatyp type annotationtyp annot type 
+VARSIG8	annotationtyp annot type 
+VARSIG3	collect annotationattributevalu annot attribut attributevalu attribut valu 
+VARSIG2	javatyp type annotationtyp annot type 
+VARSIG5	annotationmetadata annot metadata exist 
+VARSIG4	annotationtyp annot type 
+COMMENTS	builder link annotationmetadata annot metadata add replac exist annot attribut care preserv locat constant jpa annot liter name roo depend jpa return metadata exist annot attribut valu annotationtyp annot type fulli qualifi annot type requir instanc return metadata exist annot attribut valu annotationtyp annot type annot type requir instanc field constructor caller set annot type link setannotationtyp set annot type javatyp type call link build constructor exist link annotationmetadata annot metadata baselin build instanc exist requir constructor initi attribut valu annotationtyp annot type annot requir constructor initi attribut valu annotationtyp annot type fulli qualifi annot type requir constructor initi attribut valu annotationtyp annot type constructor accept option list valu annotationtyp annot type attributevalu attribut valu add attribut link javatyp type kei attribut requir javatyp type requir locat exist attribut kei replac locat exist attribut kei replac set attribut valu attributevalu attributevalu valu set 
+VARSIG19	javatyp type javatyp type 
+VARSIG1	javatyp type annotationtyp annot type 
+VARSIG18	kei 
+VARSIG0	annotationtyp annot type 
+VARSIG17	fullyqualifiedtypenam fulli qualifi type 
+VARSIG12	kei 
+VARSIG11	collect annotationattributevalu annot attribut attributevalu attribut valu 
+VARSIG10	javatyp type annotationtyp annot type 
+VARSIG16	kei 
+VARSIG15	 
+VARSIG14	kei 
+VARSIG13	 
+MTHSIG17	addenumattribut add attribut kei javatyp type javatyp type javasymbolnam symbol enumconst constant 
+MTHSIG18	addenumattribut add attribut kei enumdetail detail detail 
+MTHSIG15	addenumattribut add attribut kei fullyqualifiedtypenam fulli qualifi type enumconst constant 
+MTHSIG16	addenumattribut add attribut kei javatyp type javatyp type enumconst constant 
+MTHSIG13	addclassattribut add attribut kei javatyp type javatyp type 
+MTHSIG14	adddoubleattribut add attribut kei floatingprecisiononli float precis 
+MTHSIG11	addcharattribut add attribut kei 
+MTHSIG12	addclassattribut add attribut kei fullyqualifiedtypenam fulli qualifi type 
+MTHSIG19	addintegerattribut add integ attribut kei 
+VARSIG44	annotationattributevalu annot attribut attributevalu attribut 
+VARSIG43	collect annotationattributevalu annot attribut attributevalu attribut valu 
+VARSIG42	javatyp type annotationtyp annot type 
+MTHSIG10	addbooleanattribut add attribut kei 
+VARIABLES	annotationtyp annot type annotationtyp annot type annotationtyp annot type attributevalu attribut valu annotationtyp annot type exist attributenam attribut annotationtyp annot type annotationtyp annot type annotationtyp annot type annotationtyp annot type attributevalu attribut valu kei kei kei fullyqualifiedtypenam fulli qualifi type kei javatyp type kei floatingprecisiononli float precis kei fullyqualifiedtypenam fulli qualifi type enumconst constant kei javatyp type enumconst constant kei javatyp type enumconst constant kei detail kei kei kei kei annotationtyp annot type attributevalu attribut valu attributevalu attribut jpa column annot jpa embed annot jpa embed annot jpa enumer annot jpa annot jpa lob annot jpa annot jpa annot jpa annot jpa annot jpa annot jpa version annot annotationtyp annot type attributevalu attribut valu detail detail detail 
+VARSIG41	kei 
+VARSIG40	annotationattributevalu annot attribut 

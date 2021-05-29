@@ -1,0 +1,20 @@
+VARSIG3	focusedmodule focused module
+VARSIG2	pom focusedmodule focused module
+VARSIG4	fileidentifier file identifier
+COMMENTS	link pom methods project code link projectoperations project operations returns link projectdescriptor project descriptor canonical path canonicalpath canonical path canonical path descriptor file file returns link projectdescriptor project descriptor module modulename module module blank there module returns link projectdescriptor project descriptor project project root descriptor file there pom returns link projectdescriptor project descriptor focussed module module focus root link projectdescriptor project descriptor poms exist returns focussed module empty module focus focusedmodule focused module link projectdescriptor project descriptor focus focus module descriptor file focusedmodule focused module canonical path descriptor file fileidentifier file identifier canonical path lookup module represents module passed file belongs returns names modules project collection returns link projectdescriptor project descriptor copy collection
+CLASSES	pommanagementservice pom management service
+VARSIG1	modulename module
+VARSIG0	canonicalpath canonical path
+METHODS	getpomfrompath pom path getpomfrommodulename pom module getrootpom root pom getfocusedmodule focused module getfocusedmodulename focused module setfocusedmodule set focused module setfocusedmodule set focused module getmoduleforfileidentifier module file identifier getmodulenames module names getpoms poms
+MTHSIG4	getfocusedmodulename focused module
+MTHSIG5	setfocusedmodule set focused module pom focusedmodule focused module
+MTHSIG6	setfocusedmodule set focused module focusedmodule focused module
+MTHSIG7	getmoduleforfileidentifier module file identifier fileidentifier file identifier
+MTHSIG0	getpomfrompath pom path canonicalpath canonical path
+MTHSIG1	getpomfrommodulename pom module modulename module
+PACKAGE	springframework roo project
+MTHSIG2	getrootpom root pom
+MTHSIG3	getfocusedmodule focused module
+VARIABLES	canonicalpath canonical path modulename module focusedmodule focused module focusedmodule focused module fileidentifier file identifier
+MTHSIG8	getmodulenames module names
+MTHSIG9	getpoms poms

@@ -1,0 +1,33 @@
+VARSIG7	path path
+VARSIG6	path path
+VARSIG9	logicalpath logical path path
+VARSIG8	identifier
+VARSIG3	javatype type javatype type
+VARSIG2	path path
+VARSIG5	relativepath relative path
+VARSIG4	path path
+COMMENTS	strategy resolving logical link path physical file system locations path focus path javatype type type path javatype type path relativepath relative path pathresolver path resolver getfocusedpath focused path path path converts presented canonical path human friendly identifier resolve required human friendly identifier required produces canonical path presented link logicalpath logical path relative path path required relativepath relative path empty referring path canonical path file attempts determine link path canonical path falls identifier lookup required link path identifier refers location path pathresolver path resolver getpaths paths attempts determine link path canonical path falls returns relative portion file link springframework roo file monitor event filedetails file details getrelativesegment relative segment identifier resolve required relative segment empty identifier referred link path identifier link path directory roo launched pathresolver path resolver getroot root logicalpath logical path pathresolver path resolver getsourcepaths source paths strategy active link pathresolver path resolver typically expect strategy active time
+VARSIG1	javatype type javatype type
+VARSIG0	logicalpath logical path path
+MTHSIG4	getfocusedroot focused root path path
+VARSIG12	identifier
+MTHSIG5	getfriendlyname friendly identifier
+VARSIG11	identifier
+MTHSIG6	getidentifier identifier logicalpath logical path path relativepath relative path
+VARSIG10	relativepath relative path
+MTHSIG7	getpath path identifier
+MTHSIG0	getcanonicalpath canonical path logicalpath logical path path javatype type javatype type
+MTHSIG1	getfocusedcanonicalpath focused canonical path path path javatype type javatype type
+PACKAGE	springframework roo project
+MTHSIG2	getfocusedidentifier focused identifier path path relativepath relative path
+MTHSIG3	getfocusedpath focused path path path
+VARSIG13	logicalpath logical path path
+MTHSIG8	getpaths paths
+MTHSIG9	getrelativesegment relative segment identifier
+MTHSIG13	isactive active
+MTHSIG11	getroot root logicalpath logical path path
+MTHSIG12	getsourcepaths source paths
+CLASSES	pathresolvingstrategy path resolving strategy
+METHODS	getcanonicalpath canonical path getfocusedcanonicalpath focused canonical path getfocusedidentifier focused identifier getfocusedpath focused path getfocusedroot focused root getfriendlyname friendly getidentifier identifier getpath path getpaths paths getrelativesegment relative segment getroot root getroot root getsourcepaths source paths isactive active
+MTHSIG10	getroot root
+VARIABLES	path javatype type path javatype type path relativepath relative path path path identifier path relativepath relative path identifier identifier path

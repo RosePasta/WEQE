@@ -1,0 +1,106 @@
+MTHSIG28	getrequiredmutatornam requir mutat fieldmetadata field metadata field 
+MTHSIG29	getembeddedidmutatormethod embed mutat 
+MTHSIG26	getcollaboratingfieldnam collabor field javatyp type entiti 
+MTHSIG27	getcollaboratingtyp collabor type javatyp type entiti 
+MTHSIG24	isintegerfieldtyp integ field type javatyp type fieldtyp field type 
+MTHSIG25	isdecimalfieldtyp decim field type javatyp type fieldtyp field type 
+MTHSIG22	storefieldiniti store field initi 
+MTHSIG23	getfieldiniti field initi fieldmetadata field metadata field dataondemandmetadata data demand metadata collaboratingmetadata collabor metadata 
+MTHSIG4	addfieldstobuild add field builder 
+MTHSIG5	getnewtransiententitymethod entiti 
+MTHSIG6	getembeddedidmethod embed 
+MTHSIG7	addmethodstobuild add method builder 
+MTHSIG0	dataondemandmetadata data demand metadata identifi javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata dataondemandannotationvalu data demand annot valu annotationvalu annot valu methodmetadata metadata identifieraccessor identifi accessor methodmetadata metadata findmethod find methodmetadata metadata findentriesmethod find entri methodmetadata metadata persistmethod persist methodmetadata metadata flushmethod flush map methodmetadata metadata collaboratingdataondemandmetadatahold collabor data demand metadata holder locatedmut locat mutat javatyp type entitytyp entiti type embeddedidentifierhold embed identifi holder embeddedidentifierhold embed identifi holder 
+MTHSIG1	getcomponentannot compon annot 
+MTHSIG2	getrndfield rnd field 
+MTHSIG3	getdatafield data field 
+MTHSIG20	hasembeddedidentifi embed identifi 
+MTHSIG21	storeembeddedidiniti store embed initi 
+MTHSIG8	getfieldinitializermethod field initi method 
+MTHSIG9	getconstructorfieldiniti constructor field initi fieldmetadata field metadata field initi javasymbolnam symbol mutatornam mutat 
+MTHSIG35	isvalid valid metadataidentificationstr metadata identif 
+MTHSIG33	getjavatyp type metadataidentificationstr metadata identif 
+MTHSIG34	getpath path metadataidentificationstr metadata identif 
+METHODS	dataondemandmetadata data demand metadata getcomponentannot compon annot getrndfield rnd field getdatafield data field addfieldstobuild add field builder getnewtransiententitymethod entiti getembeddedidmethod embed addmethodstobuild add method builder getfieldinitializermethod field initi method getconstructorfieldiniti constructor field initi getfieldiniti field initi gettypestr type str dodigit digit dodecimalminanddecimalmax decim min decim max docolumnprecisionandscal column precis scale dominandmax min max getmodifymethod modifi getrandompersistententitymethod random persist entiti getspecificpersistententitymethod specif persist entiti getinitmethod init hasembeddedidentifi embed identifi storeembeddedidiniti store embed initi storefieldiniti store field initi getfieldiniti field initi isintegerfieldtyp integ field type isdecimalfieldtyp decim field type getcollaboratingfieldnam collabor field getcollaboratingtyp collabor type getrequiredmutatornam requir mutat getembeddedidmutatormethod embed mutat tostr getmetadataidentifertyp metadata identif type createidentifi creat identifi getjavatyp type getpath path isvalid valid 
+VARSIG64	metadataidentificationstr metadata identif 
+MTHSIG31	getmetadataidentifertyp metadata identif type 
+MTHSIG32	createidentifi creat identifi javatyp type javatyp type path path 
+MTHSIG30	tostr 
+VARSIG63	metadataidentificationstr metadata identif 
+VARSIG62	metadataidentificationstr metadata identif 
+VARSIG61	path path 
+VARSIG60	javatyp type javatyp type 
+COMMENTS	metadata link roodataondemand roo data demand calcul store field initi add springframework stereotyp compon annot type exist annot exist creat creat requir rnd field user produc demand return comput requir field verifi candid suitabl candid name clash subclass candid isn util random isn suitabl valid candid don check initi assum user thei candid let creat data field user produc demand return comput requir field type paramet field type verifi candid suitabl candid name clash subclass candid isn util list theentiti entiti isn suitabl equal verifi type param valid candid don check initi assum user thei candid let creat expect field correct reli move field field add hasn getnewtransientent entiti entiti return definit find build locat user defin creat creat composit kei embed requir locat user defin governor creat creat constructor embed locat user defin governor creat governor creat check size column length attribut check digit decimalmax decim max decimalmin decim min check min max modifyent modifi entiti entiti return definit find build locat user defin creat getrandoment random entiti entiti return definit find build locat user defin creat getspecificent specif entiti entiti return definit find build locat user defin creat init return definit find build locat user defin creat bodi creat field includ datanucleu data nucleu initi util check size auto box auto box auto box auto box avoid circular refer roo decid deal roo comput requir field usabl 
+VARSIG19	initi 
+VARSIG18	fieldmetadata field metadata field 
+VARSIG17	methodmetadata metadata mutat 
+VARSIG12	javatyp type entityneedingcollabor entiti need collabor 
+VARSIG11	embeddedidentifierhold embed identifi holder embeddedidentifierhold embed identifi holder 
+VARSIG10	javatyp type entitytyp entiti type 
+VARSIG16	methodmetadata metadata fieldinitializermethod field initi 
+VARSIG15	methodmetadatabuild metadata builder itdmethod 
+VARSIG14	fieldmetadata field metadata identifierfield identifi field 
+VARSIG13	methodmetadata metadata mutat 
+MTHSIG17	getrandompersistententitymethod random persist entiti 
+MTHSIG18	getspecificpersistententitymethod specif persist entiti 
+MTHSIG15	dominandmax min max fieldmetadata field metadata field invocablememberbodybuild invoc member bodi builder bodybuild bodi builder javasymbolnam symbol mutatornam mutat initi suffix 
+MTHSIG16	getmodifymethod modifi 
+MTHSIG13	dodecimalminanddecimalmax decim min decim max fieldmetadata field metadata field annotationmetadata annot metadata decimalminannot decim min annot annotationmetadata annot metadata decimalmaxannot decim max annot invocablememberbodybuild invoc member bodi builder bodybuild bodi builder javasymbolnam symbol mutatornam mutat initi suffix 
+MTHSIG14	docolumnprecisionandscal column precis scale fieldmetadata field metadata field map object valu invocablememberbodybuild invoc member bodi builder bodybuild bodi builder javasymbolnam symbol mutatornam mutat initi suffix 
+MTHSIG11	gettypestr type str javatyp type fieldtyp field type 
+MTHSIG12	dodigit digit fieldmetadata field metadata field annotationmetadata annot metadata digitsannot digit annot invocablememberbodybuild invoc member bodi builder bodybuild bodi builder javasymbolnam symbol mutatornam mutat initi suffix 
+MTHSIG19	getinitmethod init 
+MTHSIG10	getfieldiniti field initi fieldmetadata field metadata field initi javasymbolnam symbol mutatornam mutat ismutatorfield mutat field 
+VARIABLES	identifi aspectnam aspect governorphysicaltypemetadata governor physic type metadata annotationvalu annot valu identifieraccessor identifi accessor findmethod find findentriesmethod find entri persistmethod persist flushmethod flush locatedmut locat mutat entitytyp entiti type embeddedidentifierhold embed identifi holder entityneedingcollabor entiti need collabor mutat identifierfield identifi field itdmethod fieldinitializermethod field initi mutat field initi mutatornam mutat field initi mutatornam mutat ismutatorfield mutat field fieldtyp field type field digitsannot digit annot bodybuild bodi builder mutatornam mutat initi suffix field decimalminannot decim min annot decimalmaxannot decim max annot bodybuild bodi builder mutatornam mutat initi suffix field valu bodybuild bodi builder mutatornam mutat initi suffix field bodybuild bodi builder mutatornam mutat initi suffix field mutatormethod mutat field collaboratingmetadata collabor metadata fieldtyp field type fieldtyp field type entiti entiti field mutat javatyp type path metadataidentificationstr metadata identif metadataidentificationstr metadata identif metadataidentificationstr metadata identif type type compon max min size big integ big decim annotationvalu annot valu identifieraccessor identifi accessor findmethod find findentriesmethod find entri persistmethod persist flushmethod flush locatedmut locat mutat entitytyp entiti type embeddedidentifierhold embed identifi holder fieldiniti field initi embeddedidiniti embed initi requireddataondemandcollabor requir data demand collabor annotationbuild annot builder fieldnam field fieldsymbolnam field symbol candid fieldbuild field builder fieldnam field typeparam type param fieldsymbolnam field symbol candid fieldbuild field builder field collaboratortyp collabor type collaboratingfieldnam collabor field fieldsymbolnam field symbol candid annot fieldbuild field builder field methodnam paramtyp type paramnam name usermethod user bodybuild bodi builder methodbuild builder embeddedidentifiermut embed identifi mutat methodnam paramtyp type builder initi constructorfieldiniti constructor field initi bodybuild bodi builder identifiertyp identifi type constructormetadata constructor metadata paramnam name methodbuild builder methodnam name fieldinitializermethod field initi method paramnam name paramtyp type initi bodybuild bodi builder methodbuild builder bodybuild bodi builder fieldnam field fieldtyp field type suffix sizeannot size annot maxvalu max valu lengthvalu length digitsannot digit annot decimalminannot decim min annot decimalmaxannot decim max annot valu arraystr arrai str typestr type str integervalu integ fractionvalu fraction fieldnam field fieldtyp field type maxvalu max fieldnam field fieldtyp field type minvalu min maxvalu max minvalu min maxvalu max precis scale fieldnam field fieldtyp field type maxvalu max fieldnam field fieldtyp field type minannot min annot maxannot max annot minvalu min maxvalu max minvalu min maxvalu max methodnam paramtyp type paramnam name returntyp type usermethod user bodybuild bodi builder methodbuild builder methodnam paramtyp type paramnam name usermethod user bodybuild bodi builder methodbuild builder methodnam paramtyp type paramnam name usermethod user bodybuild bodi builder methodbuild builder methodnam paramtyp type paramnam name returntyp type usermethod user bodybuild bodi builder datafield data field methodbuild builder initi metadatahold metadata holder field initi fieldtyp field type initi fieldiniti field initi fieldcustomdatakei field custom data offset maxlength max length sizeannot size annot maxvalu max minvalu min minlength min length columnvalu column valu calendarstr calendar collaboratingfieldnam collabor field fieldnam field name embeddedidfield embed field fieldnam field tsc 
+VARSIG39	fieldmetadata field metadata field 
+VARSIG34	annotationmetadata annot metadata decimalmaxannot decim max annot 
+VARSIG33	annotationmetadata annot metadata decimalminannot decim min annot 
+VARSIG32	fieldmetadata field metadata field 
+VARSIG31	suffix 
+VARSIG38	suffix 
+VARSIG37	initi 
+PACKAGE	springframework roo addon dod 
+VARSIG36	javasymbolnam symbol mutatornam mutat 
+VARSIG35	invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+VARSIG30	initi 
+CLASSES	dataondemandmetadata data demand metadata 
+VARSIG29	javasymbolnam symbol mutatornam mutat 
+VARSIG28	invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+VARSIG23	javasymbolnam symbol mutatornam mutat 
+VARSIG22	initi 
+VARSIG21	fieldmetadata field metadata field 
+VARSIG20	javasymbolnam symbol mutatornam mutat 
+VARSIG27	annotationmetadata annot metadata digitsannot digit annot 
+VARSIG26	fieldmetadata field metadata field 
+VARSIG25	javatyp type fieldtyp field type 
+VARSIG24	ismutatorfield mutat field 
+VARSIG7	methodmetadata metadata persistmethod persist 
+VARSIG6	methodmetadata metadata findentriesmethod find entri 
+VARSIG9	map methodmetadata metadata collaboratingdataondemandmetadatahold collabor data demand metadata holder locatedmut locat mutat 
+VARSIG8	methodmetadata metadata flushmethod flush 
+VARSIG3	dataondemandannotationvalu data demand annot valu annotationvalu annot valu 
+VARSIG2	physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+VARSIG5	methodmetadata metadata findmethod find 
+VARSIG4	methodmetadata metadata identifieraccessor identifi accessor 
+VARSIG1	javatyp type aspectnam aspect 
+VARSIG0	identifi 
+VARSIG56	javatyp type entiti 
+VARSIG55	javatyp type fieldtyp field type 
+VARSIG54	javatyp type fieldtyp field type 
+VARSIG53	dataondemandmetadata data demand metadata collaboratingmetadata collabor metadata 
+VARSIG59	methodmetadata metadata mutat 
+VARSIG58	fieldmetadata field metadata field 
+VARSIG57	javatyp type entiti 
+VARSIG52	fieldmetadata field metadata field 
+VARSIG51	methodmetadata metadata mutatormethod mutat 
+VARSIG50	fieldmetadata field metadata field 
+VARSIG45	fieldmetadata field metadata field 
+VARSIG44	suffix 
+VARSIG43	initi 
+VARSIG42	javasymbolnam symbol mutatornam mutat 
+VARSIG49	suffix 
+VARSIG48	initi 
+VARSIG47	javasymbolnam symbol mutatornam mutat 
+VARSIG46	invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+VARSIG41	invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+VARSIG40	map object valu 

@@ -1,0 +1,21 @@
+VARSIG7	tag 
+VARSIG6	javasymbolnam symbol methodnam 
+VARSIG8	methodmetadata metadata methodmetadata metadata 
+VARSIG3	list javasymbolnam symbol parameternam paramet name 
+VARSIG2	list annotatedjavatyp annot type parametertyp paramet type 
+VARSIG5	javatyp type returntyp type 
+VARSIG4	list javatyp type throwstyp type 
+COMMENTS	link methodmetadata metadata specif implement link invocablemembermetadatacustomdatakei invoc member metadata custom data kei todo add valid logic returntyp type methodnam 
+CLASSES	methodmetadatacustomdatakei metadata custom data kei 
+VARSIG1	list annotationmetadata annot metadata annot 
+VARSIG0	integ modifi 
+METHODS	methodmetadatacustomdatakei metadata custom data kei methodmetadatacustomdatakei metadata custom data kei meet getreturntyp type getmethodnam tostr 
+MTHSIG4	getmethodnam 
+MTHSIG5	tostr 
+MTHSIG6	 
+MTHSIG0	methodmetadatacustomdatakei metadata custom data kei integ modifi list annotationmetadata annot metadata annot list annotatedjavatyp annot type parametertyp paramet type list javasymbolnam symbol parameternam paramet name list javatyp type throwstyp type javatyp type returntyp type javasymbolnam symbol methodnam 
+MTHSIG1	methodmetadatacustomdatakei metadata custom data kei tag 
+PACKAGE	springframework roo classpath customdata tagkei 
+MTHSIG2	meet methodmetadata metadata methodmetadata metadata 
+MTHSIG3	getreturntyp type 
+VARIABLES	modifi annot parametertyp paramet type parameternam paramet name throwstyp type returntyp type methodnam tag methodmetadata metadata returntyp type methodnam 

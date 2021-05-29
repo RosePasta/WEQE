@@ -1,0 +1,23 @@
+VARSIG7	clioption cli option key type mandatory type display metadata javatype type javatype type
+VARSIG6	downstreamid downstream
+VARSIG9	clioption cli option key maximumcapacity maximum capacity mandatory maximum number metadata items cache maxcapacity max capacity
+VARSIG8	memberholdingtypedetails member holding type details holder
+VARSIG3	upstreamid upstream
+VARSIG2	clioption cli option key metadataid metadata mandatory metadata start mid metadataid metadata
+VARSIG5	downstreamid downstream
+VARSIG4	upstreamid upstream
+COMMENTS	constants fields include level notifications instance receive debugging doesn represent dependencies listed earlier include notifications metadata trigger debugging doesn represent dependencies listed earlier change place
+CLASSES	metadatacommands metadata commands
+VARSIG1	metadatatimingstatistic metadata timing statistic stat
+VARSIG0	clioption cli option key level mandatory verbosity notifications level
+METHODS	metadatatrace metadata trace metadatatimings metadata timings metadataforid metadata metadatafortype metadata type metadatacachemaximum metadata cache maximum ismodulemetadataavailable module metadata metadataformodule metadata module
+MTHSIG4	metadatacachemaximum metadata cache maximum maxcapacity max capacity
+MTHSIG5	ismodulemetadataavailable module metadata
+MTHSIG6	metadataformodule metadata module pom pom
+VARSIG10	clioption cli option key module mandatory optioncontext option context pomconverter pom converter include current module module retrieve metadata defaults focused module pom pom
+MTHSIG0	metadatatrace metadata trace level
+MTHSIG1	metadatatimings metadata timings
+PACKAGE	springframework roo classpath
+MTHSIG2	metadataforid metadata metadataid metadata
+MTHSIG3	metadatafortype metadata type javatype type javatype type
+VARIABLES	level stat metadataid metadata upstreamid upstream upstreamid upstream downstreamid downstream downstreamid downstream javatype type holder maxcapacity max capacity pom metadata module command metadataservice metadata service metadatadependencyregistry metadata dependency registry memberdetailsscanner member details scanner metadatalogger metadata logger projectoperations project operations typelocationservice type location service mdclassid mdclassid javatypedetails type details targetpom target pom projectmid project mid

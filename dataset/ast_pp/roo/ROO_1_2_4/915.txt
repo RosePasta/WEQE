@@ -1,0 +1,26 @@
+VARSIG7	existingdata existing data
+VARSIG6	targettype target type
+VARSIG9	methodtarget target target
+VARSIG8	optioncontext option context
+VARSIG3	targettype target type
+VARSIG2	
+VARSIG5	list completion completions
+VARSIG4	optioncontext option context
+COMMENTS	option context indicating focused module included link converter generates completions
+VARSIG1	list completion completions
+VARSIG0	modulename module
+MTHSIG4	supports type optioncontext option context
+VARSIG12	focusedmodulename focused module
+VARSIG11	modulename module
+VARSIG10	modulename module
+MTHSIG0	addcompletion add completion modulename module list completion completions
+MTHSIG1	convertfromtext convert text targettype target type optioncontext option context
+VARSIG15	optioncontext option context
+PACKAGE	springframework roo project converter
+MTHSIG2	getallpossiblevalues values list completion completions targettype target type existingdata existing data optioncontext option context methodtarget target target
+VARSIG14	type
+MTHSIG3	ismodulerelevant module relevant modulename module focusedmodulename focused module optioncontext option context
+VARSIG13	optioncontext option context
+CLASSES	pomconverter pom converter
+METHODS	addcompletion add completion convertfromtext convert text getallpossiblevalues values ismodulerelevant module relevant supports
+VARIABLES	modulename module completions targettype target type optioncontext option context completions targettype target type existingdata existing data optioncontext option context target modulename module modulename module focusedmodulename focused module optioncontext option context type optioncontext option context include current module root module symbol projectoperations project operations nonemptymodulename empty module modulename module focusedmodulename focused module

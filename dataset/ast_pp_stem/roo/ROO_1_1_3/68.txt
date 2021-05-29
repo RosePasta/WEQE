@@ -1,0 +1,30 @@
+MTHSIG22	getinheritancetyp inherit type 
+MTHSIG23	getentitynam entiti 
+COMMENTS	repres pars link rooentiti roo entiti annot annot 
+VARSIG0	physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+MTHSIG4	getversiontyp version type 
+MTHSIG5	getversionfield version field 
+MTHSIG6	getversioncolumn version column 
+MTHSIG7	getpersistmethod persist 
+MTHSIG0	entityannotationvalu entiti annot valu physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+MTHSIG1	getidentifiertyp identifi type 
+PACKAGE	springframework roo addon entiti 
+MTHSIG2	getidentifierfield identifi field 
+MTHSIG3	getidentifiercolumn identifi column 
+MTHSIG20	getschema schema 
+MTHSIG21	getcatalog catalog 
+MTHSIG8	getflushmethod flush 
+MTHSIG9	getclearmethod clear 
+MTHSIG17	getpersistenceunit persist unit 
+MTHSIG18	ismappedsuperclass map superclass 
+MTHSIG15	getfindentriesmethod find entri 
+MTHSIG16	getfind finder 
+MTHSIG13	getfindallmethod find 
+MTHSIG14	getfindmethod find 
+MTHSIG11	getremovemethod remov 
+MTHSIG12	getcountmethod count 
+CLASSES	entityannotationvalu entiti annot valu 
+METHODS	entityannotationvalu entiti annot valu getidentifiertyp identifi type getidentifierfield identifi field getidentifiercolumn identifi column getversiontyp version type getversionfield version field getversioncolumn version column getpersistmethod persist getflushmethod flush getclearmethod clear getmergemethod merg getremovemethod remov getcountmethod count getfindallmethod find getfindmethod find getfindentriesmethod find entri getfind finder getpersistenceunit persist unit ismappedsuperclass map superclass gettabl tabl getschema schema getcatalog catalog getinheritancetyp inherit type getentitynam entiti 
+MTHSIG19	gettabl tabl 
+MTHSIG10	getmergemethod merg 
+VARIABLES	governorphysicaltypemetadata governor physic type metadata identifiertyp identifi type identifierfield identifi field identifiercolumn identifi column versiontyp version type versionfield version field versioncolumn version column persistmethod persist flushmethod flush clearmethod clear mergemethod merg removemethod remov countmethod count findallmethod find findmethod find findentriesmethod find entri finder persistenceunit persist unit mappedsuperclass map superclass tabl schema catalog inheritancetyp inherit type entitynam entiti 

@@ -1,0 +1,22 @@
+VARSIG3	parameternam paramet 
+VARSIG2	parameternam paramet name 
+MTHSIG11	testparametertyp test paramet type 
+VARSIG4	entitylayermethod entiti layer 
+COMMENTS	unit test link entitylayermethod entiti layer constant fixtur paramet type product invok check set invok check set invok check set invok check set invok check set invok check set invok check set invok check set invok check check 
+CLASSES	entitylayermethodtest entiti layer test 
+VARSIG1	entitylayermethod entiti layer 
+VARSIG0	expectedmethodcal expect call 
+METHODS	setup set assertmethodcal call testcallcountallmethod test call count testcallclearmethod test call clear testcallfindallmethod test call find testcallfindentriesmethod test call find entri testcallflushmethod test call flush testcallmergemethod test call merg testcallpersistmethod test call persist testcallremovemethod test call remov testvalueofbogusmethodid test bogu testparametertyp test paramet type 
+MTHSIG4	testcallfindallmethod test call find 
+MTHSIG5	testcallfindentriesmethod test call find entri 
+MTHSIG6	testcallflushmethod test call flush 
+MTHSIG7	testcallmergemethod test call merg 
+MTHSIG0	setup set 
+MTHSIG1	assertmethodcal call expectedmethodcal expect call entitylayermethod entiti layer parameternam paramet name 
+PACKAGE	springframework roo addon jpa activerecord 
+MTHSIG2	testcallcountallmethod test call count 
+MTHSIG3	testcallclearmethod test call clear 
+MTHSIG10	testvalueofbogusmethodid test bogu 
+VARIABLES	expectedmethodcal expect call parameternam paramet name parameternam paramet plural type mocktargetent mock target entiti mockidtyp mock type mockparameternam mock paramet mockannotationvalu mock annot valu paramet mocksymbol mock symbol parametertyp paramet type 
+MTHSIG8	testcallpersistmethod test call persist 
+MTHSIG9	testcallremovemethod test call remov 

@@ -1,0 +1,116 @@
+MTHSIG28	getminandmaxbodi min max bodi fieldmetadata field metadata field suffix 
+MTHSIG29	getmodifymethod modifi 
+MTHSIG26	getfieldvalidationbodi field valid bodi fieldmetadata field metadata field initi javasymbolnam symbol mutatornam mutat isfieldofembeddabletyp field embedd type 
+MTHSIG27	getinitmethod init quantiti membertypeaddit member type addit findentriesmethod find entri membertypeaddit member type addit persistmethod persist membertypeaddit member type addit flushmethod flush 
+MTHSIG24	isnullablejoincolumn nullabl join column fieldmetadata field metadata field 
+MTHSIG25	getfieldmutatormethod field mutat method 
+MTHSIG22	getfieldiniti field initi fieldmetadata field metadata field dataondemandmetadata data demand metadata collaboratingmetadata collabor metadata 
+MTHSIG23	getfieldinitializerforrelatedent field initi entiti fieldmetadata field metadata field dataondemandmetadata data demand metadata collaboratingmetadata collabor metadata set fieldcustomdatakei field custom data 
+MTHSIG4	isvalid valid metadataidentificationstr metadata identif 
+MTHSIG5	dataondemandmetadata data demand metadata identifi javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata dataondemandannotationvalu data demand annot valu annotationvalu annot valu methodmetadata metadata identifieraccessor identifi accessor membertypeaddit member type addit findmethod find membertypeaddit member type addit findentriesmethod find entri membertypeaddit member type addit persistmethod persist membertypeaddit member type addit flushmethod flush map fieldmetadata field metadata dataondemandmetadata data demand metadata locatedfield locat field javatyp type identifiertyp identifi type embeddedidhold embed holder embeddedidhold embed holder list embeddedhold embed holder embeddedhold embed holder 
+MTHSIG6	addcollaboratingdodfieldstobuild add collabor field builder 
+MTHSIG7	addembeddedclassfieldmutatormethodstobuild add embed field mutat method builder embeddedhold embed holder embeddedhold embed holder 
+MTHSIG0	createidentifi creat identifi javatyp type javatyp type logicalpath logic path path 
+MTHSIG1	getjavatyp type metadataidentificationstr metadata identif 
+MTHSIG2	getmetadataidentifertyp metadata identif type 
+MTHSIG3	getpath path metadataidentificationstr metadata identif 
+MTHSIG20	getembeddedidmutatormethodnam embed mutat 
+MTHSIG21	getentitytyp entiti type 
+MTHSIG8	getcollaboratingfieldnam collabor field javatyp type entiti 
+MTHSIG9	getcollaboratingtyp collabor type javatyp type entiti 
+MTHSIG39	setrandompersistententitymethod set random persist entiti 
+MTHSIG37	setmodifymethod set modifi 
+MTHSIG38	setnewtransiententitymethod set entiti 
+MTHSIG35	gettypestr type str javatyp type fieldtyp field type 
+MTHSIG36	hasembeddedidentifi embed identifi 
+MTHSIG33	getrndfieldnam rnd field 
+MTHSIG34	getspecificpersistententitymethod specif persist entiti 
+METHODS	createidentifi creat identifi getjavatyp type getmetadataidentifertyp metadata identif type getpath path isvalid valid dataondemandmetadata data demand metadata addcollaboratingdodfieldstobuild add collabor field builder addembeddedclassfieldmutatormethodstobuild add embed field mutat method builder getcollaboratingfieldnam collabor field getcollaboratingtyp collabor type getcolumnprecisionandscalebodi column precis scale bodi getcomponentannot compon annot getdatafield data field getdatafieldnam data field getdecimalminanddecimalmaxbodi decim min decim max bodi getdigitsbodi digit bodi getembeddedclassmutatormethod embed mutat getembeddedfieldmutatormethodnam embed field mutat getembeddedfieldmutatormethodnam embed field mutat getembeddedidmutatormethod embed mutat getembeddedidmutatormethodnam embed mutat getentitytyp entiti type getfieldiniti field initi getfieldinitializerforrelatedent field initi entiti isnullablejoincolumn nullabl join column getfieldmutatormethod field mutat method getfieldvalidationbodi field valid bodi getinitmethod init getminandmaxbodi min max bodi getmodifymethod modifi getnewtransiententitymethod entiti getrandompersistententitymethod random persist entiti getrndfield rnd field getrndfieldnam rnd field getspecificpersistententitymethod specif persist entiti gettypestr type str hasembeddedidentifi embed identifi setmodifymethod set modifi setnewtransiententitymethod set entiti setrandompersistententitymethod set random persist entiti setspecificpersistententitymethod set specif persist entiti tostr validatenumericannotationattribut valid numer annot attribut 
+VARSIG67	object object 
+VARSIG66	attributenam attribut 
+VARSIG65	annotationnam annot 
+VARSIG64	fieldnam field 
+MTHSIG31	getrandompersistententitymethod random persist entiti 
+MTHSIG32	getrndfield rnd field 
+MTHSIG30	getnewtransiententitymethod entiti 
+VARSIG63	fieldmetadata field metadata field 
+VARSIG62	embeddedhold embed holder embeddedhold embed holder 
+VARSIG61	javatyp type fieldtyp field type 
+VARSIG60	suffix 
+COMMENTS	metadata link roodataondemand roo data demand constructor identifi aspectnam aspect governorphysicaltypemetadata governor physic type metadata annotationvalu annot valu identifieraccessor identifi accessor findmethod find findentriesmethod find entri persistmethod persist flushmethod flush locatedfield locat field entiti embeddedidhold embed holder embeddedhold embed holder calcul store field initi expect field correct reli move field creat field add hasn field governor creat add springframework stereotyp compon annot type exist annot exist creat creat requir data field user produc demand return comput requir field type paramet field type verifi candid suitabl candid name clash subclass candid isn util list theentiti entiti isn suitabl equal verifi type param valid candid don check initi assum user thei candid let creat locat user defin governor creat creat constructor embed locat user defin governor creat creat constructor embed comput requir field usabl field includ datanucleu data nucleu check size auto box auto box auto box auto box avoid circular refer roo avoid circular refer don set nullabl field roo locat user defin governor creat governor creat check size column length attribut check digit decimalmax decim max decimalmin decim min check min max return dod type type init exist gener findentriesmethod find entri requir persistmethod persist requir flushmethod flush requir definit find build locat user defin creat bodi creat modifyent modifi entiti entiti return getnewtransientent entiti entiti return getrandoment random entiti entiti return comput requir field verifi candid suitabl candid name clash subclass candid isn util random isn suitabl valid candid don check initi assum user thei candid let creat rnd field user produc demand return getspecificent specif entiti entiti return definit find build locat user defin creat definit find build locat user defin creat creat composit kei embed call requir creat mutat call embed creat mutat call entiti field getrandoment random entiti entiti return definit find build locat user defin creat definit find build locat user defin creat 
+VARSIG19	embeddedhold embed holder embeddedhold embed holder 
+VARSIG18	map entri fieldmetadata field metadata dataondemandmetadata data demand metadata entri 
+VARSIG17	list embeddedhold embed holder embeddedhold embed holder 
+VARSIG12	membertypeaddit member type addit persistmethod persist 
+VARSIG11	membertypeaddit member type addit findentriesmethod find entri 
+VARSIG10	membertypeaddit member type addit findmethod find 
+VARSIG16	embeddedidhold embed holder embeddedidhold embed holder 
+VARSIG15	javatyp type identifiertyp identifi type 
+VARSIG14	map fieldmetadata field metadata dataondemandmetadata data demand metadata locatedfield locat field 
+VARSIG13	membertypeaddit member type addit flushmethod flush 
+MTHSIG17	getembeddedfieldmutatormethodnam embed field mutat javasymbolnam symbol fieldnam field 
+MTHSIG18	getembeddedfieldmutatormethodnam embed field mutat javasymbolnam symbol embeddedfieldnam embed field javasymbolnam symbol fieldnam field 
+MTHSIG15	getdigitsbodi digit bodi fieldmetadata field metadata field annotationmetadata annot metadata digitsannot digit annot suffix 
+MTHSIG16	getembeddedclassmutatormethod embed mutat embeddedhold embed holder embeddedhold embed holder 
+MTHSIG13	getdatafieldnam data field 
+MTHSIG14	getdecimalminanddecimalmaxbodi decim min decim max bodi fieldmetadata field metadata field annotationmetadata annot metadata decimalminannot decim min annot annotationmetadata annot metadata decimalmaxannot decim max annot suffix 
+MTHSIG11	getcomponentannot compon annot 
+MTHSIG12	getdatafield data field 
+MTHSIG19	getembeddedidmutatormethod embed mutat 
+MTHSIG10	getcolumnprecisionandscalebodi column precis scale bodi fieldmetadata field metadata field map object valu suffix 
+VARIABLES	javatyp type path metadataidentificationstr metadata identif metadataidentificationstr metadata identif metadataidentificationstr metadata identif identifi aspectnam aspect governorphysicaltypemetadata governor physic type metadata annotationvalu annot valu identifieraccessor identifi accessor findmethod find findentriesmethod find entri persistmethod persist flushmethod flush locatedfield locat field identifiertyp identifi type embeddedidhold embed holder embeddedhold embed holder entri embeddedhold embed holder field embeddedhold embed holder fieldinitializermethod field initi entityneedingcollabor entiti need collabor embeddedhold embed holder field entiti entiti field valu suffix field decimalminannot decim min annot decimalmaxannot decim max annot suffix field digitsannot digit annot suffix embeddedhold embed holder field fieldnam field embeddedfieldnam embed field fieldnam field field field collaboratingmetadata collabor metadata field collaboratingmetadata collabor metadata fieldcustomdatakei field custom data field entri field initi mutatornam mutat isfieldofembeddabletyp field embedd type quantiti findentriesmethod find entri persistmethod persist flushmethod flush field suffix fieldtyp field type embeddedhold embed holder field fieldnam field annotationnam annot attributenam attribut object symbol max symbol min symbol obj obj symbol type type datafieldnam data field embeddedfieldiniti embed field initi embeddedhold embed holder embeddedidhold embed holder entiti fieldiniti field initi findmethod find identifieraccessor identifi accessor identifiertyp identifi type modifymethod modifi newtransiententitymethod entiti randompersistententitymethod random persist entiti requireddataondemandcollabor requir data demand collabor rndfieldnam rnd field specificpersistententitymethod specif persist entiti field initi initi field collaboratortyp collabor type collaboratingfieldnam collabor field fieldsymbolnam field symbol candid annot embeddedfieldtyp embed field type parametertyp paramet type parameternam paramet name initi fieldmutatormethodnam field mutat bodybuild bodi builder embeddedclassmethodnam embed fieldnam field fieldtyp field type precis scale maxvalu max bodybuild bodi builder annotationbuild annot builder parametertyp paramet type listtyp list type fieldnam field candid fieldnam field fieldtyp field type bodybuild bodi builder minvalu min maxvalu max minvalu min maxvalu max fieldnam field fieldtyp field type integervalu integ fractionvalu fraction maxvalu max bodybuild bodi builder methodnam parametertyp paramet type bodybuild bodi builder embeddedfieldtyp embed field type parameternam paramet name embeddedidmut embed mutat methodnam parametertyp paramet type bodybuild bodi builder embeddedidfieldtyp embed field type identifierfield identifi field field fieldnam field fieldtyp field type initi parameternam paramet name fieldnam field name embeddedidfield embed field fieldtyp field type fieldnam field initi fieldiniti field initi fieldcustomdatakei field custom data calendarstr calendar offset maxlength max length sizeannot size annot maxvalu max minvalu min minlength min length columnvalu column valu lengthvalu length nullablefield nullabl field collaboratingfieldnam collabor field joincolumnannot join column annot nullableattr nullabl attr fieldmutatormethod field mutat method parameternam paramet name parametertyp paramet type field mutatornam mutat initi bodybuild bodi builder fieldnam field fieldtyp field type suffix bodybuild bodi builder isuniqu uniqu valu sizeannot size annot maxvalu max lengthvalu length digitsannot digit annot decimalminannot decim min annot decimalmaxannot decim max annot valu methodnam parametertyp paramet type parameternam paramet name returntyp type usermethod user bodybuild bodi builder datafield data field fieldnam field fieldtyp field type bodybuild bodi builder minannot min annot maxannot max annot minvalu min maxvalu max minvalu min maxvalu max fieldnam field candid fieldbuild field builder arraystr arrai str typestr type str methodnam parametertyp paramet type parameternam paramet name returntyp type usermethod user bodybuild bodi builder methodbuild builder methodnam parametertyp paramet type parameternam paramet name usermethod user bodybuild bodi builder mutatornam mutat methodbuild builder methodnam usermethod user bodybuild bodi builder methodbuild builder methodnam parametertyp paramet type parameternam paramet name usermethod user bodybuild bodi builder methodbuild builder builder 
+VARSIG39	fieldmetadata field metadata field 
+VARSIG34	suffix 
+VARSIG33	annotationmetadata annot metadata decimalmaxannot decim max annot 
+VARSIG32	annotationmetadata annot metadata decimalminannot decim min annot 
+VARSIG31	fieldmetadata field metadata field 
+VARSIG38	embeddedhold embed holder embeddedhold embed holder 
+VARSIG37	suffix 
+PACKAGE	springframework roo addon dod 
+VARSIG36	annotationmetadata annot metadata digitsannot digit annot 
+VARSIG35	fieldmetadata field metadata field 
+VARSIG30	suffix 
+CLASSES	dataondemandmetadata data demand metadata 
+VARSIG29	map object valu 
+VARSIG28	fieldmetadata field metadata field 
+VARSIG23	javatyp type entityneedingcollabor entiti need collabor 
+VARSIG22	methodmetadatabuild metadata builder fieldinitializermethod field initi 
+VARSIG21	embeddedhold embed holder embeddedhold embed holder 
+VARSIG20	fieldmetadata field metadata field 
+VARSIG27	javatyp type entiti 
+VARSIG26	javatyp type entiti 
+VARSIG25	fieldmetadata field metadata field 
+VARSIG24	embeddedhold embed holder embeddedhold embed holder 
+VARSIG7	physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+VARSIG6	javatyp type aspectnam aspect 
+VARSIG9	methodmetadata metadata identifieraccessor identifi accessor 
+VARSIG8	dataondemandannotationvalu data demand annot valu annotationvalu annot valu 
+VARSIG3	metadataidentificationstr metadata identif 
+VARSIG2	metadataidentificationstr metadata identif 
+VARSIG5	identifi 
+VARSIG4	metadataidentificationstr metadata identif 
+VARSIG1	logicalpath logic path path 
+VARSIG0	javatyp type javatyp type 
+VARSIG56	membertypeaddit member type addit findentriesmethod find entri 
+VARSIG55	quantiti 
+VARSIG54	isfieldofembeddabletyp field embedd type 
+VARSIG53	javasymbolnam symbol mutatornam mutat 
+VARSIG59	fieldmetadata field metadata field 
+VARSIG58	membertypeaddit member type addit flushmethod flush 
+VARSIG57	membertypeaddit member type addit persistmethod persist 
+MTHSIG42	validatenumericannotationattribut valid numer annot attribut fieldnam field annotationnam annot attributenam attribut object object 
+MTHSIG40	setspecificpersistententitymethod set specif persist entiti 
+MTHSIG41	tostr 
+VARSIG52	initi 
+VARSIG51	fieldmetadata field metadata field 
+VARSIG50	map entri fieldmetadata field metadata entri 
+VARSIG45	dataondemandmetadata data demand metadata collaboratingmetadata collabor metadata 
+VARSIG44	fieldmetadata field metadata field 
+VARSIG43	fieldmetadata field metadata field 
+VARSIG42	javasymbolnam symbol fieldnam field 
+VARSIG49	fieldmetadata field metadata field 
+VARSIG48	set fieldcustomdatakei field custom data 
+VARSIG47	dataondemandmetadata data demand metadata collaboratingmetadata collabor metadata 
+VARSIG46	fieldmetadata field metadata field 
+VARSIG41	javasymbolnam symbol embeddedfieldnam embed field 
+VARSIG40	javasymbolnam symbol fieldnam field 

@@ -1,0 +1,9 @@
+MTHSIG0	commence httpservletrequest http servlet request request httpservletresponse http servlet response response authenticationexception authentication exception authexception exception
+VARSIG2	authenticationexception authentication exception authexception exception
+PACKAGE	top level segment
+COMMENTS	
+CLASSES	googleauthenticationentrypoint google authentication entry point
+VARIABLES	request response authexception exception
+VARSIG1	httpservletresponse http servlet response response
+VARSIG0	httpservletrequest http servlet request request
+METHODS	commence

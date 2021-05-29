@@ -1,0 +1,37 @@
+VARSIG7	annotatedjavatype annotated type parametertype parameter type
+VARSIG6	javasymbolname symbol parametername parameter
+VARSIG9	invocablememberbodybuilder invocable member body builder bodybuilder body builder
+VARSIG8	javatype type throwstype type
+VARSIG3	invocablemembermetadata invocable member metadata existing
+VARSIG2	declaredbymetadataid declaredby metadata
+VARSIG5	javatype type parametertype parameter type
+VARSIG4	parametername parameter
+COMMENTS	assists development builders build objects extend link abstractinvocablemembermetadata invocable member metadata
+VARSIG1	declaredbymetadataid declaredby metadata
+VARSIG0	invocablemembermetadata invocable member metadata existing
+MTHSIG4	addparametername add parameter javasymbolname symbol parametername parameter
+VARSIG12	list javatype type throwstypes types
+MTHSIG5	addparametertype add parameter type annotatedjavatype annotated type parametertype parameter type
+VARSIG11	list annotatedjavatype annotated type parametertypes parameter types
+MTHSIG6	addthrowstype add type javatype type throwstype type
+VARSIG10	list javasymbolname symbol parameternames parameter names
+MTHSIG7	getbody body
+MTHSIG0	abstractinvocablemembermetadatabuilder invocable member metadata builder invocablemembermetadata invocable member metadata existing
+MTHSIG1	abstractinvocablemembermetadatabuilder invocable member metadata builder declaredbymetadataid declaredby metadata
+PACKAGE	springframework roo classpath details
+MTHSIG2	abstractinvocablemembermetadatabuilder invocable member metadata builder declaredbymetadataid declaredby metadata invocablemembermetadata invocable member metadata existing
+MTHSIG3	addparameter add parameter parametername parameter javatype type parametertype parameter type
+VARSIG13	commentstructure comment structure commentstructure comment structure
+MTHSIG8	getbodybuilder body builder
+MTHSIG9	getparameternames parameter names
+MTHSIG17	setcommentstructure set comment structure commentstructure comment structure commentstructure comment structure
+MTHSIG15	setthrowstypes set types list javatype type throwstypes types
+MTHSIG16	getcommentstructure comment structure
+MTHSIG13	setparameternames set parameter names list javasymbolname symbol parameternames parameter names
+MTHSIG14	setparametertypes set parameter types list annotatedjavatype annotated type parametertypes parameter types
+MTHSIG11	getthrowstypes types
+MTHSIG12	setbodybuilder set body builder invocablememberbodybuilder invocable member body builder bodybuilder body builder
+CLASSES	abstractinvocablemembermetadatabuilder invocable member metadata builder
+METHODS	abstractinvocablemembermetadatabuilder invocable member metadata builder abstractinvocablemembermetadatabuilder invocable member metadata builder abstractinvocablemembermetadatabuilder invocable member metadata builder addparameter add parameter addparametername add parameter addparametertype add parameter type addthrowstype add type getbody body getbodybuilder body builder getparameternames parameter names getparametertypes parameter types getthrowstypes types setbodybuilder set body builder setparameternames set parameter names setparametertypes set parameter types setthrowstypes set types getcommentstructure comment structure setcommentstructure set comment structure
+MTHSIG10	getparametertypes parameter types
+VARIABLES	existing declaredbymetadataid declaredby metadata declaredbymetadataid declaredby metadata existing parametername parameter parametertype parameter type parametername parameter parametertype parameter type throwstype type bodybuilder body builder parameternames parameter names parametertypes parameter types throwstypes types commentstructure comment structure bodybuilder body builder parameternames parameter names parametertypes parameter types throwstypes types commentstructure comment structure

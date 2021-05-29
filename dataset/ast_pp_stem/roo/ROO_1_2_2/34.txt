@@ -1,0 +1,8 @@
+MTHSIG0	setup set 
+MTHSIG1	testloginwithcustomurl test login custom url 
+PACKAGE	springframework roo addon cloud foundri 
+MTHSIG2	testloginwithdefaultparamet test login paramet 
+COMMENTS	unit test link cloudfoundrycommand cloud foundri command fixtur lang except set invok check invok check 
+CLASSES	cloudfoundrycommandstest cloud foundri command test 
+VARIABLES	command mockcloudfoundryoper mock cloud foundri oper mockurl mock url customurl custom url 
+METHODS	setup set testloginwithcustomurl test login custom url testloginwithdefaultparamet test login paramet 

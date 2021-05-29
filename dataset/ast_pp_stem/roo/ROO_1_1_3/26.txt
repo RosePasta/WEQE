@@ -1,0 +1,42 @@
+VARSIG7	requir 
+VARSIG6	primarykei primari kei 
+VARSIG9	autoincr auto increment 
+VARSIG8	uniqu 
+MTHSIG24	tostr 
+VARSIG3	columns column size 
+VARSIG2	typenam type 
+MTHSIG22	hashcod hash code 
+VARSIG5	descript 
+MTHSIG23	equal object obj 
+VARSIG4	scale 
+COMMENTS	repres column databas model roo 
+VARSIG1	datatyp data type 
+VARSIG0	 
+MTHSIG4	getdatatyp data type 
+MTHSIG5	gettypenam type 
+VARSIG11	object obj 
+MTHSIG6	getcolumns column size 
+VARSIG10	defaultvalu 
+MTHSIG7	getscal scale 
+MTHSIG0	column datatyp data type typenam type columns column size scale 
+MTHSIG1	initi 
+PACKAGE	springframework roo addon dbre model 
+MTHSIG2	getnam 
+MTHSIG3	getescapednam escap 
+MTHSIG20	getdefaultvalu 
+MTHSIG21	setdefaultvalu set defaultvalu 
+MTHSIG8	getdescript descript 
+MTHSIG9	setdescript set descript descript 
+MTHSIG17	setautoincr set auto increment autoincr auto increment 
+MTHSIG18	getjdbctyp jdbc type 
+MTHSIG15	setuniqu set uniqu uniqu 
+MTHSIG16	isautoincr auto increment 
+MTHSIG13	setrequir set requir requir 
+MTHSIG14	isuniqu uniqu 
+MTHSIG11	setprimarykei set primari kei primarykei primari kei 
+MTHSIG12	isrequir requir 
+CLASSES	column 
+METHODS	column initi getnam getescapednam escap getdatatyp data type gettypenam type getcolumns column size getscal scale getdescript descript setdescript set descript isprimarykei primari kei setprimarykei set primari kei isrequir requir setrequir set requir isuniqu uniqu setuniqu set uniqu isautoincr auto increment setautoincr set auto increment getjdbctyp jdbc type getjavatyp type getdefaultvalu setdefaultvalu set hashcod hash code equal tostr 
+MTHSIG19	getjavatyp type 
+MTHSIG10	isprimarykei primari kei 
+VARIABLES	datatyp data type typenam type columns column size scale descript primarykei primari kei requir uniqu autoincr auto increment defaultvalu obj serialversionuid serial version uid datatyp data type typenam type columns column size scale descript primarykei primari kei requir uniqu autoincr auto increment jdbctype jdbc type javatyp type defaultvalu prime result 

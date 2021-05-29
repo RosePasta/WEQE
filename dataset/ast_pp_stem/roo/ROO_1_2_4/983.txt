@@ -1,0 +1,22 @@
+VARSIG3	 
+VARSIG2	packagingprovid packag provid mockpackagingprovid mock packag provid 
+VARSIG5	packagingprovid packag provid provid 
+VARSIG4	isdefault 
+COMMENTS	unit test link packagingproviderconvert packag provid convert fixtur assert can convert link packagingprovid packag provid convert blank mock object test set invok check set invok check 
+CLASSES	packagingproviderconvertertest packag provid convert test 
+VARSIG1	nullpointerexcept pointer except expect 
+VARSIG0	 
+METHODS	assertinvalidstr invalid setup set setupmockpackagingprovid set mock packag provid testconvertemptystr test convert empti testconvertnullstr test convert testconvertpartialstr test convert partial testconvertunknownstr test convert unknown testconvertvalidstr test convert valid testdoesnotsupportwrongtyp test support wrong type testgetallpossiblevalu test valu testsupportscorrecttyp test support correct type 
+MTHSIG4	testconvertnullstr test convert 
+MTHSIG5	testconvertpartialstr test convert partial 
+MTHSIG6	testconvertunknownstr test convert unknown 
+MTHSIG7	testconvertvalidstr test convert valid 
+MTHSIG0	assertinvalidstr invalid 
+MTHSIG1	setup set 
+PACKAGE	springframework roo project packag 
+MTHSIG2	setupmockpackagingprovid set mock packag provid packagingprovid packag provid mockpackagingprovid mock packag provid isdefault 
+MTHSIG3	testconvertemptystr test convert empti 
+MTHSIG10	testsupportscorrecttyp test support correct type 
+VARIABLES	expect mockpackagingprovid mock packag provid isdefault provid core jar core war custom jar convert mockcorejarpackag mock core jar packag mockcustomjarpackag mock custom jar packag mockpackagingproviderregistri mock packag provid registri mockwarpackag mock war packag packagingprovid packag provid provid expectedcomplet expect complet complet addspac add space 
+MTHSIG8	testdoesnotsupportwrongtyp test support wrong type 
+MTHSIG9	testgetallpossiblevalu test valu 

@@ -1,0 +1,14 @@
+VARSIG3	list token token 
+VARSIG2	list javasymbolnam symbol parameternam paramet name 
+COMMENTS	bean hold jpa queri paramet type paramet name immut construct intend intern token process queri intern immut 
+CLASSES	queryhold queri holder 
+VARSIG1	list javatyp type parametertyp paramet type 
+VARSIG0	jpaqueri jpa queri 
+METHODS	queryhold queri holder getjpaqueri jpa queri getparameternam paramet name getparametertyp paramet type gettoken token 
+MTHSIG4	gettoken token 
+MTHSIG0	queryhold queri holder jpaqueri jpa queri list javatyp type parametertyp paramet type list javasymbolnam symbol parameternam paramet name list token token 
+MTHSIG1	getjpaqueri jpa queri 
+PACKAGE	springframework roo addon finder 
+MTHSIG2	getparameternam paramet name 
+MTHSIG3	getparametertyp paramet type 
+VARIABLES	jpaqueri jpa queri parametertyp paramet type parameternam paramet name token jpaqueri jpa queri parameternam paramet name parametertyp paramet type token 

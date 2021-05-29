@@ -1,0 +1,15 @@
+VARSIG6	ioexception exception ioe
+VARSIG3	loggerpackage logger loggerpackage logger
+VARSIG2	loglevel log level loglevel log level
+VARSIG5	packagename
+VARSIG4	ioexception exception ioe
+COMMENTS	implementation link loggingoperations logging operations
+CLASSES	loggingoperationsimpl logging operations impl
+VARSIG1	loggerpackage logger loggerpackage logger
+VARSIG0	loglevel log level loglevel log level
+METHODS	configurelogging configure logging islogginginstallationpossible logging installation setupproperties setup properties
+MTHSIG0	configurelogging configure logging loglevel log level loglevel log level loggerpackage logger loggerpackage logger
+MTHSIG1	islogginginstallationpossible logging installation
+PACKAGE	springframework roo addon logging
+MTHSIG2	setupproperties setup properties loglevel log level loglevel log level loggerpackage logger loggerpackage logger
+VARIABLES	loglevel log level loggerpackage logger loglevel log level loggerpackage logger ioe packagename ioe filemanager file manager pathresolver path resolver projectoperations project operations filepath file path log jmutablefile log mutable file props inputstream input stream toplevelpackage top level logstr log str outputstream output stream

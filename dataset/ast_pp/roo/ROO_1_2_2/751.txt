@@ -1,0 +1,8 @@
+MTHSIG0	testgetallpackages test packages
+MTHSIG1	testgetpackagefromtype test type
+PACKAGE	springframework roo classpath
+MTHSIG2	testgetlowestcommonpackagewhenoneexists test lowest common exists
+COMMENTS	unit test link typelocationserviceimpl type location service impl set invoke check set invoke check set invoke check
+CLASSES	typelocationserviceimpltest type location service impl test
+VARIABLES	leafpackage leaf allpackages packages type pkg type type type type typesbypackage types lowestcommonpackage lowest common
+METHODS	testgetallpackages test packages testgetpackagefromtype test type testgetlowestcommonpackagewhenoneexists test lowest common exists

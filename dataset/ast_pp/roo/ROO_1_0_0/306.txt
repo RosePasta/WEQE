@@ -1,0 +1,26 @@
+VARSIG7	logrecord log record event
+VARSIG6	exception
+VARSIG9	str
+VARSIG8	str
+VARSIG3	exception
+VARSIG2	logrecord log record record
+VARSIG5	logrecord log record record
+VARSIG4	include
+COMMENTS	jdk logging link handler emits log messages jline link consolereader console reader roo avoid repeating message displayed current message roo user semi typed debug message separated cancel typed reset appears empty ensures displayed redrawing restore formatting settings original build event indent nicely left hand side thread text brighter requested system property roo bright works issue windows reverse combination jansi lib leaves negative flag set reset explicitly patched ansibuffer ansi buffer color code add bright code
+VARSIG1	shellpromptaccessor shell prompt accessor shellpromptaccessor shell prompt accessor
+VARSIG0	consolereader console reader reader
+MTHSIG4	cancelredrawprohibition cancel redraw prohibition
+MTHSIG5	setincludethreadname set include thread include
+MTHSIG6	resetmessagetracking reset message tracking
+VARSIG10	code
+MTHSIG7	publish logrecord log record record
+MTHSIG0	jlineloghandler log handler consolereader console reader reader shellpromptaccessor shell prompt accessor shellpromptaccessor shell prompt accessor
+MTHSIG1	flush
+PACKAGE	springframework roo shell jline
+MTHSIG2	close
+MTHSIG3	prohibitredraw prohibit redraw
+MTHSIG8	todisplay display logrecord log record event
+MTHSIG9	getansibuffer ansi buffer
+CLASSES	jlineloghandler log handler
+METHODS	jlineloghandler log handler flush close prohibitredraw prohibit redraw cancelredrawprohibition cancel redraw prohibition setincludethreadname set include thread resetmessagetracking reset message tracking publish todisplay display getansibuffer ansi buffer
+VARIABLES	reader shellpromptaccessor shell prompt accessor record include record event str str code windows bright colors reader shellpromptaccessor shell prompt accessor redrawprohibit redraw prohibit lastmessage message includethreadname include thread ansisupported ansi supported todisplay display buffer cursor prohibitingredraw prohibiting redraw threadname thread eventstring event lineseparatorandindentingstring separator indenting esc

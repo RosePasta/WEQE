@@ -1,0 +1,32 @@
+VARSIG7	methodtarget target target
+VARSIG6	optioncontext option context
+VARSIG9	adjusteduserinput adjusted user input
+VARSIG8	list completions
+VARSIG3	list completions
+VARSIG2	optioncontext option context
+VARSIG5	originaluserinput original user input
+VARSIG4	requiredtype required type
+COMMENTS	link converter link file current working directory link fileconverter file converter user fails provide explicit directory input required input originally fully qualified path completion form input originally started replace user user directory path working directory specific strip working directory user typed user input starts tilde character replace tilde character user user directory user input start tilde simply original user input userinput user input user input commence tilde required guaranteed longer tilde character input fully qualified path form input starts replace user user directory path working directory specific prepend working directory
+VARSIG1	requiredtype required type
+VARSIG18	exception
+VARSIG0	
+VARSIG17	userinput user input
+MTHSIG4	supports requiredtype required type optioncontext option context
+VARSIG12	file file
+MTHSIG5	convertcompletionbackintouserinputstyle convert completion user input style originaluserinput original user input completion
+VARSIG11	directorydata directory data
+MTHSIG6	convertuserinputintoafullyqualifiedpath convert user input fully qualified path userinput user input
+VARSIG10	originaluserinput original user input
+MTHSIG7	getworkingdirectoryasstring working directory
+MTHSIG0	getworkingdirectory working directory
+VARSIG16	completion
+MTHSIG1	convertfromtext convert text requiredtype required type optioncontext option context
+VARSIG15	originaluserinput original user input
+PACKAGE	springframework roo shell converters
+MTHSIG2	getallpossiblevalues values list completions requiredtype required type originaluserinput original user input optioncontext option context methodtarget target target
+VARSIG14	optioncontext option context
+MTHSIG3	populate list completions adjusteduserinput adjusted user input originaluserinput original user input directorydata directory data
+VARSIG13	requiredtype required type
+CLASSES	fileconverter file converter
+METHODS	getworkingdirectory working directory convertfromtext convert text getallpossiblevalues values populate supports convertcompletionbackintouserinputstyle convert completion user input style convertuserinputintoafullyqualifiedpath convert user input fully qualified path getworkingdirectoryasstring working directory
+VARIABLES	requiredtype required type optioncontext option context completions requiredtype required type originaluserinput original user input optioncontext option context target completions adjusteduserinput adjusted user input originaluserinput original user input directorydata directory data file requiredtype required type optioncontext option context originaluserinput original user input completion userinput user input adjusteduserinput adjusted user input directorydata directory data directory completion fullpath full path

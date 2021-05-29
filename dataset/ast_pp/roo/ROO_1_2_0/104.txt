@@ -1,0 +1,32 @@
+VARSIG7	subject
+VARSIG6	
+VARSIG9	javatype type targettype target type
+VARSIG8	element root
+VARSIG3	encoding
+VARSIG2	port
+VARSIG5	password
+VARSIG4	username
+COMMENTS	implementation link mailoperationsimpl mail operations impl constants fields returns canonical path user project project applicationcontext application context xml file blank path finds simplemailmessage simple mail message bean spring xml file root element root bean physical type mutable details add mailsender mail sender field add sendmessage send message generates send email domain type mailsendername mail sender mailsender mail sender field required async send email asynchronously targetclassmid target mid mid receive mutabletypedetails mutable type details type required builder created method body collect types names created method parameters there simplemailmessage simple mail message bean local variable set address set subject simplemailmessage simple mail message bean exists auto wire entity template injected bean template thread safety set address set message body add asynchronous email support application add task namespace spring config file write spring config file update email properties file
+VARSIG1	mailprotocol mail protocol protocol
+VARSIG0	hostserver host server
+VARSIG17	element dependencyelement dependency element
+MTHSIG4	configuretemplatemessage configure template message subject
+VARSIG12	javasymbolname symbol mailsendername mail sender
+MTHSIG5	getsimplemailmessagebean simple mail message bean element root
+VARSIG11	async
+MTHSIG6	injectemailtemplate inject email template javatype type targettype target type javasymbolname symbol fieldname field async
+VARSIG10	javasymbolname symbol fieldname field
+MTHSIG7	getsendmethod send javasymbolname symbol mailsendername mail sender async targetclassmid target mid classorinterfacetypedetailsbuilder type details builder cidbuilder cid builder
+MTHSIG0	isemailinstallationpossible email installation
+VARSIG16	modulename module
+MTHSIG1	ismanageemailavailable manage email
+VARSIG15	classorinterfacetypedetailsbuilder type details builder cidbuilder cid builder
+PACKAGE	springframework roo addon email
+MTHSIG2	getapplicationcontextpath application context path
+VARSIG14	targetclassmid target mid
+MTHSIG3	installemail install email hostserver host server mailprotocol mail protocol protocol port encoding username password
+VARSIG13	async
+MTHSIG8	updateconfiguration update configuration modulename module
+CLASSES	mailoperationsimpl mail operations impl
+METHODS	isemailinstallationpossible email installation ismanageemailavailable manage email getapplicationcontextpath application context path installemail install email configuretemplatemessage configure template message getsimplemailmessagebean simple mail message bean injectemailtemplate inject email template getsendmethod send updateconfiguration update configuration
+VARIABLES	hostserver host server protocol port encoding username password subject root targettype target type fieldname field async mailsendername mail sender async targetclassmid target mid cidbuilder cid builder modulename module dependencyelement dependency element logger local message variable spring task spring task xsd template message field filemanager file manager pathresolver path resolver projectoperations project operations propfileoperations prop file operations typelocationservice type location service typemanagementservice type management service contextpath context path document root installdependencies install dependencies props mailbean mail bean property pelement element pelement element pelement element pelement element pelement element javamailproperties mail properties securityprops security props prop prop prop contextpath context path document root props smmbean smm bean smmproperty smm property smmproperty smm property annotations declaredbymetadataid declared metadata existing cidbuilder cid builder mailsenderfieldbuilder mail sender field builder contextpath context path document root bodybuilder body builder parameters smmannotations smm annotations smmfieldbuilder smm field builder methodbuilder builder configuration dependencies emaildependencies email dependencies

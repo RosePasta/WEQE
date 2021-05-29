@@ -1,0 +1,32 @@
+VARSIG7	metadataidentificationstr metadata identif 
+VARSIG6	metadataidentificationstr metadata identif 
+VARSIG9	metadataidentificationstr metadata identif 
+VARSIG8	evictcach evict cach 
+VARSIG3	componentcontext compon context context 
+VARSIG2	componentcontext compon context context 
+VARSIG5	metadataprovid metadata provid 
+VARSIG4	metadataprovid metadata provid 
+COMMENTS	implement link metadataservic metadata servic implement thread safe access singl thread time enforc process manag semant avoid cost synchron mutex cach infinit loop manag destin appear valid kei valid provid let evict request item item isn evict cach cach isn destin provid consum notif contract provid handl notif deleg reli provid evict item cach applic contract ensur evict item recreat destin instanc meaning oper contract notifi listen downstream instanc chang clear cach verifi argument valid time evict downstream depend metadata depend evict metadata evict instanc instanc cach clear cach clear cach metadata provid support 
+VARSIG1	metadataprovid metadata provid 
+VARSIG0	metadataprovid metadata provid 
+MTHSIG4	getregisteredprovid regist provid 
+VARSIG12	metadataidentificationstr metadata identif 
+MTHSIG5	getregisteredprovid regist provid metadataidentificationstr metadata identif 
+VARSIG11	downstreamdepend downstream depend 
+MTHSIG6	metadataidentificationstr metadata identif evictcach evict cach 
+VARSIG10	upstreamdepend upstream depend 
+MTHSIG7	metadataidentificationstr metadata identif 
+MTHSIG0	bindmetadataprovid bind metadata provid metadataprovid metadata provid 
+MTHSIG1	unbindmetadataprovid unbind metadata provid metadataprovid metadata provid 
+PACKAGE	springframework roo metadata 
+MTHSIG2	activ componentcontext compon context context 
+VARSIG14	metadataprovid metadata provid 
+MTHSIG3	deactiv componentcontext compon context context 
+VARSIG13	downstream 
+MTHSIG8	notifi upstreamdepend upstream depend downstreamdepend downstream depend 
+MTHSIG9	evict metadataidentificationstr metadata identif 
+MTHSIG11	tostr 
+CLASSES	defaultmetadataservic metadata servic 
+METHODS	bindmetadataprovid bind metadata provid unbindmetadataprovid unbind metadata provid activ deactiv getregisteredprovid regist provid getregisteredprovid regist provid notifi evict evictal evict tostr 
+MTHSIG10	evictal evict 
+VARIABLES	context context metadataidentificationstr metadata identif metadataidentificationstr metadata identif evictcach evict cach metadataidentificationstr metadata identif upstreamdepend upstream depend downstreamdepend downstream depend metadataidentificationstr metadata identif downstream metadatadependencyregistri metadata depend registri validget valid recursiveget recurs cacheput cach put cachehit cach hit cachemiss cach miss cacheevict cach evict provid providermap provid map lock activerequest activ request mid mid sortedprovid sort provid result mdclassid result mdclassid tsc 

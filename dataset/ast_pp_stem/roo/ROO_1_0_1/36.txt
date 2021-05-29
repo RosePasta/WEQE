@@ -1,0 +1,18 @@
+VARSIG3	object obj 
+VARSIG2	connectionstr connect 
+VARSIG4	jdbcdatabas jdbc databas 
+COMMENTS	jdbc databas configur 
+CLASSES	jdbcdatabas jdbc databas 
+VARSIG1	driverclassnam driver 
+VARSIG0	kei 
+METHODS	jdbcdatabas jdbc databas getkei kei getconnectionstr connect getdriverclassnam driver hashcod hash code equal compareto compar tostr 
+MTHSIG4	hashcod hash code 
+MTHSIG5	equal object obj 
+MTHSIG6	compareto compar jdbcdatabas jdbc databas 
+MTHSIG7	tostr 
+MTHSIG0	jdbcdatabas jdbc databas kei driverclassnam driver connectionstr connect 
+MTHSIG1	getkei kei 
+PACKAGE	springframework roo addon jpa 
+MTHSIG2	getconnectionstr connect 
+MTHSIG3	getdriverclassnam driver 
+VARIABLES	kei driverclassnam driver connectionstr connect obj kei connectionstr connect driverclassnam driver memori hyperson memori hyperson persist postgr mysql oracl sybas mssql tsc 

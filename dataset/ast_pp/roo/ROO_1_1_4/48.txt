@@ -1,0 +1,20 @@
+VARSIG7	set excludetables exclude tables
+VARSIG6	set includetables include tables
+VARSIG3	database database
+VARSIG2	evictcache evict cache
+VARSIG5	view
+VARSIG4	schema schema
+COMMENTS	retrieves database metadata dbre xml file jdbc connection writes database metadata dbre xml file determines database schemas examples databases schemas mysql sql firebird displayaddons display add ons display add ons required database supports schema runtimeexception runtime exception problem acquiring connection returns set database link schema schemas displayaddons display add ons display add ons required set schemas reads database metadata cache dbre xml file evictcache evict cache forces eviction database cache attempting retrieval database metadata parsed unavailable reason serializes database dbre xml file database database written disk returns identifier dbre xml file representing path dbre xml file returns schema databases support schemas mysql sql schema required retrieves database metadata jdbc connection schema schema query required view database views retrieved includetables include tables set table names include excludetables exclude tables set table names exlude database metadata connect database schema
+CLASSES	dbremodelservice dbre model service
+VARSIG1	displayaddons display add ons
+VARSIG0	displayaddons display add ons
+METHODS	supportsschema supports schema getschemas schemas getdatabase database writedatabase write database getdbrexmlpath dbre xml path getnoschemastring schema refreshdatabase refresh database
+MTHSIG4	getdbrexmlpath dbre xml path
+MTHSIG5	getnoschemastring schema
+MTHSIG6	refreshdatabase refresh database schema schema view set includetables include tables set excludetables exclude tables
+MTHSIG0	supportsschema supports schema displayaddons display add ons
+MTHSIG1	getschemas schemas displayaddons display add ons
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	getdatabase database evictcache evict cache
+MTHSIG3	writedatabase write database database database
+VARIABLES	displayaddons display add ons displayaddons display add ons evictcache evict cache database schema view includetables include tables excludetables exclude tables

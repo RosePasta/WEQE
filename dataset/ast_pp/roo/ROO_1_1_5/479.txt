@@ -1,0 +1,20 @@
+VARSIG7	methodmetadata metadata methodmetadata metadata
+VARSIG6	javasymbolname symbol
+VARSIG3	javatype type annotationtype annotation type
+VARSIG2	set javasymbolname symbol attributestodeleteifpresent attributes delete
+VARSIG5	javasymbolname symbol fieldname field
+VARSIG4	fieldmetadata field metadata fieldmetadata field metadata
+COMMENTS	represents mutable operations link classorinterfacetypedetails type details instance adds type level annotation existing annotation link javatype type defined type annotation annotation add required creates updates type level annotation annotation exist created automatically annotation exists attributes annotation preserved attribute presented metadata passed attribute passed metadata attribute replace existing attribute annotation roofoo roo foo annotation metadata passed roofoo roo foo annotation completes roofoo roo foo avoids changing disk net change annotation existing annotation roofoo roo foo annotation metadata roofoo roo foo net change source disk remains unchanged attributes presented attributestodeleteifpresent attributes delete set attributes removed annotation attribute values changed annotation annotation update required attributestodeleteifpresent attributes delete attributes delete annotation disk changed removes type level annotation link javatype type annotation exist annotationtype annotation type annotation type remove required adds field field existing fieldmetadata field metadata field add required removes existing field field exist fieldname field field remove required inserts constant constant add adds parameter types exist methodmetadata metadata add required
+CLASSES	mutableclassorinterfacetypedetails mutable type details
+VARSIG1	annotationmetadata annotation metadata annotation
+VARSIG0	annotationmetadata annotation metadata annotation
+METHODS	addtypeannotation add type annotation updatetypeannotation update type annotation removetypeannotation remove type annotation addfield add field removefield remove field addenumconstant add constant addmethod add
+MTHSIG4	removefield remove field javasymbolname symbol fieldname field
+MTHSIG5	addenumconstant add constant javasymbolname symbol
+MTHSIG6	addmethod add methodmetadata metadata methodmetadata metadata
+MTHSIG0	addtypeannotation add type annotation annotationmetadata annotation metadata annotation
+MTHSIG1	updatetypeannotation update type annotation annotationmetadata annotation metadata annotation set javasymbolname symbol attributestodeleteifpresent attributes delete
+PACKAGE	springframework roo classpath details
+MTHSIG2	removetypeannotation remove type annotation javatype type annotationtype annotation type
+MTHSIG3	addfield add field fieldmetadata field metadata fieldmetadata field metadata
+VARIABLES	annotation annotation attributestodeleteifpresent attributes delete annotationtype annotation type fieldmetadata field metadata fieldname field methodmetadata metadata

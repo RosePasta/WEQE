@@ -1,0 +1,26 @@
+VARSIG7	javasymbolname symbol paramname
+VARSIG6	findermetadatadetails finder metadata details finderdetails finder details
+VARSIG9	document proposed
+VARSIG8	jspfilename jsp filename
+VARSIG3	fieldmetadata field metadata idfield field
+VARSIG2	metadataidentificationstring metadata identification
+VARSIG5	fieldmetadata field metadata
+VARSIG4	methodmetadata metadata
+COMMENTS	listens link webscaffoldmetadata web scaffold metadata produces jsps requested metadata work mids metadata depend javatype type path web scaffold controller can scaffold don manage jsps time install web artifacts spring mvc config missing todo remove call controller commands holding directory controller directory jsps add create menu item setup labels support add list menu item finders scaffolded finder roo add find menu item clean links finders removed disk changed updated created physical type changed determine local metadata identification proceed downstream dependency relationship registered registered event delivered instance specific downstream dependency processed
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+MTHSIG4	notify upstreamdependency upstream dependency downstreamdependency downstream dependency
+VARSIG12	imagepath image path
+MTHSIG5	getprovidestype type
+VARSIG11	downstreamdependency downstream dependency
+MTHSIG6	installimage install image imagepath image path
+VARSIG10	upstreamdependency upstream dependency
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo addon web mvc jsp
+MTHSIG2	metadataidentificationstring metadata identification
+MTHSIG3	writetodiskifnecessary write disk jspfilename jsp filename document proposed
+VARSIG13	exception
+CLASSES	jspmetadatalistener jsp metadata listener
+METHODS	activate deactivate writetodiskifnecessary write disk notify getprovidestype type installimage install image
+VARIABLES	context context metadataidentificationstring metadata identification idfield field finderdetails finder details paramname jspfilename jsp filename proposed upstreamdependency upstream dependency downstreamdependency downstream dependency imagepath image path filemanager file manager jspoperations jsp operations menuoperations menu operations metadatadependencyregistry metadata dependency registry metadataservice metadata service propfileoperations prop file operations projectoperations project operations tilesoperations tiles operations webmetadataservice web metadata service webscaffoldmetadatakey web scaffold metadata key webscaffoldmetadata web scaffold metadata formbackingtype formbacking type memberdetails member details formbackingtypemetadatadetails form backing type metadata details pathresolver path resolver projectmetadata project metadata eligiblefields eligible fields relatedtypemd type formbackingtypemetadata formbacking type metadata formbackingtypepersistencemetadata formbacking type persistence metadata viewmanager view manager controllerpath controller path destinationdirectory destination directory file listpath list path showpath path categoryname category properties listpath list path menuitemid menu item listpath list path resourceid resource pluralresourceid plural resource javatypepersistencemetadatadetails type persistence metadata details fieldname field field fieldresourceid field resource typepersistencemetadatadetails type persistence metadata details menuitemid menu item allowedmenuitems allowed menu items findermethodsdetails finder methods details findername finder listpath list path finderlabel finder label original javatype type path pathresolver path resolver imagefile image file

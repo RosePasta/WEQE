@@ -1,0 +1,95 @@
+MTHSIG28	getinnertypes types
+MTHSIG29	getenclosingtypename enclosing type
+MTHSIG26	getcompilationunitpackage compilation unit
+MTHSIG27	getimports imports
+MTHSIG24	createorupdatetypeondisk create update type disk filemanager file manager filemanager file manager classorinterfacetypedetails type details cit fileidentifier file identifier
+MTHSIG25	tostring
+MTHSIG22	getresolvedname resolved javatype type target javatype type current compilationunit compilation unit compilationunit compilation unit
+MTHSIG23	getresolvedname resolved javatype type target javatype type current compilationunitservices compilation unit services compilationunit compilation unit
+VARSIG39	methodmetadata metadata candidate
+MTHSIG4	getdeclaredbymetadataid declared metadata
+VARSIG34	javatype type current
+MTHSIG5	getmodifier modifier
+VARSIG33	javatype type
+MTHSIG6	getsuperclass superclass
+VARSIG32	javatype type current
+MTHSIG7	getphysicaltypecategory physical type category
+VARSIG31	importmetadata metadata importtype type
+MTHSIG0	javaparserclassorinterfacetypedetails parser type details compilationunit compilation unit compilationunit compilation unit typedeclaration type declaration typedeclaration type declaration declaredbymetadataid declared metadata javatype type typename type metadataservice metadata service metadataservice metadata service physicaltypemetadataprovider physical type metadata provider physicaltypemetadataprovider physical type metadata provider
+VARSIG38	constructormetadata constructor metadata candidate
+MTHSIG1	getdefaultcompilationunitservices compilation unit services
+VARSIG37	fieldmetadata field metadata candidate
+PACKAGE	springframework roo classpath javaparser
+MTHSIG2	javaparserclassorinterfacetypedetails parser type details compilationunit compilation unit compilationunit compilation unit compilationunitservices compilation unit services enclosingcompilationunitservices enclosing compilation unit services typedeclaration type declaration typedeclaration type declaration declaredbymetadataid declared metadata javatype type typename type metadataservice metadata service metadataservice metadata service physicaltypemetadataprovider physical type metadata provider physicaltypemetadataprovider physical type metadata provider
+VARSIG36	javasymbolname symbol constant
+MTHSIG3	javaparserclassorinterfacetypedetails parser type details typecontents type contents declaredbymetadataid declared metadata javatype type typename type metadataservice metadata service metadataservice metadata service physicaltypemetadataprovider physical type metadata provider physicaltypemetadataprovider physical type metadata provider
+VARSIG35	annotationmetadata annotation metadata candidate
+MTHSIG20	getcompilationunitcontents compilation unit contents classorinterfacetypedetails type details cit
+MTHSIG21	addenumconstant add constant compilationunitservices compilation unit services compilationunitservices compilation unit services list enumconstantdeclaration constant declaration constants javasymbolname symbol
+MTHSIG8	getname
+VARSIG30	list bodydeclaration body declaration parent
+MTHSIG9	getdeclaredconstructors declared constructors
+CLASSES	javaparserclassorinterfacetypedetails parser type details
+VARSIG29	classorinterfacetypedetails type details cit
+VARSIG28	compilationunitservices compilation unit services enclosingcompilationunitservices enclosing compilation unit services
+METHODS	javaparserclassorinterfacetypedetails parser type details getdefaultcompilationunitservices compilation unit services javaparserclassorinterfacetypedetails parser type details javaparserclassorinterfacetypedetails parser type details getdeclaredbymetadataid declared metadata getmodifier modifier getsuperclass superclass getphysicaltypecategory physical type category getname getdeclaredconstructors declared constructors getenumconstants constants getdeclaredfields declared fields getdeclaredmethods declared methods getdeclaredinnertypes declared types getdeclaredinitializers declared initializers getextendstypes types getimplementstypes types getregisteredimports registered imports getannotations annotations updateoutput update output getcompilationunitcontents compilation unit contents addenumconstant add constant getresolvedname resolved getresolvedname resolved createorupdatetypeondisk create update type disk tostring getcompilationunitpackage compilation unit getimports imports getinnertypes types getenclosingtypename enclosing type
+VARSIG23	declaredbymetadataid declared metadata
+VARSIG22	typecontents type contents
+VARSIG21	variabledeclarator variable declarator
+VARSIG20	bodydeclaration body declaration member
+VARSIG27	compilationunit compilation unit compilationunit compilation unit
+VARSIG26	physicaltypemetadataprovider physical type metadata provider physicaltypemetadataprovider physical type metadata provider
+VARSIG25	metadataservice metadata service metadataservice metadata service
+VARSIG24	javatype type typename type
+VARSIG7	compilationunitservices compilation unit services enclosingcompilationunitservices enclosing compilation unit services
+VARSIG6	compilationunit compilation unit compilationunit compilation unit
+VARSIG9	declaredbymetadataid declared metadata
+VARSIG8	typedeclaration type declaration typedeclaration type declaration
+VARSIG3	javatype type typename type
+VARSIG2	declaredbymetadataid declared metadata
+VARSIG5	physicaltypemetadataprovider physical type metadata provider physicaltypemetadataprovider physical type metadata provider
+VARSIG4	metadataservice metadata service metadataservice metadata service
+COMMENTS	parser implementation link classorinterfacetypedetails type details immutable constructed satisfy internal hybrid compilationunitservices compilation unit services references enclosing types imports calculate determine type adding type parameters revert original type avoiding unnecessary inferences lang types roo verify declaration appears correct convert parser modifier jdk modifier type parameters fortunately type names top level superclass finished declaring type introspect types referred body members defer illegal refer type signature enclosing type type appends presented presented body declarations body declarations presented compilation unit progressively build types compilationunit compilation unit work progress compilation unit required cit add required parent body declarations subclass denotes top level type compilation unit append imports declares create declaration represent actual type handling top level type type superclass handling handling adding top level type add compilation unit types top level enclosing compilationunitservices compilation unit services compilationunitservices compilation unit services created create compilation unit javatype type metadata methods hybrid compilationunitservices compilation unit services references enclosing types imports add type annotations add constants interfaces handling add fields add constructors add methods add types create compilation unit store type created list replaced sorted version add declaration compilation unit pass argument denotes working top level type determine location insert
+VARSIG19	bodydeclaration body declaration bodydeclaration body declaration
+VARSIG1	typedeclaration type declaration typedeclaration type declaration
+VARSIG18	annotationexpr annotation expr candidate
+VARSIG0	compilationunit compilation unit compilationunit compilation unit
+VARSIG17	classorinterfacetype type candidate
+VARSIG12	physicaltypemetadataprovider physical type metadata provider physicaltypemetadataprovider physical type metadata provider
+VARSIG56	javatype type
+VARSIG11	metadataservice metadata service metadataservice metadata service
+VARSIG55	compilationunitservices compilation unit services compilationunit compilation unit
+VARSIG10	javatype type typename type
+VARSIG54	javatype type current
+VARSIG53	javatype type target
+VARSIG16	enumconstantdeclaration constant declaration enumconstants constants
+VARSIG15	classorinterfacetype type candidate
+VARSIG59	fileidentifier file identifier
+VARSIG14	javatype type
+VARSIG58	classorinterfacetypedetails type details cit
+VARSIG13	importdeclaration declaration importdeclaration declaration
+VARSIG57	filemanager file manager filemanager file manager
+VARSIG52	javatype type
+VARSIG51	compilationunit compilation unit compilationunit compilation unit
+VARSIG50	javatype type current
+MTHSIG17	getregisteredimports registered imports
+MTHSIG18	getannotations annotations
+MTHSIG15	getextendstypes types
+MTHSIG16	getimplementstypes types
+MTHSIG13	getdeclaredinnertypes declared types
+MTHSIG14	getdeclaredinitializers declared initializers
+MTHSIG11	getdeclaredfields declared fields
+MTHSIG12	getdeclaredmethods declared methods
+MTHSIG19	updateoutput update output compilationunit compilation unit compilationunit compilation unit compilationunitservices compilation unit services enclosingcompilationunitservices enclosing compilation unit services classorinterfacetypedetails type details cit list bodydeclaration body declaration parent
+VARSIG45	compilationunitservices compilation unit services compilationunitservices compilation unit services
+VARSIG44	classorinterfacetypedetails type details cit
+VARSIG43	importdeclaration declaration importdeclaration declaration
+VARSIG42	importdeclaration declaration importdeclaration declaration
+VARSIG49	javatype type target
+VARSIG48	enumconstantdeclaration constant declaration constant
+VARSIG47	javasymbolname symbol
+VARSIG46	list enumconstantdeclaration constant declaration constants
+MTHSIG10	getenumconstants constants
+VARIABLES	compilationunit compilation unit typedeclaration type declaration declaredbymetadataid declared metadata typename type metadataservice metadata service physicaltypemetadataprovider physical type metadata provider compilationunit compilation unit enclosingcompilationunitservices enclosing compilation unit services typedeclaration type declaration declaredbymetadataid declared metadata typename type metadataservice metadata service physicaltypemetadataprovider physical type metadata provider importdeclaration declaration candidate enumconstants constants candidate candidate bodydeclaration body declaration member typecontents type contents declaredbymetadataid declared metadata typename type metadataservice metadata service physicaltypemetadataprovider physical type metadata provider compilationunit compilation unit enclosingcompilationunitservices enclosing compilation unit services cit parent importtype type current current candidate constant candidate candidate candidate candidate importdeclaration declaration importdeclaration declaration importdeclaration declaration cit compilationunitservices compilation unit services constants constant target current compilationunit compilation unit target current compilationunit compilation unit filemanager file manager cit fileidentifier file identifier declaredbymetadataid declared metadata physicaltypecategory physical type category declaredconstructors declared constructors declaredfields declared fields declaredmethods declared methods declaredinnertypes declared types declaredinitializers declared initializers superclass extendstypes types implementstypes types registeredimports registered imports annotations enumconstants constants compilationunit compilation unit clazz enumclazz clazz imports compilationunitpackage compilation unit typeparameternames type parameter names innertypes types unsupported message prefix modifier finalcompilationunitservices compilation unit services compilationunitservices compilation unit services qualifier simplename simple fullname full type typepackage type newimport newname arg extendslist list javatype type superclass superclassid superclass superptm ptm constants implementslist list javatype type annotationslist annotations list members castmember member fieldmetadata field metadata castmember member castmember member constructormetadata constructor metadata castmember member innertype type innertypemetadataid type metadata classorinterfacetypedetails type details typetoimportexpr type expr javaparsermodifier parser modifier typedeclaration type declaration classorinterfacedeclaration declaration implementslist list isinterface pnameexpr expr tempname temp presolvedname resolved extendslist list finalcompilationunitservices compilation unit services compilationunitservices compilation unit services annotations enumdeclaration declaration constants imported imports importpackage importtype type compilationunit compilation unit types newentry entry nameexpr expr resolvedname resolved nameexpr expr resolvedname resolved newcontents contents tsc
+VARSIG41	importdeclaration declaration importdeclaration declaration
+VARSIG40	classorinterfacetypedetails type details candidate

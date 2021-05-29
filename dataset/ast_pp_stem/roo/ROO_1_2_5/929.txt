@@ -1,0 +1,14 @@
+COMMENTS	 
+CLASSES	parentbuild parent builder 
+VARSIG1	pompath pom path 
+VARSIG0	element parentel parent element 
+METHODS	parentbuild parent builder build getartifactid artifact getgroupid group getpompath pom path getrelativepath rel path getvers version 
+MTHSIG4	getpompath pom path 
+MTHSIG5	getrelativepath rel path 
+MTHSIG6	getvers version 
+MTHSIG0	parentbuild parent builder element parentel parent element pompath pom path 
+MTHSIG1	build 
+PACKAGE	springframework roo project maven 
+MTHSIG2	getartifactid artifact 
+MTHSIG3	getgroupid group 
+VARIABLES	parentel parent element pompath pom path artifactid artifact groupid group pompath pom path relativepath rel path version 

@@ -1,0 +1,14 @@
+VARSIG3	ioexception exception ioe
+VARSIG2	ioexception exception ioe
+COMMENTS	implementation link mutablefile mutable file permitted checks file changed instance constructed checks file changed instance constructed
+CLASSES	defaultmutablefile mutable file
+VARSIG1	notifiablefilemonitorservice notifiable file monitor service filemonitorservice file monitor service
+VARSIG0	file file
+METHODS	defaultmutablefile mutable file getcanonicalpath canonical path getinputstream input stream getoutputstream output stream tostring
+MTHSIG4	tostring
+MTHSIG0	defaultmutablefile mutable file file file notifiablefilemonitorservice notifiable file monitor service filemonitorservice file monitor service
+MTHSIG1	getcanonicalpath canonical path
+PACKAGE	springframework roo process manager internal
+MTHSIG2	getinputstream input stream
+MTHSIG3	getoutputstream output stream
+VARIABLES	file filemonitorservice file monitor service ioe ioe file filemonitorservice file monitor service tsc

@@ -1,0 +1,75 @@
+VARSIG39	javatype type targettype target type
+MTHSIG4	getjavatype type compilationunitservices compilation unit services compilationunitservices compilation unit services type type set javasymbolname symbol typeparameters type parameters
+VARSIG34	expression
+MTHSIG5	getjavatype type compilationunitservices compilation unit services compilationunitservices compilation unit services typedeclaration type declaration typedeclaration type declaration
+VARSIG33	list importdeclaration declaration imports
+MTHSIG6	getjavatypenow type compilationunitservices compilation unit services compilationunitservices compilation unit services classorinterfacetype type cit set javasymbolname symbol typeparameters type parameters
+VARSIG32	javatype type targettype target type
+MTHSIG7	getjdkmodifier jdk modifier modifiers
+VARSIG31	javatype type javatype type
+MTHSIG0	getclassorinterfacetype type nameexpr expr nameexpr expr
+VARSIG38	javatype type parameter
+MTHSIG1	getimportdeclarationfor declaration compilationunitservices compilation unit services compilationunitservices compilation unit services nameexpr expr nameexpr expr
+VARSIG37	javatype type typetoimport type
+PACKAGE	springframework roo classpath javaparser
+MTHSIG2	getjavaparsermodifier parser modifier modifiers
+VARSIG36	list importdeclaration declaration imports
+MTHSIG3	getjavatype type compilationunitservices compilation unit services compilationunitservices compilation unit services nameexpr expr nametofind find set javasymbolname symbol typeparameters type parameters
+VARSIG35	javatype type targettype target type
+MTHSIG20	getclassorinterfacetype type type type
+MTHSIG8	getnameexpr expr annotationexpr annotation expr annotationexpr annotation expr
+VARSIG30	javatype type
+MTHSIG9	getnameexpr expr classname
+CLASSES	javaparserutils parser utils
+VARSIG29	compilationunitservices compilation unit services compilationunit compilation unit
+VARSIG28	javatype type current
+METHODS	getclassorinterfacetype type getimportdeclarationfor declaration getjavaparsermodifier parser modifier getjavatype type getjavatype type getjavatype type getjavatypenow type getjdkmodifier jdk modifier getnameexpr expr getnameexpr expr getreferencetype reference type getresolvedname resolved getresolvedname resolved gettype type importexpressionifrequired expression required importparametersfortype parameters type importtypeifrequired type required isequal equal locatetypedeclaration locate type declaration javaparserutils parser utils getclassorinterfacetype type
+VARSIG23	javatype type target
+VARSIG22	nameexpr expr nameexpr expr
+VARSIG21	classname
+VARSIG20	annotationexpr annotation expr annotationexpr annotation expr
+VARSIG27	javatype type target
+VARSIG26	javatype type
+VARSIG25	compilationunit compilation unit compilationunit compilation unit
+VARSIG24	javatype type current
+VARSIG7	set javasymbolname symbol typeparameters type parameters
+VARSIG6	nameexpr expr nametofind find
+VARSIG9	compilationunitservices compilation unit services compilationunitservices compilation unit services
+VARSIG8	typedeclaration type declaration internaltype internal type
+VARSIG3	importdeclaration declaration candidate
+VARSIG2	nameexpr expr nameexpr expr
+VARSIG5	compilationunitservices compilation unit services compilationunitservices compilation unit services
+VARSIG4	modifiers
+COMMENTS	assists usage parser internal parser module code converts link nameexpr expr link classorinterfacetype type note effort manage imports nameexpr expr convert required link classorinterfacetype type declaration applicable presented expression fully qualified passed evaluated complete match simple passed evaluated simple matches reflects normal semantics simple type names imported compilationunitservices compilation unit services types compilation unit required nameexpr expr expression locate generally link nameexpr expr identifier required relevant expression user fully qualified let full match user fully qualified let simple comparison discards import qualified converts jdk link modifier integer equivalent parser modifier modifiers jdk equivalent parser unsupported parser modifierset modifier set resolves effective link javatype type link nameexpr expr represents link getjavatype type compilationunitservices compilation unit services type set type arguments preserved link nameexpr expr type arguments expression qualified unqualified expression qualified qualification starts lowercase letter represents fully qualified qualification starts uppercase letter prepended qualifier expression unqualified imports scanned unqualified expression imports declaration represents fully qualified unqualified expression imports find qualified expression type relates member lang lang fully qualified treated lang compilation unit unqualified expression represents fully qualified expression compilationunitservices compilation unit services management required nametofind find locate required typeparameters type parameters names type parameters effective type handle qualified expressions types foo bar qualified expression simply type reference refers enclosing type calculate based convention uppercase letter denotes roo letter uppercase requires prepending imported let assume expression dot qualifier imported let letter lowercase reference includes unqualified detected check type parameter list check enclosingtype enclosing type searching qualified expression nametofind find check compilation unit declares type convert internaltype internal type proper javatype type resolves effective link javatype type link type represents link type includes level types arrays primitives compilationunitservices compilation unit services resolution required type locate required typeparameters type parameters names type parameters link javatype type proper indication primitive array status provide primitive support wildcard types roo metadata day complete binding support ast resolves effective link javatype type link classorinterfacedeclaration declaration represents including type parameters compilationunitservices compilation unit services management required typedeclaration type declaration type declaration resolve required effective type convert classorinterfacedeclaration declaration javatype type populate javatype type type parameters resolves effective link javatype type link classorinterfacetype type represents including type arguments compilationunitservices compilation unit services management required cit type resolve required effective type handle type arguments converts parser modifier integer jdk link modifier integer modifiers parser equivalent jdk obtains expression link nameexpr expr passed link annotationexpr annotation expr annotation annotation type annotationexpr annotation expr retrieve type required converts presented expression link nameexpr expr link qualifiednameexpr qualified expr depending presented classname convert required fully qualified simple compatible expression returns converts link javatype type link referencetype reference type note effort manage imports nameexpr expr convert required link referencetype reference type primitives includes array declaration resolvedname resolved primitive type computes parser type presenting primitive type exception primitive type link importtypeifrequired type required javatype type list javatype type link nameexpr expr returns link getclassorinterfacetype type nameexpr expr javatype type primitive type required primitive equivalent parser link type recognises link expression type link fieldaccessexpr field access expr link classexpr expr automatically imports required returning correct link expression subsequently link expression resolved type imported guarantees link expression caller subsequently place passed link expression practical terms link expression passed returned type imported imported represented lang type targettype target type compilation unit target type required imports existing imports required expression resolvable type required expression appropriately resolved returns add type arguments presented type attempts presented link javatype type imported returns link nameexpr expr suitable subsequent referring type attempt lang type attempt type type usage type usage theoretically require undertaken requirement separately parse unqualified type usage compilation unit refrain importing subsequently conflicting types targettype target type compilation unit target type required imports compilation unit unit imports required typetoimport type type imported required expression referring type primitive easy handle type doesn simple type complete match simple type simple type lang left simple fully qualified imported don fact imported conflicting simple type names theoretically add elect explicitly perform conflicting types imported addimport add usesimpletypename simple type imported conflict simple type pretty crude emits source code people forget imports link nameexpr expr expressions equal link nameexpr expr offer equals entry compare acceptable entry compare acceptable entries identical searches compilation unit locates declaration type type simple compilationunit compilation unit scan required javatype type target locate required located type declaration required type declaration constructor prevent instantiation returns link classorinterfacetype type link type inittype init type link classorinterfacetype type link classorinterfacetype type
+VARSIG19	modifiers
+VARSIG1	compilationunitservices compilation unit services compilationunitservices compilation unit services
+VARSIG18	type
+VARSIG0	nameexpr expr nameexpr expr
+VARSIG17	set javasymbolname symbol typeparameters type parameters
+VARSIG12	compilationunitservices compilation unit services compilationunitservices compilation unit services
+VARSIG11	set javasymbolname symbol typeparameters type parameters
+VARSIG10	type type
+VARSIG16	classorinterfacetype type cit
+VARSIG15	compilationunitservices compilation unit services compilationunitservices compilation unit services
+VARSIG14	typeparameter type parameter candidate
+VARSIG13	typedeclaration type declaration typedeclaration type declaration
+MTHSIG17	isequal equal nameexpr expr nameexpr expr
+MTHSIG18	locatetypedeclaration locate type declaration compilationunit compilation unit compilationunit compilation unit javatype type javatype type
+MTHSIG15	importparametersfortype parameters type javatype type targettype target type list importdeclaration declaration imports javatype type typetoimport type
+MTHSIG16	importtypeifrequired type required javatype type targettype target type list importdeclaration declaration imports javatype type typetoimport type
+MTHSIG13	gettype type javatype type javatype type
+MTHSIG14	importexpressionifrequired expression required javatype type targettype target type list importdeclaration declaration imports expression
+MTHSIG11	getresolvedname resolved javatype type target javatype type current compilationunit compilation unit compilationunit compilation unit
+MTHSIG12	getresolvedname resolved javatype type target javatype type current compilationunitservices compilation unit services compilationunit compilation unit
+MTHSIG19	javaparserutils parser utils
+VARSIG45	compilationunit compilation unit compilationunit compilation unit
+VARSIG44	nameexpr expr
+VARSIG43	nameexpr expr
+VARSIG42	importdeclaration declaration existingimport existing
+VARSIG48	type type
+VARSIG47	typedeclaration type declaration candidate
+VARSIG46	javatype type javatype type
+MTHSIG10	getreferencetype reference type nameexpr expr nameexpr expr
+VARIABLES	nameexpr expr compilationunitservices compilation unit services nameexpr expr candidate modifiers compilationunitservices compilation unit services nametofind find typeparameters type parameters internaltype internal type compilationunitservices compilation unit services type typeparameters type parameters compilationunitservices compilation unit services typedeclaration type declaration candidate compilationunitservices compilation unit services cit typeparameters type parameters modifiers annotationexpr annotation expr classname nameexpr expr target current compilationunit compilation unit target current compilationunit compilation unit javatype type targettype target type imports targettype target type imports typetoimport type parameter targettype target type imports typetoimport type existingimport existing compilationunit compilation unit javatype type candidate type qne imports candidatenameexpr candidate expr result compilationunitpackage compilation unit qne qnequalifier qne qualifier enclosedby enclosed importdeclaration declaration enclosingtypename enclosing type nameexpr expr importdeclaration declaration array internaltype internal type cit effectivetype effective type cit effectivetype effective type cit effectivetype effective type nameexpr expr effectivetype effective type parametertypes parameter types clazz typeparameters type parameters locatedtypeparameters located type parameters currenttypeparam current type javatype type cit compilationunitpackage compilation unit typename type scope nameexpr expr effectivetype effective type parametertypes parameter types result nametofind find nametofind find nametofind find offset packagename typename type nameexpr expr resolvedname resolved nameexpr expr resolvedname resolved scope field packagename simplename simple fullyqualifiedname fully qualified javatype type nametouse type javatype type nametouse cit javatype type nametouse cit typeargs type compilationunitpackage compilation unit typetoimportpackage type typetoimportexpr type expr newimport addimport add usesimpletypename simple type tmp
+VARSIG41	javatype type typetoimport type
+VARSIG40	list importdeclaration declaration imports

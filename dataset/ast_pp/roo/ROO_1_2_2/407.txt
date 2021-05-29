@@ -1,0 +1,14 @@
+VARSIG2	object obj
+COMMENTS	display addon symbolic command completion change field ensure getkey key returns unique
+CLASSES	addonbundlesymbolicname add bundle symbolic
+VARSIG1	addonbundlesymbolicname add bundle symbolic
+VARSIG0	key
+METHODS	addonbundlesymbolicname add bundle symbolic compareto compare equals getkey key hashcode hash code tostring
+MTHSIG4	hashcode hash code
+MTHSIG5	tostring
+MTHSIG0	addonbundlesymbolicname add bundle symbolic key
+MTHSIG1	compareto compare addonbundlesymbolicname add bundle symbolic
+PACKAGE	springframework roo addon roobot client
+MTHSIG2	equals object obj
+MTHSIG3	getkey key
+VARIABLES	key obj key builder

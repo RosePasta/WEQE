@@ -1,0 +1,17 @@
+VARSIG3	list annotationmetadatabuild annot metadata builder annot 
+VARSIG2	javasymbolnam symbol fieldnam field 
+VARSIG5	asserttru 
+VARSIG4	assertfals 
+COMMENTS	jsr assertfals annot jsr asserttru annot 
+CLASSES	booleanfield field 
+VARSIG1	javatyp type fieldtyp field type 
+VARSIG0	physicaltypeidentifi physic type identifi 
+METHODS	booleanfield field decorateannotationslist decor annot list isassertfals isasserttru setassertfals set setasserttru set 
+MTHSIG4	setassertfals set assertfals 
+MTHSIG5	setasserttru set asserttru 
+MTHSIG0	booleanfield field physicaltypeidentifi physic type identifi javatyp type fieldtyp field type javasymbolnam symbol fieldnam field 
+MTHSIG1	decorateannotationslist decor annot list list annotationmetadatabuild annot metadata builder annot 
+PACKAGE	springframework roo classpath oper jsr jsr 
+MTHSIG2	isassertfals 
+MTHSIG3	isasserttru 
+VARIABLES	physicaltypeidentifi physic type identifi fieldtyp field type fieldnam field annot assertfals asserttru assertfals asserttru 

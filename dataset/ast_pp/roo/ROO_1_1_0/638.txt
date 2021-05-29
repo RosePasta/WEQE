@@ -1,0 +1,28 @@
+VARSIG7	childelename child ele
+VARSIG6	element ele
+VARSIG9	node node
+VARSIG8	element valueele ele
+VARSIG3	childelename child ele
+VARSIG2	element ele
+VARSIG5	childelename child ele
+VARSIG4	element ele
+COMMENTS	convenience methods working dom api working dom nodes dom elements dom node dom element retrieve child elements dom element match element names direct child level element depth contrast dom api api getelementsbytagname elements tag ele dom element analyze childelenames child ele names child element names list child dom element instances dom element dom element getelementsbytagname elements tag retrieve child elements dom element match element direct child level element depth contrast dom api api getelementsbytagname elements tag ele dom element analyze childelename child ele child element list child dom element instances dom element dom element getelementsbytagname elements tag utility returns child element identified ele dom element analyze childelename child ele child element dom element instance utility returns child element identified ele dom element analyze childelename child ele child element extracted text child element extract text dom element ignoring xml comments appends characterdata character data nodes entityreference entity reference nodes single excluding comment nodes characterdata character data entityreference entity reference comment namespace aware equals comparison returns link node getlocalname local link node getnodename node equals desiredname desired returns matches node node local desired matches node node local desired names
+VARSIG1	childelenames child ele names
+VARSIG0	element ele
+MTHSIG4	gettextvalue text element valueele ele
+VARSIG12	desiredname desired
+MTHSIG5	nodenameequals node equals node node desiredname desired
+VARSIG11	node node
+MTHSIG6	nodenamematch node match node node desiredname desired
+VARSIG10	desiredname desired
+MTHSIG7	nodenamematch node match node node collection desirednames desired names
+MTHSIG0	getchildelementsbytagname child elements tag element ele childelenames child ele names
+MTHSIG1	getchildelementsbytagname child elements tag element ele childelename child ele
+PACKAGE	springframework roo support util
+MTHSIG2	getchildelementbytagname child element tag element ele childelename child ele
+VARSIG14	collection desirednames desired names
+MTHSIG3	getchildelementvaluebytagname child element tag element ele childelename child ele
+VARSIG13	node node
+CLASSES	domutils dom utils
+METHODS	getchildelementsbytagname child elements tag getchildelementsbytagname child elements tag getchildelementbytagname child element tag getchildelementvaluebytagname child element tag gettextvalue text nodenameequals node equals nodenamematch node match nodenamematch node match
+VARIABLES	ele childelenames child ele names ele childelename child ele ele childelename child ele ele childelename child ele valueele ele node desiredname desired node desiredname desired node desirednames desired names childelenamelist child ele list childeles child eles node node child item

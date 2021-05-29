@@ -1,0 +1,12 @@
+MTHSIG4	solrsetup solr setup searchserverurl search server url
+MTHSIG0	setupcommandavailable setup command
+MTHSIG1	solradd solr add javatype type javatype type
+PACKAGE	springframework roo addon solr
+MTHSIG2	solrall solr
+MTHSIG3	solrcommandavailable solr command
+COMMENTS	commands solr search add roo shell
+CLASSES	solrcommands solr commands
+VARIABLES	javatype type searchserverurl search server url solroperations solr operations
+VARSIG1	clioption cli option key searchserverurl search server url mandatory unspecifieddefaultvalue unspecified http localhost solr specifieddefaultvalue http localhost solr url solr search server searchserverurl search server url
+VARSIG0	clioption cli option key mandatory unspecifieddefaultvalue unspecified optioncontext option context update project type searchable javatype type javatype type
+METHODS	setupcommandavailable setup command solradd solr add solrall solr solrcommandavailable solr command solrsetup solr setup

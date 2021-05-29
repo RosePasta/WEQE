@@ -1,0 +1,29 @@
+VARSIG7	ioexception exception
+VARSIG6	malformedurlexception malformed url exception
+VARSIG9	encodedfield encoded field
+VARSIG8	encoded
+VARSIG3	map properties
+VARSIG2	url
+VARSIG5	email
+VARSIG4	url
+COMMENTS	credentials logging cloud constants fields constructor accepts distinct values email email address log blank password password email address blank url url log blank constructor reads relevant entries map properties map read required credentials complete attempt login account details match credentials url url check email email check returns url credentials set
+VARSIG1	password
+VARSIG0	email
+MTHSIG4	getpassword password
+MTHSIG5	geturl url
+VARSIG11	object
+MTHSIG6	issameaccount account url email
+VARSIG10	ioexception exception
+MTHSIG7	geturlobject url object
+MTHSIG0	cloudcredentials cloud credentials email password url
+MTHSIG1	cloudcredentials cloud credentials map properties
+PACKAGE	springframework roo addon cloud foundry
+MTHSIG2	isvalid valid
+MTHSIG3	getemail email
+MTHSIG8	encode
+MTHSIG9	decode encoded
+MTHSIG11	hashcode hash code
+CLASSES	cloudcredentials cloud credentials
+METHODS	cloudcredentials cloud credentials cloudcredentials cloud credentials isvalid valid getemail email getpassword password geturl url issameaccount account geturlobject url object encode decode equals hashcode hash code
+MTHSIG10	equals object
+VARIABLES	email password url properties url email encoded encodedfield encoded field email key password key url key email password url map encodedfields encoded fields valuepair pair clouldcredentials clould credentials result

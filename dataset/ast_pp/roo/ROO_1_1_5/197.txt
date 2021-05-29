@@ -1,0 +1,12 @@
+MTHSIG0	loginwidget login widget
+MTHSIG1	setusername set user username user
+VARSIG2	clickevent click event
+PACKAGE	top level client scaffold
+MTHSIG2	setlogouturl set logout url url
+MTHSIG3	handleclick handle click clickevent click event
+COMMENTS	simple widget displays info user logout link squelch clicks logout link href set
+CLASSES	loginwidget login widget
+VARIABLES	username user url binder logoutlink logout link
+VARSIG1	url
+VARSIG0	username user
+METHODS	loginwidget login widget setusername set user setlogouturl set logout url handleclick handle click

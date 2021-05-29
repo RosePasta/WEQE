@@ -1,0 +1,40 @@
+VARSIG7	runtimeexception runtime exception
+VARSIG6	object
+VARSIG9	
+VARSIG8	exception ignoreit ignore
+VARSIG3	filenotfoundexception file exception trytheclassloaderinstead loader
+VARSIG2	clioption cli option key linenumbers numbers mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified display numbers executing script linenumbers numbers
+VARSIG5	
+VARSIG4	ioexception exception
+COMMENTS	base link shell implementation find resource classloader abort script processing wrong command attempted support simple block comments single pair support inline comments rely execution strategy log throwable root exceptionutils exception utils extractrootcause extract root logger log level fine root getmessage message subclass log execution formed command invoked command completed command returned returned exception note attempted commands formed missing mandatory argument presented command execution attempted cases invoked attempt execute command implementations specially handling script commands indicating command successful implementations behave consistently link abstractshell shell subclasses encouraged simply override link logcommandtooutput log command output override fine tune output logic parsed comments removed successful command successful subclass write logged command form output frees subclasses needing implement logic link logcommandifrequired log command required implementations invoke link getexitshellrequest exit shell request monitor attempts exit shell release resources output log files processedline processed appended type output excluding character logger severe processedline processed base implementation link shell setpromptpath set prompt path designed simple shell implementations advanced implementations support ansi codes override set link shellprompt shell prompt variable path set empty formatted special ansi codes determine svn version attempt svn version manifest development mode svnversion external tool build version details obtains directory current shell instance note calls link gethomeasstring subclasses provide directory location environment specific strategies path link gethomeasstring exists refers directory directory returned path link gethomeasstring exists refers file exception thrown path link gethomeasstring exist created directory fails exception thrown directory current shell instance guaranteed exist directory
+VARSIG1	clioption cli option key file file locate execute mandatory file resource
+VARSIG0	executionstrategy execution strategy executionstrategy execution strategy
+MTHSIG4	logcommandtooutput log command output processedline processed
+VARSIG12	path
+MTHSIG5	setpromptpath set prompt path path
+VARSIG11	processedline processed
+MTHSIG6	getexitshellrequest exit shell request
+VARSIG10	successful
+MTHSIG7	requestexit request exit
+MTHSIG0	abstractshell shell executionstrategy execution strategy executionstrategy execution strategy
+VARSIG16	exception ignoreandmoveon ignore move
+MTHSIG1	script file resource linenumbers numbers
+VARSIG15	clioption cli option key special version flags extra
+PACKAGE	springframework roo shell internal
+MTHSIG2	executecommand execute command
+VARSIG14	
+MTHSIG3	logcommandifrequired log command required successful
+VARSIG13	object property
+MTHSIG8	inlinecomment inline comment
+MTHSIG9	blockcommentbegin block comment
+MTHSIG17	gethomeasstring
+MTHSIG15	getshellprompt shell prompt
+MTHSIG16	gethome
+MTHSIG13	version extra
+MTHSIG14	versioninfo version info
+MTHSIG11	props
+MTHSIG12	
+CLASSES	abstractshell shell
+METHODS	abstractshell shell script executecommand execute command logcommandifrequired log command required logcommandtooutput log command output setpromptpath set prompt path getexitshellrequest exit shell request requestexit request exit inlinecomment inline comment blockcommentbegin block comment blockcommentfinish block comment finish props version versioninfo version info getshellprompt shell prompt gethome gethomeasstring
+MTHSIG10	blockcommentfinish block comment finish
+VARIABLES	executionstrategy execution strategy resource linenumbers numbers trytheclassloaderinstead loader ignoreit ignore successful processedline processed path property extra ignoreandmoveon ignore move logger inblockcomment block comment exitshellrequest exit shell request executionstrategy execution strategy shellprompt shell prompt completionkeys completion started inputstream input stream success lhs parseresult parse result result properties data svnrev svn rev classcontainer container manifesturl manifest url manifest location input formalbuild formal build roohome roo

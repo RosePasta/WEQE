@@ -1,0 +1,24 @@
+VARSIG7	map configmap config map
+VARSIG6	bundleexception bundle exception
+VARSIG9	numberformatexception number format exception
+VARSIG8	bundlecontext bundle context context
+VARSIG3	bundlecontext bundle context context
+VARSIG2	map configmap config map
+VARSIG5	bundleexception bundle exception
+VARSIG4	bundleexception bundle exception
+COMMENTS	supports link based felix felix felix autoprocessor auto processor maximum compatibility felix felix original property bundle directory bundle directory property auto deploy actions auto deploy install action auto deploy start action auto deploy update action auto deploy uninstall action property prefix launcher launcher auto install property property prefix launcher launcher auto start property instigate auto deploy directory process auto install auto start configuration property processing configmap config map map configuration properties context system bundle context processes bundles auto deploy directory installing starting determine auto deploy actions perform perform auto deploy actions list installed bundles map auto deploy directory bundle directory create list jar files install install bundle jar files remember bundle objects bundle location removing map installed bundles remaining bundles bundles uninstalled bundle installed install install action bundle installed update update action installed bundle add list bundles start uninstall bundles auto deploy directory uninstall action start installed updated bundles start action processes auto install auto start properties configuration properties retrieve start level service needed set start level installed bundles retrieve auto install auto start properties install bundles auto install property specifies space delimited list bundle urls automatically installed profile auto start property specifies bundles installed started start level bundles assigned appending property desired start level list bundles start level start level assumed ignore auto property auto property start level assume bundle start level parse start level parse install bundles key loop auto start bundles start installing returns bundle handle token stream data
+CLASSES	autoprocessor auto processor
+VARSIG1	bundlecontext bundle context context
+VARSIG0	map configmap config map
+METHODS	process processautodeploy process auto deploy processautoproperties process auto properties nextlocation location isfragment fragment
+MTHSIG4	isfragment fragment bundle bundle
+VARSIG12	stringtokenizer tokenizer
+VARSIG11	exception
+VARSIG10	exception
+MTHSIG0	process map configmap config map bundlecontext bundle context context
+MTHSIG1	processautodeploy process auto deploy map configmap config map bundlecontext bundle context context
+PACKAGE	springframework roo bootstrap
+MTHSIG2	processautoproperties process auto properties map configmap config map bundlecontext bundle context context
+MTHSIG3	nextlocation location stringtokenizer tokenizer
+VARSIG13	bundle bundle
+VARIABLES	configmap config map context configmap config map context configmap config map context bundle auto deploy dir propery auto deploy dir auto deploy action propery auto deploy install auto deploy start auto deploy update auto deploy uninstall auto install prop auto start prop action actionlist action list installedbundlemap installed bundle map bundles autodir auto dir files jarlist jar list startbundlelist start bundle list entry key startlevel start level location key location retval ret val tokenlist token list tokbuf tok buf tok inquote quote tokstarted tok started exit

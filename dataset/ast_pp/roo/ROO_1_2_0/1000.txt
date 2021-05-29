@@ -1,0 +1,18 @@
+VARSIG3	handler targethandler target handler
+VARSIG2	logrecord log record record
+VARSIG5	logrecord log record record
+VARSIG4	handler destination
+COMMENTS	defers publication jdk link logrecord log record instances target link handler registered target link handler instantiated link logrecord log record instances published target link handler requires establishment complex publication infrastructure gui message queue ioc container establishment infrastructure produce log messages ultimately delivered target link handler recognition target link handler registered failures configuring supporting infrastructure supports fallback mode fallback mode fallback link handler receive previous link logrecord log record instances fallback mode automatically triggered link logrecord log record published fallback link level fallback mode triggered link flush link close involved target link handler registered fields creates instance publish recorded link logrecord log record instances fallback link handler event link level received fallbackhandler fallback handler publish events mandatory fallbackpushlevel fallback push level level trigger event publication mandatory stores log record internally target link handler target link handler defined
+CLASSES	deferredloghandler deferred log handler
+VARSIG1	level fallbackpushlevel fallback push level
+VARSIG0	handler fallbackhandler fallback handler
+METHODS	deferredloghandler deferred log handler close flush publish gettargethandler target handler settargethandler set target handler publishlogrecordsto publish log records
+MTHSIG4	gettargethandler target handler
+MTHSIG5	settargethandler set target handler handler targethandler target handler
+MTHSIG6	publishlogrecordsto publish log records handler destination
+MTHSIG0	deferredloghandler deferred log handler handler fallbackhandler fallback handler level fallbackpushlevel fallback push level
+MTHSIG1	close
+PACKAGE	springframework roo support logging
+MTHSIG2	flush
+MTHSIG3	publish logrecord log record record
+VARIABLES	fallbackhandler fallback handler fallbackpushlevel fallback push level record targethandler target handler destination record logrecords log records fallbackhandler fallback handler fallbackpushlevel fallback push level fallbackmode fallback mode targethandler target handler

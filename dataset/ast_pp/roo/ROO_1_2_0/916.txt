@@ -1,0 +1,22 @@
+VARSIG3	
+VARSIG2	isdefault
+VARSIG5	packagingprovider packaging provider provider
+VARSIG4	illegalargumentexception illegal argument exception expected
+COMMENTS	unit test link packagingproviderconverter packaging provider converter constants fixture mocks object test asserts can converted link packagingprovider packaging provider convert blank set invoke check set invoke check
+CLASSES	packagingproviderconvertertest packaging provider converter test
+VARSIG1	
+VARSIG0	packagingprovider packaging provider mockpackagingprovider mock packaging provider
+METHODS	setup set setupmockpackagingprovider set mock packaging provider testdoesnotsupportwrongtype test support wrong type testsupportscorrecttype test supports correct type assertinvalidstring invalid testconvertnullstring test convert testconvertemptystring test convert empty testconvertunknownstring test convert unknown testconvertpartialstring test convert partial testconvertvalidstring test convert valid testgetallpossiblevalues test values
+MTHSIG4	assertinvalidstring invalid
+MTHSIG5	testconvertnullstring test convert
+MTHSIG6	testconvertemptystring test convert empty
+MTHSIG7	testconvertunknownstring test convert unknown
+MTHSIG0	setup set
+MTHSIG1	setupmockpackagingprovider set mock packaging provider packagingprovider packaging provider mockpackagingprovider mock packaging provider isdefault
+PACKAGE	springframework roo project packaging
+MTHSIG2	testdoesnotsupportwrongtype test support wrong type
+MTHSIG3	testsupportscorrecttype test supports correct type
+MTHSIG10	testgetallpossiblevalues test values
+VARIABLES	mockpackagingprovider mock packaging provider isdefault expected provider core jar custom jar core war converter mockpackagingproviderregistry mock packaging provider registry mockcorejarpackaging mock core jar packaging mockcustomjarpackaging mock custom jar packaging mockwarpackaging mock war packaging packagingprovider packaging provider providers expectedcompletions expected completions completions addspace add space
+MTHSIG8	testconvertpartialstring test convert partial
+MTHSIG9	testconvertvalidstring test convert valid

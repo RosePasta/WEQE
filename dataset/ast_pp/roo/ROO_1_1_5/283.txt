@@ -1,0 +1,36 @@
+VARSIG7	trustedonly trusted
+VARSIG6	maxresults max
+VARSIG9	communityonly community
+VARSIG8	compatibleonly compatible
+VARSIG3	searchterms search terms
+VARSIG2	showfeedback feedback
+VARSIG5	linesperresult lines result
+VARSIG4	refresh
+COMMENTS	operations offered addon display link addonbundlesymbolicname add bundle symbolic piped standard jdk link logger info bsn bundle symbolic required display bundle piped standard jdk link logger info bundleid bundle bundle required find add ons presently roo instance including add ons downloaded installed user optionally emitted console link logger info showfeedback feedback output messages console required searchterms search terms comma separated list search terms required refresh attempt fresh download roobot xml optional linesperresult lines result maximum number lines add optional maxresults max maximum number display optional trustedonly trusted display trusted add ons search optional compatibleonly compatible display compatible add ons search optional communityonly community display community add ons search optional requirescommand requires command display add ons offer command optional total number matches displayed maxresults max add list unavailable reason network problems install addon link addonbundlesymbolicname add bundle symbolic bsn bundle symbolic required install addon add bundleid bundle bundle required remove addon link bundlesymbolicname bundle symbolic bsn bundle symbolic required display upgrades addonstabilitylevel addon stability level add stability level account upgrade upgrade add ons user defined add stability level upgrade specific add bsn bundle symbolic required upgrade specific add bundleid bundle bundle required define stability level add upgrades addonstabilitylevel add stability level stability level add upgrades required list cached addon bundles refresh refresh attempt fresh download roobot xml optional set addon bundles
+VARSIG1	bundleid bundle
+VARSIG18	refresh
+VARSIG0	addonbundlesymbolicname add bundle symbolic bsn
+VARSIG17	addonstabilitylevel add stability level addonstabilitylevel add stability level
+MTHSIG4	installaddon install add bundleid bundle
+VARSIG12	bundleid bundle
+MTHSIG5	removeaddon remove add bundlesymbolicname bundle symbolic bsn
+VARSIG11	addonbundlesymbolicname add bundle symbolic bsn
+MTHSIG6	upgradesavailable upgrades addonstabilitylevel add stability level addonstabilitylevel addon stability level
+VARSIG10	requirescommand requires command
+MTHSIG7	upgradeaddons upgrade add ons
+MTHSIG0	addoninfo add info addonbundlesymbolicname add bundle symbolic bsn
+VARSIG16	bundleid bundle
+MTHSIG1	addoninfo add info bundleid bundle
+VARSIG15	addonbundlesymbolicname add bundle symbolic bsn
+PACKAGE	springframework roo addon roobot client
+MTHSIG2	findaddons find addons showfeedback feedback searchterms search terms refresh linesperresult lines result maxresults max trustedonly trusted compatibleonly compatible communityonly community requirescommand requires command
+VARSIG14	addonstabilitylevel add stability level addonstabilitylevel addon stability level
+MTHSIG3	installaddon install add addonbundlesymbolicname add bundle symbolic bsn
+VARSIG13	bundlesymbolicname bundle symbolic bsn
+MTHSIG8	upgradeaddon upgrade add addonbundlesymbolicname add bundle symbolic bsn
+MTHSIG9	upgradeaddon upgrade add bundleid bundle
+MTHSIG11	getaddoncache add cache refresh
+CLASSES	addonroobotoperations add roo bot operations
+METHODS	addoninfo add info addoninfo add info findaddons find addons installaddon install add installaddon install add removeaddon remove add upgradesavailable upgrades upgradeaddons upgrade add ons upgradeaddon upgrade add upgradeaddon upgrade add upgradesettings upgrade settings getaddoncache add cache
+MTHSIG10	upgradesettings upgrade settings addonstabilitylevel add stability level addonstabilitylevel add stability level
+VARIABLES	bsn bundleid bundle showfeedback feedback searchterms search terms refresh linesperresult lines result maxresults max trustedonly trusted compatibleonly compatible communityonly community requirescommand requires command bsn bundleid bundle bsn addonstabilitylevel addon stability level bsn bundleid bundle addonstabilitylevel add stability level refresh installorupgradestatus install upgrade status

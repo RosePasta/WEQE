@@ -1,0 +1,63 @@
+MTHSIG24	tostr 
+MTHSIG22	hashcod hash code 
+MTHSIG23	hassamecoordin coordin depend depend 
+MTHSIG4	depend groupid group artifactid artifact version collect depend exclus 
+MTHSIG5	depend groupid group artifactid artifact version dependencytyp depend type type dependencyscop depend scope scope 
+MTHSIG6	depend groupid group artifactid artifact version dependencytyp depend type type dependencyscop depend scope scope classifi 
+VARSIG32	depend depend 
+MTHSIG7	addexclus add exclus exclusiongroupid exclus group exclusionartifactid exclus artifact 
+VARSIG31	depend exclus 
+MTHSIG0	ishigherlevel higher level type type type type 
+MTHSIG1	depend element depend 
+PACKAGE	springframework roo project 
+MTHSIG2	depend gav gav dependencytyp depend type type dependencyscop depend scope scope 
+MTHSIG3	depend groupid group artifactid artifact version 
+MTHSIG20	getvers version 
+MTHSIG21	getversionid version 
+MTHSIG8	comparecoordin compar coordin depend 
+VARSIG30	document document 
+MTHSIG9	compareto compar depend 
+CLASSES	depend 
+VARSIG29	object obj 
+VARSIG28	depend 
+METHODS	ishigherlevel higher level depend depend depend depend depend depend addexclus add exclus comparecoordin compar coordin compareto compar equal getartifactid artifact getclassifi classifi getel element getexclus exclus getgroupid group getscop scope getsimpledescript simpl descript getsystempath system path gettyp type getvers version getversionid version hashcod hash code hassamecoordin coordin tostr 
+VARSIG23	dependencyscop depend scope scope 
+VARSIG22	dependencytyp depend type type 
+VARSIG21	version 
+VARSIG20	artifactid artifact 
+VARSIG27	depend 
+VARSIG26	exclusionartifactid exclus artifact 
+VARSIG25	exclusiongroupid exclus group 
+VARSIG24	classifi 
+VARSIG7	groupid group 
+VARSIG6	dependencyscop depend scope scope 
+VARSIG9	version 
+VARSIG8	artifactid artifact 
+VARSIG3	element exclus 
+VARSIG2	element depend 
+VARSIG5	dependencytyp depend type type 
+VARSIG4	gav gav 
+COMMENTS	simplifi immut represent depend structur model maven ivi replac releas osgi centric model maven doc minim set match depend refer dependencymanag depend manag groupid group artifactid artifact type classifi http maven guid introduct introduct depend mechan html depend scope depend type increas contain order depend type higher logic level type type depend type compar requir type type depend type compar requir level level identifi identifi construct link depend maven style element depend pars requir test maven format pom attribut support maven pom attribut support maven pars exclus test ivi format todo implement exclus parser ivi format constructor depend attribut gav coordin requir type depend type requir scope depend scope requir construct compil scope jar depend groupid group group requir artifactid artifact artifact requir version version requir construct compil scope jar depend option exclus groupid group group requir artifactid artifact artifact requir version version requir exclus exclus depend construct depend type scope groupid group group requir artifactid artifact artifact requir version version requir type depend type requir scope depend scope requir creat immut link depend groupid group group requir artifactid artifact artifact requir version version requir type depend type requir scope depend scope requir classifi depend classifi requir add exclus depend exclusiongroupid exclus group groupid group depend exclud requir exclusionartifactid exclus artifact artifactid artifact depend exclud requir compar depend depend identifi coordin version depend depend compar requir link compar compareto compar object return xml element depend document parent xml document element xml don jar xml don compil add exclus list exclus simpl descript consol output link depend maven coordin call link equal object compar field basic coordin depend depend check coordin 
+VARSIG19	groupid group 
+VARSIG1	type type 
+VARSIG18	dependencyscop depend scope scope 
+VARSIG0	type type 
+VARSIG17	dependencytyp depend type type 
+VARSIG12	version 
+VARSIG11	artifactid artifact 
+VARSIG10	groupid group 
+VARSIG16	version 
+VARSIG15	artifactid artifact 
+VARSIG14	groupid group 
+VARSIG13	collect depend exclus 
+MTHSIG17	getsimpledescript simpl descript 
+MTHSIG18	getsystempath system path 
+MTHSIG15	getgroupid group 
+MTHSIG16	getscop scope 
+MTHSIG13	getel element document document 
+MTHSIG14	getexclus exclus 
+MTHSIG11	getartifactid artifact 
+MTHSIG12	getclassifi classifi 
+MTHSIG19	gettyp type 
+MTHSIG10	equal object obj 
+VARIABLES	type type type type depend exclus gav type scope groupid group artifactid artifact version groupid group artifactid artifact version exclus groupid group artifactid artifact version type scope groupid group artifactid artifact version type scope classifi exclusiongroupid exclus group exclusionartifactid exclus artifact obj document exclus depend type hierarchi type index type type index type artifactid artifact classifi exclus groupid group scope systempath system path type version versionel version element exclusionlist exclus list exclusion exclus exclusionid exclus exclusionartifact exclus artifact exclusionartifactid exclus artifact result result dependencyel depend element typeel type element exclusionsel exclus element exclusionel exclus element prime result builder 

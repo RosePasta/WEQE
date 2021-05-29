@@ -1,0 +1,36 @@
+VARSIG7	encod 
+VARSIG6	port 
+VARSIG9	password 
+VARSIG8	usernam 
+VARSIG3	projectoper project oper projectoper project oper 
+VARSIG2	metadataservic metadata servic metadataservic metadata servic 
+VARSIG5	mailprotocol mail protocol protocol 
+VARSIG4	hostserv host server 
+COMMENTS	email configur oper physic type mutabl detail creat content user start 
+VARSIG19	javasymbolnam symbol fieldnam field 
+VARSIG1	pathresolv path resolv pathresolv path resolv 
+VARSIG18	javatyp type targettyp target type 
+VARSIG0	filemanag file manag filemanag file manag 
+VARSIG17	ioexcept except ioe 
+MTHSIG4	configuretemplatemessag configur templat messag subject 
+VARSIG12	ioexcept except ioe 
+MTHSIG5	injectemailtempl inject email templat javatyp type targettyp target type javasymbolnam symbol fieldnam field 
+VARSIG11	except 
+MTHSIG6	updatedepend updat depend 
+VARSIG10	ioexcept except ioe 
+MTHSIG7	getpathresolv path resolv 
+MTHSIG0	mailoper mail oper filemanag file manag filemanag file manag pathresolv path resolv pathresolv path resolv metadataservic metadata servic metadataservic metadata servic projectoper project oper projectoper project oper 
+VARSIG16	except 
+MTHSIG1	isinstallemailavail instal email 
+VARSIG15	ioexcept except ioe 
+PACKAGE	springframework roo addon email 
+MTHSIG2	ismanageemailavail manag email 
+VARSIG14	subject 
+MTHSIG3	installemail instal email hostserv host server mailprotocol mail protocol protocol port encod usernam password 
+VARSIG13	 
+CLASSES	mailoper mail oper 
+METHODS	mailoper mail oper isinstallemailavail instal email ismanageemailavail manag email installemail instal email configuretemplatemessag configur templat messag injectemailtempl inject email templat updatedepend updat depend getpathresolv path resolv 
+VARSIG22	element depend 
+VARSIG21	except 
+VARSIG20	except 
+VARIABLES	filemanag file manag pathresolv path resolv metadataservic metadata servic projectoper project oper hostserv host server protocol port encod usernam password ioe ioe subject ioe ioe targettyp target type fieldnam field depend filemanag file manag pathresolv path resolv metadataservic metadata servic projectoper project oper emailpropspath email prop path databasemutablefil databas mutabl file prop contextpath context path contextmutablefil context mutabl file appctx app ctx root installdepend instal depend mailbean mail bean properti pelement element pelement element pelement element pelement element pelement element javamailproperti mail properti securityprop secur prop prop prop prop emailpropspath email prop path databasemutablefil databas mutabl file prop contextpath context path contextmutablefil context mutabl file appctx app ctx root smmbean smm bean smmproperti smm properti smmproperti smm properti modifi annot fieldmetadata field metadata ptm ptd mutabletypedetail mutabl type detail contextpath context path contextmutablefil context mutabl file appctx app ctx root smmbean smm bean bodybuild bodi builder declaredbymetadataid declar metadata smmannot smm annot paramtyp type paramnam name smmfieldmetadata smm field metadata templateinputstream templat input stream dependencydoc depend doc dependenciesel depend element depend projectmetadata project metadata 

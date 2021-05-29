@@ -1,0 +1,48 @@
+VARSIG7	clioption cli option key trustedonly trusted mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue display trusted add ons search trustedonly trusted
+VARSIG6	clioption cli option key maxresults max mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue maximum number add ons list maxresults max
+VARSIG9	clioption cli option key compatibleonly compatible mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue display compatible add ons search compatibleonly compatible
+VARSIG8	clioption cli option key communityonly community mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue display community add ons search communityonly community
+VARSIG3	clioption cli option key bundlesymbolicname bundle symbolic mandatory bundle symbolic add interest addonbundlesymbolicname add bundle symbolic bsn
+VARSIG2	clioption cli option key searchresultid search result mandatory bundle presented addon list addon search command bundleid bundle
+VARSIG5	clioption cli option key linesperresult lines result mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue maximum number lines displayed add linesperresult lines result
+VARSIG4	clioption cli option key refresh mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue refresh add internet refresh
+COMMENTS	commands add list search criteria criteria reasonable filtering display logic place
+VARSIG19	clioption cli option key bundlesymbolicname bundle symbolic mandatory bundle symbolic add interest addonbundlesymbolicname add bundle symbolic bsn
+VARSIG1	componentcontext component context context
+VARSIG18	clioption cli option key searchresultid search result mandatory bundle presented addon list addon search command bundleid bundle
+VARSIG0	componentcontext component context context
+VARSIG17	clioption cli option key requirescommand requires command mandatory display add ons search offer command requirescommand requires command
+MTHSIG4	list refresh linesperresult lines result maxresults max trustedonly trusted communityonly community compatibleonly compatible
+VARSIG12	clioption cli option key linesperresult lines result mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue maximum number lines displayed add linesperresult lines result
+MTHSIG5	search searchterms search terms refresh linesperresult lines result maxresults max trustedonly trusted compatibleonly compatible communityonly community requirescommand requires command
+VARSIG11	clioption cli option key refresh mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue refresh add internet refresh
+MTHSIG6	installid install bundleid bundle
+VARSIG10	clioption cli option key requiresdescription requires description mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified comma separated list search terms searchterms search terms
+MTHSIG7	installbsn install bsn addonbundlesymbolicname add bundle symbolic bsn
+MTHSIG0	activate componentcontext component context context
+VARSIG16	clioption cli option key communityonly community mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue display community add ons search communityonly community
+MTHSIG1	deactivate componentcontext component context context
+VARSIG15	clioption cli option key compatibleonly compatible mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue display compatible add ons search compatibleonly compatible
+PACKAGE	springframework roo addon roobot client
+MTHSIG2	infoid info bundleid bundle
+VARSIG14	clioption cli option key trustedonly trusted mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue display trusted add ons search trustedonly trusted
+MTHSIG3	infobundle info bundle addonbundlesymbolicname add bundle symbolic bsn
+VARSIG13	clioption cli option key maxresults max mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue maximum number add ons list maxresults max
+MTHSIG8	remove bundlesymbolicname bundle symbolic bsn
+MTHSIG9	ugradebundle ugrade bundle addonbundlesymbolicname add bundle symbolic bsn
+MTHSIG13	ugradesettings ugrade settings addonstabilitylevel add stability level level
+MTHSIG14	feedbackbundle feedback bundle bundlesymbolicname bundle symbolic bsn rating rating comment
+MTHSIG11	ugradeall ugrade
+MTHSIG12	ugradeavailable ugrade addonstabilitylevel add stability level level
+CLASSES	addoncommands add commands
+METHODS	activate deactivate infoid info infobundle info bundle list search installid install installbsn install bsn remove ugradebundle ugrade bundle ugradeid ugrade ugradeall ugrade ugradeavailable ugrade ugradesettings ugrade settings feedbackbundle feedback bundle
+VARSIG23	clioption cli option key addonstabilitylevel addon stability level mandatory stability level add ons components presented upgrading addonstabilitylevel add stability level level
+VARSIG22	clioption cli option key searchresultid search result mandatory bundle presented addon list addon search command bundleid bundle
+VARSIG21	clioption cli option key bundlesymbolicname bundle symbolic mandatory bundle symbolic add upgrade addonbundlesymbolicname add bundle symbolic bsn
+VARSIG20	clioption cli option key bundlesymbolicname bundle symbolic mandatory bundle symbolic add interest bundlesymbolicname bundle symbolic bsn
+VARSIG27	clioption cli option key comment mandatory comments add comment limit characters comment
+VARSIG26	clioption cli option key rating mandatory add rating rating
+VARSIG25	clioption cli option key bundlesymbolicname bundle symbolic mandatory bundle symbolic add interest bundlesymbolicname bundle symbolic bsn
+VARSIG24	clioption cli option key addonstabilitylevel addon stability level mandatory stability level add ons components presented upgrading addonstabilitylevel add stability level level
+MTHSIG10	ugradeid ugrade bundleid bundle
+VARIABLES	context context bundleid bundle bsn refresh linesperresult lines result maxresults max trustedonly trusted communityonly community compatibleonly compatible searchterms search terms refresh linesperresult lines result maxresults max trustedonly trusted compatibleonly compatible communityonly community requirescommand requires command bundleid bundle bsn bsn bsn bundleid bundle level level bsn rating comment operations feedbackoperations feedback operations staticfieldconverter field converter

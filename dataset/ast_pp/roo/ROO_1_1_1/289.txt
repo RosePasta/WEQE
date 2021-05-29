@@ -1,0 +1,41 @@
+VARSIG7	list javasymbolname symbol parameternames parameter names
+VARSIG6	list annotatedjavatype annotated type parametertypes parameter types
+VARSIG9	body
+VARSIG8	list javatype type throwstypes types
+VARSIG3	returntype type
+VARSIG2	methodname
+VARSIG5	javatype type returntype type
+VARSIG4	javasymbolname symbol methodname
+COMMENTS	easy create link methodmetadata metadata instance testing purposes
+VARSIG1	javatype type returntype type
+VARSIG0	javasymbolname symbol methodname
+MTHSIG4	getreturntype type
+VARSIG12	modifier
+MTHSIG5	setreturntype set type javatype type returntype type
+VARSIG11	declaredbymetadataid declared metadata
+MTHSIG6	getparametertypes parameter types
+VARSIG10	list annotationmetadata annotation metadata annotations
+MTHSIG7	setparametertypes set parameter types list annotatedjavatype annotated type parametertypes parameter types
+MTHSIG0	stubmethodmetadata stub metadata javasymbolname symbol methodname javatype type returntype type
+MTHSIG1	stubmethodmetadata stub metadata methodname returntype type
+PACKAGE	springframework roo addon web mvc controller
+MTHSIG2	getmethodname
+MTHSIG3	setmethodname set javasymbolname symbol methodname
+VARSIG13	customdata custom data customdata custom data
+MTHSIG20	getcustomdata custom data
+MTHSIG21	setcustomdata set custom data customdata custom data customdata custom data
+MTHSIG8	getparameternames parameter names
+MTHSIG9	setparameternames set parameter names list javasymbolname symbol parameternames parameter names
+MTHSIG17	setdeclaredbymetadataid set declared metadata declaredbymetadataid declared metadata
+MTHSIG18	getmodifier modifier
+MTHSIG15	setannotations set annotations list annotationmetadata annotation metadata annotations
+MTHSIG16	getdeclaredbymetadataid declared metadata
+MTHSIG13	setbody set body body
+MTHSIG14	getannotations annotations
+MTHSIG11	setthrowstypes set types list javatype type throwstypes types
+MTHSIG12	getbody body
+CLASSES	stubmethodmetadata stub metadata
+METHODS	stubmethodmetadata stub metadata stubmethodmetadata stub metadata getmethodname setmethodname set getreturntype type setreturntype set type getparametertypes parameter types setparametertypes set parameter types getparameternames parameter names setparameternames set parameter names getthrowstypes types setthrowstypes set types getbody body setbody set body getannotations annotations setannotations set annotations getdeclaredbymetadataid declared metadata setdeclaredbymetadataid set declared metadata getmodifier modifier setmodifier set modifier getcustomdata custom data setcustomdata set custom data
+MTHSIG19	setmodifier set modifier modifier
+MTHSIG10	getthrowstypes types
+VARIABLES	methodname returntype type methodname returntype type methodname returntype type parametertypes parameter types parameternames parameter names throwstypes types body annotations declaredbymetadataid declared metadata modifier customdata custom data methodname returntype type parametertypes parameter types parameternames parameter names throwstypes types body annotations declaredbymetadataid declared metadata modifier customdata custom data

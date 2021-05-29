@@ -1,0 +1,20 @@
+VARSIG7	methodtarget target target
+VARSIG6	optioncontext option context
+VARSIG9	bundleversion bundle version bundleversion bundle version
+VARSIG8	entry bundle entry
+VARSIG3	list completion completions
+VARSIG2	optioncontext option context
+VARSIG5	originaluserinput original user input
+VARSIG4	requiredtype required type
+COMMENTS	link converter link addonbundlesymbolicname add bundle symbolic
+CLASSES	addonbundlesymbolicnameconverter add bundle symbolic converter
+VARSIG1	requiredtype required type
+VARSIG0	
+METHODS	convertfromtext convert text getallpossiblevalues values supports
+VARSIG11	optioncontext option context
+VARSIG10	requiredtype required type
+MTHSIG0	convertfromtext convert text requiredtype required type optioncontext option context
+MTHSIG1	getallpossiblevalues values list completion completions requiredtype required type originaluserinput original user input optioncontext option context methodtarget target target
+PACKAGE	springframework roo addon roobot client
+MTHSIG2	supports requiredtype required type optioncontext option context
+VARIABLES	requiredtype required type optioncontext option context completions requiredtype required type originaluserinput original user input optioncontext option context target entry bundleversion bundle version requiredtype required type optioncontext option context addonmanageroperations addon manager operations bundles bsn bundle

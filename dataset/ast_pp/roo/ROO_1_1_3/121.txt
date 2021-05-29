@@ -1,0 +1,73 @@
+MTHSIG24	getdestinationjavatype destination type javatype type physicaltype physical type gwttype gwt type mirrortype mirror type projectmetadata project metadata projectmetadata project metadata
+MTHSIG25	resolvetypes resolve types javatype type javatype type typed
+MTHSIG22	isrequestfactorycompatible request factory compatible javatype type type
+MTHSIG23	methodbuildersequal builders equal methodmetadatabuilder metadata builder methodmetadatabuilder metadata builder
+VARSIG39	javatype type
+MTHSIG4	hasrequiredentitymethods required entity methods entitymetadata entity metadata entitymetadata entity metadata
+VARSIG34	methodmetadatabuilder metadata builder
+MTHSIG5	isonemethodsequal methods equal methodmetadata metadata methodmetadata metadata
+VARSIG33	javatype type type
+MTHSIG6	aremethodsequal methods equal methodmetadata metadata methodmetadata metadata
+VARSIG32	javatype type returntype type
+MTHSIG7	getdestinationjavatype destination type gwttype gwt type type projectmetadata project metadata projectmetadata project metadata
+VARSIG31	physicaltypemetadata physical type metadata ptmd
+MTHSIG0	gwtutils gwt utils
+VARSIG38	projectmetadata project metadata projectmetadata project metadata
+MTHSIG1	getmirrortypemap mirror type map projectmetadata project metadata projectmetadata project metadata javatype type governortype governor type
+VARSIG37	gwttype gwt type mirrortype mirror type
+PACKAGE	springframework roo addon gwt
+MTHSIG2	isrequestmethod request entitymetadata entity metadata entitymetadata entity metadata methodmetadata metadata methodmetadata metadata
+VARSIG36	javatype type physicaltype physical type
+MTHSIG3	convertgovernortypenameintokeytypename convert governor type key type gwttype gwt type type projectmetadata project metadata projectmetadata project metadata javatype type governortypename governor type
+VARSIG35	methodmetadatabuilder metadata builder
+MTHSIG20	isembeddable embeddable physicaltypemetadata physical type metadata ptmd
+MTHSIG21	iscollectiontype collection type javatype type returntype type
+MTHSIG8	getfullyqualifiedtypename fully qualified type gwttype gwt type gwttype gwt type projectmetadata project metadata projectmetadata project metadata
+VARSIG30	physicaltypemetadata physical type metadata ptmd
+MTHSIG9	convertmodifier convert modifier builder
+CLASSES	gwtutils gwt utils
+VARSIG29	physicaltypemetadata physical type metadata ptmd
+VARSIG28	physicaltypemetadata physical type metadata ptmd
+METHODS	gwtutils gwt utils getmirrortypemap mirror type map isrequestmethod request convertgovernortypenameintokeytypename convert governor type key type hasrequiredentitymethods required entity methods isonemethodsequal methods equal aremethodsequal methods equal getdestinationjavatype destination type getfullyqualifiedtypename fully qualified type convertmodifier convert modifier checkprimitive check primitive ismappable mappable convertprimitivetype convert primitive type ispublicaccessor accessor isallowablereturntype allowable type isallowablereturntype allowable type iscommontype common type isdomainobject domain object isenum isentity entity isembeddable embeddable iscollectiontype collection type isrequestfactorycompatible request factory compatible methodbuildersequal builders equal getdestinationjavatype destination type resolvetypes resolve types
+VARSIG23	methodmetadata metadata
+VARSIG22	javatype type type
+VARSIG21	entitymetadata entity metadata entitymetadata entity metadata
+VARSIG20	classorinterfacetypedetails type details governortypedetails governor type details
+VARSIG27	javatype type returntype type
+VARSIG26	javatype type type
+VARSIG25	javatype type type
+VARSIG24	methodmetadata metadata
+VARSIG7	javatype type governortypename governor type
+VARSIG6	projectmetadata project metadata projectmetadata project metadata
+VARSIG9	methodmetadata metadata
+VARSIG8	entitymetadata entity metadata entitymetadata entity metadata
+VARSIG3	entitymetadata entity metadata entitymetadata entity metadata
+VARSIG2	gwttype gwt type mirrortype mirror type
+VARSIG5	gwttype gwt type type
+VARSIG4	methodmetadata metadata methodmetadata metadata
+COMMENTS	utility methods gwt add physicaltype physical type mirrortype mirror type mirror producing required projectmetadata project metadata mid mirror applicable current governor
+VARSIG19	javatype type type
+VARSIG1	javatype type governortype governor type
+VARSIG18	builder
+VARSIG0	projectmetadata project metadata projectmetadata project metadata
+VARSIG17	projectmetadata project metadata projectmetadata project metadata
+VARSIG12	methodmetadata metadata
+VARSIG11	methodmetadata metadata
+VARSIG10	methodmetadata metadata
+VARSIG16	gwttype gwt type gwttype gwt type
+VARSIG15	projectmetadata project metadata projectmetadata project metadata
+VARSIG14	gwttype gwt type type
+VARSIG13	methodmetadata metadata
+MTHSIG17	isdomainobject domain object javatype type returntype type physicaltypemetadata physical type metadata ptmd
+MTHSIG18	isenum physicaltypemetadata physical type metadata ptmd
+MTHSIG15	isallowablereturntype allowable type javatype type type
+MTHSIG16	iscommontype common type javatype type type
+MTHSIG13	ispublicaccessor accessor methodmetadata metadata
+MTHSIG14	isallowablereturntype allowable type methodmetadata metadata
+MTHSIG11	ismappable mappable classorinterfacetypedetails type details governortypedetails governor type details entitymetadata entity metadata entitymetadata entity metadata
+MTHSIG12	convertprimitivetype convert primitive type javatype type type
+MTHSIG19	isentity entity physicaltypemetadata physical type metadata ptmd
+MTHSIG10	checkprimitive check primitive javatype type type
+VARIABLES	projectmetadata project metadata governortype governor type mirrortype mirror type entitymetadata entity metadata methodmetadata metadata type projectmetadata project metadata governortypename governor type entitymetadata entity metadata type projectmetadata project metadata gwttype gwt type projectmetadata project metadata builder type governortypedetails governor type details entitymetadata entity metadata type type type returntype type ptmd ptmd ptmd ptmd returntype type type physicaltype physical type mirrortype mirror type projectmetadata project metadata typed genericparamtype type logger mirrortypemap mirror type map destinationpackage destination typename type simple typename type annotationmetadata annotation metadata annotationmetadata annotation metadata match typemap type map typecountmatch type count match
+VARSIG41	javatype type genericparamtype type
+VARSIG40	javatype type typed

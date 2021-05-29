@@ -1,0 +1,31 @@
+VARSIG7	constructormetadata constructor metadata constructormetadata constructor metadata
+VARSIG6	constructormatcher constructor matcher constructortagger constructor tagger
+VARSIG9	memberholdingtypedetails member holding type details typedetails type details
+VARSIG8	typematcher type matcher typetagger type tagger
+VARSIG3	fieldmetadata field metadata fieldmetadata field metadata
+VARSIG2	fieldmatcher field matcher fieldtagger field tagger
+VARSIG5	methodmetadata metadata methodmetadata metadata
+VARSIG4	methodmatcher matcher methodtagger tagger
+COMMENTS	implementation link customdatakeydecorator custom data key decorator locate requests add custom data identifiable structures
+VARSIG1	memberdetails member details memberdetails member details
+VARSIG18	matcher matcher
+VARSIG0	requestingclass requesting
+VARSIG17	matcher matcher
+MTHSIG4	getfieldtaggers field taggers
+VARSIG12	addingclass adding
+MTHSIG5	getconstructortaggers constructor taggers
+VARSIG11	matcher matcher
+MTHSIG6	gettypetaggers type taggers
+VARSIG10	addingclass adding
+MTHSIG0	decorate requestingclass requesting memberdetails member details memberdetails member details
+VARSIG16	matcher matcher
+MTHSIG1	registermatcher register matcher addingclass adding matcher matcher
+VARSIG15	matcher matcher
+PACKAGE	springframework roo classpath customdata taggers
+MTHSIG2	unregistermatchers unregister matchers addingclass adding
+VARSIG14	taggerkey tagger key
+MTHSIG3	getmethodtaggers taggers
+VARSIG13	taggerkey tagger key
+CLASSES	customdatakeydecoratorimpl custom data key decorator impl
+METHODS	decorate registermatcher register matcher unregistermatchers unregister matchers getmethodtaggers taggers getfieldtaggers field taggers getconstructortaggers constructor taggers gettypetaggers type taggers
+VARIABLES	requestingclass requesting memberdetails member details fieldtagger field tagger fieldmetadata field metadata methodtagger tagger methodmetadata metadata constructortagger constructor tagger constructormetadata constructor metadata typetagger type tagger typedetails type details addingclass adding matcher addingclass adding taggerkey tagger key taggerkey tagger key matcher matcher matcher matcher taggermap tagger map memberdetailsbuilder member details builder toremove remove methodtaggers taggers fieldtaggers field taggers constructortaggers constructor taggers typetaggers type taggers

@@ -1,0 +1,12 @@
+MTHSIG0	token remainingbuff remain buffer 
+VARSIG3	stringbuild builder currentopt current option 
+MTHSIG1	store map stringbuild builder currentopt current option stringbuild builder currentvalu current 
+VARSIG2	map 
+PACKAGE	springframework roo shell 
+VARSIG4	stringbuild builder currentvalu current 
+COMMENTS	convert buffer token structur properli treat quot option delimit expect option name preced singl dash call option marker treat space option token token option marker consid return map element empti kei singl remainingbuff remain buffer token map option name dash valu option valu quot remov verifi correct number quot thei exit interest token seri current token seri end store end token seri current token seri end start delimit token simpli empti ignor roo start option marker strip store token token start token store process token start iter store standard token standard token option unquot space exist content add space store token token start token store process token start iter store ordinari token store strip empti option return roo option marker option marker verifi isn 
+CLASSES	parserutil parser util 
+VARIABLES	remainingbuff remain buffer currentopt current option currentvalu current result currentopt current option currentvalu current inquot quot count split currenttoken current token tokenlessdelimit token delimit tokenlessdelimit token delimit lastindex tokenlessdelimit token delimit option 
+VARSIG1	 
+VARSIG0	remainingbuff remain buffer 
+METHODS	token store 

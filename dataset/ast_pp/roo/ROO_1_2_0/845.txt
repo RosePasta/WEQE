@@ -1,0 +1,19 @@
+VARSIG7	pom pom
+VARSIG6	downstreamdependency downstream dependency
+VARSIG9	versioninfo version info
+VARSIG8	property existingproperty existing property
+VARSIG3	version
+VARSIG2	componentcontext component context componentcontext component context
+VARSIG5	upstreamdependency upstream dependency
+VARSIG4	runtimeexception runtime exception
+COMMENTS	automatically upgrades spring roo annotation jar current version roo annotation jar equal newer version roo running upgrade service constants fields extracts version exception version extract empty version normal form project metadata fields
+CLASSES	automaticprojectupgradeservice automatic project upgrade service
+VARSIG1	bundle
+VARSIG0	componentcontext component context componentcontext component context
+METHODS	activate deactivate extractversioninfofromstring extract version info notify
+MTHSIG0	activate componentcontext component context componentcontext component context
+MTHSIG1	deactivate componentcontext component context componentcontext component context
+PACKAGE	springframework roo project
+MTHSIG2	extractversioninfofromstring extract version info version
+MTHSIG3	notify upstreamdependency upstream dependency downstreamdependency downstream dependency
+VARIABLES	componentcontext component context componentcontext component context version upstreamdependency upstream dependency downstreamdependency downstream dependency pom existingproperty existing property bundle symbolic metadatadependencyregistry metadata dependency registry projectoperations project operations bundleversioninfo bundle version info version ver result modulename module rooversion roo version newproperty property major minor patch qualifier result

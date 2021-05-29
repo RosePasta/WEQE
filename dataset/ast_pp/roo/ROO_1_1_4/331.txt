@@ -1,0 +1,21 @@
+VARSIG3	element dependency
+VARSIG2	exception
+VARSIG5	element annotationdriven annotation driven
+VARSIG4	element root
+COMMENTS	operations create view layer resources note sequence matters artifacts loaded conversion service defined moving web flow configured moving install conversionserviceexposinginterceptor conversion service exposing interceptor web flow custom conversion service verify servlet application context exists file exists verify web xml exists webxmlutils web xml utils addwelcomefile add file webxml web xml verify middle tier application context exists file exists
+CLASSES	webmvcoperationsimpl web mvc operations impl
+VARSIG1	exception
+VARSIG0	javapackage thepackage
+METHODS	installminmalwebartefacts install minmal web artefacts installallwebmvcartifacts install web mvc artifacts installconversionservice install conversion service registerwebflowconversionserviceexposinginterceptor register web flow conversion service exposing interceptor copywebxml copy web xml managewebxml manage web xml createwebapplicationcontext create web application context updateconfiguration update configuration isconversionserviceconfigured conversion service configured isconversionserviceconfigured conversion service configured
+MTHSIG4	copywebxml copy web xml
+MTHSIG5	managewebxml manage web xml
+MTHSIG6	createwebapplicationcontext create web application context
+MTHSIG7	updateconfiguration update configuration
+MTHSIG0	installminmalwebartefacts install minmal web artefacts
+MTHSIG1	installallwebmvcartifacts install web mvc artifacts
+PACKAGE	springframework roo addon web mvc controller
+MTHSIG2	installconversionservice install conversion service javapackage thepackage
+MTHSIG3	registerwebflowconversionserviceexposinginterceptor register web flow conversion service exposing interceptor
+VARIABLES	thepackage dependency root annotationdriven annotation driven filemanager file manager projectoperations project operations webmvcconfigpath web mvc config path document root annotationdriven annotation driven conversionservicebean conversion service bean webflowconfigpath web flow config path document root conversionserviceexposinginterceptor conversion service exposing interceptor flowhandlermapping flow handler mapping interceptors pathresolver path resolver servletctxfilename servlet ctx filename webxmlpath web xml path document templateinputstream template input stream projectname project pathresolver path resolver webxmlpath web xml path document pathresolver path resolver webconfigfile web config file document templateinputstream template input stream root configuration dependencies springdependencies spring dependencies webmvcconfigpath web mvc config path mutablefile mutable file document root annotationdriven annotation driven beanname bean bean classattribute attribute
+MTHSIG8	isconversionserviceconfigured conversion service configured
+MTHSIG9	isconversionserviceconfigured conversion service configured element root element annotationdriven annotation driven

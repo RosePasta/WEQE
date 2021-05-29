@@ -1,0 +1,16 @@
+VARSIG3	button newbutton button
+VARSIG2	hasdata data display
+VARSIG5	widget widget
+VARSIG4	clickevent click event event
+COMMENTS	implementation proxylistview proxy list view type proxy
+CLASSES	abstractproxylistview proxy list view
+VARSIG1	widget root
+VARSIG0	delegate delegate
+METHODS	ashasdata data aswidget widget setdelegate set delegate init initwidget init widget
+MTHSIG4	initwidget init widget widget widget
+MTHSIG0	ashasdata data
+MTHSIG1	aswidget widget
+PACKAGE	top level client scaffold place
+MTHSIG2	setdelegate set delegate delegate delegate
+MTHSIG3	init widget root hasdata data display button newbutton button
+VARIABLES	delegate root display newbutton button event widget display delegate

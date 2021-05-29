@@ -1,0 +1,19 @@
+VARSIG7	methodtarget target target
+VARSIG6	optioncontext option context
+VARSIG9	type
+VARSIG8	packagingprovider packaging provider packagingprovider packaging provider
+VARSIG3	list completion completions
+VARSIG2	optioncontext option context
+VARSIG5	existingdata existing data
+VARSIG4	targettype target type
+COMMENTS	link converter link packagingprovider packaging provider
+CLASSES	packagingproviderconverter packaging provider converter
+VARSIG1	targettype target type
+VARSIG0	
+METHODS	convertfromtext convert text getallpossiblevalues values supports
+VARSIG10	optioncontext option context
+MTHSIG0	convertfromtext convert text targettype target type optioncontext option context
+MTHSIG1	getallpossiblevalues values list completion completions targettype target type existingdata existing data optioncontext option context methodtarget target target
+PACKAGE	springframework roo project packaging
+MTHSIG2	supports type optioncontext option context
+VARIABLES	targettype target type optioncontext option context completions targettype target type existingdata existing data optioncontext option context target packagingprovider packaging provider type optioncontext option context packagingproviderregistry packaging provider registry packagingprovider packaging provider

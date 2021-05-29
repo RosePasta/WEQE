@@ -1,0 +1,52 @@
+MTHSIG4	setpackagingproviderid set packaging provider document pom
+MTHSIG5	getgroupid group javapackage toplevelpackage top level
+VARSIG33	projectoperations project operations projectoperations project operations
+MTHSIG6	getprojectname project nullableprojectname nullable project module javapackage toplevelpackage top level
+VARSIG32	modulename module
+MTHSIG7	getartifactid artifact nullableprojectname nullable project module javapackage toplevelpackage top level
+VARSIG31	ioexception exception
+MTHSIG0	abstractpackagingprovider packaging provider pomtemplate pom template
+MTHSIG1	getid
+PACKAGE	springframework roo project packaging
+MTHSIG2	createartifacts create artifacts javapackage toplevelpackage top level nullableprojectname nullable project javaversion version gav parentpom parent pom module projectoperations project operations projectoperations project operations
+MTHSIG3	createpom create pom javapackage toplevelpackage top level projectname project javaversion version gav parentpom parent pom module projectoperations project operations projectoperations project operations
+MTHSIG8	setgroupidandparent set group parent projectgroupid project group gav parentpom parent pom element root document pom
+VARSIG30	projectoperations project operations projectoperations project operations
+MTHSIG9	createotherartifacts create artifacts javapackage toplevelpackage top level module projectoperations project operations projectoperations project operations
+CLASSES	abstractpackagingprovider packaging provider
+VARSIG29	module
+VARSIG28	javapackage toplevelpackage top level
+METHODS	abstractpackagingprovider packaging provider getid createartifacts create artifacts createpom create pom setpackagingproviderid set packaging provider getgroupid group getprojectname project getartifactid artifact setgroupidandparent set group parent createotherartifacts create artifacts setuplog jconfiguration set log configuration getpomtemplate pom template getfullyqualifiedmodulename fully qualified module
+VARSIG23	javapackage toplevelpackage top level
+VARSIG22	module
+VARSIG21	nullableprojectname nullable project
+VARSIG20	javapackage toplevelpackage top level
+VARSIG27	document pom
+VARSIG26	element root
+VARSIG25	gav parentpom parent pom
+VARSIG24	projectgroupid project group
+VARSIG7	module
+VARSIG6	gav parentpom parent pom
+VARSIG9	javapackage toplevelpackage top level
+VARSIG8	projectoperations project operations projectoperations project operations
+VARSIG3	javapackage toplevelpackage top level
+VARSIG2	pomtemplate pom template
+VARSIG5	javaversion version
+VARSIG4	nullableprojectname nullable project
+COMMENTS	convenient superclass core party addons implement link packagingprovider packaging provider template gof pattern constants pom property stores packaging provider provider fields constructor unique packaging type link packagingprovider packaging provider getid type packaging pom required pomtemplate pom template path packaging type type pom template relative link getresourceasstream resource stream template parent element groupid group artifactid artifact version elements parent element removed required todo find document remove creates maven pom subclass pom template sets parent pom parent sets groupid group result link getgroupid group omitting element parent parent groupid group maven practice sets artifactid artifact result link getartifactid artifact sets packaging result link getname sets project result link getprojectname project replaces occurrences link version placeholder version assumptions pom template life easier writing link packagingprovider packaging provider toplevelpackage top level project module module top level required projectname project project user blank javaversion version version substitute pom required parentpom parent pom maven coordinates parent pom module unqualified maven module pom belongs projectoperations project operations injected circular dependency path newly created pom read pom template classpath user element traditional place ensure template groupid group parent artifactid artifact version packaging versions write pom disk stores link packagingprovider packaging provider pom property called roo packaging provider property subclasses override aware roo working pom xml file link packagingprovider packaging provider pom dom document pom created returns groupid group project module created implementation simply fully qualified subclasses override strategy toplevelpackage top level project module module top level required returns text inserted pom pom element implementation project blank element subclasses override strategy nullableprojectname nullable project project entered user blank module module created blank root module toplevelpackage top level project module module top level required blank required returns text inserted pom pom element implementation simply delegates link getprojectname project subclasses override strategy nullableprojectname nullable project project entered user blank module module created blank root module toplevelpackage top level project module module top level required blank artifactid artifact sets maven groupids group ids parent project projectgroupid project group project project groupid group required parentpom parent pom maven coordinates parent pom root root element pom document required pom pom document required parent pom remove parent element parent parent groupid group artifactid artifact version project groupid group maven practice inherit groupid group parent project groupid group explicit subclasses override create required files directories pom generated link createpom create pom implementation sets log log configuration file root module toplevelpackage top level module unqualified module created empty root module projectoperations project operations can injected create circular dependency returns relative path link packagingprovider packaging provider pom template blank path returns fully qualified module relative focused module modulename module blank root module projectoperations project operations
+VARSIG19	module
+VARSIG1	
+VARSIG18	nullableprojectname nullable project
+VARSIG0	
+VARSIG17	javapackage toplevelpackage top level
+VARSIG12	gav parentpom parent pom
+VARSIG11	javaversion version
+VARSIG10	projectname project
+VARSIG16	document pom
+VARSIG15	element versionelement version element
+VARSIG14	projectoperations project operations projectoperations project operations
+VARSIG13	module
+MTHSIG11	getpomtemplate pom template
+MTHSIG12	getfullyqualifiedmodulename fully qualified module modulename module projectoperations project operations projectoperations project operations
+MTHSIG10	setuplog jconfiguration set log configuration
+VARIABLES	pomtemplate pom template toplevelpackage top level nullableprojectname nullable project javaversion version parentpom parent pom module projectoperations project operations toplevelpackage top level projectname project javaversion version parentpom parent pom module projectoperations project operations versionelement version element pom toplevelpackage top level nullableprojectname nullable project module toplevelpackage top level nullableprojectname nullable project module toplevelpackage top level projectgroupid project group parentpom parent pom root pom toplevelpackage top level module projectoperations project operations modulename module projectoperations project operations logger version version placeholder version element roo packaging provider property applicationcontextoperations application context operations filemanager file manager pathresolver path resolver pomtemplate pom template pompath pom path pom root mavenname maven artifactid artifact existingversionelement existing version element versionelements version elements pompath pom path propertieselement properties element parentpomelement parent pom element projectgroupidelement project group element log jconfigfile log config file template focusedmodulename focused module

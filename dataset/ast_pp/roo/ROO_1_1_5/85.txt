@@ -1,0 +1,41 @@
+VARSIG7	itdfilename filename
+VARSIG6	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG9	metadataidentificationstring metadata identification
+VARSIG8	memberdetails member details memberdetails member details
+VARSIG3	methodmetadata metadata
+VARSIG2	itdtypedetails type details itdtypedetails type details
+VARSIG5	javatype type aspectname aspect
+VARSIG4	metadataidentificationstring metadata identification
+COMMENTS	implementation link dataondemandmetadataprovider data demand metadata provider dod classes configurable dod classes provide relationships determine governor dod metadata hoping hear javatype type itds dod interested javatype type let move dod metadata let check care methods match requirements dod cares javatype type offers interest let formally trigger note scan discover register direct dependency parse annotation expect remember entity javatype type matches dod dod metadata identification start clearing previous association informed dependent metadata identify mutators care entity embedded identifier metadata holder embedded identifier exists list embedded metadata holders empty list embedded identifier exists avoid unnecessary rewriting dod sort mutators provide consistent ordering add methods care locatedmutators located mutators include version fields shouldn mutator user embedded types include persistence fields include sort collection user entities hand collaborating metadata track check field type ensure persistent type check field manytoone onetoone annotation metadata relying
+VARSIG19	metadataidentificationstring metadata identification
+VARSIG1	componentcontext component context context
+VARSIG18	fieldmetadata field metadata field
+VARSIG0	componentcontext component context context
+VARSIG17	fieldmetadata field metadata embeddedfield embedded field
+MTHSIG4	getlocatedmutators located mutators memberdetails member details memberdetails member details metadataidentificationstring metadata identification
+VARSIG12	memberdetails member details memberdetails member details
+MTHSIG5	getembeddedidentifierholder embedded identifier holder memberdetails member details memberdetails member details metadataidentificationstring metadata identification
+VARSIG11	methodmetadata metadata
+MTHSIG6	getembeddedholders embedded holders memberdetails member details memberdetails member details metadataidentificationstring metadata identification
+VARSIG10	methodmetadata metadata object
+MTHSIG7	locatecollaboratingmetadata locate collaborating metadata metadataidentificationstring metadata identification fieldmetadata field metadata field
+MTHSIG0	activate componentcontext component context context
+VARSIG16	metadataidentificationstring metadata identification
+MTHSIG1	deactivate componentcontext component context context
+VARSIG15	memberdetails member details memberdetails member details
+PACKAGE	springframework roo addon dod
+MTHSIG2	getlocalmidtorequest local mid request itdtypedetails type details itdtypedetails type details
+VARSIG14	fieldmetadata field metadata field
+MTHSIG3	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+VARSIG13	metadataidentificationstring metadata identification
+MTHSIG8	getitduniquenessfilenamesuffix uniqueness filename suffix
+MTHSIG9	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+MTHSIG11	getprovidestype type
+CLASSES	dataondemandmetadataproviderimpl data demand metadata provider impl
+METHODS	activate deactivate getlocalmidtorequest local mid request getmetadata metadata getlocatedmutators located mutators getembeddedidentifierholder embedded identifier holder getembeddedholders embedded holders locatecollaboratingmetadata locate collaborating metadata getitduniquenessfilenamesuffix uniqueness filename suffix getgovernorphysicaltypeidentifier governor physical type identifier createlocalidentifier create local identifier getprovidestype type
+VARSIG23	path path
+VARSIG22	javatype type javatype type
+VARSIG21	metadataidentificationstring metadata identification
+VARSIG20	fieldmetadata field metadata field
+MTHSIG10	createlocalidentifier create local identifier javatype type javatype type path path
+VARIABLES	context context itdtypedetails type details metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename memberdetails member details metadataidentificationstring metadata identification object memberdetails member details metadataidentificationstring metadata identification field memberdetails member details metadataidentificationstring metadata identification embeddedfield embedded field field metadataidentificationstring metadata identification field metadataidentificationstring metadata identification javatype type path configurablemetadataprovider configurable metadata provider entitytododmidmap entity dod mid map dodmidtoentitymap dod mid entity map governor localmid local mid annotationvalues annotation values oldentity entity memberdetails member details persistencememberholdingtypedetails persistence member holding type details findentriesmethod find entries persistmethod persist flushmethod flush findmethod find identifieraccessor identifier accessor locatedmutators located mutators embeddedidentifierholder embedded identifier holder embeddedholders embedded holders locatedmutators located mutators mutatormethods mutator methods propertyname property field fieldcustomdatakeys field custom data othermetadata metadata identifierfields identifier fields fields embeddedidentifierfield embedded identifier field identifiermemberdetails identifier member details embeddedholders embedded holders embeddedfields embedded fields embeddedmemberdetails embedded member details fields memberdetails member details persistencememberholdingtypedetails persistence member holding type details otherprovider provider collaboratingmetadata collaborating metadata javatype type path

@@ -1,0 +1,28 @@
+VARSIG7	typeidentifi type identifi 
+VARSIG6	javatyp type javatyp type 
+VARSIG9	mid 
+VARSIG8	modulefilepath modul file path 
+VARSIG3	typefilepath type file path 
+VARSIG2	simpletypenam simpl type 
+VARSIG5	pom pom 
+VARSIG4	typeidentifi type identifi 
+COMMENTS	 
+VARSIG1	classorinterfacetypedetail type detail cid 
+VARSIG0	typefilepath type file path 
+MTHSIG4	getalltypeidentifi type identifi 
+MTHSIG5	getalltyp type 
+VARSIG11	typefilepath type file path 
+MTHSIG6	removetyp remov type typeidentifi type identifi 
+VARSIG10	javatyp type javatyp type 
+MTHSIG7	gettypenamesformodulefilepath type name modul file path modulefilepath modul file path 
+MTHSIG0	cachetyp cach type typefilepath type file path classorinterfacetypedetail type detail cid 
+MTHSIG1	gettypesforsimpletypenam type simpl type simpletypenam simpl type 
+PACKAGE	springframework roo classpath 
+MTHSIG2	cachefilepathagainsttypeidentifi cach file path type identifi typefilepath type file path typeidentifi type identifi 
+MTHSIG3	cachetypeagainstmodul cach type modul pom pom javatyp type javatyp type 
+MTHSIG8	gettypedetail type detail mid 
+MTHSIG9	getphysicaltypeidentifi physic type identifi javatyp type javatyp type 
+CLASSES	typecacheimpl type cach impl 
+METHODS	cachetyp cach type gettypesforsimpletypenam type simpl type cachefilepathagainsttypeidentifi cach file path type identifi cachetypeagainstmodul cach type modul getalltypeidentifi type identifi getalltyp type removetyp remov type gettypenamesformodulefilepath type name modul file path gettypedetail type detail getphysicaltypeidentifi physic type identifi gettypeidfromtypefilepath type type file path 
+MTHSIG10	gettypeidfromtypefilepath type type file path typefilepath type file path 
+VARIABLES	typefilepath type file path cid simpletypenam simpl type typefilepath type file path typeidentifi type identifi pom javatyp type typeidentifi type identifi modulefilepath modul file path mid javatyp type typefilepath type file path midtotypedetailsmap mid type detail map type typenametomidmap type mid map typefilepathtomidmap type file path mid map typenametomodulefilepathmap type modul file path map typenametomodulenamemap type modul map typeidentifiertofilepathmap type identifi file path map modulefilepathtotypenamesmap modul file path type name map simpletypenametypesmap simpl type type map fullyqualifiedtypenam fulli qualifi type simpletypenam simpl type cid filepath file path 

@@ -1,0 +1,25 @@
+VARSIG7	originaluserinput original user input
+VARSIG6	requiredtype required type
+VARSIG9	methodtarget target target
+VARSIG8	optioncontext option context
+VARSIG3	optioncontext option context
+VARSIG2	requiredtype required type
+VARSIG5	list completion completions
+VARSIG4	componentcontext component context context
+COMMENTS	link converter link bundlesymbolicname bundle symbolic handler service field solely ensure starts bundlesymbolicnameconverter bundle symbolic converter
+VARSIG1	
+VARSIG0	componentcontext component context context
+MTHSIG4	supports requiredtype required type optioncontext option context
+VARSIG12	resource resource
+VARSIG11	repository repository
+VARSIG10	bundle bundle
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	convertfromtext convert text requiredtype required type optioncontext option context
+PACKAGE	springframework roo felix
+MTHSIG2	deactivate componentcontext component context context
+VARSIG14	optioncontext option context
+MTHSIG3	getallpossiblevalues values list completion completions requiredtype required type originaluserinput original user input optioncontext option context methodtarget target target
+VARSIG13	requiredtype required type
+CLASSES	bundlesymbolicnameconverter bundle symbolic converter
+METHODS	activate convertfromtext convert text deactivate getallpossiblevalues values supports
+VARIABLES	context requiredtype required type optioncontext option context context completions requiredtype required type originaluserinput original user input optioncontext option context target bundle repository resource requiredtype required type optioncontext option context context handlerservice handler service repositoryadmin repository admin local obr bundles bsn repositories resources

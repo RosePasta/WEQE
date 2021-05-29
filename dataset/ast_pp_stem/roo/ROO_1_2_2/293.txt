@@ -1,0 +1,27 @@
+VARSIG7	itdtypedetail type detail itdtypedetail type detail 
+VARSIG6	metadataidentificationstr metadata identif 
+VARSIG9	metadataidentificationstr metadata identif 
+VARSIG8	javatyp type type 
+VARSIG3	componentcontext compon context context 
+VARSIG2	logicalpath logic path path 
+VARSIG5	metadataidentificationstr metadata identif 
+VARSIG4	javatyp type entiti 
+COMMENTS	implement link jsfconvertermetadataprovid jsf convert metadata provid determin governor metadata hope hear javatyp type itd pars annot expect rememb entiti javatyp type match metadata identif start clear previou associ 
+VARSIG1	javatyp type javatyp type 
+VARSIG0	componentcontext compon context context 
+MTHSIG4	getgovernorphysicaltypeidentifi governor physic type identifi metadataidentificationstr metadata identif 
+VARSIG12	itdfilenam filenam 
+MTHSIG5	getitduniquenessfilenamesuffix uniqu filenam suffix 
+VARSIG11	physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+MTHSIG6	getlocalmidtorequest local mid request itdtypedetail type detail itdtypedetail type detail 
+VARSIG10	javatyp type aspectnam aspect 
+MTHSIG7	getmetadata metadata metadataidentificationstr metadata identif javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata itdfilenam filenam 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	createlocalidentifi creat local identifi javatyp type javatyp type logicalpath logic path path 
+PACKAGE	springframework roo addon jsf convert 
+MTHSIG2	deactiv componentcontext compon context context 
+MTHSIG3	getfindmethod find javatyp type entiti metadataidentificationstr metadata identif 
+MTHSIG8	getprovidestyp type 
+CLASSES	jsfconvertermetadataproviderimpl jsf convert metadata provid impl 
+METHODS	activ createlocalidentifi creat local identifi deactiv getfindmethod find getgovernorphysicaltypeidentifi governor physic type identifi getitduniquenessfilenamesuffix uniqu filenam suffix getlocalmidtorequest local mid request getmetadata metadata getprovidestyp type 
+VARIABLES	context javatyp type path context entiti metadataidentificationstr metadata identif metadataidentificationstr metadata identif itdtypedetail type detail type metadataidentificationstr metadata identif aspectnam aspect governorphysicaltypemetadata governor physic type metadata itdfilenam filenam layer posit configurablemetadataprovid configur metadata provid layerservic layer servic convertermidtoentitymap convert mid entiti map entitytoconvertermidmap entiti convert mid map idfield field idfield field idtyp type idparamet paramet javatyp type path governor localmid local mid memberholdingtypedetail member hold type detail localmidtyp local mid type annotationvalu annot valu entiti oldent entiti findmethod find identifieraccessor identifi accessor 

@@ -1,0 +1,25 @@
+VARSIG7	viewname view
+VARSIG6	exception
+VARSIG9	candidate
+VARSIG8	defaultname
+VARSIG3	title
+VARSIG2	viewname view
+VARSIG5	urlstr url str
+VARSIG4	element contentelement content element
+COMMENTS	convenience implementation link embeddedprovider embedded provider offers methods installing tagx jspx files making http requests install tagx file web inf tags embed target project tagname tag install jspx file web inf views embed target project viewname view jspx file install required title title displayed required viewname view alternatively contentelement content element dom element include add document namespaces send http request roo infrastructure urlstr url str url result request convenience clean view jspx viewname view view clean defaultname cleaned helper determine provider supported implementation candidate provider completors completors offered implementation provider supported convenience create readable title embeddedcompletor embedded completor providername provider original readable
+VARSIG1	ioexception exception
+VARSIG0	tagname tag
+MTHSIG4	isprovidersupported provider supported candidate embeddedcompletor embedded completor completors
+VARSIG12	providername provider
+MTHSIG5	gettitle title providername provider
+VARSIG11	embeddedcompletor embedded completor completor
+VARSIG10	embeddedcompletor embedded completor completors
+MTHSIG0	installtagx install tagx tagname tag
+MTHSIG1	installjspx install jspx viewname view title element contentelement content element
+PACKAGE	springframework roo addon web mvc embedded
+MTHSIG2	sendhttpgetrequest send http request urlstr url str
+MTHSIG3	getviewname view viewname view defaultname
+VARSIG13	
+CLASSES	abstractembeddedprovider embedded provider
+METHODS	installtagx install tagx installjspx install jspx sendhttpgetrequest send http request getviewname view isprovidersupported provider supported gettitle title
+VARIABLES	tagname tag viewname view title contentelement content element urlstr url str viewname view defaultname candidate completors completor providername provider logger filemanager file manager httpservice http service jspoperations jsp operations projectoperations project operations tagx jspx document div result url names

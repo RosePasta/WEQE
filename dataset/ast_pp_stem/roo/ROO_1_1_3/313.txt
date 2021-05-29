@@ -1,0 +1,53 @@
+MTHSIG22	isvalid valid metadataidentificationstr metadata identif 
+MTHSIG4	getdeletemethod delet 
+MTHSIG5	getlistmethod list 
+MTHSIG6	getshowmethod 
+MTHSIG7	getcreatemethod creat 
+MTHSIG0	webscaffoldmetadata web scaffold metadata identifi javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata webscaffoldannotationvalu web scaffold annot valu annotationvalu annot valu memberdetail member detail memberdetail member detail sortedmap sort map javatyp type javatypemetadatadetail type metadata detail specialdomaintyp special domain type list javatypemetadatadetail type metadata detail dependenttyp depend type map javasymbolnam symbol datetimeformatdetail time format detail datetyp type 
+MTHSIG1	getannotationvalu annot valu 
+PACKAGE	springframework roo addon web mvc control scaffold mvc 
+MTHSIG2	getconversionservicefield convers servic field 
+MTHSIG3	getconstructor constructor 
+MTHSIG20	getjavatyp type metadataidentificationstr metadata identif 
+MTHSIG21	getpath path metadataidentificationstr metadata identif 
+MTHSIG8	getcreateformmethod creat form list javatypemetadatadetail type metadata detail dependenttyp depend type 
+MTHSIG9	getupdatemethod updat 
+CLASSES	webscaffoldmetadata web scaffold metadata 
+METHODS	webscaffoldmetadata web scaffold metadata getannotationvalu annot valu getconversionservicefield convers servic field getconstructor constructor getdeletemethod delet getlistmethod list getshowmethod getcreatemethod creat getcreateformmethod creat form getupdatemethod updat getupdateformmethod updat form getpopulatemethod popul method getencodeurlpathsegmentmethod encod url path segment getdatetimeformathelpermethod time format helper methodexist exist getshortnam uncapit tostr getmetadataidentifertyp metadata identif type createidentifi creat identifi getjavatyp type getpath path isvalid valid 
+VARSIG23	metadataidentificationstr metadata identif 
+VARSIG22	metadataidentificationstr metadata identif 
+VARSIG21	path path 
+VARSIG20	javatyp type javatyp type 
+VARSIG24	metadataidentificationstr metadata identif 
+VARSIG7	map javasymbolnam symbol datetimeformatdetail time format detail datetyp type 
+VARSIG6	list javatypemetadatadetail type metadata detail dependenttyp depend type 
+VARSIG9	fieldmetadata field metadata field 
+VARSIG8	methodmetadata metadata 
+VARSIG3	webscaffoldannotationvalu web scaffold annot valu annotationvalu annot valu 
+VARSIG2	physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+VARSIG5	sortedmap sort map javatyp type javatypemetadatadetail type metadata detail specialdomaintyp special domain type 
+VARSIG4	memberdetail member detail memberdetail member detail 
+COMMENTS	metadata link roowebscaffold roo web scaffold mandatori input miss roo mandatori input miss roo mandatori input miss roo mandatori input miss roo entitymetadata entiti metadata getfindallmethod find mandatori input miss roo ad arrai fieldnam field posit path posit mandatori input miss roo mandatori input miss roo illegalstateexcept illeg except unabl scaffold control type formbackingtyp form back type getfullyqualifiedtypenam fulli qualifi type referenc type type getfullyqualifiedtypenam fulli qualifi type handl roo need adher javabean bean name convent javabean bean spec 
+VARSIG19	term 
+VARSIG1	javatyp type aspectnam aspect 
+VARSIG18	javatyp type type 
+VARSIG0	identifi 
+VARSIG17	methodmetadata metadata 
+VARSIG12	javatypemetadatadetail type metadata detail dependenttyp depend type 
+VARSIG11	list javatypemetadatadetail type metadata detail dependenttyp depend type 
+VARSIG10	constructormetadata constructor metadata constructor 
+VARSIG16	list annotatedjavatyp annot type paramet 
+VARSIG15	javasymbolnam symbol methodnam 
+VARSIG14	entri javasymbolnam symbol datetimeformatdetail time format detail javasymbolnamedatetimeformatdetailsentri symbol time format detail entri 
+VARSIG13	javatyp type type 
+MTHSIG17	tostr 
+MTHSIG18	getmetadataidentifertyp metadata identif type 
+MTHSIG15	getshortnam javatyp type type 
+MTHSIG16	uncapit term 
+MTHSIG13	getdatetimeformathelpermethod time format helper 
+MTHSIG14	methodexist exist javasymbolnam symbol methodnam list annotatedjavatyp annot type paramet 
+MTHSIG11	getpopulatemethod popul method 
+MTHSIG12	getencodeurlpathsegmentmethod encod url path segment 
+MTHSIG19	createidentifi creat identifi javatyp type javatyp type path path 
+MTHSIG10	getupdateformmethod updat form 
+VARIABLES	identifi aspectnam aspect governorphysicaltypemetadata governor physic type metadata annotationvalu annot valu memberdetail member detail specialdomaintyp special domain type dependenttyp depend type datetyp type field constructor dependenttyp depend type dependenttyp depend type type javasymbolnamedatetimeformatdetailsentri symbol time format detail entri methodnam paramet type term javatyp type path metadataidentificationstr metadata identif metadataidentificationstr metadata identif metadataidentificationstr metadata identif type type annotationvalu annot valu controllerpath control path entitynam entiti datetyp type memberdetail member detail formbackingtyp form back type specialdomaintyp special domain type javatypemetadatahold type metadata holder compositepk composit fieldnam field fieldtyp field type fieldbuild field builder constructorparam constructor bodybuild bodi builder constructorbuild constructor builder autowir javatypepersistencemetadatahold type persist metadata holder methodnam typeannot type annot attribut pathvariableannot path variabl annot firstresultattribut result attribut firstresultannot result annot firstresultannot result annot maxresultsattribut max attribut maxresultsannot max annot maxresultannot max result annot paramtyp type paramnam name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder methodbuild builder javatypepersistencemetadatahold type persist metadata holder methodnam firstresultattribut result attribut firstresultannot result annot firstresultannot result annot maxresultsattribut max attribut maxresultsannot max annot maxresultannot max result annot paramtyp type paramnam name requestmappingattribut request map attribut annot plural bodybuild bodi builder methodbuild builder javatypepersistencemetadatahold type persist metadata holder methodnam typeannot type annot attribut pathvariableannot path variabl annot paramtyp type paramnam name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder methodbuild builder javatypepersistencemetadatahold type persist metadata holder methodnam typeannot type annot validannot valid annot noannot annot paramtyp type paramnam name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder methodbuild builder methodnam paramtyp type paramnam name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder listad list listshort list arraylistshort arrai list methodbuild builder javatypepersistencemetadatahold type persist metadata holder methodnam typeannot type annot validannot valid annot noannot annot paramtyp type paramnam name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder methodbuild builder javatypepersistencemetadatahold type persist metadata holder methodnam typeannot type annot attribut pathvariableannot path variabl annot paramtyp type updateformmethod updat form paramnam name requestmappingattribut request map attribut requestmap request map annot bodybuild bodi builder methodbuild builder method bodybuild bodi builder javatypemd type javatypepersistencemd type persist arrai populatemethodnam popul addreferencedatamethod add refer data annot attribut typeparam type param returntyp type methodbuild builder encodeurlpathseg encod url path segment paramtyp type encodeurlpathsegmentmethod encod url path segment paramnam name bodybuild bodi builder adddatetimeformatpattern add time format pattern paramtyp type adddatetimeformatpatternsmethod add time format pattern paramnam name bodybuild bodi builder pattern datetimeformat time format datetimeformatsimpl time format simpl localecontexthold local context holder localecontextholdersimpl local context holder simpl methodbuild builder tsc 

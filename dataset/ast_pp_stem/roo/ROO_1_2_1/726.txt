@@ -1,0 +1,44 @@
+VARSIG7	javatyp type javatyp type 
+VARSIG6	physicaltypeid physic type 
+VARSIG9	pom modul 
+VARSIG8	fileidentifi file identifi 
+VARSIG3	list javatyp type annotationstodetect annot detect 
+VARSIG2	javatyp type annotationstodetect annot detect 
+VARSIG5	logicalpath logic path path 
+VARSIG4	javatyp type javatyp type 
+COMMENTS	locat type return set link classorinterfacetypedetail type detail possess annot vararg annotationstodetect annot detect annot vararg detect type set classorinterfacetypedetail type detail annot return set link classorinterfacetypedetail type detail possess tag tag tag detect type set classorinterfacetypedetail type detail tag return set link javatyp type possess annot vararg annotationstodetect annot detect annot vararg detect type set type annot return set link javatyp type possess list annot annotationstodetect annot detect list annot detect type set type annot return canon path link javatyp type link logicalpath logic path type exist equival construct physic type argument call link getphysicaltypecanonicalpath physic type canon path javatyp type type type link javatyp type requir path type type logic path canon path blank exist return canon path type physic type type exist physicaltypeid physic type physic type type metadata requir canon path blank exist link javatyp type user project return link physicaltypemetadata physic type metadata link javatyp type exist don link logicalpath logic path resolv issu link javatyp type locat independ link physicaltypeidentifi physic type identifi instanc locat depend link physicaltypeidentifi physic type identifi relat physic file link javatyp type simpli repres type classpath javatyp type type locat requir link physicaltypeidentifi physic type identifi format return physic type identifi sourc file canon path fileidentifi file identifi path physic type requir physic type identifi path match exist sourc file modul modul return detail type user project javatyp type type requir type doesn exist project resolv link classorinterfacetypedetail type detail physic type identifi physic type identifi doesn repres valid type except thrown link classorinterfacetypedetail type detail can physicaltypeid physic type physic type metadata blank resolv link classorinterfacetypedetail type detail detail can blank return link logicalpath logic path link javatyp type javatyp type link javatyp type link logicalpath logic path type doesn exist project return type belong modul modul collect return type belong modul modulepath modul path collect fulli qualifi type name link gettypesformodul type modul pom type ignor type pom packag modul pass type chang invoc request requestingclass request request chang type javatyp type type lookup chang occur collect mid repres chang type type exist user project javatyp type type check type process type list annot suppli link locatedtypecallback locat type callback callback implement process locat type annotationstodetect annot detect list annot detect type callback link locatedtypecallback locat type callback handl process locat type 
+VARSIG19	list javatyp type annotationstodetect annot detect 
+VARSIG1	object tag 
+VARSIG18	javatyp type javatyp type 
+VARSIG0	javatyp type annotationstodetect annot detect 
+VARSIG17	javatyp type javatyp type 
+MTHSIG4	getphysicaltypecanonicalpath physic type canon path javatyp type javatyp type logicalpath logic path path 
+VARSIG12	physicaltypeid physic type 
+MTHSIG5	getphysicaltypecanonicalpath physic type canon path physicaltypeid physic type 
+VARSIG11	javatyp type javatyp type 
+MTHSIG6	getphysicaltypeidentifi physic type identifi javatyp type javatyp type 
+VARSIG10	pom modul 
+MTHSIG7	getphysicaltypeidentifi physic type identifi fileidentifi file identifi 
+MTHSIG0	findclassesorinterfacedetailswithannot find class detail annot javatyp type annotationstodetect annot detect 
+VARSIG16	requestingclass request 
+MTHSIG1	findclassesorinterfacedetailswithtag find class detail tag object tag 
+VARSIG15	modulepath modul path 
+PACKAGE	springframework roo classpath 
+MTHSIG2	findtypeswithannot find type annot javatyp type annotationstodetect annot detect 
+VARSIG14	pom modul 
+MTHSIG3	findtypeswithannot find type annot list javatyp type annotationstodetect annot detect 
+VARSIG13	javatyp type javatyp type 
+MTHSIG8	getpotentialtoplevelpackagesformodul potenti top level packag modul pom modul 
+MTHSIG9	gettoplevelpackageformodul top level modul pom modul 
+MTHSIG17	processtypeswithannot process type annot list javatyp type annotationstodetect annot detect locatedtypecallback locat type callback callback 
+MTHSIG15	hastypechang type chang requestingclass request javatyp type javatyp type 
+MTHSIG16	isinproject project javatyp type javatyp type 
+MTHSIG13	gettypesformodul type modul pom modul 
+MTHSIG14	gettypesformodul type modul modulepath modul path 
+MTHSIG11	gettypedetail type detail physicaltypeid physic type 
+MTHSIG12	gettypepath type path javatyp type javatyp type 
+CLASSES	typelocationservic type locat servic 
+METHODS	findclassesorinterfacedetailswithannot find class detail annot findclassesorinterfacedetailswithtag find class detail tag findtypeswithannot find type annot findtypeswithannot find type annot getphysicaltypecanonicalpath physic type canon path getphysicaltypecanonicalpath physic type canon path getphysicaltypeidentifi physic type identifi getphysicaltypeidentifi physic type identifi getpotentialtoplevelpackagesformodul potenti top level packag modul gettoplevelpackageformodul top level modul gettypedetail type detail gettypedetail type detail gettypepath type path gettypesformodul type modul gettypesformodul type modul hastypechang type chang isinproject project processtypeswithannot process type annot 
+VARSIG20	locatedtypecallback locat type callback callback 
+MTHSIG10	gettypedetail type detail javatyp type javatyp type 
+VARIABLES	annotationstodetect annot detect tag annotationstodetect annot detect annotationstodetect annot detect javatyp type path physicaltypeid physic type javatyp type fileidentifi file identifi modul modul javatyp type physicaltypeid physic type javatyp type modul modulepath modul path requestingclass request javatyp type javatyp type annotationstodetect annot detect callback 

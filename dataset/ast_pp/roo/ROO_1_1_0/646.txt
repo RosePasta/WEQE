@@ -1,0 +1,92 @@
+VARSIG39	path
+MTHSIG4	addfilteratposition add filter position filterposition filter position filterposition filter position afterfiltername filter beforefiltername filter filtername filter filterclass filter urlpattern url pattern document webxml web xml comment webxmlparam web xml initparams init params
+VARSIG34	webxmlparam web xml initparams init params
+MTHSIG5	addlistener add listener classname document webxml web xml comment
+VARSIG33	comment
+MTHSIG6	addservlet add servlet servletname servlet classname urlpattern url pattern integer loadonstartup load startup document webxml web xml comment webxmlparam web xml initparams init params
+VARSIG32	document webxml web xml
+MTHSIG7	setsessiontimeout set session timeout integer timeout document webxml web xml comment
+VARSIG31	integer loadonstartup load startup
+MTHSIG0	setdisplayname set display displayname display document webxml web xml comment
+VARSIG38	comment
+MTHSIG1	setdescription set description description document webxml web xml comment
+VARSIG37	document webxml web xml
+PACKAGE	springframework roo support util
+MTHSIG2	addcontextparam add context webxmlparam web xml contextparam context document webxml web xml comment
+VARSIG36	integer timeout
+MTHSIG3	addfilter add filter filtername filter filterclass filter urlpattern url pattern document webxml web xml comment webxmlparam web xml initparams init params
+VARSIG35	webxmlparam web xml initparam init
+MTHSIG8	addwelcomefile add file path document webxml web xml comment
+VARSIG30	urlpattern url pattern
+MTHSIG9	addexceptiontype add exception type exceptiontype exception type location document webxml web xml comment
+CLASSES	webxmlutils web xml utils
+VARSIG29	classname
+VARSIG28	servletname servlet
+METHODS	setdisplayname set display setdescription set description addcontextparam add context addfilter add filter addfilteratposition add filter position addlistener add listener addservlet add servlet setsessiontimeout set session timeout addwelcomefile add file addexceptiontype add exception type adderrorcode add error code insertbetween insert insertbefore insert insertafter insert appendchildifnotpresent append child addlinebreakbefore add addcommentbefore add comment
+VARSIG23	webxmlparam web xml initparams init params
+VARSIG67	document doc
+VARSIG22	comment
+VARSIG66	comment
+VARSIG21	document webxml web xml
+VARSIG65	element element
+VARSIG20	urlpattern url pattern
+VARSIG64	document doc
+VARSIG27	comment
+VARSIG26	document webxml web xml
+VARSIG25	classname
+VARSIG69	
+VARSIG24	webxmlparam web xml initparam init
+VARSIG68	
+VARSIG63	element element
+VARSIG62	document doc
+VARSIG61	element child
+VARSIG60	element parent
+VARSIG7	document webxml web xml
+VARSIG6	webxmlparam web xml contextparam context
+VARSIG9	filtername filter
+VARSIG8	comment
+VARSIG3	description
+VARSIG2	comment
+VARSIG5	comment
+VARSIG4	document webxml web xml
+COMMENTS	helper util convenient handling web xml file web projects set displayname element web xml document displayname display required webxml web xml web xml document required comment optional set description element web xml document description required webxml web xml web xml document required comment optional add context web xml document contextparam context required webxml web xml web xml document required comment optional add filter definition web xml document filter filterposition filter position existing filters filtername filter required filterclass filter fully qualified filter type required urlpattern url pattern required webxml web xml web xml document required comment optional initparams init params vararg initial parameters optional add filter definition web xml document filter filterposition filter position filterposition filter position filter position required beforefiltername filter optional filter position required filtername filter required filterclass filter fully qualified filter type required urlpattern url pattern required webxml web xml web xml document required comment optional initparams init params optional creating filter creating filter mapping add listener element web xml document classname fully qualified listener type required webxml web xml required comment optional add servlet element web xml document servletname servlet required classname fully qualified servlet type required urlpattern url pattern set servletname servlet mapping optional loadonstartup load startup optional webxml web xml required comment optional initparams init params optional create servlet create servlet mapping set session timeout web xml document timeout required webxml web xml required comment optional add file definition web xml document path required webxml web xml required comment optional add exception type web xml document exceptiontype exception type fully qualified exception type required location required webxml web xml required comment optional add error code web xml document errorcode error code required location required webxml web xml required comment optional attempt matching nested structures gettextcontent isequalnode match returns note work child nodes appearing order expected match append child element object hold init style define filter position
+VARSIG19	filterclass filter
+VARSIG1	document webxml web xml
+VARSIG18	filtername filter
+VARSIG0	displayname display
+VARSIG17	beforefiltername filter
+VARSIG12	document webxml web xml
+VARSIG56	document doc
+VARSIG11	urlpattern url pattern
+VARSIG55	beforeelementname element
+VARSIG10	filterclass filter
+VARSIG54	element element
+VARSIG53	document doc
+VARSIG16	afterfiltername filter
+VARSIG15	filterposition filter position filterposition filter position
+VARSIG59	document doc
+VARSIG14	webxmlparam web xml initparams init params
+VARSIG58	afterelementname element
+VARSIG13	comment
+VARSIG57	element element
+VARSIG52	beforeelementname element
+VARSIG51	afterelementname element
+VARSIG50	element element
+MTHSIG15	addlinebreakbefore add element element document doc
+MTHSIG16	addcommentbefore add comment element element comment document doc
+MTHSIG13	insertafter insert element element afterelementname element document doc
+MTHSIG14	appendchildifnotpresent append child element parent element child document doc
+MTHSIG11	insertbetween insert element element afterelementname element beforeelementname element document doc
+MTHSIG12	insertbefore insert element element beforeelementname element document doc
+VARSIG45	comment
+VARSIG44	document webxml web xml
+VARSIG43	location
+VARSIG42	exceptiontype exception type
+VARSIG49	comment
+VARSIG48	document webxml web xml
+VARSIG47	location
+VARSIG46	integer errorcode error code
+MTHSIG10	adderrorcode add error code integer errorcode error code location document webxml web xml comment
+VARIABLES	displayname display webxml web xml comment description webxml web xml comment contextparam context webxml web xml comment filtername filter filterclass filter urlpattern url pattern webxml web xml comment initparams init params filterposition filter position afterfiltername filter beforefiltername filter filtername filter filterclass filter urlpattern url pattern webxml web xml comment initparams init params initparam init classname webxml web xml comment servletname servlet classname urlpattern url pattern loadonstartup load startup webxml web xml comment initparams init params initparam init timeout webxml web xml comment path webxml web xml comment exceptiontype exception type location webxml web xml comment errorcode error code location webxml web xml comment element afterelementname element beforeelementname element doc element beforeelementname element doc element afterelementname element doc parent child doc element doc element comment doc displaynamee display descriptione description contextparame context filter filtermappinge filter mapping listener servlet servletmapping servlet mapping sessionconfig session config welcomefile file errorpage error errorpage error beforeelement element afterelement element beforeelement element afterelement element childnodes child nodes node element filterposition filter position
+VARSIG41	comment
+VARSIG40	document webxml web xml

@@ -1,0 +1,27 @@
+VARSIG7	clioption cli option key viewname view mandatory view mapping view adopt required viewname view
+VARSIG6	clioption cli option key path mandatory path view create required foo blah path
+VARSIG9	clioption cli option key path mandatory path view create required foo blah path
+VARSIG8	clioption cli option key title mandatory title view title
+VARSIG3	clioption cli option key preferredmapping preferred mapping mandatory specific request mapping path controller foo preferredmapping preferred mapping
+VARSIG2	clioption cli option key mandatory path controller object created javatype type controller
+VARSIG5	clioption cli option key code mandatory language code desired bundle
+VARSIG4	clioption cli option key code mandatory language code desired bundle
+COMMENTS	commands web add roo shell
+VARSIG1	clioption cli option key preferredmapping preferred mapping mandatory specific request mapping path controller foo preferredmapping preferred mapping
+VARSIG0	clioption cli option key mandatory path controller object created javatype type controller
+MTHSIG4	newcontroller controller javatype type controller preferredmapping preferred mapping
+MTHSIG5	isinstalllanguageavailable install language
+VARSIG11	clioption cli option key title mandatory title view title
+MTHSIG6	language
+VARSIG10	clioption cli option key viewname view mandatory view mapping view adopt required viewname view
+MTHSIG7	lang
+MTHSIG0	iscontrollerclassavailable controller
+MTHSIG1	isprojectavailable project
+PACKAGE	springframework roo addon web mvc jsp
+MTHSIG2	webmvcsetup web mvc setup
+MTHSIG3	newmvcartifact mvc artifact javatype type controller preferredmapping preferred mapping
+MTHSIG8	view path viewname view title
+MTHSIG9	installview install view path viewname view title
+CLASSES	jspcommands jsp commands
+METHODS	iscontrollerclassavailable controller isprojectavailable project webmvcsetup web mvc setup newmvcartifact mvc artifact newcontroller controller isinstalllanguageavailable install language language lang view installview install view
+VARIABLES	controller preferredmapping preferred mapping controller preferredmapping preferred mapping path viewname view title path viewname view title log jspoperations jsp operations

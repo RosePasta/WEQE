@@ -1,0 +1,14 @@
+VARSIG3	processmanagerstatus process manager status newstatus status
+VARSIG2	processmanagerstatus process manager status oldstatus status
+VARSIG4	clioption cli option key enabled mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified activates debug mode debug
+COMMENTS	monitoring link processmanager process manager development mode users
+CLASSES	processmanagerdiagnosticslistener process manager diagnostics listener
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+METHODS	activate deactivate onprocessmanagerstatuschange process manager status change processmanagerdebug process manager debug
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo process manager internal
+MTHSIG2	onprocessmanagerstatuschange process manager status change processmanagerstatus process manager status oldstatus status processmanagerstatus process manager status newstatus status
+MTHSIG3	processmanagerdebug process manager debug debug
+VARIABLES	context context oldstatus status newstatus status debug processmanagerstatusprovider process manager status provider isdebug debug

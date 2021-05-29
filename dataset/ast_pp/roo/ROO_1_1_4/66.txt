@@ -1,0 +1,12 @@
+MTHSIG0	schemacontenthandler schema content handler
+VARSIG3	attributes attributes
+MTHSIG1	getschema schema
+VARSIG2	qname
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	startelement start element uri localname local qname attributes attributes
+COMMENTS	link contenthandler content handler implementation finding schema attribute database element roo dbre file creating link schema object
+CLASSES	schemacontenthandler schema content handler
+VARIABLES	uri localname local qname attributes schema
+VARSIG1	localname local
+VARSIG0	uri
+METHODS	schemacontenthandler schema content handler getschema schema startelement start element

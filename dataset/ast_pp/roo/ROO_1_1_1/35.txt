@@ -1,0 +1,59 @@
+MTHSIG28	getcolumnnamepattern column pattern
+MTHSIG29	getdialect dialect
+MTHSIG26	getschemapattern schema pattern
+MTHSIG27	gettablenamepattern table pattern
+MTHSIG24	readprimarykeynames read primary key names
+MTHSIG25	getcatalog catalog
+MTHSIG22	readindices read indices
+MTHSIG23	findindex find set indices
+MTHSIG4	setcatalogname set catalog catalogname catalog
+MTHSIG5	getschema schema
+MTHSIG6	getschemaname schema
+MTHSIG7	setschema set schema schema schema
+MTHSIG0	databaseintrospector database introspector connection connection schema schema view set includetables include tables set excludetables exclude tables
+MTHSIG1	databaseintrospector database introspector connection connection
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	getconnection connection
+MTHSIG3	getcatalogname catalog
+MTHSIG20	hasexcludedtable excluded table tablename table
+MTHSIG21	hastable table set tables tablename table
+MTHSIG8	gettablename table
+MTHSIG9	settablename set table tablename table
+CLASSES	databaseintrospector database introspector
+METHODS	databaseintrospector database introspector databaseintrospector database introspector getconnection connection getcatalogname catalog setcatalogname set catalog getschema schema getschemaname schema setschema set schema gettablename table settablename set table getcolumnname column setcolumnname set column getschemas schemas createdatabase create database readtables read tables ignoretables ignore tables readcolumns read columns readforeignkeys read foreign getcascadeaction cascade action hasincludedtable included table hasexcludedtable excluded table hastable table readindices read indices findindex find readprimarykeynames read primary key names getcatalog catalog getschemapattern schema pattern gettablenamepattern table pattern getcolumnnamepattern column pattern getdialect dialect
+VARSIG23	exception
+VARSIG22	
+VARSIG21	set indices
+VARSIG20	
+VARSIG7	schema schema
+VARSIG6	catalogname catalog
+VARSIG9	columnname column
+VARSIG8	tablename table
+VARSIG3	set includetables include tables
+VARSIG2	view
+VARSIG5	connection connection
+VARSIG4	set excludetables exclude tables
+COMMENTS	creates link database database model live database jdbc check tables oracle recycle bin tables ignore catching sqlexception sql exception oracle throwing exception attempting retrieve indices deleted tables exist oracle oracle recycle bin
+VARSIG19	sqlexception sql exception
+VARSIG1	schema schema
+VARSIG18	table
+VARSIG0	connection connection
+VARSIG17	tablename table
+VARSIG12	exported
+VARSIG11	sqlexception sql exception
+VARSIG10	columnname column
+VARSIG16	set tables
+VARSIG15	tablename table
+VARSIG14	tablename table
+VARSIG13	actionvalue action
+MTHSIG17	readforeignkeys read foreign exported
+MTHSIG18	getcascadeaction cascade action actionvalue action
+MTHSIG15	ignoretables ignore tables
+MTHSIG16	readcolumns read columns
+MTHSIG13	createdatabase create database
+MTHSIG14	readtables read tables
+MTHSIG11	setcolumnname set column columnname column
+MTHSIG12	getschemas schemas
+MTHSIG19	hasincludedtable included table tablename table
+MTHSIG10	getcolumnname column
+VARIABLES	connection schema view includetables include tables excludetables exclude tables connection catalogname catalog schema tablename table columnname column columnname column exported actionvalue action tablename table tablename table tables tablename table table indices connection databasemetadata database meta data catalogname catalog schema view includetables include tables excludetables exclude tables tablename table columnname column schemas database tables types table column ignore columns column foreignkeys foreign foreigntablename foreign table key foreignkey foreign key localcolumnname local column foreigncolumnname foreign column reference cascadeaction cascade action regex pattern indices type indexname indexcolumn column columnnames column names productname product

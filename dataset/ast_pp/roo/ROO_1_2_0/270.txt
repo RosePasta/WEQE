@@ -1,0 +1,48 @@
+VARSIG7	methodmetadatabuilder metadata builder mutator
+VARSIG6	methodmetadatabuilder metadata builder accessor
+VARSIG9	fieldmetadata field metadata field
+VARSIG8	identifier identifier
+VARSIG3	identifierannotationvalues identifier annotation values annotationvalues annotation values
+VARSIG2	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG5	fieldmetadatabuilder field metadata builder field
+VARSIG4	list identifier identifierserviceresult identifier service result
+COMMENTS	metadata link rooidentifier roo identifier constants fields link identifierservice identifier service populated link identifiermetadataproviderimpl identifier metadata provider impl add embeddable annotation add declared fields accessors mutators parameterised constructor arg constructor provide add custom data tag roo identifier type create representation desired output locates declared fields parent defined located created declared fields returned fields returns locate declared fields add fields annotation add field declared governor remove fields modifiers remove fields annotation create identifier field compute column required add length attribute strings add precision scale attributes numeric fields add jsr temporal annotation fields roo locates accessor methods link getfieldbuilders field builders returns fields created accessors automatically produced declaring fields accessors returns compute names accessors produced locates mutator methods link getfieldbuilders field builders returns fields created mutators automatically produced declaring fields mutators returns compute names mutators produced locates parameterised constructor consisting fields fields constructor search existing constructor existing parameterised constructor create constructor locates arg constructor defines arg constructor returned irrespective access modifiers define arg constructor created created link rooidentifier roo identifier noargconstructor arg constructor constructor declared source file constructor created access modifier constructor constructor produced search existing constructor existing arg constructor create constructor
+VARSIG19	fieldmetadatabuilder field metadata builder field
+VARSIG1	javatype type aspectname aspect
+VARSIG18	list fieldmetadatabuilder field metadata builder fields
+VARSIG0	identifier
+VARSIG17	fieldmetadatabuilder field metadata builder field
+MTHSIG4	setdateannotations set annotations columndefinition column definition list annotationmetadatabuilder annotation metadata builder annotations
+VARSIG12	list annotationmetadatabuilder annotation metadata builder annotations
+MTHSIG5	hasfield field list fieldmetadata field metadata declaredfields declared fields fieldmetadata field metadata idfield field
+VARSIG11	columndefinition column definition
+MTHSIG6	getaccessors accessors list fieldmetadatabuilder field metadata builder fields
+VARSIG10	identifier identifier
+MTHSIG7	getmutators mutators list fieldmetadatabuilder field metadata builder fields
+MTHSIG0	identifiermetadata identifier metadata identifier javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata identifierannotationvalues identifier annotation values annotationvalues annotation values list identifier identifierserviceresult identifier service result
+VARSIG16	list fieldmetadatabuilder field metadata builder fields
+MTHSIG1	getembeddableannotation embeddable annotation
+VARSIG15	fieldmetadata field metadata declaredfield declared field
+PACKAGE	springframework roo addon jpa identifier
+MTHSIG2	getfieldbuilders field builders
+VARSIG14	fieldmetadata field metadata idfield field
+MTHSIG3	getcolumnbuilder column builder identifier identifier
+VARSIG13	list fieldmetadata field metadata declaredfields declared fields
+MTHSIG8	getparameterizedconstructor parameterized constructor list fieldmetadatabuilder field metadata builder fields
+MTHSIG9	getnoargconstructor arg constructor
+MTHSIG13	getpath path metadataidentificationstring metadata identification
+MTHSIG14	isvalid valid metadataidentificationstring metadata identification
+MTHSIG11	createidentifier create identifier javatype type javatype type logicalpath logical path path
+MTHSIG12	getjavatype type metadataidentificationstring metadata identification
+CLASSES	identifiermetadata identifier metadata
+METHODS	identifiermetadata identifier metadata getembeddableannotation embeddable annotation getfieldbuilders field builders getcolumnbuilder column builder setdateannotations set annotations hasfield field getaccessors accessors getmutators mutators getparameterizedconstructor parameterized constructor getnoargconstructor arg constructor getmetadataidentifiertype metadata identifier type createidentifier create identifier getjavatype type getpath path isvalid valid
+VARSIG23	javatype type javatype type
+VARSIG22	fieldmetadatabuilder field metadata builder field
+VARSIG21	fieldmetadatabuilder field metadata builder field
+VARSIG20	list fieldmetadatabuilder field metadata builder fields
+VARSIG27	metadataidentificationstring metadata identification
+VARSIG26	metadataidentificationstring metadata identification
+VARSIG25	metadataidentificationstring metadata identification
+VARSIG24	logicalpath logical path path
+MTHSIG10	getmetadataidentifiertype metadata identifier type
+VARIABLES	identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata annotationvalues annotation values identifierserviceresult identifier service result field accessor mutator identifier field identifier columndefinition column definition annotations declaredfields declared fields idfield field declaredfield declared field fields field fields field fields field field javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification metadataidentificationstring metadata identification type type publicnoargconstructor arg constructor identifierserviceresult identifier service result fields annotationbuilder annotation builder declaredfields declared fields fields annotations idfield field iter field transientannotatedfields annotated fields fieldbuilders field builders annotations columnbuilder column builder columnbuilder column builder temporaltype temporal type temporalbuilder temporal builder datetimeformatbuilder time format builder accessors requiredaccessorname required accessor accessor mutators requiredmutatorname required mutator parametertype parameter type mutator parametertypes parameter types result parameternames parameter names bodybuilder body builder fieldname field constructorbuilder constructor builder parametertypes parameter types result bodybuilder body builder constructorbuilder constructor builder

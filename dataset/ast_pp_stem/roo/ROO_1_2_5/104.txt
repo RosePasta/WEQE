@@ -1,0 +1,32 @@
+VARSIG7	javatyp type targettyp target type 
+VARSIG6	element root 
+VARSIG9	async 
+VARSIG8	javasymbolnam symbol fieldnam field 
+VARSIG3	async 
+VARSIG2	javasymbolnam symbol mailsendernam mail sender 
+VARSIG5	classorinterfacetypedetailsbuild type detail builder cidbuild cid builder 
+VARSIG4	targetclassmid target mid 
+COMMENTS	implement link mailoperationsimpl mail oper impl return canon path user project project applicationcontext applic context xml file blank path gener send email domain type mailsendernam mail sender mailsend mail sender field requir async send email asynchron targetclassmid target mid mid receiv mutabletypedetail mutabl type detail type requir builder creat method bodi collect type name creat method paramet there simplemailmessag simpl mail messag bean local variabl set address set subject simplemailmessag simpl mail messag bean exist auto wire entiti templat inject bean templat thread safeti set address set messag bodi add asynchron email support applic add task namespac spring config file write spring config file updat email properti file find simplemailmessag simpl mail messag bean spring xml file root element root bean physic type mutabl detail add mailsend mail sender field add sendmessag send messag 
+VARSIG1	subject 
+VARSIG0	 
+VARSIG17	element dependencyel depend element 
+MTHSIG4	injectemailtempl inject email templat javatyp type targettyp target type javasymbolnam symbol fieldnam field async 
+VARSIG12	port 
+MTHSIG5	installemail instal email hostserv host server mailprotocol mail protocol protocol port encod usernam password 
+VARSIG11	mailprotocol mail protocol protocol 
+MTHSIG6	isemailinstallationposs email instal 
+VARSIG10	hostserv host server 
+MTHSIG7	ismanageemailavail manag email 
+MTHSIG0	configuretemplatemessag configur templat messag subject 
+VARSIG16	modulenam modul 
+MTHSIG1	getapplicationcontextpath applic context path 
+VARSIG15	password 
+PACKAGE	springframework roo addon email 
+MTHSIG2	getsendmethod send javasymbolnam symbol mailsendernam mail sender async targetclassmid target mid classorinterfacetypedetailsbuild type detail builder cidbuild cid builder 
+VARSIG14	usernam 
+MTHSIG3	getsimplemailmessagebean simpl mail messag bean element root 
+VARSIG13	encod 
+MTHSIG8	updateconfigur updat configur modulenam modul 
+CLASSES	mailoperationsimpl mail oper impl 
+METHODS	configuretemplatemessag configur templat messag getapplicationcontextpath applic context path getsendmethod send getsimplemailmessagebean simpl mail messag bean injectemailtempl inject email templat installemail instal email isemailinstallationposs email instal ismanageemailavail manag email updateconfigur updat configur 
+VARIABLES	subject mailsendernam mail sender async targetclassmid target mid cidbuild cid builder root targettyp target type fieldnam field async hostserv host server protocol port encod usernam password modulenam modul dependencyel depend element local messag variabl logger spring task spring task xsd templat messag field filemanag file manag pathresolv path resolv projectoper project oper propfileoper prop file oper typelocationservic type locat servic typemanagementservic type manag servic contextpath context path document root prop smmbean smm bean smmproperti smm properti smmproperti smm properti contextpath context path document root bodybuild bodi builder paramet smmannot smm annot smmfieldbuild smm field builder methodbuild builder annot declaredbymetadataid declar metadata exist cidbuild cid builder mailsenderfieldbuild mail sender field builder contextpath context path document root installdepend instal depend prop mailbean mail bean properti pelement element pelement element pelement element pelement element pelement element javamailproperti mail properti securityprop secur prop prop prop prop configur depend emaildepend email depend 

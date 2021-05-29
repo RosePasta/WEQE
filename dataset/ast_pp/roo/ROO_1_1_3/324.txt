@@ -1,0 +1,42 @@
+VARSIG7	clioption cli option key documentid document mandatory document
+VARSIG6	clioption cli option key provider mandatory document documentprovider document provider provider
+VARSIG9	clioption cli option key provider mandatory video videoprovider video provider provider
+VARSIG8	clioption cli option key viewname view mandatory jspx view viewname view
+VARSIG3	clioption cli option key viewname view mandatory jspx view viewname view
+VARSIG2	clioption cli option key url mandatory url source embedded url
+VARSIG5	clioption cli option key viewname view mandatory jspx view viewname view
+VARSIG4	clioption cli option key waveid wave mandatory key wave key
+COMMENTS	commands web mvc embed
+VARSIG19	clioption cli option key streamid stream mandatory stream streamid stream
+VARSIG1	componentcontext component context context
+VARSIG18	clioption cli option key provider mandatory provider video stream videostreamprovider video stream provider provider
+VARSIG0	componentcontext component context context
+VARSIG17	clioption cli option key viewname view mandatory jspx view viewname view
+MTHSIG4	embedwave embed wave key viewname view
+VARSIG12	clioption cli option key location mandatory location map sydney australia location
+MTHSIG5	embeddocument embed document documentprovider document provider provider viewname view
+VARSIG11	clioption cli option key viewname view mandatory jspx view viewname view
+MTHSIG6	embedvideo embed video videoprovider video provider provider viewname view
+VARSIG10	clioption cli option key videoid video mandatory video
+MTHSIG7	embedmap embed map location viewname view
+MTHSIG0	activate componentcontext component context context
+VARSIG16	clioption cli option key albumid album mandatory album albumid album
+MTHSIG1	deactivate componentcontext component context context
+VARSIG15	clioption cli option key userid user mandatory user userid user
+PACKAGE	springframework roo addon web mvc embedded
+MTHSIG2	ispropertyavailable property
+VARSIG14	clioption cli option key provider mandatory provider photo gallery photoprovider photo provider provider
+MTHSIG3	embed url viewname view
+VARSIG13	clioption cli option key viewname view mandatory jspx view viewname view
+MTHSIG8	embedphotos embed photos photoprovider photo provider provider userid user albumid album viewname view
+MTHSIG9	embedvideostream embed video stream videostreamprovider video stream provider provider streamid stream viewname view
+MTHSIG11	embedtwitter embed twitter searchterm search term viewname view
+CLASSES	embeddedcommands embedded commands
+METHODS	activate deactivate ispropertyavailable property embed embedwave embed wave embeddocument embed document embedvideo embed video embedmap embed map embedphotos embed photos embedvideostream embed video stream embedfinance embed finance embedtwitter embed twitter
+VARSIG23	clioption cli option key searchterm search term mandatory search term display searchterm search term
+VARSIG22	clioption cli option key viewname view mandatory jspx view viewname view
+VARSIG21	clioption cli option key stocksymbol stock symbol mandatory stock symbol stocksymbol stock symbol
+VARSIG20	clioption cli option key viewname view mandatory jspx view viewname view
+VARSIG24	clioption cli option key viewname view mandatory jspx view viewname view
+MTHSIG10	embedfinance embed finance stocksymbol stock symbol viewname view
+VARIABLES	context context url viewname view key viewname view provider viewname view provider viewname view location viewname view provider userid user albumid album viewname view provider streamid stream viewname view stocksymbol stock symbol viewname view searchterm search term viewname view operations fieldconverter field converter options options options options options options options options

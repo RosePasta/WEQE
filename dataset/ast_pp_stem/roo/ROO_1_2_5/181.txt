@@ -1,0 +1,39 @@
+VARSIG7	serverfailur server failur error 
+VARSIG6	respons 
+VARSIG9	set constraintviol constraint violat violat 
+VARSIG8	ignor 
+VARSIG3	proxi 
+VARSIG2	placecontrol place control placecontrol place control 
+VARSIG5	eventbu event bu eventbu event bu 
+VARSIG4	acceptsonewidget accept widget displai 
+COMMENTS	activ edit record subclass provid access request fire save click instanc reusabl activ stop restart type proxi edit call creat request save request context fire save button click proxi edit mutabl typic call link requestcontext request context edit entityproxi entiti proxi link requestcontext request context creat callback editordriv editor driver stop midflight warn maystop defeat ischang chang check defeat call flight check overrid perform action editordriv editor driver edit call empti overrid perform action editordriv editor driver edit call empti overrid perform action view visibl empti type match proxi type call user cancel save implement tell link placecontrol place control detail edit record savedtru comit user cancel wait rpc respons wait respons poke setter proxi call editordriv editor driver flush set wait flag warn disabl view 
+VARSIG1	applicationrequestfactori applic request factori factori 
+VARSIG0	entityproxyid entiti proxi proxyid proxi 
+MTHSIG4	getproxi proxi 
+MTHSIG5	start acceptsonewidget accept widget displai eventbu event bu eventbu event bu 
+VARSIG11	wait 
+MTHSIG6	createfindrequest creat find request 
+VARSIG10	save 
+MTHSIG7	cancelclick cancel click 
+MTHSIG0	abstractproxyeditact proxi edit activ entityproxyid entiti proxi proxyid proxi applicationrequestfactori applic request factori factori placecontrol place control placecontrol place control 
+MTHSIG1	getview view 
+PACKAGE	top level client scaffold place 
+MTHSIG2	createproxi creat proxi 
+MTHSIG3	createsaverequest creat save request proxi 
+MTHSIG20	iswait wait 
+MTHSIG21	setwait set wait wait 
+MTHSIG8	maystop 
+MTHSIG9	oncancel cancel 
+MTHSIG17	getproxyid proxi 
+MTHSIG18	chang 
+MTHSIG15	executeafterbind execut bind 
+MTHSIG16	executedisplayset execut displai set 
+MTHSIG13	bindtoview bind view 
+MTHSIG14	executebeforebind execut bind 
+MTHSIG11	saveclick save click 
+MTHSIG12	executepostsaveact execut post save action 
+CLASSES	abstractproxyeditact proxi edit activ 
+METHODS	abstractproxyeditact proxi edit activ getview view createproxi creat proxi createsaverequest creat save request getproxi proxi start createfindrequest creat find request cancelclick cancel click maystop oncancel cancel onstop saveclick save click executepostsaveact execut post save action bindtoview bind view executebeforebind execut bind executeafterbind execut bind executedisplayset execut displai set getproxyid proxi chang exit iswait wait setwait set wait 
+MTHSIG19	exit save 
+MTHSIG10	onstop 
+VARIABLES	proxyid proxi factori placecontrol place control proxi displai eventbu event bu respons error ignor violat save wait placecontrol place control factori proxyid proxi editordriv editor driver proxi displai eventbu event bu wait unsavedchangeswarn unsav warn request 

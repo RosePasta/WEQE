@@ -1,0 +1,39 @@
+VARSIG7	product product
+VARSIG6	projectid project
+VARSIG9	bundlesymbolicname bundle symbolic
+VARSIG8	builder featureusebuilder feature builder
+VARSIG3	transmissiontype transmission type type
+VARSIG2	successful
+VARSIG5	bundlesymbolicname bundle symbolic
+VARSIG4	componentcontext component context context
+COMMENTS	implementation link uaaregistrationservice uaa registration service key bundlesymbolicname bundle symbolic customjson custom json key bsn git commit hash key bsn version key projectid project list products attempt store spring roo product registerbsn register bsn included active buffering good time flush uaa api latest data included upload effort store data shutting flush can flush flush features flush projects populates version passed link builder locating bundle version metadata git hash code acquired manifest returns error bundle featureusebuilder feature builder insert feature required bundlesymbolicname bundle symbolic locate required can acquire osgi version bundle ensure feature log buffer features turn custom json simplicity including buffering persist buffer potential persistence create feature data bytes register uaaservice uaa service preserve feature data presented hasn communicated uaa delayed uploads feature data treat overwriting existing feature data stored flush buffer persistence persist buffer potential persistence don buffer there identical version product flush buffer persistence
+VARSIG19	product product
+VARSIG1	transmissiontype transmission type type
+VARSIG18	projectid project
+VARSIG0	componentcontext component context context
+VARSIG17	product product
+MTHSIG4	flushifpossible flush
+VARSIG12	customjson custom json
+MTHSIG5	populateversioninfoifpossible populate version info builder featureusebuilder feature builder bundlesymbolicname bundle symbolic
+VARSIG11	bundlesymbolicname bundle symbolic
+MTHSIG6	registerbundlesymbolicnameuse register bundle symbolic bundlesymbolicname bundle symbolic customjson custom json
+VARSIG10	bundle
+MTHSIG7	registerbundlesymbolicnameuse register bundle symbolic bundlesymbolicname bundle symbolic customjson custom json flushwhendone flush
+MTHSIG0	activate componentcontext component context context
+VARSIG16	exception ignore
+MTHSIG1	aftertransmission transmission transmissiontype transmission type type successful
+VARSIG15	flushwhendone flush
+PACKAGE	springframework roo uaa
+MTHSIG2	beforetransmission transmission transmissiontype transmission type type
+VARSIG14	customjson custom json
+MTHSIG3	deactivate componentcontext component context context
+VARSIG13	bundlesymbolicname bundle symbolic
+MTHSIG8	registerproject register project product product projectid project
+MTHSIG9	registerproject register project product product projectid project flushwhendone flush
+CLASSES	uaaregistrationserviceimpl uaa registration service impl
+METHODS	activate aftertransmission transmission beforetransmission transmission deactivate flushifpossible flush populateversioninfoifpossible populate version info registerbundlesymbolicnameuse register bundle symbolic registerbundlesymbolicnameuse register bundle symbolic registerproject register project registerproject register project requesttransmission request transmission
+VARSIG22	product existing
+VARSIG21	flushwhendone flush
+VARSIG20	projectid project
+MTHSIG10	requesttransmission request transmission
+VARIABLES	context type successful type context bundlesymbolicname bundle symbolic projectid project product featureusebuilder feature builder bundlesymbolicname bundle symbolic bundlesymbolicname bundle symbolic customjson custom json bundlesymbolicname bundle symbolic customjson custom json flushwhendone flush ignore product projectid project product projectid project flushwhendone flush existing bsnbuffer bsn buffer bsncommithashcache bsn commit hash cache bsnversioncache bsn version cache bundlecontext bundle context projectidbuffer project buffer publicfeatureresolver feature resolver uaaservice uaa service bundlesymbolicname bundle symbolic customjson custom json version commithash commit hash manifestresult manifest result featuredata feature data featureusebuilder feature builder add

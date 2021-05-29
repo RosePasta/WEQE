@@ -1,0 +1,32 @@
+VARSIG7	javatype type javatype type
+VARSIG6	logicalpath logical path path
+VARSIG9	javatype type javatype type
+VARSIG8	path path
+VARSIG3	logicalpath logical path path
+VARSIG2	identifier
+VARSIG5	identifier
+VARSIG4	identifier
+COMMENTS	resolution link file link path canonical path link add ons primary mechanism resolve paths order maximize compatibility design refactoring project structural enhancements alternate build systems add ons generally avoid link file produces canonical path presented link path relative path path required relativepath relative path empty referring path canonical path file attempts determine link path canonical path falls identifier lookup required link path identifier refers location path returns canonical path root link logicalpath logical path path lookup required root path determined attempts determine link path canonical path falls returns relative portion file link filedetails file details getrelativesegment relative segment identifier resolve required relative segment empty identifier referred link path identifier link path converts presented canonical path human friendly identifier resolve required human friendly identifier required returns paths user project list returns link logicalpath logical path user project directories source code list returns canonical path user project project root directory valid directory path returns canonical path link javatype type link logicalpath logical path path path type type base required javatype type type path required valid canonical path file exist returns canonical path link javatype type link path focussed module path javatype type returns canonical path path relative link path focussed module path relativepath relative path canonical path path returns link logicalpath logical path link path focused module path path focused module required instance
+VARSIG1	relativepath relative path
+VARSIG0	logicalpath logical path path
+MTHSIG4	getfriendlyname friendly identifier
+VARSIG12	path path
+MTHSIG5	getpaths paths
+VARSIG11	relativepath relative path
+MTHSIG6	getsourcepaths source paths
+VARSIG10	path path
+MTHSIG7	getroot root
+MTHSIG0	getidentifier identifier logicalpath logical path path relativepath relative path
+MTHSIG1	getpath path identifier
+PACKAGE	springframework roo project
+MTHSIG2	getroot root logicalpath logical path path
+MTHSIG3	getrelativesegment relative segment identifier
+VARSIG13	path path
+MTHSIG8	getcanonicalpath canonical path logicalpath logical path path javatype type javatype type
+MTHSIG9	getfocusedcanonicalpath focused canonical path path path javatype type javatype type
+MTHSIG11	getfocusedroot focused root path path
+MTHSIG12	getfocusedpath focused path path path
+CLASSES	pathresolver path resolver
+METHODS	getidentifier identifier getpath path getroot root getrelativesegment relative segment getfriendlyname friendly getpaths paths getsourcepaths source paths getroot root getcanonicalpath canonical path getfocusedcanonicalpath focused canonical path getfocusedidentifier focused identifier getfocusedroot focused root getfocusedpath focused path
+MTHSIG10	getfocusedidentifier focused identifier path path relativepath relative path
+VARIABLES	path relativepath relative path identifier path identifier identifier path javatype type path javatype type path relativepath relative path path path

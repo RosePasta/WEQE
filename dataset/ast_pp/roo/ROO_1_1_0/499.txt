@@ -1,0 +1,15 @@
+VARSIG3	clioption cli option key mandatory unspecifieddefaultvalue unspecified lang object superclass defaults lang object superclass
+VARSIG2	clioption cli option key path mandatory unspecifieddefaultvalue unspecified src specifieddefaultvalue src source directory create path
+VARSIG5	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+VARSIG4	clioption cli option key mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue generated marked createabstract create
+COMMENTS	link asmprocessingtests asm processing tests
+CLASSES	
+VARSIG1	clioption cli option key rooannotations roo annotations mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue generated common roo annotations rooannotations roo annotations
+VARSIG0	clioption cli option key optioncontext option context update project mandatory create
+METHODS	methodwitharrayandmanyelements array elements methodwitharrayandsingleelement array single element methodwithoutarray array createclass create
+MTHSIG0	methodwitharrayandmanyelements array elements
+MTHSIG1	methodwitharrayandsingleelement array single element
+PACKAGE	springframework roo mojo addon
+MTHSIG2	methodwithoutarray array
+MTHSIG3	createclass create rooannotations roo annotations path superclass createabstract create permitreservedwords permit reserved
+VARIABLES	rooannotations roo annotations path superclass createabstract create permitreservedwords permit reserved

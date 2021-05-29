@@ -1,0 +1,23 @@
+VARSIG7	javatype type
+VARSIG6	javasymbolname symbol finder
+VARSIG9	javatype type typename type
+VARSIG8	runtimeexception runtime exception
+VARSIG3	physicaltypemetadataprovider physical type metadata provider physicaltypemetadataprovider physical type metadata provider
+VARSIG2	metadataservice metadata service metadataservice metadata service
+VARSIG5	integer depth
+VARSIG4	javatype type typename type
+COMMENTS	finder addon operations entity metadata type finders entity entity metadata bean info metadata compute finders avoid displaying problematic finders query query entity metadata type finders entity entity metadata bean info metadata file exists there entity metadata reason source file lines suddenly existing entity annotation confirm typed valid finder todo improve detection invalid finder names destination list store attributes copy existing attributes excluding finder attribute ensure array strings add desired finder let add finder attribute
+CLASSES	finderoperations finder operations
+VARSIG1	pathresolver path resolver pathresolver path resolver
+VARSIG0	filemanager file manager filemanager file manager
+METHODS	finderoperations finder operations isfindercommandavailable finder command listfindersfor list finders installfinder install finder
+VARSIG12	javasymbolname symbol attributename attribute
+VARSIG11	runtimeexception runtime exception
+VARSIG10	javasymbolname symbol findername finder
+MTHSIG0	finderoperations finder operations filemanager file manager filemanager file manager pathresolver path resolver pathresolver path resolver metadataservice metadata service metadataservice metadata service physicaltypemetadataprovider physical type metadata provider physicaltypemetadataprovider physical type metadata provider
+MTHSIG1	isfindercommandavailable finder command
+PACKAGE	springframework roo addon finder
+MTHSIG2	listfindersfor list finders javatype type typename type integer depth
+MTHSIG3	installfinder install finder javatype type typename type javasymbolname symbol findername finder
+VARSIG13	object
+VARIABLES	filemanager file manager pathresolver path resolver metadataservice metadata service physicaltypemetadataprovider physical type metadata provider typename type depth finder typename type findername finder attributename attribute logger filemanager file manager pathresolver path resolver physicaltypemetadataprovider physical type metadata provider metadataservice metadata service javatype type path entitymid entity mid entitymetadata entity metadata beaninfomid bean info mid beaninfometadata bean info metadata finderservice finder service finders result paramnames names paramtypes types signature javatype type path entitymid entity mid entitymetadata entity metadata beaninfomid bean info mid beaninfometadata bean info metadata physicaltypemetadata physical type metadata ptd mutable annotations finderservice finder service attributes desiredfinders desired finders alreadyadded val arrayval array val annotation

@@ -1,0 +1,30 @@
+VARSIG7	list javasymbolnam symbol parameternam paramet name 
+VARSIG6	list annotatedjavatyp annot type parametertyp paramet type 
+VARSIG9	declaredbymetadataid declaredbi metadata 
+VARSIG8	invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+VARSIG3	modifi 
+VARSIG2	declaredbymetadataid declaredbi metadata 
+VARSIG5	javatyp type returntyp type 
+VARSIG4	javasymbolnam symbol methodnam 
+COMMENTS	builder link methodmetadata metadata 
+VARSIG1	methodmetadata metadata exist 
+VARSIG0	declaredbymetadataid declaredbi metadata 
+MTHSIG4	build 
+VARSIG12	javatyp type returntyp type 
+MTHSIG5	getmethodnam 
+VARSIG11	javasymbolnam symbol methodnam 
+MTHSIG6	setmethodnam set javasymbolnam symbol methodnam 
+VARSIG10	modifi 
+MTHSIG7	getreturntyp type 
+MTHSIG0	methodmetadatabuild metadata builder declaredbymetadataid declaredbi metadata 
+MTHSIG1	methodmetadatabuild metadata builder methodmetadata metadata exist 
+VARSIG15	javatyp type returntyp type 
+PACKAGE	springframework roo classpath detail 
+MTHSIG2	methodmetadatabuild metadata builder declaredbymetadataid declaredbi metadata modifi javasymbolnam symbol methodnam javatyp type returntyp type list annotatedjavatyp annot type parametertyp paramet type list javasymbolnam symbol parameternam paramet name invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+VARSIG14	javasymbolnam symbol methodnam 
+MTHSIG3	methodmetadatabuild metadata builder declaredbymetadataid declaredbi metadata modifi javasymbolnam symbol methodnam javatyp type returntyp type invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+VARSIG13	invocablememberbodybuild invoc member bodi builder bodybuild bodi builder 
+MTHSIG8	setreturntyp set type javatyp type returntyp type 
+CLASSES	methodmetadatabuild metadata builder 
+METHODS	methodmetadatabuild metadata builder methodmetadatabuild metadata builder methodmetadatabuild metadata builder methodmetadatabuild metadata builder build getmethodnam setmethodnam set getreturntyp type setreturntyp set type 
+VARIABLES	declaredbymetadataid declaredbi metadata exist declaredbymetadataid declaredbi metadata modifi methodnam returntyp type parametertyp paramet type parameternam paramet name bodybuild bodi builder declaredbymetadataid declaredbi metadata modifi methodnam returntyp type bodybuild bodi builder methodnam returntyp type methodnam returntyp type 

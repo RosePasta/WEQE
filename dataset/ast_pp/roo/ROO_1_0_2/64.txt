@@ -1,0 +1,42 @@
+VARSIG7	methodmetadata metadata countmethod count
+VARSIG6	methodmetadata metadata versionaccessormethod version accessor
+VARSIG9	methodmetadata metadata findallmethod find
+VARSIG8	methodmetadata metadata findmethod find
+VARSIG3	integrationtestannotationvalues integration test annotation values annotationvalues annotation values
+VARSIG2	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG5	methodmetadata metadata identifieraccessormethod identifier accessor
+VARSIG4	dataondemandmetadata data demand metadata dataondemandmetadata data demand metadata
+COMMENTS	metadata link roointegrationtest roo integration test adds junit unit spring type level annotations needed add runwith springjunit classrunner spring junit runner annotation type user define governor add contextconfiguration context configuration classpath applicationcontext application context xml annotation type user define governor add data demand field user define governor add field test count requested user prepare signature test find requested user prepare signature test find requested user core dependencies missing prepare signature test find entries requested user core dependencies missing prepare signature test flush requested user core dependencies missing prepare signature test merge requested user core dependencies missing prepare signature test persist requested user prepare signature test persist requested user core dependencies prepare signature junit assertnotnull data demand pettype failed initialize correctly pettypedataondemand pet type data demand getrandompersistententity random persistent entity lang pettypedataondemand pet type data demand getrandompersistententity random persistent entity getid junit assertnotnull data demand pettype failed provide identifier pettype pet type findpettype find pet type remove junit assertnull failed remove pettype identifier pettype pet type findpettype find pet type annotation values link roointegrationtest roo integration test metadata invalid
+VARSIG19	metadataidentificationstring metadata identification
+VARSIG1	javatype type aspectname aspect
+VARSIG18	metadataidentificationstring metadata identification
+VARSIG0	identifier
+VARSIG17	metadataidentificationstring metadata identification
+MTHSIG4	getfindallmethodtest find test
+VARSIG12	methodmetadata metadata mergemethod merge
+MTHSIG5	getfindentriesmethodtest find entries test
+VARSIG11	methodmetadata metadata flushmethod flush
+MTHSIG6	getflushmethodtest flush test
+VARSIG10	methodmetadata metadata findentriesmethod find entries
+MTHSIG7	getmergemethodtest merge test
+MTHSIG0	integrationtestmetadata integration test metadata identifier javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata integrationtestannotationvalues integration test annotation values annotationvalues annotation values dataondemandmetadata data demand metadata dataondemandmetadata data demand metadata methodmetadata metadata identifieraccessormethod identifier accessor methodmetadata metadata versionaccessormethod version accessor methodmetadata metadata countmethod count methodmetadata metadata findmethod find methodmetadata metadata findallmethod find methodmetadata metadata findentriesmethod find entries methodmetadata metadata flushmethod flush methodmetadata metadata mergemethod merge methodmetadata metadata persistmethod persist methodmetadata metadata removemethod remove
+VARSIG16	path path
+MTHSIG1	addrequiredintegrationtestclassintroductions add required integration test introductions
+VARSIG15	javatype type javatype type
+PACKAGE	springframework roo addon test
+MTHSIG2	getcountmethodtest count test
+VARSIG14	methodmetadata metadata removemethod remove
+MTHSIG3	getfindmethodtest find test
+VARSIG13	methodmetadata metadata persistmethod persist
+MTHSIG8	getpersistmethodtest persist test
+MTHSIG9	getremovemethodtest remove test
+MTHSIG15	getpath path metadataidentificationstring metadata identification
+MTHSIG16	isvalid valid metadataidentificationstring metadata identification
+MTHSIG13	createidentifier create identifier javatype type javatype type path path
+MTHSIG14	getjavatype type metadataidentificationstring metadata identification
+MTHSIG11	tostring
+MTHSIG12	getmetadataidentifertype metadata identifer type
+CLASSES	integrationtestmetadata integration test metadata
+METHODS	integrationtestmetadata integration test metadata addrequiredintegrationtestclassintroductions add required integration test introductions getcountmethodtest count test getfindmethodtest find test getfindallmethodtest find test getfindentriesmethodtest find entries test getflushmethodtest flush test getmergemethodtest merge test getpersistmethodtest persist test getremovemethodtest remove test getannotationvalues annotation values tostring getmetadataidentifertype metadata identifer type createidentifier create identifier getjavatype type getpath path isvalid valid
+MTHSIG10	getannotationvalues annotation values
+VARIABLES	identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata annotationvalues annotation values dataondemandmetadata data demand metadata identifieraccessormethod identifier accessor versionaccessormethod version accessor countmethod count findmethod find findallmethod find findentriesmethod find entries flushmethod flush mergemethod merge persistmethod persist removemethod remove javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification metadataidentificationstring metadata identification type type annotationvalues annotation values dataondemandmetadata data demand metadata dodgovernor dod governor identifieraccessormethod identifier accessor versionaccessormethod version accessor countmethod count findmethod find findallmethod find findentriesmethod find entries flushmethod flush mergemethod merge persistmethod persist removemethod remove runwithattributes attributes ctxcfg ctx cfg field annotations methodname parameters annotations bodybuilder body builder methodname parameters annotations bodybuilder body builder methodname parameters annotations bodybuilder body builder methodname parameters annotations bodybuilder body builder methodname parameters annotations bodybuilder body builder methodname parameters annotations bodybuilder body builder methodname parameters annotations bodybuilder body builder methodname parameters annotations bodybuilder body builder tsc

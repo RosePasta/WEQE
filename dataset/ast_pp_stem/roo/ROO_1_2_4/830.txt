@@ -1,0 +1,23 @@
+VARSIG7	undoen undo enabl 
+VARSIG6	throwabl 
+VARSIG8	throwabl 
+VARSIG3	undooper undo oper oper 
+VARSIG2	undolisten undo listen undolisten undo listen 
+VARSIG5	undolisten undo listen undolisten undo listen 
+VARSIG4	undolisten undo listen listen 
+COMMENTS	implement link undomanag undo manag forc undo stack simpli reset perform undo undo fail reset mode reset mode 
+CLASSES	defaultundomanag undo manag 
+VARSIG1	undoableoper undoabl oper undoableoper undoabl oper 
+VARSIG0	componentcontext compon context context 
+METHODS	activ add addundolisten add undo listen flush notifylisten notifi listen removeundolisten remov undo listen reset setundoen set undo enabl undo 
+MTHSIG4	notifylisten notifi listen undooper undo oper oper 
+MTHSIG5	removeundolisten remov undo listen undolisten undo listen undolisten undo listen 
+MTHSIG6	reset 
+MTHSIG7	setundoen set undo enabl undoen undo enabl 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	add undoableoper undoabl oper undoableoper undoabl oper 
+PACKAGE	springframework roo file undo 
+MTHSIG2	addundolisten add undo listen undolisten undo listen undolisten undo listen 
+MTHSIG3	flush 
+VARIABLES	context undoableoper undoabl oper undolisten undo listen oper listen undolisten undo listen undoen undo enabl listen stack undoen undo enabl undomod undo mode 
+MTHSIG8	undo 

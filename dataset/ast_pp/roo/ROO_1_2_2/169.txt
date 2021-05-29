@@ -1,0 +1,14 @@
+VARSIG3	response response
+VARSIG2	request request
+VARSIG5	throwable exception
+VARSIG4	request request
+COMMENTS	defaultrequesttransport request transport handle authentication failures reported link google gwt sample gaerequest server gaeauthfilter gae filter gaeauthfailure gae failure filter responds response unauthorized adds login url header user logged receive combo post event app handle sees fit hand receiver fatal callback google web bindery requestfactory shared receiver post runtime exception fatal response status unauthorized report fatal google web bindery requestfactory shared receiver post runtime exception fatal gaeauthfilter gae filter construct login url
+CLASSES	gaeauthrequesttransport gae request transport
+VARSIG1	transportreceiver transport receiver receiver
+VARSIG0	eventbus event bus eventbus event bus
+METHODS	gaeauthrequesttransport gae request transport createrequestcallback create request callback createrequestbuilder create request builder
+MTHSIG0	gaeauthrequesttransport gae request transport eventbus event bus eventbus event bus
+MTHSIG1	createrequestcallback create request callback transportreceiver transport receiver receiver
+PACKAGE	top level segment
+MTHSIG2	createrequestbuilder create request builder
+VARIABLES	eventbus event bus receiver request response request exception eventbus event bus supercallback callback statuscode status code loginurl login url builder

@@ -1,0 +1,18 @@
+VARSIG6	exclus 
+VARSIG3	shellstatu shell statu newstatu statu 
+VARSIG2	shellstatu shell statu oldstatu statu 
+VARSIG5	filedetail file detail detail 
+VARSIG4	fileev file event fileev file event 
+COMMENTS	listen shell event support automat git repositori commit 
+CLASSES	gitshelleventlisten git shell event listen 
+VARSIG1	componentcontext compon context context 
+VARSIG0	componentcontext compon context context 
+METHODS	activ deactiv onshellstatuschang shell statu chang onfileev file event matchesignor match ignor isgiten git enabl 
+MTHSIG4	matchesignor match ignor filedetail file detail detail 
+MTHSIG5	isgiten git enabl 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	deactiv componentcontext compon context context 
+PACKAGE	springframework roo addon git 
+MTHSIG2	onshellstatuschang shell statu chang shellstatu shell statu oldstatu statu shellstatu shell statu newstatu statu 
+MTHSIG3	onfileev file event fileev file event fileev file event 
+VARIABLES	context context oldstatu statu newstatu statu fileev file event detail exclus gitoper git oper shell filemanag file manag pathresolv path resolv isdirti dirti giten git enabl projectroot project root 

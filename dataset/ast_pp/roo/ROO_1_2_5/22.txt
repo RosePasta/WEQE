@@ -1,0 +1,19 @@
+VARSIG7	optioncontext option context
+VARSIG6	existingdata existing data
+VARSIG9	requiredtype required type
+VARSIG8	methodtarget target target
+VARSIG3	token
+VARSIG2	optioncontext option context
+VARSIG5	requiredtype required type
+VARSIG4	list completion completions
+COMMENTS	
+CLASSES	stringlistconverter list converter
+VARSIG1	requiredtype required type
+VARSIG0	
+METHODS	convertfromtext convert text getallpossiblevalues values supports
+VARSIG10	optioncontext option context
+MTHSIG0	convertfromtext convert text requiredtype required type optioncontext option context
+MTHSIG1	getallpossiblevalues values list completion completions requiredtype required type existingdata existing data optioncontext option context methodtarget target target
+PACKAGE	springframework roo addon cloud foundry converter
+MTHSIG2	supports requiredtype required type optioncontext option context
+VARIABLES	requiredtype required type optioncontext option context token completions requiredtype required type existingdata existing data optioncontext option context target requiredtype required type optioncontext option context tokens tokenlist token list

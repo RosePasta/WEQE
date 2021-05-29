@@ -1,0 +1,13 @@
+COMMENTS	outermost applic panel hold detail login widget panel hold master list notif mole load feedback navig 
+CLASSES	scaffolddesktopshel scaffold desktop shell 
+VARSIG0	 
+METHODS	scaffolddesktopshel scaffold desktop shell getdetailspanel detail panel getloginwidget login widget getmasterpanel master panel getmol mole getplacesbox place box seterror set error 
+MTHSIG4	getmol mole 
+MTHSIG5	getplacesbox place box 
+MTHSIG6	seterror set error 
+MTHSIG0	scaffolddesktopshel scaffold desktop shell 
+MTHSIG1	getdetailspanel detail panel 
+PACKAGE	top level segment 
+MTHSIG2	getloginwidget login widget 
+MTHSIG3	getmasterpanel master panel 
+VARIABLES	binder detail error loginwidget login widget master mole placesbox place box 

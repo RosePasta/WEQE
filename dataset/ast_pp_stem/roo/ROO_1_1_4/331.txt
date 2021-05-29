@@ -1,0 +1,21 @@
+VARSIG3	element depend 
+VARSIG2	except 
+VARSIG5	element annotationdriven annot driven 
+VARSIG4	element root 
+COMMENTS	oper creat view layer resourc note sequenc matter artifact load convers servic defin move web flow configur move instal conversionserviceexposinginterceptor convers servic expos interceptor web flow custom convers servic verifi servlet applic context exist file exist verifi web xml exist webxmlutil web xml util addwelcomefil add file webxml web xml verifi middl tier applic context exist file exist 
+CLASSES	webmvcoperationsimpl web mvc oper impl 
+VARSIG1	except 
+VARSIG0	javapackag thepackag 
+METHODS	installminmalwebartefact instal minmal web artefact installallwebmvcartifact instal web mvc artifact installconversionservic instal convers servic registerwebflowconversionserviceexposinginterceptor regist web flow convers servic expos interceptor copywebxml copi web xml managewebxml manag web xml createwebapplicationcontext creat web applic context updateconfigur updat configur isconversionserviceconfigur convers servic configur isconversionserviceconfigur convers servic configur 
+MTHSIG4	copywebxml copi web xml 
+MTHSIG5	managewebxml manag web xml 
+MTHSIG6	createwebapplicationcontext creat web applic context 
+MTHSIG7	updateconfigur updat configur 
+MTHSIG0	installminmalwebartefact instal minmal web artefact 
+MTHSIG1	installallwebmvcartifact instal web mvc artifact 
+PACKAGE	springframework roo addon web mvc control 
+MTHSIG2	installconversionservic instal convers servic javapackag thepackag 
+MTHSIG3	registerwebflowconversionserviceexposinginterceptor regist web flow convers servic expos interceptor 
+VARIABLES	thepackag depend root annotationdriven annot driven filemanag file manag projectoper project oper webmvcconfigpath web mvc config path document root annotationdriven annot driven conversionservicebean convers servic bean webflowconfigpath web flow config path document root conversionserviceexposinginterceptor convers servic expos interceptor flowhandlermap flow handler map interceptor pathresolv path resolv servletctxfilenam servlet ctx filenam webxmlpath web xml path document templateinputstream templat input stream projectnam project pathresolv path resolv webxmlpath web xml path document pathresolv path resolv webconfigfil web config file document templateinputstream templat input stream root configur depend springdepend spring depend webmvcconfigpath web mvc config path mutablefil mutabl file document root annotationdriven annot driven beannam bean bean classattribut attribut 
+MTHSIG8	isconversionserviceconfigur convers servic configur 
+MTHSIG9	isconversionserviceconfigur convers servic configur element root element annotationdriven annot driven 

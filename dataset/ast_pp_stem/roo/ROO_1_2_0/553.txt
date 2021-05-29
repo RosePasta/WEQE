@@ -1,0 +1,47 @@
+VARSIG7	constructormatch constructor matcher constructortagg constructor tagger 
+VARSIG6	methodmetadata metadata 
+VARSIG9	typematch type matcher typetagg type tagger 
+VARSIG8	constructormetadata constructor metadata constructor 
+VARSIG3	fieldmatch field matcher fieldtagg field tagger 
+VARSIG2	memberholdingtypedetail member hold type detail memberholdingtypedetail member hold type detail 
+VARSIG5	methodmatch matcher methodtagg tagger 
+VARSIG4	fieldmetadata field metadata field 
+COMMENTS	implement link customdatakeydecor custom data kei decor field locat request add custom data identifi structur return plural term inflector attent rooplur roo plural account getplur plural term term plural local local plural term inflector fail roo don plural don refer osgi unload 
+VARSIG19	matcher customdataaccessor custom data accessor matcher 
+VARSIG1	memberdetail member detail memberdetail member detail 
+VARSIG18	addingclass ad 
+VARSIG0	requestingclass request 
+VARSIG17	runtimeexcept runtim except 
+MTHSIG4	registermatch regist matcher addingclass ad matcher customdataaccessor custom data accessor matcher 
+VARSIG12	memberdetail member detail memberdetail member detail 
+MTHSIG5	unregistermatch unregist matcher addingclass ad 
+VARSIG11	requestingclass request 
+MTHSIG6	unregistermatch unregist matcher addingclass ad 
+VARSIG10	memberholdingtypedetail member hold type detail typedetail type detail 
+MTHSIG7	getmethodtagg tagger 
+MTHSIG0	decor requestingclass request memberdetail member detail memberdetail member detail 
+VARSIG16	local local 
+MTHSIG1	decoratetyp decor type requestingclass request memberdetail member detail memberdetail member detail 
+VARSIG15	term 
+PACKAGE	springframework roo classpath customdata tagger 
+MTHSIG2	getinflectorplur inflector plural term local local 
+VARSIG14	memberholdingtypedetail member hold type detail typedetail type detail 
+MTHSIG3	registermatch regist matcher addingclass ad matcher customdataaccessor custom data accessor matcher 
+VARSIG13	typematch type matcher typetagg type tagger 
+MTHSIG8	getfieldtagg field tagger 
+VARSIG30	matcher customdataaccessor custom data accessor matcher 
+MTHSIG9	getconstructortagg constructor tagger 
+CLASSES	customdatakeydecoratorimpl custom data kei decor impl 
+VARSIG29	matcher customdataaccessor custom data accessor matcher 
+VARSIG28	matcher customdataaccessor custom data accessor matcher 
+METHODS	decor decoratetyp decor type getinflectorplur inflector plural registermatch regist matcher registermatch regist matcher unregistermatch unregist matcher unregistermatch unregist matcher getmethodtagg tagger getfieldtagg field tagger getconstructortagg constructor tagger gettypetagg type tagger 
+VARSIG23	addingclass ad 
+VARSIG22	matcher customdataaccessor custom data accessor matcher 
+VARSIG21	matcher customdataaccessor custom data accessor matcher 
+VARSIG20	addingclass ad 
+VARSIG27	matcher customdataaccessor custom data accessor matcher 
+VARSIG26	addingclass ad 
+VARSIG25	taggerkei tagger kei 
+VARSIG24	taggerkei tagger kei 
+MTHSIG10	gettypetagg type tagger 
+VARIABLES	requestingclass request memberdetail member detail memberholdingtypedetail member hold type detail fieldtagg field tagger field methodtagg tagger constructortagg constructor tagger constructor typetagg type tagger typedetail type detail requestingclass request memberdetail member detail typetagg type tagger typedetail type detail term local addingclass ad matcher addingclass ad matcher matcher addingclass ad taggerkei tagger kei taggerkei tagger kei addingclass ad matcher matcher matcher matcher taggermap tagger map pluralmap plural map memberdetailsbuild member detail builder memberdetailsbuild member detail builder toremov remov methodtagg tagger fieldtagg field tagger constructortagg constructor tagger typetagg type tagger 

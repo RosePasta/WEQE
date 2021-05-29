@@ -1,0 +1,54 @@
+MTHSIG4	changeproperty change property logicalpath logical path propertyfilepath property file path propertyfilename property filename key sorted
+VARSIG34	logicalpath logical path propertyfilepath property file path
+MTHSIG5	getproperties properties logicalpath logical path propertyfilepath property file path propertyfilename property filename
+VARSIG33	loadingclass loading
+MTHSIG6	getproperty property logicalpath logical path propertyfilepath property file path propertyfilename property filename key
+VARSIG32	filename
+MTHSIG7	getpropertykeys property logicalpath logical path propertyfilepath property file path propertyfilename property filename includevalues include values
+VARSIG31	inputstream input stream inputstream input stream
+MTHSIG0	addproperties add properties logicalpath logical path propertyfilepath property file path propertyfilename property filename map properties sorted changeexisting change existing
+MTHSIG1	addpropertyifnotexists add property exists logicalpath logical path propertyfilepath property file path propertyfilename property filename key
+PACKAGE	springframework roo addon propfiles
+MTHSIG2	addpropertyifnotexists add property exists logicalpath logical path propertyfilepath property file path propertyfilename property filename key sorted
+VARSIG36	key
+MTHSIG3	changeproperty change property logicalpath logical path propertyfilepath property file path propertyfilename property filename key
+VARSIG35	propertyfilename property filename
+MTHSIG8	ispropertiescommandavailable properties command
+VARSIG30	includevalues include values
+MTHSIG9	loadproperties load properties inputstream input stream inputstream input stream
+CLASSES	propfileoperations prop file operations
+VARSIG29	propertyfilename property filename
+VARSIG28	logicalpath logical path propertyfilepath property file path
+METHODS	addproperties add properties addpropertyifnotexists add property exists addpropertyifnotexists add property exists changeproperty change property changeproperty change property getproperties properties getproperty property getpropertykeys property ispropertiescommandavailable properties command loadproperties load properties loadproperties load properties removeproperty remove property
+VARSIG23	logicalpath logical path propertyfilepath property file path
+VARSIG22	sorted
+VARSIG21	
+VARSIG20	key
+VARSIG27	key
+VARSIG26	propertyfilename property filename
+VARSIG25	logicalpath logical path propertyfilepath property file path
+VARSIG24	propertyfilename property filename
+VARSIG7	key
+VARSIG6	propertyfilename property filename
+VARSIG9	logicalpath logical path propertyfilepath property file path
+VARSIG8	
+VARSIG3	sorted
+VARSIG2	map properties
+VARSIG5	logicalpath logical path propertyfilepath property file path
+VARSIG4	changeexisting change existing
+COMMENTS	link propfileoperationsimpl prop file operations impl adds contents properties map properties file propertyfilepath property file path location property file required propertyfilename property filename property file path required properties map properties add sorted properties sorted alphabetically changeexisting change existing existing key replaced adds property key exist propertyfilepath property file path location property file required propertyfilename property filename property file path required key property key update required property set property key required adds property key exist propertyfilepath property file path location property file required propertyfilename property filename property file path required key property key update required property set property key required sorted properties sorted alphabetically property throwing exception file exist propertyfilepath property file path location property file required propertyfilename property filename property file path required key property key update required property set property key required property throwing exception file exist propertyfilepath property file path location property file required propertyfilename property filename property file path required key property key update required sorted properties sorted alphabetically property set property key required retrieves property key pairs property throwing exception file exist propertyfilepath property file path location property file required propertyfilename property filename property file path required key pairs property file exist retrieves property returning property file exist propertyfilepath property file path location property file required propertyfilename property filename property file path required key property key retrieve required property property file requested property exist retrieves property property throwing exception file exist propertyfilepath property file path location property file required propertyfilename property filename property file path required includevalues include values appends thevalue returned property file exist loads properties stream closing completion inputstream input stream stream read empty link properties stream loads properties classpath resource filename properties file load loadingclass loading file properties illegalargumentexception illegal argument exception file can loaded removes property throwing exception file exist propertyfilepath property file path location property file required propertyfilename property filename property file path required key property key remove required
+VARSIG19	propertyfilename property filename
+VARSIG1	propertyfilename property filename
+VARSIG18	logicalpath logical path propertyfilepath property file path
+VARSIG0	logicalpath logical path propertyfilepath property file path
+VARSIG17	
+VARSIG12	
+VARSIG11	key
+VARSIG10	propertyfilename property filename
+VARSIG16	key
+VARSIG15	propertyfilename property filename
+VARSIG14	logicalpath logical path propertyfilepath property file path
+VARSIG13	sorted
+MTHSIG11	removeproperty remove property logicalpath logical path propertyfilepath property file path propertyfilename property filename key
+MTHSIG10	loadproperties load properties filename loadingclass loading
+VARIABLES	propertyfilepath property file path propertyfilename property filename properties sorted changeexisting change existing propertyfilepath property file path propertyfilename property filename key propertyfilepath property file path propertyfilename property filename key sorted propertyfilepath property file path propertyfilename property filename key propertyfilepath property file path propertyfilename property filename key sorted propertyfilepath property file path propertyfilename property filename propertyfilepath property file path propertyfilename property filename key propertyfilepath property file path propertyfilename property filename includevalues include values inputstream input stream filename loadingclass loading propertyfilepath property file path propertyfilename property filename key

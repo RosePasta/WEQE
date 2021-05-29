@@ -1,0 +1,60 @@
+VARSIG39	filecanoncialpath file canonci path 
+MTHSIG4	scanal scan 
+VARSIG34	antpath ant path 
+MTHSIG5	publish list fileev file event eventstopublish event publish 
+VARSIG33	fileeventlisten file event listen fileeventlisten file event listen 
+MTHSIG6	computeentri comput entri map file map file currentfil current file includesubtre includ subtre 
+VARSIG32	fileeventlisten file event listen fileeventlisten file event listen 
+MTHSIG7	add monitoringrequest monitor request request 
+VARSIG31	file thisfil file 
+MTHSIG0	getmonitor monitor 
+VARSIG38	filecanoncialpath file canonci path 
+MTHSIG1	isdirti dirti 
+VARSIG37	filecanoncialpath file canonci path 
+PACKAGE	springframework roo file monitor poll 
+MTHSIG2	iswithin monitoringrequest monitor request request filepath file path 
+VARSIG36	file priorfil prior file 
+MTHSIG3	scannotifi scan notifi 
+VARSIG35	monitoringrequest monitor request request 
+MTHSIG8	remov monitoringrequest monitor request request 
+VARSIG30	monitoringrequest monitor request request 
+MTHSIG9	addfileeventlisten add file event listen fileeventlisten file event listen fileeventlisten file event listen 
+CLASSES	pollingfilemonitorservic poll file monitor servic 
+VARSIG29	ioexcept except ioe 
+VARSIG28	monitoringrequest monitor request exist 
+METHODS	getmonitor monitor isdirti dirti iswithin scannotifi scan notifi scanal scan publish computeentri comput entri add remov addfileeventlisten add file event listen removefileeventlisten remov file event listen findmatchingantpath find match ant path notifychang notifi chang notifycr notifi creat notifydelet notifi delet 
+VARSIG23	map file map 
+VARSIG22	fileeventlisten file event listen listen 
+VARSIG21	fileev file event event 
+VARSIG20	list fileev file event eventstopublish event publish 
+VARSIG27	monitoringrequest monitor request request 
+VARSIG26	file file 
+VARSIG25	includesubtre includ subtre 
+VARSIG24	file currentfil current file 
+VARSIG7	remov 
+VARSIG6	filepath file path 
+VARSIG9	remov 
+VARSIG8	filepath file path 
+VARSIG3	filepath file path 
+VARSIG2	monitoringrequest monitor request request 
+VARSIG5	monitoringrequest monitor request request 
+VARSIG4	ioexcept except 
+COMMENTS	simpl poll base link filemonitorservic file monitor servic implement iter link monitoringrequest monitor request instanc build activ file time execut compar activ file time execut link monitoringrequest monitor request event fire event fire process complet link monitoringrequest monitor request examin implement recogn link fileoper file oper renam event implement ignor monitor file filenam start period hidden file link fileoper file oper delet event implement link fileev file event getlastmodifi modifi time equal time delet file modifi time repres delet time time delet detect mutex directori directori directori file notifi perform comparison data previou execut handl file updat execut skip notif doesn fall monitor request record remov process skip file doesn exist record notif updat prior execut map isn notifi remov creat list handl file creat execut skip notif doesn fall monitor request record remov process skip file doesn exist record notif updat prior execut map isn notifi handl file delet execut skip notif doesn fall monitor request record remov process skip file suddenli exist shouldn notifi delet record notif updat prior execut map isn notifi build content monitor locat perform comparison data previou execut locat creat modifi file file exist execut file notifi modifi file notifi locat delet file file notifi data previou execut newli monitor locat record monitor locat locat content readi execut discard creat delet notif correctli discov loop explicitli handl undiscov updat notif ident millisecond updat occur publish event need eventstopublish event publish publish empti add entri map kei map file object link file lastmodifi modifi time invok file file file invok file directori file directori invok file directori subdirectori includesubtre includ subtre ensur exist monitor request don overlap request amend exist request ignor request request exist request directori monitor tree request directori exist request ignor request unnecessari exist request directori request remov exist request request incorpor advis cessat monitor 
+VARSIG19	canonicalpath canon path 
+VARSIG1	file priorfil prior file 
+VARSIG18	file thisfil file 
+VARSIG0	monitoringrequest monitor request request 
+VARSIG17	ioexcept except 
+VARSIG12	monitoringrequest monitor request request 
+VARSIG11	remov 
+VARSIG10	filepath file path 
+VARSIG16	file deletedfil delet file 
+VARSIG15	ioexcept except 
+VARSIG14	ioexcept except 
+VARSIG13	file thisfil file 
+MTHSIG13	notifycr notifi creat filecanoncialpath file canonci path 
+MTHSIG14	notifydelet notifi delet filecanoncialpath file canonci path 
+MTHSIG11	findmatchingantpath find match ant path antpath ant path 
+MTHSIG12	notifychang notifi chang filecanoncialpath file canonci path 
+MTHSIG10	removefileeventlisten remov file event listen fileeventlisten file event listen fileeventlisten file event listen 
+VARIABLES	request priorfil prior file request filepath file path request filepath file path remov filepath file path remov filepath file path remov request thisfil file deletedfil delet file thisfil file canonicalpath canon path eventstopublish event publish event listen map currentfil current file includesubtre includ subtre file request exist ioe request thisfil file fileeventlisten file event listen fileeventlisten file event listen antpath ant path request priorfil prior file filecanoncialpath file canonci path filecanoncialpath file canonci path filecanoncialpath file canonci path logger fileeventlisten file event listen request priorexecut prior execut notifychang notifi chang notifycr notifi creat notifydelet notifi delet lock monitor priorfil prior file requestcanonicalpath request canon path dmr eventstopublish event publish priorfil prior file toremov remov thisfil file thisfil file thisfil file includesubtre includ subtre currentexecut current execut eventstopublish event publish priorfil prior file currenttimestamp current timestamp previoustimestamp previou timestamp file file dmr existingdmr exist dmr existingdmrpath exist dmr path newdmrpath dmr path result eventstopublish event publish priorfil prior file result result priorfil prior file 

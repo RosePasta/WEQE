@@ -1,0 +1,14 @@
+VARSIG2	methodparameter parameter callerparameters caller parameters
+COMMENTS	unit test link repositorymongolayerprovider repository mongo layer provider constants fixture sets mock link repositorymongolocator repository mongo locator link persistencememberlocator persistence member locator mock repository test entity invoke check invoke check asserts link repositorymongolayerprovider repository mongo layer provider generates expected call parameters expectedmethodcall expected call methodkey key callerparameters caller parameters set invoke check
+CLASSES	repositorymongolayerprovidertest repository mongo layer provider test
+VARSIG1	methodmetadatacustomdatakey metadata custom data key methodkey key
+VARSIG0	expectedmethodcall expected call
+METHODS	setup set setupmockrepository set mock repository testgetadditionsfornonrepositorylayermethod test additions repository layer testgetadditionswhennorepositoriesexist test additions repositories exist assertmethodcall call testgetfindalladditions test find additions
+MTHSIG4	assertmethodcall call expectedmethodcall expected call methodmetadatacustomdatakey metadata custom data key methodkey key methodparameter parameter callerparameters caller parameters
+MTHSIG5	testgetfindalladditions test find additions
+MTHSIG0	setup set
+MTHSIG1	setupmockrepository set mock repository
+PACKAGE	springframework roo addon layers repository mongo
+MTHSIG2	testgetadditionsfornonrepositorylayermethod test additions repository layer
+MTHSIG3	testgetadditionswhennorepositoriesexist test additions repositories exist
+VARIABLES	expectedmethodcall expected call methodkey key callerparameters caller parameters caller mid layerprovider layer provider mocktargetentity mock target entity mockidtype mock type mockrepositorylocator mock repository locator mockrepositorydetails mock repository details mockfieldmetadata mock field metadata mockrepositorytype mock repository type additions additions additions

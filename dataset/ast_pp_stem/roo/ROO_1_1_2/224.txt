@@ -1,0 +1,49 @@
+MTHSIG4	addproperti add properti path propertyfilepath properti file path propertyfilenam properti filenam map properti sort changeexist chang exist 
+MTHSIG5	addpropertyifnotexist add properti exist path propertyfilepath properti file path propertyfilenam properti filenam kei sort 
+VARSIG33	propertyfilenam properti filenam 
+MTHSIG6	removeproperti remov properti path propertyfilepath properti file path propertyfilenam properti filenam kei 
+VARSIG32	path propertyfilepath properti file path 
+MTHSIG7	getproperti properti path propertyfilepath properti file path propertyfilenam properti filenam kei 
+VARSIG31	includevalu includ valu 
+MTHSIG0	ispropertiescommandavail properti command 
+MTHSIG1	changeproperti chang properti path propertyfilepath properti file path propertyfilenam properti filenam kei sort 
+PACKAGE	springframework roo addon propfil 
+MTHSIG2	changeproperti chang properti path propertyfilepath properti file path propertyfilenam properti filenam kei 
+MTHSIG3	addpropertyifnotexist add properti exist path propertyfilepath properti file path propertyfilenam properti filenam kei 
+MTHSIG8	getpropertykei properti path propertyfilepath properti file path propertyfilenam properti filenam includevalu includ valu 
+VARSIG30	propertyfilenam properti filenam 
+MTHSIG9	getproperti properti path propertyfilepath properti file path propertyfilenam properti filenam 
+CLASSES	propfileoper prop file oper 
+VARSIG29	path propertyfilepath properti file path 
+VARSIG28	kei 
+METHODS	ispropertiescommandavail properti command changeproperti chang properti changeproperti chang properti addpropertyifnotexist add properti exist addproperti add properti addpropertyifnotexist add properti exist removeproperti remov properti getproperti properti getpropertykei properti getproperti properti 
+VARSIG23	path propertyfilepath properti file path 
+VARSIG22	sort 
+VARSIG21	 
+VARSIG20	kei 
+VARSIG27	propertyfilenam properti filenam 
+VARSIG26	path propertyfilepath properti file path 
+VARSIG25	kei 
+VARSIG24	propertyfilenam properti filenam 
+VARSIG7	kei 
+VARSIG6	propertyfilenam properti filenam 
+VARSIG9	path propertyfilepath properti file path 
+VARSIG8	 
+VARSIG3	 
+VARSIG2	kei 
+VARSIG5	path propertyfilepath properti file path 
+VARSIG4	sort 
+COMMENTS	link propfileoperationsimpl prop file oper impl properti throw except file exist propertyfilepath properti file path locat properti file requir propertyfilenam properti filenam properti file path requir kei properti kei updat requir sort properti sort alphabet properti set properti kei requir properti throw except file exist propertyfilepath properti file path locat properti file requir propertyfilenam properti filenam properti file path requir kei properti kei updat requir properti set properti kei requir add properti kei exist propertyfilepath properti file path locat properti file requir propertyfilenam properti filenam properti file path requir kei properti kei updat requir properti set properti kei requir add content properti map properti file propertyfilepath properti file path locat properti file requir propertyfilenam properti filenam properti file path requir properti map properti add sort properti sort alphabet changeexist chang exist exist kei replac add properti kei exist propertyfilepath properti file path locat properti file requir propertyfilenam properti filenam properti file path requir kei properti kei updat requir properti set properti kei requir sort properti sort alphabet remov properti throw except file exist propertyfilepath properti file path locat properti file requir propertyfilenam properti filenam properti file path requir kei properti kei remov requir retriev properti return properti file exist propertyfilepath properti file path locat properti file requir propertyfilenam properti filenam properti file path requir kei properti kei retriev requir properti properti file request properti exist retriev properti properti throw except file exist propertyfilepath properti file path locat properti file requir propertyfilenam properti filenam properti file path requir includevalu includ valu append thevalu return properti file exist retriev properti kei pair properti throw except file exist propertyfilepath properti file path locat properti file requir propertyfilenam properti filenam properti file path requir kei pair properti file exist 
+VARSIG19	propertyfilenam properti filenam 
+VARSIG1	propertyfilenam properti filenam 
+VARSIG18	path propertyfilepath properti file path 
+VARSIG0	path propertyfilepath properti file path 
+VARSIG17	changeexist chang exist 
+VARSIG12	 
+VARSIG11	kei 
+VARSIG10	propertyfilenam properti filenam 
+VARSIG16	sort 
+VARSIG15	map properti 
+VARSIG14	propertyfilenam properti filenam 
+VARSIG13	path propertyfilepath properti file path 
+VARIABLES	propertyfilepath properti file path propertyfilenam properti filenam kei sort propertyfilepath properti file path propertyfilenam properti filenam kei propertyfilepath properti file path propertyfilenam properti filenam kei propertyfilepath properti file path propertyfilenam properti filenam properti sort changeexist chang exist propertyfilepath properti file path propertyfilenam properti filenam kei sort propertyfilepath properti file path propertyfilenam properti filenam kei propertyfilepath properti file path propertyfilenam properti filenam kei propertyfilepath properti file path propertyfilenam properti filenam includevalu includ valu propertyfilepath properti file path propertyfilenam properti filenam 

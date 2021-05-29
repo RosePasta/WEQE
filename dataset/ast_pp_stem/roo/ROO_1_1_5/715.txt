@@ -1,0 +1,13 @@
+COMMENTS	unit test link simplepars simpl parser fixtur assert normalis input produc output input can output 
+CLASSES	simpleparsertest simpl parser test 
+VARSIG1	output 
+VARSIG0	input 
+METHODS	setup set testnormaliseemptystr test normalis empti testnormalisespac test normalis space testnormalisesingleword test normalis singl word testnormalisemultipleword test normalis multipl assertnormalis normalis 
+MTHSIG4	testnormalisemultipleword test normalis multipl 
+MTHSIG5	assertnormalis normalis input output 
+MTHSIG0	setup set 
+MTHSIG1	testnormaliseemptystr test normalis empti 
+PACKAGE	springframework roo shell 
+MTHSIG2	testnormalisespac test normalis space 
+MTHSIG3	testnormalisesingleword test normalis singl word 
+VARIABLES	input output simplepars simpl parser 

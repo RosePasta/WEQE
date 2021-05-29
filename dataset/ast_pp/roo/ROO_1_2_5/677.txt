@@ -1,0 +1,19 @@
+VARSIG2	indentbefore indent
+COMMENTS	simple producing bodies link invocablemembermetadata invocable member metadata getbody body bodies assume indented levels constructor empty body prints message indentation prints message adding indents returns commonly prints relevant number indents increases indent level decreases indent level prints blank ensuring indent included consistency javaparser javaparser dumpvisitor dump visitor resets indent
+CLASSES	invocablememberbodybuilder invocable member body builder
+VARSIG1	message
+VARSIG0	message
+METHODS	getinstance instance invocablememberbodybuilder invocable member body builder append appendformalline append formal appendindent append indent getoutput output indent indentremove indent remove newline newline reset
+MTHSIG4	appendindent append indent
+MTHSIG5	getoutput output
+MTHSIG6	indent
+MTHSIG7	indentremove indent remove
+MTHSIG0	getinstance instance
+MTHSIG1	invocablememberbodybuilder invocable member body builder
+PACKAGE	springframework roo classpath
+MTHSIG2	append message
+MTHSIG3	appendformalline append formal message
+MTHSIG10	reset
+VARIABLES	message message indentbefore indent indentlevel indent level reset stringbuilder builder
+MTHSIG8	newline
+MTHSIG9	newline indentbefore indent

@@ -1,0 +1,29 @@
+VARSIG7	logicalpath logic path path 
+VARSIG6	foldernam folder 
+VARSIG9	element bodi 
+VARSIG8	tilesdefinitionfil tile definit file 
+VARSIG3	tilestemplatenam tile templat 
+VARSIG2	tilesviewnam tile view 
+VARSIG5	 
+VARSIG4	viewloc view locat 
+COMMENTS	oper manag tile view definit field definit exist find menu item categori exist viewsdefinitionfil view definit file canon path file updat bodi element parent document written build represent tile config file mutablefil mutabl file write content jspcontent jsp content file verifi file chang write file file exist file content wrote file file exist contain content return root element tile configur file viewsdefinitionfil view definit file canon path file load root xml document file exist return canon path view xml tile configur file folder foldernam folder blank view file lead slash path path behaviour 
+VARSIG1	logicalpath logic path path 
+VARSIG18	systemid system 
+VARSIG0	foldernam folder 
+VARSIG17	publicid 
+MTHSIG4	gettilesconfigfil tile config file foldernam folder logicalpath logic path path 
+VARSIG12	viewsdefinitionfil view definit file 
+VARSIG11	ioexcept except ioe 
+VARSIG10	ioexcept except 
+MTHSIG0	addviewdefinit add view definit foldernam folder logicalpath logic path path tilesviewnam tile view tilestemplatenam tile templat viewloc view locat 
+VARSIG16	logicalpath logic path path 
+MTHSIG1	removeviewdefinit remov view definit foldernam folder logicalpath logic path path 
+VARSIG15	foldernam folder 
+PACKAGE	springframework roo addon web mvc jsp tile 
+MTHSIG2	writetodiskifnecessari write disk tilesdefinitionfil tile definit file element bodi 
+VARSIG14	ioexcept except ioe 
+MTHSIG3	getviewsel view element viewsdefinitionfil view definit file 
+VARSIG13	saxexcept sax except 
+CLASSES	tilesoperationsimpl tile oper impl 
+METHODS	addviewdefinit add view definit removeviewdefinit remov view definit writetodiskifnecessari write disk getviewsel view element gettilesconfigfil tile config file 
+VARIABLES	foldernam folder path tilesviewnam tile view tilestemplatenam tile templat viewloc view locat foldernam folder path tilesdefinitionfil tile definit file bodi ioe viewsdefinitionfil view definit file ioe foldernam folder path publicid systemid system filemanag file manag pathresolv path resolv viewsdefinitionfil view definit file unprefixedviewnam unprefix view root existingdefinit exist definit newdefinit definit putattribut attribut viewsdefinitionfil view definit file root element bytearrayoutputstream arrai output stream transform viewcont view content mutablefil mutabl file exist tilesview tile view builder subpath path 

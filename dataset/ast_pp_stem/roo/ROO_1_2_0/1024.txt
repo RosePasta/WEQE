@@ -1,0 +1,91 @@
+MTHSIG28	nullsafetostr safe arrai 
+MTHSIG29	nullsafetostr safe arrai 
+MTHSIG26	nullsafetostr safe object arrai 
+MTHSIG27	nullsafetostr safe arrai 
+MTHSIG24	nullsafeclassnam safe object obj 
+MTHSIG25	nullsafetostr safe object obj 
+MTHSIG22	getidentityhexstr ident hex object obj 
+MTHSIG23	getdisplaystr displai object obj 
+VARSIG39	arrai 
+MTHSIG4	addobjecttoarrai add object arrai object arrai object obj 
+VARSIG34	arrai 
+MTHSIG5	toobjectarrai object arrai object sourc 
+VARSIG33	arrai 
+MTHSIG6	nullsafeequ safe equal object object 
+VARSIG32	object arrai 
+MTHSIG7	nullsafehashcod safe hash code object obj 
+VARSIG31	object obj 
+MTHSIG0	ischeckedexcept check except throwabl 
+VARSIG38	arrai 
+MTHSIG1	iscompatiblewiththrowsclaus compat claus throwabl declaredexcept declar except 
+VARSIG37	arrai 
+PACKAGE	springframework roo support util 
+MTHSIG2	isempti empti object arrai 
+VARSIG36	arrai 
+MTHSIG3	containsel element object arrai object element 
+VARSIG35	arrai 
+MTHSIG20	hashcod hash code lng 
+MTHSIG21	identitytostr ident object obj 
+MTHSIG8	nullsafehashcod safe hash code object arrai 
+VARSIG30	object obj 
+MTHSIG9	nullsafehashcod safe hash code arrai 
+MTHSIG37	defaultifnul object defaultvalu 
+MTHSIG38	objectutil object util 
+MTHSIG35	nullsafecomparison safe comparison compar 
+MTHSIG36	tostr object object defaultvalu 
+MTHSIG33	nullsafetostr safe arrai 
+MTHSIG34	nullsafetostr safe arrai 
+CLASSES	objectutil object util 
+VARSIG29	object obj 
+VARSIG28	object obj 
+METHODS	ischeckedexcept check except iscompatiblewiththrowsclaus compat claus isempti empti containsel element addobjecttoarrai add object arrai toobjectarrai object arrai nullsafeequ safe equal nullsafehashcod safe hash code nullsafehashcod safe hash code nullsafehashcod safe hash code nullsafehashcod safe hash code nullsafehashcod safe hash code nullsafehashcod safe hash code nullsafehashcod safe hash code nullsafehashcod safe hash code nullsafehashcod safe hash code nullsafehashcod safe hash code hashcod hash code hashcod hash code hashcod hash code hashcod hash code identitytostr ident getidentityhexstr ident hex getdisplaystr displai nullsafeclassnam safe nullsafetostr safe nullsafetostr safe nullsafetostr safe nullsafetostr safe nullsafetostr safe nullsafetostr safe nullsafetostr safe nullsafetostr safe nullsafetostr safe nullsafetostr safe nullsafecomparison safe comparison tostr defaultifnul objectutil object util 
+VARSIG23	bool 
+VARSIG22	arrai 
+VARSIG21	arrai 
+VARSIG20	arrai 
+VARSIG27	object obj 
+VARSIG26	lng 
+VARSIG25	flt 
+VARSIG24	dbl 
+MTHSIG31	nullsafetostr safe arrai 
+MTHSIG32	nullsafetostr safe arrai 
+MTHSIG30	nullsafetostr safe arrai 
+VARSIG7	object arrai 
+VARSIG6	object arrayel arrai el 
+VARSIG9	object sourc 
+VARSIG8	object obj 
+VARSIG3	object arrai 
+VARSIG2	declaredexcept declar except 
+VARSIG5	object element 
+VARSIG4	object arrai 
+COMMENTS	miscellan object util method intern framework jakarta jakarta common lang comprehens suit object util common lang objectutil object util constant throwabl check except runtimeexcept runtim except error throwabl check throwabl check except lang except lang runtimeexcept runtim except lang error check except compat except declar claus except check declaredexcept declar except except declar claus except compat arrai empti length arrai arrai check arrai empti check arrai element arrai arrai check element element check element arrai append object arrai return arrai consist input arrai content object arrai arrai append obj object append arrai compon type convert arrai primit arrai object arrai primit wrapper object sourc convert empti object arrai sourc primit arrai object arrai illegalargumentexcept illeg argument except paramet arrai conveni method content base equal hash code handl determin object equal return compar arrai arrai equal perform equal check base arrai element arrai refer object compar object compar object equal util arrai equal hash code object typic link object hashcod hash code object arrai deleg nullsafehashcod safe hash code method arrai object return nullsafehashcod safe hash code object nullsafehashcod safe hash code nullsafehashcod safe hash code nullsafehashcod safe hash code nullsafehashcod safe hash code nullsafehashcod safe hash code nullsafehashcod safe hash code nullsafehashcod safe hash code nullsafehashcod safe hash code hash code base content arrai arrai arrai element calcul hash code arrai hash code base content arrai arrai arrai hash code base content arrai arrai arrai hash code base content arrai arrai arrai hash code base content arrai arrai arrai hash code base content arrai arrai arrai hash code base content arrai arrai arrai hash code base content arrai arrai arrai hash code base content arrai arrai arrai return hash code bool hash code link hashcod hash code link hashcod hash code hashcod hash code link hashcod hash code hashcod hash code link hashcod hash code hashcod hash code conveni method tostr output represent object object ident obj object object object ident represent empti object hex form object object ident hash code obj object object object ident code hex notat content base represent obj return empti differ link nullsafetostr safe object return empti obj object build displai displai represent obj nullsafetostr safe object determin object return obj obj object introspect represent object build represent content arrai return obj obj object build represent represent obj represent content arrai represent consist list arrai arrai element enclos curli brace adjac element separ charact comma space return arrai arrai arrai build represent represent arrai represent content arrai represent consist list arrai arrai element enclos curli brace adjac element separ charact comma space return arrai arrai arrai build represent represent arrai represent content arrai represent consist list arrai arrai element enclos curli brace adjac element separ charact comma space return arrai arrai arrai build represent represent arrai represent content arrai represent consist list arrai arrai element enclos curli brace adjac element separ charact comma space return arrai arrai arrai build represent represent arrai represent content arrai represent consist list arrai arrai element enclos curli brace adjac element separ charact comma space return arrai arrai arrai build represent represent arrai represent content arrai represent consist list arrai arrai element enclos curli brace adjac element separ charact comma space return arrai arrai arrai build represent represent arrai represent content arrai represent consist list arrai arrai element enclos curli brace adjac element separ charact comma space return arrai arrai arrai build represent represent arrai represent content arrai represent consist list arrai arrai element enclos curli brace adjac element separ charact comma space return arrai arrai arrai build represent represent arrai represent content arrai represent consist list arrai arrai element enclos curli brace adjac element separ charact comma space return arrai arrai arrai build represent represent arrai compar object equival instanc instanc compar on link compar compareto compar object type object compar object compar object compar link compar compareto compar object object return represent object object object repres defaultvalu object blank return object type object default object object check defaultvalu iff valu constructor prevent instanti 
+VARSIG19	arrai 
+VARSIG1	throwabl 
+VARSIG18	arrai 
+VARSIG0	throwabl 
+VARSIG17	arrai 
+VARSIG12	object obj 
+VARSIG11	object 
+VARSIG10	object 
+VARSIG16	arrai 
+VARSIG15	arrai 
+VARSIG14	object element 
+VARSIG13	object arrai 
+MTHSIG17	hashcod hash code bool 
+MTHSIG18	hashcod hash code dbl 
+MTHSIG15	nullsafehashcod safe hash code arrai 
+MTHSIG16	nullsafehashcod safe hash code arrai 
+MTHSIG13	nullsafehashcod safe hash code arrai 
+MTHSIG14	nullsafehashcod safe hash code arrai 
+MTHSIG11	nullsafehashcod safe hash code arrai 
+MTHSIG12	nullsafehashcod safe hash code arrai 
+MTHSIG19	hashcod hash code flt 
+VARSIG45	object 
+VARSIG44	defaultvalu 
+VARSIG43	object object 
+VARSIG42	 
+VARSIG46	defaultvalu 
+MTHSIG10	nullsafehashcod safe hash code arrai 
+VARIABLES	declaredexcept declar except arrai arrai element arrayel arrai el arrai obj sourc obj arrai element arrai arrai arrai arrai arrai arrai arrai arrai bool dbl flt lng obj obj obj obj obj arrai arrai arrai arrai arrai arrai arrai arrai arrai object defaultvalu object defaultvalu initi hash multipli empti arrai start arrai empti arrai arrai element separ comptyp comp type newarrlength arr length newarr arr length wrappertyp wrapper type newarrai arrai hash hash arrays arrai size hash arrays arrai size hash arrays arrai size hash arrays arrai size hash arrays arrai size hash arrays arrai size hash arrays arrai size hash arrays arrai size bit str length length length length length length length length length 
+VARSIG41	compar 
+VARSIG40	arrai 

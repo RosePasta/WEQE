@@ -1,0 +1,15 @@
+VARSIG3	file file 
+VARSIG2	collect fileoper file oper notifyon notifi 
+VARSIG5	fileoper file oper notifyon notifi 
+VARSIG4	watchsubtre watch subtre 
+COMMENTS	request monitor directori constructor accept collect oper directori directori monitor exist directori watchsubtre watch subtre monitor directori directori notifyon notifi oper notifi can empti constructor accept arrai oper directori directori monitor exist directori watchsubtre watch subtre monitor directori directori notifyon notifi oper notifi can empti file folder directori monitor unlimit depth 
+CLASSES	directorymonitoringrequest directori monitor request 
+VARSIG1	watchsubtre watch subtre 
+VARSIG0	file directori 
+METHODS	directorymonitoringrequest directori monitor request directorymonitoringrequest directori monitor request iswatchsubtre watch subtre tostr 
+MTHSIG0	directorymonitoringrequest directori monitor request file directori watchsubtre watch subtre collect fileoper file oper notifyon notifi 
+MTHSIG1	directorymonitoringrequest directori monitor request file file watchsubtre watch subtre fileoper file oper notifyon notifi 
+PACKAGE	springframework roo file monitor 
+MTHSIG2	iswatchsubtre watch subtre 
+MTHSIG3	tostr 
+VARIABLES	directori watchsubtre watch subtre notifyon notifi file watchsubtre watch subtre notifyon notifi watchsubtre watch subtre builder 

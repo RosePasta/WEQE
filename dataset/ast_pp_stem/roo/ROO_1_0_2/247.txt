@@ -1,0 +1,14 @@
+VARSIG3	ioexcept except ioe 
+VARSIG2	ioexcept except ioe 
+COMMENTS	implement link mutablefil mutabl file permit check file chang instanc construct check file chang instanc construct 
+CLASSES	defaultmutablefil mutabl file 
+VARSIG1	notifiablefilemonitorservic notifi file monitor servic filemonitorservic file monitor servic 
+VARSIG0	file file 
+METHODS	defaultmutablefil mutabl file getcanonicalpath canon path getinputstream input stream getoutputstream output stream tostr 
+MTHSIG4	tostr 
+MTHSIG0	defaultmutablefil mutabl file file file notifiablefilemonitorservic notifi file monitor servic filemonitorservic file monitor servic 
+MTHSIG1	getcanonicalpath canon path 
+PACKAGE	springframework roo process manag intern 
+MTHSIG2	getinputstream input stream 
+MTHSIG3	getoutputstream output stream 
+VARIABLES	file filemonitorservic file monitor servic ioe ioe file filemonitorservic file monitor servic tsc 

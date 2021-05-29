@@ -1,0 +1,69 @@
+VARSIG39	reservedtoken reserved token keyword key word
+MTHSIG4	getparametertypes parameter types list token tokens javasymbolname symbol findername finder plural
+VARSIG34	reservedtoken reserved token reservedtoken reserved token
+MTHSIG5	getlocatedmutators located mutators memberdetails member details memberdetails member details
+VARSIG33	fieldtoken field token fieldtoken field token
+MTHSIG6	ismethodofinterest interest methodmetadata metadata
+VARSIG32	simpletypename simple type
+MTHSIG7	tokenize memberdetails member details memberdetails member details javasymbolname symbol findername finder plural
+VARSIG31	originalfinder original finder
+MTHSIG0	getfinders finders memberdetails member details memberdetails member details plural depth set javasymbolname symbol exclusions
+VARSIG38	isfirst
+MTHSIG1	getqueryholder query holder memberdetails member details memberdetails member details javasymbolname symbol findername finder plural
+VARSIG37	prepend
+PACKAGE	springframework roo addon finder
+MTHSIG2	getjpaquery jpa query list token tokens simpletypename simple type javasymbolname symbol findername finder plural
+VARSIG36	set javasymbolname symbol finders
+MTHSIG3	getparameternames parameter names list token tokens javasymbolname symbol findername finder plural
+VARSIG35	fieldmetadata field metadata field
+MTHSIG8	getfirsttoken token sortedset sorted set fieldtoken field token fieldtokens field tokens finder originalfinder original finder simpletypename simple type
+VARSIG30	finder
+MTHSIG9	createfinders create finders fieldmetadata field metadata field set javasymbolname symbol finders prepend isfirst
+CLASSES	dynamicfinderservicesimpl dynamic finder services impl
+VARSIG29	sortedset sorted set fieldtoken field token fieldtokens field tokens
+VARSIG28	methodmetadata metadata methodmetadata metadata
+METHODS	getfinders finders getqueryholder query holder getjpaquery jpa query getparameternames parameter names getparametertypes parameter types getlocatedmutators located mutators ismethodofinterest interest tokenize getfirsttoken token createfinders create finders populatefinders populate finders isnumberordate number getconcretejavatype concrete type
+VARSIG23	methodmetadata metadata methodmetadata metadata
+VARSIG22	memberdetails member details memberdetails member details
+VARSIG21	plural
+VARSIG20	javasymbolname symbol findername finder
+VARSIG27	plural
+VARSIG26	javasymbolname symbol findername finder
+VARSIG25	memberdetails member details memberdetails member details
+VARSIG24	methodmetadata metadata
+VARSIG7	javasymbolname symbol findername finder
+VARSIG6	memberdetails member details memberdetails member details
+VARSIG9	finderfieldtokenmissingexception finder field token missing exception
+VARSIG8	plural
+VARSIG3	set javasymbolname symbol exclusions
+VARSIG2	depth
+VARSIG5	fieldmetadata field metadata field
+VARSIG4	memberholdingtypedetails member holding type details typedetails type details
+COMMENTS	implementation link dynamicfinderservices dynamic finder services ignoring util map field types roo remove field token replace min max starts findby find remove finder findby find sequence wrong finder pasted finder accidentally find field matching parameter mutator add finder todo finderfieldtokenmissingexception finder field token missing exception easier detect finder start reserved field token returns link javatype type link memberdetails member details object type link memberholdingtypedetails member holding type details searched memberdetails member details link memberdetails member details search required javatype type
+VARSIG19	list token tokens
+VARSIG1	plural
+VARSIG18	plural
+VARSIG0	memberdetails member details memberdetails member details
+VARSIG17	javasymbolname symbol findername finder
+VARSIG12	simpletypename simple type
+VARSIG11	list token tokens
+VARSIG10	invalidfinderexception invalid finder exception ife
+VARSIG16	list token tokens
+VARSIG15	token token
+VARSIG14	plural
+VARSIG13	javasymbolname symbol findername finder
+VARSIG50	memberholdingtypedetails member holding type details memberholdingtypedetails member holding type details
+MTHSIG11	isnumberordate number fullyqualifiedtypename fully qualified type
+MTHSIG12	getconcretejavatype concrete type memberdetails member details memberdetails member details
+VARSIG45	isfirst
+VARSIG44	prepend
+VARSIG43	fieldmetadata field metadata field
+VARSIG42	set javasymbolname symbol finders
+VARSIG49	memberdetails member details memberdetails member details
+VARSIG48	fullyqualifiedtypename fully qualified type
+VARSIG47	javasymbolname symbol finder
+VARSIG46	keyword key word
+MTHSIG10	populatefinders populate finders set javasymbolname symbol finders fieldmetadata field metadata field prepend isfirst keyword key word
+VARIABLES	memberdetails member details plural depth exclusions typedetails type details field memberdetails member details findername finder plural ife tokens simpletypename simple type findername finder plural token tokens findername finder plural tokens findername finder plural memberdetails member details methodmetadata metadata memberdetails member details findername finder plural methodmetadata metadata fieldtokens field tokens finder originalfinder original finder simpletypename simple type fieldtoken field token reservedtoken reserved token field finders prepend isfirst keyword key word keyword key word keyword key word finders field prepend isfirst keyword key word finder fullyqualifiedtypename fully qualified type memberdetails member details memberholdingtypedetails member holding type details finders tempfinders temp finders tokens simpletypename simple type jpaquery jpa query parametertypes parameter types parameternames parameter names builder lastfieldtoken field token isnewfield field isfieldapplied field applied reservedtoken reserved token fieldname field setfield set field parameternames parameter names token fieldname field field fieldname field field parametertypes parameter types token field field locatedmutators located mutators simpletypename simple type finder findby find fieldtokens field tokens fieldmetadata field metadata tokens token tempfinders temp finders tempfinders temp finders javatype type
+VARSIG41	reservedtoken reserved token keyword key word
+VARSIG40	reservedtoken reserved token keyword key word

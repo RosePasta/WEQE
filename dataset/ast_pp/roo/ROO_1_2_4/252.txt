@@ -1,0 +1,23 @@
+VARSIG7	clioption cli option key async mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue injected executed asynchronously async
+VARSIG6	clioption cli option key mandatory unspecifieddefaultvalue unspecified optioncontext option context update project receive field javatype type typename type
+VARSIG9	clioption cli option key destinationname destination mandatory unspecifieddefaultvalue unspecified mydestination destination specifieddefaultvalue mydestination destination destination
+VARSIG8	clioption cli option key provider mandatory persistence provider support jmsprovider jms provider jmsprovider jms provider
+VARSIG3	clioption cli option key destinationtype destination type mandatory unspecifieddefaultvalue unspecified queue specifieddefaultvalue queue type destination jmsdestinationtype jms destination type type
+VARSIG2	clioption cli option key destinationname destination mandatory unspecifieddefaultvalue unspecified mydestination destination specifieddefaultvalue mydestination destination destination
+VARSIG5	clioption cli option key fieldname field mandatory specifieddefaultvalue jmsoperations jms operations unspecifieddefaultvalue unspecified jmsoperations jms operations field add javasymbolname symbol fieldname field
+VARSIG4	componentcontext component context context
+COMMENTS	commands install jms add roo shell
+CLASSES	jmscommands jms commands
+VARSIG1	clioption cli option key mandatory create javatype type typename type
+VARSIG0	componentcontext component context context
+METHODS	activate addjmslistener add jms listener deactivate injectjmsproducer inject jms producer installjms install jms isinsertjmsavailable insert jms isinstalljmsavailable install jms
+MTHSIG4	installjms install jms jmsprovider jms provider jmsprovider jms provider jmsdestinationtype jms destination type type
+MTHSIG5	isinsertjmsavailable insert jms
+MTHSIG6	isinstalljmsavailable install jms
+VARSIG10	clioption cli option key destinationtype destination type mandatory unspecifieddefaultvalue unspecified queue specifieddefaultvalue queue type destination jmsdestinationtype jms destination type type
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	addjmslistener add jms listener javatype type typename type jmsdestinationtype jms destination type type
+PACKAGE	springframework roo addon jms
+MTHSIG2	deactivate componentcontext component context context
+MTHSIG3	injectjmsproducer inject jms producer javasymbolname symbol fieldname field javatype type typename type async
+VARIABLES	context typename type type context fieldname field typename type async jmsprovider jms provider type jmsoperations jms operations staticfieldconverter field converter

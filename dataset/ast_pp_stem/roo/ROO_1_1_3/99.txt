@@ -1,0 +1,47 @@
+VARSIG7	revstr 
+VARSIG6	messag 
+VARSIG9	missingobjectexcept miss object except 
+VARSIG8	messag 
+VARSIG3	revcommit rev commit commit 
+VARSIG2	maxhistori max histori 
+VARSIG5	noofcommitstorevert commit revert 
+VARSIG4	except 
+COMMENTS	oper git addon transport transport transport open repositori repositori getconfig config getstr remot origin url jgit transport pushresult push result transport push creat tmp branch commit rev renam master branch backup renam tmp branch master master commit updat head 
+VARSIG19	ioexcept except 
+VARSIG1	except 
+VARSIG18	ioexcept except 
+VARSIG0	messag 
+VARSIG17	except 
+MTHSIG4	log maxhistori max histori 
+VARSIG12	except 
+MTHSIG5	revertcommit revert commit noofcommitstorevert commit revert messag 
+VARSIG11	except ignor 
+MTHSIG6	revertcommit revert commit revstr messag 
+VARSIG10	incorrectobjecttypeexcept incorrect object type except 
+MTHSIG7	setconfig set config categori kei 
+MTHSIG0	isgitcommandavail git command 
+VARSIG16	ioexcept except 
+MTHSIG1	issetupcommandavail setup command 
+VARSIG15	 
+PACKAGE	springframework roo addon git 
+MTHSIG2	commitallchang commit messag 
+VARSIG14	kei 
+MTHSIG3	push 
+VARSIG13	categori 
+MTHSIG8	setup 
+MTHSIG9	getexclus exclus 
+MTHSIG13	checkoutbranch checkout branch repositori repositori branchnam branch 
+MTHSIG14	loadgitignor load git ignor 
+MTHSIG11	hasdotgit dot git 
+MTHSIG12	createbranch creat branch repositori repositori objectid object objectid object branchnam branch 
+CLASSES	gitoperationsimpl git oper impl 
+METHODS	isgitcommandavail git command issetupcommandavail setup command commitallchang commit push log revertcommit revert commit revertcommit revert commit setconfig set config setup getexclus exclus getrepositori repositori hasdotgit dot git createbranch creat branch checkoutbranch checkout branch loadgitignor load git ignor 
+VARSIG23	repositori repositori 
+VARSIG22	branchnam branch 
+VARSIG21	objectid object objectid object 
+VARSIG20	repositori repositori 
+VARSIG26	ioexcept except 
+VARSIG25	except 
+VARSIG24	branchnam branch 
+MTHSIG10	getrepositori repositori 
+VARIABLES	messag maxhistori max histori commit noofcommitstorevert commit revert messag revstr messag ignor categori kei repositori objectid object branchnam branch repositori branchnam branch logger filemanag file manag pathresolv path resolv person exclus repositori git rev repositori git counter repositori walk commit renamemast renam master renametmp renam tmp repositori repositori gitignor git ignor updateref updat walk head branch dco success refupd updat gitignor git ignor reader 

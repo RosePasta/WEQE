@@ -1,0 +1,83 @@
+VARSIG39	linesperresult lines result
+MTHSIG4	installaddon install add addonbundlesymbolicname add bundle symbolic bsn
+VARSIG34	onlyrelevantbundles relevant bundles
+MTHSIG5	installaddon install add bundlekey bundle key
+VARSIG33	requirescommand requires command
+MTHSIG6	installaddon install addon bundleversion bundle version bundleversion bundle version bsn
+VARSIG32	compatibleonly compatible
+MTHSIG7	removeaddon remove add bundlesymbolicname bundle symbolic bsn
+VARSIG31	trustedonly trusted
+MTHSIG0	activate componentcontext component context context
+VARSIG38	maxresults max
+MTHSIG1	addoninfo add info addonbundlesymbolicname add bundle symbolic bsn
+VARSIG37	linkedlist linked list bundle bundles
+PACKAGE	springframework roo addon roobot client
+MTHSIG2	addoninfo add info bundlekey bundle key
+VARSIG36	cmd
+MTHSIG3	addoninfo add info bundle bundle bundleversion bundle version bundleversion bundle version
+VARSIG35	bundle bundle
+MTHSIG8	searchaddons search add ons showfeedback feedback searchterms search terms refresh linesperresult lines result maxresults max trustedonly trusted compatibleonly compatible requirescommand requires command
+VARSIG30	list bundle bundles
+MTHSIG9	listaddons list add ons refresh linesperresult lines result maxresults max trustedonly trusted compatibleonly compatible requirescommand requires command
+CLASSES	addonroobotoperationsimpl add roo bot operations impl
+VARSIG29	requirescommand requires command
+VARSIG28	compatibleonly compatible
+METHODS	activate addoninfo add info addoninfo add info addoninfo add info installaddon install add installaddon install add installaddon install addon removeaddon remove add searchaddons search add ons listaddons list add ons filterlist filter list printresultlist print result list istrustedkey trusted key getaddoncache add cache populatebundlecache populate bundle cache countbundles count bundles loginfo log info iscompatible compatible getversionforcompatibility version compatibility verifyrepository verify repository
+VARSIG23	term
+VARSIG22	bundle bundle
+VARSIG21	requirescommand requires command
+VARSIG20	compatibleonly compatible
+VARSIG27	trustedonly trusted
+VARSIG26	maxresults max
+VARSIG25	linesperresult lines result
+VARSIG24	refresh
+VARSIG7	command
+VARSIG6	bundleversion bundle version version
+VARSIG9	addonbundlesymbolicname add bundle symbolic bsn
+VARSIG8	comment comment
+VARSIG3	bundlekey bundle key
+VARSIG2	addonbundlesymbolicname add bundle symbolic bsn
+VARSIG5	bundleversion bundle version bundleversion bundle version
+VARSIG4	bundle bundle
+COMMENTS	implementation commands roo shell pgp verification required bundle installed log needed refresh set relevance bundles problem add refresh handle http wasn eager startup time attempt let display error reason startup time fail quietly appears acquire url let fallback normal protocol handler local development testing interested major minor security reasons accept httppgp add versions
+VARSIG19	trustedonly trusted
+VARSIG1	ioexception exception
+VARSIG18	maxresults max
+VARSIG0	componentcontext component context context
+VARSIG17	linesperresult lines result
+VARSIG12	bsn
+VARSIG56	element resource
+VARSIG11	bundleversion bundle version bundleversion bundle version
+VARSIG55	repourl repo url
+VARSIG10	bundlekey bundle key
+VARSIG54	version
+VARSIG53	content
+VARSIG16	refresh
+VARSIG15	searchterms search terms
+VARSIG14	showfeedback feedback
+VARSIG13	bundlesymbolicname bundle symbolic bsn
+VARSIG57	exception
+VARSIG52	label
+VARSIG51	ioexception exception
+VARSIG50	throwable ignore
+MTHSIG17	iscompatible compatible version
+MTHSIG18	getversionforcompatibility version compatibility
+MTHSIG15	countbundles count bundles
+MTHSIG16	loginfo log info label content
+MTHSIG13	getaddoncache add cache refresh
+MTHSIG14	populatebundlecache populate bundle cache startuptime startup time
+MTHSIG11	printresultlist print result list linkedlist linked list bundle bundles maxresults max linesperresult lines result
+MTHSIG12	istrustedkey trusted key list pgppublickeyring pgp key ring keyid key
+MTHSIG19	verifyrepository verify repository repourl repo url
+VARSIG45	startuptime startup time
+VARSIG44	refresh
+VARSIG43	pgppublickeyring pgp key ring keyring key ring
+VARSIG42	keyid key
+VARSIG49	element shell
+VARSIG48	element versionelement version element
+VARSIG47	element commentelement comment element
+VARSIG46	element bundleelement bundle element
+MTHSIG10	filterlist filter list list bundle bundles trustedonly trusted compatibleonly compatible requirescommand requires command onlyrelevantbundles relevant bundles
+VARIABLES	context bsn bundlekey bundle key bundle bundleversion bundle version version command comment bsn bundlekey bundle key bundleversion bundle version bsn bsn showfeedback feedback searchterms search terms refresh linesperresult lines result maxresults max trustedonly trusted compatibleonly compatible requirescommand requires command bundle term refresh linesperresult lines result maxresults max trustedonly trusted compatibleonly compatible requirescommand requires command bundles trustedonly trusted compatibleonly compatible requirescommand requires command onlyrelevantbundles relevant bundles bundle cmd bundles maxresults max linesperresult lines result bundle keyid key keyring key ring refresh startuptime startup time bundleelement bundle element commentelement comment element versionelement version element shell ignore label content version repourl repo url resource bundlecache bundle cache searchresultcache search result cache shell pgpservice pgp service urlinputstreamservice url input stream service log props context roobot xml url dateformat format bsnstring bsn bundle bundle commands bsnstring bsn bundle bundle success count requireswrappedcoredep requires wrapped core dep success count onlyrelevantbundles relevant bundles terms hits latest bundles filteredsearchresults filtered search bundles filteredlist filtered list filteredlist filtered list latest matchingcommand matching command bundleid bundle latest bundlekey bundle key split lpr pgpkey pgp key success dbf url httpurl http url failuremessage failure message zip baos buffer length bais roobotxml roobot xml bsn comments bundle signedby signed pgpkey pgp key pgpsigned pgp signed commands versionbuilder version builder versionmicro version micro versionqualifier version qualifier rooversion roo version split version bundles split dbf doc obrurl obr url
+VARSIG41	list pgppublickeyring pgp key ring
+VARSIG40	bundle bundle

@@ -1,0 +1,24 @@
+VARSIG7	clioption cli option key username user mandatory username username user
+VARSIG6	clioption cli option key databasename database mandatory database databasename database
+VARSIG9	clioption cli option key key mandatory property key changed key
+VARSIG8	clioption cli option key password mandatory password password
+VARSIG3	clioption cli option key provider mandatory persistence provider support ormprovider orm provider ormprovider orm provider
+VARSIG2	propfileoperations prop file operations propfileoperations prop file operations
+VARSIG5	clioption cli option key jndidatasource jndi data source mandatory jndi datasource jndi
+VARSIG4	clioption cli option key database mandatory database support jdbcdatabase jdbc database jdbcdatabase jdbc database
+COMMENTS	commands jpa add roo shell
+CLASSES	jpacommands jpa commands
+VARSIG1	jpaoperations jpa operations jpaoperations jpa operations
+VARSIG0	staticfieldconverter field converter staticfieldconverter field converter
+METHODS	jpacommands jpa commands isinstalljpaavailable install jpa installjpa install jpa databaseproperties database properties databaseset database set databaseremove database remove isjpainstalled jpa installed
+MTHSIG4	databaseset database set key
+MTHSIG5	databaseremove database remove key
+VARSIG11	clioption cli option key key mandatory property key removed key
+MTHSIG6	isjpainstalled jpa installed
+VARSIG10	clioption cli option key mandatory vale property key
+MTHSIG0	jpacommands jpa commands staticfieldconverter field converter staticfieldconverter field converter jpaoperations jpa operations jpaoperations jpa operations propfileoperations prop file operations propfileoperations prop file operations
+MTHSIG1	isinstalljpaavailable install jpa
+PACKAGE	springframework roo addon jpa
+MTHSIG2	installjpa install jpa ormprovider orm provider ormprovider orm provider jdbcdatabase jdbc database jdbcdatabase jdbc database jndi databasename database username user password
+MTHSIG3	databaseproperties database properties
+VARIABLES	staticfieldconverter field converter jpaoperations jpa operations propfileoperations prop file operations ormprovider orm provider jdbcdatabase jdbc database jndi databasename database username user password key key jpaoperations jpa operations propfileoperations prop file operations

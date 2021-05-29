@@ -1,0 +1,9 @@
+MTHSIG0	setup set
+MTHSIG1	testconvertnullurl test convert url
+PACKAGE	springframework roo addon cloud foundry converter
+MTHSIG2	testconvertemptyurl test convert empty url
+MTHSIG3	testconvertnonemptyurl test convert empty url
+COMMENTS	unit test link cloudcontrollerurlconverter cloud controller url converter fixture invoke check invoke check set invoke check
+CLASSES	cloudcontrollerurlconvertertest cloud controller url converter test
+VARIABLES	converter url url url
+METHODS	setup set testconvertnullurl test convert url testconvertemptyurl test convert empty url testconvertnonemptyurl test convert empty url

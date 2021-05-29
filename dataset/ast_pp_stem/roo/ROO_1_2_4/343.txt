@@ -1,0 +1,21 @@
+VARSIG7	clioption cli option kei cloudfoundri cloud foundri mandatori specifieddefaultvalu unspecifieddefaultvalu unspecifi deploi cloudfoundri cloud foundri default cloudfoundri cloud foundri 
+VARSIG6	clioption cli option kei host mandatori host databas default host 
+VARSIG9	clioption cli option kei identifiertyp identifi type mandatori type domain type default biginteg big integ mongoidtyp mongo type idtyp type 
+VARSIG8	clioption cli option kei mandatori optioncontext option context updat project implement javatyp type classtyp type 
+VARSIG3	clioption cli option kei password mandatori password access databas default password 
+VARSIG2	clioption cli option kei usernam mandatori usernam access databas default usernam 
+VARSIG5	clioption cli option kei port mandatori port databas default port 
+VARSIG4	clioption cli option kei databasenam databas mandatori databas default project 
+COMMENTS	command mongodb mongo repositori add 
+CLASSES	mongocommand mongo command 
+VARSIG1	clioption cli option kei entiti unspecifieddefaultvalu unspecifi optioncontext option context project mandatori domain entiti repositori expos javatyp type domaintyp domain type 
+VARSIG0	clioption cli option kei mandatori appli annot javatyp type interfacetyp type 
+METHODS	ismongosetupavail mongo setup isrepositorycommandavail repositori command repositori setup type 
+MTHSIG4	type javatyp type classtyp type mongoidtyp mongo type idtyp type testautomat test automat 
+VARSIG10	clioption cli option kei testautomat test automat mandatori specifieddefaultvalu unspecifieddefaultvalu unspecifi creat automat integr test entiti testautomat test automat 
+MTHSIG0	ismongosetupavail mongo setup 
+MTHSIG1	isrepositorycommandavail repositori command 
+PACKAGE	springframework roo addon layer repositori mongo 
+MTHSIG2	repositori javatyp type interfacetyp type javatyp type domaintyp domain type 
+MTHSIG3	setup usernam password port host cloudfoundri cloud foundri 
+VARIABLES	interfacetyp type domaintyp domain type usernam password port host cloudfoundri cloud foundri classtyp type idtyp type testautomat test automat mongooper mongo oper 

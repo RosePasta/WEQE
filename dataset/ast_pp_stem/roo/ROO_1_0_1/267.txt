@@ -1,0 +1,46 @@
+VARSIG7	version 
+VARSIG6	javasymbolnam symbol artifactid artifact 
+VARSIG9	depend exist 
+VARSIG8	depend depend 
+VARSIG3	javasymbolnam symbol artifactid artifact 
+VARSIG2	javapackag groupid group 
+VARSIG5	javapackag groupid group 
+VARSIG4	version 
+COMMENTS	common project oper subclass project specif oper subclass addit jar depend pom conveni parti instruct user cli add support project requir user manual edit pom xml write add groupid group add requir artifactid artifact add requir versionid version add requir requir remov exist jar depend pom conveni parti instruct user cli remov unwant depend project requir user manual edit pom xml write add groupid group remov requir artifactid artifact remov requir versionid version remov requir requir verifi depend silent return remov depend match link projectmetadata project metadata getdependenciesexcludingvers depend exclud version depend add present depend depend add requir exist quit delet exist depend version add depend regist listen track build depend remov depend listen chang track addit build plugin pom conveni parti instruct user cli add build capabl project requir user manual edit pom xml write add groupid group add requir artifactid artifact add requir versionid version add requir requir execut execut project built option remov exist build plugin pom conveni parti instruct user cli remov unwant build plugin project requir user manual edit pom xml write add groupid group remov requir artifactid artifact remov requir versionid version remov requir requir verifi build plugin silent return remov build plugin match link projectmetadata project metadata getbuildpluginsexcludingvers build plugin exclud version depend add present depend depend build plugin add requir execut execut project built option exist quit delet exist depend version add depend 
+VARSIG19	version 
+VARSIG1	projectmetadataprovid project metadata provid projectmetadataprovid project metadata provid 
+VARSIG18	javasymbolnam symbol artifactid artifact 
+VARSIG0	metadataservic metadata servic metadataservic metadata servic 
+VARSIG17	javapackag groupid group 
+MTHSIG4	removedepend remov depend javapackag groupid group javasymbolnam symbol artifactid artifact version 
+VARSIG12	depend 
+MTHSIG5	dependencyupd depend updat depend depend 
+VARSIG11	dependencylisten depend listen listen 
+MTHSIG6	adddependencylisten add depend listen dependencylisten depend listen listen 
+VARSIG10	dependencylisten depend listen listen 
+MTHSIG7	removedependencylisten remov depend listen dependencylisten depend listen listen 
+MTHSIG0	projectoper project oper metadataservic metadata servic metadataservic metadata servic projectmetadataprovid project metadata provid projectmetadataprovid project metadata provid 
+VARSIG16	projecttyp project type projecttyp project type 
+MTHSIG1	isdependencymodificationallow depend modif allow 
+VARSIG15	dependencylisten depend listen listen 
+PACKAGE	springframework roo project 
+MTHSIG2	isperformcommandallow perform command allow 
+VARSIG14	depend 
+MTHSIG3	adddepend add depend javapackag groupid group javasymbolnam symbol artifactid artifact version 
+VARSIG13	dependencylisten depend listen listen 
+MTHSIG8	senddependencyadditionnotif send depend addit notif depend 
+MTHSIG9	senddependencyremovalnotif send depend remov notif depend 
+MTHSIG13	buildpluginupd build plugin updat depend buildplugindepend build plugin depend execut execut 
+MTHSIG11	addplugindepend add plugin depend javapackag groupid group javasymbolnam symbol artifactid artifact version execut execut 
+MTHSIG12	removebuildplugin remov build plugin javapackag groupid group javasymbolnam symbol artifactid artifact version 
+CLASSES	projectoper project oper 
+METHODS	projectoper project oper isdependencymodificationallow depend modif allow isperformcommandallow perform command allow adddepend add depend removedepend remov depend dependencyupd depend updat adddependencylisten add depend listen removedependencylisten remov depend listen senddependencyadditionnotif send depend addit notif senddependencyremovalnotif send depend remov notif updateprojecttyp updat project type addplugindepend add plugin depend removebuildplugin remov build plugin buildpluginupd build plugin updat 
+VARSIG23	version 
+VARSIG22	javasymbolnam symbol artifactid artifact 
+VARSIG21	javapackag groupid group 
+VARSIG20	execut execut 
+VARSIG26	depend exist 
+VARSIG25	execut execut 
+VARSIG24	depend buildplugindepend build plugin depend 
+MTHSIG10	updateprojecttyp updat project type projecttyp project type projecttyp project type 
+VARIABLES	metadataservic metadata servic projectmetadataprovid project metadata provid groupid group artifactid artifact version groupid group artifactid artifact version depend exist listen listen listen listen projecttyp project type groupid group artifactid artifact version execut groupid group artifactid artifact version buildplugindepend build plugin depend execut exist metadataservic metadata servic projectmetadataprovid project metadata provid listen depend depend projectmetadata project metadata depend depend projectmetadata project metadata 

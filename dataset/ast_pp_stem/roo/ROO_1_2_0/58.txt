@@ -1,0 +1,22 @@
+VARSIG7	displayaddon displai add on 
+VARSIG6	map map 
+VARSIG9	connect connect 
+VARSIG8	except 
+VARSIG3	map map 
+VARSIG2	sqlexcept sql except 
+VARSIG5	jndidatasourc jndi data sourc 
+VARSIG4	displayaddon displai add on 
+COMMENTS	implement link connectionprovid connect provid constant field properti user password requir connect 
+CLASSES	connectionproviderimpl connect provid impl 
+VARSIG1	displayaddon displai add on 
+VARSIG0	properti prop 
+METHODS	getconnect connect getconnect connect getconnectionviajndidatasourc connect jndi data sourc closeconnect close connect getprop prop 
+MTHSIG4	getprop prop map map 
+VARSIG11	map map 
+VARSIG10	sqlexcept sql except 
+MTHSIG0	getconnect connect properti prop displayaddon displai add on 
+MTHSIG1	getconnect connect map map displayaddon displai add on 
+PACKAGE	springframework roo addon dbre jdbc 
+MTHSIG2	getconnectionviajndidatasourc connect jndi data sourc jndidatasourc jndi data sourc map map displayaddon displai add on 
+MTHSIG3	closeconnect close connect connect connect 
+VARIABLES	prop displayaddon displai add on map displayaddon displai add on jndidatasourc jndi data sourc map displayaddon displai add on connect map user password jdbcdrivermanag jdbc driver manag driverclassnam driver driver context datasourc data sourc prop 

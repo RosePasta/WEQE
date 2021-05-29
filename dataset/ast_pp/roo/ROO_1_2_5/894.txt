@@ -1,0 +1,10 @@
+MTHSIG0	addprocessmanagerstatuslistener add process manager status listener processmanagerstatuslistener process manager status listener processmanagerstatuslistener process manager status listener
+MTHSIG1	getprocessmanagerstatus process manager status
+PACKAGE	springframework roo process manager event
+MTHSIG2	removeprocessmanagerstatuslistener remove process manager status listener processmanagerstatuslistener process manager status listener processmanagerstatuslistener process manager status listener
+COMMENTS	implemented link processmanager process manager support publication shell status implementations required provide guarantees respect order notifications delivered listeners implementations permit modification listener list delivering event notifications listeners listeners receive guarantee addition removal listener list effective event notification proceeding implementations ensure status notifications delivered actual change place registers status listener processmanagerstatuslistener process manager status listener register returns current link processmanager process manager current status removes existing status listener presented status listener returns exception processmanagerstatuslistener process manager status listener remove
+CLASSES	processmanagerstatusprovider process manager status provider
+VARIABLES	processmanagerstatuslistener process manager status listener processmanagerstatuslistener process manager status listener
+VARSIG1	processmanagerstatuslistener process manager status listener processmanagerstatuslistener process manager status listener
+VARSIG0	processmanagerstatuslistener process manager status listener processmanagerstatuslistener process manager status listener
+METHODS	addprocessmanagerstatuslistener add process manager status listener getprocessmanagerstatus process manager status removeprocessmanagerstatuslistener remove process manager status listener

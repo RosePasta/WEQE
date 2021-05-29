@@ -1,0 +1,23 @@
+VARSIG7	javatype type aspectname aspect
+VARSIG6	metadataidentificationstring metadata identification
+VARSIG9	itdfilename filename
+VARSIG8	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG3	componentcontext component context context
+VARSIG2	logicalpath logical path path
+VARSIG5	itdtypedetails type details itdtypedetails type details
+VARSIG4	metadataidentificationstring metadata identification
+COMMENTS	link tostringmetadata metadata
+CLASSES	tostringmetadataprovider metadata provider
+VARSIG1	javatype type javatype type
+VARSIG0	componentcontext component context context
+METHODS	activate createlocalidentifier create local identifier deactivate getgovernorphysicaltypeidentifier governor physical type identifier getitduniquenessfilenamesuffix uniqueness filename suffix getlocalmidtorequest local mid request getmetadata metadata getprovidestype type
+MTHSIG4	getitduniquenessfilenamesuffix uniqueness filename suffix
+MTHSIG5	getlocalmidtorequest local mid request itdtypedetails type details itdtypedetails type details
+MTHSIG6	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+MTHSIG7	getprovidestype type
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	createlocalidentifier create local identifier javatype type javatype type logicalpath logical path path
+PACKAGE	springframework roo addon tostring
+MTHSIG2	deactivate componentcontext component context context
+MTHSIG3	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+VARIABLES	context javatype type path context metadataidentificationstring metadata identification itdtypedetails type details metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename javatype type path annotationvalues annotation values memberdetails member details

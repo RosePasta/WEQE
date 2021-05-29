@@ -1,0 +1,42 @@
+VARSIG7	plural
+VARSIG6	javasymbolname symbol findername finder
+VARSIG9	token token
+VARSIG8	beaninfometadata bean info metadata beaninfometadata bean info metadata
+VARSIG3	set javasymbolname symbol exclusions
+VARSIG2	maxdepth max depth
+VARSIG5	fieldmetadata field metadata field
+VARSIG4	memberholdingtypedetails member holding type details typedetails type details
+COMMENTS	implementation link dynamicfinderservices dynamic finder services ignoring util map field types roo remove field token replace min max
+VARSIG19	isfirst
+VARSIG1	plural
+VARSIG18	prepend
+VARSIG0	memberdetails member details memberdetails member details
+VARSIG17	set javasymbolname symbol finders
+MTHSIG4	createfinders create finders fieldmetadata field metadata field set javasymbolname symbol finders prepend isfirst
+VARSIG12	beaninfometadata bean info metadata beaninfometadata bean info metadata
+MTHSIG5	populatefinders populate finders set javasymbolname symbol finders fieldmetadata field metadata field prepend isfirst keyword key word
+VARSIG11	plural
+MTHSIG6	isnumberordate number fullyqualifiedtypename fully qualified type
+VARSIG10	javasymbolname symbol findername finder
+MTHSIG0	getfindersfor finders memberdetails member details memberdetails member details plural maxdepth max depth set javasymbolname symbol exclusions
+VARSIG16	fieldmetadata field metadata field
+MTHSIG1	getjpaqueryfor jpa query javasymbolname symbol findername finder plural beaninfometadata bean info metadata beaninfometadata bean info metadata
+VARSIG15	beaninfometadata bean info metadata beaninfometadata bean info metadata
+PACKAGE	springframework roo addon finder
+MTHSIG2	getparameternames parameter names javasymbolname symbol findername finder plural beaninfometadata bean info metadata beaninfometadata bean info metadata
+VARSIG14	plural
+MTHSIG3	getparametertypes parameter types javasymbolname symbol findername finder plural beaninfometadata bean info metadata beaninfometadata bean info metadata
+VARSIG13	javasymbolname symbol findername finder
+CLASSES	dynamicfinderservicesimpl dynamic finder services impl
+VARSIG29	fullyqualifiedtypename fully qualified type
+VARSIG28	javasymbolname symbol finder
+METHODS	getfindersfor finders getjpaqueryfor jpa query getparameternames parameter names getparametertypes parameter types createfinders create finders populatefinders populate finders isnumberordate number
+VARSIG23	set javasymbolname symbol finders
+VARSIG22	reservedtoken reserved token keyword key word
+VARSIG21	reservedtoken reserved token keyword key word
+VARSIG20	reservedtoken reserved token keyword key word
+VARSIG27	keyword key word
+VARSIG26	isfirst
+VARSIG25	prepend
+VARSIG24	fieldmetadata field metadata field
+VARIABLES	memberdetails member details plural maxdepth max depth exclusions typedetails type details field findername finder plural beaninfometadata bean info metadata token findername finder plural beaninfometadata bean info metadata findername finder plural beaninfometadata bean info metadata field finders prepend isfirst keyword key word keyword key word keyword key word finders field prepend isfirst keyword key word finder fullyqualifiedtypename fully qualified type finders tempfinders temp finders tablename builder tokenizer tokens lastfieldtoken field token isnewfield field isfieldapplied field applied reservedtoken reserved token fieldname field setfield set field names tokenizer tokens token fieldname field field fieldname field field types tokenizer tokens token field field tempfinders temp finders tempfinders temp finders

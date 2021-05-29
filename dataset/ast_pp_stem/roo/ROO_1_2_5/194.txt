@@ -1,0 +1,15 @@
+VARSIG6	serverfailur server failur failur 
+VARSIG3	payload 
+VARSIG2	requesttransport request transport wrap 
+VARSIG5	payload 
+VARSIG4	transportreceiv transport receiv receiv 
+COMMENTS	wrap link requesttransport request transport post event request receiv 
+CLASSES	eventsourcerequesttransport event sourc request transport 
+VARSIG1	eventbu event bu eventbu event bu 
+VARSIG0	eventbu event bu eventbu event bu 
+METHODS	eventsourcerequesttransport event sourc request transport eventsourcerequesttransport event sourc request transport send 
+MTHSIG0	eventsourcerequesttransport event sourc request transport eventbu event bu eventbu event bu 
+MTHSIG1	eventsourcerequesttransport event sourc request transport eventbu event bu eventbu event bu requesttransport request transport wrap 
+PACKAGE	top level client scaffold request 
+MTHSIG2	send payload transportreceiv transport receiv receiv 
+VARIABLES	eventbu event bu eventbu event bu wrap payload receiv payload failur eventbu event bu wrap myreceiv receiv 

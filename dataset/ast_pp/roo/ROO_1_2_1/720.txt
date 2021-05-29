@@ -1,0 +1,49 @@
+MTHSIG4	getdynamicfindernames dynamic finder names
+MTHSIG5	getfields fields
+MTHSIG6	getmethod javasymbolname symbol methodname
+MTHSIG7	getmethod javasymbolname symbol methodname list javatype type parameters
+MTHSIG0	memberdetailsimpl member details impl collection memberholdingtypedetails member holding type details details
+MTHSIG1	getannotation annotation javatype type type
+PACKAGE	springframework roo classpath scanner
+MTHSIG2	getconstructors constructors
+MTHSIG3	getdetails details
+MTHSIG8	getmethod javasymbolname symbol methodname list javatype type parameters excludingmid excluding mid
+MTHSIG9	getmethods methods
+CLASSES	memberdetailsimpl member details impl
+VARSIG28	memberholdingtypedetails member holding type details memberholdingtypedetails member holding type details
+METHODS	memberdetailsimpl member details impl getannotation annotation getconstructors constructors getdetails details getdynamicfindernames dynamic finder names getfields fields getmethod getmethod getmethod getmethods methods getmethodswithtag methods tag getmostconcretemethodwithtag concrete tag getpersistentfieldtypes persistent field types ismethoddeclaredbyanother declared isrequestingannotatedwith requesting annotated
+VARSIG23	javasymbolname symbol methodname
+VARSIG22	javatype type generictype type
+VARSIG21	methodmetadata metadata
+VARSIG20	persistencememberlocator persistence member locator persistencememberlocator persistence member locator
+VARSIG27	requestingmid requesting mid
+VARSIG26	annotationmetadata annotation metadata annotationmetadata annotation metadata
+VARSIG25	declaredbymetadataid declared metadata
+VARSIG24	list javatype type parametertypes parameter types
+VARSIG7	memberholdingtypedetails member holding type details memberholdingtypedetails member holding type details
+VARSIG6	javasymbolname symbol methodname
+VARSIG9	list javatype type parameters
+VARSIG8	javasymbolname symbol methodname
+VARSIG3	memberholdingtypedetails member holding type details memberholdingtypedetails member holding type details
+VARSIG2	memberholdingtypedetails member holding type details memberholdingtypedetails member holding type details
+VARSIG5	memberholdingtypedetails member holding type details memberholdingtypedetails member holding type details
+VARSIG4	memberholdingtypedetails member holding type details mhtd
+COMMENTS	implementation link memberdetails member details constructs instance details member holders stored instance interested accessor methods persistence identifiers version fields interested fields jpa fields immutable fields
+VARSIG19	javatype type thistype type
+VARSIG1	javatype type type
+VARSIG18	object tagkey tag key
+VARSIG0	collection memberholdingtypedetails member holding type details details
+VARSIG17	methodmetadata metadata
+VARSIG12	list javatype type parameters
+VARSIG11	javasymbolname symbol methodname
+VARSIG10	memberholdingtypedetails member holding type details memberholdingtypedetails member holding type details
+VARSIG16	object tagkey tag key
+VARSIG15	memberholdingtypedetails member holding type details memberholdingtypedetails member holding type details
+VARSIG14	memberholdingtypedetails member holding type details memberholdingtypedetails member holding type details
+VARSIG13	excludingmid excluding mid
+MTHSIG13	ismethoddeclaredbyanother declared javasymbolname symbol methodname list javatype type parametertypes parameter types declaredbymetadataid declared metadata
+MTHSIG14	isrequestingannotatedwith requesting annotated annotationmetadata annotation metadata annotationmetadata annotation metadata requestingmid requesting mid
+MTHSIG11	getmostconcretemethodwithtag concrete tag object tagkey tag key
+MTHSIG12	getpersistentfieldtypes persistent field types javatype type thistype type persistencememberlocator persistence member locator persistencememberlocator persistence member locator
+MTHSIG10	getmethodswithtag methods tag object tagkey tag key
+VARIABLES	details type memberholdingtypedetails member holding type details memberholdingtypedetails member holding type details mhtd memberholdingtypedetails member holding type details methodname memberholdingtypedetails member holding type details methodname parameters memberholdingtypedetails member holding type details methodname parameters excludingmid excluding mid memberholdingtypedetails member holding type details memberholdingtypedetails member holding type details tagkey tag key tagkey tag key thistype type persistencememberlocator persistence member locator generictype type methodname parametertypes parameter types declaredbymetadataid declared metadata annotationmetadata annotation metadata requestingmid requesting mid memberholdingtypedetails member holding type details details result dynamicfindernames dynamic finder names result result result identifieraccessor identifier accessor versionaccessor version accessor fieldtypes field types field returntype type

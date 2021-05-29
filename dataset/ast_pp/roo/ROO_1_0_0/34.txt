@@ -1,0 +1,37 @@
+VARSIG7	jmsdestinationtype jms destination type destinationtype destination type
+VARSIG6	
+VARSIG9	javatype type targettype target type
+VARSIG8	exception
+VARSIG3	metadataservice metadata service metadataservice metadata service
+VARSIG2	pathresolver path resolver pathresolver path resolver
+VARSIG5	jmsprovider jms provider jmsprovider jms provider
+VARSIG4	projectoperations project operations projectoperations project operations
+COMMENTS	jms configuration operations physical type mutable details create content people started create content people started determine canonical filename check file doesn exist compute physical location destination configured add
+VARSIG19	document appctx app ctx
+VARSIG1	filemanager file manager filemanager file manager
+VARSIG18	element dependency
+VARSIG0	mutablephysicaltypemetadataprovider mutable physical type metadata provider physicaltypemetadataprovider physical type metadata provider
+VARSIG17	element dependency
+MTHSIG4	injectjmstemplate inject jms template javatype type targettype target type javasymbolname symbol fieldname field
+VARSIG12	
+MTHSIG5	addjmslistener add jms listener javatype type targettype target type jmsdestinationtype jms destination type destinationtype destination type
+VARSIG11	javatype type targettype target type
+MTHSIG6	updatedependencies update dependencies jmsprovider jms provider jmsprovider jms provider
+VARSIG10	javasymbolname symbol fieldname field
+MTHSIG7	adddefaultdestination add destination document appctx app ctx
+MTHSIG0	jmsoperations jms operations mutablephysicaltypemetadataprovider mutable physical type metadata provider physicaltypemetadataprovider physical type metadata provider filemanager file manager filemanager file manager pathresolver path resolver pathresolver path resolver metadataservice metadata service metadataservice metadata service projectoperations project operations projectoperations project operations
+VARSIG16	exception
+MTHSIG1	isinstalljmsavailable install jms
+VARSIG15	jmsprovider jms provider jmsprovider jms provider
+PACKAGE	springframework roo addon jms
+MTHSIG2	ismanagejmsavailable manage jms
+VARSIG14	exception
+MTHSIG3	installjms install jms jmsprovider jms provider jmsprovider jms provider jmsdestinationtype jms destination type destinationtype destination type
+VARSIG13	jmsdestinationtype jms destination type destinationtype destination type
+MTHSIG8	getphysicallocationcanonicalpath physical location canonical path physicaltypeidentifier physical type identifier
+MTHSIG9	getpathresolver path resolver
+CLASSES	jmsoperations jms operations
+METHODS	jmsoperations jms operations isinstalljmsavailable install jms ismanagejmsavailable manage jms installjms install jms injectjmstemplate inject jms template addjmslistener add jms listener updatedependencies update dependencies adddefaultdestination add destination getphysicallocationcanonicalpath physical location canonical path getpathresolver path resolver
+VARSIG21	physicaltypeidentifier physical type identifier
+VARSIG20	
+VARIABLES	physicaltypemetadataprovider physical type metadata provider filemanager file manager pathresolver path resolver metadataservice metadata service projectoperations project operations jmsprovider jms provider destinationtype destination type targettype target type fieldname field targettype target type destinationtype destination type jmsprovider jms provider dependency dependency appctx app ctx physicaltypeidentifier physical type identifier logger filemanager file manager pathresolver path resolver metadataservice metadata service physicaltypemetadataprovider physical type metadata provider projectoperations project operations jmscontextpath jms context path jmscontextmutablefile jms context mutable file appctx app ctx root needspersisted persisted destination listenercontainer listener container modifier annotations declaredbymetadataid declared metadata fieldmetadata field metadata ptm ptd mutabletypedetails mutable type details paramtypes types paramnames names bodybuilder body builder declaredbymetadataid declared metadata methods annotations paramtypes types paramnames names bodybuilder body builder details physicallocationcanonicalpath physical location canonical path tocreate create jmscontextpath jms context path jmscontextmutablefile jms context mutable file appctx app ctx root listenercontainer listener container jmslistener jms listener bean templateinputstream template input stream dependencydoc dependency doc dependencieselement dependencies element springdependencies spring dependencies dependencies root jmstemplate jms template defaultdestination destination pathresolver path resolver javatype type path relativepath relative path physicallocationcanonicalpath physical location canonical path projectmetadata project metadata

@@ -1,0 +1,50 @@
+MTHSIG22	updateservicetyp updat servic type 
+MTHSIG23	updateurlmap updat url map 
+MTHSIG4	deactiv componentcontext compon context 
+MTHSIG5	getapplicationmemoryopt applic memori option 
+MTHSIG6	getapplicationnam applic name 
+MTHSIG7	getboundurlmap bound url map 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	aftertransmiss transmiss transmissiontyp transmiss type type success 
+PACKAGE	springframework roo addon cloud foundri 
+MTHSIG2	beforetransmiss transmiss transmissiontyp transmiss type type 
+MTHSIG3	clearstoredlogindetail clear store login detail 
+MTHSIG20	updatememoryopt updat memori option 
+MTHSIG21	updateprovisionedservic updat provis servic 
+MTHSIG8	getclient client 
+MTHSIG9	getlogincredenti login credenti cloudcontrollerurl cloud control url email password 
+CLASSES	cloudfoundrysessionimpl cloud foundri session impl 
+METHODS	activ aftertransmiss transmiss beforetransmiss transmiss clearstoredlogindetail clear store login detail deactiv getapplicationmemoryopt applic memori option getapplicationnam applic name getboundurlmap bound url map getclient client getlogincredenti login credenti getprovisionedservic provis servic getprovisionedservic provis servic getservic servic getservicetyp servic type getstoredemailaddress store email address getstoredemail store email getstoredurl store url login login updateapplicationnam updat applic name updatememoryopt updat memori option updateprovisionedservic updat provis servic updateservicetyp updat servic type updateurlmap updat url map 
+VARSIG20	cloudappl cloud applic app 
+VARSIG7	password 
+VARSIG6	email 
+VARSIG9	servicevendor servic vendor 
+VARSIG8	provisionedservicenam provis servic 
+VARSIG3	transmissiontyp transmiss type type 
+VARSIG2	success 
+VARSIG5	cloudcontrollerurl cloud control url 
+VARSIG4	componentcontext compon context 
+COMMENTS	return credenti log cloud cloudcontrollerurl cloud control url url user blank email email address user blank password password user blank complet set credenti store valu return email address store credenti url cloudcontrollerurl cloud control url set credenti log user credenti credenti credenti valid user fresh credenti 
+VARSIG19	serviceconfigur servic configur servicetyp servic type 
+VARSIG1	transmissiontyp transmiss type type 
+VARSIG18	cloudservic cloud servic provisionedservic provis servic 
+VARSIG0	componentcontext compon context context 
+VARSIG17	memoryopt memori option 
+VARSIG12	cloudcredenti cloud credenti credenti 
+VARSIG11	cloudcontrollerurl cloud control url 
+VARSIG10	serviceconfigur servic configur serviceconfigur servic configur 
+VARSIG16	cloudappl cloud applic app 
+VARSIG15	cloudcontrollerurl cloud control url 
+VARSIG14	password 
+VARSIG13	email 
+MTHSIG17	login cloudcredenti cloud credenti credenti 
+MTHSIG18	login email password cloudcontrollerurl cloud control url 
+MTHSIG15	getstoredemail store email 
+MTHSIG16	getstoredurl store url 
+MTHSIG13	getservicetyp servic type 
+MTHSIG14	getstoredemailaddress store email address cloudcontrollerurl cloud control url 
+MTHSIG11	getprovisionedservic provis servic 
+MTHSIG12	getservic servic servicevendor servic vendor 
+MTHSIG19	updateapplicationnam updat applic name 
+MTHSIG10	getprovisionedservic provis servic provisionedservicenam provis servic 
+VARIABLES	context type success type cloudcontrollerurl cloud control url email password provisionedservicenam provis servic servicevendor servic vendor serviceconfigur servic configur cloudcontrollerurl cloud control url credenti email password cloudcontrollerurl cloud control url app memoryopt memori option provisionedservic provis servic servicetyp servic type app logger appcloudclientfactori app cloud client factori appnam app name boundurlmap bound url map client memoryopt memori option prefer preferencesservic prefer servic provisionedservic provis servic servicetyp servic type uaaservic uaa servic logincredenti login credenti storedemail store email credenti 

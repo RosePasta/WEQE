@@ -1,0 +1,25 @@
+VARSIG7	javatype type type
+VARSIG6	javatype type jsonentity json entity
+VARSIG9	javatype type type
+VARSIG8	javatype type jsonentity json entity
+VARSIG3	javatype type type
+VARSIG2	classorinterfacetypedetails type details mvccod mvc cod
+VARSIG5	javatype type type
+VARSIG4	javatype type jsonentity json entity
+COMMENTS	implementation link webjsonoperations web json operations physical type exists type location service create annotation roowebjson roo web json jsonobject json object myobject object verify web xml exists
+VARSIG1	classorinterfacetypedetails type details cod
+VARSIG0	javapackage javapackage
+MTHSIG4	getannotation annotation javatype type type
+MTHSIG5	iswebjsoncommandavailable web json command
+MTHSIG6	iswebjsoninstallationpossible web json installation
+VARSIG10	element dependencyelement dependency element
+MTHSIG7	setup
+MTHSIG0	annotateall annotate javapackage javapackage
+MTHSIG1	annotatetype annotate type javatype type type javatype type jsonentity json entity
+PACKAGE	springframework roo addon web mvc controller json
+MTHSIG2	appendtoexistingtype append existing type javatype type type javatype type jsonentity json entity
+MTHSIG3	createnewtype create type javatype type type javatype type jsonentity json entity
+MTHSIG8	updateconfiguration update configuration
+CLASSES	webjsonoperationsimpl web json operations impl
+METHODS	annotateall annotate annotatetype annotate type appendtoexistingtype append existing type createnewtype create type getannotation annotation iswebjsoncommandavailable web json command iswebjsoninstallationpossible web json installation setup updateconfiguration update configuration
+VARIABLES	javapackage cod mvccod mvc cod type jsonentity json entity type jsonentity json entity type jsonentity json entity type dependencyelement dependency element filemanager file manager metadataservice metadata service mvcoperations mvc operations pathresolver path resolver projectoperations project operations typelocationservice type location service typemanagementservice type management service jsontype json type mvctype mvc type mvcmd mvc webscaffoldannotationvalues web scaffold annotation values cid cidbuilder cid builder pluralmetadata plural metadata declaredbymetadataid declared metadata cidbuilder cid builder requestmapping request mapping roojsonattributes roo json attributes webxmlpath web xml path document configuration dependencies springdependencies spring dependencies

@@ -1,0 +1,45 @@
+VARSIG7	attributenam attribut 
+VARSIG6	javatyp type annotationtyp annot type 
+VARSIG9	classorinterfacetypedetail type detail target 
+VARSIG8	stringattributevalu attribut 
+VARSIG3	javatyp type type 
+VARSIG2	javapackag toplevelpackag top level 
+VARSIG5	classorinterfacetypedetail type detail target 
+VARSIG4	convertvoid convert 
+COMMENTS	util method gwt add return link receiv type gener type type generictyp type requir type constructor prevent instanti 
+VARSIG19	javatyp type generictyp type 
+VARSIG1	gwttype gwt type type 
+VARSIG18	gwttype gwt type mirrortyp mirror type 
+VARSIG0	javatyp type governortyp governor type 
+VARSIG17	javapackag toplevelpackag top level 
+MTHSIG4	getfirstannot annot classorinterfacetypedetail type detail cid javatyp type annotationtyp annot type 
+VARSIG12	valueifnul 
+MTHSIG5	getmirrortypemap mirror type map javatyp type governortyp governor type javapackag toplevelpackag top level 
+VARSIG11	attributenam attribut 
+MTHSIG6	getreceivertyp receiv type javatyp type generictyp type 
+VARSIG10	javatyp type annotationtyp annot type 
+MTHSIG7	getstringvalu annotationattributevalu annot attribut attributevalu attribut 
+MTHSIG0	convertgovernortypenameintokeytypenam convert governor type kei type javatyp type governortyp governor type gwttype gwt type type javapackag toplevelpackag top level 
+VARSIG16	javatyp type governortyp governor type 
+MTHSIG1	convertprimitivetyp convert primit type javatyp type type convertvoid convert 
+VARSIG15	javatyp type annotationtyp annot type 
+PACKAGE	springframework roo addon gwt 
+MTHSIG2	getannotationvalu annot valu classorinterfacetypedetail type detail target javatyp type annotationtyp annot type attributenam attribut 
+VARSIG14	javatyp type annotationtyp annot type 
+MTHSIG3	getbooleanannotationvalu annot classorinterfacetypedetail type detail target javatyp type annotationtyp annot type attributenam attribut valueifnul 
+VARSIG13	classorinterfacetypedetail type detail cid 
+MTHSIG8	lookupproxytargettyp lookup proxi target type classorinterfacetypedetail type detail proxytyp proxi type 
+MTHSIG9	lookuprequesttargettyp lookup request target type classorinterfacetypedetail type detail requesttyp request type 
+MTHSIG11	scaffoldproxi scaffold proxi classorinterfacetypedetail type detail proxi 
+MTHSIG12	gwtutil gwt util 
+CLASSES	gwtutil gwt util 
+METHODS	convertgovernortypenameintokeytypenam convert governor type kei type convertprimitivetyp convert primit type getannotationvalu annot valu getbooleanannotationvalu annot getfirstannot annot getmirrortypemap mirror type map getreceivertyp receiv type getstringvalu lookupproxytargettyp lookup proxi target type lookuprequesttargettyp lookup request target type lookuptargettyp lookup target type scaffoldproxi scaffold proxi gwtutil gwt util 
+VARSIG23	classorinterfacetypedetail type detail annotatedtyp annot type 
+VARSIG22	classorinterfacetypedetail type detail requesttyp request type 
+VARSIG21	classorinterfacetypedetail type detail proxytyp proxi type 
+VARSIG20	annotationattributevalu annot attribut attributevalu attribut 
+VARSIG26	classorinterfacetypedetail type detail proxi 
+VARSIG25	javatyp type stringbasedannotationtyp base annot type 
+VARSIG24	javatyp type classbasedannotationtyp base annot type 
+MTHSIG10	lookuptargettyp lookup target type classorinterfacetypedetail type detail annotatedtyp annot type javatyp type classbasedannotationtyp base annot type javatyp type stringbasedannotationtyp base annot type 
+VARIABLES	governortyp governor type type toplevelpackag top level type convertvoid convert target annotationtyp annot type attributenam attribut target annotationtyp annot type attributenam attribut valueifnul cid annotationtyp annot type annotationtyp annot type governortyp governor type toplevelpackag top level mirrortyp mirror type generictyp type attributevalu attribut proxytyp proxi type requesttyp request type annotatedtyp annot type classbasedannotationtyp base annot type stringbasedannotationtyp base annot type proxi proxi annot proxi request warn request annot roo proxi request annot destinationpackag destin typenam type simpl valu annot attributevalu attribut arrayattributevalu arrai attribut stringattributeval attribut vale annot attributevalu attribut booleanattributevalu attribut annotationmetadata annot metadata mirrortypemap mirror type map stringbasedannot base annot targettypeattributevalu target type attribut classbasedannot base annot targettypeattributevalu target type attribut 

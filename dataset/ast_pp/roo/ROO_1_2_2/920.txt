@@ -1,0 +1,18 @@
+VARSIG3	pom module
+VARSIG2	canonicalpath canonical path
+COMMENTS	link pom methods project code link projectoperations project operations returns link projectdescriptor project descriptor focussed module module focus root link projectdescriptor project descriptor poms exist returns focussed module empty module focus fileidentifier file identifier canonical path lookup module represents module passed file belongs returns names modules project collection returns link projectdescriptor project descriptor module modulename module module blank there module returns link projectdescriptor project descriptor canonical path canonicalpath canonical path canonical path descriptor file file returns link projectdescriptor project descriptor copy collection returns link projectdescriptor project descriptor project project root descriptor file there pom focuses module module module focus required
+CLASSES	pommanagementservice pom management service
+VARSIG1	modulename module
+VARSIG0	fileidentifier file identifier
+METHODS	getfocusedmodule focused module getfocusedmodulename focused module getmoduleforfileidentifier module file identifier getmodulenames module names getpomfrommodulename pom module getpomfrompath pom path getpoms poms getrootpom root pom setfocusedmodule set focused module
+MTHSIG4	getpomfrommodulename pom module modulename module
+MTHSIG5	getpomfrompath pom path canonicalpath canonical path
+MTHSIG6	getpoms poms
+MTHSIG7	getrootpom root pom
+MTHSIG0	getfocusedmodule focused module
+MTHSIG1	getfocusedmodulename focused module
+PACKAGE	springframework roo project
+MTHSIG2	getmoduleforfileidentifier module file identifier fileidentifier file identifier
+MTHSIG3	getmodulenames module names
+VARIABLES	fileidentifier file identifier modulename module canonicalpath canonical path module
+MTHSIG8	setfocusedmodule set focused module pom module

@@ -1,0 +1,14 @@
+VARSIG2	
+COMMENTS	wraps link outputstream output stream automatically passes link logger link outputstream output stream flush link outputstream output stream close called constructor level level log required
+CLASSES	loggingoutputstream logging output stream
+VARSIG1	sourceclassname source
+VARSIG0	level level
+METHODS	loggingoutputstream logging output stream close flush getsourceclassname source setsourceclassname set source write
+MTHSIG4	setsourceclassname set source sourceclassname source
+MTHSIG5	write
+MTHSIG0	loggingoutputstream logging output stream level level
+MTHSIG1	close
+PACKAGE	springframework roo support logging
+MTHSIG2	flush
+MTHSIG3	getsourceclassname source
+VARIABLES	level sourceclassname source logger baos count level sourceclassname source msg record

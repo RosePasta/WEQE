@@ -1,0 +1,45 @@
+VARSIG7	slot
+VARSIG6	shellstatus shell status newstatus status
+VARSIG9	interruptedexception interrupted exception ignore
+VARSIG8	slot
+VARSIG3	handler
+VARSIG2	logger
+VARSIG5	shellstatus shell status oldstatus status
+VARSIG4	path
+COMMENTS	feature rich jline library provide interactive shell windows lack color ansi services box implementation automatically detects classpath presence jansi library nix machines support colour ansi special effort implementation written reflection order avoid hard dependencies jansi roo key slot flashinfo flash info instance key row number eraselinefromposition erase position roo consolereader console reader constructor thread reader setdebug set debug printwriter print writer filewriter file writer writer debug monitor ctrl initiated shutdowns roo don closeshell close shell shutdown hook bootstrap calls calls jlineshellcomponent shell component deactivate calls closeshell close shell handle execute quit operation command exit shell code fall roo normal rpel processing superclass ansi terminal shellprompt shell prompt correct let ensure decorated outputstream output stream parses ansi codes reset original shell shell colors shutdown closing stream encoding windows console output roo setup thread ensure flash messages displayed cleared correctly message expired clear expiration time message reached preserve update window title requested request clear message user time read didn record displaying place quit display message displayed notice find row slot basically number discover veto let candidate row number owns row number store populate instance latest data display externally calling methods mutex flashinfomap flash info map figure longest presently displaying erase position erase clear blank achieved needed erasing record longer care time doansiflash ansi flash invoked roo message displayed record erase positioning time clean duplicate messages development time roo write let record time user command failing unix endings roo tail working shutting close file reopen needed obtains roo system property falling current working directory missing roo system property called subclass deactivating shell notify closing status shutting ctrl bootstrap hook
+VARSIG19	ioexception exception ignore
+VARSIG1	ioexception exception ioe
+VARSIG18	integer candidate
+VARSIG0	exception
+VARSIG17	message
+MTHSIG4	flashmessagerenderer flash message renderer
+VARSIG12	slot
+MTHSIG5	flash level level message slot
+VARSIG11	message
+MTHSIG6	doansiflash ansi flash row level level message
+VARSIG10	level level
+MTHSIG7	promptloop prompt loop
+MTHSIG0	
+VARSIG16	level level
+MTHSIG1	removehandlers remove handlers logger
+VARSIG15	row
+PACKAGE	springframework roo shell jline
+MTHSIG2	setpromptpath set prompt path path
+VARSIG14	flashinfo flash info existingflashinfo existing flash info
+MTHSIG3	createansiwindowsreader create ansi windows reader
+VARSIG13	ioexception exception ignore
+MTHSIG8	setdevelopmentmode set development mode developmentmode development mode
+MTHSIG9	isdevelopmentmode development mode
+MTHSIG13	closeshell close shell
+MTHSIG11	logcommandtooutput log command output processedline processed
+MTHSIG12	gethomeasstring
+CLASSES	jlineshell shell
+METHODS	removehandlers remove handlers setpromptpath set prompt path createansiwindowsreader create ansi windows reader flashmessagerenderer flash message renderer flash doansiflash ansi flash promptloop prompt loop setdevelopmentmode set development mode isdevelopmentmode development mode openfilelogifpossible open file log logcommandtooutput log command output gethomeasstring closeshell close shell
+VARSIG23	processedline processed
+VARSIG22	ioexception exception ignoreit ignore
+VARSIG21	developmentmode development mode
+VARSIG20	ioexception exception ioe
+VARSIG25	exception
+VARSIG24	ioexception exception ignoreit ignore
+MTHSIG10	openfilelogifpossible open file log
+VARIABLES	ioe path oldstatus status newstatus status slot slot ignore level message slot ignore existingflashinfo existing flash info row level message candidate ignore ioe developmentmode development mode ignoreit ignore processedline processed ignoreit ignore ansi console classname jansi apple terminal esc reader developmentmode development mode filelog file log statuslistener status listener flashinfomap flash info map rowerasuremap row erasure map shutdownhookfired shutdown hook fired handler mainlogger logger rooargs roo success handlers ansi ansiout ansi ansiterminal ansi terminal toremove remove flashinfo flash info buff suffix stg flashinfo flash info buff mostfurtherleftcolnumber left col number startfrom start stg roohome roo flashmessage flash message flashmessageuntil flash message flashlevel flash level rownumber row number

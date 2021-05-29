@@ -1,0 +1,72 @@
+MTHSIG26	config
+MTHSIG24	unmapurl map url cloudapp cloud app appname app clouduri cloud uri url
+MTHSIG25	clearstoredlogindetails clear stored login details
+MTHSIG22	viewapptats view apptats cloudapp cloud app appname app
+MTHSIG23	mapurl map url cloudapp cloud app appname app url
+VARSIG39	clioption cli option key url mandatory url unbind application clouduri cloud uri url
+MTHSIG4	createservice create service serviceconfiguration service configuration service cloudapp cloud app bind
+VARSIG34	clioption cli option key instance mandatory specific instance application targeted instance
+MTHSIG5	deleteservice delete service cloudservice cloud service service
+VARSIG33	clioption cli option key path mandatory path file folder navigate view cloudfile cloud file path
+MTHSIG6	bindservice bind service cloudservice cloud service service cloudapp cloud app appname app
+VARSIG32	clioption cli option key appname app mandatory application target cloudapp cloud app appname app
+MTHSIG7	unbindservice unbind service cloudservice cloud service service cloudapp cloud app appname app
+VARSIG31	clioption cli option key instance mandatory specific instance application interest instance
+MTHSIG0	iscommandavailable command
+VARSIG38	clioption cli option key appname app mandatory application unbind url cloudapp cloud app appname app
+MTHSIG1	info
+VARSIG37	clioption cli option key url mandatory url bind application url
+PACKAGE	springframework roo addon cloud foundry
+MTHSIG2	login cloudloginemail cloud login email loginemail login email password cloudcontrollerurl cloud controller url cloudcontrollerurl cloud controller url
+VARSIG36	clioption cli option key appname app mandatory application bind url cloudapp cloud app appname app
+MTHSIG3	services
+VARSIG35	clioption cli option key appname app mandatory application target cloudapp cloud app appname app
+MTHSIG20	logs cloudapp cloud app appname app instance
+MTHSIG21	files cloudapp cloud app appname app cloudfile cloud file path instance
+MTHSIG8	apps
+VARSIG30	clioption cli option key appname app mandatory application view logs cloudapp cloud app appname app
+MTHSIG9	push cloudapp cloud app appname app integer instances cloudappmemoryoption cloud app memory option memsize mem size clouddeployablefile cloud deployable file path list urls
+CLASSES	cloudfoundrycommands cloud foundry commands
+VARSIG29	clioption cli option key instance mandatory specific instance application interest instance
+VARSIG28	clioption cli option key appname app mandatory application view crash logs cloudapp cloud app appname app
+METHODS	iscommandavailable command info login services createservice create service deleteservice delete service bindservice bind service unbindservice unbind service apps push start restart delete renameapp rename app instances viewmemory view memory updatememory update memory crashes crashlogs crash logs logs files viewapptats view apptats mapurl map url unmapurl map url clearstoredlogindetails clear stored login details config
+VARSIG23	clioption cli option key num mandatory number instances scale application number
+VARSIG22	clioption cli option key appname app mandatory application list change number instances cloudapp cloud app appname app
+VARSIG21	clioption cli option key newappname app mandatory application newappname app
+VARSIG20	clioption cli option key appname app mandatory application rename cloudapp cloud app appname app
+VARSIG27	clioption cli option key appname app mandatory application view crashes cloudapp cloud app appname app
+VARSIG26	clioption cli option key memsize mem size mandatory amount memory change application application memory reservation cloudappmemoryoption cloud app memory option memsize mem size
+VARSIG25	clioption cli option key appname app mandatory application view update reservation cloudapp cloud app appname app
+VARSIG24	clioption cli option key appname app mandatory application view update reservation cloudapp cloud app appname app
+VARSIG7	clioption cli option key servicename service mandatory service instance bind cloudservice cloud service service
+VARSIG6	clioption cli option key servicename service mandatory service instance delete cloudservice cloud service service
+VARSIG9	clioption cli option key servicename service mandatory service instance bind cloudservice cloud service service
+VARSIG8	clioption cli option key appname app mandatory application bind service cloudapp cloud app appname app
+VARSIG3	clioption cli option key servicetype service type mandatory service type serviceconfiguration service configuration service
+VARSIG2	clioption cli option key cloudcontrollerurl cloud controller url mandatory cloud controller target defaults uaaawareappcloudclient uaa aware app cloud client cloud foundry url cloudcontrollerurl cloud controller url cloudcontrollerurl cloud controller url
+VARSIG5	clioption cli option key appname app mandatory app bind service cloudapp cloud app bind
+VARSIG4	clioption cli option key servicename service mandatory service instance
+COMMENTS	commands addon cloud foundry fields todo feature working initial release clicommand cli command cloud foundry rename app delete application todo add setup command cloud namespace understood clicommand cli command cloud foundry setup setup cloud foundry
+VARSIG19	clioption cli option key appname app mandatory application delete cloudapp cloud app appname app
+VARSIG1	clioption cli option key password mandatory user user password password
+VARSIG18	clioption cli option key appname app mandatory application restart cloudapp cloud app appname app
+VARSIG0	clioption cli option key email mandatory user user email address cloudloginemail cloud login email loginemail login email
+VARSIG17	clioption cli option key appname app mandatory application cloudapp cloud app appname app
+VARSIG12	clioption cli option key instances mandatory number instances created integer instances
+VARSIG11	clioption cli option key appname app mandatory desired application cloudapp cloud app appname app
+VARSIG10	clioption cli option key appname app mandatory application bind service cloudapp cloud app appname app
+VARSIG16	clioption cli option key appname app mandatory application start cloudapp cloud app appname app
+VARSIG15	clioption cli option key urls mandatory url mapped application list urls
+VARSIG14	clioption cli option key path mandatory path application deploy clouddeployablefile cloud deployable file path
+VARSIG13	clioption cli option key memory mandatory amount memory required application cloudappmemoryoption cloud app memory option memsize mem size
+MTHSIG17	updatememory update memory cloudapp cloud app appname app cloudappmemoryoption cloud app memory option memsize mem size
+MTHSIG18	crashes cloudapp cloud app appname app
+MTHSIG15	instances cloudapp cloud app appname app number
+MTHSIG16	viewmemory view memory cloudapp cloud app appname app
+MTHSIG13	delete cloudapp cloud app appname app
+MTHSIG14	renameapp rename app cloudapp cloud app appname app newappname app
+MTHSIG11	cloudapp cloud app appname app
+MTHSIG12	restart cloudapp cloud app appname app
+MTHSIG19	crashlogs crash logs cloudapp cloud app appname app instance
+MTHSIG10	start cloudapp cloud app appname app
+VARIABLES	loginemail login email password cloudcontrollerurl cloud controller url service bind service service appname app service appname app appname app instances memsize mem size path urls appname app appname app appname app appname app appname app newappname app appname app number appname app appname app memsize mem size appname app appname app instance appname app instance appname app path instance appname app appname app url appname app url cloudfoundryoperations cloud foundry operations url email appname app memory memory

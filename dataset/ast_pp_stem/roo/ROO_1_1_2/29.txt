@@ -1,0 +1,36 @@
+VARSIG7	foreignkei foreign kei foreignkei foreign kei 
+VARSIG6	tabl tabl 
+VARSIG9	map entri column set foreignkei foreign kei entryset entri set 
+VARSIG8	refer refer 
+VARSIG3	 
+VARSIG2	javapackag destinationpackag destin 
+VARSIG5	tabl tabl 
+VARSIG4	tabl tabl 
+COMMENTS	repres databas model tabl databas databas model default catalog schema javapackag entiti creat tabl initialis model establish relationship element model foreign mark repeat column insert updat determin tabl join tabl identifi join tabl tabl primari foreign point entiti tabl column 
+VARSIG1	set tabl tabl 
+VARSIG18	tabl tabl 
+VARSIG0	 
+VARSIG17	indexcolumn column indexcolumn column 
+MTHSIG4	gettabl tabl 
+VARSIG12	tabl tabl 
+MTHSIG5	hastabl tabl 
+VARSIG11	refer refer 
+MTHSIG6	gettabl tabl 
+VARSIG10	foreignkei foreign kei foreignkei foreign kei 
+MTHSIG7	initi 
+MTHSIG0	databas set tabl tabl javapackag destinationpackag destin 
+VARSIG16	 
+MTHSIG1	getnam 
+VARSIG15	tabl tabl 
+PACKAGE	springframework roo addon dbre model 
+MTHSIG2	getdestinationpackag destin 
+VARSIG14	refer refer 
+MTHSIG3	getschema schema 
+VARSIG13	foreignkei foreign kei exportedkei export kei 
+MTHSIG8	initializeimportedkei initi import tabl tabl 
+MTHSIG9	initializeexportedkei initi export tabl tabl 
+MTHSIG11	initializejoint initi join tabl tabl tabl 
+CLASSES	databas 
+METHODS	databas getnam getdestinationpackag destin getschema schema gettabl tabl hastabl tabl gettabl tabl initi initializeimportedkei initi import initializeexportedkei initi export initializeindic initi indic initializejoint initi join tabl 
+MTHSIG10	initializeindic initi indic tabl tabl 
+VARIABLES	tabl destinationpackag destin tabl tabl tabl foreignkei foreign kei refer entryset entri set foreignkei foreign kei refer tabl exportedkei export kei refer tabl indexcolumn column tabl serialversionuid serial version uid destinationpackag destin tabl keysequencemap kei sequenc map keysequ kei sequenc repeatedcolumn repeat column foreigntablenam foreign tabl targett target tabl localcolumn local column fkset set foreigncolumn foreign column foreignkei foreign refer keysequencemap kei sequenc map keysequ kei sequenc foreigntablenam foreign tabl targett target tabl localcolumn local column foreigncolumn foreign column column equal iter column 

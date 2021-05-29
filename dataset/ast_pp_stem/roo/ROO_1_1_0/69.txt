@@ -1,0 +1,30 @@
+VARSIG7	except 
+VARSIG6	ioexcept except ioe 
+VARSIG9	 
+VARSIG8	ioexcept except ioe 
+VARSIG3	encod 
+VARSIG2	port 
+VARSIG5	password 
+VARSIG4	usernam 
+COMMENTS	email configur oper physic type mutabl detail creat content user start 
+VARSIG1	mailprotocol mail protocol protocol 
+VARSIG0	hostserv host server 
+VARSIG17	element depend 
+MTHSIG4	injectemailtempl inject email templat javatyp type targettyp target type javasymbolnam symbol fieldnam field 
+VARSIG12	except 
+MTHSIG5	updateconfigur updat configur 
+VARSIG11	ioexcept except ioe 
+MTHSIG6	getpathresolv path resolv 
+VARSIG10	subject 
+MTHSIG0	isinstallemailavail instal email 
+VARSIG16	except 
+MTHSIG1	ismanageemailavail manag email 
+VARSIG15	javasymbolnam symbol fieldnam field 
+PACKAGE	springframework roo addon email 
+MTHSIG2	installemail instal email hostserv host server mailprotocol mail protocol protocol port encod usernam password 
+VARSIG14	javatyp type targettyp target type 
+MTHSIG3	configuretemplatemessag configur templat messag subject 
+VARSIG13	ioexcept except ioe 
+CLASSES	mailoperationsimpl mail oper impl 
+METHODS	isinstallemailavail instal email ismanageemailavail manag email installemail instal email configuretemplatemessag configur templat messag injectemailtempl inject email templat updateconfigur updat configur getpathresolv path resolv 
+VARIABLES	hostserv host server protocol port encod usernam password ioe ioe subject ioe ioe targettyp target type fieldnam field depend filemanag file manag pathresolv path resolv metadataservic metadata servic projectoper project oper emailpropspath email prop path databasemutablefil databas mutabl file prop contextpath context path contextmutablefil context mutabl file appctx app ctx root installdepend instal depend mailbean mail bean properti pelement element pelement element pelement element pelement element pelement element javamailproperti mail properti securityprop secur prop prop prop prop emailpropspath email prop path databasemutablefil databas mutabl file prop contextpath context path contextmutablefil context mutabl file appctx app ctx root smmbean smm bean smmproperti smm properti smmproperti smm properti annot declaredbymetadataid declar metadata ptm ptd mutabletypedetail mutabl type detail modifi fieldbuild field builder contextpath context path contextmutablefil context mutabl file appctx app ctx root smmbean smm bean bodybuild bodi builder smmannot smm annot paramtyp type paramnam name smmfieldbuild smm field builder methodbuild builder configur depend projectmetadata project metadata 

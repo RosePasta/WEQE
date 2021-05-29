@@ -1,0 +1,26 @@
+VARSIG7	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG6	javatype type aspectname aspect
+VARSIG9	javatype type idtype type
+VARSIG8	mongoentitymetadata mongo entity metadata parent
+VARSIG3	metadataidentificationstring metadata identification
+VARSIG2	metadataidentificationstring metadata identification
+VARSIG5	identifier
+VARSIG4	metadataidentificationstring metadata identification
+COMMENTS	creates metadata domain entity itds annotated link roomongoentity roo mongo entity constructor identifier identifier item metadata required aspectname aspect type required governorphysicaltypemetadata governor physical type metadata governor expected link classorinterfacetypedetails type details required parent idtype type type entity entity identifier field required governormemberdetails governor member details member details entity build user field locate existing accessor exists required accessor unique declared field produce accessor locate existing field data user field locate existing mutator exists required mutator unique declared field produce mutator
+VARSIG1	logicalpath logical path path
+VARSIG0	javatype type javatype type
+MTHSIG4	isvalid valid metadataidentificationstring metadata identification
+MTHSIG5	mongoentitymetadata mongo entity metadata identifier javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata mongoentitymetadata mongo entity metadata parent javatype type idtype type memberdetails member details memberdetails member details
+MTHSIG6	getidentifieraccessor identifier accessor
+VARSIG10	memberdetails member details memberdetails member details
+MTHSIG7	getidentifierfield identifier field
+MTHSIG0	createidentifier create identifier javatype type javatype type logicalpath logical path path
+MTHSIG1	getjavatype type metadataidentificationstring metadata identification
+PACKAGE	springframework roo addon layers repository mongo
+MTHSIG2	getmetadataidentifertype metadata identifer type
+MTHSIG3	getpath path metadataidentificationstring metadata identification
+MTHSIG8	getidentifiermutator identifier mutator
+MTHSIG9	tostring
+CLASSES	mongoentitymetadata mongo entity metadata
+METHODS	createidentifier create identifier getjavatype type getmetadataidentifertype metadata identifer type getpath path isvalid valid mongoentitymetadata mongo entity metadata getidentifieraccessor identifier accessor getidentifierfield identifier field getidentifiermutator identifier mutator tostring
+VARIABLES	javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification metadataidentificationstring metadata identification identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata parent idtype type memberdetails member details type type memberdetails member details parent idtype type idfield field parentidaccessor parent accessor requiredaccessorname required accessor bodybuilder body builder parentidfield parent field idfields fields idfieldname field fieldbuilder field builder parentidmutator parent mutator requiredmutatorname required mutator parametertypes parameter types parameternames parameter names bodybuilder body builder builder

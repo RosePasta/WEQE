@@ -1,0 +1,70 @@
+VARSIG39	membertypeadditions member type additions removemethod remove
+MTHSIG4	getfindmethodtest find test membertypeadditions member type additions findmethod find methodmetadata metadata identifieraccessormethod identifier accessor
+VARSIG34	methodmetadata metadata versionaccessormethod version accessor
+MTHSIG5	getfindallmethodtest find test membertypeadditions member type additions findallmethod find membertypeadditions member type additions countmethod count
+VARSIG33	membertypeadditions member type additions flushmethod flush
+MTHSIG6	getfindentriesmethodtest find entries test membertypeadditions member type additions countmethod count membertypeadditions member type additions findentriesmethod find entries
+VARSIG32	membertypeadditions member type additions findmethod find
+MTHSIG7	getflushmethodtest flush test methodmetadata metadata versionaccessormethod version accessor methodmetadata metadata identifieraccessormethod identifier accessor membertypeadditions member type additions flushmethod flush membertypeadditions member type additions findmethod find
+VARSIG31	membertypeadditions member type additions mergemethod merge
+MTHSIG0	integrationtestmetadata integration test metadata identifier javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata integrationtestannotationvalues integration test annotation values annotationvalues annotation values dataondemandmetadata data demand metadata dataondemandmetadata data demand metadata methodmetadata metadata identifieraccessormethod identifier accessor methodmetadata metadata versionaccessormethod version accessor membertypeadditions member type additions countmethod count membertypeadditions member type additions findmethod find membertypeadditions member type additions findallmethod find membertypeadditions member type additions findentriesmethod find entries membertypeadditions member type additions flushmethod flush membertypeadditions member type additions mergemethod merge membertypeadditions member type additions persistmethod persist membertypeadditions member type additions removemethod remove transactionmanager transaction manager hasembeddedidentifier embedded identifier entityhassuperclass entity superclass isgaeenabled gae enabled
+VARSIG38	methodmetadata metadata identifieraccessormethod identifier accessor
+MTHSIG1	addrequiredintegrationtestclassintroductions add required integration test introductions javatype type dodgovernor dod governor
+VARSIG37	membertypeadditions member type additions flushmethod flush
+PACKAGE	springframework roo addon test
+MTHSIG2	addoptionalintegrationtestclassintroductions add optional integration test introductions
+VARSIG36	membertypeadditions member type additions persistmethod persist
+MTHSIG3	getcountmethodtest count test membertypeadditions member type additions countmethod count
+VARSIG35	methodmetadata metadata identifieraccessormethod identifier accessor
+MTHSIG8	getmergemethodtest merge test membertypeadditions member type additions mergemethod merge membertypeadditions member type additions findmethod find membertypeadditions member type additions flushmethod flush methodmetadata metadata versionaccessormethod version accessor methodmetadata metadata identifieraccessormethod identifier accessor
+VARSIG30	membertypeadditions member type additions findmethod find
+MTHSIG9	getpersistmethodtest persist test membertypeadditions member type additions persistmethod persist membertypeadditions member type additions flushmethod flush methodmetadata metadata identifieraccessormethod identifier accessor
+CLASSES	integrationtestmetadata integration test metadata
+VARSIG29	membertypeadditions member type additions flushmethod flush
+VARSIG28	methodmetadata metadata identifieraccessormethod identifier accessor
+METHODS	integrationtestmetadata integration test metadata addrequiredintegrationtestclassintroductions add required integration test introductions addoptionalintegrationtestclassintroductions add optional integration test introductions getcountmethodtest count test getfindmethodtest find test getfindallmethodtest find test getfindentriesmethodtest find entries test getflushmethodtest flush test getmergemethodtest merge test getpersistmethodtest persist test getremovemethodtest remove test tostring getmetadataidentifertype metadata identifer type createidentifier create identifier getjavatype type getpath path isvalid valid
+VARSIG23	membertypeadditions member type additions findallmethod find
+VARSIG22	methodmetadata metadata identifieraccessormethod identifier accessor
+VARSIG21	membertypeadditions member type additions findmethod find
+VARSIG20	membertypeadditions member type additions countmethod count
+VARSIG27	methodmetadata metadata versionaccessormethod version accessor
+VARSIG26	membertypeadditions member type additions findentriesmethod find entries
+VARSIG25	membertypeadditions member type additions countmethod count
+VARSIG24	membertypeadditions member type additions countmethod count
+VARSIG7	membertypeadditions member type additions countmethod count
+VARSIG6	methodmetadata metadata versionaccessormethod version accessor
+VARSIG9	membertypeadditions member type additions findallmethod find
+VARSIG8	membertypeadditions member type additions findmethod find
+VARSIG3	integrationtestannotationvalues integration test annotation values annotationvalues annotation values
+VARSIG2	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG5	methodmetadata metadata identifieraccessormethod identifier accessor
+VARSIG4	dataondemandmetadata data demand metadata dataondemandmetadata data demand metadata
+COMMENTS	metadata link roointegrationtest roo integration test constants fields add gae localservicetesthelper local service test helper instance beforeclass afterclass methods gae enabled adds junit unit spring type level annotations needed add runwith springjunit classrunner spring junit runner annotation type user define governor add contextconfiguration context configuration classpath applicationcontext application context xml annotation type user define governor add transactional user define governor add data demand field user define governor add field add gae test helper field user define governor add field prepare setup set signature add prepare teardown tear signature add test count requested user prepare signature test find requested user prepare signature test find requested user core dependencies missing prepare signature test find entries requested user core dependencies missing prepare signature test flush requested user core dependencies missing prepare signature test merge requested user core dependencies missing prepare signature test persist requested user prepare signature test persist requested user core dependencies prepare signature
+VARSIG19	javatype type dodgovernor dod governor
+VARSIG1	javatype type aspectname aspect
+VARSIG18	isgaeenabled gae enabled
+VARSIG0	identifier
+VARSIG17	entityhassuperclass entity superclass
+VARSIG12	membertypeadditions member type additions mergemethod merge
+VARSIG11	membertypeadditions member type additions flushmethod flush
+VARSIG10	membertypeadditions member type additions findentriesmethod find entries
+VARSIG16	hasembeddedidentifier embedded identifier
+VARSIG15	transactionmanager transaction manager
+VARSIG14	membertypeadditions member type additions removemethod remove
+VARSIG13	membertypeadditions member type additions persistmethod persist
+MTHSIG15	getpath path metadataidentificationstring metadata identification
+MTHSIG16	isvalid valid metadataidentificationstring metadata identification
+MTHSIG13	createidentifier create identifier javatype type javatype type logicalpath logical path path
+MTHSIG14	getjavatype type metadataidentificationstring metadata identification
+MTHSIG11	tostring
+MTHSIG12	getmetadataidentifertype metadata identifer type
+VARSIG45	metadataidentificationstring metadata identification
+VARSIG44	logicalpath logical path path
+VARSIG43	javatype type javatype type
+VARSIG42	methodmetadata metadata identifieraccessormethod identifier accessor
+VARSIG47	metadataidentificationstring metadata identification
+VARSIG46	metadataidentificationstring metadata identification
+MTHSIG10	getremovemethodtest remove test membertypeadditions member type additions removemethod remove membertypeadditions member type additions findmethod find membertypeadditions member type additions flushmethod flush methodmetadata metadata identifieraccessormethod identifier accessor
+VARIABLES	identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata annotationvalues annotation values dataondemandmetadata data demand metadata identifieraccessormethod identifier accessor versionaccessormethod version accessor countmethod count findmethod find findallmethod find findentriesmethod find entries flushmethod flush mergemethod merge persistmethod persist removemethod remove transactionmanager transaction manager hasembeddedidentifier embedded identifier entityhassuperclass entity superclass isgaeenabled gae enabled dodgovernor dod governor countmethod count findmethod find identifieraccessormethod identifier accessor findallmethod find countmethod count countmethod count findentriesmethod find entries versionaccessormethod version accessor identifieraccessormethod identifier accessor flushmethod flush findmethod find mergemethod merge findmethod find flushmethod flush versionaccessormethod version accessor identifieraccessormethod identifier accessor persistmethod persist flushmethod flush identifieraccessormethod identifier accessor removemethod remove findmethod find flushmethod flush identifieraccessormethod identifier accessor javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification metadataidentificationstring metadata identification type type test setup parameters teardown parameters annotationvalues annotation values dataondemandmetadata data demand metadata isgaesupported gae supported transactionmanager transaction manager hasembeddedidentifier embedded identifier entityhassuperclass entity superclass runwithbuilder builder contextconfigurationbuilder context configuration builder transactionalbuilder transactional builder field annotations fieldbuilder field builder helpertype helper type helperfield helper field initializer fieldbuilder field builder setupmethodname set setupmethod set annotations bodybuilder body builder methodbuilder builder teardownmethodname tear teardownmethod tear annotations bodybuilder body builder methodbuilder builder methodname annotations entityname entity bodybuilder body builder methodbuilder builder methodname annotations entityname entity bodybuilder body builder methodbuilder builder methodname annotations entityname entity bodybuilder body builder methodbuilder builder methodname annotations entityname entity bodybuilder body builder methodbuilder builder methodname versiontype version type annotations entityname entity bodybuilder body builder methodbuilder builder methodname versiontype version type annotations entityname entity bodybuilder body builder caststr str methodbuilder builder methodname annotations entityname entity bodybuilder body builder methodbuilder builder methodname annotations transactionalbuilder transactional builder entityname entity bodybuilder body builder methodbuilder builder tsc
+VARSIG41	membertypeadditions member type additions flushmethod flush
+VARSIG40	membertypeadditions member type additions findmethod find

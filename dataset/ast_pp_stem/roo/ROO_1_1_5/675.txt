@@ -1,0 +1,53 @@
+MTHSIG4	script file resourc linenumb number 
+MTHSIG5	executescriptlin execut script 
+MTHSIG6	executecommand execut command 
+MTHSIG7	logcommandifrequir log command requir success 
+MTHSIG0	findurl find url resourcenam resourc 
+MTHSIG1	gethomeasstr 
+PACKAGE	springframework roo shell 
+MTHSIG2	getexecutionstrategi execut strategi 
+MTHSIG3	getpars parser 
+MTHSIG20	gethom 
+MTHSIG21	flash level level messag slot 
+MTHSIG8	logcommandtooutput log command output processedlin process 
+MTHSIG9	setpromptpath set prompt path path 
+CLASSES	abstractshel shell 
+METHODS	findurl find url gethomeasstr getexecutionstrategi execut strategi getpars parser script executescriptlin execut script executecommand execut command logcommandifrequir log command requir logcommandtooutput log command output setpromptpath set prompt path getexitshellrequest exit shell request inlinecom inlin comment blockcommentbegin block comment blockcommentfinish block comment finish prop flashcustom flash custom version versioninfo version info getshellprompt shell prompt gethom flash 
+VARSIG23	level level 
+VARSIG22	ioexcept except 
+VARSIG21	except ignoreandmoveon ignor move 
+VARSIG20	clioption cli option kei special version flag extra 
+VARSIG25	slot 
+VARSIG24	messag 
+VARSIG7	ioexcept except 
+VARSIG6	ioexcept except 
+VARSIG9	 
+VARSIG8	 
+VARSIG3	filenotfoundexcept file except trytheclassloaderinstead loader 
+VARSIG2	clioption cli option kei linenumb number mandatori specifieddefaultvalu unspecifieddefaultvalu unspecifi displai number execut script linenumb number 
+VARSIG5	ioexcept except 
+VARSIG4	ioexcept except 
+COMMENTS	base link shell implement constant field don renam api chang st instanc field method find resourc classload handl search system failur handl file simpli search abort script process wrong execut singl script overridden class pre process script line command attempt wait support simpl block comment singl pair support inlin comment start valid command option http helloworld fail roo support roo convert tab charact whitespac roo processmanag process manag chanc close thread osgi framework termin roo reli execut strategi log throwabl root exceptionutil except util extractrootcaus extract root logger log level fine root getmessag messag subclass log execut form command invok command complet command return return except note attempt command form miss mandatori argument present command execut attempt case invok attempt execut command implement special handl script command indic command success implement behav consist link abstractshel shell subclass encourag simpli overrid link logcommandtooutput log command output overrid fine tune output logic pars comment remov success command success subclass write log command form output free subclass need implement logic link logcommandifrequir log command requir implement invok link getexitshellrequest exit shell request monitor attempt exit shell releas resourc output log file processedlin process append type output exclud charact logger sever processedlin process base implement link shell setpromptpath set prompt path design simpl shell implement advanc implement support ansi code overrid set link shellprompt shell prompt variabl path set empti format special ansi code determin bundl version attempt bundl version version manifest separ version obtain directori current shell instanc note call link gethomeasstr subclass provid directori locat environ specif strategi path link gethomeasstr exist refer directori directori return path link gethomeasstr exist refer file except thrown path link gethomeasstr exist creat directori fail except thrown directori current shell instanc guarante exist directori simpl implement link flash level simpli displai messag logger recommend shell implement overrid effect approach 
+VARSIG19	 
+VARSIG1	clioption cli option kei file file locat execut mandatori file resourc 
+VARSIG18	object properti 
+VARSIG0	resourcenam resourc 
+VARSIG17	path 
+VARSIG12	runtimeexcept runtim except 
+VARSIG11	object 
+VARSIG10	interruptedexcept interrupt except ignor 
+VARSIG16	processedlin process 
+VARSIG15	success 
+VARSIG14	 
+VARSIG13	except 
+MTHSIG17	version extra 
+MTHSIG18	versioninfo version info 
+MTHSIG15	 
+MTHSIG16	flashcustom flash custom 
+MTHSIG13	blockcommentfinish block comment finish 
+MTHSIG14	prop 
+MTHSIG11	inlinecom inlin comment 
+MTHSIG12	blockcommentbegin block comment 
+MTHSIG19	getshellprompt shell prompt 
+MTHSIG10	getexitshellrequest exit shell request 
+VARIABLES	resourcenam resourc resourc linenumb number trytheclassloaderinstead loader ignor success processedlin process path properti extra ignoreandmoveon ignor move level messag slot slot completionkei complet shellprompt shell prompt logger inblockcom block comment exitshellrequest exit shell request start inputstream input stream url success executionstrategi execut strategi flashedmessag flash messag parseresult pars result lh result properti data bundlevers bundl version gitcommithash git commit hash jarfil jar file classcontain contain manifestentri manifest entri manifest roohom roo 

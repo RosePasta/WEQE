@@ -1,0 +1,11 @@
+MTHSIG0	addaction add action actionconfig action config actionconfig action config
+MTHSIG1	getactions actions
+PACKAGE	springframework roo addon tailor config
+MTHSIG2	getcommandname command
+MTHSIG3	setcommandname set command commandname command
+COMMENTS	configuration list actions roo command command trigger configuration
+CLASSES	commandconfiguration command configuration
+VARIABLES	actionconfig action config commandname command commandname command actions
+VARSIG1	commandname command
+VARSIG0	actionconfig action config actionconfig action config
+METHODS	addaction add action getactions actions getcommandname command setcommandname set command

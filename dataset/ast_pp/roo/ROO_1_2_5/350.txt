@@ -1,0 +1,21 @@
+VARSIG7	host
+VARSIG6	port
+VARSIG9	javatype type interfacetype type
+VARSIG8	cloudfoundry cloud foundry
+VARSIG3	username
+VARSIG2	testautomatically test automatically
+VARSIG5	
+VARSIG4	password
+COMMENTS	operations spring data mongodb mongo repository add creates domain type ready backing spring data mongodb mongo repository classtype type required idtype type optional defaults link biginteger big integer testautomatically test automatically mongo setup command project command repository mongo command project command setup current project spring data mongodb mongo configuration username optional password optional database optional defaults project port optional defaults host optional defaults cloudfoundry cloud foundry project deployable vmware mware cloudfoundry cloud foundry optional defaults creates repository spring data jpa mongodb mongo integration interfacetype type required classtype type optional
+CLASSES	mongooperations mongo operations
+VARSIG1	javatype type idtype type
+VARSIG0	javatype type classtype type
+METHODS	createtype create type ismongoinstallationpossible mongo installation isrepositoryinstallationpossible repository installation setup setuprepository setup repository
+MTHSIG4	setuprepository setup repository javatype type interfacetype type javatype type classtype type
+VARSIG10	javatype type classtype type
+MTHSIG0	createtype create type javatype type classtype type javatype type idtype type testautomatically test automatically
+MTHSIG1	ismongoinstallationpossible mongo installation
+PACKAGE	springframework roo addon layers repository mongo
+MTHSIG2	isrepositoryinstallationpossible repository installation
+MTHSIG3	setup username password port host cloudfoundry cloud foundry
+VARIABLES	classtype type idtype type testautomatically test automatically username password port host cloudfoundry cloud foundry interfacetype type classtype type

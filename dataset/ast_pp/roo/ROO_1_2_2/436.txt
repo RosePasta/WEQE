@@ -1,0 +1,20 @@
+VARSIG6	ioexception exception
+VARSIG3	solrserverurl solr server url
+VARSIG2	classorinterfacetypedetails type details cid
+VARSIG5	ioexception exception ioe
+VARSIG4	solrserverurl solr server url
+COMMENTS	search configuration operations
+CLASSES	solroperationsimpl solr operations impl
+VARSIG1	javatype type javatype type
+VARSIG0	classorinterfacetypedetails type details cid
+METHODS	addall add addsearch add search addsolrsearchableannotation add solr searchable annotation issearchavailable search issolrinstallationpossible solr installation setupconfig setup config solrpropsinstalled solr props installed updatesolrproperties update solr properties
+MTHSIG4	issolrinstallationpossible solr installation
+MTHSIG5	setupconfig setup config solrserverurl solr server url
+MTHSIG6	solrpropsinstalled solr props installed
+MTHSIG7	updatesolrproperties update solr properties solrserverurl solr server url
+MTHSIG0	addall add
+MTHSIG1	addsearch add search javatype type javatype type
+PACKAGE	springframework roo addon solr
+MTHSIG2	addsolrsearchableannotation add solr searchable annotation classorinterfacetypedetails type details cid
+MTHSIG3	issearchavailable search
+VARIABLES	cid javatype type cid solrserverurl solr server url solrserverurl solr server url ioe solrj filemanager file manager projectoperations project operations typelocationservice type location service typemanagementservice type management service cids cid cidbuilder cid builder contextpath context path appctx app ctx root solrserver solr server solrpath solr path solrexists solr exists props inputstream input stream outputstream output stream mutablefile mutable file

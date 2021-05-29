@@ -1,0 +1,16 @@
+VARSIG2	responsibleclass responsible
+COMMENTS	simplifies creation nested event logs metadata timing statistics intended concurrent link metadatadependencyregistry metadata dependency registry link metadataservice metadata service metadata timing simplest operation metadata provider invoked link metadatalogger metadata logger identifies metadata provider responsible commences timing link starttimer start timer metadata provider free perform work include calling metadata metadata requested link starttimer start timer invocations place metadata provider completes work link stoptimer timer called aggregates timing link gettimings timings metadata logging logging place link startevent start event invoked definition event varies generally series logging calls event event started calls link log log messages associate active event event concludes link stopevent event called nesting automatically handled implementation successive start event calls indented logging output logging output correctly reporting correlating event callers invoke link log suitable link gettracelevel trace level desired user call start called failure observe requirement lead exceptions stack managed invalid detected implementations free store metadata logging output file file created call link log snapshot timing statistics collated empty active trace level major events events logs message event identifier message log required enable level tracing event delivery defaults level trace level major events events increments current stack level current stack level determines indentation logged messages required increment link decrementlevel decrement level invoked starts timer counting responsible timer eventually link stoptimer timer timings cease counted responsible link starttimer start timer invoked responsibleclass responsible responsible timing required decrements current stack level stops started timer mandatory reverse order timers started timer stops update timings
+CLASSES	metadatalogger metadata logger
+VARSIG1	trace
+VARSIG0	message
+METHODS	gettimings timings gettracelevel trace level log settracelevel set trace level startevent start event starttimer start timer stopevent event stoptimer timer
+MTHSIG4	startevent start event
+MTHSIG5	starttimer start timer responsibleclass responsible
+MTHSIG6	stopevent event
+MTHSIG7	stoptimer timer
+MTHSIG0	gettimings timings
+MTHSIG1	gettracelevel trace level
+PACKAGE	springframework roo metadata
+MTHSIG2	log message
+MTHSIG3	settracelevel set trace level trace
+VARIABLES	message trace responsibleclass responsible

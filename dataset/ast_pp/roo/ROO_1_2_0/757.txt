@@ -1,0 +1,28 @@
+VARSIG3	fileoperation file operation expectedfileoperations expected file operations
+VARSIG2	file expectedfile expected file
+VARSIG5	expectedtext expected text
+VARSIG4	monitoringrequest monitoring request mockmonitoringrequest mock monitoring request
+COMMENTS	unit test link monitoringrequesteditor monitoring request editor constants fixture asserts passing text link monitoringrequesteditor monitoring request editor link monitoringrequest monitoring request text text pass blank set invoke check asserts passing text link monitoringrequesteditor monitoring request editor setastext set text link monitoringrequest monitoring request values text text parse link monitoringrequest monitoring request expectedfile expected file file expect monitored expectedfileoperations expected file operations operations expect notified generated link monitoringrequest monitoring request assertions set invoke check set set asserts editor converts link monitoringrequest monitoring request text mockmonitoringrequest mock monitoring request expectedtext expected text exception set invoke check
+VARSIG1	text
+VARSIG0	text
+MTHSIG4	testsettingnullastextcreatesnullvalue test setting text creates
+MTHSIG5	testsettingemptyastextcreatesnullvalue test setting empty text creates
+MTHSIG6	assertcreatesnullmonitoringrequest creates monitoring request text
+MTHSIG7	assertmonitoringrequest monitoring request text file expectedfile expected file fileoperation file operation expectedfileoperations expected file operations
+MTHSIG0	setup set
+MTHSIG1	testsettingtextwithnocommaisinvalid test setting text comma invalid
+PACKAGE	springframework roo file monitor
+MTHSIG2	testsettingtextwithnooperationcodesisinvalid test setting text operation codes invalid
+MTHSIG3	testmonitoringsubtreeoffileisinvalid test monitoring tree file invalid
+MTHSIG8	testmonitorfileforrenameupdateordelete test monitor file rename update delete
+MTHSIG9	testmonitordirectorybutnotsubtreeforrename test monitor directory subtree rename
+MTHSIG15	assertastext text monitoringrequest monitoring request mockmonitoringrequest mock monitoring request expectedtext expected text
+MTHSIG16	teardown tear
+MTHSIG13	testgetastextwhenmonitoringdirectoryandsubtree test text monitoring directory tree
+MTHSIG14	testgetastextwhenmonitoringfile test text monitoring file
+MTHSIG11	testgetastextwhennovalueset test text set
+MTHSIG12	testgetastextwhenmonitoringdirectoryonly test text monitoring directory
+CLASSES	monitoringrequesteditortest monitoring request editor test
+METHODS	setup set testsettingtextwithnocommaisinvalid test setting text comma invalid testsettingtextwithnooperationcodesisinvalid test setting text operation codes invalid testmonitoringsubtreeoffileisinvalid test monitoring tree file invalid testsettingnullastextcreatesnullvalue test setting text creates testsettingemptyastextcreatesnullvalue test setting empty text creates assertcreatesnullmonitoringrequest creates monitoring request assertmonitoringrequest monitoring request testmonitorfileforrenameupdateordelete test monitor file rename update delete testmonitordirectorybutnotsubtreeforrename test monitor directory subtree rename testmonitordirectoryandsubtreefordelete test monitor directory subtree delete testgetastextwhennovalueset test text set testgetastextwhenmonitoringdirectoryonly test text monitoring directory testgetastextwhenmonitoringdirectoryandsubtree test text monitoring directory tree testgetastextwhenmonitoringfile test text monitoring file assertastext text teardown tear
+MTHSIG10	testmonitordirectoryandsubtreefordelete test monitor directory subtree delete
+VARIABLES	text text expectedfile expected file expectedfileoperations expected file operations mockmonitoringrequest mock monitoring request expectedtext expected text temp dir testdirectory test directory testfile test file editor monitoringrequest monitoring request monitoringrequest monitoring request notifyon notify monitoringrequest monitoring request directorymonitoringrequest directory monitoring request monitoringrequest monitoring request directorymonitoringrequest directory monitoring request mockmonitoringrequest mock monitoring request mockmonitoringrequest mock monitoring request mockfile mock file operations text

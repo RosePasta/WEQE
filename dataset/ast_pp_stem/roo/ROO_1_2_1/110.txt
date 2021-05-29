@@ -1,0 +1,31 @@
+VARSIG7	javatyp type aspectnam aspect 
+VARSIG6	metadataidentificationstr metadata identif 
+VARSIG9	itdfilenam filenam 
+VARSIG8	physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+VARSIG3	componentcontext compon context context 
+VARSIG2	logicalpath logic path path 
+VARSIG5	itdtypedetail type detail itdtypedetail type detail 
+VARSIG4	metadataidentificationstr metadata identif 
+COMMENTS	implement link equalsmetadataprovid equal metadata provid 
+VARSIG1	javatyp type javatyp type 
+VARSIG0	componentcontext compon context context 
+MTHSIG4	getitduniquenessfilenamesuffix uniqu filenam suffix 
+VARSIG12	memberdetail member detail memberdetail member detail 
+MTHSIG5	getlocalmidtorequest local mid request itdtypedetail type detail itdtypedetail type detail 
+VARSIG11	excludefield exclud field 
+MTHSIG6	getmetadata metadata metadataidentificationstr metadata identif javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata itdfilenam filenam 
+VARSIG10	javatyp type javatyp type 
+MTHSIG7	getprovidestyp type 
+MTHSIG0	activ componentcontext compon context context 
+VARSIG16	fieldmetadata field metadata field 
+MTHSIG1	createlocalidentifi creat local identifi javatyp type javatyp type logicalpath logic path path 
+VARSIG15	fieldmetadata field metadata 
+PACKAGE	springframework roo addon equal 
+MTHSIG2	deactiv componentcontext compon context context 
+VARSIG14	fieldmetadata field metadata 
+MTHSIG3	getgovernorphysicaltypeidentifi governor physic type identifi metadataidentificationstr metadata identif 
+VARSIG13	metadataidentificationstr metadata identif 
+MTHSIG8	locatefield locat field javatyp type javatyp type excludefield exclud field memberdetail member detail memberdetail member detail metadataidentificationstr metadata identif 
+CLASSES	equalsmetadataproviderimpl equal metadata provid impl 
+METHODS	activ createlocalidentifi creat local identifi deactiv getgovernorphysicaltypeidentifi governor physic type identifi getitduniquenessfilenamesuffix uniqu filenam suffix getlocalmidtorequest local mid request getmetadata metadata getprovidestyp type locatefield locat field 
+VARIABLES	context javatyp type path context metadataidentificationstr metadata identif itdtypedetail type detail metadataidentificationstr metadata identif aspectnam aspect governorphysicaltypemetadata governor physic type metadata itdfilenam filenam javatyp type excludefield exclud field memberdetail member detail metadataidentificationstr metadata identif field javatyp type path annotationvalu annot valu memberdetail member detail javatyp type equalityfield equal field locatedfield locat field excludefieldslist exclud field list versionfield version field 

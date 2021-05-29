@@ -1,0 +1,17 @@
+VARSIG3	ioexcept except ioe 
+VARSIG2	managedmessagerender manag messag render managedmessagerender manag messag render 
+VARSIG5	messag 
+VARSIG4	ioexcept except ioe 
+COMMENTS	implement link mutablefil mutabl file permit check file chang instanc construct check file chang instanc construct 
+CLASSES	defaultmutablefil mutabl file 
+VARSIG1	notifiablefilemonitorservic notifi file monitor servic filemonitorservic file monitor servic 
+VARSIG0	file file 
+METHODS	defaultmutablefil mutabl file getcanonicalpath canon path getinputstream input stream getoutputstream output stream setdescriptionofchang set descript chang tostr 
+MTHSIG4	setdescriptionofchang set descript chang messag 
+MTHSIG5	tostr 
+MTHSIG0	defaultmutablefil mutabl file file file notifiablefilemonitorservic notifi file monitor servic filemonitorservic file monitor servic managedmessagerender manag messag render managedmessagerender manag messag render 
+MTHSIG1	getcanonicalpath canon path 
+PACKAGE	springframework roo process manag intern 
+MTHSIG2	getinputstream input stream 
+MTHSIG3	getoutputstream output stream 
+VARIABLES	file filemonitorservic file monitor servic managedmessagerender manag messag render ioe ioe messag file filemonitorservic file monitor servic managedmessagerender manag messag render builder 

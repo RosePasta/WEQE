@@ -1,0 +1,17 @@
+VARSIG3	clioption cli option key mandatory path jsf managed bean created javatype type managedbean managed bean
+VARSIG2	clioption cli option key mandatory optioncontext option context update jsf managed beans javapackage destinationpackage destination
+VARSIG5	clioption cli option key includeonmenu include menu mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified include entity generated jsf menu includeonmenu include menu
+VARSIG4	clioption cli option key entity mandatory unspecifieddefaultvalue unspecified optioncontext option context update project entity jsf managed bean create modify required javatype type entity
+COMMENTS	commands jsf add roo shell
+CLASSES	jsfcommands jsf commands
+VARSIG1	clioption cli option key mandatory jsf implementation jsfimplementation jsf implementation jsfimplementation jsf implementation
+VARSIG0	clioption cli option key implementation mandatory jsf implementation jsfimplementation jsf implementation jsfimplementation jsf implementation
+METHODS	issetupavailable setup isjsfavailable jsf webjsfsetup web jsf setup webjsfimplementation web jsf implementation webjsfall web jsf webjsfscaffold web jsf scaffold
+MTHSIG4	webjsfall web jsf javapackage destinationpackage destination
+MTHSIG5	webjsfscaffold web jsf scaffold javatype type managedbean managed bean javatype type entity includeonmenu include menu
+MTHSIG0	issetupavailable setup
+MTHSIG1	isjsfavailable jsf
+PACKAGE	springframework roo addon jsf
+MTHSIG2	webjsfsetup web jsf setup jsfimplementation jsf implementation jsfimplementation jsf implementation
+MTHSIG3	webjsfimplementation web jsf implementation jsfimplementation jsf implementation jsfimplementation jsf implementation
+VARIABLES	jsfimplementation jsf implementation jsfimplementation jsf implementation destinationpackage destination managedbean managed bean entity includeonmenu include menu jsfoperations jsf operations

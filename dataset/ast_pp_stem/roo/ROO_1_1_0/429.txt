@@ -1,0 +1,63 @@
+MTHSIG28	onshellstatuschang shell statu chang shellstatu shell statu oldstatu statu shellstatu shell statu newstatu statu 
+MTHSIG26	perform commandlin command 
+MTHSIG27	quit 
+MTHSIG24	obrdeploi obr deploi bundlesymbolicnam bundl symbol bsn 
+MTHSIG25	obrstart obr start bundlesymbolicnam bundl symbol bsn 
+MTHSIG22	obrlist obr list keyword 
+MTHSIG23	obrinfo obr info bundlesymbolicnam bundl symbol bsn 
+MTHSIG4	log psoption option format 
+MTHSIG5	find bundlesymbolicnam bundl symbol bsn 
+MTHSIG6	header bundlesymbolicnam bundl symbol bsn 
+MTHSIG7	instal url 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	deactiv componentcontext compon context context 
+PACKAGE	springframework roo felix 
+MTHSIG2	shell commandlin command 
+MTHSIG3	log integ maximumentri maximum entri loglevel log level loglevel log level 
+MTHSIG20	obrurlremov obr url remov url 
+MTHSIG21	obrurlrefresh obr url refresh url 
+MTHSIG8	start url 
+MTHSIG9	uninstal bundlesymbolicnam bundl symbol bsn 
+CLASSES	felixdeleg felix deleg 
+VARSIG28	except 
+METHODS	activ deactiv shell log log find header instal start uninstal updat resolv version scrlist scr list scrinfo scr info screnabl scr enabl scrdisabl scr disabl scrconfig scr config obrurllist obr url list obrurladd obr url add obrurlremov obr url remov obrurlrefresh obr url refresh obrlist obr list obrinfo obr info obrdeploi obr deploi obrstart obr start perform quit onshellstatuschang shell statu chang 
+VARSIG23	clioption cli option kei bundlesymbolicnam bundl symbol mandatori optioncontext option context obr specif bundl deploi bundlesymbolicnam bundl symbol bsn 
+VARSIG22	clioption cli option kei bundlesymbolicnam bundl symbol mandatori optioncontext option context obr specif bundl displai bundlesymbolicnam bundl symbol bsn 
+VARSIG21	clioption cli option kei keyword mandatori keyword locat keyword 
+VARSIG20	clioption cli option kei url mandatori url refresh list exist url osgi obr url list url 
+VARSIG27	shellstatu shell statu newstatu statu 
+VARSIG26	shellstatu shell statu oldstatu statu 
+VARSIG25	commandlin command 
+VARSIG24	clioption cli option kei bundlesymbolicnam bundl symbol mandatori optioncontext option context obr specif bundl start bundlesymbolicnam bundl symbol bsn 
+VARSIG7	clioption cli option kei bundlesymbolicnam bundl symbol mandatori limit specif bundl symbol bundlesymbolicnam bundl symbol bsn 
+VARSIG6	clioption cli option kei bundlesymbolicnam bundl symbol mandatori bundl symbol find bundlesymbolicnam bundl symbol bsn 
+VARSIG9	clioption cli option kei url mandatori url bundl url 
+VARSIG8	clioption cli option kei url mandatori url bundl url 
+VARSIG3	clioption cli option kei maximumentri maximum entri mandatori maximum number log messag displai integ maximumentri maximum entri 
+VARSIG2	clioption cli option kei mandatori specifieddefaultvalu unspecifieddefaultvalu unspecifi command pass felix warn valid secur check perform commandlin command 
+VARSIG5	clioption cli option kei format mandatori specifieddefaultvalu bundl unspecifieddefaultvalu unspecifi bundl format bundl psoption option format 
+VARSIG4	clioption cli option kei level mandatori minimum level messag displai loglevel log level loglevel log level 
+COMMENTS	deleg command felix felix shell api monitor roo shell determin wish shutdown shutdown request pass felix process roo 
+VARSIG19	clioption cli option kei url mandatori url remov list exist url osgi obr url list url 
+VARSIG1	componentcontext compon context context 
+VARSIG18	clioption cli option kei url mandatori url add http felix obr releas xml url 
+VARSIG0	componentcontext compon context context 
+VARSIG17	clioption cli option kei componentid compon mandatori specif compon identifi osgi scr list list compon identifi integ 
+VARSIG12	clioption cli option kei url mandatori url updat bundl url 
+VARSIG11	clioption cli option kei bundlesymbolicnam bundl symbol mandatori specif bundl updat bundlesymbolicnam bundl symbol bsn 
+VARSIG10	clioption cli option kei bundlesymbolicnam bundl symbol mandatori specif bundl uninstal bundlesymbolicnam bundl symbol bsn 
+VARSIG16	clioption cli option kei componentid compon mandatori specif compon identifi osgi scr list list compon identifi integ 
+VARSIG15	clioption cli option kei componentid compon mandatori specif compon identifi osgi scr list list compon identifi integ 
+VARSIG14	clioption cli option kei bundleid bundl mandatori limit specif bundl bundlesymbolicnam bundl symbol bsn 
+VARSIG13	clioption cli option kei bundlesymbolicnam bundl symbol mandatori specif bundl resolv bundlesymbolicnam bundl symbol bsn 
+MTHSIG17	scrconfig scr config 
+MTHSIG18	obrurllist obr url list 
+MTHSIG15	screnabl scr enabl integ 
+MTHSIG16	scrdisabl scr disabl integ 
+MTHSIG13	scrlist scr list bundlesymbolicnam bundl symbol bsn 
+MTHSIG14	scrinfo scr info integ 
+MTHSIG11	resolv bundlesymbolicnam bundl symbol bsn 
+MTHSIG12	version 
+MTHSIG19	obrurladd obr url add url 
+MTHSIG10	updat bundlesymbolicnam bundl symbol bsn url 
+VARIABLES	context context commandlin command maximumentri maximum entri loglevel log level format bsn bsn url url bsn bsn url bsn bsn url url url keyword bsn bsn bsn commandlin command oldstatu statu newstatu statu shellservic shell servic rooshel roo shell staticfieldconvert field convert context sysout sy syserr sy err printstreamout print stream printerrout print err 

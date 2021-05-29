@@ -1,0 +1,23 @@
+VARSIG7	tilestemplatenam tile templat 
+VARSIG6	tilesviewnam tile view 
+VARSIG9	 
+VARSIG8	viewloc view locat 
+VARSIG3	webmvcconfignam web mvc config 
+VARSIG2	pathresolv path resolv pathresolv path resolv 
+VARSIG5	ioexcept except ioe 
+VARSIG4	saxexcept sax except 
+COMMENTS	oper manag tile view definit creat configur object setup artifact tile layout engin foldernam folder folder view artifact specif add domain object store locat web inf view filemanag file manag file manag virtual filesystem oper pathresolv path resolv path resolv webmvcconfignam web mvc config configur tilesconfigur tile configur resid add view definit view xml tile configur tilesviewnam tile view simpl view list updat view nest folder owner list owner tilestemplatenam tile templat templat admin templateloc templat locat locat templat web applic web inf view owner list jspx definit exist add view definit view xml tile configur simpl view list updat find menu item categori exist attempt save tile view definit actual file detect disk chang updat creat build represent jsp mutablefil mutabl file write content jspcontent jsp content file verifi file chang write file file exist file content wrote file file exist contain content behaviour 
+CLASSES	tilesoper tile oper 
+VARSIG1	filemanag file manag filemanag file manag 
+VARSIG0	foldernam folder 
+METHODS	tilesoper tile oper addviewdefinit add view definit removeviewdefinit remov view definit writetodiskifnecessari write disk 
+VARSIG12	publicid 
+VARSIG11	ioexcept except ioe 
+VARSIG10	ioexcept except ignoreandjustoverwriteit ignor overwrit 
+MTHSIG0	tilesoper tile oper foldernam folder filemanag file manag filemanag file manag pathresolv path resolv pathresolv path resolv webmvcconfignam web mvc config 
+MTHSIG1	addviewdefinit add view definit tilesviewnam tile view tilestemplatenam tile templat viewloc view locat 
+PACKAGE	springframework roo addon mvc jsp 
+MTHSIG2	removeviewdefinit remov view definit 
+MTHSIG3	writetodiskifnecessari write disk 
+VARSIG13	systemid system 
+VARIABLES	foldernam folder filemanag file manag pathresolv path resolv webmvcconfignam web mvc config ioe tilesviewnam tile view tilestemplatenam tile templat viewloc view locat ignoreandjustoverwriteit ignor overwrit ioe publicid systemid system root filemanag file manag pathresolv path resolv simplebeannam simpl bean templat templat tilesview tile view viewfil view file builder definit putattribut attribut element bytearrayoutputstream arrai output stream transform jspcontent jsp content tilesdefinit tile definit mutablefil mutabl file exist 

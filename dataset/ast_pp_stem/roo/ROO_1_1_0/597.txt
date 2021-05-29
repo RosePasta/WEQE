@@ -1,0 +1,11 @@
+MTHSIG0	jlinecompletoradapt completor adapt parser simplepars simpl parser 
+VARSIG3	list candid 
+MTHSIG1	complet buffer cursor list candid 
+VARSIG2	cursor 
+PACKAGE	springframework roo shell jline 
+COMMENTS	implement jline jline link completor deleg roo roo link simplepars simpl parser 
+CLASSES	jlinecompletoradapt completor adapt 
+VARIABLES	simplepars simpl parser buffer cursor candid simplepars simpl parser result 
+VARSIG1	buffer 
+VARSIG0	parser simplepars simpl parser 
+METHODS	jlinecompletoradapt completor adapt complet 

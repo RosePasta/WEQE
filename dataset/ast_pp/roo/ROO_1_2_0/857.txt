@@ -1,0 +1,16 @@
+VARSIG3	filter
+VARSIG2	object obj
+COMMENTS	simplified immutable representation filter fields convenience constructor creating filter instance property required convenience constructor creating filter instance xml element element property definition required filter
+CLASSES	filter
+VARSIG1	element element
+VARSIG0	
+METHODS	filter filter getvalue hashcode hash code equals compareto compare tostring
+MTHSIG4	equals object obj
+MTHSIG5	compareto compare filter
+MTHSIG6	tostring
+MTHSIG0	filter
+MTHSIG1	filter element element
+PACKAGE	springframework roo project
+MTHSIG2	getvalue
+MTHSIG3	hashcode hash code
+VARIABLES	element obj prime result tsc

@@ -1,0 +1,28 @@
+VARSIG7	identifier
+VARSIG6	pathinformation path
+VARSIG9	path path
+VARSIG8	identifier
+VARSIG3	requiresource require source
+VARSIG2	path path
+VARSIG5	identifier
+VARSIG4	pathinformation path
+COMMENTS	link pathresolver path resolver implementation subclasses created common build system structures paths constructor cached map paths called link init wishes list paths register unmodifiable list path required called subclass ready complete initialization link getpathinformation path ready called obtains link path requiresource require source path source path source source list matching paths locates link pathinformation path construed parent presented identifier identifier locate parent required matching parent
+VARSIG1	identifier
+VARSIG0	pathinformation path
+MTHSIG4	getpaths paths requiresource require source
+MTHSIG5	getpaths paths
+MTHSIG6	getnonsourcepaths source paths
+VARSIG10	relativepath relative path
+MTHSIG7	getsourcepaths source paths
+MTHSIG0	getpathinformation path
+MTHSIG1	init
+PACKAGE	springframework roo project internal
+MTHSIG2	getfriendlyname friendly identifier
+MTHSIG3	getroot root path path
+MTHSIG8	getapplicablepathinformation applicable path identifier
+MTHSIG9	getpath path identifier
+MTHSIG11	getidentifier identifier path path relativepath relative path
+CLASSES	abstractpathresolver path resolver
+METHODS	getpathinformation path init getfriendlyname friendly getroot root getpaths paths getpaths paths getnonsourcepaths source paths getsourcepaths source paths getapplicablepathinformation applicable path getpath path getrelativesegment relative segment getidentifier identifier
+MTHSIG10	getrelativesegment relative segment identifier
+VARIABLES	identifier path requiresource require source identifier identifier identifier path relativepath relative path pathorder path order pathcache path cache pathinformation path pathinfo path info root result possibleparent parent parent parent parentfi parent newpath path

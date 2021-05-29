@@ -1,0 +1,30 @@
+VARSIG7	path 
+VARSIG6	pattern 
+VARSIG9	map uritemplatevari uri templat variabl 
+VARSIG8	fullmatch full match 
+VARSIG3	path 
+VARSIG2	pattern 
+VARSIG5	path 
+VARSIG4	pattern 
+COMMENTS	pathmatch path matcher implement ant style path pattern exampl path separ set path separ pattern pars ant match path pattern pattern pattern match path path test fullmatch full match full pattern match requir pattern match base path suffici suppli path match didn match element path exhaust match pattern exhaust pattern failur path start match pattern exhaust situat skip find pattern padidxstart pad idx start padidxtmp pad idx tmp str stridxstart str idx start stridxend str idx test match pattern pattern special charact charact charact pattern pattern match str match pattern match pattern pattern full path determin pattern map doc cv commit html doc cv commit html doc doc cv commit cv commit doc cv html doc cv commit html commit html doc add path part wildcard pattern append trail path part 
+VARSIG1	path 
+VARSIG0	pathsepar path separ 
+MTHSIG4	domatch match pattern path fullmatch full match map uritemplatevari uri templat variabl 
+VARSIG12	map uritemplatevari uri templat variabl 
+MTHSIG5	matchstr match string pattern str map uritemplatevari uri templat variabl 
+VARSIG11	str 
+MTHSIG6	extractpathwithinpattern extract path pattern pattern path 
+VARSIG10	pattern 
+MTHSIG7	extracturitemplatevari extract uri templat variabl pattern path 
+MTHSIG0	setpathsepar set path separ pathsepar path separ 
+VARSIG16	path 
+MTHSIG1	ispattern pattern path 
+VARSIG15	pattern 
+PACKAGE	springframework roo support ant 
+MTHSIG2	match pattern path 
+VARSIG14	path 
+MTHSIG3	matchstart match start pattern path 
+VARSIG13	pattern 
+CLASSES	antpathmatch ant path matcher 
+METHODS	setpathsepar set path separ ispattern pattern match matchstart match start domatch match matchstr match string extractpathwithinpattern extract path pattern extracturitemplatevari extract uri templat variabl 
+VARIABLES	pathsepar path separ path pattern path pattern path pattern path fullmatch full match uritemplatevari uri templat variabl pattern str uritemplatevari uri templat variabl pattern path pattern path path separ pathsepar path separ pattdir patt dir pathdir path dir pattidxstart patt idx start pattidxend patt idx pathidxstart path idx start pathidxend path idx patdir pat dir patdir pat dir patidxtmp pat idx tmp patlength pat length strlength str length foundidx idx subpat pat substr str matcher patternpart pattern part pathpart path part builder put patternpart pattern variabl result 

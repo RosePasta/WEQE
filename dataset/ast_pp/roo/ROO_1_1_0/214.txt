@@ -1,0 +1,65 @@
+VARSIG39	properties props
+MTHSIG4	changeproperty change property path propertyfilepath property file path propertyfilename property filename key sorted
+VARSIG34	object key
+MTHSIG5	manageproperty manage property path propertyfilepath property file path propertyfilename property filename key sorted changeexisting change existing
+VARSIG33	ioexception exception ioe
+MTHSIG6	removeproperty remove property path propertyfilepath property file path propertyfilename property filename key
+VARSIG32	includevalues include values
+MTHSIG7	getproperty property path propertyfilepath property file path propertyfilename property filename key
+VARSIG31	propertyfilename property filename
+MTHSIG0	ispropertiescommandavailable properties command
+VARSIG38	object key
+MTHSIG1	addpropertyifnotexists add property exists path propertyfilepath property file path propertyfilename property filename key
+VARSIG37	ioexception exception ioe
+PACKAGE	springframework roo addon propfiles
+MTHSIG2	addpropertyifnotexists add property exists path propertyfilepath property file path propertyfilename property filename key sorted
+VARSIG36	propertyfilename property filename
+MTHSIG3	changeproperty change property path propertyfilepath property file path propertyfilename property filename key
+VARSIG35	path propertyfilepath property file path
+MTHSIG8	getpropertykeys property path propertyfilepath property file path propertyfilename property filename includevalues include values
+VARSIG30	path propertyfilepath property file path
+MTHSIG9	getproperties properties path propertyfilepath property file path propertyfilename property filename
+CLASSES	propfileoperationsimpl prop file operations impl
+VARSIG29	key
+VARSIG28	propertyfilename property filename
+METHODS	ispropertiescommandavailable properties command addpropertyifnotexists add property exists addpropertyifnotexists add property exists changeproperty change property changeproperty change property manageproperty manage property removeproperty remove property getproperty property getpropertykeys property getproperties properties loadprops load props storeprops store props
+VARSIG23	changeexisting change existing
+VARSIG22	sorted
+VARSIG21	
+VARSIG20	key
+VARSIG27	path propertyfilepath property file path
+VARSIG26	key
+VARSIG25	propertyfilename property filename
+VARSIG24	path propertyfilepath property file path
+VARSIG7	
+VARSIG6	key
+VARSIG9	path propertyfilepath property file path
+VARSIG8	sorted
+VARSIG3	
+VARSIG2	key
+VARSIG5	propertyfilename property filename
+VARSIG4	path propertyfilepath property file path
+COMMENTS	property file configuration operations override order alphabetically
+VARSIG19	propertyfilename property filename
+VARSIG1	propertyfilename property filename
+VARSIG18	path propertyfilepath property file path
+VARSIG0	path propertyfilepath property file path
+VARSIG17	sorted
+VARSIG12	
+VARSIG11	key
+VARSIG10	propertyfilename property filename
+VARSIG16	
+VARSIG15	key
+VARSIG14	propertyfilename property filename
+VARSIG13	path propertyfilepath property file path
+MTHSIG11	storeprops store props properties props outputstream output stream comment
+VARSIG45	comment
+VARSIG44	outputstream output stream
+VARSIG43	properties props
+VARSIG42	ioexception exception ignore
+VARSIG47	ioexception exception ignore
+VARSIG46	ioexception exception
+MTHSIG10	loadprops load props properties props inputstream input stream
+VARIABLES	propertyfilepath property file path propertyfilename property filename key propertyfilepath property file path propertyfilename property filename key sorted propertyfilepath property file path propertyfilename property filename key propertyfilepath property file path propertyfilename property filename key sorted propertyfilepath property file path propertyfilename property filename key sorted changeexisting change existing propertyfilepath property file path propertyfilename property filename key propertyfilepath property file path propertyfilename property filename key propertyfilepath property file path propertyfilename property filename includevalues include values ioe key propertyfilepath property file path propertyfilename property filename ioe key props ignore props comment ignore sorted change existing filemanager file manager pathresolver path resolver metadataservice metadata service filepath file path mutablefile mutable file props serialversionuid serial version uid propvalue prop filepath file path mutablefile mutable file props filepath file path mutablefile mutable file props filepath file path props result info filepath file path props result
+VARSIG41	ioexception exception
+VARSIG40	inputstream input stream

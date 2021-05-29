@@ -1,0 +1,47 @@
+VARSIG7	methodmetadata metadata versionaccessormethod version accessor 
+VARSIG6	methodmetadata metadata identifieraccessormethod identifi accessor 
+VARSIG9	methodmetadata metadata findmethod find 
+VARSIG8	methodmetadata metadata countmethod count 
+VARSIG3	projectmetadata project metadata projectmetadata project metadata 
+VARSIG2	physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+VARSIG5	dataondemandmetadata data demand metadata dataondemandmetadata data demand metadata 
+VARSIG4	integrationtestannotationvalu integr test annot valu annotationvalu annot valu 
+COMMENTS	metadata link roointegrationtest roo integr test add gae localservicetesthelp local servic test helper instanc beforeclass afterclass method gae enabl add junit unit spring type level annot need add runwith springjunit classrunn spring junit runner annot type user defin governor add contextconfigur context configur classpath applicationcontext applic context xml annot type user defin governor add transact user defin governor add data demand field user defin governor add field add gae test helper field user defin governor add field initialis paramet setup set teardown tear method prepar setup set signatur add prepar teardown tear signatur add test count request user prepar signatur test find request user prepar signatur test find request user core depend miss prepar signatur test find entri request user core depend miss prepar signatur test flush request user core depend miss prepar signatur test merg request user core depend miss prepar signatur test persist request user prepar signatur test persist request user core depend prepar signatur annot valu link roointegrationtest roo integr test metadata invalid 
+VARSIG19	javatyp type javatyp type 
+VARSIG1	javatyp type aspectnam aspect 
+VARSIG18	entityhassuperclass entiti superclass 
+VARSIG0	identifi 
+VARSIG17	hasembeddedidentifi embed identifi 
+MTHSIG4	getfindmethodtest find test 
+VARSIG12	methodmetadata metadata flushmethod flush 
+MTHSIG5	getfindallmethodtest find test 
+VARSIG11	methodmetadata metadata findentriesmethod find entri 
+MTHSIG6	getfindentriesmethodtest find entri test 
+VARSIG10	methodmetadata metadata findallmethod find 
+MTHSIG7	getflushmethodtest flush test 
+MTHSIG0	integrationtestmetadata integr test metadata identifi javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata projectmetadata project metadata projectmetadata project metadata integrationtestannotationvalu integr test annot valu annotationvalu annot valu dataondemandmetadata data demand metadata dataondemandmetadata data demand metadata methodmetadata metadata identifieraccessormethod identifi accessor methodmetadata metadata versionaccessormethod version accessor methodmetadata metadata countmethod count methodmetadata metadata findmethod find methodmetadata metadata findallmethod find methodmetadata metadata findentriesmethod find entri methodmetadata metadata flushmethod flush methodmetadata metadata mergemethod merg methodmetadata metadata persistmethod persist methodmetadata metadata removemethod remov transactionmanag transact manag hasembeddedidentifi embed identifi entityhassuperclass entiti superclass 
+VARSIG16	transactionmanag transact manag 
+MTHSIG1	addrequiredintegrationtestclassintroduct add requir integr test introduct 
+VARSIG15	methodmetadata metadata removemethod remov 
+PACKAGE	springframework roo addon test 
+MTHSIG2	addoptionalintegrationtestclassintroduct add option integr test introduct 
+VARSIG14	methodmetadata metadata persistmethod persist 
+MTHSIG3	getcountmethodtest count test 
+VARSIG13	methodmetadata metadata mergemethod merg 
+MTHSIG8	getmergemethodtest merg test 
+MTHSIG9	getpersistmethodtest persist test 
+MTHSIG17	isvalid valid metadataidentificationstr metadata identif 
+MTHSIG15	getjavatyp type metadataidentificationstr metadata identif 
+MTHSIG16	getpath path metadataidentificationstr metadata identif 
+MTHSIG13	getmetadataidentifertyp metadata identif type 
+MTHSIG14	createidentifi creat identifi javatyp type javatyp type path path 
+MTHSIG11	getannotationvalu annot valu 
+MTHSIG12	tostr 
+CLASSES	integrationtestmetadata integr test metadata 
+METHODS	integrationtestmetadata integr test metadata addrequiredintegrationtestclassintroduct add requir integr test introduct addoptionalintegrationtestclassintroduct add option integr test introduct getcountmethodtest count test getfindmethodtest find test getfindallmethodtest find test getfindentriesmethodtest find entri test getflushmethodtest flush test getmergemethodtest merg test getpersistmethodtest persist test getremovemethodtest remov test getannotationvalu annot valu tostr getmetadataidentifertyp metadata identif type createidentifi creat identifi getjavatyp type getpath path isvalid valid 
+VARSIG23	metadataidentificationstr metadata identif 
+VARSIG22	metadataidentificationstr metadata identif 
+VARSIG21	metadataidentificationstr metadata identif 
+VARSIG20	path path 
+MTHSIG10	getremovemethodtest remov test 
+VARIABLES	identifi aspectnam aspect governorphysicaltypemetadata governor physic type metadata projectmetadata project metadata annotationvalu annot valu dataondemandmetadata data demand metadata identifieraccessormethod identifi accessor versionaccessormethod version accessor countmethod count findmethod find findallmethod find findentriesmethod find entri flushmethod flush mergemethod merg persistmethod persist removemethod remov transactionmanag transact manag hasembeddedidentifi embed identifi entityhassuperclass entiti superclass javatyp type path metadataidentificationstr metadata identif metadataidentificationstr metadata identif metadataidentificationstr metadata identif type type test annotationvalu annot valu dataondemandmetadata data demand metadata dodgovernor dod governor isgaesupport gae support identifieraccessormethod identifi accessor versionaccessormethod version accessor countmethod count findmethod find findallmethod find findentriesmethod find entri flushmethod flush mergemethod merg persistmethod persist removemethod remov transactionmanag transact manag hasembeddedidentifi embed identifi entityhassuperclass entiti superclass runwithbuild builder contextconfigurationbuild context configur builder transactionalbuild transact builder field annot fieldbuild field builder helpertyp helper type helperfield helper field initi fieldbuild field builder paramet setupmethodnam set setupmethod set annot bodybuild bodi builder methodbuild builder teardownmethodnam tear teardownmethod tear annot bodybuild bodi builder methodbuild builder methodnam paramet annot bodybuild bodi builder methodbuild builder methodnam paramet annot bodybuild bodi builder methodbuild builder methodnam paramet annot bodybuild bodi builder methodbuild builder methodnam paramet annot bodybuild bodi builder methodbuild builder methodnam paramet annot bodybuild bodi builder methodbuild builder methodnam paramet annot bodybuild bodi builder caststr str methodbuild builder methodnam paramet annot bodybuild bodi builder methodbuild builder methodnam paramet annot transactionalbuild transact builder bodybuild bodi builder methodbuild builder tsc 

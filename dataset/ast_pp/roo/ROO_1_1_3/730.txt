@@ -1,0 +1,16 @@
+VARSIG3	
+VARSIG2	qname
+VARSIG5	text
+VARSIG4	node node
+COMMENTS	simple convenience builder xml code element create element instance element required empty document parent document required add attribute current element qname attribute required empty attribute required current xmlelementbuilder xml element builder add child node current element node node required builder current element add text contents current element overwrite previous text content text text content required empty builder current element element instance element
+CLASSES	xmlelementbuilder xml element builder
+VARSIG1	document document
+VARSIG0	
+METHODS	xmlelementbuilder xml element builder addattribute add attribute addchild add child settext set text build
+MTHSIG4	build
+MTHSIG0	xmlelementbuilder xml element builder document document
+MTHSIG1	addattribute add attribute qname
+PACKAGE	springframework roo support util
+MTHSIG2	addchild add child node node
+MTHSIG3	settext set text text
+VARIABLES	document qname node text element

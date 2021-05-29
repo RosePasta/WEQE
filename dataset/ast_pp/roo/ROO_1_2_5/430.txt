@@ -1,0 +1,25 @@
+VARSIG7	metadataidentificationstring metadata identification
+VARSIG6	metadataidentificationstring metadata identification
+VARSIG9	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG8	javatype type aspectname aspect
+VARSIG3	javatype type type
+VARSIG2	itdtypedetails type details itdtypedetails type details
+VARSIG5	logicalpath logical path path
+VARSIG4	javatype type javatype type
+COMMENTS	determine governor metadata hoping hear javatype type itds
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+MTHSIG4	getlocalmidtorequest local mid request itdtypedetails type details itdtypedetails type details
+MTHSIG5	createlocalidentifier create local identifier javatype type javatype type logicalpath logical path path
+VARSIG11	javatype type implementedtype implemented type
+MTHSIG6	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+VARSIG10	itdfilename filename
+MTHSIG7	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo addon security
+MTHSIG2	getitduniquenessfilenamesuffix uniqueness filename suffix
+MTHSIG3	getprovidestype type
+CLASSES	permissionevaluatormetadataprovider permission evaluator metadata provider
+METHODS	activate deactivate getitduniquenessfilenamesuffix uniqueness filename suffix getprovidestype type getlocalmidtorequest local mid request createlocalidentifier create local identifier getgovernorphysicaltypeidentifier governor physical type identifier getmetadata metadata
+VARIABLES	context context itdtypedetails type details type javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename implementedtype implemented type typemanagementservice type management service managedentitytypes managed entity types governor localmid local mid memberholdingtypedetails member holding type details localmidtype local mid type javatype type path permissionevaluatorclass permission evaluator permissionevaluatorinterface permission evaluator permissionevaluatorclassdetails permission evaluator details

@@ -1,0 +1,56 @@
+MTHSIG4	addcompletionsfortypesintargetmodule add completions types target module list completion completions optioncontext option context pom targetmodule target module heading prefix formattedprefix formatted prefix toplevelpackage top level basepackage base
+VARSIG34	toplevelpath top level path
+MTHSIG5	gettypesformodule types module optioncontext option context pom targetmodule target module
+VARSIG33	
+MTHSIG6	completejavaspecificpaths complete specific paths list completion completions existingdata existing data optioncontext option context
+VARSIG32	
+MTHSIG7	completeprojectspecificpaths complete project specific paths list completion completions existingdata existing data optioncontext option context
+VARSIG31	optioncontext option context
+MTHSIG0	convertfromtext convert text requiredtype required type optioncontext option context
+VARSIG38	toplevelpackage top level
+MTHSIG1	getallpossiblevalues values list completion completions requiredtype required type existingdata existing data optioncontext option context methodtarget target target
+VARSIG37	existingdata existing data
+PACKAGE	springframework roo classpath converters
+MTHSIG2	supports requiredtype required type optioncontext option context
+VARSIG36	toplevelpath top level path
+MTHSIG3	addcompletionsforothermodulenames add completions module names list completion completions pom targetmodule target module
+VARSIG35	
+MTHSIG8	getnumberprimitivetype number primitive type
+VARSIG30	existingdata existing data
+MTHSIG9	locateexisting locate existing toplevelpath top level path
+CLASSES	javatypeconverter type converter
+VARSIG29	list completion completions
+VARSIG28	type
+METHODS	convertfromtext convert text getallpossiblevalues values supports addcompletionsforothermodulenames add completions module names addcompletionsfortypesintargetmodule add completions types target module gettypesformodule types module completejavaspecificpaths complete specific paths completeprojectspecificpaths complete project specific paths getnumberprimitivetype number primitive type locateexisting locate existing locatenew locate resolvetoplevelpackagesymbol resolve top level symbol
+VARSIG23	pom targetmodule target module
+VARSIG22	optioncontext option context
+VARSIG21	javatype type javatype type
+VARSIG20	basepackage base
+VARSIG27	optioncontext option context
+VARSIG26	existingdata existing data
+VARSIG25	list completion completions
+VARSIG24	javatype type javatype type
+VARSIG7	methodtarget target target
+VARSIG6	optioncontext option context
+VARSIG9	optioncontext option context
+VARSIG8	requiredtype required type
+VARSIG3	list completion completions
+VARSIG2	optioncontext option context
+VARSIG5	existingdata existing data
+VARSIG4	requiredtype required type
+COMMENTS	conversion link javatype type full support javapackageconverter converter top level symbol denoting user user top level converts link javatype type check number primitives user provide type dot relative current directory automatically capitalise letter segment capitalise type adds common types completions provide statically lang lang numeric misc util util type module type focused module existing data foo turn blah blah foo blah
+VARSIG19	toplevelpackage top level
+VARSIG1	requiredtype required type
+VARSIG18	formattedprefix formatted prefix
+VARSIG0	
+VARSIG17	prefix
+VARSIG12	modulename module
+VARSIG11	pom targetmodule target module
+VARSIG10	list completion completions
+VARSIG16	heading
+VARSIG15	pom targetmodule target module
+VARSIG14	optioncontext option context
+VARSIG13	list completion completions
+MTHSIG11	resolvetoplevelpackagesymbol resolve top level symbol existingdata existing data toplevelpackage top level
+MTHSIG10	locatenew locate toplevelpath top level path
+VARIABLES	requiredtype required type optioncontext option context completions requiredtype required type existingdata existing data optioncontext option context target requiredtype required type optioncontext option context completions targetmodule target module modulename module completions optioncontext option context targetmodule target module heading prefix formattedprefix formatted prefix toplevelpackage top level basepackage base javatype type optioncontext option context targetmodule target module javatype type completions existingdata existing data optioncontext option context type completions existingdata existing data optioncontext option context toplevelpath top level path toplevelpath top level path existingdata existing data toplevelpackage top level indicator number primitives filemanager file manager lastused projectoperations project operations typelocationservice type location service result toplevelpath top level path module modulename module newvalue physicaltypeidentifier physical type identifier typename type result typesinmodule types module type typesformodule types module types typedetails type details types targetmodule target module heading prefix formattedprefix formatted prefix typename type targetmodulename target module toplevelpackage top level basepackage base newvalue physicaltypeidentifier physical type identifier newvalue

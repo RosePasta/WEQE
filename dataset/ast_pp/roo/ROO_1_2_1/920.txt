@@ -1,0 +1,16 @@
+VARSIG3	pom pom
+VARSIG2	metadataidentificationstring metadata identification
+COMMENTS	metadata module user user project simple project instance multi module project returns metadata project level metadata module modulename module fully qualified module separated link file separator blank root module blank mid constructor pom pom module project required
+CLASSES	projectmetadata project metadata
+VARSIG1	modulename module
+VARSIG0	metadataidentificationstring metadata identification
+METHODS	getmodulename module getprojectidentifier project identifier isvalid valid projectmetadata project metadata getmodulename module getpom pom tostring
+MTHSIG4	getmodulename module
+MTHSIG5	getpom pom
+MTHSIG6	tostring
+MTHSIG0	getmodulename module metadataidentificationstring metadata identification
+MTHSIG1	getprojectidentifier project identifier modulename module
+PACKAGE	springframework roo project
+MTHSIG2	isvalid valid metadataidentificationstring metadata identification
+MTHSIG3	projectmetadata project metadata pom pom
+VARIABLES	metadataidentificationstring metadata identification modulename module metadataidentificationstring metadata identification pom module separator project mid prefix pom builder

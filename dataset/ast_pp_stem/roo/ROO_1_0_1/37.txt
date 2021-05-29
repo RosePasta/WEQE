@@ -1,0 +1,24 @@
+VARSIG7	clioption cli option kei usernam user mandatori usernam usernam user 
+VARSIG6	clioption cli option kei databasenam databas mandatori databas databasenam databas 
+VARSIG9	clioption cli option kei kei mandatori properti kei chang kei 
+VARSIG8	clioption cli option kei password mandatori password password 
+VARSIG3	clioption cli option kei provid mandatori persist provid support ormprovid orm provid ormprovid orm provid 
+VARSIG2	propfileoper prop file oper propfileoper prop file oper 
+VARSIG5	clioption cli option kei jndidatasourc jndi data sourc mandatori jndi datasourc jndi 
+VARSIG4	clioption cli option kei databas mandatori databas support jdbcdatabas jdbc databas jdbcdatabas jdbc databas 
+COMMENTS	command jpa add roo shell 
+CLASSES	jpacommand jpa command 
+VARSIG1	jpaoper jpa oper jpaoper jpa oper 
+VARSIG0	staticfieldconvert field convert staticfieldconvert field convert 
+METHODS	jpacommand jpa command isinstalljpaavail instal jpa installjpa instal jpa databaseproperti databas properti databaseset databas set databaseremov databas remov isjpainstal jpa instal 
+MTHSIG4	databaseset databas set kei 
+MTHSIG5	databaseremov databas remov kei 
+VARSIG11	clioption cli option kei kei mandatori properti kei remov kei 
+MTHSIG6	isjpainstal jpa instal 
+VARSIG10	clioption cli option kei mandatori vale properti kei 
+MTHSIG0	jpacommand jpa command staticfieldconvert field convert staticfieldconvert field convert jpaoper jpa oper jpaoper jpa oper propfileoper prop file oper propfileoper prop file oper 
+MTHSIG1	isinstalljpaavail instal jpa 
+PACKAGE	springframework roo addon jpa 
+MTHSIG2	installjpa instal jpa ormprovid orm provid ormprovid orm provid jdbcdatabas jdbc databas jdbcdatabas jdbc databas jndi databasenam databas usernam user password 
+MTHSIG3	databaseproperti databas properti 
+VARIABLES	staticfieldconvert field convert jpaoper jpa oper propfileoper prop file oper ormprovid orm provid jdbcdatabas jdbc databas jndi databasenam databas usernam user password kei kei jpaoper jpa oper propfileoper prop file oper 

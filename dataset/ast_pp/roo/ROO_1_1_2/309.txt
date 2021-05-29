@@ -1,0 +1,14 @@
+VARSIG3	map options
+VARSIG2	viewname view
+VARSIG4	url
+COMMENTS	provider embed photo galleries url specific install expected http picasaweb google stsmedia sydneybynight sydney night expected http flickr photos
+CLASSES	photoembeddedprovider photo embedded provider
+VARSIG1	viewname view
+VARSIG0	url
+METHODS	embed install getpicasaid picasa tostring
+MTHSIG0	embed url viewname view
+MTHSIG1	install viewname view map options
+PACKAGE	springframework roo addon web mvc embedded provider
+MTHSIG2	getpicasaid picasa url
+MTHSIG3	tostring
+VARIABLES	url viewname view viewname view options url split options split options provider userid user albumid album photos json subdoc doc photoprovider photo provider tsc

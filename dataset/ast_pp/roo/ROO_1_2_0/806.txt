@@ -1,0 +1,19 @@
+VARSIG3	javatype type typetoimport type
+VARSIG2	javatype type javatype type
+VARSIG5	list javatype type typestoimport types
+VARSIG4	javatype type typestoimport types
+COMMENTS	represents imports compilation unit resolves type expressed simple type requires fully qualified type compilation unit belongs determines presented link javatype type fully qualified form simple form link datatype data type variable link datatype data type primitive registered compilation unit lang note advanced implementations determine types required javatype type lookup required fully qualified form simple form automatically invokes link isadditionlegal addition legal javatype type link addimport add javatype type link isfullyqualifiedformrequired fully qualified form required javatype type returning result callers automatically attempt link javatype type simple form javatype type automatically register lookup simplified required fully qualified form simple form presented link javatype type legally presented link addimport add javatype type considered legal presented link javatype type type link datatype data type type existing conflicting registered proposed type note legal add types compilation unit required implementations unaware types javatype type presented type legally presented link addimport add javatype type explicitly registers note verification performed ensure legal conflict existing link isadditionlegal addition legal javatype type verification typetoimport type register explicitly registers imports note verification performed ensure legal conflict existing link isadditionlegal addition legal javatype type verification typestoimport types elements explicitly registers imports note verification performed ensure legal conflict existing link isadditionlegal addition legal javatype type verification typestoimport types elements access registered imports unmodifiable representation registered imports empty
+CLASSES	importregistrationresolver registration resolver
+VARSIG1	javatype type javatype type
+VARSIG0	javatype type javatype type
+METHODS	getcompilationunitpackage compilation unit isfullyqualifiedformrequired fully qualified form required isfullyqualifiedformrequiredafterautoimport fully qualified form required auto isadditionlegal addition legal addimport add addimports add imports addimports add imports getregisteredimports registered imports
+MTHSIG4	addimport add javatype type typetoimport type
+MTHSIG5	addimports add imports javatype type typestoimport types
+MTHSIG6	addimports add imports list javatype type typestoimport types
+MTHSIG7	getregisteredimports registered imports
+MTHSIG0	getcompilationunitpackage compilation unit
+MTHSIG1	isfullyqualifiedformrequired fully qualified form required javatype type javatype type
+PACKAGE	springframework roo model
+MTHSIG2	isfullyqualifiedformrequiredafterautoimport fully qualified form required auto javatype type javatype type
+MTHSIG3	isadditionlegal addition legal javatype type javatype type
+VARIABLES	javatype type javatype type javatype type typetoimport type typestoimport types typestoimport types

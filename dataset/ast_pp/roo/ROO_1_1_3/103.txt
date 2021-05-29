@@ -1,0 +1,42 @@
+VARSIG7	url url
+VARSIG6	gwtpath gwt path gwtpath gwt path
+VARSIG9	element persistenceunitelement persistence unit element
+VARSIG8	ioexception exception ioe
+VARSIG3	xpath
+VARSIG2	gwtpath gwt path path
+VARSIG5	element toremove remove
+VARSIG4	element webxmlroot web xml root
+COMMENTS	implementation link gwtconfigserviceimpl gwt config service impl todo work add custom xml manipulation logic isgwtproject gwt project initialsetup initial setup add gwt natures builder names maven plugin add dependencies add pom plugins update web xml update persistence xml copy directories isgwtproject gwt project gwtproject gwt project gwtproject gwt project pom projectoperations project operations getpathresolver path resolver getidentifier identifier path root pom xml istrue filemanager file manager exists pom pom xml document pomdoc pom doc getxmldocument xml document pom element pomroot pom root element pomdoc pom doc getfirstchild child list element pluginelements plugin elements xmlutils xml utils findelements find elements project build plugins plugin pomroot pom root gwtproject gwt project element pluginelement plugin element pluginelements plugin elements plugin plugin plugin pluginelement plugin element maven plugin equals plugin getartifactid artifact maven plugins equals plugin getgroupid group gwtproject gwt project gwtproject gwt project read template insert user user output file user add gae sdk specific jars systempath system path appenginelauncher app engine launcher happy add builder configuration add additional nature gae plugin configured add gaenature gae nature output directory
+VARSIG19	element dependencyelement dependency element
+VARSIG1	initialsetup initial setup
+VARSIG18	element configuration
+VARSIG0	componentcontext component context context
+VARSIG17	element pluginelement plugin element
+MTHSIG4	getgaehookup gae hookup
+VARSIG12	ioexception exception
+MTHSIG5	updatepersistencexml update persistence xml
+VARSIG11	exception
+MTHSIG6	getxmldocument xml document xmlfile xml file
+VARSIG10	xmlfile xml file
+MTHSIG7	updatedatanulcueusplugin update data nulcueus plugin document pomxmldoc pom xml doc
+MTHSIG0	activate componentcontext component context context
+VARSIG16	plugin existingbuildplugin existing build plugin
+MTHSIG1	updateconfiguration update configuration initialsetup initial setup
+VARSIG15	element configuration
+PACKAGE	springframework roo addon gwt
+MTHSIG2	removeiffound remove xpath element webxmlroot web xml root
+VARSIG14	element pluginelement plugin element
+MTHSIG3	copydirectorycontents copy directory contents gwtpath gwt path gwtpath gwt path
+VARSIG13	document pomxmldoc pom xml doc
+MTHSIG8	updatewebxml update web xml
+MTHSIG9	updateplugins update plugins element configuration
+MTHSIG11	updatemaveneclipseplugin update maven plugin document pomdoc pom doc
+CLASSES	gwtconfigserviceimpl gwt config service impl
+METHODS	activate updateconfiguration update configuration removeiffound remove copydirectorycontents copy directory contents getgaehookup gae hookup updatepersistencexml update persistence xml getxmldocument xml document updatedatanulcueusplugin update data nulcueus plugin updatewebxml update web xml updateplugins update plugins updatedependencies update dependencies updatemaveneclipseplugin update maven plugin
+VARSIG23	element buildcommand build command
+VARSIG22	element pluginelement plugin element
+VARSIG21	document pomdoc pom doc
+VARSIG20	element dependencyelement dependency element
+VARSIG24	element natureelement nature element
+MTHSIG10	updatedependencies update dependencies element configuration
+VARIABLES	context initialsetup initial setup path xpath webxmlroot web xml root toremove remove gwtpath gwt path url ioe persistenceunitelement persistence unit element xmlfile xml file pomxmldoc pom xml doc pluginelement plugin element configuration existingbuildplugin existing build plugin pluginelement plugin element configuration dependencyelement dependency element dependencyelement dependency element pomdoc pom doc pluginelement plugin element buildcommand build command natureelement nature element filemanager file manager projectoperations project operations context pom mutablepom mutable pom pomdoc pom doc configuration sourceantpath source ant path targetdirectory target directory path urls filename file targetfilename target filename input toplevelpackage top level mutablefile mutable file builder persistencexml persistence xml mutablepersistencexml mutable persistence xml persistencexmldoc persistence xml doc persistencexmldocroot persistence xml doc root persistenceunitelements persistence unit elements provider mutablexml mutable xml xmldoc xml doc pomroot pom root pluginelements plugin elements plugin configelement config element mappingexclusionpresent mapping exclusion childnode child node webxml web xml mutablewebxml mutable web xml webxmldoc web xml doc webxmlroot web xml root displayname display webresourcecollection web resource collection rolenames role names userdataconstraint user data constraint filter filtermapping filter mapping securityconstraint security constraint removeplugin remove plugin pluginconfiguration plugin configuration serverelement server element plugins plugin dependencies gwtdependencies gwt dependencies gaedependencies gae dependencies pomroot pom root haschanged changed pluginelements plugin elements plugin ctx gwtprojectvalidatorcommandpresent gwt project validator command buildcommandname build command newentry entry gwtnaturepresent gwt nature gaenaturepresent gae nature newentry entry newentry entry outputdirectory output directory newentry entry ctx

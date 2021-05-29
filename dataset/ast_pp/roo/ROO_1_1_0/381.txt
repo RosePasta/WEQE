@@ -1,0 +1,65 @@
+VARSIG39	clioption cli option key serializable mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue generated implement serializable serializable
+MTHSIG4	focus javatype type typename type
+VARSIG34	clioption cli option key identifierfield identifier field mandatory jpa identifier field entity identifierfield identifier field
+MTHSIG5	createclass create javatype type rooannotations roo annotations path path javatype type superclass createabstract create permitreservedwords permit reserved
+VARSIG33	clioption cli option key catalog mandatory jpa table catalog entity catalog
+MTHSIG6	createembeddedclass create embedded javatype type serializable permitreservedwords permit reserved
+VARSIG32	clioption cli option key schema mandatory jpa table schema entity schema
+MTHSIG7	createinterface create javatype type path path permitreservedwords permit reserved
+VARSIG31	clioption cli option key table mandatory jpa table entity table
+MTHSIG0	activate componentcontext component context context
+VARSIG38	clioption cli option key mappedsuperclass mapped superclass mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified apply mappedsuperclass mapped superclass entity mappedsuperclass mapped superclass
+MTHSIG1	deactivate componentcontext component context context
+VARSIG37	clioption cli option key inheritancetype inheritance type mandatory jpa inheritance inheritancetype inheritance type inheritancetype inheritance type
+PACKAGE	springframework roo classpath operations
+MTHSIG2	isprojectavailable project
+VARSIG36	clioption cli option key identifiertype identifier type mandatory optioncontext option context lang project unspecifieddefaultvalue unspecified lang specifieddefaultvalue lang data type jpa identifier field defaults lang javatype type identifiertype identifier type
+MTHSIG3	ispersistentclassavailable persistent
+VARSIG35	clioption cli option key identifiercolumn identifier column mandatory jpa identifier field column entity identifiercolumn identifier column
+MTHSIG8	createenum create javatype type path path permitreservedwords permit reserved
+VARSIG30	clioption cli option key testautomatically test automatically mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified create automatic integration tests entity testautomatically test automatically
+MTHSIG9	enumconstant constant javatype type javasymbolname symbol fieldname field permitreservedwords permit reserved
+CLASSES	classpathcommands classpath commands
+VARSIG29	clioption cli option key mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified generated marked createabstract create
+VARSIG28	clioption cli option key mandatory unspecifieddefaultvalue unspecified lang object superclass defaults lang object javatype type superclass
+METHODS	activate deactivate isprojectavailable project ispersistentclassavailable persistent focus createclass create createembeddedclass create embedded createinterface create createenum create enumconstant constant newdod dod isentityreasonablynamed entity named newintegrationtest integration test newpersistenceclassjpa persistence jpa createidentifierclass create identifier
+VARSIG23	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+VARSIG22	clioption cli option key mandatory created hold data demand provider defaults entity dataondemand javatype type clazz
+VARSIG21	clioption cli option key entity mandatory unspecifieddefaultvalue unspecified optioncontext option context update project entity data demand create modify required javatype type entity
+VARSIG20	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+VARSIG27	clioption cli option key optioncontext option context update project mandatory entity create javatype type
+VARSIG26	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+VARSIG25	clioption cli option key entity mandatory unspecifieddefaultvalue unspecified optioncontext option context update project entity create integration test javatype type entity
+VARSIG24	javatype type entity
+VARSIG7	clioption cli option key mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue generated marked createabstract create
+VARSIG6	clioption cli option key mandatory unspecifieddefaultvalue unspecified lang object superclass defaults lang object javatype type superclass
+VARSIG9	clioption cli option key optioncontext option context update project mandatory create javatype type
+VARSIG8	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+VARSIG3	clioption cli option key optioncontext option context update project mandatory create javatype type
+VARSIG2	clioption cli option key mandatory optioncontext option context update project type focus javatype type typename type
+VARSIG5	clioption cli option key path mandatory unspecifieddefaultvalue unspecified src specifieddefaultvalue src source directory create path path
+VARSIG4	clioption cli option key rooannotations roo annotations mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue generated common roo annotations rooannotations roo annotations
+COMMENTS	shell commands link classpathoperationsimpl classpath operations impl check exists assumed legal can test reject attempts entity test clashes data demand roo happen user insists permitreservedwords permit reserved roo produce entity create entity identifier required produce identifier
+VARSIG19	clioption cli option key mandatory constant javasymbolname symbol fieldname field
+VARSIG1	componentcontext component context context
+VARSIG18	clioption cli option key mandatory unspecifieddefaultvalue unspecified optioncontext option context update project receive field javatype type
+VARSIG0	componentcontext component context context
+VARSIG17	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+VARSIG12	clioption cli option key optioncontext option context update project mandatory create javatype type
+VARSIG11	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+VARSIG10	clioption cli option key serializable mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue generated implement serializable serializable
+VARSIG16	clioption cli option key path mandatory unspecifieddefaultvalue unspecified src specifieddefaultvalue src source directory create path path
+VARSIG15	clioption cli option key optioncontext option context update project mandatory create javatype type
+VARSIG14	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+VARSIG13	clioption cli option key path mandatory unspecifieddefaultvalue unspecified src specifieddefaultvalue src source directory create path path
+MTHSIG13	newpersistenceclassjpa persistence jpa javatype type javatype type superclass createabstract create testautomatically test automatically table schema catalog identifierfield identifier field identifiercolumn identifier column javatype type identifiertype identifier type inheritancetype inheritance type inheritancetype inheritance type mappedsuperclass mapped superclass serializable persistenceunit persistence unit permitreservedwords permit reserved
+MTHSIG14	createidentifierclass create identifier javatype type identifiertype identifier type identifierfield identifier field identifiercolumn identifier column
+MTHSIG11	isentityreasonablynamed entity named javatype type entity
+MTHSIG12	newintegrationtest integration test javatype type entity permitreservedwords permit reserved
+VARSIG44	identifiercolumn identifier column
+VARSIG43	identifierfield identifier field
+VARSIG42	javatype type identifiertype identifier type
+MTHSIG10	newdod dod javatype type entity javatype type clazz permitreservedwords permit reserved
+VARIABLES	context context typename type rooannotations roo annotations path superclass createabstract create permitreservedwords permit reserved serializable permitreservedwords permit reserved path permitreservedwords permit reserved path permitreservedwords permit reserved fieldname field permitreservedwords permit reserved entity clazz permitreservedwords permit reserved entity entity permitreservedwords permit reserved superclass createabstract create testautomatically test automatically table schema catalog identifierfield identifier field identifiercolumn identifier column identifiertype identifier type inheritancetype inheritance type mappedsuperclass mapped superclass serializable persistenceunit persistence unit permitreservedwords permit reserved identifiertype identifier type identifierfield identifier field identifiercolumn identifier column classpathoperations classpath operations staticfieldconverter field converter declaredbymetadataid declared metadata extendstypes types annotations modifier typedetailsbuilder type details builder declaredbymetadataid declared metadata annotations modifier typedetailsbuilder type details builder declaredbymetadataid declared metadata typedetailsbuilder type details builder declaredbymetadataid declared metadata typedetailsbuilder type details builder declaredbymetadataid declared metadata declaredbymetadataid declared metadata entityannotations entity annotations rooentitybuilder roo entity builder extendstypes types modifier typedetailsbuilder type details builder declaredbymetadataid declared metadata identifierannotations identifier annotations typedetailsbuilder type details builder
+VARSIG41	clioption cli option key permitreservedwords permit reserved mandatory unspecifieddefaultvalue unspecified specifieddefaultvalue reserved roo permitreservedwords permit reserved
+VARSIG40	clioption cli option key persistenceunit persistence unit mandatory persistence unit persistence xml file persistenceunit persistence unit

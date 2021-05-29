@@ -1,0 +1,41 @@
+VARSIG7	itdtypedetail type detail itdtypedetail type detail 
+VARSIG6	metadataidentificationstr metadata identif 
+VARSIG9	metadataidentificationstr metadata identif 
+VARSIG8	javatyp type type 
+VARSIG3	componentcontext compon context context 
+VARSIG2	logicalpath logic path path 
+VARSIG5	metadataidentificationstr metadata identif 
+VARSIG4	javatyp type entiti 
+COMMENTS	implement link jsfmanagedbeanmetadataprovid jsf manag bean metadata provid maximum number field form drop field maximum number entiti field list view return addit gener order invok crud method entiti entiti target entiti type requir metadataidentificationstr metadata identif metadata that creat requir map empti crud method indetermin determin governor metadata hope hear javatyp type itd pars annot expect rememb entiti javatyp type match metadata identif start clear previou associ exclud collect arrai valu meaning present interest embed type return iter collect entiti entiti field exclud version field flag max list view field version field display list view entiti type entiti entiti find field accessor requir memberdetail member detail entiti entiti member requir metadataidentificationstr metadata identif metadata gener requir versionaccessor version accessor identifieraccessor identifi accessor iter collect check field displai entiti entiti list view support type paramet paramet type entiti test 
+VARSIG19	methodmetadata metadata versionaccessor version accessor 
+VARSIG1	javatyp type javatyp type 
+VARSIG18	methodmetadata metadata identifieraccessor identifi accessor 
+VARSIG0	componentcontext compon context context 
+VARSIG17	metadataidentificationstr metadata identif 
+MTHSIG4	getgovernorphysicaltypeidentifi governor physic type identifi metadataidentificationstr metadata identif 
+VARSIG12	itdfilenam filenam 
+MTHSIG5	getitduniquenessfilenamesuffix uniqu filenam suffix 
+VARSIG11	physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata 
+MTHSIG6	getlocalmidtorequest local mid request itdtypedetail type detail itdtypedetail type detail 
+VARSIG10	javatyp type aspectnam aspect 
+MTHSIG7	getmetadata metadata metadataidentificationstr metadata identif javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltypemetadata governor physic type metadata itdfilenam filenam 
+MTHSIG0	activ componentcontext compon context context 
+VARSIG16	memberdetail member detail memberdetail member detail 
+MTHSIG1	createlocalidentifi creat local identifi javatyp type javatyp type logicalpath logic path path 
+VARSIG15	javatyp type entiti 
+PACKAGE	springframework roo addon jsf managedbean 
+MTHSIG2	deactiv componentcontext compon context context 
+VARSIG14	fieldmetadata field metadata field 
+MTHSIG3	getcrudaddit crud addit javatyp type entiti metadataidentificationstr metadata identif 
+VARSIG13	classorinterfacetypedetail type detail cid 
+MTHSIG8	getprovidestyp type 
+MTHSIG9	isenum classorinterfacetypedetail type detail cid 
+MTHSIG11	locatefield locat field javatyp type entiti memberdetail member detail memberdetail member detail metadataidentificationstr metadata identif methodmetadata metadata identifieraccessor identifi accessor methodmetadata metadata versionaccessor version accessor 
+CLASSES	jsfmanagedbeanmetadataproviderimpl jsf manag bean metadata provid impl 
+METHODS	activ createlocalidentifi creat local identifi deactiv getcrudaddit crud addit getgovernorphysicaltypeidentifi governor physic type identifi getitduniquenessfilenamesuffix uniqu filenam suffix getlocalmidtorequest local mid request getmetadata metadata getprovidestyp type isenum isfieldofinterest field interest locatefield locat field 
+VARSIG23	methodmetadata metadata applicationtypemethod applic type 
+VARSIG22	classorinterfacetypedetail type detail managedbeantyp manag bean type 
+VARSIG21	javatyp type paramet 
+VARSIG20	methodmetadata metadata 
+MTHSIG10	isfieldofinterest field interest fieldmetadata field metadata field 
+VARIABLES	context javatyp type path context entiti metadataidentificationstr metadata identif metadataidentificationstr metadata identif itdtypedetail type detail type metadataidentificationstr metadata identif aspectnam aspect governorphysicaltypemetadata governor physic type metadata itdfilenam filenam cid field entiti memberdetail member detail metadataidentificationstr metadata identif identifieraccessor identifi accessor versionaccessor version accessor paramet managedbeantyp manag bean type applicationtypemethod applic type layer posit max drop field max list view field configurablemetadataprovid configur metadata provid layerservic layer servic entitytomanagedbeanmidmap entiti manag bean mid map managedbeanmidtoentitymap manag bean mid entiti map idfield field identifierfield identifi field identifiertyp identifi type entitynam entiti entityparamet entiti paramet idparamet paramet firstresultparamet result paramet maxresultsparamet max paramet addit javatyp type path governor localmid local mid memberholdingtypedetail member hold type detail localmidtyp local mid type annotationvalu annot valu entiti memberdetail member detail identifieraccessor identifi accessor versionaccessor version accessor locatedfield locat field oldent entiti physicaltypeidentifi physic type identifi path pluralmetadata plural metadata plural crudaddit crud addit fieldtyp field type locatedfield locat field managedbeantyp manag bean type listviewfield list view field field customdatabuild custom data builder fieldtyp field type fieldtypecid field type cid enumer parametertypecid paramet type cid managedbeanannot manag bean annot logicalpath logic path pluralmetadata plural metadata applicationtypeidentifieraccessor applic type identifi accessor applicationtypeversionaccessor applic type version accessor applicationtypefield applic type field dropdownfield drop field applicationtypememberdetail applic type member detail applicationtypefield applic type field fieldbuild field builder 

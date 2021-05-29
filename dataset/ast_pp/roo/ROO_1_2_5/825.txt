@@ -1,0 +1,81 @@
+MTHSIG24	updatechanges update filecanonicalpath file canonical path remove
+MTHSIG22	scanall scan
+MTHSIG23	scannotified scan notified
+VARSIG39	entry file entry
+MTHSIG4	getdirtyfiles dirty files requestingclass requesting
+VARSIG34	sortedset sorted set filedetails file details result
+MTHSIG5	getfilecreationevents file creation events monitoringrequest monitoring request request map file priorfiles prior files
+VARSIG33	file currentdirectory current directory
+MTHSIG6	getfiledeletionevents file deletion events monitoringrequest monitoring request request map file priorfiles prior files
+VARSIG32	antpath ant path
+MTHSIG7	getfileupdateevents file update events monitoringrequest monitoring request request map file priorfiles prior files
+VARSIG31	monitoringrequest monitoring request request
+MTHSIG0	add fileeventlistener file event listener
+VARSIG38	monitoringrequest monitoring request request
+MTHSIG1	add monitoringrequest monitoring request request
+VARSIG37	fileeventlistener file event listener
+PACKAGE	springframework roo file monitor polling
+MTHSIG2	computeentries compute entries map file map file currentfile current file includesubtree include subtree
+VARSIG36	ioexception exception
+MTHSIG3	findmatchingantpath find matching ant path antpath ant path
+VARSIG35	file
+MTHSIG20	remove fileeventlistener file event listener
+MTHSIG21	remove monitoringrequest monitoring request request
+MTHSIG8	getmonitored monitored
+VARSIG30	fileeventlistener file event listener
+MTHSIG9	isdirty dirty
+CLASSES	pollingfilemonitorservice polling file monitor service
+VARSIG29	fileevent file event event
+VARSIG28	list fileevent file event eventstopublish events publish
+METHODS	add add computeentries compute entries findmatchingantpath find matching ant path getdirtyfiles dirty files getfilecreationevents file creation events getfiledeletionevents file deletion events getfileupdateevents file update events getmonitored monitored isdirty dirty isexcludeddirectory excluded directory isnotificationunderknownmonitoringrequest notification monitoring request iswithin norequestsorchanges requests notifychanged notify changed notifycreated notify created notifydeleted notify deleted publish publishrequestedfileevents publish requested file events recursiveantmatch recursive ant match remove remove scanall scan scannotified scan notified updatechanges update
+VARSIG23	filepath file path
+VARSIG22	monitoringrequest monitoring request request
+VARSIG21	monitoringrequest monitoring request request
+VARSIG20	filecanonicalpath file canonical path
+VARSIG27	filecanonicalpath file canonical path
+VARSIG26	filecanonicalpath file canonical path
+VARSIG25	filecanonicalpath file canonical path
+VARSIG24	ioexception exception
+VARSIG7	ioexception exception
+VARSIG6	includesubtree include subtree
+VARSIG9	antpath ant path
+VARSIG8	file file
+VARSIG3	ioexception exception ioe
+VARSIG2	monitoringrequest monitoring request existing
+VARSIG5	file currentfile current file
+VARSIG4	map file map
+COMMENTS	simple polling based link filemonitorservice file monitor service implementation iterates link monitoringrequest monitoring request instances building active file time execution compares active file time executed link monitoringrequest monitoring request events fired event firing process completed link monitoringrequest monitoring request examined implementation recognize link fileoperation file operation renamed events implementation ignore monitored files filename starting period hidden files link fileoperation file operation deleted events implementation link fileevent file event times equal time deleted file modified time represent deletion time time deletion detected ensure existing monitoring requests don overlap request amend existing requests ignore request request existing request directories monitor trees request directory existing request ignore request unnecessary existing request directory request remove existing request request incorporate adds entries map key map file object link file lastmodified modified time invoked file file file invoked file directory files directories invoked file directory subdirectories includesubtree include subtree compute starting directory reference ant path conditionals based ensure detected character character path start ant expression doesn exist there find search processed skip file doesn exist record notification update prior execution map isn notified processed skip file suddenly exists shouldn notify deleted record notification update prior execution map isn notified processed skip file doesn exist record notification update prior execution map isn notified remove created list decides store notification monitoring request interested request roo details filecanonicalpath file canonical path notification directory directory directory file publish events needed assumes caller acquired synchronisation lock eventstopublish events publish publish empty file checked handle files updated created deleted execution locates files current directory patch ant path antpath ant path match required currentdirectory current directory existing directory search required result append located files required advise cessation monitoring build contents monitored location perform comparison data previous execution locate created modified files file exist execution file notified modified file notified locate deleted files file notified data previous execution newly monitored location record monitored location location contents ready execution discard created deleted notifications correctly discovered loop explicitly handle undiscovered update notifications identical millisecond update occurred
+VARSIG19	path
+VARSIG1	monitoringrequest monitoring request request
+VARSIG18	entry file entry
+VARSIG0	fileeventlistener file event listener
+VARSIG17	monitoringrequest monitoring request request
+VARSIG12	map file priorfiles prior files
+VARSIG11	monitoringrequest monitoring request request
+VARSIG10	requestingclass requesting
+VARSIG16	map file priorfiles prior files
+VARSIG15	monitoringrequest monitoring request request
+VARSIG14	map file priorfiles prior files
+VARSIG13	monitoringrequest monitoring request request
+VARSIG50	requestingclass requesting
+MTHSIG17	publish list fileevent file event eventstopublish events publish
+MTHSIG18	publishrequestedfileevents publish requested file events
+MTHSIG15	notifycreated notify created filecanonicalpath file canonical path
+MTHSIG16	notifydeleted notify deleted filecanonicalpath file canonical path
+MTHSIG13	norequestsorchanges requests
+MTHSIG14	notifychanged notify changed filecanonicalpath file canonical path
+MTHSIG11	isnotificationunderknownmonitoringrequest notification monitoring request filecanonicalpath file canonical path
+MTHSIG12	iswithin monitoringrequest monitoring request request filepath file path
+MTHSIG19	recursiveantmatch recursive ant match antpath ant path file currentdirectory current directory sortedset sorted set filedetails file details result
+VARSIG45	ioexception exception
+VARSIG44	entry file entry
+VARSIG43	ioexception exception
+VARSIG42	ioexception exception
+VARSIG49	remove
+VARSIG48	filecanonicalpath file canonical path
+VARSIG47	canonicalpath canonical path
+VARSIG46	entry file entry
+MTHSIG10	isexcludeddirectory excluded directory path
+VARIABLES	request existing ioe map currentfile current file includesubtree include subtree file antpath ant path requestingclass requesting request priorfiles prior files request priorfiles prior files request priorfiles prior files request entry path filecanonicalpath file canonical path request request filepath file path filecanonicalpath file canonical path filecanonicalpath file canonical path filecanonicalpath file canonical path eventstopublish events publish event request antpath ant path currentdirectory current directory result request entry request entry entry entry canonicalpath canonical path filecanonicalpath file canonical path remove requestingclass requesting allfiles files changemap change map fileeventlisteners file event listeners lock notifychanged notify changed notifycreated notify created notifydeleted notify deleted priorexecution prior execution requests dmr existingdmr existing dmr existingdmrpath existing dmr path newdmrpath dmr path files result newpath path somepath path changessincelastrequest request copyofchangessincelastrequest copy request createevents create events iter filepath file path thisfile file deleteevents delete events iter filepath file path thisfile file updateevents update events iter filepath file path thisfile file monitored priorfiles prior files hassrc src requestcanonicalpath request canonical path dmr eventspublished events published eventstopublish events publish priorfiles prior files listfiles list files eventstopublish events publish priorfiles prior files thisfile file lastmodified modified includesubtree include subtree currentexecution current execution eventstopublish events publish priorfiles prior files thisfile file currenttimestamp current timestamp previoustimestamp previous timestamp deletedfile deleted file file
+VARSIG41	entry file entry
+VARSIG40	monitoringrequest monitoring request request

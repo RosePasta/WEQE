@@ -1,0 +1,48 @@
+VARSIG7	clioption cli option kei bundlesymbolicnam bundl symbol mandatori bundl symbol add interest addonbundlesymbolicnam add bundl symbol bsn 
+VARSIG6	clioption cli option kei searchresultid search result mandatori bundl present addon list addon search command bundleid bundl 
+VARSIG9	clioption cli option kei refresh mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu refresh add internet refresh 
+VARSIG8	clioption cli option kei searchresultid search result mandatori bundl present addon list addon search command bundleid bundl 
+VARSIG3	clioption cli option kei rate mandatori add rate rate 
+VARSIG2	clioption cli option kei bundlesymbolicnam bundl symbol mandatori bundl symbol add interest bundlesymbolicnam bundl symbol bsn 
+VARSIG5	clioption cli option kei bundlesymbolicnam bundl symbol mandatori bundl symbol add interest addonbundlesymbolicnam add bundl symbol bsn 
+VARSIG4	clioption cli option kei comment mandatori comment add comment limit charact comment 
+COMMENTS	command add list search criteria criteria reason filter displai logic place 
+VARSIG19	clioption cli option kei maxresult max mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu maximum number add on list maxresult max 
+VARSIG1	componentcontext compon context context 
+VARSIG18	clioption cli option kei linesperresult line result mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu maximum number line displai add linesperresult line result 
+VARSIG0	componentcontext compon context context 
+VARSIG17	clioption cli option kei refresh mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu refresh add internet refresh 
+MTHSIG4	infoid info bundleid bundl 
+VARSIG12	clioption cli option kei trustedonli trust mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu displai trust add on search trustedonli trust 
+MTHSIG5	installbsn instal bsn addonbundlesymbolicnam add bundl symbol bsn 
+VARSIG11	clioption cli option kei maxresult max mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu maximum number add on list maxresult max 
+MTHSIG6	installid instal bundleid bundl 
+VARSIG10	clioption cli option kei linesperresult line result mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu maximum number line displai add linesperresult line result 
+MTHSIG7	list refresh linesperresult line result maxresult max trustedonli trust communityonli commun compatibleonli compat 
+MTHSIG0	activ componentcontext compon context context 
+VARSIG16	clioption cli option kei requiresdescript requir descript mandatori specifieddefaultvalu unspecifieddefaultvalu unspecifi comma separ list search term searchterm search term 
+MTHSIG1	deactiv componentcontext compon context context 
+VARSIG15	clioption cli option kei bundlesymbolicnam bundl symbol mandatori bundl symbol add interest bundlesymbolicnam bundl symbol bsn 
+PACKAGE	springframework roo addon roobot client 
+MTHSIG2	feedbackbundl feedback bundl bundlesymbolicnam bundl symbol bsn rate rate comment 
+VARSIG14	clioption cli option kei compatibleonli compat mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu displai compat add on search compatibleonli compat 
+MTHSIG3	infobundl info bundl addonbundlesymbolicnam add bundl symbol bsn 
+VARSIG13	clioption cli option kei communityonli commun mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu displai commun add on search communityonli commun 
+MTHSIG8	remov bundlesymbolicnam bundl symbol bsn 
+MTHSIG9	search searchterm search term refresh linesperresult line result maxresult max trustedonli trust compatibleonli compat communityonli commun requirescommand requir command 
+MTHSIG13	ugradeid ugrad bundleid bundl 
+MTHSIG14	ugradeset ugrad set addonstabilitylevel add stabil level level 
+MTHSIG11	ugradeavail ugrad addonstabilitylevel add stabil level level 
+MTHSIG12	ugradebundl ugrad bundl addonbundlesymbolicnam add bundl symbol bsn 
+CLASSES	addoncommand add command 
+METHODS	activ deactiv feedbackbundl feedback bundl infobundl info bundl infoid info installbsn instal bsn installid instal list remov search ugradeal ugrad ugradeavail ugrad ugradebundl ugrad bundl ugradeid ugrad ugradeset ugrad set 
+VARSIG23	clioption cli option kei requirescommand requir command mandatori displai add on search offer command requirescommand requir command 
+VARSIG22	clioption cli option kei communityonli commun mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu displai commun add on search communityonli commun 
+VARSIG21	clioption cli option kei compatibleonli compat mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu displai compat add on search compatibleonli compat 
+VARSIG20	clioption cli option kei trustedonli trust mandatori unspecifieddefaultvalu unspecifi specifieddefaultvalu displai trust add on search trustedonli trust 
+VARSIG27	clioption cli option kei addonstabilitylevel addon stabil level mandatori stabil level add on compon present upgrad addonstabilitylevel add stabil level level 
+VARSIG26	clioption cli option kei searchresultid search result mandatori bundl present addon list addon search command bundleid bundl 
+VARSIG25	clioption cli option kei bundlesymbolicnam bundl symbol mandatori bundl symbol add upgrad addonbundlesymbolicnam add bundl symbol bsn 
+VARSIG24	clioption cli option kei addonstabilitylevel addon stabil level mandatori stabil level add on compon present upgrad addonstabilitylevel add stabil level level 
+MTHSIG10	ugradeal ugrad 
+VARIABLES	context context bsn rate comment bsn bundleid bundl bsn bundleid bundl refresh linesperresult line result maxresult max trustedonli trust communityonli commun compatibleonli compat bsn searchterm search term refresh linesperresult line result maxresult max trustedonli trust compatibleonli compat communityonli commun requirescommand requir command level bsn bundleid bundl level addonfeedbackoper add onfeedback oper addonroobotoper add roo bot oper staticfieldconvert field convert 

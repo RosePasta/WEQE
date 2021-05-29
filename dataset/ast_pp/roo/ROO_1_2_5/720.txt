@@ -1,0 +1,24 @@
+VARSIG7	min
+VARSIG6	max
+VARSIG3	list annotationmetadatabuilder annotation metadata builder annotations
+VARSIG2	javasymbolname symbol fieldname field
+VARSIG5	integer digitsinteger digits integer
+VARSIG4	integer digitsfractional digits fractional
+COMMENTS	jsr digits annotation set digitsinteger digits integer jsr digits annotation set digitsfractional digits fractional jsr max annotation jsr min annotation
+CLASSES	numericfield numeric field
+VARSIG1	javatype type fieldtype field type
+VARSIG0	physicaltypeidentifier physical type identifier
+METHODS	numericfield numeric field decorateannotationslist decorate annotations list getdigitsfraction digits fraction getdigitsinteger digits integer getmax max getmin min isdigitssetcorrectly digits set correctly setdigitsfraction set digits fraction setdigitsinteger set digits integer setmax set max setmin set min
+MTHSIG4	getmax max
+MTHSIG5	getmin min
+MTHSIG6	isdigitssetcorrectly digits set correctly
+MTHSIG7	setdigitsfraction set digits fraction integer digitsfractional digits fractional
+MTHSIG0	numericfield numeric field physicaltypeidentifier physical type identifier javatype type fieldtype field type javasymbolname symbol fieldname field
+MTHSIG1	decorateannotationslist decorate annotations list list annotationmetadatabuilder annotation metadata builder annotations
+PACKAGE	springframework roo classpath operations jsr jsr
+MTHSIG2	getdigitsfraction digits fraction
+MTHSIG3	getdigitsinteger digits integer
+MTHSIG10	setmin set min min
+VARIABLES	physicaltypeidentifier physical type identifier fieldtype field type fieldname field annotations digitsfractional digits fractional digitsinteger digits integer max min digitsfraction digits fraction digitsinteger digits integer max min attrs attrs attrs
+MTHSIG8	setdigitsinteger set digits integer integer digitsinteger digits integer
+MTHSIG9	setmax set max max

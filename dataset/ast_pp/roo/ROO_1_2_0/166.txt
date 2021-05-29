@@ -1,0 +1,23 @@
+VARSIG7	templateloader template loader context
+VARSIG6	resource
+VARSIG9	ioexception exception
+VARSIG8	resource
+VARSIG3	basedir base dir
+VARSIG2	templateparser template parser parser
+VARSIG5	templateparser template parser parser
+VARSIG4	basedir base dir
+COMMENTS	loads hapax templates classpath constants fields creates templateloader template loader ctemplate template language template directory creates templateloader template loader ctemplate template language creates templateloader template loader argument parser
+CLASSES	templateresourceloader template resource loader
+VARSIG1	base path
+VARSIG0	base path
+METHODS	create create createforparser create parser templateresourceloader template resource loader templateresourceloader template resource loader gettemplatedirectory template directory gettemplate template gettemplate template
+MTHSIG4	templateresourceloader template resource loader basedir base dir templateparser template parser parser
+MTHSIG5	gettemplatedirectory template directory
+MTHSIG6	gettemplate template resource
+MTHSIG7	gettemplate template templateloader template loader context resource
+MTHSIG0	create
+MTHSIG1	create base path
+PACKAGE	springframework roo addon gwt
+MTHSIG2	createforparser create parser base path templateparser template parser parser
+MTHSIG3	templateresourceloader template resource loader basedir base dir
+VARIABLES	base path base path parser basedir base dir basedir base dir parser resource context resource template dir cache basedir base dir parser templatepath template path contents template

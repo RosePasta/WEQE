@@ -1,0 +1,18 @@
+VARSIG3	map options
+VARSIG2	arg
+VARSIG4	command
+COMMENTS	data container transport input command arguments configured actions actions fill list outputcommands output commands full input command incl arguments list output commands result transformation inputcommand input command action executions parsed tokens command arguments represented key argumentname argumentvalue command elements actual arguments entry key parserutils parser utils tokenize expects single blanks split command obsolete blanks command
+CLASSES	commandtransformation command transformation
+VARSIG1	commandfragments command fragments
+VARSIG0	command
+METHODS	commandtransformation command transformation addoutputcommand add output command clearcommands clear commands getarguments arguments getinputcommand input command getoutputcommands output commands setarguments set arguments setinputcommand set input command
+MTHSIG4	getinputcommand input command
+MTHSIG5	getoutputcommands output commands
+MTHSIG6	setarguments set arguments map options
+MTHSIG7	setinputcommand set input command command
+MTHSIG0	commandtransformation command transformation command
+MTHSIG1	addoutputcommand add output command commandfragments command fragments
+PACKAGE	springframework roo addon tailor
+MTHSIG2	clearcommands clear commands
+MTHSIG3	getarguments arguments
+VARIABLES	command commandfragments command fragments arg options command inputcommand input command outputcommands output commands arguments outputcommand output command

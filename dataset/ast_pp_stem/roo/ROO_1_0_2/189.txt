@@ -1,0 +1,69 @@
+MTHSIG26	getenclosingtypenam enclos type 
+MTHSIG24	getimport import 
+MTHSIG25	getinnertyp type 
+MTHSIG22	flush 
+MTHSIG23	getcompilationunitpackag compil unit 
+MTHSIG4	getphysicaltypecategori physic type categori 
+VARSIG34	methodmetadata metadata candid 
+MTHSIG5	getnam 
+VARSIG33	fieldmetadata field metadata candid 
+MTHSIG6	getdeclaredconstructor declar constructor 
+VARSIG32	javasymbolnam symbol constant 
+MTHSIG7	getenumconst constant 
+VARSIG31	annotationmetadata annot metadata candid 
+MTHSIG0	javaparsermutableclassorinterfacetypedetail parser mutabl type detail compilationunit compil unit compilationunit compil unit typedeclar type declar typedeclar type declar filemanag file manag filemanag file manag declaredbymetadataid declar metadata fileidentifi file identifi javatyp type typenam type metadataservic metadata servic metadataservic metadata servic physicaltypemetadataprovid physic type metadata provid physicaltypemetadataprovid physic type metadata provid 
+MTHSIG1	getdeclaredbymetadataid declar metadata 
+PACKAGE	springframework roo classpath javapars 
+MTHSIG2	getmodifi modifi 
+VARSIG36	ioexcept except ioe 
+MTHSIG3	getsuperclass superclass 
+VARSIG35	ioexcept except ioe 
+MTHSIG20	createtyp creat type filemanag file manag filemanag file manag classorinterfacetypedetail type detail cit fileidentifi file identifi 
+MTHSIG21	tostr 
+MTHSIG8	getdeclaredfield declar field 
+VARSIG30	javatyp type current 
+MTHSIG9	getdeclaredmethod declar method 
+CLASSES	javaparsermutableclassorinterfacetypedetail parser mutabl type detail 
+VARSIG29	javatyp type current 
+VARSIG28	fileidentifi file identifi 
+METHODS	javaparsermutableclassorinterfacetypedetail parser mutabl type detail getdeclaredbymetadataid declar metadata getmodifi modifi getsuperclass superclass getphysicaltypecategori physic type categori getnam getdeclaredconstructor declar constructor getenumconst constant getdeclaredfield declar field getdeclaredmethod declar method getextendstyp type getimplementstyp type gettypeannot type annot addtypeannot add type annot removetypeannot remov type annot addfield add field addenumconst add constant addenumconst add constant removefield remov field addmethod add createtyp creat type tostr flush getcompilationunitpackag compil unit getimport import getinnertyp type getenclosingtypenam enclos type 
+VARSIG23	permitflush permit flush 
+VARSIG22	javasymbolnam symbol 
+VARSIG21	list enumconstantdeclar constant declar constant 
+VARSIG20	compilationunitservic compil unit servic compilationunitservic compil unit servic 
+VARSIG27	classorinterfacetypedetail type detail cit 
+VARSIG26	filemanag file manag filemanag file manag 
+VARSIG25	methodmetadata metadata methodmetadata metadata 
+VARSIG24	javasymbolnam symbol fieldnam field 
+VARSIG7	physicaltypemetadataprovid physic type metadata provid physicaltypemetadataprovid physic type metadata provid 
+VARSIG6	metadataservic metadata servic metadataservic metadata servic 
+VARSIG9	classorinterfacetyp type candid 
+VARSIG8	javatyp type 
+VARSIG3	declaredbymetadataid declar metadata 
+VARSIG2	filemanag file manag filemanag file manag 
+VARSIG5	javatyp type typenam type 
+VARSIG4	fileidentifi file identifi 
+COMMENTS	parser implement link mutableclassorinterfacetypedetail mutabl type detail immut construct pass constructor comput constructor satisfi intern determin type ad type paramet revert origin type avoid unnecessari infer lang type roo verifi declar appear correct convert parser modifi jdk modifi type paramet fortun type name top level superclass finish declar type introspect type refer bodi member defer illeg refer type signatur enclos type type determin locat insert creat compil unit store type creat creat declar repres actual type superclass handl handl add declar compil unit creat compil unit javatyp type metadata method add type annot add constant add field add method write disk 
+VARSIG19	javasymbolnam symbol 
+VARSIG1	typedeclar type declar typedeclar type declar 
+VARSIG18	fieldmetadata field metadata fieldmetadata field metadata 
+VARSIG0	compilationunit compil unit compilationunit compil unit 
+VARSIG17	javatyp type annotationtyp annot type 
+VARSIG12	annotationexpr annot expr candid 
+VARSIG11	classorinterfacetyp type candid 
+VARSIG10	enumconstantdeclar constant declar enumconst constant 
+VARSIG16	annotationmetadata annot metadata annot 
+VARSIG15	variabledeclar variabl declar 
+VARSIG14	bodydeclar bodi declar member 
+VARSIG13	bodydeclar bodi declar bodydeclar bodi declar 
+MTHSIG17	addenumconst add constant compilationunitservic compil unit servic compilationunitservic compil unit servic list enumconstantdeclar constant declar constant javasymbolnam symbol permitflush permit flush 
+MTHSIG18	removefield remov field javasymbolnam symbol fieldnam field 
+MTHSIG15	addfield add field fieldmetadata field metadata fieldmetadata field metadata 
+MTHSIG16	addenumconst add constant javasymbolnam symbol 
+MTHSIG13	addtypeannot add type annot annotationmetadata annot metadata annot 
+MTHSIG14	removetypeannot remov type annot javatyp type annotationtyp annot type 
+MTHSIG11	getimplementstyp type 
+MTHSIG12	gettypeannot type annot 
+MTHSIG19	addmethod add methodmetadata metadata methodmetadata metadata 
+MTHSIG10	getextendstyp type 
+VARIABLES	compilationunit compil unit typedeclar type declar filemanag file manag declaredbymetadataid declar metadata fileidentifi file identifi typenam type metadataservic metadata servic physicaltypemetadataprovid physic type metadata provid candid enumconst constant candid candid bodydeclar bodi declar member annot annotationtyp annot type fieldmetadata field metadata compilationunitservic compil unit servic constant permitflush permit flush fieldnam field methodmetadata metadata filemanag file manag cit fileidentifi file identifi current current candid constant candid candid ioe ioe filemanag file manag fileidentifi file identifi declaredbymetadataid declar metadata physicaltypecategori physic type categori declaredconstructor declar constructor declaredfield declar field declaredmethod declar method superclass extendstyp type implementstyp type typeannot type annot enumconst constant clazz enumclazz clazz compilationunit compil unit import compilationunitpackag compil unit typeparameternam type paramet name innertyp type unsupport messag prefix modifi compilationunitservic compil unit servic newnam arg extendslist list javatyp type superclass superclassid superclass superptm ptm constant implementslist list javatyp type annotationslist annot list member castmemb member castmemb member castmemb member annot annot member constant newentri entri member member compilationunit compil unit javaparsermodifi parser modifi typedeclar type declar isinterfac classorinterfacedeclar declar extendslist list nameexpr expr resolvednam resolv implementslist list nameexpr expr resolvednam resolv type compilationunitservic compil unit servic annot enumdeclar declar constant mutablefil mutabl file tsc compilationunitinputstream compil unit input stream mutablefil mutabl file 

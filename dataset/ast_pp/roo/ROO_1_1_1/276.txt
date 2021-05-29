@@ -1,0 +1,40 @@
+VARSIG7	methodmetadata metadata accessor
+VARSIG6	object obj
+VARSIG9	javatype type javatype type
+VARSIG8	javatype type generictype type
+VARSIG3	javatype type javatype type
+VARSIG2	javatype type annotation
+VARSIG5	methodmetadata metadata accessor
+VARSIG4	javatypewrapper type wrapper domainjavatype domain type
+COMMENTS	encapsulates link javatype type behavior relying kinds metadata specific javatype type link beaninfometadata bean info metadata link entitymetadata entity metadata link physicaltypemetadata physical type metadata constructor javatype type type domain object metadataservice metadata service metataservice metata service link beaninfometadata bean info metadata link entitymetadata entity metadata domain object object type domain object object type metadata identifier beaninfometadata bean info metadata metadata identifier entitymetadata entity metadata metadataservice metadata service instance constructor finds returns type level annotation underlying javatype type annotation annotation find annotation bean info entity metadata metadata service valid type matches link javatypewrapper type wrapper types type enumeration selects methods build label represents domain object methods returning domain types collections arrays considered accessors version fields excluded memberdetailsscanner member details scanner list methods methods selected tostring happen exclude collections arrays exclude references domain objects verbose exclude values meaningful presentation interested identifiers version fields interested fields exposed mutator
+VARSIG1	metadataservice metadata service metadataservice metadata service
+VARSIG0	javatype type javatype type
+MTHSIG4	getentitymetadataid entity metadata
+VARSIG12	beaninfometadata bean info metadata bim
+MTHSIG5	getphysicaltypemetadataid physical type metadata
+VARSIG11	fieldmetadata field metadata fieldmetadata field metadata
+MTHSIG6	getmetadataservice metadata service
+VARSIG10	fieldmetadata field metadata field
+MTHSIG7	getrelateddomaintypes domain types
+MTHSIG0	javatypewrapper type wrapper javatype type javatype type metadataservice metadata service metadataservice metadata service
+MTHSIG1	getjavatype type
+PACKAGE	springframework roo addon web mvc controller
+MTHSIG2	getsimpletypename simple type
+MTHSIG3	getbeaninfometadataid bean info metadata
+VARSIG13	methodmetadata metadata mutator
+MTHSIG20	hasmutator mutator fieldmetadata field metadata fieldmetadata field metadata beaninfometadata bean info metadata bim
+MTHSIG8	getbeaninfometadata bean info metadata
+MTHSIG9	gettypeannotation type annotation javatype type annotation
+MTHSIG17	findrelateddomaintypes find domain types
+MTHSIG18	isapplicationtype application type javatype type javatype type
+MTHSIG15	equals object obj
+MTHSIG16	tostring
+MTHSIG13	getmethodsforlabel methods label
+MTHSIG14	hashcode hash code
+MTHSIG11	isrelateddomaintype domain type javatype type javatype type
+MTHSIG12	isenumtype type
+CLASSES	javatypewrapper type wrapper
+METHODS	javatypewrapper type wrapper getjavatype type getsimpletypename simple type getbeaninfometadataid bean info metadata getentitymetadataid entity metadata getphysicaltypemetadataid physical type metadata getmetadataservice metadata service getrelateddomaintypes domain types getbeaninfometadata bean info metadata gettypeannotation type annotation isvalidmetadata valid metadata isrelateddomaintype domain type isenumtype type getmethodsforlabel methods label hashcode hash code equals tostring findrelateddomaintypes find domain types isapplicationtype application type isembeddedfieldtype embedded field type hasmutator mutator
+MTHSIG19	isembeddedfieldtype embedded field type fieldmetadata field metadata field
+MTHSIG10	isvalidmetadata valid metadata
+VARIABLES	javatype type metadataservice metadata service annotation javatype type domainjavatype domain type accessor obj accessor generictype type javatype type field fieldmetadata field metadata bim mutator javatype type metadataservice metadata service beaninfometadata bean info metadata entitymetadata entity metadata relateddomaintypes domain types physicaltypemetadata physical type metadata details alreadyprocessed processed ptm ptmdetails ptm details fieldcount field count methods versionaccessor version accessor field relateddomaintypes domain types fieldmetadata field metadata type

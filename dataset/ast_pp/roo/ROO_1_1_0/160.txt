@@ -1,0 +1,17 @@
+VARSIG2	
+COMMENTS	user google app engine authentication framework gae authentication unique user service based hash user object
+CLASSES	gaeuserinformation gae user
+VARSIG1	redirecturl redirect url
+VARSIG0	redirecturl redirect url
+METHODS	getcurrentuserinformation current user gaeuserinformation gae user getemail email getid getloginurl login url getlogouturl logout url getname isuserloggedin user logged setid set
+MTHSIG4	getloginurl login url
+MTHSIG5	getlogouturl logout url
+MTHSIG6	getname
+MTHSIG7	isuserloggedin user logged
+MTHSIG0	getcurrentuserinformation current user redirecturl redirect url
+MTHSIG1	gaeuserinformation gae user redirecturl redirect url
+PACKAGE	top level server
+MTHSIG2	getemail email
+MTHSIG3	getid
+VARIABLES	redirecturl redirect url redirecturl redirect url userservice user service user user user
+MTHSIG8	setid set

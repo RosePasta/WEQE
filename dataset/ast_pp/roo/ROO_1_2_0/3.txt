@@ -1,0 +1,7 @@
+MTHSIG0	getuaaawareinstance uaa aware instance cloudcredentials cloud credentials credentials
+PACKAGE	springframework roo addon cloud foundry
+COMMENTS	factory link appcloudclient app cloud client returns uaa aware link appcloudclient app cloud client based credentials credentials credentials required instance
+CLASSES	appcloudclientfactory app cloud client factory
+VARIABLES	credentials
+VARSIG0	cloudcredentials cloud credentials credentials
+METHODS	getuaaawareinstance uaa aware instance

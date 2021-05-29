@@ -1,0 +1,61 @@
+MTHSIG4	updateexistingmanagedent updat exist manag entiti javatyp type javatyp type tabl tabl 
+MTHSIG5	hasversionfield version field tabl tabl 
+VARSIG33	javapackag destinationpackag destin 
+MTHSIG6	manageentityidentifi manag entiti identifi javatyp type javatyp type annotationmetadatabuild annot metadata builder rooentitybuild roo entiti builder set javasymbolnam symbol attributestodeleteifpres attribut delet tabl tabl 
+VARSIG32	javatyp type javatyp type 
+MTHSIG7	getidentifi identifi javatyp type pktype type 
+VARSIG31	javatyp type javatyp type 
+MTHSIG0	notifydatabaserefresh notifi databas refresh databas newdatabas databas 
+MTHSIG1	processdatabas process databas databas databas 
+PACKAGE	springframework roo addon dbre 
+MTHSIG2	reverseengin revers engin databas databas 
+MTHSIG3	createnewmanagedentityfromt creat manag entiti tabl tabl tabl javapackag javapackag 
+MTHSIG20	getdestinationpackag destin 
+MTHSIG21	setdestinationpackag set destin javapackag destinationpackag destin 
+MTHSIG8	createidentifierclass creat identifi javatyp type identifiertyp identifi type 
+VARSIG30	javatyp type javatyp type 
+MTHSIG9	getidentifiersfromprimarykei identifi primari set column primarykei primari 
+CLASSES	dbredatabaselistenerimpl dbre databas listen impl 
+VARSIG29	javatyp type identifiertyp identifi type 
+VARSIG28	javatyp type javatyp type 
+METHODS	notifydatabaserefresh notifi databas refresh processdatabas process databas reverseengin revers engin createnewmanagedentityfromt creat manag entiti tabl updateexistingmanagedent updat exist manag entiti hasversionfield version field manageentityidentifi manag entiti identifi getidentifi identifi createidentifierclass creat identifi getidentifiersfromprimarykei identifi primari getidentifiersfromcolumn identifi column deletemanagedtyp delet manag type deletemanagedtypesnotinmodel delet manag type model deletemanagedtyp delet manag type isdetectedentityinmodel detect entiti model isentitydelet entiti delet isidentifierdelet identifi delet deletemanagedtyp delet manag type getidentifiertyp identifi type getphysicaltypemetadata physic type metadata getdestinationpackag destin setdestinationpackag set destin 
+VARSIG23	javatyp type javatyp type 
+VARSIG22	javatyp type javatyp type 
+VARSIG21	set tabl tabl 
+VARSIG20	javatyp type javatyp type 
+VARSIG27	tabl tabl 
+VARSIG26	set tabl tabl 
+VARSIG25	javatyp type javatyp type 
+VARSIG24	set javatyp type managedidentifiertyp manag identifi type 
+VARSIG7	javatyp type javatyp type 
+VARSIG6	javapackag javapackag 
+VARSIG9	tabl tabl 
+VARSIG8	tabl tabl 
+VARSIG3	tabl tabl 
+VARSIG2	databas databas 
+VARSIG5	tabl tabl 
+VARSIG4	javatyp type managedtyp manag type 
+COMMENTS	respond discoveri databas structur link dbremodelservic dbre model servic creat manag entiti base call databas time roo start lookup relev destin explicitli chang local field user dbre entiti disk don destin user doesn dbre run don creat type join tabl associ creat type annot entiti find primari kei metadata add identifi attribut rooentiti roo entiti add roodbmanag roo manag creat entiti updat rooentiti roo entiti attribut rooentiti roo entiti attribut manag versionfield version field attribut updat annot disk process primari add identifiertyp attribut tabl primari kei check redund manag identifi delet don entitymetadataprovid entiti metadata provid identifierservic identifi servic column field type field tabl primari primari kei creat composit kei check identifi exist creat identifiermetadataprovid identifi metadata provid identifierservic identifi servic column name field type field name tabl primari creat composit kei tabl tabl column popul identifi return dbre xml file isn time produc identifi add field identifi check exist entiti tabl model delet databas model check type annot check constructor field method check requir type annot check constructor field method attribut identifiertyp identifi type exist rooentiti roo entiti identifiertyp identifi type attribut exist simpl type 
+VARSIG19	column column 
+VARSIG1	databas databas 
+VARSIG18	set column column 
+VARSIG0	databas newdatabas databas 
+VARSIG17	set column primarykei primari 
+VARSIG12	annotationmetadatabuild annot metadata builder rooentitybuild roo entiti builder 
+VARSIG11	javatyp type javatyp type 
+VARSIG10	column column 
+VARSIG16	javatyp type identifiertyp identifi type 
+VARSIG15	javatyp type pktype type 
+VARSIG14	tabl tabl 
+VARSIG13	set javasymbolnam symbol attributestodeleteifpres attribut delet 
+MTHSIG17	deletemanagedtyp delet manag type javatyp type javatyp type 
+MTHSIG18	getidentifiertyp identifi type javatyp type javatyp type 
+MTHSIG15	isentitydelet entiti delet javatyp type javatyp type 
+MTHSIG16	isidentifierdelet identifi delet javatyp type identifiertyp identifi type 
+MTHSIG13	deletemanagedtyp delet manag type javatyp type javatyp type set javatyp type managedidentifiertyp manag identifi type 
+MTHSIG14	isdetectedentityinmodel detect entiti model javatyp type javatyp type set tabl tabl 
+MTHSIG11	deletemanagedtyp delet manag type 
+MTHSIG12	deletemanagedtypesnotinmodel delet manag type model set tabl tabl 
+MTHSIG19	getphysicaltypemetadata physic type metadata javatyp type javatyp type 
+MTHSIG10	getidentifiersfromcolumn identifi column set column column 
+VARIABLES	newdatabas databas databas databas tabl managedtyp manag type tabl javapackag javatyp type tabl tabl column javatyp type rooentitybuild roo entiti builder attributestodeleteifpres attribut delet tabl pktype type identifiertyp identifi type primarykei primari column column javatyp type tabl javatyp type javatyp type managedidentifiertyp manag identifi type javatyp type tabl tabl javatyp type identifiertyp identifi type javatyp type javatyp type javatyp type destinationpackag destin identifi type version field version primari kei suffix classpathoper classpath oper metadataservic metadata servic filemanag file manag dbremodelservic dbre model servic dbretyperesolutionservic dbre type resolut servic shell identifierresult identifi destinationpackag destin destinationtous destin managedent manag entiti tabl javatyp type dbremid dbre mid metadataitem metadata item javatyp type annot rooentitybuild roo entiti builder roodbmanagedbuild roo manag builder superclass extendstyp type declaredbymetadataid declar metadata typedetailsbuild type detail builder governorphysicaltypemetadata governor physic type metadata mutabletypedetail mutabl type detail rooentityannot roo entiti annot rooentitybuild roo entiti builder attributestodeleteifpres attribut delet versionfieldattribut version field attribut versionfieldvalu version field identifiertyp identifi type identifierphysicaltypemetadata identifi physic type metadata pkcount count identifi identifi identifierannot identifi annot dbmanagedattribut manag attribut declaredbymetadataid declar metadata idtypedetailsbuild type detail builder result fieldnam field fieldtyp field type columnnam column managedidentifiertyp manag identifi type managedidentifiertyp manag identifi type identifiertyp identifi type tablenamepattern tabl pattern governorphysicaltypemetadata governor physic type metadata typedetail type detail dbmanagedannot manag annot attribut typeannot type annot hasrequiredannot requir annot typeannotationiter type annot iter annotationtyp annot type governorphysicaltypemetadata governor physic type metadata typedetail type detail dbmanagedannot manag annot attribut typeannot type annot hasrequiredannot requir annot typeannotationiter type annot iter annotationtyp annot type governorphysicaltypemetadata governor physic type metadata filepath file path governorphysicaltypemetadata governor physic type metadata governortypedetail governor type detail rooentityannot roo entiti annot identifiertypeattribut identifi type attribut identifiertyp identifi type declaredbymetadataid declar metadata 

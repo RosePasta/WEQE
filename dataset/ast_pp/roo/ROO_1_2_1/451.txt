@@ -1,0 +1,12 @@
+MTHSIG0	executeimpl execute impl commandtransformation command transformation trafo actionconfig action config config
+VARSIG3	actionconfig action config config
+MTHSIG1	getdescription description actionconfig action config config
+VARSIG2	actionconfig action config config
+PACKAGE	springframework roo addon tailor actions
+MTHSIG2	isvalid valid actionconfig action config config
+COMMENTS	schedules command execution
+CLASSES	executecommand execute command
+VARIABLES	trafo config config config
+VARSIG1	actionconfig action config config
+VARSIG0	commandtransformation command transformation trafo
+METHODS	executeimpl execute impl getdescription description isvalid valid

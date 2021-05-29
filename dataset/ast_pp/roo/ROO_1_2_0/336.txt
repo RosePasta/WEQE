@@ -1,0 +1,21 @@
+VARSIG7	clioption cli option key entity unspecifieddefaultvalue unspecified optioncontext option context update project mandatory domain entity repository expose javatype type domaintype domain type
+VARSIG6	clioption cli option key mandatory apply annotation javatype type interfacetype type
+VARSIG9	clioption cli option key identifiertype identifier type mandatory type domain type defaults biginteger big integer mongoidtype mongo type idtype type
+VARSIG8	clioption cli option key mandatory optioncontext option context update project implementation javatype type classtype type
+VARSIG3	clioption cli option key port mandatory port database defaults port
+VARSIG2	clioption cli option key databasename database mandatory database defaults project
+VARSIG5	clioption cli option key cloudfoundry cloud foundry mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified deploy cloudfoundry cloud foundry defaults cloudfoundry cloud foundry
+VARSIG4	clioption cli option key host mandatory host database defaults host
+COMMENTS	commands mongodb mongo repository add fields
+CLASSES	mongocommands mongo commands
+VARSIG1	clioption cli option key password mandatory password accessing database defaults password
+VARSIG0	clioption cli option key username mandatory username accessing database defaults username
+METHODS	ismongosetupavailable mongo setup isrepositorycommandavailable repository command setup repository type
+MTHSIG4	type javatype type classtype type mongoidtype mongo type idtype type testautomatically test automatically
+VARSIG10	clioption cli option key testautomatically test automatically mandatory specifieddefaultvalue unspecifieddefaultvalue unspecified create automatic integration tests entity testautomatically test automatically
+MTHSIG0	ismongosetupavailable mongo setup
+MTHSIG1	isrepositorycommandavailable repository command
+PACKAGE	springframework roo addon layers repository mongo
+MTHSIG2	setup username password port host cloudfoundry cloud foundry
+MTHSIG3	repository javatype type interfacetype type javatype type domaintype domain type
+VARIABLES	username password port host cloudfoundry cloud foundry interfacetype type domaintype domain type classtype type idtype type testautomatically test automatically mongooperations mongo operations

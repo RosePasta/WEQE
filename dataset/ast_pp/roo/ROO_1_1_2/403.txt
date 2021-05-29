@@ -1,0 +1,36 @@
+VARSIG7	javatype type returntype type
+VARSIG6	javasymbolname symbol methodname
+VARSIG9	list javasymbolname symbol parameternames parameter names
+VARSIG8	list annotatedjavatype annotated type parametertypes parameter types
+VARSIG3	methodmetadata metadata existing
+VARSIG2	declaredbymetadataid declaredby metadata
+VARSIG5	modifier
+VARSIG4	declaredbymetadataid declaredby metadata
+COMMENTS	builder link methodmetadata metadata
+VARSIG19	javatype type returntype type
+VARSIG1	methodmetadata metadata existing
+VARSIG18	javasymbolname symbol methodname
+VARSIG0	declaredbymetadataid declaredby metadata
+VARSIG17	javatype type returntype type
+MTHSIG4	methodmetadatabuilder metadata builder declaredbymetadataid declaredby metadata modifier javasymbolname symbol methodname javatype type returntype type invocablememberbodybuilder invocable member body builder bodybuilder body builder
+VARSIG12	modifier
+MTHSIG5	build
+VARSIG11	declaredbymetadataid declaredby metadata
+MTHSIG6	init javasymbolname symbol methodname javatype type returntype type
+VARSIG10	invocablememberbodybuilder invocable member body builder bodybuilder body builder
+MTHSIG7	getmethodname
+MTHSIG0	methodmetadatabuilder metadata builder declaredbymetadataid declaredby metadata
+VARSIG16	javasymbolname symbol methodname
+MTHSIG1	methodmetadatabuilder metadata builder methodmetadata metadata existing
+VARSIG15	invocablememberbodybuilder invocable member body builder bodybuilder body builder
+PACKAGE	springframework roo classpath details
+MTHSIG2	methodmetadatabuilder metadata builder declaredbymetadataid declaredby metadata methodmetadata metadata existing
+VARSIG14	javatype type returntype type
+MTHSIG3	methodmetadatabuilder metadata builder declaredbymetadataid declaredby metadata modifier javasymbolname symbol methodname javatype type returntype type list annotatedjavatype annotated type parametertypes parameter types list javasymbolname symbol parameternames parameter names invocablememberbodybuilder invocable member body builder bodybuilder body builder
+VARSIG13	javasymbolname symbol methodname
+MTHSIG8	setmethodname set javasymbolname symbol methodname
+MTHSIG9	getreturntype type
+CLASSES	methodmetadatabuilder metadata builder
+METHODS	methodmetadatabuilder metadata builder methodmetadatabuilder metadata builder methodmetadatabuilder metadata builder methodmetadatabuilder metadata builder methodmetadatabuilder metadata builder build init getmethodname setmethodname set getreturntype type setreturntype set type
+MTHSIG10	setreturntype set type javatype type returntype type
+VARIABLES	declaredbymetadataid declaredby metadata existing declaredbymetadataid declaredby metadata existing declaredbymetadataid declaredby metadata modifier methodname returntype type parametertypes parameter types parameternames parameter names bodybuilder body builder declaredbymetadataid declaredby metadata modifier methodname returntype type bodybuilder body builder methodname returntype type methodname returntype type methodname returntype type

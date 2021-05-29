@@ -1,0 +1,24 @@
+VARSIG7	javatype type javatype type
+VARSIG6	metadataidentificationstring metadata identification
+VARSIG9	javatype type javatype type
+VARSIG8	logicalpath logical path path
+VARSIG3	javatype type aspectname aspect
+VARSIG2	metadataidentificationstring metadata identification
+VARSIG5	itdfilename filename
+VARSIG4	physicaltypemetadata physical type metadata governorphysicaltype governor physical type
+COMMENTS	implementation link jpaactiverecordmetadataprovider jpa active record metadata provider fields crud annotation values purely jpa annotation values roojpaentity roo jpa entity roojpaactiverecord roo jpa active record inheritance hierarchy existing jpaactiverecordmetadata jpa active record metadata parent type don proceed superclass annotated entity trigger annotation pretty don proceed plural can acquire plural field metadata unavailable stable project chance refresh item type annotated roojpaactiverecord roo jpa active record
+CLASSES	jpaactiverecordmetadataproviderimpl jpa active record metadata provider impl
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+METHODS	activate deactivate registermatchers register matchers getmetadata metadata getitduniquenessfilenamesuffix uniqueness filename suffix getgovernorphysicaltypeidentifier governor physical type identifier createlocalidentifier create local identifier getprovidestype type getannotationvalues annotation values
+MTHSIG4	getitduniquenessfilenamesuffix uniqueness filename suffix
+MTHSIG5	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+MTHSIG6	createlocalidentifier create local identifier javatype type javatype type logicalpath logical path path
+MTHSIG7	getprovidestype type
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo addon jpa activerecord
+MTHSIG2	registermatchers register matchers
+MTHSIG3	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltype governor physical type itdfilename filename
+VARIABLES	context context metadataidentificationstring metadata identification aspectname aspect governorphysicaltype governor physical type itdfilename filename metadataidentificationstring metadata identification javatype type path javatype type configurablemetadataprovider configurable metadata provider customdatakeydecorator custom data key decorator pluralmetadataprovider plural metadata provider projectoperations project operations crudannotationvalues crud annotation values jpaentityannotationvalues jpa entity annotation values parent entity path pluralid plural pluralmetadata plural metadata idfields fields entityname entity isgaeenabled gae enabled modulename module javatype type path physicaltypeid physical type governor
+MTHSIG8	getannotationvalues annotation values javatype type javatype type

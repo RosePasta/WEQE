@@ -1,0 +1,38 @@
+VARSIG7	javatyp type annot 
+VARSIG6	javasymbolnam symbol fieldnam field 
+VARSIG9	javasymbolnam symbol methodnam 
+VARSIG8	javasymbolnam symbol methodnam 
+VARSIG3	list javatyp type paramet 
+VARSIG2	javatyp type type 
+VARSIG5	javatyp type typenam type 
+VARSIG4	javasymbolnam symbol fieldnam field 
+COMMENTS	immut represent member aspect type type equival call link getextendstyp type check type return list type supertyp check requir type equival call link getimplementstyp type check type return list type check requir type type equival call link getimplementstyp type check type return list type interfac check requir locat constructor paramet type paramet locat paramet constructor locat field fieldnam field locat field locat type typenam type locat requir list class type empti empti link list extend singl link list support interfac support special declar parent destinationtyp destin type superclasstyp superclass type featur itd permit effect multipl inherit unmodifi represent class type empti search inherit hierarchi field locat fieldnam field locat requir field search inherit hierarchi locat declar field annot annot annot locat requir locat field empti list class type empti link list support interfac support special declar parent destinationtyp destin type someinterfacetyp type featur itd unmodifi represent class type empti layer compon servic repositori return domain entiti manag compon return empti list list empti search inherit hierarchi locat paramet account methodnam locat requir search inherit hierarchi paramet locat methodnam locat requir paramet locat paramet locat method superclass method gener uniqu field start propos ad underscor uniqu proposednam propos propos field requir that uniqu governor memberfindingutil member find util getfield field springframework roo classpath detail memberholdingtypedetail member hold type detail javasymbolnam symbol return name dynam finder list 
+VARSIG1	javatyp type interfacetyp type 
+VARSIG0	javatyp type type 
+MTHSIG4	getdeclaredconstructor declar constructor list javatyp type paramet 
+MTHSIG5	getdeclaredconstructor declar constructor 
+VARSIG11	proposednam propos 
+MTHSIG6	getdeclaredfield declar field javasymbolnam symbol fieldnam field 
+VARSIG10	list javatyp type paramet 
+MTHSIG7	getdeclaredfield declar field 
+MTHSIG0	extendstyp type javatyp type type 
+MTHSIG1	implementstyp type javatyp type interfacetyp type 
+PACKAGE	springframework roo classpath detail 
+MTHSIG2	implementsani javatyp type type 
+MTHSIG3	getdeclaredmethod declar method 
+MTHSIG20	getdynamicfindernam dynam finder name 
+MTHSIG8	getdeclarediniti declar initi 
+MTHSIG9	getdeclaredinnertyp declar type javatyp type typenam type 
+MTHSIG17	getmethod javasymbolnam symbol methodnam list javatyp type paramet 
+MTHSIG18	getmethod method 
+MTHSIG15	getlayerent layer entiti 
+MTHSIG16	getmethod javasymbolnam symbol methodnam 
+MTHSIG13	getfieldswithannot field annot javatyp type annot 
+MTHSIG14	getimplementstyp type 
+MTHSIG11	getextendstyp type 
+MTHSIG12	getfield field javasymbolnam symbol fieldnam field 
+CLASSES	memberholdingtypedetail member hold type detail 
+METHODS	extendstyp type implementstyp type implementsani getdeclaredmethod declar method getdeclaredconstructor declar constructor getdeclaredconstructor declar constructor getdeclaredfield declar field getdeclaredfield declar field getdeclarediniti declar initi getdeclaredinnertyp declar type getdeclaredinnertyp declar type getextendstyp type getfield field getfieldswithannot field annot getimplementstyp type getlayerent layer entiti getmethod getmethod getmethod method getuniquefieldnam uniqu field getdynamicfindernam dynam finder name 
+MTHSIG19	getuniquefieldnam uniqu field proposednam propos 
+MTHSIG10	getdeclaredinnertyp declar type 
+VARIABLES	type interfacetyp type type paramet fieldnam field typenam type fieldnam field annot methodnam methodnam paramet proposednam propos 

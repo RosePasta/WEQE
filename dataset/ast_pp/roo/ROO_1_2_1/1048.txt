@@ -1,0 +1,11 @@
+MTHSIG0	assertxmlequals xml equals expectedxml expected xml node actualnode actual node
+MTHSIG1	testgettextcontentofnonnullnode test text content node
+PACKAGE	springframework roo support util
+MTHSIG2	testgettextcontentofnullnode test text content node
+MTHSIG3	testremoveelements test remove elements
+COMMENTS	unit test link domutils dom utils asserts xml node expected content expectedlines expected lines expected lines xml required separate platform actualnode actual node actual xml node required assertionerror assertion error equal replace dummy terminator platform specific applied xmlutils xml utils nodetostring node trim trailing whitespace xmlutils xml utils nodetostring node appends extra newline set set invoke check
+CLASSES	domutilstest dom utils test
+VARIABLES	expectedxml expected xml actualnode actual node text node text xml removal xml removal normalisedxml normalised xml actualxml actual xml mocknode mock node root middle
+VARSIG1	node actualnode actual node
+VARSIG0	expectedxml expected xml
+METHODS	assertxmlequals xml equals testgettextcontentofnonnullnode test text content node testgettextcontentofnullnode test text content node testremoveelements test remove elements

@@ -1,0 +1,25 @@
+VARSIG7	rootname root
+VARSIG6	javatype type javatype type
+VARSIG9	javatype type javatype type
+VARSIG8	deepserialize deep serialize
+VARSIG3	javatype type type
+VARSIG2	iso dates iso dates
+VARSIG5	rootname root
+VARSIG4	javatype type javatype type
+COMMENTS	implementation addon json operations
+VARSIG1	deepserialize deep serialize
+VARSIG0	deepserialize deep serialize
+MTHSIG4	annotatetype annotate type javatype type javatype type rootname root deepserialize deep serialize
+VARSIG12	iso dates iso dates
+MTHSIG5	annotatetype annotate type javatype type javatype type rootname root deepserialize deep serialize iso dates iso dates
+VARSIG11	deepserialize deep serialize
+MTHSIG6	isjsoninstallationpossible json installation
+VARSIG10	rootname root
+MTHSIG0	annotateall annotate
+MTHSIG1	annotateall annotate deepserialize deep serialize
+PACKAGE	springframework roo addon json
+MTHSIG2	annotateall annotate deepserialize deep serialize iso dates iso dates
+MTHSIG3	annotatetype annotate type javatype type javatype type rootname root
+CLASSES	jsonoperationsimpl json operations impl
+METHODS	annotateall annotate annotateall annotate annotateall annotate annotatetype annotate type annotatetype annotate type annotatetype annotate type isjsoninstallationpossible json installation
+VARIABLES	deepserialize deep serialize deepserialize deep serialize iso dates iso dates type javatype type rootname root javatype type rootname root deepserialize deep serialize javatype type rootname root deepserialize deep serialize iso dates iso dates projectoperations project operations typelocationservice type location service typemanagementservice type management service cid annotationbuilder annotation builder cidbuilder cid builder

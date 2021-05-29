@@ -1,0 +1,47 @@
+VARSIG7	set indic 
+VARSIG6	 
+VARSIG9	artifactnam artifact 
+VARSIG8	 
+VARSIG3	set includet includ tabl 
+VARSIG2	view 
+VARSIG5	schema schema 
+VARSIG4	set excludet exclud tabl 
+COMMENTS	creat link databas databas model live databas jdbc check tabl oracl recycl bin tabl ignor catch sqlexcept sql except oracl throw except attempt retriev indic delet tabl exist oracl oracl recycl bin 
+VARSIG19	sqlexcept sql except 
+VARSIG1	set schema schema 
+VARSIG18	tablenam tabl 
+VARSIG0	connect connect 
+VARSIG17	tabl 
+MTHSIG4	getcascadeact cascad action actionvalu action 
+VARSIG12	columnnam column 
+MTHSIG5	gettabl tabl schema schema 
+VARSIG11	schema schema 
+MTHSIG6	hasexcludedt exclud tabl tablenam tabl 
+VARSIG10	actionvalu action 
+MTHSIG7	hasincludedt includ tabl tablenam tabl 
+MTHSIG0	databaseintrospector databas introspector connect connect set schema schema view set includet includ tabl set excludet exclud tabl 
+VARSIG16	tablenam tabl 
+MTHSIG1	createdatabas creat databas 
+VARSIG15	set tabl 
+PACKAGE	springframework roo addon dbre model 
+MTHSIG2	findindex find set indic 
+VARSIG14	tablenam tabl 
+MTHSIG3	getartifact artifact artifactnam artifact 
+VARSIG13	tablenam tabl 
+MTHSIG8	hastabl tabl set tabl tablenam tabl 
+MTHSIG9	ignoret ignor tabl tablenam tabl 
+MTHSIG13	readprimarykeynam read primari kei name tabl tabl 
+MTHSIG11	readforeignkei read foreign tabl tabl export 
+MTHSIG12	readindic read indic tabl tabl 
+CLASSES	databaseintrospector databas introspector 
+METHODS	databaseintrospector databas introspector createdatabas creat databas findindex find getartifact artifact getcascadeact cascad action gettabl tabl hasexcludedt exclud tabl hasincludedt includ tabl hastabl tabl ignoret ignor tabl readcolumn read column readforeignkei read foreign readindic read indic readprimarykeynam read primari kei name 
+VARSIG23	foreignkei foreign kei foreignkei foreign kei 
+VARSIG22	export 
+VARSIG21	tabl tabl 
+VARSIG20	tabl tabl 
+VARSIG27	tabl tabl 
+VARSIG26	 
+VARSIG25	sqlexcept sql except 
+VARSIG24	tabl tabl 
+MTHSIG10	readcolumn read column tabl tabl 
+VARIABLES	connect schema view includet includ tabl excludet exclud tabl schema indic artifactnam artifact actionvalu action schema columnnam column tablenam tabl tablenam tabl tabl tablenam tabl tabl tablenam tabl tabl tabl export foreignkei foreign kei tabl tabl excludet exclud tabl includet includ tabl schema view tabl cascadeact cascad action tabl type tablenam tabl tabl column regex pattern ignor column foreignkei foreign foreigntablenam foreign tabl kei foreignkei foreign kei localcolumnnam local column foreigncolumnnam foreign column refer indic type indexnam indexcolumn column columnnam column name 

@@ -1,0 +1,32 @@
+VARSIG7	entry javatype type javatype type entry
+VARSIG6	map javatype type domaintypeplurals domain type plurals
+VARSIG9	servicelayermethod service layer
+VARSIG8	servicelayermethod service layer
+VARSIG3	memberdetails member details governordetails governor details
+VARSIG2	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG5	serviceannotationvalues service annotation values annotationvalues annotation values
+VARSIG4	map javatype type javatype type domaintypetoidtypemap domain type type map
+COMMENTS	metadata service user project constants fields constructor identifier required aspectname aspect required governorphysicaltypemetadata governor physical type metadata required governordetails governor details required domaintypetoidtypemap domain type type map required annotationvalues annotation values required domaintypeplurals domain type plurals create representation desired output returns metadata declaring service declare domaintype domain type domain type managed idtype type plural domain type type plural isn required declared governor don governor declares
+VARSIG1	javatype type aspectname aspect
+VARSIG0	identifier
+VARSIG17	metadataidentificationstring metadata identification
+MTHSIG4	createidentifier create identifier javatype type javatype type logicalpath logical path path
+VARSIG12	plural
+MTHSIG5	getjavatype type metadataidentificationstring metadata identification
+VARSIG11	javatype type idtype type
+MTHSIG6	getpath path metadataidentificationstring metadata identification
+VARSIG10	javatype type domaintype domain type
+MTHSIG7	isvalid valid metadataidentificationstring metadata identification
+MTHSIG0	serviceinterfacemetadata service metadata identifier javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata memberdetails member details governordetails governor details map javatype type javatype type domaintypetoidtypemap domain type type map serviceannotationvalues service annotation values annotationvalues annotation values map javatype type domaintypeplurals domain type plurals
+VARSIG16	metadataidentificationstring metadata identification
+MTHSIG1	getmethod servicelayermethod service layer javatype type domaintype domain type javatype type idtype type plural
+VARSIG15	metadataidentificationstring metadata identification
+PACKAGE	springframework roo addon layers service
+MTHSIG2	getserviceannotationvalues service annotation values
+VARSIG14	logicalpath logical path path
+MTHSIG3	getmetadataidentifertype metadata identifer type
+VARSIG13	javatype type javatype type
+MTHSIG8	tostring
+CLASSES	serviceinterfacemetadata service metadata
+METHODS	serviceinterfacemetadata service metadata getmethod getserviceannotationvalues service annotation values getmetadataidentifertype metadata identifer type createidentifier create identifier getjavatype type getpath path isvalid valid tostring
+VARIABLES	identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata governordetails governor details domaintypetoidtypemap domain type type map annotationvalues annotation values domaintypeplurals domain type plurals entry domaintype domain type idtype type plural javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification metadataidentificationstring metadata identification type type body governordetails governor details annotationvalues annotation values domaintype domain type plural methodname tsc

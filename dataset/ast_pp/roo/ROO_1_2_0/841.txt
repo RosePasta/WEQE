@@ -1,0 +1,20 @@
+VARSIG3	sourceonly source
+VARSIG2	identifier
+VARSIG5	identifier
+VARSIG4	identifier
+COMMENTS	convenient superclass link pathresolvingstrategy path resolving strategy implementations constants fields osgi component methods pathresolvingstrategy path resolving strategy methods obtains link path requiresource require source paths source code paths matching paths
+CLASSES	abstractpathresolvingstrategy path resolving strategy
+VARSIG1	identifier
+VARSIG0	componentcontext component context context
+METHODS	activate getfriendlyname friendly getpath path getpaths paths getsourcepaths source paths getpaths paths getrelativesegment relative segment getapplicablephysicalpath applicable physical path getroot root
+MTHSIG4	getsourcepaths source paths
+MTHSIG5	getpaths paths sourceonly source
+MTHSIG6	getrelativesegment relative segment identifier
+MTHSIG7	getapplicablephysicalpath applicable physical path identifier
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	getfriendlyname friendly identifier
+PACKAGE	springframework roo project
+MTHSIG2	getpath path identifier
+MTHSIG3	getpaths paths
+VARIABLES	context identifier identifier sourceonly source identifier identifier root module rootpath root path projectdirectory project directory parent parent parentfile parent file
+MTHSIG8	getroot root

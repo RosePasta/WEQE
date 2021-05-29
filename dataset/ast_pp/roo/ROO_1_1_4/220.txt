@@ -1,0 +1,31 @@
+VARSIG7	methodmetadata metadata
+VARSIG6	list annotatedjavatype annotated type paramtypes types
+VARSIG9	path path
+VARSIG8	javatype type javatype type
+VARSIG3	jsfannotationvalues jsf annotation values annotationvalues annotation values
+VARSIG2	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG5	javasymbolname symbol methodname
+VARSIG4	javatype type annotationtype annotation type
+COMMENTS	metadata link roojsfmanagedbean roo jsf managed bean add managedbean managed bean annotation required add sessionscoped session scoped annotation required create representation desired output access parameter scan treat match authoritative scan superclass caller expected scan current expected won check parameters
+VARSIG1	javatype type aspectname aspect
+VARSIG0	identifier
+MTHSIG4	getsamplefield sample field
+VARSIG12	metadataidentificationstring metadata identification
+MTHSIG5	getsamplemethod sample
+VARSIG11	metadataidentificationstring metadata identification
+MTHSIG6	methodexists exists javasymbolname symbol methodname list annotatedjavatype annotated type paramtypes types
+VARSIG10	metadataidentificationstring metadata identification
+MTHSIG7	tostring
+MTHSIG0	jsfmanagedbeanmetadata jsf managed bean metadata identifier javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata jsfannotationvalues jsf annotation values annotationvalues annotation values
+MTHSIG1	getmanagedbeanannotation managed bean annotation
+PACKAGE	springframework roo addon jsf
+MTHSIG2	getsessionscopedannotation session scoped annotation
+MTHSIG3	gettypeannotation type annotation javatype type annotationtype annotation type
+MTHSIG8	getmetadataidentifertype metadata identifer type
+MTHSIG9	createidentifier create identifier javatype type javatype type path path
+MTHSIG11	getpath path metadataidentificationstring metadata identification
+MTHSIG12	isvalid valid metadataidentificationstring metadata identification
+CLASSES	jsfmanagedbeanmetadata jsf managed bean metadata
+METHODS	jsfmanagedbeanmetadata jsf managed bean metadata getmanagedbeanannotation managed bean annotation getsessionscopedannotation session scoped annotation gettypeannotation type annotation getsamplefield sample field getsamplemethod sample methodexists exists tostring getmetadataidentifertype metadata identifer type createidentifier create identifier getjavatype type getpath path isvalid valid
+MTHSIG10	getjavatype type metadataidentificationstring metadata identification
+VARIABLES	identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata annotationvalues annotation values annotationtype annotation type methodname paramtypes types javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification metadataidentificationstring metadata identification type type annotationbuilder annotation builder fieldbuilder field builder methodname annotations throwstypes types parametertypes parameter types parameternames parameter names bodybuilder body builder methodbuilder builder tsc

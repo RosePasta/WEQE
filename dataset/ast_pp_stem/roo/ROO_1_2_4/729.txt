@@ -1,0 +1,44 @@
+VARSIG7	javatyp type domaintyp domain type 
+VARSIG6	javatyp type domaintyp domain type 
+VARSIG9	memberdetail member detail detail 
+VARSIG8	javatyp type javatyp type 
+VARSIG3	javatyp type domaintyp domain type 
+VARSIG2	javatyp type domaintyp domain type 
+VARSIG5	javatyp type type 
+VARSIG4	classorinterfacetypedetail type detail typedetail type detail 
+COMMENTS	implement link persistencememberloc persist member locat scan presenc persist tag link memberdetail member detail domain type updat normal persist field cach updat normal persist cach updat embed field cach updat accessor cach updat version field cach updat version accessor cach 
+VARSIG19	javatyp type type 
+VARSIG1	javatyp type domaintyp domain type 
+VARSIG18	memberdetail member detail detail 
+VARSIG0	javatyp type domaintyp domain type 
+VARSIG17	javatyp type type 
+MTHSIG4	getmemberdetail member detail classorinterfacetypedetail type detail typedetail type detail 
+VARSIG12	memberdetail member detail detail 
+MTHSIG5	getmemberdetail member detail javatyp type type 
+VARSIG11	fieldmetadata field metadata field 
+MTHSIG6	getversionaccessor version accessor javatyp type domaintyp domain type 
+VARSIG10	javatyp type type 
+MTHSIG7	getversionfield version field javatyp type domaintyp domain type 
+MTHSIG0	getembeddedidentifierfield embed identifi field javatyp type domaintyp domain type 
+VARSIG16	memberdetail member detail detail 
+MTHSIG1	getidentifieraccessor identifi accessor javatyp type domaintyp domain type 
+VARSIG15	javatyp type type 
+PACKAGE	springframework roo classpath persist 
+MTHSIG2	getidentifierfield identifi field javatyp type domaintyp domain type 
+VARSIG14	memberdetail member detail detail 
+MTHSIG3	getidentifiertyp identifi type javatyp type domaintyp domain type 
+VARSIG13	javatyp type type 
+MTHSIG8	haveassociatedtypeschang type chang javatyp type javatyp type 
+MTHSIG9	populateembeddedidfield popul embed field memberdetail member detail detail javatyp type type 
+MTHSIG15	updatecach updat cach javatyp type domaintyp domain type 
+MTHSIG13	populateversionaccessor popul version accessor memberdetail member detail detail javatyp type type 
+MTHSIG14	populateversionfield popul version field memberdetail member detail detail javatyp type type 
+MTHSIG11	populateidfield popul field memberdetail member detail detail javatyp type type 
+MTHSIG12	populateidtyp popul type memberdetail member detail detail javatyp type type 
+CLASSES	persistencememberlocatorimpl persist member locat impl 
+METHODS	getembeddedidentifierfield embed identifi field getidentifieraccessor identifi accessor getidentifierfield identifi field getidentifiertyp identifi type getmemberdetail member detail getmemberdetail member detail getversionaccessor version accessor getversionfield version field haveassociatedtypeschang type chang populateembeddedidfield popul embed field populateidaccessor popul accessor populateidfield popul field populateidtyp popul type populateversionaccessor popul version accessor populateversionfield popul version field updatecach updat cach 
+VARSIG22	javatyp type domaintyp domain type 
+VARSIG21	javatyp type type 
+VARSIG20	memberdetail member detail detail 
+MTHSIG10	populateidaccessor popul accessor memberdetail member detail detail javatyp type type 
+VARIABLES	domaintyp domain type domaintyp domain type domaintyp domain type domaintyp domain type typedetail type detail type domaintyp domain type domaintyp domain type javatyp type detail type field detail type detail type detail type detail type detail type domaintyp domain type itddiscoveryservic discoveri servic memberdetailsscann member detail scanner typelocationservic type locat servic domaintypeembeddedidfieldscach domain type embed field cach domaintypeidaccessorcach domain type accessor cach domaintypeidcach domain type cach domaintypeidfieldscach domain type field cach domaintypeversionaccessorcach domain type version accessor cach domaintypeversionfieldcach domain type version field cach typedetail type detail embeddedidfield embed field memberdetail member detail idaccessor accessor idfield field embeddedidfield embed field idfield field embeddedidfield embed field versionaccessor version accessor versionfield version field domaintypedetail domain type detail memberdetail member detail 

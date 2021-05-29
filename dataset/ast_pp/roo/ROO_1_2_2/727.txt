@@ -1,0 +1,44 @@
+VARSIG7	javatype type javatype type
+VARSIG6	physicaltypeid physical type
+VARSIG9	pom module
+VARSIG8	fileidentifier file identifier
+VARSIG3	list javatype type annotationstodetect annotations detect
+VARSIG2	javatype type annotationstodetect annotations detect
+VARSIG5	logicalpath logical path path
+VARSIG4	javatype type javatype type
+COMMENTS	locates types returns set link classorinterfacetypedetails type details possess annotations vararg annotationstodetect annotations detect annotations vararg detect type set classorinterfacetypedetails type details annotations returns set link classorinterfacetypedetails type details possess tag tag tag detect type set classorinterfacetypedetails type details tag returns set link javatype type possess annotations vararg annotationstodetect annotations detect annotations vararg detect type set types annotations returns set link javatype type possess list annotations annotationstodetect annotations detect list annotations detect type set types annotations returns canonical path link javatype type link logicalpath logical path type exist equivalent constructing physical type arguments calling link getphysicaltypecanonicalpath physical type canonical path javatype type type type link javatype type required path type type logical path canonical path blank exist returns canonical path type physical type type exist physicaltypeid physical type physical type type metadata required canonical path blank exist link javatype type user project returns link physicaltypemetadata physical type metadata link javatype type exists don link logicalpath logical path resolves issue link javatype type location independent link physicaltypeidentifier physical type identifier instances location dependent link physicaltypeidentifier physical type identifier relates physical file link javatype type simply represents type classpath javatype type type locate required link physicaltypeidentifier physical type identifier format returns physical type identifier source file canonical path fileidentifier file identifier path physical type required physical type identifier path matches existing source file module module returns details type user project javatype type type required type doesn exist project resolves link classorinterfacetypedetails type details physical type identifier physical type identifier doesn represent valid type exception thrown link classorinterfacetypedetails type details can physicaltypeid physical type physical type metadata blank resolved link classorinterfacetypedetails type details details can blank returns link logicalpath logical path link javatype type javatype type link javatype type link logicalpath logical path type doesn exist project returns types belong module module collection returns types belong module modulepath module path collection fully qualified type names link gettypesformodule types module pom typed ignores types pom packaged modules passed type changed invocation requesting requestingclass requesting requesting changed types javatype type type lookup change occurred collection mids represent changed types type exists user project javatype type type check type processes types list annotations supplied link locatedtypecallback located type callback callback implementation process located types annotationstodetect annotations detect list annotations detect type callback link locatedtypecallback located type callback handle processing located type
+VARSIG19	list javatype type annotationstodetect annotations detect
+VARSIG1	object tag
+VARSIG18	javatype type javatype type
+VARSIG0	javatype type annotationstodetect annotations detect
+VARSIG17	javatype type javatype type
+MTHSIG4	getphysicaltypecanonicalpath physical type canonical path javatype type javatype type logicalpath logical path path
+VARSIG12	physicaltypeid physical type
+MTHSIG5	getphysicaltypecanonicalpath physical type canonical path physicaltypeid physical type
+VARSIG11	javatype type javatype type
+MTHSIG6	getphysicaltypeidentifier physical type identifier javatype type javatype type
+VARSIG10	pom module
+MTHSIG7	getphysicaltypeidentifier physical type identifier fileidentifier file identifier
+MTHSIG0	findclassesorinterfacedetailswithannotation find classes details annotation javatype type annotationstodetect annotations detect
+VARSIG16	requestingclass requesting
+MTHSIG1	findclassesorinterfacedetailswithtag find classes details tag object tag
+VARSIG15	modulepath module path
+PACKAGE	springframework roo classpath
+MTHSIG2	findtypeswithannotation find types annotation javatype type annotationstodetect annotations detect
+VARSIG14	pom module
+MTHSIG3	findtypeswithannotation find types annotation list javatype type annotationstodetect annotations detect
+VARSIG13	javatype type javatype type
+MTHSIG8	getpotentialtoplevelpackagesformodule potential top level packages module pom module
+MTHSIG9	gettoplevelpackageformodule top level module pom module
+MTHSIG17	processtypeswithannotation process types annotation list javatype type annotationstodetect annotations detect locatedtypecallback located type callback callback
+MTHSIG15	hastypechanged type changed requestingclass requesting javatype type javatype type
+MTHSIG16	isinproject project javatype type javatype type
+MTHSIG13	gettypesformodule types module pom module
+MTHSIG14	gettypesformodule types module modulepath module path
+MTHSIG11	gettypedetails type details physicaltypeid physical type
+MTHSIG12	gettypepath type path javatype type javatype type
+CLASSES	typelocationservice type location service
+METHODS	findclassesorinterfacedetailswithannotation find classes details annotation findclassesorinterfacedetailswithtag find classes details tag findtypeswithannotation find types annotation findtypeswithannotation find types annotation getphysicaltypecanonicalpath physical type canonical path getphysicaltypecanonicalpath physical type canonical path getphysicaltypeidentifier physical type identifier getphysicaltypeidentifier physical type identifier getpotentialtoplevelpackagesformodule potential top level packages module gettoplevelpackageformodule top level module gettypedetails type details gettypedetails type details gettypepath type path gettypesformodule types module gettypesformodule types module hastypechanged type changed isinproject project processtypeswithannotation process types annotation
+VARSIG20	locatedtypecallback located type callback callback
+MTHSIG10	gettypedetails type details javatype type javatype type
+VARIABLES	annotationstodetect annotations detect tag annotationstodetect annotations detect annotationstodetect annotations detect javatype type path physicaltypeid physical type javatype type fileidentifier file identifier module module javatype type physicaltypeid physical type javatype type module modulepath module path requestingclass requesting javatype type javatype type annotationstodetect annotations detect callback

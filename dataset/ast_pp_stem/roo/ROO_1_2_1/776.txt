@@ -1,0 +1,13 @@
+VARSIG2	file previousnam previou 
+COMMENTS	repres file notif messag type file event notif event link fileoper file oper monitor start file detect disk monitor event link fileoper file oper monitor finish file monitor longer monitor event link fileoper file oper code file creat updat delet renam file subject event file oper perform support implement resourc implement requir support renam notif file link fileoper file oper renam renam notif 
+CLASSES	fileev file event 
+VARSIG1	fileoper file oper oper 
+VARSIG0	filedetail file detail filedetail file detail 
+METHODS	fileev file event getfiledetail file detail getoper oper getpreviousnam previou tostr 
+MTHSIG4	tostr 
+MTHSIG0	fileev file event filedetail file detail filedetail file detail fileoper file oper oper file previousnam previou 
+MTHSIG1	getfiledetail file detail 
+PACKAGE	springframework roo file monitor event 
+MTHSIG2	getoper oper 
+MTHSIG3	getpreviousnam previou 
+VARIABLES	filedetail file detail oper previousnam previou filedetail file detail oper previousnam previou builder 

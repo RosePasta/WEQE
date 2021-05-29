@@ -1,0 +1,39 @@
+VARSIG7	path path
+VARSIG6	javatype type javatype type
+VARSIG9	path path
+VARSIG8	relativepath relative path
+VARSIG3	logicalpath logical path path
+VARSIG2	physicalpath physical path thisphysicalpath physical path
+VARSIG5	path path
+VARSIG4	javatype type javatype type
+COMMENTS	fields osgi component methods pathresolvingstrategy path resolving strategy methods locates link physicalpath physical path construed parent presented identifier identifier locate parent required matching parent pom exists module creating module root path
+VARSIG19	logicalpath logical path modulepathid module path
+VARSIG1	pom pom
+VARSIG18	physicalpath physical path modulepath module path
+VARSIG0	identifier
+VARSIG17	pom pom
+MTHSIG4	getfocusedpath focused path path path
+VARSIG12	relativepath relative path
+MTHSIG5	getfocusedroot focused root path path
+VARSIG11	logicalpath logical path logicalpath logical path
+MTHSIG6	getidentifier identifier logicalpath logical path logicalpath logical path relativepath relative path
+VARSIG10	path path
+MTHSIG7	getmoduleroot module root module pom pom
+MTHSIG0	getapplicablephysicalpath applicable physical path identifier
+VARSIG16	sourceonly source
+MTHSIG1	getcanonicalpath canonical path logicalpath logical path path javatype type javatype type
+VARSIG15	logicalpath logical path logicalpath logical path
+PACKAGE	springframework roo project
+MTHSIG2	getfocusedcanonicalpath focused canonical path path path javatype type javatype type
+VARSIG14	pom pom
+MTHSIG3	getfocusedidentifier focused identifier path path relativepath relative path
+VARSIG13	module
+MTHSIG8	getpath path logicalpath logical path logicalpath logical path
+MTHSIG9	getpaths paths sourceonly source
+MTHSIG11	isactive active
+MTHSIG12	removetrailingseparator remove trailing separator pompath pom path
+CLASSES	mavenpathresolvingstrategy maven path resolving strategy
+METHODS	getapplicablephysicalpath applicable physical path getcanonicalpath canonical path getfocusedcanonicalpath focused canonical path getfocusedidentifier focused identifier getfocusedpath focused path getfocusedroot focused root getidentifier identifier getmoduleroot module root getpath path getpaths paths getroot root isactive active removetrailingseparator remove trailing separator
+VARSIG20	pompath pom path
+MTHSIG10	getroot root logicalpath logical path modulepathid module path
+VARIABLES	identifier pom thisphysicalpath physical path path javatype type path javatype type path relativepath relative path path path logicalpath logical path relativepath relative path module pom logicalpath logical path sourceonly source pom modulepath module path modulepathid module path pompath pom path pommanagementservice pom management service physicalpath physical path longest nextlongest longest possibleparent parent physicalpath physical path initialpath initial path pom moduleroot module root pathrelativetopom path relative pom pathids path ids pom

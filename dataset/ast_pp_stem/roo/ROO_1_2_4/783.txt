@@ -1,0 +1,82 @@
+VARSIG39	bodydeclar bodi declar element 
+MTHSIG4	updatecompilationunittyp updat compil unit type typedeclar type declar originaltyp origin type typedeclar type declar newtyp type 
+VARSIG34	statement statement statement 
+MTHSIG5	updateconstructor updat constructor typedeclar type declar originaltyp origin type typedeclar type declar newtyp type 
+VARSIG33	statement statement 
+MTHSIG6	equalsdeclar equal declar constructordeclar constructor declar originalconstructor origin constructor constructordeclar constructor declar newconstructor constructor 
+VARSIG32	blockstmt block stmt bodi bodi 
+MTHSIG7	updateinnertyp updat type typedeclar type declar originaltyp origin type typedeclar type declar newtyp type 
+VARSIG31	blockstmt block stmt bodi 
+MTHSIG0	equal importdeclar declar declar declar importdeclar declar declar declar 
+VARSIG38	typedeclar type declar newtyp type 
+MTHSIG1	equal type type type type type 
+VARSIG37	typedeclar type declar originaltyp origin type 
+PACKAGE	springframework roo classpath antlrjavapars 
+MTHSIG2	updatecompilationunitimport updat compil unit import compilationunit compil unit compilationunit compil unit compilationunit compil unit cidcompilationunit cid compil unit 
+VARSIG36	list paramet paramet paramet 
+MTHSIG3	updatecompilationunittyp updat compil unit type compilationunit compil unit compilationunit compil unit compilationunit compil unit cidcompilationunit cid compil unit 
+VARSIG35	list paramet paramet 
+MTHSIG20	equal list membervaluepair member pair pair pair list membervaluepair member pair pair pair 
+MTHSIG21	updateannot updat annot list annotationexpr annot expr annot list annotationexpr annot expr annot annot 
+MTHSIG8	updatecompilationunitenumer updat compil unit enumer enumdeclar declar originaltyp origin type enumdeclar declar newtyp type 
+VARSIG30	methoddeclar declar newmethod 
+MTHSIG9	equalsenumconst equal constant list enumconstantdeclar constant declar entri list enumconstantdeclar constant declar entri entri 
+CLASSES	updatecompilationunitutil updat compil unit util 
+VARSIG29	methoddeclar declar originalmethod origin 
+VARSIG28	bodydeclar bodi declar element 
+METHODS	equal equal updatecompilationunitimport updat compil unit import updatecompilationunittyp updat compil unit type updatecompilationunittyp updat compil unit type updateconstructor updat constructor equalsdeclar equal declar updateinnertyp updat type updatecompilationunitenumer updat compil unit enumer equalsenumconst equal constant equal updatemethod updat method equal equal equal equalsparamet equal paramet updatefield updat field equalfieldtypemodifiersannot equal field type modifi annot equalsannot equal annot equal equal updateannot updat annot 
+VARSIG23	list enumconstantdeclar constant declar entri entri 
+VARSIG22	list enumconstantdeclar constant declar entri 
+VARSIG21	enumdeclar declar newtyp type 
+VARSIG20	enumdeclar declar originaltyp origin type 
+VARSIG27	typedeclar type declar newtyp type 
+VARSIG26	typedeclar type declar originaltyp origin type 
+VARSIG25	enumconstantdeclar constant declar constant constant 
+VARSIG24	enumconstantdeclar constant declar constant 
+VARSIG7	compilationunit compil unit cidcompilationunit cid compil unit 
+VARSIG6	compilationunit compil unit compilationunit compil unit 
+VARSIG9	compilationunit compil unit cidcompilationunit cid compil unit 
+VARSIG8	compilationunit compil unit compilationunit compil unit 
+VARSIG3	importdeclar declar declar declar 
+VARSIG2	importdeclar declar declar declar 
+VARSIG5	type type type 
+VARSIG4	type type 
+COMMENTS	util updat parser compil unit structur store link variabledeclar variabl declar link fielddeclar field declar compar link importdeclar declar declar declar declar declar equal compar link type type type type updat code compilationunit compil unit import annot field method code cidcompilationunit cid compil unit compilationunit compil unit cidcompilationunit cid compil unit origin import remov newimport import check mark newimport import remov compil unit add miss import updat code compilationunit compil unit type code cidcompilationunit cid compil unit compilationunit compil unit cidcompilationunit cid compil unit type origin import remov newimport import check mark newtyp type remov compil unit add miss import updat code originaltyp origin type annot field method code cidcompilationunit cid compil unit originaltyp origin type newtyp type updat code originaltyp origin type constructor code cidcompilationunit cid compil unit originaltyp origin type newtyp type list constructor iter definit definit cidconstructor cid constructor originalconstructor origin constructor check constructor compar paramet remov cid method check updat modifi chang updat annot chang updat bodi chang add constructor compar code originalconstructor origin constructor declar code newconstructor constructor compar constructor paramet type originalconstructor origin constructor newconstructor constructor declar equal updat subclass code originaltyp origin type code newtyp type originaltyp origin type newtyp type list type iter type definit definit cimethod method add method updat code originaltyp origin type enumer code newtyp type originaltyp origin type newtyp type compar link enumconstantdeclar constant declar list entri entri entri compar link enumconstantdeclar constant declar constant constant constant compar content updat code originaltyp origin type method code newtyp type originaltyp origin type newtyp type list method iter definit definit cimetho metho remov cid method check add method compar link methoddeclar declar originalmethod origin newmethod compar link blockstmt block stmt bodi bodi bodi compar tow link statement statement statement statement todo roo doesn statement ignor compar link paramet list paramet paramet paramet updat code originaltyp origin type field code newtyp type originaltyp origin type newtyp type map field fielddeclar field declar field iter field definit field definit check variabl declar definit field cid remov field origin compil unit check modifi type annot variabl declar equal remov cid map exist variabl definit remov origin process creat modifi type modifi chang variabl updat field definit remov process field cid add field compar type modifi annot link fielddeclar field declar fielddeclar field declar fielddeclar field declar compar link annotationexpr annot expr list annot annot annot compar annot express annot annot annot annot compar express compar pair compar check equal tostr output compar link membervaluepair member pair list pair pair pair pair clone pair pair perform pair iter remain pair pair element remov remain pair pair element compar equal check pair pair finish equal check pair pair finish equal pair pair updat code annot code annot annot annot xxx japa version manag annotationexpr annot expr 
+VARSIG19	bodydeclar bodi declar element 
+VARSIG1	variabledeclar variabl declar variabledeclar variabl declar 
+VARSIG18	typedeclar type declar newtyp type 
+VARSIG0	fielddeclar field declar fielddeclar field declar 
+VARSIG17	typedeclar type declar originaltyp origin type 
+VARSIG12	typedeclar type declar originaltyp origin type 
+VARSIG11	typedeclar type declar newtyp type 
+VARSIG10	typedeclar type declar originaltyp origin type 
+VARSIG54	list annotationexpr annot expr annot annot 
+VARSIG53	list annotationexpr annot expr annot 
+VARSIG16	constructordeclar constructor declar newconstructor constructor 
+VARSIG15	constructordeclar constructor declar originalconstructor origin constructor 
+VARSIG14	bodydeclar bodi declar element 
+VARSIG13	typedeclar type declar newtyp type 
+VARSIG52	membervaluepair member pair pair pair 
+VARSIG51	list membervaluepair member pair pair pair 
+VARSIG50	list membervaluepair member pair pair pair 
+MTHSIG17	equalfieldtypemodifiersannot equal field type modifi annot fielddeclar field declar fielddeclar field declar fielddeclar field declar fielddeclar field declar 
+MTHSIG18	equalsannot equal annot list annotationexpr annot expr annot list annotationexpr annot expr annot annot 
+MTHSIG15	equalsparamet equal paramet list paramet paramet list paramet paramet paramet 
+MTHSIG16	updatefield updat field typedeclar type declar originaltyp origin type typedeclar type declar newtyp type 
+MTHSIG13	equal blockstmt block stmt bodi blockstmt block stmt bodi bodi 
+MTHSIG14	equal statement statement statement statement statement 
+MTHSIG11	updatemethod updat method typedeclar type declar originaltyp origin type typedeclar type declar newtyp type 
+MTHSIG12	equal methoddeclar declar originalmethod origin methoddeclar declar newmethod 
+MTHSIG19	equal annotationexpr annot expr annot annot annotationexpr annot expr annot annot 
+VARSIG45	list annotationexpr annot expr annot annot 
+VARSIG44	list annotationexpr annot expr annot 
+VARSIG43	fielddeclar field declar fielddeclar field declar 
+VARSIG42	fielddeclar field declar fielddeclar field declar 
+VARSIG49	annotationexpr annot expr annot annot 
+VARSIG48	annotationexpr annot expr annot annot 
+VARSIG47	annotationexpr annot expr annot annot 
+VARSIG46	annotationexpr annot expr annot annot 
+MTHSIG10	equal enumconstantdeclar constant declar constant enumconstantdeclar constant declar constant constant 
+VARIABLES	fielddeclar field declar variabledeclar variabl declar declar declar declar declar type type type compilationunit compil unit cidcompilationunit cid compil unit compilationunit compil unit cidcompilationunit cid compil unit originaltyp origin type newtyp type originaltyp origin type newtyp type element originalconstructor origin constructor newconstructor constructor originaltyp origin type newtyp type element originaltyp origin type newtyp type entri entri entri constant constant constant originaltyp origin type newtyp type element originalmethod origin newmethod bodi bodi bodi statement statement statement paramet paramet paramet originaltyp origin type newtyp type element variabl entri fielddeclar field declar fielddeclar field declar annot annot annot annot annot annot annot annot annot annot annot pair pair pair pair pair pair annot annot annot fielddeclar field declar variabledeclar variabl declar ctype type ctype type ptype type ptype type wtype type wtype type notfound cidimport cid import originalimportit origin iter originalimport origin newimportit iter newimport notfound cidtyp cid type originaltypestit origin typest iter originaltyp origin type newtypeit type iter newtyp type cidconstructor cid constructor originalconstructor origin constructor newconstructor constructor notfound originalmemberstit origin memberst iter originalmemb origin member newconstructorit constructor iter cidtyp cid type originalinn origin newinn notfound originalmemberstit origin memberst iter originalmemb origin member newinnerit iter constant constant constant bodi bodi bodi item item item cidmethod cid method originalmethod origin newmethod notfound originalmemberstit origin memberst iter originalmemb origin member newmethodsit method iter statement statement statement paramet paramet paramet cidfield cid field fieldnam field field originalmemberstit origin memberst iter originalmemb origin member variablesit variabl iter originalvari origin variabl entri variabl express express express express pair pair pair pair pair clone pair clone pair pair pairiter pair iter 
+VARSIG41	fieldentri field entri entri 
+VARSIG40	variabledeclar variabl declar variabl 

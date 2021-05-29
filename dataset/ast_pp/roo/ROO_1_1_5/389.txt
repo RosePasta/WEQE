@@ -1,0 +1,34 @@
+VARSIG7	fieldmetadata field metadata field
+VARSIG6	findermetadatadetails finder metadata details findermetadatadetails finder metadata details
+VARSIG9	document document
+VARSIG8	list fieldmetadata field metadata formfields form fields
+VARSIG3	fieldmetadata field metadata field
+VARSIG2	map javatype type javatypemetadatadetails type metadata details relateddomaintypes domain types
+VARSIG5	fieldmetadata field metadata field
+VARSIG4	fieldmetadata field metadata field
+COMMENTS	helper generates contents jsp documents fields constructor fields can webscaffoldannotationvalues web scaffold annotation values can relateddomaintypes domain types can add document namespaces create list element add document namespaces add field display elements field ignoring util map field types roo add document namespaces add form create element handle roo identifiers add document namespaces add form update element add document namespaces ignoring util map field types roo ignoring util map field types roo fields contained embedded type separately field list handle fields onetomany relationships managed side relationship provide link relevant form link url determined effort attempt roo conventions link wrong custom paths custom paths developer adjust path attribute field reference tag roo include picker styles supported dojo small medium input field criteria apply scaffolding maps roo disable form binding nested fields pks roo needed adhere javabean bean naming conventions javabean bean spec
+VARSIG1	webscaffoldannotationvalues web scaffold annotation values webscaffoldannotationvalues web scaffold annotation values
+VARSIG0	list fieldmetadata field metadata fields
+VARSIG17	term
+MTHSIG4	getupdatedocument update document
+VARSIG12	fieldmetadata field metadata field
+MTHSIG5	getfinderdocument finder document findermetadatadetails finder metadata details findermetadatadetails finder metadata details
+VARSIG11	iscreate create
+MTHSIG6	createfieldsforcreateandupdate create fields create update list fieldmetadata field metadata formfields form fields document document element root iscreate create
+VARSIG10	element root
+MTHSIG7	getjavatypeforfield type field fieldmetadata field metadata field
+MTHSIG0	jspviewmanager jsp view manager list fieldmetadata field metadata fields webscaffoldannotationvalues web scaffold annotation values webscaffoldannotationvalues web scaffold annotation values map javatype type javatypemetadatadetails type metadata details relateddomaintypes domain types
+VARSIG16	element fieldelement field element
+MTHSIG1	getlistdocument list document
+VARSIG15	fieldmetadata field metadata field
+PACKAGE	springframework roo addon web mvc jsp
+MTHSIG2	getshowdocument document
+VARSIG14	javatype type type
+MTHSIG3	getcreatedocument create document
+VARSIG13	fieldmetadata field metadata field
+MTHSIG8	getpathfortype path type javatype type type
+MTHSIG9	addcommonattributes add common attributes fieldmetadata field metadata field element fieldelement field element
+CLASSES	jspviewmanager jsp view manager
+METHODS	jspviewmanager jsp view manager getlistdocument list document getshowdocument document getcreatedocument create document getupdatedocument update document getfinderdocument finder document createfieldsforcreateandupdate create fields create update getjavatypeforfield type field getpathfortype path type addcommonattributes add common attributes uncapitalize
+MTHSIG10	uncapitalize term
+VARIABLES	fields webscaffoldannotationvalues web scaffold annotation values relateddomaintypes domain types field field field findermetadatadetails finder metadata details field formfields form fields document root iscreate create field field type field fieldelement field element term formbackingtype formbacking type formbackingtypemetadata formbacking type metadata formbackingtypepersistencemetadata formbacking type persistence metadata fields relateddomaintypes domain types entityname entity controllerpath controller path webscaffoldannotationvalues web scaffold annotation values builder document div fieldtable field table fieldcounter field counter columnelement column element fieldname field pagelist list builder document div pageshow fieldname field fielddisplay field display builder document div formcreate form create formfields form fields fieldbuilder field builder dependency builder document div formupdate form update versionaccessormethod version accessor methodname builder document div formfind form find type paramname fieldelement field element typemetadataholder type metadata holder collectiontypemetadataholder collection type metadata holder typepersistencemetadataholder type persistence metadata holder typepersistencemetadataholder type persistence metadata holder fieldname field fieldtype field type annotationmetadata annotation metadata typemetadataholder type metadata holder typepersistencemetadataholder type persistence metadata holder fieldelement field element referencetype reference type referencetypemetadata reference type metadata max maxvalue max parameters javatypemetadataholder type metadata holder annotationmetadata annotation metadata min maxa max decimalmin decimal min decimalmax decimal max regexp max min tagname tag values

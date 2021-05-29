@@ -1,0 +1,54 @@
+MTHSIG22	tostr 
+MTHSIG4	ispluginrepositoryregist plugin repositori regist repositori repositori 
+MTHSIG5	isbuildpluginregist build plugin regist plugin plugin 
+MTHSIG6	ispropertyregist properti regist properti properti 
+MTHSIG7	isfilterregist filter regist filter filter 
+MTHSIG0	projectmetadata project metadata javapackag toplevelpackag top level projectnam project set depend depend set plugin buildplugin build plugin set repositori repositori set repositori pluginrepositori plugin repositori set properti pomproperti pom properti set filter filter set resourc resourc pathresolv path resolv pathresolv path resolv 
+MTHSIG1	getprojectidentifi project identifi 
+PACKAGE	springframework roo project 
+MTHSIG2	isdependencyregist depend regist depend depend 
+MTHSIG3	isrepositoryregist repositori regist repositori repositori 
+MTHSIG20	isdatanucleusen data nucleu enabl 
+MTHSIG21	isvmforceen mforc enabl 
+MTHSIG8	isresourceregist resourc regist resourc resourc 
+MTHSIG9	gettoplevelpackag top level 
+CLASSES	projectmetadata project metadata 
+METHODS	projectmetadata project metadata getprojectidentifi project identifi isdependencyregist depend regist isrepositoryregist repositori regist ispluginrepositoryregist plugin repositori regist isbuildpluginregist build plugin regist ispropertyregist properti regist isfilterregist filter regist isresourceregist resourc regist gettoplevelpackag top level getprojectnam project getpathresolv path resolv getdepend depend getdependenciesexcludingvers depend exclud version getbuildplugin build plugin getbuildpluginsexcludingvers build plugin exclud version getpropertiesexcludingvalu properti exclud getfilt filter getresourc resourc isgaeen gae enabl isdatanucleusen data nucleu enabl isvmforceen mforc enabl tostr 
+VARSIG23	plugin buildplugin build plugin 
+VARSIG22	properti 
+VARSIG21	properti properti 
+VARSIG20	plugin 
+VARSIG25	depend depend 
+VARSIG24	plugin buildplugin build plugin 
+VARSIG7	set filter filter 
+VARSIG6	set properti pomproperti pom properti 
+VARSIG9	pathresolv path resolv pathresolv path resolv 
+VARSIG8	set resourc resourc 
+VARSIG3	set plugin buildplugin build plugin 
+VARSIG2	set depend depend 
+VARSIG5	set repositori pluginrepositori plugin repositori 
+VARSIG4	set repositori repositori 
+COMMENTS	repres project roo instanc singl project activ time project add on expect subclass link projectmetadata project metadata implement method link projectmetadata project metadata offer conveni method acquir project top level project regist depend path resolut servic concret subclass regist correct depend project build system requir read file chang subclass provid valid link pathresolv path resolv implement understand target project layout mid springframework roo project projectmetadata project metadata project conveni determin depend regist depend check requir depend regist conveni determin repositori regist repositori check requir repositori regist conveni determin plugin repositori regist repositori repositori check requir plugin repositori regist conveni determin build plugin regist plugin check requir build plugin regist conveni determin pom properti regist properti check requir properti regist conveni determin filter regist filter check requir filter regist conveni determin resourc regist resourc check requir resourc regist unmodifi represent depend empti locat depend match present depend exclud version number upgrad case locat depend group artifact type identif remov depend locat requir note version number comparison match depend return empti link set unmodifi collect build plugin empti locat build plugin match present plugin exclud version number upgrad case locat build plugin group artifact identif remov plugin locat requir note version number comparison match plugin return empti link set locat properti match present properti exclud upgrad case locat properti remov properti locat requir note comparison match properti return empti link set unmodifi represent filter empti unmodifi represent resourc empti determin googl app engin maven plugin exist pom maven gae plugin pom xml determin datanucleu data nucleu maven plugin exist pom maven datanucleu plugin pom xml determin vmforc mforc maven depend exist pom salesforc sdk persist pom xml 
+VARSIG19	plugin plugin 
+VARSIG1	projectnam project 
+VARSIG18	depend 
+VARSIG0	javapackag toplevelpackag top level 
+VARSIG17	depend depend 
+VARSIG12	repositori repositori 
+VARSIG11	repositori repositori 
+VARSIG10	depend depend 
+VARSIG16	resourc resourc 
+VARSIG15	filter filter 
+VARSIG14	properti properti 
+VARSIG13	plugin plugin 
+MTHSIG17	getfilt filter 
+MTHSIG18	getresourc resourc 
+MTHSIG15	getbuildpluginsexcludingvers build plugin exclud version plugin plugin 
+MTHSIG16	getpropertiesexcludingvalu properti exclud properti properti 
+MTHSIG13	getdependenciesexcludingvers depend exclud version depend depend 
+MTHSIG14	getbuildplugin build plugin 
+MTHSIG11	getpathresolv path resolv 
+MTHSIG12	getdepend depend 
+MTHSIG19	isgaeen gae enabl 
+MTHSIG10	getprojectnam project 
+VARIABLES	toplevelpackag top level projectnam project depend buildplugin build plugin repositori pluginrepositori plugin repositori pomproperti pom properti filter resourc pathresolv path resolv depend repositori repositori plugin properti filter resourc depend plugin properti buildplugin build plugin buildplugin build plugin depend project identifi toplevelpackag top level projectnam project depend buildplugin build plugin repositori pluginrepositori plugin repositori pomproperti pom properti filter resourc pathresolv path resolv result result result tsc 

@@ -1,0 +1,31 @@
+VARSIG7	createabstract create
+VARSIG6	javatype type superclass
+VARSIG9	javatype type
+VARSIG8	permitreservedwords permit reserved
+VARSIG3	javatype type
+VARSIG2	javatype type type
+VARSIG5	logicalpath logical path path
+VARSIG4	rooannotations roo annotations
+COMMENTS	osgi implementation link classpathoperations classpath operations fields check exists assumed legal
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+VARSIG17	permitreservedwords permit reserved
+MTHSIG4	createclass create javatype type rooannotations roo annotations logicalpath logical path path javatype type superclass createabstract create permitreservedwords permit reserved
+VARSIG12	javatype type
+MTHSIG5	createinterface create javatype type logicalpath logical path path permitreservedwords permit reserved
+VARSIG11	permitreservedwords permit reserved
+MTHSIG6	createenum create javatype type logicalpath logical path path permitreservedwords permit reserved
+VARSIG10	logicalpath logical path path
+MTHSIG7	enumconstant constant javatype type javasymbolname symbol fieldname field permitreservedwords permit reserved
+MTHSIG0	activate componentcontext component context context
+VARSIG16	javasymbolname symbol fieldname field
+MTHSIG1	deactivate componentcontext component context context
+VARSIG15	javatype type
+PACKAGE	springframework roo classpath operations
+MTHSIG2	isprojectavailable project
+VARSIG14	permitreservedwords permit reserved
+MTHSIG3	focus javatype type type
+VARSIG13	logicalpath logical path path
+CLASSES	classpathoperationsimpl classpath operations impl
+METHODS	activate deactivate isprojectavailable project focus createclass create createinterface create createenum create enumconstant constant
+VARIABLES	context context type rooannotations roo annotations path superclass createabstract create permitreservedwords permit reserved path permitreservedwords permit reserved path permitreservedwords permit reserved fieldname field permitreservedwords permit reserved metadataservice metadata service pathresolver path resolver projectoperations project operations staticfieldconverter field converter typelocationservice type location service typemanagementservice type management service physicaltypeidentifier physical type identifier ptm declaredbymetadataid declared metadata modifier cidbuilder cid builder superclassclassorinterfacetypedetails superclass type details extendstypes types annotations declaredbymetadataid declared metadata cidbuilder cid builder physicaltypeid physical type cidbuilder cid builder declaredbymetadataid declared metadata

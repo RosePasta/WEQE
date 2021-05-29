@@ -1,0 +1,33 @@
+VARSIG7	javasymbolnam symbol constantnam constant 
+VARSIG6	physicaltypeidentifi physic type identifi 
+VARSIG9	annotationmetadata annot metadata annot 
+VARSIG8	fieldmetadata field metadata fieldmetadata field metadata 
+VARSIG3	javatyp type superclass 
+VARSIG2	physicaltypeidentifi physic type identifi 
+VARSIG5	classorinterfacetypedetail type detail detail 
+VARSIG4	javatyp type requiredclassorinterfac requir 
+COMMENTS	conveni method creat sourc code instal jsr valid api requir determin canon filenam check file doesn exist comput physic locat physic type mutabl detail ensur physic type mutabl detail automat add jsr bean valid api support current jsr support jsr annot version repres version user user depend list verifi request entiti exist file exist verifi request entiti exist check request entiti jpa entiti proce file exist entiti entiti lookup requir type detail except pars 
+VARSIG1	path path 
+VARSIG0	javatyp type javatyp type 
+MTHSIG4	getphysicallocationcanonicalpath physic locat canon path physicaltypeidentifi physic type identifi 
+VARSIG12	javatyp type 
+MTHSIG5	getsuperclass superclass javatyp type superclass 
+VARSIG11	javatyp type entiti 
+MTHSIG6	getclassorinterfac javatyp type requiredclassorinterfac requir 
+VARSIG10	javatyp type entiti 
+MTHSIG7	generateclassfil gener file classorinterfacetypedetail type detail detail 
+MTHSIG0	getpathresolv path resolv 
+MTHSIG1	isprojectavail project 
+PACKAGE	springframework roo classpath oper 
+MTHSIG2	ispersistentclassavail persist 
+VARSIG14	javatyp type entiti 
+MTHSIG3	getphysicallocationcanonicalpath physic locat canon path javatyp type javatyp type path path 
+VARSIG13	path path 
+MTHSIG8	addenumconst add constant physicaltypeidentifi physic type identifi javasymbolnam symbol constantnam constant 
+MTHSIG9	addfield add field fieldmetadata field metadata fieldmetadata field metadata 
+MTHSIG11	newdod dod javatyp type entiti javatyp type path path 
+MTHSIG12	getent entiti javatyp type entiti 
+CLASSES	classpathoperationsimpl classpath oper impl 
+METHODS	getpathresolv path resolv isprojectavail project ispersistentclassavail persist getphysicallocationcanonicalpath physic locat canon path getphysicallocationcanonicalpath physic locat canon path getsuperclass superclass getclassorinterfac generateclassfil gener file addenumconst add constant addfield add field newintegrationtest integr test newdod dod getent entiti 
+MTHSIG10	newintegrationtest integr test javatyp type entiti 
+VARIABLES	javatyp type path physicaltypeidentifi physic type identifi superclass requiredclassorinterfac requir detail physicaltypeidentifi physic type identifi constantnam constant fieldmetadata field metadata annot entiti entiti path entiti projectoper project oper physicaltypemetadataprovid physic type metadata provid metadataservic metadata servic filemanag file manag memberdetailsscann member detail scanner projectmetadata project metadata pathresolv path resolv relativepath rel path physicallocationcanonicalpath physic locat canon path pathresolv path resolv javatyp type path relativepath rel path physicallocationcanonicalpath physic locat canon path superclassmetadataid superclass metadata superclassmetadata superclass metadata superclassphysicaldetail superclass physic detail physicallocationcanonicalpath physic locat canon path tocreat creat ptm ptd mutabletypedetail mutabl type detail ptm ptd mutabletypedetail mutabl type detail jsr requir jsr requir classorinterfacetypedetail type detail declaredbymetadataid declar metadata annot config method methodannot annot methodbuild builder typedetailsbuild type detail builder classorinterfacetypedetail type detail memberdetail member detail entityannot entiti annot declaredbymetadataid declar metadata annot dodconfig dod config typedetailsbuild type detail builder physicaltypeidentifi physic type identifi ptm ptd 

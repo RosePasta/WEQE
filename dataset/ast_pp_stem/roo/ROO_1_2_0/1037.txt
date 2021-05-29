@@ -1,0 +1,19 @@
+MTHSIG11	testfirstelementofsingleelementcollect test element singl element collect 
+MTHSIG12	testfirstelementofmultielementcollect test element multi element collect 
+COMMENTS	unit test link collectionutil collect util simpl filter test filter method set invok check set invok check set invok check set invok check set invok check set invok check 
+CLASSES	collectionutilstest collect util test 
+VARSIG0	instanc 
+METHODS	testfilternullcollect test filter collect testfilternonnulliterablewithnullfilt test filter iter filter testfilternonnulliterablewithnonnullfilt test filter iter filter testaddnullcollectiontonullcollect test add collect collect testaddnullcollectiontononnullcollect test add collect collect testaddnonnullcollectiontononnullcollect test add collect collect testpopulatenullcollectionwithnullcollect test popul collect collect testpopulatenonnullcollectionwithnullcollect test popul collect collect testpopulatenonnullcollectionwithnonnullcollect test popul collect collect testfirstelementofnullcollect test element collect testfirstelementofemptycollect test element empti collect testfirstelementofsingleelementcollect test element singl element collect testfirstelementofmultielementcollect test element multi element collect 
+MTHSIG4	testaddnullcollectiontononnullcollect test add collect collect 
+MTHSIG5	testaddnonnullcollectiontononnullcollect test add collect collect 
+MTHSIG6	testpopulatenullcollectionwithnullcollect test popul collect collect 
+MTHSIG7	testpopulatenonnullcollectionwithnullcollect test popul collect collect 
+MTHSIG0	testfilternullcollect test filter collect 
+MTHSIG1	testfilternonnulliterablewithnullfilt test filter iter filter 
+PACKAGE	springframework roo support util 
+MTHSIG2	testfilternonnulliterablewithnonnullfilt test filter iter filter 
+MTHSIG3	testaddnullcollectiontonullcollect test add collect collect 
+MTHSIG10	testfirstelementofemptycollect test element empti collect 
+VARIABLES	instanc blank filter input input parent parent parent child parent collect result originalcollect origin collect child result member member 
+MTHSIG8	testpopulatenonnullcollectionwithnonnullcollect test popul collect collect 
+MTHSIG9	testfirstelementofnullcollect test element collect 

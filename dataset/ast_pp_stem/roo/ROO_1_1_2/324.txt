@@ -1,0 +1,17 @@
+VARSIG3	clioption cli option kei path mandatori path view creat requir foo blah path 
+VARSIG2	clioption cli option kei code mandatori languag code desir bundl 
+VARSIG5	clioption cli option kei titl mandatori titl view titl 
+VARSIG4	clioption cli option kei viewnam view mandatori view map view adopt requir viewnam view 
+COMMENTS	command web add roo shell 
+CLASSES	jspcommand jsp command 
+VARSIG1	clioption cli option kei preferredmap prefer map mandatori specif request map path control foo preferredmap prefer map 
+VARSIG0	clioption cli option kei mandatori path control object creat javatyp type control 
+METHODS	iscontrollerclassavail control newcontrol control isinstalllanguageavail instal languag lang isinstallviewavail instal view installview instal view 
+MTHSIG4	isinstallviewavail instal view 
+MTHSIG5	installview instal view path viewnam view titl 
+MTHSIG0	iscontrollerclassavail control 
+MTHSIG1	newcontrol control javatyp type control preferredmap prefer map 
+PACKAGE	springframework roo addon web mvc jsp 
+MTHSIG2	isinstalllanguageavail instal languag 
+MTHSIG3	lang 
+VARIABLES	control preferredmap prefer map path viewnam view titl log jspoper jsp oper 

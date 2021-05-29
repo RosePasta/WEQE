@@ -1,0 +1,82 @@
+VARSIG39	bodydeclaration body declaration element
+MTHSIG4	updatecompilationunittype update compilation unit type typedeclaration type declaration originaltype original type typedeclaration type declaration newtype type
+VARSIG34	statement statement statement
+MTHSIG5	updateconstructors update constructors typedeclaration type declaration originaltype original type typedeclaration type declaration newtype type
+VARSIG33	statement statement
+MTHSIG6	equalsdeclaration equals declaration constructordeclaration constructor declaration originalconstructor original constructor constructordeclaration constructor declaration newconstructor constructor
+VARSIG32	blockstmt block stmt body body
+MTHSIG7	updateinnertypes update types typedeclaration type declaration originaltype original type typedeclaration type declaration newtype type
+VARSIG31	blockstmt block stmt body
+MTHSIG0	equals importdeclaration declaration declaration declaration importdeclaration declaration declaration declaration
+VARSIG38	typedeclaration type declaration newtype type
+MTHSIG1	equals type type type type type
+VARSIG37	typedeclaration type declaration originaltype original type
+PACKAGE	springframework roo classpath antlrjavaparser
+MTHSIG2	updatecompilationunitimports update compilation unit imports compilationunit compilation unit compilationunit compilation unit compilationunit compilation unit cidcompilationunit cid compilation unit
+VARSIG36	list parameter parameters parameters
+MTHSIG3	updatecompilationunittypes update compilation unit types compilationunit compilation unit compilationunit compilation unit compilationunit compilation unit cidcompilationunit cid compilation unit
+VARSIG35	list parameter parameters
+MTHSIG20	equals list membervaluepair member pair pairs pairs list membervaluepair member pair pairs pairs
+MTHSIG21	updateannotations update annotations list annotationexpr annotation expr annotations list annotationexpr annotation expr annotations annotations
+MTHSIG8	updatecompilationunitenumeration update compilation unit enumeration enumdeclaration declaration originaltype original type enumdeclaration declaration newtype type
+VARSIG30	methoddeclaration declaration newmethod
+MTHSIG9	equalsenumconstants equals constants list enumconstantdeclaration constant declaration entries list enumconstantdeclaration constant declaration entries entries
+CLASSES	updatecompilationunitutils update compilation unit utils
+VARSIG29	methoddeclaration declaration originalmethod original
+VARSIG28	bodydeclaration body declaration element
+METHODS	equals equals updatecompilationunitimports update compilation unit imports updatecompilationunittypes update compilation unit types updatecompilationunittype update compilation unit type updateconstructors update constructors equalsdeclaration equals declaration updateinnertypes update types updatecompilationunitenumeration update compilation unit enumeration equalsenumconstants equals constants equals updatemethods update methods equals equals equals equalsparameters equals parameters updatefields update fields equalfieldtypemodifiersannotations equal field type modifiers annotations equalsannotations equals annotations equals equals updateannotations update annotations
+VARSIG23	list enumconstantdeclaration constant declaration entries entries
+VARSIG22	list enumconstantdeclaration constant declaration entries
+VARSIG21	enumdeclaration declaration newtype type
+VARSIG20	enumdeclaration declaration originaltype original type
+VARSIG27	typedeclaration type declaration newtype type
+VARSIG26	typedeclaration type declaration originaltype original type
+VARSIG25	enumconstantdeclaration constant declaration constant constant
+VARSIG24	enumconstantdeclaration constant declaration constant
+VARSIG7	compilationunit compilation unit cidcompilationunit cid compilation unit
+VARSIG6	compilationunit compilation unit compilationunit compilation unit
+VARSIG9	compilationunit compilation unit cidcompilationunit cid compilation unit
+VARSIG8	compilationunit compilation unit compilationunit compilation unit
+VARSIG3	importdeclaration declaration declaration declaration
+VARSIG2	importdeclaration declaration declaration declaration
+VARSIG5	type type type
+VARSIG4	type type
+COMMENTS	utilities update parser compilation unit structure store link variabledeclarator variable declarator link fielddeclaration field declaration compare link importdeclaration declaration declaration declaration declaration declaration equals compare link type type type type update code compilationunit compilation unit imports annotation fields methods code cidcompilationunit cid compilation unit compilationunit compilation unit cidcompilationunit cid compilation unit original imports remove newimports imports check mark newimports imports remove compilation unit add missing imports updates code compilationunit compilation unit types code cidcompilationunit cid compilation unit compilationunit compilation unit cidcompilationunit cid compilation unit type original imports remove newimports imports check mark newtypes types remove compilation unit add missing imports update code originaltype original type annotation fields methods code cidcompilationunit cid compilation unit originaltype original type newtype type update code originaltype original type constructors code cidcompilationunit cid compilation unit originaltype original type newtype type list constructors iterate definition definition cidconstructor cid constructor originalconstructor original constructor check constructor comparing parameters remove cid methods check update modifier changed update annotations changed update body changed add constructors compares code originalconstructor original constructor declaration code newconstructor constructor compares constructor parameters types originalconstructor original constructor newconstructor constructor declaration equals updates subclasses code originaltype original type code newtype type originaltype original type newtype type list types iterate type definition definition cimethods methods add methods updates code originaltype original type enumeration code newtype type originaltype original type newtype type compares link enumconstantdeclaration constant declaration list entries entries entries compares link enumconstantdeclaration constant declaration constant constant constant compares contents updates code originaltype original type methods code newtype type originaltype original type newtype type list methods iterate definition definition cimethos methos remove cid methods check add methods compares link methoddeclaration declaration originalmethod original newmethod compares link blockstmt block stmt body body body compares tow link statement statement statement statement todo roo doesn statement ignore compares link parameter list parameters parameters parameters update code originaltype original type fields code newtype type originaltype original type newtype type map fields fielddeclaration field declaration field iterate field definition field definition check variable declared definition field cid remove field original compilation unit check modifiers type annotations variable declaration equals remove cid map exists variable definition remove original process create modifiers type modifiers changed variables update field definition remove processed field cid add fields compares type modifies annotation link fielddeclaration field declaration fielddeclaration field declaration fielddeclaration field declaration compares link annotationexpr annotation expr list annotations annotations annotations compares annotation expression annotation annotation annotation annotation compare expression compare pairs compare check equals tostring output compares link membervaluepair member pair list pairs pairs pairs pairs clone pair pair performance pair iterate remaining pair pair elements remove remaining pair pair elements compare equals check pair pair finished equals check pair pair finished equals pair pair update code annotations code annotations annotations annotations xxx japa version manage annotationexpr annotation expr
+VARSIG19	bodydeclaration body declaration element
+VARSIG1	variabledeclarator variable declarator variabledeclarator variable declarator
+VARSIG18	typedeclaration type declaration newtype type
+VARSIG0	fielddeclaration field declaration fielddeclaration field declaration
+VARSIG17	typedeclaration type declaration originaltype original type
+VARSIG12	typedeclaration type declaration originaltype original type
+VARSIG11	typedeclaration type declaration newtype type
+VARSIG10	typedeclaration type declaration originaltype original type
+VARSIG54	list annotationexpr annotation expr annotations annotations
+VARSIG53	list annotationexpr annotation expr annotations
+VARSIG16	constructordeclaration constructor declaration newconstructor constructor
+VARSIG15	constructordeclaration constructor declaration originalconstructor original constructor
+VARSIG14	bodydeclaration body declaration element
+VARSIG13	typedeclaration type declaration newtype type
+VARSIG52	membervaluepair member pair pair pair
+VARSIG51	list membervaluepair member pair pairs pairs
+VARSIG50	list membervaluepair member pair pairs pairs
+MTHSIG17	equalfieldtypemodifiersannotations equal field type modifiers annotations fielddeclaration field declaration fielddeclaration field declaration fielddeclaration field declaration fielddeclaration field declaration
+MTHSIG18	equalsannotations equals annotations list annotationexpr annotation expr annotations list annotationexpr annotation expr annotations annotations
+MTHSIG15	equalsparameters equals parameters list parameter parameters list parameter parameters parameters
+MTHSIG16	updatefields update fields typedeclaration type declaration originaltype original type typedeclaration type declaration newtype type
+MTHSIG13	equals blockstmt block stmt body blockstmt block stmt body body
+MTHSIG14	equals statement statement statement statement statement
+MTHSIG11	updatemethods update methods typedeclaration type declaration originaltype original type typedeclaration type declaration newtype type
+MTHSIG12	equals methoddeclaration declaration originalmethod original methoddeclaration declaration newmethod
+MTHSIG19	equals annotationexpr annotation expr annotation annotation annotationexpr annotation expr annotation annotation
+VARSIG45	list annotationexpr annotation expr annotations annotations
+VARSIG44	list annotationexpr annotation expr annotations
+VARSIG43	fielddeclaration field declaration fielddeclaration field declaration
+VARSIG42	fielddeclaration field declaration fielddeclaration field declaration
+VARSIG49	annotationexpr annotation expr annotation annotation
+VARSIG48	annotationexpr annotation expr annotation annotation
+VARSIG47	annotationexpr annotation expr annotation annotation
+VARSIG46	annotationexpr annotation expr annotation annotation
+MTHSIG10	equals enumconstantdeclaration constant declaration constant enumconstantdeclaration constant declaration constant constant
+VARIABLES	fielddeclaration field declaration variabledeclarator variable declarator declaration declaration declaration declaration type type type compilationunit compilation unit cidcompilationunit cid compilation unit compilationunit compilation unit cidcompilationunit cid compilation unit originaltype original type newtype type originaltype original type newtype type element originalconstructor original constructor newconstructor constructor originaltype original type newtype type element originaltype original type newtype type entries entries entries constant constant constant originaltype original type newtype type element originalmethod original newmethod body body body statement statement statement parameters parameters parameters originaltype original type newtype type element variable entry fielddeclaration field declaration fielddeclaration field declaration annotations annotations annotations annotation annotation annotation annotation annotation annotation annotation annotation pairs pairs pairs pairs pair pair annotations annotations annotations fielddeclaration field declaration variabledeclarator variable declarator ctype type ctype type ptype type ptype type wtype type wtype type notfound cidimports cid imports originalimportiter original iter originalimport original newimportiter iter newimport notfound cidtypes cid types originaltypestiter original typest iter originaltype original type newtypeiter type iter newtype type cidconstructor cid constructor originalconstructor original constructor newconstructor constructor notfound originalmemberstiter original memberst iter originalmember original member newconstructoriter constructor iter cidtypes cid types originalinner original newinner notfound originalmemberstiter original memberst iter originalmember original member newinneriter iter constant constant constant body body body item item item cidmethods cid methods originalmethod original newmethod notfound originalmemberstiter original memberst iter originalmember original member newmethodsiter methods iter statements statements statements parameter parameter parameter cidfields cid fields fieldname field field originalmemberstiter original memberst iter originalmember original member variablesiter variables iter originalvariable original variable entry variables expression expression expression expression pairs pairs pairs pairs pairs cloned pairs cloned pair pair pairiterator pair iterator
+VARSIG41	fieldentry field entry entry
+VARSIG40	variabledeclarator variable declarator variable

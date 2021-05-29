@@ -1,0 +1,52 @@
+MTHSIG22	isvalid valid metadataidentificationstring metadata identification
+MTHSIG4	getdeletemethod delete
+MTHSIG5	getlistmethod list
+MTHSIG6	getshowmethod
+MTHSIG7	getcreatemethod create
+MTHSIG0	webscaffoldmetadata web scaffold metadata identifier javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata webscaffoldannotationvalues web scaffold annotation values annotationvalues annotation values memberdetails member details memberdetails member details sortedmap sorted map javatype type javatypemetadatadetails type metadata details specialdomaintypes special domain types list javatypemetadatadetails type metadata details dependenttypes dependent types map javasymbolname symbol datetimeformatdetails time format details datetypes types
+MTHSIG1	getannotationvalues annotation values
+PACKAGE	springframework roo addon web mvc controller scaffold mvc
+MTHSIG2	getconversionservicefield conversion service field
+MTHSIG3	getconstructor constructor
+MTHSIG20	getjavatype type metadataidentificationstring metadata identification
+MTHSIG21	getpath path metadataidentificationstring metadata identification
+MTHSIG8	getcreateformmethod create form list javatypemetadatadetails type metadata details dependenttypes dependent types
+MTHSIG9	getupdatemethod update
+CLASSES	webscaffoldmetadata web scaffold metadata
+METHODS	webscaffoldmetadata web scaffold metadata getannotationvalues annotation values getconversionservicefield conversion service field getconstructor constructor getdeletemethod delete getlistmethod list getshowmethod getcreatemethod create getcreateformmethod create form getupdatemethod update getupdateformmethod update form getpopulatemethods populate methods getencodeurlpathsegmentmethod encode url path segment getdatetimeformathelpermethod time format helper methodexists exists getshortname uncapitalize tostring getmetadataidentifertype metadata identifer type createidentifier create identifier getjavatype type getpath path isvalid valid
+VARSIG23	metadataidentificationstring metadata identification
+VARSIG22	metadataidentificationstring metadata identification
+VARSIG21	metadataidentificationstring metadata identification
+VARSIG20	path path
+VARSIG7	map javasymbolname symbol datetimeformatdetails time format details datetypes types
+VARSIG6	list javatypemetadatadetails type metadata details dependenttypes dependent types
+VARSIG9	fieldmetadata field metadata field
+VARSIG8	methodmetadata metadata
+VARSIG3	webscaffoldannotationvalues web scaffold annotation values annotationvalues annotation values
+VARSIG2	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG5	sortedmap sorted map javatype type javatypemetadatadetails type metadata details specialdomaintypes special domain types
+VARSIG4	memberdetails member details memberdetails member details
+COMMENTS	metadata link roowebscaffold roo web scaffold adding array fieldname field position path position illegalstateexception illegal exception unable scaffold controller type formbackingtype form backing type getfullyqualifiedtypename fully qualified type referenced type type getfullyqualifiedtypename fully qualified type handled roo needed adhere javabean bean naming conventions javabean bean spec
+VARSIG19	javatype type javatype type
+VARSIG1	javatype type aspectname aspect
+VARSIG18	term
+VARSIG0	identifier
+VARSIG17	javatype type type
+VARSIG12	javatypemetadatadetails type metadata details dependenttype dependent type
+VARSIG11	list javatypemetadatadetails type metadata details dependenttypes dependent types
+VARSIG10	constructormetadata constructor metadata constructor
+VARSIG16	methodmetadata metadata
+VARSIG15	javasymbolname symbol methodname
+VARSIG14	entry javasymbolname symbol datetimeformatdetails time format details javasymbolnamedatetimeformatdetailsentry symbol time format details entry
+VARSIG13	javatype type type
+MTHSIG17	tostring
+MTHSIG18	getmetadataidentifertype metadata identifer type
+MTHSIG15	getshortname javatype type type
+MTHSIG16	uncapitalize term
+MTHSIG13	getdatetimeformathelpermethod time format helper
+MTHSIG14	methodexists exists javasymbolname symbol methodname
+MTHSIG11	getpopulatemethods populate methods
+MTHSIG12	getencodeurlpathsegmentmethod encode url path segment
+MTHSIG19	createidentifier create identifier javatype type javatype type path path
+MTHSIG10	getupdateformmethod update form
+VARIABLES	identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata annotationvalues annotation values memberdetails member details specialdomaintypes special domain types dependenttypes dependent types datetypes types field constructor dependenttypes dependent types dependenttype dependent type type javasymbolnamedatetimeformatdetailsentry symbol time format details entry methodname type term javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification metadataidentificationstring metadata identification type type annotationvalues annotation values controllerpath controller path entityname entity datetypes types formbackingtype form backing type specialdomaintypes special domain types javatypemetadataholder type metadata holder compositepk composite methods fields constructors fieldname field fieldtype field type fieldbuilder field builder constructorparam constructor bodybuilder body builder constructorbuilder constructor builder autowired javatypepersistencemetadataholder type persistence metadata holder methodname typeannotations type annotations attributes pathvariableannotation path variable annotation firstresultattributes result attributes firstresultannotations result annotations firstresultannotation result annotation maxresultsattributes max attributes maxresultsannotations max annotations maxresultannotation max result annotation paramtypes types paramnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations bodybuilder body builder methodbuilder builder javatypepersistencemetadataholder type persistence metadata holder methodname firstresultattributes result attributes firstresultannotations result annotations firstresultannotation result annotation maxresultsattributes max attributes maxresultsannotations max annotations maxresultannotation max result annotation paramtypes types paramnames names requestmappingattributes request mapping attributes annotations plural bodybuilder body builder methodbuilder builder javatypepersistencemetadataholder type persistence metadata holder methodname typeannotations type annotations attributes pathvariableannotation path variable annotation paramtypes types paramnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations bodybuilder body builder methodbuilder builder javatypepersistencemetadataholder type persistence metadata holder methodname typeannotations type annotations validannotation valid annotation noannotations annotations paramtypes types paramnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations bodybuilder body builder methodbuilder builder methodname paramtypes types paramnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations bodybuilder body builder listadded list listshort list arraylistshort array list methodbuilder builder javatypepersistencemetadataholder type persistence metadata holder methodname typeannotations type annotations validannotation valid annotation noannotations annotations paramtypes types paramnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations bodybuilder body builder methodbuilder builder javatypepersistencemetadataholder type persistence metadata holder methodname updateformmethod update form typeannotations type annotations attributes pathvariableannotation path variable annotation paramtypes types paramnames names requestmappingattributes request mapping attributes requestmapping request mapping annotations bodybuilder body builder methodbuilder builder methods bodybuilder body builder javatypemd type javatypepersistencemd type persistence arrays populatemethodname populate addreferencedatamethod add reference data annotations attributes typeparams type params returntype type methodbuilder builder encodeurlpathsegment encode url path segment paramtypes types encodeurlpathsegmentmethod encode url path segment paramnames names bodybuilder body builder adddatetimeformatpatterns add time format patterns paramtypes types adddatetimeformatpatternsmethod add time format patterns paramnames names bodybuilder body builder pattern datetimeformat time format datetimeformatsimple time format simple localecontextholder locale context holder localecontextholdersimple locale context holder simple methodbuilder builder tsc

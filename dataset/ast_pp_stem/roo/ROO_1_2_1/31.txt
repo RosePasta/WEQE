@@ -1,0 +1,172 @@
+MTHSIG28	login 
+MTHSIG29	loginifneed login need 
+MTHSIG26	getserviceconfigur servic configur 
+MTHSIG27	getservic servic 
+MTHSIG24	getfil file appnam app instanceindex instanc filepath file path requestcallback request callback requestcallback request callback responseextractor respons extractor responsehandl respons handler 
+MTHSIG25	getservic servic servic 
+MTHSIG22	getdefaultapplicationmemori applic memori framework 
+MTHSIG23	getfil file appnam app instanceindex instanc filepath file path 
+MTHSIG4	createanduploadandstartappl creat upload start applic appnam app framework memori file warfil war file list uri list servicenam servic name 
+VARSIG78	featurenam featur 
+MTHSIG5	createappl creat applic appnam app framework memori list uri list servicenam servic name 
+VARSIG77	appcloudexcept app cloud except 
+MTHSIG6	createappl creat applic appnam app framework memori list uri list servicenam servic name checkexist check exist 
+VARSIG76	password 
+MTHSIG7	createservic creat servic cloudservic cloud servic servic 
+VARSIG75	email 
+MTHSIG0	uaaawareappcloudcli uaa awar app cloud client product product uaaservic uaa servic uaaservic uaa servic cloudcredenti cloud credenti credenti clienthttprequestfactori client http request factori requestfactori request factori 
+MTHSIG1	aftertransmiss transmiss transmissiontyp transmiss type type success 
+MTHSIG2	beforetransmiss transmiss transmissiontyp transmiss type type 
+MTHSIG3	bindservic bind servic appnam app servicenam servic 
+VARSIG79	map object jsonpayload json payload 
+MTHSIG20	getcloudinfo cloud info 
+VARSIG70	methodnam 
+MTHSIG21	getcrash crash appnam app 
+MTHSIG8	deactiv 
+VARSIG74	appnam app 
+MTHSIG9	deleteallappl delet applic 
+VARSIG73	resultcod result code 
+VARSIG72	methodnam 
+VARSIG71	resultcod result code 
+MTHSIG39	unbindservic unbind servic appnam app servicenam servic 
+MTHSIG37	startappl start applic appnam app 
+MTHSIG38	stopappl applic appnam app 
+MTHSIG35	restartappl restart applic appnam app 
+MTHSIG36	sha sha input 
+MTHSIG33	registerfeatureus regist featur featurenam featur map object jsonpayload json payload 
+MTHSIG34	renam appnam app newnam 
+METHODS	uaaawareappcloudcli uaa awar app cloud client aftertransmiss transmiss beforetransmiss transmiss bindservic bind servic createanduploadandstartappl creat upload start applic createappl creat applic createappl creat applic createservic creat servic deactiv deleteallappl delet applic deleteallservic delet servic deleteappl delet applic deleteservic delet servic flushtouaa flush uaa getappl applic getapplicationinst applic instanc getapplicationmemorychoic applic memori choic getappl applic getapplicationstat applic stat getcloudcontrollerurl cloud control url getcloudinfo cloud info getcrash crash getdefaultapplicationmemori applic memori getfil file getfil file getservic servic getserviceconfigur servic configur getservic servic login loginifneed login need recordhttpresult record http result recordhttpresult record http result regist registerfeatureus regist featur renam restartappl restart applic sha sha startappl start applic stopappl applic unbindservic unbind servic unregist updateapplicationinst updat applic instanc updateapplicationmemori updat applic memori updateapplicationservic updat applic servic updateapplicationuri updat applic uri uploadappl upload applic uploadappl upload applic uploadappl upload applic 
+VARSIG67	appcloudexcept app cloud except 
+VARSIG66	appcloudexcept app cloud except 
+VARSIG65	appcloudexcept app cloud except 
+VARSIG64	servic 
+VARSIG69	appcloudexcept app cloud except 
+VARSIG110	file warfil war file 
+VARSIG68	appcloudexcept app cloud except 
+VARSIG111	appcloudexcept app cloud except 
+MTHSIG31	recordhttpresult record http result methodnam resultcod result code appnam app 
+VARSIG112	appnam app 
+MTHSIG32	regist email password 
+VARSIG113	file warfil war file 
+VARSIG114	uploadstatuscallback upload statu callback callback 
+MTHSIG30	recordhttpresult record http result methodnam resultcod result code 
+VARSIG115	appcloudexcept app cloud except 
+VARSIG63	appcloudexcept app cloud except 
+VARSIG116	appnam app 
+VARSIG62	responseextractor respons extractor responsehandl respons handler 
+VARSIG117	warfilepath war file path 
+VARSIG61	requestcallback request callback requestcallback request callback 
+VARSIG118	appcloudexcept app cloud except 
+VARSIG60	filepath file path 
+COMMENTS	kei sort map http respons code count respons code constructor link appcloudclientfactori app cloud client factori getuaaawareinst uaa awar instanc cloudcredenti cloud credenti product link product uaaservic uaa servic uaa servic requir credenti cloud login credenti requir requestfactori request factori store app name store cloud control url store cloud control hostnam sha creat featur record cloud control crate featur can happen sha algorithm can happen utf encod 
+VARSIG19	memori 
+VARSIG18	framework 
+VARSIG17	appnam app 
+VARSIG12	memori 
+VARSIG11	framework 
+VARSIG99	appcloudexcept app cloud except 
+VARSIG10	appnam app 
+VARSIG98	instanc 
+VARSIG97	appnam app 
+VARSIG16	appcloudexcept app cloud except 
+VARSIG15	list servicenam servic name 
+VARSIG14	list uri 
+VARSIG13	file warfil war file 
+VARSIG92	appcloudexcept app cloud except 
+VARSIG91	appnam app 
+VARSIG90	appcloudexcept app cloud except 
+VARSIG96	appcloudexcept app cloud except 
+VARSIG95	appcloudexcept app cloud except 
+VARSIG94	servicenam servic 
+VARSIG93	appnam app 
+MTHSIG17	getappl applic 
+MTHSIG18	getapplicationstat applic stat appnam app 
+MTHSIG15	getapplicationinst applic instanc appnam app 
+MTHSIG16	getapplicationmemorychoic applic memori choic 
+MTHSIG13	flushtouaa flush uaa 
+MTHSIG14	getappl applic appnam app 
+MTHSIG11	deleteappl delet applic appnam app 
+MTHSIG12	deleteservic delet servic servic 
+MTHSIG19	getcloudcontrollerurl cloud control url 
+VARSIG89	appnam app 
+VARSIG88	unsupportedencodingexcept unsupport encod except 
+VARSIG87	nosuchalgorithmexcept algorithm except 
+VARSIG86	input 
+VARSIG81	appnam app 
+MTHSIG10	deleteallservic delet servic 
+VARSIG80	unsupportedencodingexcept unsupport encod except ignor 
+VARIABLES	product uaaservic uaa servic credenti requestfactori request factori type success type appnam app servicenam servic appnam app framework memori warfil war file uri servicenam servic name appnam app framework memori uri servicenam servic name appnam app framework memori uri servicenam servic name checkexist check exist servic appnam app servic appnam app methodnam appnam app appnam app appnam app appnam app framework appnam app instanceindex instanc filepath file path appnam app instanceindex instanc filepath file path requestcallback request callback responsehandl respons handler servic methodnam resultcod result code methodnam resultcod result code appnam app email password featurenam featur jsonpayload json payload ignor appnam app newnam appnam app input appnam app appnam app appnam app servicenam servic appnam app instanc appnam app memori appnam app servic appnam app uri appnam app warfil war file appnam app warfil war file callback appnam app warfilepath war file path cloud foundri url cloud major version cloud minor version cloud patch version product http success code discoveredappnam discov app name methodtorespons respons product uaaservic uaa servic resultcod result code resultcod result code resultcod result code resultcod result code resultcod result code resultcod result code resultcod result code resultcod result code resultcod result code cctype type cloudhost cloud host ccurlhash url hash ccjson json resultcount result count methodcallinfo call info resultcod result code resultcod result code resultcod result code resultcod result code resultcod result code resultcod result code resultcod result code resultcod result code resultcod result code resultcod result code resultcod result code resultcod result code resultcod result code resultcod result code resultcod result code resultcod result code countsofar count resultcod result code jsonasstr json featuretoregist featur regist resultcod result code resultcod result code sha sha digest resultcod result code resultcod result code resultcod result code resultcod result code resultcod result code resultcod result code resultcod result code resultcod result code resultcod result code resultcod result code resultcod result code 
+VARSIG85	appcloudexcept app cloud except 
+VARSIG84	appnam app 
+VARSIG83	appcloudexcept app cloud except 
+VARSIG82	newnam 
+VARSIG39	methodnam 
+VARSIG34	appnam app 
+VARSIG33	appcloudexcept app cloud except 
+VARSIG32	appcloudexcept app cloud except 
+VARSIG31	appcloudexcept app cloud except 
+VARSIG38	appnam app 
+VARSIG37	appcloudexcept app cloud except 
+PACKAGE	springframework roo addon cloud foundri 
+VARSIG36	servic 
+VARSIG35	appcloudexcept app cloud except 
+VARSIG30	cloudservic cloud servic servic 
+CLASSES	uaaawareappcloudcli uaa awar app cloud client 
+VARSIG29	appcloudexcept app cloud except 
+VARSIG28	checkexist check exist 
+VARSIG23	appnam app 
+VARSIG22	appcloudexcept app cloud except 
+VARSIG21	list servicenam servic name 
+VARSIG20	list uri 
+VARSIG27	list servicenam servic name 
+VARSIG26	list uri 
+VARSIG25	memori 
+VARSIG24	framework 
+VARSIG7	appnam app 
+VARSIG109	appnam app 
+VARSIG6	transmissiontyp transmiss type type 
+VARSIG9	appcloudexcept app cloud except 
+VARSIG8	servicenam servic 
+MTHSIG46	uploadappl upload applic appnam app file warfil war file uploadstatuscallback upload statu callback callback 
+VARSIG3	clienthttprequestfactori client http request factori requestfactori request factori 
+MTHSIG47	uploadappl upload applic appnam app warfilepath war file path 
+VARSIG2	cloudcredenti cloud credenti credenti 
+MTHSIG44	updateapplicationuri updat applic uri appnam app list uri 
+VARSIG5	success 
+MTHSIG45	uploadappl upload applic appnam app file warfil war file 
+VARSIG4	transmissiontyp transmiss type type 
+VARSIG1	uaaservic uaa servic uaaservic uaa servic 
+VARSIG0	product product 
+VARSIG56	filepath file path 
+VARSIG55	instanceindex instanc 
+VARSIG54	appnam app 
+VARSIG53	appcloudexcept app cloud except 
+VARSIG59	instanceindex instanc 
+VARSIG58	appnam app 
+VARSIG57	appcloudexcept app cloud except 
+VARSIG100	appnam app 
+MTHSIG42	updateapplicationmemori updat applic memori appnam app memori 
+VARSIG101	memori 
+MTHSIG43	updateapplicationservic updat applic servic appnam app list servic 
+VARSIG102	appcloudexcept app cloud except 
+MTHSIG40	unregist 
+VARSIG103	appnam app 
+MTHSIG41	updateapplicationinst updat applic instanc appnam app instanc 
+VARSIG104	list servic 
+VARSIG52	framework 
+VARSIG105	appcloudexcept app cloud except 
+VARSIG51	appcloudexcept app cloud except 
+VARSIG106	appnam app 
+VARSIG50	appnam app 
+VARSIG107	list uri 
+VARSIG108	appcloudexcept app cloud except 
+VARSIG45	appcloudexcept app cloud except 
+VARSIG44	appcloudexcept app cloud except 
+VARSIG43	appcloudexcept app cloud except 
+VARSIG42	appnam app 
+VARSIG49	appcloudexcept app cloud except 
+VARSIG48	appcloudexcept app cloud except 
+VARSIG47	appcloudexcept app cloud except 
+VARSIG46	appnam app 
+VARSIG41	appcloudexcept app cloud except 
+VARSIG40	appnam app 

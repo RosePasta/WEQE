@@ -1,0 +1,103 @@
+MTHSIG28	gettestsourcedirectory test source directory
+MTHSIG29	getversion version
+MTHSIG26	getroot root
+MTHSIG27	getsourcedirectory source directory
+MTHSIG24	getrepositories repositories
+MTHSIG25	getresources resources
+MTHSIG22	getpropertiesexcludingvalue properties excluding property property
+MTHSIG23	getproperty property
+MTHSIG4	getbuildplugins build plugins
+MTHSIG5	getbuildpluginsexcludingversion build plugins excluding version plugin plugin
+MTHSIG6	getdependencies dependencies
+MTHSIG7	getdependenciesexcludingversion dependencies excluding version dependency dependency
+MTHSIG0	pom groupid group artifactid artifact version packaging collection dependency dependencies parent parent collection module modules collection property pomproperties pom properties collection repository repositories collection repository pluginrepositories plugin repositories sourcedirectory source directory testsourcedirectory test source directory collection filter filters collection plugin buildplugins build plugins collection resource resources path modulename module collection path paths
+MTHSIG1	cachephysicalpaths cache physical paths collection path paths
+MTHSIG2	asdependency dependency dependencyscope dependency scope scope
+MTHSIG3	getartifactid artifact
+MTHSIG20	getpluginrepositories plugin repositories
+MTHSIG21	getpomproperties pom properties
+MTHSIG8	getdisplayname display
+MTHSIG9	getfilters filters
+MTHSIG39	ispluginregistered plugin registered gav gav
+MTHSIG37	isdependencyregistered dependency registered dependency dependency
+MTHSIG38	isfilterregistered filter registered filter filter
+MTHSIG35	isanypluginsregistered plugins registered collection plugin plugins
+MTHSIG36	isbuildpluginregistered build plugin registered plugin plugin
+MTHSIG33	isallrepositoriesregistered repositories registered collection repository repositories
+MTHSIG34	isanydependenciesregistered dependencies registered collection dependency dependencies
+METHODS	pom cachephysicalpaths cache physical paths asdependency dependency getartifactid artifact getbuildplugins build plugins getbuildpluginsexcludingversion build plugins excluding version getdependencies dependencies getdependenciesexcludingversion dependencies excluding version getdisplayname display getfilters filters getgroupid group getmodulename module getmodules modules getname getpackaging packaging getparent parent getpath path getphysicalpaths physical paths getphysicalpath physical path getpathlocation path location getpluginrepositories plugin repositories getpomproperties pom properties getpropertiesexcludingvalue properties excluding getproperty property getrepositories repositories getresources resources getroot root getsourcedirectory source directory gettestsourcedirectory test source directory getversion version isalldependenciesregistered dependencies registered isallpluginrepositoriesregistered plugin repositories registered isallpluginsregistered plugins registered isallrepositoriesregistered repositories registered isanydependenciesregistered dependencies registered isanypluginsregistered plugins registered isbuildpluginregistered build plugin registered isdependencyregistered dependency registered isfilterregistered filter registered ispluginregistered plugin registered ispluginrepositoryregistered plugin repository registered ispropertyregistered property registered isrepositoryregistered repository registered isresourceregistered resource registered tostring
+MTHSIG31	isallpluginrepositoriesregistered plugin repositories registered collection repository repositories
+MTHSIG32	isallpluginsregistered plugins registered collection plugin plugins
+MTHSIG30	isalldependenciesregistered dependencies registered collection dependency dependencies
+COMMENTS	maven project object model pom constants maven behaviour fields todo pathcache path cache todo pathcache path cache constructor groupid group maven groupid group explicit inherited required artifactid artifact maven artifactid artifact required version version artifact built required packaging maven packaging required dependencies parent pom pom parent declaration modules modules defined pom applies packaging pom pomproperties pom properties properties defined pom maven artifact built blank repositories repositories defined pom pluginrepositories plugin repositories plugin repositories defined pom sourcedirectory source directory directory relative pom production code blank maven testsourcedirectory test source directory directory relative pom test code blank maven filters filters defined pom buildplugins build plugins plugins defined pom resources build resources defined pom path canonical path pom required modulename module maven module blank project project root pom paths link path required module addition root returns module dependency scope instance returns artifact created module project blank returns registered build plugins collection returns build plugins groupid group artifactid artifact plugin upgrade cases plugin locate required note version number comparisons matching plugins returns empty link set locates dependencies match presented dependency excluding version number upgrade cases locate dependencies group artifact type identifications removed dependency locate required note version number comparisons matching dependencies returns empty link set returns display module user project blank returns organisation group owns module project blank returns programmatic module user project empty root module returns display module user project blank link getdisplayname display returns descriptor descriptor canonical path file system valid canonical path returns link physicalpath physical path link path module path path link physicalpath physical path module path returns canonical path link path module trailing separator path path canonical location required module path locates properties match presented property excluding upgrade cases locate properties removed property locate required note comparisons matching properties returns empty link set locates occurrence property returns property required property returns canonical path module module root directory trailing separator valid canonical path returns version number module project blank version number dependencies registered calling link isdependencyregistered dependency registered dependency ignoring elements dependencies dependencies check elements empty collection plugin repositories registered calling link ispluginrepositoryregistered plugin repository registered repository ignoring elements repositories plugin repositories check collection plugins registered based groupid group artifactid artifact version plugins plugins check required registered repositories registered equivalent calling link isrepositoryregistered repository registered repository ignoring elements repositories repositories check collection dependencies registered calling link isdependencyregistered dependency registered dependency dependencies dependencies check plugins registered calling link isbuildpluginregistered build plugin registered plugin plugins plugins check required plugins registered build plugin registered based groupid group artifactid artifact version plugin check required build plugin registered link ispluginregistered plugin registered gav dependency registered checking result link dependency equals object dependency dependency check dependency filter registered filter check required filter registered plugin coordinates registered coordinates coordinates match coordinates plugin repository registered repository repository check repository build property registered property check required property registered repository registered repository check repository resource registered resource check required resource registered debugging
+VARSIG19	collection path paths
+VARSIG18	collection path paths
+VARSIG17	modulename module
+VARSIG12	testsourcedirectory test source directory
+VARSIG11	sourcedirectory source directory
+VARSIG10	collection repository pluginrepositories plugin repositories
+VARSIG16	path
+VARSIG15	collection resource resources
+VARSIG14	collection plugin buildplugins build plugins
+VARSIG13	collection filter filters
+MTHSIG17	getphysicalpaths physical paths
+MTHSIG18	getphysicalpath physical path path path
+MTHSIG15	getparent parent
+MTHSIG16	getpath path
+MTHSIG13	getname
+MTHSIG14	getpackaging packaging
+MTHSIG11	getmodulename module
+MTHSIG12	getmodules modules
+MTHSIG19	getpathlocation path location path path
+MTHSIG10	getgroupid group
+VARIABLES	groupid group artifactid artifact version packaging dependencies parent modules pomproperties pom properties repositories pluginrepositories plugin repositories sourcedirectory source directory testsourcedirectory test source directory filters buildplugins build plugins resources path modulename module paths paths path scope plugin dependency path path property dependencies dependency repositories repository plugins plugin repositories repository dependencies dependency plugins plugin plugin dependency filter gav existingplugin existing plugin repository property repository resource packaging gav pathlocations path locations parent dependencies filters modules buildplugins build plugins pomproperties pom properties pluginrepositories plugin repositories repositories resources modulename module packaging path sourcedirectory source directory testsourcedirectory test source directory pathstocache paths cache result result modulepath module path result
+VARSIG39	repository repository
+VARSIG34	collection repository repositories
+VARSIG33	dependency dependency
+VARSIG32	collection dependency dependencies
+VARSIG31	property
+VARSIG38	collection repository repositories
+VARSIG37	plugin plugin
+PACKAGE	springframework roo project maven
+VARSIG36	collection plugin plugins
+VARSIG35	repository repository
+VARSIG30	
+CLASSES	pom
+VARSIG29	property
+VARSIG28	property property
+VARSIG23	plugin
+VARSIG22	plugin plugin
+VARSIG21	dependencyscope dependency scope scope
+VARSIG20	path path
+VARSIG27	path path
+VARSIG26	path path
+VARSIG25	dependency
+VARSIG24	dependency dependency
+VARSIG7	collection property pomproperties pom properties
+VARSIG6	collection module modules
+VARSIG9	collection repository repositories
+VARSIG8	
+VARSIG3	packaging
+VARSIG2	version
+MTHSIG44	tostring
+VARSIG5	parent parent
+VARSIG4	collection dependency dependencies
+VARSIG1	artifactid artifact
+VARSIG0	groupid group
+MTHSIG42	isrepositoryregistered repository registered repository repository
+MTHSIG43	isresourceregistered resource registered resource resource
+MTHSIG40	ispluginrepositoryregistered plugin repository registered repository repository
+MTHSIG41	ispropertyregistered property registered property property
+VARSIG52	resource resource
+VARSIG51	repository repository
+VARSIG50	property property
+VARSIG45	dependency dependency
+VARSIG44	plugin plugin
+VARSIG43	plugin plugin
+VARSIG42	collection plugin plugins
+VARSIG49	repository repository
+VARSIG48	plugin existingplugin existing plugin
+VARSIG47	gav gav
+VARSIG46	filter filter
+VARSIG41	dependency dependency
+VARSIG40	collection dependency dependencies

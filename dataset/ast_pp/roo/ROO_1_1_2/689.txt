@@ -1,0 +1,61 @@
+MTHSIG4	findfirstelement find element xpathexpression path expression element root
+VARSIG34	configurationpath configuration path
+MTHSIG5	findnode find node xpathexpression path expression element root
+VARSIG33	clazz
+MTHSIG6	findfirstelementbyname find element element root
+VARSIG32	element element
+MTHSIG7	findrequiredelement find required element xpathexpression path expression element root
+VARSIG31	parserconfigurationexception parser configuration exception
+MTHSIG0	xmlutils xml utils
+VARSIG38	element
+MTHSIG1	writexml write xml outputstream output stream outputstream output stream document document
+VARSIG37	proposed
+PACKAGE	springframework roo support util
+MTHSIG2	writexml write xml transformer transformer outputstream output stream outputstream output stream document document
+VARSIG36	clazz
+MTHSIG3	createunixstreamresultforentry create unix stream result entry outputstream output stream outputstream output stream
+VARSIG35	exception
+MTHSIG8	findelements find elements xpathexpression path expression element root
+VARSIG30	exception
+MTHSIG9	findfirstattribute find attribute xpathexpression path expression element element
+CLASSES	xmlutils xml utils
+VARSIG29	xpathexpressionexception path expression exception
+VARSIG28	element element
+METHODS	xmlutils xml utils writexml write xml writexml write xml createunixstreamresultforentry create unix stream result entry findfirstelement find element findnode find node findfirstelementbyname find element findrequiredelement find required element findelements find elements findfirstattribute find attribute createindentingtransformer create indenting transformer getdocumentbuilder document builder removetextnodes remove text nodes getconfiguration configuration getconfiguration configuration convertid convert assertelementlegal element legal
+VARSIG23	element root
+VARSIG22	xpathexpression path expression
+VARSIG21	element root
+VARSIG20	
+VARSIG27	xpathexpression path expression
+VARSIG26	xpathexpressionexception path expression exception
+VARSIG25	element root
+VARSIG24	xpathexpression path expression
+VARSIG7	outputstream output stream outputstream output stream
+VARSIG6	ioexception exception
+VARSIG9	
+VARSIG8	cbuf
+VARSIG3	outputstream output stream outputstream output stream
+VARSIG2	transformer transformer
+VARSIG5	exception
+VARSIG4	document document
+COMMENTS	utilities dom xml usage write xml document outputstream output stream pre configured roo transformer outputstream output stream output stream write stream closed completion document document write write xml document outputstream output stream transformer transformer transformer xmlutils xml utils createindentingtransformer create indenting transformer outputstream output stream output stream write stream closed completion document document write creates link streamresult stream result wrapping outputentry output entry link outputstreamwriter output stream writer transforms windows endings unix endings windows consistency roo roo templates outputstream output stream streamresult stream result unsupportedencodingexception unsupported encoding exception checks root element find child element matches xpath path expression supplied returns link element exists note xpath path parser namespace aware find element xpath path expression beans http xpathexpression path expression xpathexpression path expression required root parent dom element required element discovered checks root element find child node matches xpath path expression supplied returns link node exists note xpath path parser namespace aware find element xpath path expression beans http xpathexpression path expression xpath path expression required root parent dom element required node discovered checks root element find child element matches supplied returns link element exists element required root parent dom element required element discovered checks root element find child element matches xpath path expression supplied link element exist returns link element exists note xpath path parser namespace aware find element xpath path expression beans http xpathexpression path expression xpath path expression required root parent dom element required element discovered exception thrown checks root element find child elements match xpath path expression supplied returns link list link element exist note xpath path parser namespace aware find element xpath path expression beans http xpathexpression path expression xpathexpression path expression root parent dom element link list type link element discovered checks element find attribute matches xpath path expression supplied returns link node exists xpathexpression path expression xpathexpression path expression required element required node discovered transformer indents entries characters document builder factory setnamespaceaware set namespace aware removes empty text nodes element element element empty text nodes removed returns root element addon addon configuration file clazz owns configuration configurationpath configuration path path configuration file configuration root element returns root element addon addon configuration file clazz owns configuration configuration root element converts xhtml compliant jspx css css selector spec compliant replace proposed cleaned checks presented element illegal characters malformed xml element content xml element illegalargumentexception illegal argument exception element text illegal characters note regular expression legal characters slower profiling approach
+VARSIG19	xpathexpressionexception path expression exception
+VARSIG1	document document
+VARSIG18	element root
+VARSIG0	outputstream output stream outputstream output stream
+VARSIG17	xpathexpression path expression
+VARSIG12	str
+VARSIG11	
+VARSIG10	len
+VARSIG16	element root
+VARSIG15	xpathexpression path expression
+VARSIG14	len
+VARSIG13	
+MTHSIG15	convertid convert proposed
+MTHSIG16	assertelementlegal element legal element
+MTHSIG13	getconfiguration configuration clazz configurationpath configuration path
+MTHSIG14	getconfiguration configuration clazz
+MTHSIG11	getdocumentbuilder document builder
+MTHSIG12	removetextnodes remove text nodes element element
+MTHSIG10	createindentingtransformer create indenting transformer
+VARIABLES	outputstream output stream document transformer outputstream output stream document outputstream output stream cbuf len str len xpathexpression path expression root xpathexpression path expression root root xpathexpression path expression root xpathexpression path expression root xpathexpression path expression element element clazz configurationpath configuration path clazz proposed element compiledexpressioncache compiled expression cache xpath transformerfactory transformer factory factory streamresult stream result writer orig filtered lengthdiff length diff node node expr element elements nodes expr attr expr transformer children child templateinputstream template input stream configurationdocument configuration document

@@ -1,0 +1,114 @@
+MTHSIG28	isinproject project javatype type javatype type
+MTHSIG29	lookupclassorinterfacetypedetails lookup type details physicaltypeidentifier physical type identifier
+MTHSIG26	hastypechanged type changed requestingclass requesting javatype type javatype type
+MTHSIG27	inittypemap init type map
+MTHSIG24	gettypesformodule types module pom module
+MTHSIG25	gettypesformodule types module modulepath module path
+MTHSIG22	gettypedetails type details physicaltypeid physical type
+MTHSIG23	gettypepath type path javatype type javatype type
+MTHSIG4	cachetype cache type filecanonicalpath file canonical path
+MTHSIG5	discovertypes discover types
+MTHSIG6	doespathindicatejavatype path type filecanonicalpath file canonical path
+MTHSIG7	findclassesorinterfacedetailswithannotation find classes details annotation javatype type annotationstodetect annotations detect
+MTHSIG0	getallpackages packages leafpackage leaf
+MTHSIG1	getlowestcommonpackage lowest common typecount type count map collection typesbypackage types
+MTHSIG2	getpackagefromtype type typename type
+MTHSIG3	sortbykeylength sort key length map maptosort map sort
+MTHSIG20	gettypesbypackage types iterable typesinmodule types module set typepackages type packages
+VARSIG70	typename type
+MTHSIG21	gettypedetails type details javatype type type
+MTHSIG8	findclassesorinterfacedetailswithtag find classes details tag object tag
+MTHSIG9	findtypeswithannotation find types annotation javatype type annotationstodetect annotations detect
+VARSIG73	change
+VARSIG72	requestingclass requesting
+VARSIG71	remove
+MTHSIG33	updatechanges update typename type remove
+MTHSIG34	updatetypecache update type cache
+METHODS	getallpackages packages getlowestcommonpackage lowest common getpackagefromtype type sortbykeylength sort key length cachetype cache type discovertypes discover types doespathindicatejavatype path type findclassesorinterfacedetailswithannotation find classes details annotation findclassesorinterfacedetailswithtag find classes details tag findtypeswithannotation find types annotation findtypeswithannotation find types annotation getparentpath parent path getphysicalpath physical path getphysicaltypecanonicalpath physical type canonical path getphysicaltypecanonicalpath physical type canonical path getphysicaltypeidentifier physical type identifier getphysicaltypeidentifier physical type identifier getpotentialtoplevelpackagesformodule potential top level packages module getproposedjavatype proposed type gettoplevelpackageformodule top level module gettypesbypackage types gettypedetails type details gettypedetails type details gettypepath type path gettypesformodule types module gettypesformodule types module hastypechanged type changed inittypemap init type map isinproject project lookupclassorinterfacetypedetails lookup type details processtypeswithannotation process types annotation processtypeswithtag process types tag updateattributecache update attribute cache updatechanges update updatetypecache update type cache
+VARSIG67	annotationmetadata annotation metadata annotationmetadata annotation metadata
+VARSIG66	javatype type previousannotation previous annotation
+VARSIG65	memberholdingtypedetails member holding type details cid
+VARSIG64	locatedmid located mid
+VARSIG69	object customdata custom data
+VARSIG68	object previouscustomdata previous custom data
+MTHSIG31	processtypeswithtag process types tag object tag locatedtypecallback located type callback callback
+MTHSIG32	updateattributecache update attribute cache memberholdingtypedetails member holding type details cid
+MTHSIG30	processtypeswithannotation process types annotation list javatype type annotationstodetect annotations detect locatedtypecallback located type callback callback
+VARSIG63	locatedtypecallback located type callback callback
+VARSIG62	object tag
+VARSIG61	locatedmid located mid
+VARSIG60	javatype type annotationtype annotation type
+COMMENTS	implementation link typelocationservice type location service performance reasons automatically caches queries cache invalidated file system returns packages leading foo bar returns foo foo bar leafpackage leaf fully qualified parse required iterable returns lowest level number types typecount type count number types typesbypackage types maps names type names type parent packages required number types sorts keyed map length type map map values maptosort map sort map sort changed sorted version map change drop cache retrieve list paths discovered modified invocation determine javatype type file builds map module module packages types there types foo bar foo baz map foo bar foo baz foo foo bar foo baz foo bar foo bar foo baz foo baz packages type set typesinmodule types module types module question typepackages type packages set add type type map laid obtains fresh copy link classorinterfacetypedetails type details physical type physicaltypeidentifier physical type identifier lookup required requested details unavailable cache doesn annotation processing call project processed cache updated cache doesn tag processing call project processed cache updated update type cache
+VARSIG19	classorinterfacetypedetails type details located
+VARSIG18	list javatype type annotationstodetect annotations detect
+VARSIG17	javatype type annotationstodetect annotations detect
+VARSIG12	javatype type annotationstodetect annotations detect
+VARSIG11	filecanonicalpath file canonical path
+VARSIG10	change
+VARSIG16	classorinterfacetypedetails type details located
+VARSIG15	object tag
+VARSIG14	classorinterfacetypedetails type details object
+VARSIG13	classorinterfacetypedetails type details located
+MTHSIG17	getpotentialtoplevelpackagesformodule potential top level packages module pom module
+MTHSIG18	getproposedjavatype proposed type filecanonicalpath file canonical path
+MTHSIG15	getphysicaltypeidentifier physical type identifier javatype type type
+MTHSIG16	getphysicaltypeidentifier physical type identifier filecanonicalpath file canonical path
+MTHSIG13	getphysicaltypecanonicalpath physical type canonical path javatype type javatype type logicalpath logical path path
+MTHSIG14	getphysicaltypecanonicalpath physical type canonical path physicaltypeid physical type
+MTHSIG11	getparentpath parent path javatype type javatype type
+MTHSIG12	getphysicalpath physical path javatype type javatype type
+MTHSIG19	gettoplevelpackageformodule top level module pom module
+MTHSIG10	findtypeswithannotation find types annotation list javatype type annotationstodetect annotations detect
+VARIABLES	key key key key leafpackage leaf typecount type count typesbypackage types entry typename type maptosort map sort key filecanonicalpath file canonical path change filecanonicalpath file canonical path annotationstodetect annotations detect located object tag located annotationstodetect annotations detect annotationstodetect annotations detect located javatype type typepath type path javatype type pom physicalpath physical path javatype type path physicaltypeid physical type type filecanonicalpath file canonical path physicalpath physical path module typename type discoveredpackage discovered entry filecanonicalpath file canonical path physicalpath physical path module typesinmodule types module typepackages type packages typename type discoveredpackage discovered type physicaltypeid physical type javatype type module typename type modulepath module path requestingclass requesting javatype type typeidentifier type identifier changedid changed pom path file javatype type physicaltypeidentifier physical type identifier annotationstodetect annotations detect callback annotationtype annotation type annotationtype annotation type locatedmid located mid tag callback locatedmid located mid cid previousannotation previous annotation annotationmetadata annotation metadata previouscustomdata previous custom data customdata custom data typename type remove requestingclass requesting change length comparator files ant path discoveredpackages discovered packages typesegments type segments typesegment type segment typesbysortedpackage types sorted longestpackage longest toplevelpackage top level thispackage typesinpackage types sortedmap sorted map filemanager file manager filemonitorservice file monitor service metadataservice metadata service projectoperations project operations typecache type cache typeresolutionservice type resolution service annotationtomidmap annotation mid map changemap change map dirtyfiles dirty files discoveredtypes discovered types typecustomdatamap type custom data map tagtomidmap tag mid map typeannotationmap type annotation map cid type types types types relativepath relative path parentpath parent path pathlocation path location logicalpath logical path javatype type pom canonicalfilepath canonical file path containingphysicalpath physical path logicalpath logical path physicaltypeidentifier physical type identifier typedirectory type directory simpletypename simple type javapackage javatype type module reducedpath reduced path path packagemap map moduletypes module types toplevelpackages top level packages type typesegments type segments discoveredpackages discovered packages typesegment type segment longestpackage longest relativepath relative path moduleforfileidentifier module file identifier modulecanonicalpath module canonical path typesbypackage types typepackage type cacheddetails cached details physicaltypemetadata physical type metadata physicaltypeid physical type typenames type names javatypes types changessincelastrequest request alljavafiles files physicaltypemetadata physical type metadata located located previousannotations previous annotations midset mid set previouscustomdataset previous custom data set midset mid set
+VARSIG39	set typepackages type packages
+VARSIG34	map entry set entry
+VARSIG33	discoveredpackage discovered
+VARSIG32	typename type
+VARSIG31	pom module
+VARSIG38	iterable typesinmodule types module
+VARSIG37	pom module
+PACKAGE	springframework roo classpath
+VARSIG36	physicalpath physical path physicalpath physical path
+VARSIG35	filecanonicalpath file canonical path
+VARSIG30	physicalpath physical path physicalpath physical path
+CLASSES	typelocationserviceimpl type location service impl
+VARSIG29	filecanonicalpath file canonical path
+VARSIG28	javatype type type
+VARSIG23	pom pom
+VARSIG22	javatype type javatype type
+VARSIG21	typepath type path
+VARSIG20	javatype type javatype type
+VARSIG27	physicaltypeid physical type
+VARSIG26	logicalpath logical path path
+VARSIG25	javatype type javatype type
+VARSIG24	physicalpath physical path physicalpath physical path
+VARSIG7	map maptosort map sort
+VARSIG6	typename type
+VARSIG9	filecanonicalpath file canonical path
+VARSIG8	key
+VARSIG3	typecount type count
+VARSIG2	leafpackage leaf
+VARSIG5	entry collection entry
+VARSIG4	map collection typesbypackage types
+VARSIG1	key key
+VARSIG0	key key
+VARSIG56	physicaltypeidentifier physical type identifier
+VARSIG55	javatype type javatype type
+VARSIG54	filedetails file details file
+VARSIG53	physicalpath physical path path
+VARSIG59	javatype type annotationtype annotation type
+VARSIG58	locatedtypecallback located type callback callback
+VARSIG57	list javatype type annotationstodetect annotations detect
+VARSIG52	pom pom
+VARSIG51	changedid changed
+VARSIG50	typeidentifier type identifier
+VARSIG45	pom module
+VARSIG44	javatype type javatype type
+VARSIG43	physicaltypeid physical type
+VARSIG42	javatype type type
+VARSIG49	javatype type javatype type
+VARSIG48	requestingclass requesting
+VARSIG47	modulepath module path
+VARSIG46	typename type
+VARSIG41	discoveredpackage discovered
+VARSIG40	typename type

@@ -1,0 +1,13 @@
+VARSIG3	extra
+VARSIG2	integer majorjavaversion major version
+COMMENTS	maven project operations
+CLASSES	mavenoperations maven operations
+VARSIG1	projectname project
+VARSIG0	javapackage toplevelpackage top level
+METHODS	iscreateprojectavailable create project getprojectroot project root createproject create project executemvncommand execute mvn command
+MTHSIG0	iscreateprojectavailable create project
+MTHSIG1	getprojectroot project root
+PACKAGE	springframework roo project
+MTHSIG2	createproject create project javapackage toplevelpackage top level projectname project integer majorjavaversion major version
+MTHSIG3	executemvncommand execute mvn command extra
+VARIABLES	toplevelpackage top level projectname project majorjavaversion major version extra

@@ -1,0 +1,52 @@
+MTHSIG22	tostring
+MTHSIG4	getmodulename module
+MTHSIG5	setmodulename set module modulename module
+MTHSIG6	getdestinationpackage destination
+MTHSIG7	setdestinationpackage set destination javapackage destinationpackage destination
+MTHSIG0	database set table tables
+MTHSIG1	gettables tables
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	hastables tables
+MTHSIG3	gettable table schemaname schema
+MTHSIG20	hashcode hash code
+MTHSIG21	equals object obj
+MTHSIG8	isactiverecord active record
+MTHSIG9	setactiverecord set active record activerecord active record
+CLASSES	database
+METHODS	database gettables tables hastables tables gettable table getmodulename module setmodulename set module getdestinationpackage destination setdestinationpackage set destination isactiverecord active record setactiverecord set active record istestautomatically test automatically settestautomatically set test automatically isincludenonportableattributes include portable attributes setincludenonportableattributes set include portable attributes hasmultipleschemas multiple schemas init initializeimportedkeys initialize imported initializeexportedkeys initialize exported initializeindices initialize indices initializejointable initialize join table hashcode hash code equals tostring
+VARSIG23	object obj
+VARSIG22	table table
+VARSIG21	indexcolumn column indexcolumn column
+VARSIG20	
+VARSIG7	testautomatically test automatically
+VARSIG6	activerecord active record
+VARSIG9	table table
+VARSIG8	includenonportableattributes include portable attributes
+VARSIG3	table table
+VARSIG2	schemaname schema
+VARSIG5	javapackage destinationpackage destination
+VARSIG4	modulename module
+COMMENTS	represents database model tables database tables module entities created javapackage entities created included portable jpa attributes column annotation database multiple schemas generate active record crud methods entity create integration tests constructor tables required active record crud methods generated entity sets active record crud methods generated entity activerecord active record initialises model establishing relationships elements model foreign mark repeated columns insertable updatable determines table join table identified join table table primary foreign pointing entity tables columns
+VARSIG19	table table
+VARSIG1	
+VARSIG18	reference reference
+VARSIG0	set table tables
+VARSIG17	foreignkey foreign key exportedkey exported key
+VARSIG12	reference reference
+VARSIG11	foreignkey foreign key foreignkey foreign key
+VARSIG10	table table
+VARSIG16	table table
+VARSIG15	reference reference
+VARSIG14	foreignkey foreign key foreignkey foreign key
+VARSIG13	map entry column set foreignkey foreign key entryset entry set
+MTHSIG17	initializeexportedkeys initialize exported table table
+MTHSIG18	initializeindices initialize indices table table
+MTHSIG15	init
+MTHSIG16	initializeimportedkeys initialize imported table table
+MTHSIG13	setincludenonportableattributes set include portable attributes includenonportableattributes include portable attributes
+MTHSIG14	hasmultipleschemas multiple schemas
+MTHSIG11	settestautomatically set test automatically testautomatically test automatically
+MTHSIG12	isincludenonportableattributes include portable attributes
+MTHSIG19	initializejointable initialize join table table table
+MTHSIG10	istestautomatically test automatically
+VARIABLES	tables schemaname schema table modulename module destinationpackage destination activerecord active record testautomatically test automatically includenonportableattributes include portable attributes table table foreignkey foreign key reference entryset entry set foreignkey foreign key reference table exportedkey exported key reference table indexcolumn column table obj tables modulename module destinationpackage destination includenonportableattributes include portable attributes multipleschemas multiple schemas activerecord active record testautomatically test automatically schemas keysequencemap key sequence map keysequence key sequence repeatedcolumns repeated columns foreigntablename foreign table foreignschemaname foreign schema targettable target table localcolumn local column fkset set foreigncolumn foreign column foreignkeys foreign keysequencemap key sequence map keysequence key sequence foreigntablename foreign table foreignschemaname foreign schema targettable target table localcolumn local column foreigncolumn foreign column column equals iter column prime result

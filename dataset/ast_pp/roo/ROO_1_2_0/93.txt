@@ -1,0 +1,105 @@
+MTHSIG28	hasembeddedidentifier embedded identifier
+MTHSIG29	getfieldinitializer field initializer fieldmetadata field metadata field dataondemandmetadata data demand metadata collaboratingmetadata collaborating metadata
+MTHSIG26	setspecificpersistententitymethod set specific persistent entity
+MTHSIG27	getinitmethod init quantity membertypeadditions member type additions findentriesmethodadditions find entries additions membertypeadditions member type additions persistmethodadditions persist additions membertypeadditions member type additions flushadditions flush additions
+MTHSIG24	setrandompersistententitymethod set random persistent entity
+MTHSIG25	getspecificpersistententitymethod specific persistent entity
+MTHSIG22	setmodifymethod set modify
+MTHSIG23	getrandompersistententitymethod random persistent entity
+MTHSIG4	getdatafieldname data field
+MTHSIG5	getdatafield data field
+MTHSIG6	addcollaboratingdodfieldstobuilder add collaborating fields builder
+MTHSIG7	getnewtransiententitymethod entity
+MTHSIG0	dataondemandmetadata data demand metadata identifier javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata dataondemandannotationvalues data demand annotation values annotationvalues annotation values methodmetadata metadata identifieraccessor identifier accessor membertypeadditions member type additions findmethodadditions find additions membertypeadditions member type additions findentriesmethodadditions find entries additions membertypeadditions member type additions persistmethodadditions persist additions membertypeadditions member type additions flushmethod flush map fieldmetadata field metadata dataondemandmetadata data demand metadata locatedfields located fields javatype type identifiertype identifier type embeddedidholder embedded holder embeddedidholder embedded holder list embeddedholder embedded holder embeddedholders embedded holders
+MTHSIG1	getcomponentannotation component annotation
+MTHSIG2	getrndfieldname rnd field
+MTHSIG3	getrndfield rnd field
+MTHSIG20	getminandmaxbody min max body fieldmetadata field metadata field suffix
+MTHSIG21	getmodifymethod modify
+MTHSIG8	setnewtransiententitymethod set entity
+MTHSIG9	getembeddedidmutatormethod embedded mutator
+MTHSIG39	isvalid valid metadataidentificationstring metadata identification
+MTHSIG37	getjavatype type metadataidentificationstring metadata identification
+MTHSIG38	getpath path metadataidentificationstring metadata identification
+MTHSIG35	getmetadataidentifertype metadata identifer type
+MTHSIG36	createidentifier create identifier javatype type javatype type logicalpath logical path path
+MTHSIG33	getentitytype entity type
+MTHSIG34	tostring
+METHODS	dataondemandmetadata data demand metadata getcomponentannotation component annotation getrndfieldname rnd field getrndfield rnd field getdatafieldname data field getdatafield data field addcollaboratingdodfieldstobuilder add collaborating fields builder getnewtransiententitymethod entity setnewtransiententitymethod set entity getembeddedidmutatormethod embedded mutator getembeddedclassmutatormethod embedded mutator getembeddedfieldmutatormethodname embedded field mutator getembeddedfieldmutatormethodname embedded field mutator addembeddedclassfieldmutatormethodstobuilder add embedded field mutator methods builder getfieldmutatormethods field mutator methods getfieldvalidationbody field validation body gettypestr type str getdigitsbody digits body getdecimalminanddecimalmaxbody decimal min decimal max body getcolumnprecisionandscalebody column precision scale body getminandmaxbody min max body getmodifymethod modify setmodifymethod set modify getrandompersistententitymethod random persistent entity setrandompersistententitymethod set random persistent entity getspecificpersistententitymethod specific persistent entity setspecificpersistententitymethod set specific persistent entity getinitmethod init hasembeddedidentifier embedded identifier getfieldinitializer field initializer getcollaboratingfieldname collaborating field getcollaboratingtype collaborating type getembeddedidmutatormethodname embedded mutator getentitytype entity type tostring getmetadataidentifertype metadata identifer type createidentifier create identifier getjavatype type getpath path isvalid valid
+MTHSIG31	getcollaboratingtype collaborating type javatype type entity
+MTHSIG32	getembeddedidmutatormethodname embedded mutator
+MTHSIG30	getcollaboratingfieldname collaborating field javatype type entity
+COMMENTS	metadata link roodataondemand roo data demand constants fields constructor identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata annotationvalues annotation values identifieraccessor identifier accessor findmethodadditions find additions findentriesmethod find entries persistmethodadditions persist additions flushmethod flush locatedfields located fields entity embeddedidholder embedded holder embeddedholders embedded holders calculate store field initializers adds springframework stereotype component annotation type exists annotation exists created created required rnd field user produced demand returns compute required field verify candidate suitable candidate naming clashes subclasses candidate isn util random isn suitable valid candidate don check initializer assume user they candidate let create data field user produced demand returns compute required field type parameters field type verify candidate suitable candidate naming clashes subclasses candidate isn util list theentity entity isn suitable equals verifies type params valid candidate don check initializer assume user they candidate let create expect field correct rely move field create field add hasn field getnewtransiententity entity entity returns definition find build locate user defined create create composite key embedded call required create mutator call embedded create mutator calls entity field locate user defined governor create create constructor embedded locate user defined governor create create constructor embedded governor create locate user defined governor create governor create check size column length attribute check digits decimalmax decimal max decimalmin decimal min check min max modifyentity modify entity entity returns definition find build locate user defined create getrandomentity random entity entity returns getrandomentity random entity entity returns definition find build locate user defined create getspecificentity specific entity entity returns definition find build locate user defined create returns dod type type init existing generated findentriesmethodadditions find entries additions required persistmethodadditions persist additions required flushadditions flush additions required definition find build locate user defined create body create fields included datanucleus data nucleus check size auto boxed auto boxed auto boxed auto boxed avoid circular references roo decide dealing roo compute required field usable
+VARSIG19	embeddedholder embedded holder embeddedholder embedded holder
+VARSIG18	javatype type entityneedingcollaborator entity needing collaborator
+VARSIG17	methodmetadatabuilder metadata builder fieldinitializermethod field initializer
+VARSIG12	list embeddedholder embedded holder embeddedholders embedded holders
+VARSIG11	embeddedidholder embedded holder embeddedidholder embedded holder
+VARSIG10	javatype type identifiertype identifier type
+VARSIG16	embeddedholder embedded holder embeddedholder embedded holder
+VARSIG15	fieldmetadata field metadata field
+VARSIG14	embeddedholder embedded holder embeddedholder embedded holder
+VARSIG13	map entry fieldmetadata field metadata dataondemandmetadata data demand metadata entry
+MTHSIG17	getdigitsbody digits body fieldmetadata field metadata field annotationmetadata annotation metadata digitsannotation digits annotation suffix
+MTHSIG18	getdecimalminanddecimalmaxbody decimal min decimal max body fieldmetadata field metadata field annotationmetadata annotation metadata decimalminannotation decimal min annotation annotationmetadata annotation metadata decimalmaxannotation decimal max annotation suffix
+MTHSIG15	getfieldvalidationbody field validation body fieldmetadata field metadata field initializer javasymbolname symbol mutatorname mutator isfieldofembeddabletype field embeddable type
+MTHSIG16	gettypestr type str javatype type fieldtype field type
+MTHSIG13	addembeddedclassfieldmutatormethodstobuilder add embedded field mutator methods builder embeddedholder embedded holder embeddedholder embedded holder
+MTHSIG14	getfieldmutatormethods field mutator methods
+MTHSIG11	getembeddedfieldmutatormethodname embedded field mutator javasymbolname symbol embeddedfieldname embedded field javasymbolname symbol fieldname field
+MTHSIG12	getembeddedfieldmutatormethodname embedded field mutator javasymbolname symbol fieldname field
+MTHSIG19	getcolumnprecisionandscalebody column precision scale body fieldmetadata field metadata field map object values suffix
+MTHSIG10	getembeddedclassmutatormethod embedded mutator embeddedholder embedded holder embeddedholder embedded holder
+VARIABLES	identifier aspectname aspect governorphysicaltypemetadata governor physical type metadata annotationvalues annotation values identifieraccessor identifier accessor findmethodadditions find additions findentriesmethodadditions find entries additions persistmethodadditions persist additions flushmethod flush locatedfields located fields identifiertype identifier type embeddedidholder embedded holder embeddedholders embedded holders entry embeddedholder embedded holder field embeddedholder embedded holder fieldinitializermethod field initializer entityneedingcollaborator entity needing collaborator embeddedholder embedded holder field embeddedholder embedded holder field embeddedfieldname embedded field fieldname field fieldname field embeddedholder embedded holder field entry field initializer mutatorname mutator isfieldofembeddabletype field embeddable type fieldtype field type field digitsannotation digits annotation suffix field decimalminannotation decimal min annotation decimalmaxannotation decimal max annotation suffix field values suffix field suffix quantity findentriesmethodadditions find entries additions persistmethodadditions persist additions flushadditions flush additions field collaboratingmetadata collaborating metadata entity entity field javatype type path metadataidentificationstring metadata identification metadataidentificationstring metadata identification metadataidentificationstring metadata identification type type obj obj symbol symbol min symbol max symbol embeddedidholder embedded holder embeddedholders embedded holders fieldinitializers field initializers embeddedfieldinitializers embedded field initializers requireddataondemandcollaborators required data demand collaborators findmethod find identifieraccessor identifier accessor identifiertype identifier type entity newtransiententitymethod entity specificpersistententitymethod specific persistent entity randompersistententitymethod random persistent entity modifymethod modify rndfieldname rnd field datafieldname data field field initializer initializers annotationbuilder annotation builder fieldname field candidate fieldbuilder field builder parametertypes parameter types listtype list type fieldname field candidate fields collaboratortype collaborator type collaboratingfieldname collaborating field fieldsymbolname field symbol candidate annotations methodname parametertype parameter type parameternames parameter names usermethod user bodybuilder body builder mutatorname mutator methodbuilder builder embeddedidmutator embedded mutator methodname parametertypes parameter types bodybuilder body builder embeddedidfieldtype embedded field type identifierfields identifier fields field fieldname field fieldtype field type initializer parameternames parameter names methodname parametertypes parameter types bodybuilder body builder embeddedfieldtype embedded field type parameternames parameter names embeddedfieldtype embedded field type parametertypes parameter types parameternames parameter names initializer fieldmutatormethodname field mutator bodybuilder body builder embeddedclassmethodname embedded fieldmutatormethods field mutator methods parameternames parameter names parametertypes parameter types field mutatorname mutator initializer bodybuilder body builder fieldname field fieldtype field type suffix bodybuilder body builder isunique unique values sizeannotation size annotation maxvalue max lengthvalue length digitsannotation digits annotation decimalminannotation decimal min annotation decimalmaxannotation decimal max annotation values arraystr array str typestr type str fieldname field fieldtype field type integervalue integer fractionvalue fraction maxvalue max bodybuilder body builder fieldname field fieldtype field type bodybuilder body builder minvalue min maxvalue max minvalue min maxvalue max fieldname field fieldtype field type precision scale maxvalue max bodybuilder body builder fieldname field fieldtype field type bodybuilder body builder minannotation min annotation maxannotation max annotation minvalue min maxvalue max minvalue min maxvalue max methodname parametertype parameter type parameternames parameter names returntype type usermethod user bodybuilder body builder methodbuilder builder methodname usermethod user bodybuilder body builder methodbuilder builder methodname parametertype parameter type parameternames parameter names usermethod user bodybuilder body builder methodbuilder builder methodname parametertypes parameter types parameternames parameter names returntype type usermethod user bodybuilder body builder datafield data field fieldtype field type fieldname field initializer fieldinitializer field initializer fieldcustomdatakeys field custom data calendarstring calendar offset maxlength max length sizeannotation size annotation maxvalue max minvalue min minlength min length columnvalues column values collaboratingfieldname collaborating field fieldnames field names embeddedidfield embedded field tsc
+VARSIG39	annotationmetadata annotation metadata decimalmaxannotation decimal max annotation
+VARSIG34	fieldmetadata field metadata field
+VARSIG33	javatype type fieldtype field type
+VARSIG32	isfieldofembeddabletype field embeddable type
+VARSIG31	javasymbolname symbol mutatorname mutator
+VARSIG38	annotationmetadata annotation metadata decimalminannotation decimal min annotation
+VARSIG37	fieldmetadata field metadata field
+PACKAGE	springframework roo addon dod
+VARSIG36	suffix
+VARSIG35	annotationmetadata annotation metadata digitsannotation digits annotation
+VARSIG30	initializer
+CLASSES	dataondemandmetadata data demand metadata
+VARSIG29	fieldmetadata field metadata field
+VARSIG28	map entry fieldmetadata field metadata entry
+VARSIG23	javasymbolname symbol embeddedfieldname embedded field
+VARSIG22	fieldmetadata field metadata field
+VARSIG21	embeddedholder embedded holder embeddedholder embedded holder
+VARSIG20	fieldmetadata field metadata field
+VARSIG27	fieldmetadata field metadata field
+VARSIG26	embeddedholder embedded holder embeddedholder embedded holder
+VARSIG25	javasymbolname symbol fieldname field
+VARSIG24	javasymbolname symbol fieldname field
+VARSIG7	membertypeadditions member type additions persistmethodadditions persist additions
+VARSIG6	membertypeadditions member type additions findentriesmethodadditions find entries additions
+VARSIG9	map fieldmetadata field metadata dataondemandmetadata data demand metadata locatedfields located fields
+VARSIG8	membertypeadditions member type additions flushmethod flush
+VARSIG3	dataondemandannotationvalues data demand annotation values annotationvalues annotation values
+VARSIG2	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG5	membertypeadditions member type additions findmethodadditions find additions
+VARSIG4	methodmetadata metadata identifieraccessor identifier accessor
+VARSIG1	javatype type aspectname aspect
+VARSIG0	identifier
+VARSIG56	logicalpath logical path path
+VARSIG55	javatype type javatype type
+VARSIG54	fieldmetadata field metadata field
+VARSIG53	javatype type entity
+VARSIG59	metadataidentificationstring metadata identification
+VARSIG58	metadataidentificationstring metadata identification
+VARSIG57	metadataidentificationstring metadata identification
+VARSIG52	javatype type entity
+VARSIG51	dataondemandmetadata data demand metadata collaboratingmetadata collaborating metadata
+VARSIG50	fieldmetadata field metadata field
+VARSIG45	suffix
+VARSIG44	fieldmetadata field metadata field
+VARSIG43	suffix
+VARSIG42	map object values
+VARSIG49	membertypeadditions member type additions flushadditions flush additions
+VARSIG48	membertypeadditions member type additions persistmethodadditions persist additions
+VARSIG47	membertypeadditions member type additions findentriesmethodadditions find entries additions
+VARSIG46	quantity
+VARSIG41	fieldmetadata field metadata field
+VARSIG40	suffix

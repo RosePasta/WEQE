@@ -1,0 +1,28 @@
+VARSIG7	dependency dependency
+VARSIG6	dependency dependency
+VARSIG9	dependency dependency
+VARSIG8	dependency
+VARSIG3	set dependency buildplugindependencies build plugin dependencies
+VARSIG2	set dependency dependencies
+VARSIG5	dependency dependency
+VARSIG4	pathresolver path resolver pathresolver path resolver
+COMMENTS	represents project roo instance single project active time project add ons expected subclass link projectmetadata project metadata implement methods link projectmetadata project metadata offers convenience methods acquiring project top level project registered dependencies path resolution services concrete subclasses register correct dependencies project build system requires read files change subclasses provide valid link pathresolver path resolver implementation understands target project layout convenience determining dependency registered dependency check required dependency registered convenience determining build plugin dependency registered dependency check required build plugin dependency registered unmodifiable representation dependencies empty locates dependencies match presented dependency excluding version number upgrade cases locate dependencies group artifact type identifications removed dependency locate required note version number comparisons matching dependencies returns empty link set unmodifiable collection build plugin dependencies empty locates build plugin dependencies match presented dependency excluding version number upgrade cases locate build plugin dependencies group artifact type identifications removed dependency locate required note version number comparisons matching dependencies returns empty link set
+VARSIG1	projectname project
+VARSIG0	javapackage toplevelpackage top level
+MTHSIG4	gettoplevelpackage top level
+MTHSIG5	getprojectname project
+MTHSIG6	getpathresolver path resolver
+VARSIG10	dependency
+MTHSIG7	getdependencies dependencies
+MTHSIG0	projectmetadata project metadata javapackage toplevelpackage top level projectname project set dependency dependencies set dependency buildplugindependencies build plugin dependencies pathresolver path resolver pathresolver path resolver
+MTHSIG1	getprojectidentifier project identifier
+PACKAGE	springframework roo project
+MTHSIG2	isdependencyregistered dependency registered dependency dependency
+MTHSIG3	isbuildplugindependencyregistered build plugin dependency registered dependency dependency
+MTHSIG8	getdependenciesexcludingversion dependencies excluding version dependency dependency
+MTHSIG9	getbuildplugindependencies build plugin dependencies
+MTHSIG11	tostring
+CLASSES	projectmetadata project metadata
+METHODS	projectmetadata project metadata getprojectidentifier project identifier isdependencyregistered dependency registered isbuildplugindependencyregistered build plugin dependency registered gettoplevelpackage top level getprojectname project getpathresolver path resolver getdependencies dependencies getdependenciesexcludingversion dependencies excluding version getbuildplugindependencies build plugin dependencies getbuildplugindependenciesexcludingversion build plugin dependencies excluding version tostring
+MTHSIG10	getbuildplugindependenciesexcludingversion build plugin dependencies excluding version dependency dependency
+VARIABLES	toplevelpackage top level projectname project dependencies buildplugindependencies build plugin dependencies pathresolver path resolver dependency dependency dependency dependency project identifier toplevelpackage top level projectname project dependencies buildplugindependencies build plugin dependencies pathresolver path resolver result result tsc

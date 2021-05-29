@@ -1,0 +1,14 @@
+VARSIG3	fieldmetadata field metadata field
+VARSIG2	javasymbolname symbol constantname constant
+VARSIG4	classorinterfacetypedetails type details cid
+COMMENTS	creates maintains types creates location details exception thrown exists cid link classorinterfacetypedetails type details create required adds constant existing physicaltypeidentifier physical type identifier add required constantname constant constant required adds field existing exception thrown exist modified field requested declared field field add required creates physical type contents based link classorinterfacetypedetails type details passed location denoted passed path expects passed file location correct cid link classorinterfacetypedetails type details base file contents required
+CLASSES	typemanagementservice type management service
+VARSIG1	physicaltypeidentifier physical type identifier
+VARSIG0	classorinterfacetypedetails type details cid
+METHODS	generateclassfile generate file addenumconstant add constant addfield add field createorupdatetypeondisk create update type disk
+MTHSIG0	generateclassfile generate file classorinterfacetypedetails type details cid
+MTHSIG1	addenumconstant add constant physicaltypeidentifier physical type identifier javasymbolname symbol constantname constant
+PACKAGE	springframework roo classpath
+MTHSIG2	addfield add field fieldmetadata field metadata field
+MTHSIG3	createorupdatetypeondisk create update type disk classorinterfacetypedetails type details cid
+VARIABLES	cid physicaltypeidentifier physical type identifier constantname constant field cid

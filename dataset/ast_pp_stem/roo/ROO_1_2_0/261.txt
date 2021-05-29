@@ -1,0 +1,20 @@
+MTHSIG11	getversiontyp version type 
+MTHSIG12	ismappedsuperclass map superclass 
+COMMENTS	pure jpa valu singl link roojpaent roo jpa entiti link roojpaactiverecord roo jpa activ record annot field attribut roojpaent roo jpa entiti annot constructor read valu annot annotatedtyp annot type type read valu requir triggerannot trigger annot type annot read valu requir todo move superclass sibl class 
+CLASSES	jpaentityannotationvalu jpa entiti annot valu 
+VARSIG1	javatyp type annotationtyp annot type 
+VARSIG0	memberholdingtypedetailsmetadataitem member hold type detail metadata item annotatedtyp annot type 
+METHODS	jpaentityannotationvalu jpa entiti annot valu getcatalog catalog getentitynam entiti getidentifiercolumn identifi column getidentifierfield identifi field getidentifiertyp identifi type getinheritancetyp inherit type getschema schema gettabl tabl getversioncolumn version column getversionfield version field getversiontyp version type ismappedsuperclass map superclass 
+MTHSIG4	getidentifierfield identifi field 
+MTHSIG5	getidentifiertyp identifi type 
+MTHSIG6	getinheritancetyp inherit type 
+MTHSIG7	getschema schema 
+MTHSIG0	jpaentityannotationvalu jpa entiti annot valu memberholdingtypedetailsmetadataitem member hold type detail metadata item annotatedtyp annot type javatyp type annotationtyp annot type 
+MTHSIG1	getcatalog catalog 
+PACKAGE	springframework roo addon jpa entiti 
+MTHSIG2	getentitynam entiti 
+MTHSIG3	getidentifiercolumn identifi column 
+MTHSIG10	getversionfield version field 
+VARIABLES	annotatedtyp annot type annotationtyp annot type mappedsuperclass map superclass identifiertyp identifi type versiontyp version type catalog entitynam entiti identifiercolumn identifi column identifierfield identifi field inheritancetyp inherit type schema tabl versioncolumn version column versionfield version field 
+MTHSIG8	gettabl tabl 
+MTHSIG9	getversioncolumn version column 

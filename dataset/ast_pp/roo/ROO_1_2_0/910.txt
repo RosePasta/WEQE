@@ -1,0 +1,29 @@
+VARSIG7	expectedversion expected version
+VARSIG6	expectedartifactid expected artifact
+VARSIG9	module module
+VARSIG8	providerid provider
+VARSIG3	pomfile pom file
+VARSIG2	pomfilename pom file
+VARSIG5	expectedgroupid expected group
+VARSIG4	pom pom
+COMMENTS	unit test link pomfactoryimpl pom factory impl constants fixture returns url pom file pomfilename pom file pom test test url exception returns root element canonical path pom file pomfilename pom file pom test test pair exception set invoke check set invoke check set invoke check set invoke check
+VARSIG1	pomfilename pom file
+VARSIG0	pomfilename pom file
+MTHSIG4	invokefactory invoke factory pomfile pom file
+MTHSIG5	assertgav gav pom pom expectedgroupid expected group expectedartifactid expected artifact expectedversion expected version
+VARSIG11	pomfilename pom file
+MTHSIG6	testgetminimalinstance test minimal instance
+VARSIG10	expectedname expected
+MTHSIG7	setupmockpackagingprovider set mock packaging provider providerid provider
+MTHSIG0	setup set
+MTHSIG1	getpomurl pom url pomfilename pom file
+PACKAGE	springframework roo project maven
+MTHSIG2	getpom pom pomfilename pom file
+MTHSIG3	getpomfile pom file pomfilename pom file
+MTHSIG8	testgetinstancewithdependency test instance dependency
+MTHSIG9	testgetinstancewithinheritedgroupid test instance inherited group
+MTHSIG11	assertmodule module module module expectedname expected pomfilename pom file
+CLASSES	pomfactoryimpltest pom factory impl test
+METHODS	setup set getpomurl pom url getpom pom getpomfile pom file invokefactory invoke factory assertgav gav testgetminimalinstance test minimal instance setupmockpackagingprovider set mock packaging provider testgetinstancewithdependency test instance dependency testgetinstancewithinheritedgroupid test instance inherited group testgetinstancewithpompackaging test instance pom packaging assertmodule module
+MTHSIG10	testgetinstancewithpompackaging test instance pom packaging
+VARIABLES	pomfilename pom file pomfilename pom file pomfilename pom file pomfile pom file pom expectedgroupid expected group expectedartifactid expected artifact expectedversion expected version providerid provider module expectedname expected pomfilename pom file module factory mockpackagingproviderregistry mock packaging provider registry pomurl pom url pomurl pom url pomfile pom file pomdocument pom document pomurl pom url pomdetails pom details pom mockpackagingprovider mock packaging provider pom dependencies dependency pom pomfilename pom file pom modules moduleiterator module iterator parentpomdirectory parent pom directory moduledirectory module directory modulepom module pom

@@ -1,0 +1,38 @@
+VARSIG7	javatype type superclass
+VARSIG6	physicaltypeidentifier physical type identifier
+VARSIG9	classorinterfacetypedetails type details details
+VARSIG8	javatype type requiredclassorinterface required
+VARSIG3	filemanager file manager filemanager file manager
+VARSIG2	metadataservice metadata service metadataservice metadata service
+VARSIG5	path path
+VARSIG4	javatype type javatype type
+COMMENTS	convenience methods create source code install jsr validation api required obtains superclass exception superclass requested parsed superclass requested superclass superclass requested required lang object obtains requested link javatype type assuming exists time parsed assumption met exception thrown requiredclassorinterface required parsed required details returns creates location details exception thrown exists details create required determine canonical filename check file doesn exist compute physical location physical type mutable details ensure adds field existing exception thrown exist modified field requested declared fieldmetadata field metadata add required physical type mutable details automatically add jsr bean validation api support current jsr support jsr annotation version represents version user user dependency list creates integration test entity automatically produces data demand exist silently returns integration test file exists entity produce integration test required verify requested entity exists file exists creates data demand provider entity silently returns dod exists entity produce data demand provider required data demand required path location data demand required verify requested entity exists proceed file exists entity entity lookup required type details exception parsed
+VARSIG1	mutablephysicaltypemetadataprovider mutable physical type metadata provider physicaltypemetadataprovider physical type metadata provider
+VARSIG18	javatype type entity
+VARSIG0	projectoperations project operations projectoperations project operations
+VARSIG17	path path
+MTHSIG4	getphysicallocationcanonicalpath physical location canonical path javatype type javatype type path path
+VARSIG12	fieldmetadata field metadata fieldmetadata field metadata
+MTHSIG5	getphysicallocationcanonicalpath physical location canonical path physicaltypeidentifier physical type identifier
+VARSIG11	javasymbolname symbol constantname constant
+MTHSIG6	getsuperclass superclass javatype type superclass
+VARSIG10	physicaltypeidentifier physical type identifier
+MTHSIG7	getclassorinterface javatype type requiredclassorinterface required
+MTHSIG0	classpathoperations classpath operations projectoperations project operations projectoperations project operations mutablephysicaltypemetadataprovider mutable physical type metadata provider physicaltypemetadataprovider physical type metadata provider metadataservice metadata service metadataservice metadata service filemanager file manager filemanager file manager
+VARSIG16	javatype type
+MTHSIG1	getpathresolver path resolver
+VARSIG15	javatype type entity
+PACKAGE	springframework roo classpath operations
+MTHSIG2	isprojectavailable project
+VARSIG14	javatype type entity
+MTHSIG3	ispersistentclassavailable persistent
+VARSIG13	annotationmetadata annotation metadata annotation
+MTHSIG8	generateclassfile generate file classorinterfacetypedetails type details details
+MTHSIG9	addenumconstant add constant physicaltypeidentifier physical type identifier javasymbolname symbol constantname constant
+MTHSIG13	getentity entity javatype type entity
+MTHSIG11	newintegrationtest integration test javatype type entity
+MTHSIG12	newdod dod javatype type entity javatype type path path
+CLASSES	classpathoperations classpath operations
+METHODS	classpathoperations classpath operations getpathresolver path resolver isprojectavailable project ispersistentclassavailable persistent getphysicallocationcanonicalpath physical location canonical path getphysicallocationcanonicalpath physical location canonical path getsuperclass superclass getclassorinterface generateclassfile generate file addenumconstant add constant addfield add field newintegrationtest integration test newdod dod getentity entity
+MTHSIG10	addfield add field fieldmetadata field metadata fieldmetadata field metadata
+VARIABLES	projectoperations project operations physicaltypemetadataprovider physical type metadata provider metadataservice metadata service filemanager file manager javatype type path physicaltypeidentifier physical type identifier superclass requiredclassorinterface required details physicaltypeidentifier physical type identifier constantname constant fieldmetadata field metadata annotation entity entity path entity projectoperations project operations physicaltypemetadataprovider physical type metadata provider metadataservice metadata service filemanager file manager projectmetadata project metadata pathresolver path resolver relativepath relative path physicallocationcanonicalpath physical location canonical path pathresolver path resolver javatype type path relativepath relative path physicallocationcanonicalpath physical location canonical path superclassmetadataid superclass metadata superclassmetadata superclass metadata superclassphysicaldetails superclass physical details physicallocationcanonicalpath physical location canonical path tocreate create ptm ptd mutabletypedetails mutable type details ptm ptd mutabletypedetails mutable type details jsr required jsr required classorinterfacetypedetails type details declaredbymetadataid declared metadata annotations config methods methodannotations annotations details classorinterfacetypedetails type details declaredbymetadataid declared metadata annotations dodconfig dod config details physicaltypeidentifier physical type identifier ptm ptd

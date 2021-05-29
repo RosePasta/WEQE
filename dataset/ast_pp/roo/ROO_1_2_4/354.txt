@@ -1,0 +1,26 @@
+VARSIG7	javatype type targetentity target entity
+VARSIG6	methodidentifier identifier
+VARSIG9	autowire
+VARSIG8	javatype type idtype type
+VARSIG3	javatype type idtype type
+VARSIG2	javatype type targetentity target entity
+VARSIG5	callermid caller mid
+VARSIG4	methodparameter parameter callerparameters caller parameters
+COMMENTS	provider link layertype layer type repository layer repository layer parameter types repositories support domain type repository refine additions caller returns additions caller order invoke callermid caller mid caller caller metadata required called required repositorytype repository type type repository called parameternames parameter names parameter names caller set additions create builder hold repository field copied caller create additions invoke field setters unit tests
+VARSIG1	methodidentifier identifier
+VARSIG0	callermid caller mid
+MTHSIG4	setrepositorylocator set repository locator repositorymongolocator repository mongo locator repositorylocator repository locator
+VARSIG12	repositorymongolayermethod repository mongo layer
+VARSIG11	callermid caller mid
+VARSIG10	methodparameter parameter callerparameters caller parameters
+MTHSIG0	getlayerposition layer position
+MTHSIG1	getmembertypeadditions member type additions callermid caller mid methodidentifier identifier javatype type targetentity target entity javatype type idtype type methodparameter parameter callerparameters caller parameters
+VARSIG15	repositorymongolocator repository mongo locator repositorylocator repository locator
+PACKAGE	springframework roo addon layers repository mongo
+MTHSIG2	getmembertypeadditions member type additions callermid caller mid methodidentifier identifier javatype type targetentity target entity javatype type idtype type autowire methodparameter parameter callerparameters caller parameters
+VARSIG14	list methodparameter parameter parameters
+MTHSIG3	getmethodadditions additions callermid caller mid repositorymongolayermethod repository mongo layer javatype type repositorytype repository type list methodparameter parameter parameters
+VARSIG13	javatype type repositorytype repository type
+CLASSES	repositorymongolayerprovider repository mongo layer provider
+METHODS	getlayerposition layer position getmembertypeadditions member type additions getmembertypeadditions member type additions getmethodadditions additions setrepositorylocator set repository locator
+VARIABLES	callermid caller mid methodidentifier identifier targetentity target entity idtype type callerparameters caller parameters callermid caller mid methodidentifier identifier targetentity target entity idtype type autowire callerparameters caller parameters callermid caller mid repositorytype repository type parameters repositorylocator repository locator repositorylocator repository locator parametertypes parameter types repositories repository cidbuilder cid builder autowiredannotation autowired annotation repositoryfieldname repository field methodcall call

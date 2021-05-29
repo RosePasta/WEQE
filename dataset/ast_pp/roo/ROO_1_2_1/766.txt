@@ -1,0 +1,16 @@
+VARSIG3	object obj
+VARSIG2	loglevel log level
+COMMENTS	levels felix log command
+CLASSES	loglevel log level
+VARSIG1	felixcode felix code
+VARSIG0	key
+METHODS	loglevel log level compareto compare equals getfelixcode felix code getkey key hashcode hash code tostring
+MTHSIG4	getkey key
+MTHSIG5	hashcode hash code
+MTHSIG6	tostring
+MTHSIG0	loglevel log level key felixcode felix code
+MTHSIG1	compareto compare loglevel log level
+PACKAGE	springframework roo felix
+MTHSIG2	equals object obj
+MTHSIG3	getfelixcode felix code
+VARIABLES	key felixcode felix code obj debug error warning felixcode felix code key result builder

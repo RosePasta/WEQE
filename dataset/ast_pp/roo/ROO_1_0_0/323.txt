@@ -1,0 +1,76 @@
+MTHSIG24	expression message
+MTHSIG25	expression
+MTHSIG22	isassignable assignable supertype type subtype type
+MTHSIG23	isassignable assignable supertype type subtype type message
+VARSIG39	supertype type
+MTHSIG4	notnull object object message
+VARSIG34	type
+MTHSIG5	notnull object object
+VARSIG33	object obj
+MTHSIG6	haslength length text message
+VARSIG32	clazz
+MTHSIG7	haslength length text
+VARSIG31	map map
+MTHSIG0	istrue expression message
+VARSIG38	subtype type
+MTHSIG1	istrue expression
+VARSIG37	supertype type
+PACKAGE	springframework roo support util
+MTHSIG2	isnull object object message
+VARSIG36	message
+MTHSIG3	isnull object object
+VARSIG35	object obj
+MTHSIG20	isinstanceof instance clazz object obj
+MTHSIG21	isinstanceof instance type object obj message
+MTHSIG8	hastext text text message
+VARSIG30	message
+MTHSIG9	hastext text text
+CLASSES	
+VARSIG29	map map
+VARSIG28	collection collection
+METHODS	istrue istrue isnull isnull notnull notnull haslength length haslength length hastext text hastext text doesnotcontain doesnotcontain notempty empty notempty empty nonullelements elements nonullelements elements notempty empty notempty empty notempty empty notempty empty isinstanceof instance isinstanceof instance isassignable assignable isassignable assignable
+VARSIG23	object array
+VARSIG22	object array
+VARSIG21	message
+VARSIG20	object array
+VARSIG27	message
+VARSIG26	collection collection
+VARSIG25	object array
+VARSIG24	message
+VARSIG7	message
+VARSIG6	object object
+VARSIG9	text
+VARSIG8	object object
+VARSIG3	object object
+VARSIG2	expression
+VARSIG5	object object
+VARSIG4	message
+COMMENTS	assertion utility assists validating arguments identifying programmer errors early runtime contract arguments validate contract contract violation occurs protects class invariants typically validate arguments configuration properties check cases programmer errors configuration errors contrast config initialization code usally point falling defaults methods junit junit assertion library argument deemed invalid link illegalargumentexception illegal argument exception thrown typically notnull clazz istrue greater internal framework jakarta jakarta commons lang comprehensive suite assertion utilities expression throwing illegalargumentexception illegal argument exception test result istrue greater expression expression message exception message assertion fails illegalargumentexception illegal argument exception expression expression throwing illegalargumentexception illegal argument exception test result istrue expression expression illegalargumentexception illegal argument exception expression object isnull object object check message exception message assertion fails illegalargumentexception illegal argument exception object object isnull object object check illegalargumentexception illegal argument exception object object notnull clazz object object check message exception message assertion fails illegalargumentexception illegal argument exception object object notnull clazz object object check illegalargumentexception illegal argument exception object empty empty haslength length empty text check message exception message assertion fails stringutils utils haslength length empty empty haslength length text check stringutils utils haslength length valid text content whitespace character hastext text empty text check message exception message assertion fails stringutils utils hastext text valid text content whitespace character hastext text empty text check stringutils utils hastext text text substring doesnotcontain rod rod texttosearch text search text search substring substring find text message exception message assertion fails text substring doesnotcontain rod texttosearch text search text search substring substring find text array elements element notempty empty array array elements array array check message exception message assertion fails illegalargumentexception illegal argument exception object array elements array elements element notempty empty array array array check illegalargumentexception illegal argument exception object array elements array elements note complain array empty nonullelements elements array array elements array array check message exception message assertion fails illegalargumentexception illegal argument exception object array element array elements note complain array empty nonullelements elements array array array check illegalargumentexception illegal argument exception object array element collection elements element notempty empty collection collection elements collection collection check message exception message assertion fails illegalargumentexception illegal argument exception collection elements collection elements element notempty empty collection collection elements collection collection check illegalargumentexception illegal argument exception collection elements map entries entry notempty empty map map entries map map check message exception message assertion fails illegalargumentexception illegal argument exception map entries map entries entry notempty empty map map map check illegalargumentexception illegal argument exception map entries object instance instance foo foo clazz required obj object check illegalargumentexception illegal argument exception object instance clazz isinstance instance object instance instance foo foo type type check obj object check message message prepended message produced function provide context function generate message prepended illegalargumentexception illegal argument exception object instance clazz isinstance instance supertype type isassignablefrom assignable subtype type isassignable assignable number myclass supertype type type check subtype type type check illegalargumentexception illegal argument exception classes assignable supertype type isassignablefrom assignable subtype type isassignable assignable number myclass supertype type type check subtype type type check message message prepended message produced function provide context function generate message prepended illegalargumentexception illegal argument exception classes assignable expression throwing illegalstateexception illegal exception test result call istrue illegalargumentexception illegal argument exception assertion failure property initialized expression expression message exception message assertion fails illegalstateexception illegal exception expression expression throwing link illegalstateexception illegal exception test result call link istrue link illegalargumentexception illegal argument exception assertion failure expression expression illegalstateexception illegal exception supplied expression
+VARSIG19	substring
+VARSIG1	message
+VARSIG18	texttosearch text search
+VARSIG0	expression
+VARSIG17	message
+VARSIG12	text
+VARSIG11	text
+VARSIG10	message
+VARSIG16	substring
+VARSIG15	texttosearch text search
+VARSIG14	text
+VARSIG13	message
+MTHSIG17	notempty empty collection collection
+MTHSIG18	notempty empty map map message
+MTHSIG15	nonullelements elements object array
+MTHSIG16	notempty empty collection collection message
+MTHSIG13	notempty empty object array
+MTHSIG14	nonullelements elements object array message
+MTHSIG11	doesnotcontain texttosearch text search substring
+MTHSIG12	notempty empty object array message
+MTHSIG19	notempty empty map map
+VARSIG44	expression
+VARSIG43	message
+VARSIG42	expression
+MTHSIG10	doesnotcontain texttosearch text search substring message
+VARIABLES	expression message expression object message object object message object text message text text message text texttosearch text search substring message texttosearch text search substring array message array array message array collection message collection map message map clazz obj type obj message supertype type subtype type supertype type subtype type message expression message expression
+VARSIG41	message
+VARSIG40	subtype type

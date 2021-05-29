@@ -1,0 +1,19 @@
+VARSIG3	object acredentials credentials
+VARSIG2	googleuser google user googleuser google user
+VARSIG5	isauthenticated authenticated
+VARSIG4	collection grantedauthority granted authority authorities
+COMMENTS	
+CLASSES	googleauthentication google authentication
+VARSIG1	object acredentials credentials
+VARSIG0	googleuser google user googleuser google user
+METHODS	googleauthentication google authentication googleauthentication google authentication getname getauthorities authorities getcredentials credentials getprincipal principal setauthenticated set authenticated isauthenticated authenticated
+MTHSIG4	getcredentials credentials
+MTHSIG5	getprincipal principal
+MTHSIG6	setauthenticated set authenticated isauthenticated authenticated
+MTHSIG7	isauthenticated authenticated
+MTHSIG0	googleauthentication google authentication googleuser google user googleuser google user object acredentials credentials
+MTHSIG1	googleauthentication google authentication googleuser google user googleuser google user object acredentials credentials collection grantedauthority granted authority authorities
+PACKAGE	top level segment
+MTHSIG2	getname
+MTHSIG3	getauthorities authorities
+VARIABLES	googleuser google user acredentials credentials googleuser google user acredentials credentials authorities isauthenticated authenticated serialversionuid serial version uid googleuser google user acredentials credentials isauthenticated authenticated

@@ -1,0 +1,17 @@
+VARSIG3	object obj
+VARSIG2	bundle
+VARSIG4	bundlesymbolicname bundle symbolic
+COMMENTS	represents bundle symbolic locates bundle bundlesymbolicname bundle symbolic context search required
+CLASSES	bundlesymbolicname bundle symbolic
+VARSIG1	bundlecontext bundle context context
+VARSIG0	key
+METHODS	bundlesymbolicname bundle symbolic findbundleidwithoutfail find bundle fail getkey key hashcode hash code equals compareto compare tostring
+MTHSIG4	equals object obj
+MTHSIG5	compareto compare bundlesymbolicname bundle symbolic
+MTHSIG6	tostring
+MTHSIG0	bundlesymbolicname bundle symbolic key
+MTHSIG1	findbundleidwithoutfail find bundle fail bundlecontext bundle context context
+PACKAGE	springframework roo felix
+MTHSIG2	getkey key
+MTHSIG3	hashcode hash code
+VARIABLES	key context obj key bundles tsc

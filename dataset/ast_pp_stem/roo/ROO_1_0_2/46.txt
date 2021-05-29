@@ -1,0 +1,32 @@
+VARSIG7	clioption cli option kei artifactid artifact mandatori artifact depend javasymbolnam symbol artifactid artifact 
+VARSIG6	clioption cli option kei groupid group mandatori group depend javapackag groupid group 
+VARSIG9	clioption cli option kei groupid group mandatori group depend javapackag groupid group 
+VARSIG8	clioption cli option kei version mandatori version depend version 
+VARSIG3	clioption cli option kei projectnam project mandatori project segment projectnam project 
+VARSIG2	clioption cli option kei toplevelpackag top level mandatori uppermost groupid group maven roo roo shell javapackag toplevelpackag top level 
+VARSIG5	clioption cli option kei templat mandatori specifieddefaultvalu standard project unspecifieddefaultvalu unspecifi standard project type project creat default standard project templat templat 
+VARSIG4	clioption cli option kei mandatori forc major version auto detect unspecifi integ majorjavavers major version 
+COMMENTS	nix mac window 
+VARSIG1	mavenoper maven oper mavenoper maven oper 
+VARSIG0	staticfieldconvert field convert staticfieldconvert field convert 
+MTHSIG4	adddepend add depend javapackag groupid group javasymbolnam symbol artifactid artifact version 
+VARSIG12	clioption cli option kei mavencommand maven command mandatori user maven command test test extra 
+MTHSIG5	removedepend remov depend javapackag groupid group javasymbolnam symbol artifactid artifact version 
+VARSIG11	clioption cli option kei version mandatori version depend version 
+MTHSIG6	isperformcommandallow perform command allow 
+VARSIG10	clioption cli option kei artifactid artifact mandatori artifact depend javasymbolnam symbol artifactid artifact 
+MTHSIG7	runpackag 
+MTHSIG0	mavencommand maven command staticfieldconvert field convert staticfieldconvert field convert mavenoper maven oper mavenoper maven oper 
+MTHSIG1	iscreateprojectavail creat project 
+PACKAGE	springframework roo addon maven 
+MTHSIG2	createproject creat project javapackag toplevelpackag top level projectnam project integ majorjavavers major version templat templat 
+MTHSIG3	isdependencymodificationallow depend modif allow 
+VARSIG13	ioexcept except ioe 
+MTHSIG8	runeclips 
+MTHSIG9	runtest test 
+MTHSIG11	runclean clean 
+MTHSIG12	mvn extra 
+CLASSES	mavencommand maven command 
+METHODS	mavencommand maven command iscreateprojectavail creat project createproject creat project isdependencymodificationallow depend modif allow adddepend add depend removedepend remov depend isperformcommandallow perform command allow runpackag runeclips runtest test runassembl assembl runclean clean mvn 
+MTHSIG10	runassembl assembl 
+VARIABLES	staticfieldconvert field convert mavenoper maven oper toplevelpackag top level projectnam project majorjavavers major version templat groupid group artifactid artifact version groupid group artifactid artifact version extra ioe mavenoper maven oper logger root input cmd 

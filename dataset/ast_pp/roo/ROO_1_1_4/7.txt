@@ -1,0 +1,90 @@
+MTHSIG28	updateapplicationnames update application names
+MTHSIG29	updateprovisionedservices update provisioned services
+MTHSIG26	crypt input opmode
+MTHSIG27	getcipher cipher opmode
+MTHSIG24	encodeloginprefentries encode login pref entries list entries
+MTHSIG25	decodeloginprefentries decode login pref entries entries
+MTHSIG22	encodeloginprefentry encode login pref entry email password cloudcontrollerurl cloud controller url
+MTHSIG23	decodeloginprefentry decode login pref entry encodedentry encoded entry
+VARSIG39	exception
+MTHSIG4	login email password cloudcontrollerurl cloud controller url
+VARSIG34	list entries
+MTHSIG5	putpreference preference prefkey pref key prefvalue pref
+VARSIG33	ioexception exception
+MTHSIG6	getpreference preference prefkey pref key
+VARSIG32	encodedfield encoded field
+MTHSIG7	getclient client
+VARSIG31	encodedentry encoded entry
+MTHSIG0	deactivate componentcontext component context
+VARSIG38	opmode
+MTHSIG1	activate componentcontext component context context
+VARSIG37	input
+PACKAGE	springframework roo addon cloud foundry
+MTHSIG2	beforetransmission transmission transmissiontype transmission type type
+VARSIG36	encodedentry encoded entry
+MTHSIG3	aftertransmission transmission transmissiontype transmission type type successful
+VARSIG35	entries
+MTHSIG20	getstoredmatches stored matches valuekey key datakey data key
+MTHSIG21	getstoredloginprefs stored login prefs
+MTHSIG8	getapplicationnames application names
+VARSIG30	cloudcontrollerurl cloud controller url
+MTHSIG9	getprovisionedservices provisioned services
+MTHSIG33	getpreferencesfor preferences clazz
+CLASSES	cloudfoundrysessionimpl cloud foundry session impl
+VARSIG29	password
+VARSIG28	email
+METHODS	deactivate activate beforetransmission transmission aftertransmission transmission login putpreference preference getpreference preference getclient client getapplicationnames application names getprovisionedservices provisioned services getboundurlmap bound url map getapplicationmemoryoptions application memory options getprovisionedservice provisioned service getservice service getservicetypes service types getstoredemails stored emails getstoredurls stored urls getstoreddata stored data getstoredurlsforemail stored urls email getstoredemailsforurl stored emails url getstoredmatches stored matches getstoredloginprefs stored login prefs encodeloginprefentry encode login pref entry decodeloginprefentry decode login pref entry encodeloginprefentries encode login pref entries decodeloginprefentries decode login pref entries crypt getcipher cipher updateapplicationnames update application names updateprovisionedservices update provisioned services updateservicetypes update service types updateurlmap update url map updatememoryoptions update memory options getpreferencesfor preferences
+VARSIG23	url
+VARSIG22	email
+VARSIG21	map map
+VARSIG20	key
+VARSIG27	map map
+VARSIG26	datakey data key
+VARSIG25	valuekey key
+VARSIG24	
+MTHSIG31	updateurlmap update url map
+MTHSIG32	updatememoryoptions update memory options
+MTHSIG30	updateservicetypes update service types
+VARSIG7	password
+VARSIG6	email
+VARSIG9	map map
+VARSIG8	cloudcontrollerurl cloud controller url
+VARSIG3	transmissiontype transmission type type
+VARSIG2	componentcontext component context context
+VARSIG5	successful
+VARSIG4	transmissiontype transmission type type
+COMMENTS	todo replace call versionhelper version helper getproductfromdictionary product dictionary uaa set url stored url todo uaa uaa preferencesutils preferences utils wait uaa uaa earlier create preferences object suppressing created user preferences directory messages preferences directory
+VARSIG19	serviceconfiguration service configuration serviceconfiguration service configuration
+VARSIG1	backingstoreexception backing store exception
+VARSIG18	servicevendor service vendor
+VARSIG0	componentcontext component context
+VARSIG17	provisionedservicename provisioned service
+VARSIG12	malformedurlexception malformed url exception
+VARSIG11	exception
+VARSIG10	map map
+VARSIG16	unsupportedencodingexception unsupported encoding exception
+VARSIG15	prefkey pref key
+VARSIG14	prefvalue pref
+VARSIG13	prefkey pref key
+VARSIG50	clazz
+MTHSIG17	getstoreddata stored data key
+MTHSIG18	getstoredurlsforemail stored urls email email
+MTHSIG15	getstoredemails stored emails
+MTHSIG16	getstoredurls stored urls
+MTHSIG13	getservice service servicevendor service vendor
+MTHSIG14	getservicetypes service types
+MTHSIG11	getapplicationmemoryoptions application memory options
+MTHSIG12	getprovisionedservice provisioned service provisionedservicename provisioned service
+MTHSIG19	getstoredemailsforurl stored emails url url
+VARSIG45	cloudapplication cloud application app
+VARSIG44	invalidkeyexception invalid key exception
+VARSIG43	nosuchalgorithmexception algorithm exception
+VARSIG42	nosuchpaddingexception padding exception
+VARSIG49	memoryoption memory option
+VARSIG48	cloudapplication cloud application app
+VARSIG47	serviceconfiguration service configuration servicetype service type
+VARSIG46	cloudservice cloud service provisionedservice provisioned service
+MTHSIG10	getboundurlmap bound url map
+VARIABLES	context type type successful email password cloudcontrollerurl cloud controller url map map prefkey pref key prefvalue pref prefkey pref key provisionedservicename provisioned service servicevendor service vendor serviceconfiguration service configuration key map email url valuekey key datakey data key map email password cloudcontrollerurl cloud controller url encodedentry encoded entry encodedfield encoded field entries entries encodedentry encoded entry input opmode opmode app provisionedservice provisioned service servicetype service type app memoryoption memory option clazz logger empty email key password key url key roo key vcloud key uaaservice uaa service preferences product client appnames app names provisionedservices provisioned services servicetypes service types boundurlmap bound url map memoryoptions memory options bundleversion bundle version gitcommithash git commit hash storecredentials store credentials urlmatches url matches emailmatches email matches list vcloudurl cloud url simplefactory simple factory list entries storeddata stored data list list matches encodedprefs encoded prefs encodedemail encoded email encodedpassword encoded password encodedurl encoded url map encodedfields encoded fields valuepair pair encodedentries encoded entries list cipher keyspec key spec keyfactory key factory skey cipher boundurlmap bound url map original
+VARSIG41	invalidkeyspecexception invalid key spec exception
+VARSIG40	opmode

@@ -1,0 +1,18 @@
+VARSIG7	identifierfield identifi field 
+VARSIG6	javatyp type identifiertyp identifi type 
+VARSIG8	identifiercolumn identifi column 
+VARSIG3	list annotationmetadatabuild annot metadata builder annot 
+VARSIG2	javatyp type superclass 
+VARSIG5	serializ 
+VARSIG4	javatyp type 
+COMMENTS	common set oper entiti check exist meta inf persist xml meta inf persist xml exist creat entiti entiti requir createabstract creat entiti superclass entiti annot entiti entiti annot creat jpa embedd embedd requir serializ link serializ creat jpa identifi identifiertyp identifi type identifi type identifierfield identifi field identifi field identifiercolumn identifi column identifi column 
+CLASSES	entityoper entiti oper 
+VARSIG1	createabstract creat 
+VARSIG0	javatyp type 
+METHODS	ispersistentclassavail persist newent entiti newembeddableclass embedd newidentifi identifi 
+MTHSIG0	ispersistentclassavail persist 
+MTHSIG1	newent entiti javatyp type createabstract creat javatyp type superclass list annotationmetadatabuild annot metadata builder annot 
+PACKAGE	springframework roo addon entiti 
+MTHSIG2	newembeddableclass embedd javatyp type serializ 
+MTHSIG3	newidentifi identifi javatyp type identifiertyp identifi type identifierfield identifi field identifiercolumn identifi column 
+VARIABLES	createabstract creat superclass annot serializ identifiertyp identifi type identifierfield identifi field identifiercolumn identifi column 

@@ -1,0 +1,208 @@
+MTHSIG28	getfilename filename path
+MTHSIG29	getfilenameextension filename extension path
+MTHSIG26	uncapitalize str
+MTHSIG27	changefirstcharactercase change character str capitalize
+MTHSIG24	unqualify qualifiedname qualified separator
+MTHSIG25	capitalize str
+MTHSIG22	quoteifstring quote object obj
+MTHSIG23	unqualify qualifiedname qualified
+MTHSIG4	str substr
+VARSIG78	delim
+MTHSIG5	containswhitespace whitespace charsequence sequence str
+VARSIG77	str
+MTHSIG6	containswhitespace whitespace str
+VARSIG76	ignoreemptytokens ignore empty tokens
+MTHSIG7	trimwhitespace trim whitespace str
+VARSIG75	trimtokens trim tokens
+MTHSIG0	haslength length charsequence sequence str
+MTHSIG1	haslength length str
+MTHSIG2	hastext text charsequence sequence str
+MTHSIG3	hastext text str
+VARSIG79	str
+MTHSIG20	deleteany delete instring charstodelete chars delete
+VARSIG70	charstodelete chars delete
+MTHSIG21	quote str
+MTHSIG8	trimallwhitespace trim whitespace str
+VARSIG74	delimiters
+MTHSIG9	trimleadingwhitespace trim leading whitespace str
+VARSIG73	str
+VARSIG72	delimiters
+VARSIG71	str
+MTHSIG39	sortstringarray sort array arr
+MTHSIG37	concatenatestringarrays concatenate arrays arr arr arr arr
+MTHSIG38	mergestringarrays merge arrays arr arr arr arr
+MTHSIG35	tolanguagetag language tag locale locale
+MTHSIG36	addstringtoarray add array arr str
+MTHSIG33	pathequals path equals path path path path
+MTHSIG34	parselocalestring parse locale localestring locale
+METHODS	haslength length haslength length hastext text hastext text containswhitespace whitespace containswhitespace whitespace trimwhitespace trim whitespace trimallwhitespace trim whitespace trimleadingwhitespace trim leading whitespace trimtrailingwhitespace trim trailing whitespace trimleadingcharacter trim leading character trimtrailingcharacter trim trailing character startswithignorecase starts ignore endswithignorecase ends ignore substringmatch substring match countoccurrencesof count occurrences repeat replace delete deleteany delete quote quoteifstring quote unqualify unqualify capitalize uncapitalize changefirstcharactercase change character getfilename filename getfilenameextension filename extension stripfilenameextension strip filename extension applyrelativepath apply relative path cleanpath clean path pathequals path equals parselocalestring parse locale tolanguagetag language tag addstringtoarray add array concatenatestringarrays concatenate arrays mergestringarrays merge arrays sortstringarray sort array tostringarray array tostringarray array trimarrayelements trim array elements removeduplicatestrings remove duplicate strings split splitarrayelementsintoproperties split array elements properties splitarrayelementsintoproperties split array elements properties tokenizetostringarray tokenize array tokenizetostringarray tokenize array delimitedlisttostringarray delimited list array delimitedlisttostringarray delimited list array commadelimitedlisttostringarray comma delimited list array commadelimitedlisttoset comma delimited list set collectiontodelimitedstring collection delimited collectiontodelimitedstring collection delimited collectiontocommadelimitedstring collection comma delimited arraytodelimitedstring array delimited arraytodelimitedstring array delimited arraytocommadelimitedstring array comma delimited touppercase upper tolowercase trimtonull trim trimtoempty trim empty defaultifempty empty padright pad padleft pad left padding prefix removeprefix remove prefix removesuffix remove suffix suffix equals isblank blank replacefirst replace substringafterlast substring stringutils utils
+VARSIG67	delim
+VARSIG66	arr
+VARSIG65	delim
+VARSIG64	tosplit split
+VARSIG69	delim
+VARSIG68	arr
+MTHSIG31	applyrelativepath apply relative path path relativepath relative path
+MTHSIG32	cleanpath clean path path
+MTHSIG30	stripfilenameextension strip filename extension path
+VARSIG63	arr
+VARSIG62	arr
+VARSIG61	enumeration enumeration
+VARSIG60	collection coll
+VARSIG99	str
+VARSIG98	str
+VARSIG97	str
+VARSIG92	object arr
+VARSIG91	delim
+VARSIG90	collection coll
+VARSIG96	str
+VARSIG95	object arr
+VARSIG94	delim
+VARSIG93	object arr
+MTHSIG17	repeat str times
+MTHSIG18	replace original toreplace replace replacement
+MTHSIG15	substringmatch substring match charsequence sequence str charsequence sequence substring
+MTHSIG16	countoccurrencesof count occurrences str
+MTHSIG13	startswithignorecase starts ignore str prefix
+MTHSIG14	endswithignorecase ends ignore str suffix
+MTHSIG11	trimleadingcharacter trim leading character str leadingcharacter leading character
+MTHSIG12	trimtrailingcharacter trim trailing character str trailingcharacter trailing character
+MTHSIG19	delete instring pattern
+VARSIG89	delim
+VARSIG88	collection coll
+VARSIG87	suffix
+VARSIG86	prefix
+VARSIG81	charstodelete chars delete
+MTHSIG10	trimtrailingwhitespace trim trailing whitespace str
+VARSIG80	delimiter
+VARIABLES	str str str str str substr str str str str str str str leadingcharacter leading character str trailingcharacter trailing character str prefix str suffix str substring str str times original toreplace replace replacement instring pattern instring charstodelete chars delete str obj qualifiedname qualified qualifiedname qualified separator str str str capitalize path path path path relativepath relative path path path path path path localestring locale locale arr str arr arr arr arr arr arr arr arr arr coll enumeration arr arr tosplit split delim arr delim arr delim charstodelete chars delete str delimiters str delimiters trimtokens trim tokens ignoreemptytokens ignore empty tokens str delim str delimiter charstodelete chars delete str str coll delim prefix suffix coll delim coll delim arr arr delim arr str str str str str defaultvalues values defaultvalue str size padchar pad str size padchar pad repeat padchar pad str prefix str prefix str suffix str suffix str str str str str original toreplace replace replacement original separator folder separator windows folder separator top path current path extension separator separator strlen str len strlen str len lcstr str lcprefix prefix lcstr str lcsuffix suffix count pos idx result previousresult previous result separatorindex separator sepindex sep sepindex sep separatorindex separator newpath path pathtouse path prefixindex prefix prefix patharray path array pathelements path elements tops element parts language country variant endindexofcountrycode country code newarr arr newarr arr result str list result element set offset beforedelimiter delimiter afterdelimiter delimiter result element splittedelement splitted element tokens token result pos delpos del pos set tokens pads pads buf startofold start endofold separatorstart separator start
+VARSIG85	delim
+VARSIG84	collection coll
+VARSIG83	str
+VARSIG82	str
+VARSIG39	str
+VARSIG34	str
+VARSIG33	charstodelete chars delete
+VARSIG32	instring
+VARSIG31	pattern
+VARSIG38	separator
+VARSIG37	qualifiedname qualified
+PACKAGE	springframework roo support util
+VARSIG36	qualifiedname qualified
+VARSIG35	object obj
+VARSIG30	instring
+VARSIG29	replacement
+VARSIG28	toreplace replace
+VARSIG23	str
+VARSIG22	charsequence sequence substring
+VARSIG21	
+VARSIG20	charsequence sequence str
+VARSIG27	original
+VARSIG26	times
+VARSIG25	str
+VARSIG24	
+VARSIG56	arr arr
+VARSIG55	arr arr
+VARSIG54	str
+VARSIG53	arr
+VARSIG59	arr
+VARSIG58	arr arr
+VARSIG57	arr arr
+VARSIG52	locale locale
+VARSIG51	localestring locale
+VARSIG50	path path
+VARSIG45	path
+VARSIG44	path
+VARSIG43	path
+VARSIG42	capitalize
+VARSIG49	path path
+VARSIG48	path
+VARSIG47	relativepath relative path
+VARSIG46	path
+VARSIG41	str
+VARSIG40	str
+VARSIG120	str str
+VARSIG121	str
+VARSIG122	original
+VARSIG123	toreplace replace
+VARSIG124	replacement
+VARSIG125	original
+VARSIG126	separator
+VARSIG110	padchar pad
+VARSIG111	str
+VARSIG112	prefix
+VARSIG113	str
+VARSIG114	prefix
+VARSIG115	str
+VARSIG116	suffix
+VARSIG117	str
+VARSIG118	suffix
+VARSIG119	str str
+COMMENTS	miscellaneous link utility methods internal framework jakarta jakarta commons lang comprehensive suite utilities delivers simple functionality core link stringbuilder builder classes ability link replace occurrences substring target easy methods convert delimited strings csv strings collections arrays commons lang stringutils utils constants platform specific separator general convenience methods working strings check charsequence sequence length note charsequence sequence purely consists whitespace stringutils utils haslength length stringutils utils haslength length stringutils utils haslength length stringutils utils haslength length str charsequence sequence check charsequence sequence length hastext text check length note purely consists whitespace str check length haslength length charsequence sequence check charsequence sequence actual text returns length greater whitespace character stringutils utils hastext text stringutils utils hastext text stringutils utils hastext text stringutils utils hastext text stringutils utils hastext text str charsequence sequence check charsequence sequence length greater whitespace lang character iswhitespace whitespace check actual text returns length greater whitespace character str check length greater whitespace hastext text charsequence sequence substring occurs inspired eponymous commons lang stringutils utils stringutils utils stringutils utils stringutils utils abc stringutils utils abc stringutils utils abc str substr check charsequence sequence whitespace characters str charsequence sequence check charsequence sequence empty whitespace character lang character iswhitespace whitespace check whitespace characters str check empty whitespace character containswhitespace whitespace charsequence sequence trim leading trailing whitespace str check trimmed lang character iswhitespace whitespace trim whitespace leading trailing inbetween characters str check trimmed lang character iswhitespace whitespace trim leading whitespace str check trimmed lang character iswhitespace whitespace trim trailing whitespace str check trimmed lang character iswhitespace whitespace trim occurences supplied leading character str check leadingcharacter leading character leading character trimmed trimmed trim occurences supplied trailing character str check trailingcharacter trailing character trailing character trimmed trimmed test starts prefix ignoring upper str check prefix prefix lang startswith starts test ends suffix ignoring upper str check suffix suffix lang endswith ends test matches substring str original stringbuilder builder original start matching substring substring match count occurrences substring str search search returns repeated number times str repeat empty times number times repeat replaces occurrences original modify length toreplace replace replace blank replacement replace original modified delete occurrences substring instring original pattern pattern delete occurrences delete character instring original charstodelete chars delete set characters delete delete lines convenience methods working formatted strings quote single quotes str input mystring quoted mystring input turn object single quotes keeping object obj input object mystring quoted mystring input object unqualify qualified dot character qualified returns qualified qualifiedname qualified qualified unqualify qualified separator character qualified returns qualified separator qualifiedname qualified qualified separator separator capitalize changing letter upper link character touppercase upper letters changed str capitalize capitalized uncapitalize changing letter link character tolowercase letters changed str uncapitalize uncapitalized extract filename path mypath myfile txt myfile txt path file path extracted filename extract filename extension path mypath myfile txt txt path file path extracted filename extension strip filename extension path mypath myfile txt mypath myfile path file path path stripped filename extension apply relative path path assuming standard folder separation separators path path start full file path relativepath relative path relative path apply relative full file path full file path applying relative path normalize path suppressing sequences path simple dots result convenient path comparison notice windows separators replaced simple slashes path original path normalized path strip prefix path analyze treat path element correctly parse paths file core core resource strip core directory keeping file prefix points current directory drop registering top path merging path element element top path normal path element remaining top paths retained compare paths normalization path path path comparison path path path comparison paths equivalent normalization parse localestring locale link locale inverse operation link locale tostring locale locale tostring localestring locale locale locale locale tostring format accepts spaces separators alternative underscores locale instance variant country code sans separator country code variant strip leading whitespace what left variant determine rfc compliant language tag http accept language header locale locale transform language tag rfc compliant language tag convenience methods working arrays append array returning array consisting input array contents arr array append str append array concatenate arrays overlapping array elements included order elements original arrays preserved arr arr array arr arr array array arrays merge arrays overlapping array elements included order elements original arrays preserved exception overlapping elements included occurrence arr arr array arr arr array array arrays turn source array sorted array arr source array sorted array copy collection array collection elements coll collection copy array passed collection copy enumeration array enumeration elements enumeration enumeration copy array passed enumeration trim elements array calling trim arr original array array size trimmed elements remove duplicate strings array sorts array treeset tree set arr array array duplicates natural sort order split occurrence delimiter include delimiter result tosplit split split delim split element array delimiter delimiter element includes delimiter delimiter wasn input array strings split element based delimiter properties instance generated left delimiter providing key delimiter providing trim key adding properties instance arr array process delim split element typically equals symbol properties instance representing array contents array process empty array strings split element based delimiter properties instance generated left delimiter providing key delimiter providing trim key adding properties instance arr array process delim split element typically equals symbol charstodelete chars delete characters remove element prior attempting split operation typically quotation mark symbol removal occur properties instance representing array contents array process empty tokenize array stringtokenizer tokenizer trims tokens omits empty tokens delimiters supposed consist number delimiter characters characters separate tokens delimiter single character multi character delimiters delimitedlisttostringarray delimited list array str tokenize delimiters delimiter characters assembled characters individually considered delimiter array tokens util stringtokenizer tokenizer lang trim delimitedlisttostringarray delimited list array tokenize array stringtokenizer tokenizer delimiters supposed consist number delimiter characters characters separate tokens delimiter single character multi character delimiters delimitedlisttostringarray delimited list array str tokenize delimiters delimiter characters assembled characters individually considered delimiter trimtokens trim tokens trim tokens string trim ignoreemptytokens ignore empty tokens omit empty tokens result array applies tokens empty trimming stringtokenizer tokenizer subsequent delimiters token place array tokens input util stringtokenizer tokenizer lang trim delimitedlisttostringarray delimited list array delimited list convert array single delimiter consists character considered single delimiter bunch potential delimiter characters contrast tokenizetostringarray tokenize array str input delim delimiter elements single delimiter bunch individual delimiter characters array tokens list tokenizetostringarray tokenize array delimited list convert array single delimiter consists character considered single delimiter bunch potential delimiter characters contrast tokenizetostringarray tokenize array str input delimiter delimiter elements single delimiter bunch individual delimiter characters charstodelete chars delete set characters delete deleting unwanted breaks delete lines feeds array tokens list tokenizetostringarray tokenize array add empty input convert csv list array strings str input array strings empty array empty input convenience convert csv list set note suppress duplicates str input set entries list convenience collection delimited csv tostring implementations coll collection display delim delimiter prefix start element suffix element delimited concatenates collection delimiter item coll collection display empty delim delimiter empty delimited convenience collection csv tostring implementations coll collection display delimited convenience array delimited csv tostring implementations arr array display delim delimiter delimited convenience array delimited csv tostring implementations arr array display delim delimiter delimited convenience array csv tostring implementations arr array display delimited converts uppercase str input uppercase converts lowercase str input lowercase removes leading trailing whitespace ends returning empty trim stringutils utils trimtonull trim stringutils utils trimtonull trim stringutils utils trimtonull trim stringutils utils trimtonull trim abc abc stringutils utils trimtonull trim abc abc str trimmed trimmed chars empty input removes leading trailing whitespace ends returning empty empty trim stringutils utils trimtonull trim stringutils utils trimtonull trim stringutils utils trimtonull trim stringutils utils trimtonull trim abc abc stringutils utils trimtonull trim abc abc str trimmed trimmed empty chars empty input returns passed blank values blank strings blank returns stringutils utils defaultifempty empty stringutils utils defaultifempty empty stringutils utils defaultifempty empty bat bat stringutils utils defaultifempty empty bat bat stringutils utils defaultifempty empty str check defaultstr str input empty note expression evaluated called empty evaluation expensive performance critical check emptiness passed pads presented delim character str pad size size pad padchar pad padding character padded left pads presented delim character str pad size size pad padchar pad padding character left padded prefixes prefix str prefix blank prefix prefix apply blank prefixed removes prefix exists str modify blank prefix prefix remove blank removes suffix exists str modify blank suffix suffix remove blank appends suffix str modify blank suffix suffix append blank strings equal including equal str str compare str str compare text blank fluent calling stringutils utils isblank blank blah str text check blank link hastext text replaces occurrence substring preference link replacefirst replace toreplace replace regular expression file path windows backslashes special meaning regexs original modify length toreplace replace replace blank replacement replace original modified returns substring occurrence separator separator returned input empty input empty empty separator empty input empty returned stringutils utils substringafterlast substring stringutils utils substringafterlast substring stringutils utils substringafterlast substring stringutils utils substringafterlast substring stringutils utils substringafterlast substring abc stringutils utils substringafterlast substring abcba stringutils utils substringafterlast substring abc stringutils utils substringafterlast substring stringutils utils substringafterlast substring original substring separator search substring occurrence separator input constructor prevent instantiation
+VARSIG19	suffix
+VARSIG18	str
+VARSIG17	prefix
+VARSIG12	str
+VARSIG11	str
+VARSIG10	str
+VARSIG16	str
+VARSIG15	trailingcharacter trailing character
+VARSIG14	str
+VARSIG13	leadingcharacter leading character
+MTHSIG68	removeprefix remove prefix str prefix
+MTHSIG69	removesuffix remove suffix str suffix
+MTHSIG66	padding repeat padchar pad
+MTHSIG67	prefix str prefix
+MTHSIG64	padright pad str size padchar pad
+MTHSIG65	padleft pad left str size padchar pad
+MTHSIG62	trimtoempty trim empty str
+MTHSIG63	defaultifempty empty str defaultvalues values
+MTHSIG60	tolowercase str
+MTHSIG61	trimtonull trim str
+CLASSES	stringutils utils
+MTHSIG75	stringutils utils
+MTHSIG73	replacefirst replace original toreplace replace replacement
+MTHSIG74	substringafterlast substring original separator
+MTHSIG71	equals str str str str
+MTHSIG72	isblank blank str
+MTHSIG70	suffix str suffix
+VARSIG7	str
+VARSIG109	repeat
+VARSIG6	charsequence sequence str
+MTHSIG48	tokenizetostringarray tokenize array str delimiters trimtokens trim tokens ignoreemptytokens ignore empty tokens
+VARSIG9	str
+MTHSIG49	delimitedlisttostringarray delimited list array str delim
+VARSIG8	str
+MTHSIG46	splitarrayelementsintoproperties split array elements properties arr delim charstodelete chars delete
+VARSIG3	str
+MTHSIG47	tokenizetostringarray tokenize array str delimiters
+VARSIG2	charsequence sequence str
+MTHSIG44	split tosplit split delim
+VARSIG5	substr
+MTHSIG45	splitarrayelementsintoproperties split array elements properties arr delim
+VARSIG4	str
+VARSIG1	str
+VARSIG0	charsequence sequence str
+VARSIG100	str
+MTHSIG42	trimarrayelements trim array elements arr
+VARSIG101	defaultvalues values
+MTHSIG43	removeduplicatestrings remove duplicate strings arr
+VARSIG102	defaultvalue
+MTHSIG40	tostringarray array collection coll
+VARSIG103	str
+MTHSIG41	tostringarray array enumeration enumeration
+VARSIG104	size
+VARSIG105	padchar pad
+VARSIG106	str
+VARSIG107	size
+VARSIG108	padchar pad
+MTHSIG59	touppercase upper str
+MTHSIG57	arraytodelimitedstring array delimited object arr delim
+MTHSIG58	arraytocommadelimitedstring array comma delimited object arr
+MTHSIG55	collectiontocommadelimitedstring collection comma delimited collection coll
+MTHSIG56	arraytodelimitedstring array delimited delim object arr
+MTHSIG53	collectiontodelimitedstring collection delimited collection coll delim prefix suffix
+MTHSIG54	collectiontodelimitedstring collection delimited collection coll delim
+MTHSIG51	commadelimitedlisttostringarray comma delimited list array str
+MTHSIG52	commadelimitedlisttoset comma delimited list set str
+MTHSIG50	delimitedlisttostringarray delimited list array str delimiter charstodelete chars delete

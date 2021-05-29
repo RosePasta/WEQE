@@ -1,0 +1,12 @@
+MTHSIG4	setupconfig setup config solrserverurl solr server url
+MTHSIG0	addall add
+MTHSIG1	addsearch add search javatype type javatype type
+PACKAGE	springframework roo addon solr
+MTHSIG2	issearchavailable search
+MTHSIG3	issolrinstallationpossible solr installation
+COMMENTS	solr search configuration operations
+CLASSES	solroperations solr operations
+VARIABLES	javatype type solrserverurl solr server url
+VARSIG1	solrserverurl solr server url
+VARSIG0	javatype type javatype type
+METHODS	addall add addsearch add search issearchavailable search issolrinstallationpossible solr installation setupconfig setup config

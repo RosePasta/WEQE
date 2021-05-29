@@ -1,0 +1,14 @@
+VARSIG3	actionconfig action config config
+VARSIG2	commandtransformation command transformation command
+VARSIG5	actionconfig action config config
+VARSIG4	commandtransformation command transformation command
+COMMENTS	performs actual action application logic process variables config
+CLASSES	abstractaction action
+VARSIG1	actionconfig action config config
+VARSIG0	commandtransformation command transformation command
+METHODS	execute executeimpl execute impl processconfigattributes process config attributes
+MTHSIG0	execute commandtransformation command transformation command actionconfig action config config
+MTHSIG1	executeimpl execute impl commandtransformation command transformation command actionconfig action config config
+PACKAGE	springframework roo addon tailor actions
+MTHSIG2	processconfigattributes process config attributes commandtransformation command transformation command actionconfig action config config
+VARIABLES	command config command config command config logger processedconfig processed config processedconfig processed config attributes keyiterator key iterator key processedvalue processed

@@ -1,0 +1,31 @@
+VARSIG7	set includetables include tables
+VARSIG6	view
+VARSIG9	includenonportableattributes include portable attributes
+VARSIG8	set excludetables exclude tables
+VARSIG3	schema schema
+VARSIG2	view
+VARSIG5	testautomatically test automatically
+VARSIG4	javapackage destinationpackage destination
+COMMENTS	implementation link dbreoperations dbre operations force refresh database actual jdbc connection force refresh database actual jdbc connection update pom xml add exclusion dbre xml file maven war plugin change persistence xml file prevent tables created dropped project web project exit exclude element exit
+VARSIG1	file file
+VARSIG18	
+VARSIG0	schema schema
+VARSIG17	
+MTHSIG4	updatepom update pom
+VARSIG12	file file
+MTHSIG5	updatepersistencexml update persistence xml
+VARSIG11	schema schema
+MTHSIG6	setpropertyvalue set property element root element propertyelement property element
+VARSIG10	database database
+MTHSIG0	isdbreavailable dbre
+VARSIG16	element propertyelement property element
+MTHSIG1	displaydatabasemetadata display database metadata schema schema file file view
+VARSIG15	element root
+PACKAGE	springframework roo addon dbre
+MTHSIG2	reverseengineerdatabase reverse engineer database schema schema javapackage destinationpackage destination testautomatically test automatically view set includetables include tables set excludetables exclude tables includenonportableattributes include portable attributes
+VARSIG14	exception
+MTHSIG3	processdatabase process database database database schema schema file file displayonly display
+VARSIG13	displayonly display
+CLASSES	dbreoperationsimpl dbre operations impl
+METHODS	isdbreavailable dbre displaydatabasemetadata display database metadata reverseengineerdatabase reverse engineer database processdatabase process database updatepom update pom updatepersistencexml update persistence xml setpropertyvalue set property
+VARIABLES	schema file view schema destinationpackage destination testautomatically test automatically view includetables include tables excludetables exclude tables includenonportableattributes include portable attributes database schema file displayonly display root propertyelement property element logger dbremodelservice dbre model service filemanager file manager projectoperations project operations database database document outputstream output stream pom document root warpluginxpath war plugin path warpluginelement war plugin element excludeelement exclude element configurationelement configuration element webresourceselement web resources element excludeselement excludes element directoryelement directory element resourceelement resource element persistencepath persistence path document root providerelement provider element provider propertyelement property element changed changed

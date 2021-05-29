@@ -1,0 +1,33 @@
+VARSIG7	list depend depend 
+VARSIG6	configur configur 
+VARSIG9	plugin actual 
+VARSIG8	list execut execut 
+VARSIG3	groupid group 
+VARSIG2	expectedxml expect xml 
+VARSIG5	version 
+VARSIG4	artifactid artifact 
+COMMENTS	unit test link plugin assert plugin return expect xml pom element plugin plugin check xml requir document document creat element requir expectedxml expect xml expect xml element blank invok check assert link plugin expect valu groupid group artifactid artifact version configur depend execut actual assert construct link plugin xml rise properti xml xml construct link plugin expectedgroupid expect group expectedartifactid expect artifact expectedvers expect version expectedconfigur expect configur expecteddepend expect depend expectedexecut expect execut except set invok check set invok check set invok check invok check expect groupid group 
+VARSIG1	document document 
+VARSIG0	plugin plugin 
+MTHSIG4	testgetelementformaximalplugin test element maxim plugin 
+VARSIG12	expectedartifactid expect artifact 
+MTHSIG5	testgetelementforminimalplugin test element minim plugin 
+VARSIG11	expectedgroupid expect group 
+MTHSIG6	testgroupartifactversionconstructor test group artifact version constructor 
+VARSIG10	xml 
+MTHSIG7	testxmlelementconstructorwithartifactandvers test xml element constructor artifact version 
+MTHSIG0	assertel element plugin plugin document document expectedxml expect xml 
+VARSIG16	list execut expectedexecut expect execut 
+MTHSIG1	assertpluginequ plugin equal groupid group artifactid artifact version configur configur list depend depend list execut execut plugin actual 
+VARSIG15	list depend expecteddepend expect depend 
+PACKAGE	springframework roo project 
+MTHSIG2	assertpluginfromxml plugin xml xml expectedgroupid expect group expectedartifactid expect artifact expectedvers expect version configur expectedconfigur expect configur list depend expecteddepend expect depend list execut expectedexecut expect execut 
+VARSIG14	configur expectedconfigur expect configur 
+MTHSIG3	testfullconstructor test full constructor 
+VARSIG13	expectedvers expect version 
+MTHSIG8	testxmlelementconstructorwithgroupartifactandvers test xml element constructor group artifact version 
+MTHSIG9	testxmlelementconstructorwithonedepend test xml element constructor depend 
+CLASSES	plugintest plugin test 
+METHODS	assertel element assertpluginequ plugin equal assertpluginfromxml plugin xml testfullconstructor test full constructor testgetelementformaximalplugin test element maxim plugin testgetelementforminimalplugin test element minim plugin testgroupartifactversionconstructor test group artifact version constructor testxmlelementconstructorwithartifactandvers test xml element constructor artifact version testxmlelementconstructorwithgroupartifactandvers test xml element constructor group artifact version testxmlelementconstructorwithonedepend test xml element constructor depend testxmlelementconstructorwithoneexecut test xml element constructor execut 
+MTHSIG10	testxmlelementconstructorwithoneexecut test xml element constructor execut 
+VARIABLES	plugin document expectedxml expect xml groupid group artifactid artifact version configur depend execut actual xml expectedgroupid expect group expectedartifactid expect artifact expectedvers expect version expectedconfigur expect configur expecteddepend expect depend expectedexecut expect execut depend artifact depend group depend version depend xml execut configur xml execut goal execut execut phase execut xml depend execut plugin artifact plugin configur xml plugin group plugin version plugin xml plugin xml gav plugin xml depend plugin xml execut maxim plugin xml minin plugin xml element pluginel plugin element plugin mockconfigur mock configur mockdepend mock depend mockexecut mock execut plugin mockpluginconfigur mock plugin configur document mockdepend mock depend dependencyel depend element mockexecut mock execut executionel execut element plugin plugin expecteddepend expect depend executionconfigur execut configur execut 

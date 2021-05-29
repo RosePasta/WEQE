@@ -1,0 +1,13 @@
+VARSIG3	jdbcdriverprovider jdbc driver provider provider
+VARSIG2	displayaddons display add ons
+VARSIG4	jdbcdriverprovider jdbc driver provider listener
+COMMENTS	polls osgi located link jdbcdriverprovider jdbc driver provider instances returns jdbc driver instance failing location suitable link jdbcdriverprovider jdbc driver provider automatically suggests add provide driver console message caller requested add displayed tab assist implementation provide compute suitable search term jdbc driver silent console message free lookup matches render screen required
+CLASSES	pollingjdbcdrivermanager polling jdbc driver manager
+VARSIG1	driverclassname driver
+VARSIG0	jdbcdriverprovider jdbc driver provider listener
+METHODS	bindjdbcdriverprovider bind jdbc driver provider loaddriver load driver unbindjdbcdriverprovider unbind jdbc driver provider
+MTHSIG0	bindjdbcdriverprovider bind jdbc driver provider jdbcdriverprovider jdbc driver provider listener
+MTHSIG1	loaddriver load driver driverclassname driver displayaddons display add ons
+PACKAGE	springframework roo addon jdbc polling internal
+MTHSIG2	unbindjdbcdriverprovider unbind jdbc driver provider jdbcdriverprovider jdbc driver provider listener
+VARIABLES	listener driverclassname driver displayaddons display add ons provider listener logger addonsearch add search providers driver searchterms search terms matches

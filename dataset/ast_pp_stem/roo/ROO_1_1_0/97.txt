@@ -1,0 +1,38 @@
+VARSIG7	categori 
+VARSIG6	ioexcept except 
+VARSIG9	 
+VARSIG8	kei 
+VARSIG3	messag 
+VARSIG2	noofcommitstorevert commit revert 
+VARSIG5	messag 
+VARSIG4	revstr 
+COMMENTS	oper git addon transport transport transport open repositori repositori getconfig config getstr remot origin url jgit transport pushresult push result transport push checkoutbranch checkout branch branchnam branch except file workdir work dir repositori getworkdir work dir workdir work dir workdircheckout work dir checkout workdircheckout work dir checkout workdircheckout work dir checkout repositori workdir work dir repositori mapcommit map commit constant head gettre tree repositori getindex repositori mapcommit map commit branchnam branch gettre tree workdircheckout work dir checkout setfailonconflict set fail conflict workdircheckout work dir checkout checkout checkoutconflictexcept checkout conflict except illegalstateexcept illeg except checkout branchnam branch branch updat head refupd updat refupd updat repositori updateref updat constant head refupd updat link branchnam branch 
+VARSIG19	objectid object objectid object 
+VARSIG1	except 
+VARSIG18	ioexcept except 
+VARSIG0	messag 
+VARSIG17	rev 
+MTHSIG4	revertcommit revert commit noofcommitstorevert commit revert messag 
+VARSIG12	ioexcept except 
+MTHSIG5	revertcommitbyref revert commit revstr messag 
+VARSIG11	ioexcept except 
+MTHSIG6	setconfig set config categori kei 
+VARSIG10	ioexcept except 
+MTHSIG7	setup 
+MTHSIG0	isgitcommandavail git command 
+VARSIG16	except 
+MTHSIG1	issetupcommandavail setup command 
+VARSIG15	file file 
+PACKAGE	springframework roo addon git 
+MTHSIG2	commitallchang commit messag 
+VARSIG14	dircachebuild dir cach builder builder 
+MTHSIG3	push 
+VARSIG13	file file 
+MTHSIG8	getdir dir 
+MTHSIG9	addtocach add cach file file dircachebuild dir cach builder builder 
+MTHSIG11	createbranch creat branch objectid object objectid object branchnam branch 
+CLASSES	gitoperationsimpl git oper impl 
+METHODS	isgitcommandavail git command issetupcommandavail setup command commitallchang commit push revertcommit revert commit revertcommitbyref revert commit setconfig set config setup getdir dir addtocach add cach getcommitinst commit instanc createbranch creat branch 
+VARSIG20	branchnam branch 
+MTHSIG10	getcommitinst commit instanc rev 
+VARIABLES	messag noofcommitstorevert commit revert messag revstr messag categori kei file builder file rev objectid object branchnam branch repositori person pathresolv path resolv filemanag file manag metadataservic metadata servic commit result commitobjectid commit object commit workdircheckout work dir checkout gitdir git dir gitignor git ignor cach builder writer entri currenthead current head parentid parent id commit updateref updat 

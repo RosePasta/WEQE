@@ -1,0 +1,22 @@
+VARSIG7	physicaltypeid physical type
+VARSIG6	classorinterfacetypedetails type details request
+VARSIG9	downstreammid downstream mid
+VARSIG8	upstreammid upstream mid
+VARSIG3	javatype type upstreamtype upstream type
+VARSIG2	upstreamdependency upstream dependency
+VARSIG5	memberholdingtypedetails member holding type details upstreamtype upstream type
+VARSIG4	classorinterfacetypedetails type details request
+COMMENTS	triggers generation link gwtrequestmetadata gwt request metadata notified link physicaltypemetadata physical type metadata user project upstream type entity gwt request request downstream gwt request manages entities layer component gwt request request downstream instance specific downstream dependency processed
+CLASSES	gwtrequestmetadatanotificationlistener gwt request metadata notification listener
+VARSIG1	componentcontext component context context
+VARSIG0	componentcontext component context context
+METHODS	activate deactivate getdownstreaminstanceid downstream instance getdownstreamofgwtentity downstream gwt entity getdownstreamofgwtentitylayercomponent downstream gwt entity layer component getlocalmid local mid notify
+MTHSIG4	getdownstreamofgwtentitylayercomponent downstream gwt entity layer component memberholdingtypedetails member holding type details upstreamtype upstream type
+MTHSIG5	getlocalmid local mid physicaltypeid physical type
+MTHSIG6	notify upstreammid upstream mid downstreammid downstream mid
+MTHSIG0	activate componentcontext component context context
+MTHSIG1	deactivate componentcontext component context context
+PACKAGE	springframework roo addon gwt request
+MTHSIG2	getdownstreaminstanceid downstream instance upstreamdependency upstream dependency
+MTHSIG3	getdownstreamofgwtentity downstream gwt entity javatype type upstreamtype upstream type
+VARIABLES	context context upstreamdependency upstream dependency upstreamtype upstream type request upstreamtype upstream type request physicaltypeid physical type upstreammid upstream mid downstreammid downstream mid gwttypeservice gwt type service metadatadependencyregistry metadata dependency registry metadataservice metadata service typelocationservice type location service upstreamtype upstream type downstreamofgwtentitylayercomponent downstream gwt entity layer component downstreamofgwtentity downstream gwt entity gwtrequestannotation gwt request annotation attributevalue attribute entityclass entity layerentities layer entities entity typename type typepath type path downstreaminstanceid downstream instance

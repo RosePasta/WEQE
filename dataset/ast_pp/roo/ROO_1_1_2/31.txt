@@ -1,0 +1,54 @@
+MTHSIG22	getcolumnnamepattern column pattern
+MTHSIG23	getdialect dialect
+MTHSIG4	gettablename table
+MTHSIG5	getcolumnname column
+MTHSIG6	getschemas schemas
+MTHSIG7	createdatabase create database
+MTHSIG0	databaseintrospector database introspector connection connection schema schema javapackage destinationpackage destination view set includetables include tables set excludetables exclude tables
+MTHSIG1	getcatalogname catalog
+PACKAGE	springframework roo addon dbre model
+MTHSIG2	getschema schema
+MTHSIG3	getschemaname schema
+MTHSIG20	getschemapattern schema pattern
+MTHSIG21	gettablenamepattern table pattern
+MTHSIG8	gettables tables
+MTHSIG9	ignoretables ignore tables
+CLASSES	databaseintrospector database introspector
+METHODS	databaseintrospector database introspector getcatalogname catalog getschema schema getschemaname schema gettablename table getcolumnname column getschemas schemas createdatabase create database gettables tables ignoretables ignore tables readcolumns read columns readforeignkeys read foreign getcascadeaction cascade action hasincludedtable included table hasexcludedtable excluded table hastable table readindices read indices findindex find readprimarykeynames read primary key names getcatalog catalog getschemapattern schema pattern gettablenamepattern table pattern getcolumnnamepattern column pattern getdialect dialect
+VARSIG23	
+VARSIG22	set indices
+VARSIG21	
+VARSIG20	
+VARSIG24	exception
+VARSIG7	sqlexception sql exception
+VARSIG6	columnname column
+VARSIG9	table table
+VARSIG8	table table
+VARSIG3	view
+VARSIG2	javapackage destinationpackage destination
+VARSIG5	set excludetables exclude tables
+VARSIG4	set includetables include tables
+COMMENTS	creates link database database model live database jdbc check tables oracle recycle bin tables ignore catching sqlexception sql exception oracle throwing exception attempting retrieve indices deleted tables exist oracle oracle recycle bin
+VARSIG19	sqlexception sql exception
+VARSIG1	schema schema
+VARSIG18	table table
+VARSIG0	connection connection
+VARSIG17	table
+VARSIG12	actionvalue action
+VARSIG11	foreignkey foreign key foreignkey foreign key
+VARSIG10	exported
+VARSIG16	tablename table
+VARSIG15	set tables
+VARSIG14	tablename table
+VARSIG13	tablename table
+MTHSIG17	findindex find set indices
+MTHSIG18	readprimarykeynames read primary key names
+MTHSIG15	hastable table set tables tablename table
+MTHSIG16	readindices read indices table table
+MTHSIG13	hasincludedtable included table tablename table
+MTHSIG14	hasexcludedtable excluded table tablename table
+MTHSIG11	readforeignkeys read foreign table table exported
+MTHSIG12	getcascadeaction cascade action actionvalue action
+MTHSIG19	getcatalog catalog
+MTHSIG10	readcolumns read columns table table
+VARIABLES	connection schema destinationpackage destination view includetables include tables excludetables exclude tables columnname column table table exported foreignkey foreign key actionvalue action tablename table tablename table tables tablename table table table indices catalogname catalog schema destinationpackage destination view includetables include tables excludetables exclude tables tablename table columnname column schemas tables types table column ignore column foreignkeys foreign foreigntablename foreign table key foreignkey foreign key localcolumnname local column foreigncolumnname foreign column reference cascadeaction cascade action regex pattern indices type indexname indexcolumn column columnnames column names productname product

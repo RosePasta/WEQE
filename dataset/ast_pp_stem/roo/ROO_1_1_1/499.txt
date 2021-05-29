@@ -1,0 +1,46 @@
+VARSIG7	upstreamdepend upstream depend 
+VARSIG6	downstreamdepend downstream depend 
+VARSIG9	upstreamdepend upstream depend 
+VARSIG8	downstreamdepend downstream depend 
+VARSIG3	downstreamdepend downstream depend 
+VARSIG2	downstreamdepend downstream depend 
+VARSIG5	upstreamdepend upstream depend 
+VARSIG4	deleteupstream delet upstream 
+COMMENTS	implement link metadatadependencyregistri metadata depend registri implement thread safe access singl thread time enforc process manag semant avoid cost synchron kei upstream depend list kei downstream depend list maintain upstream kei map maintain downstream kei map acquir delet delet maintain upstream kei map exist maintain downstream kei map exist simplest outcom relationship exist don variabl don care downstream depend walk upstream depend depend parent depend graph verifi presenc propos downstream depend build set repres eventu upstream depend upstream depend depend valid upstream depend propos downstream dispatch fine grain instanc specif depend ensur upstreamdepend upstream depend downstream that care isvaliddepend valid depend dispatch coars grain specif depend upstream specif handl specif dispatch previou loop don notifi downstream direct instanc specif depend notifi previou loop don notifi upstream downstream doesn sens notifi event condit instanc regist receiv specif notif instanc caus event fire dispatch gener purpos addit listen 
+VARSIG19	upstreamdepend upstream depend 
+VARSIG1	upstreamdepend upstream depend 
+VARSIG18	durat 
+VARSIG0	componentcontext compon context context 
+VARSIG17	messag 
+MTHSIG4	getdownstream downstream upstreamdepend upstream depend 
+VARSIG12	downstreamdepend downstream depend 
+MTHSIG5	getupstream upstream downstreamdepend downstream depend 
+VARSIG11	set 
+MTHSIG6	isvaliddepend valid depend upstreamdepend upstream depend downstreamdepend downstream depend 
+VARSIG10	downstreamdepend downstream depend 
+MTHSIG7	buildsetofallupstreamdepend build set upstream depend set downstreamdepend downstream depend 
+MTHSIG0	activ componentcontext compon context context 
+VARSIG16	currentnotif current notif 
+MTHSIG1	registerdepend regist depend upstreamdepend upstream depend downstreamdepend downstream depend 
+VARSIG15	metadatanotificationlisten metadata notif listen listen 
+PACKAGE	springframework roo metadata intern 
+MTHSIG2	deregisterdepend deregist depend downstreamdepend downstream depend 
+VARSIG14	metadatanotificationlisten metadata notif listen listen 
+MTHSIG3	deregisterdepend deregist depend upstreamdepend upstream depend downstreamdepend downstream depend 
+VARSIG13	upstream 
+MTHSIG8	addnotificationlisten add notif listen metadatanotificationlisten metadata notif listen listen 
+MTHSIG9	removenotificationlisten remov notif listen metadatanotificationlisten metadata notif listen listen 
+MTHSIG15	getnotificationcount notif count 
+MTHSIG13	settrac set trace trace 
+MTHSIG14	gettim time 
+MTHSIG11	stopcount count durat 
+MTHSIG12	notifydownstream notifi downstream upstreamdepend upstream depend 
+CLASSES	defaultmetadatadependencyregistri metadata depend registri 
+METHODS	activ registerdepend regist depend deregisterdepend deregist depend deregisterdepend deregist depend getdownstream downstream getupstream upstream isvaliddepend valid depend buildsetofallupstreamdepend build set upstream depend addnotificationlisten add notif listen removenotificationlisten remov notif listen log stopcount count notifydownstream notifi downstream settrac set trace gettim time getnotificationcount notif count 
+VARSIG23	trace 
+VARSIG22	metadatanotificationlisten metadata notif listen listen 
+VARSIG21	downstream 
+VARSIG20	downstream 
+VARSIG24	kei 
+MTHSIG10	log currentnotif current notif messag 
+VARIABLES	context upstreamdepend upstream depend downstreamdepend downstream depend downstreamdepend downstream depend deleteupstream delet upstream upstreamdepend upstream depend downstreamdepend downstream depend upstreamdepend upstream depend downstreamdepend downstream depend upstreamdepend upstream depend downstreamdepend downstream depend downstreamdepend downstream depend upstream listen listen currentnotif current notif messag durat upstreamdepend upstream depend downstream downstream listen trace kei logger trace level notificationnumb notif number start responsibleclass respons time upstreamkei upstream kei downstreamkei downstream kei metadataservic metadata servic listen downstream upstream upstream upstreamtodelet upstream delet downstream upstream downstream upstream downstream allupstream upstream upstream hex exist durat currentnotif current notif notifieddownstream notifi downstream asclass durat result 

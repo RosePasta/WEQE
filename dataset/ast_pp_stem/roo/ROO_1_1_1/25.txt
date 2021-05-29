@@ -1,0 +1,59 @@
+MTHSIG22	getdbrexmlpath dbre xml path 
+MTHSIG4	binddatabaselisten bind databas listen databaselisten databas listen listen 
+MTHSIG5	unbinddatabaselisten unbind databas listen databaselisten databas listen listen 
+MTHSIG6	supportsschema support schema displayaddon displai add on 
+MTHSIG7	getdatabaseschema databas schema displayaddon displai add on 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	deactiv componentcontext compon context context 
+PACKAGE	springframework roo addon dbre 
+MTHSIG2	onprocessmanagerstatuschang process manag statu chang processmanagerstatu process manag statu oldstatu statu processmanagerstatu process manag statu newstatu statu 
+MTHSIG3	considerstartup startup processmanagerstatu process manag statu newstatu statu 
+MTHSIG20	getconnect connect displayaddon displai add on 
+MTHSIG21	getconnectionpropertiesfromdatanucleusconfigur connect properti data nucleu configur 
+MTHSIG8	getlastschema schema 
+VARSIG30	element propertyel properti element 
+MTHSIG9	getdatabas databas schema schema 
+CLASSES	dbremodelserviceimpl dbre model servic impl 
+VARSIG29	except 
+VARSIG28	displayaddon displai add on 
+METHODS	activ deactiv onprocessmanagerstatuschang process manag statu chang considerstartup startup binddatabaselisten bind databas listen unbinddatabaselisten unbind databas listen supportsschema support schema getdatabaseschema databas schema getlastschema schema getdatabas databas refreshdatabas refresh databas refreshdatabasesaf refresh databas safe setview set view setincludet set includ tabl setexcludet set exclud tabl getdatabas databas publishtolisten publish listen serializedatabasemetadatatofil serial databas metadata file deserializeschemametadataifposs deseri schema metadata deserializedatabasemetadataifposs deseri databas metadata getconnect connect getconnectionpropertiesfromdatanucleusconfigur connect properti data nucleu configur getdbrexmlpath dbre xml path 
+VARSIG23	databaselisten databas listen listen 
+VARSIG22	databas databas 
+VARSIG21	except 
+VARSIG20	safemod safe mode 
+VARSIG27	except 
+VARSIG26	except 
+VARSIG25	databas databas 
+VARSIG24	runtimeexcept runtim except ignoreandmoveon ignor move 
+VARSIG7	databaselisten databas listen listen 
+VARSIG6	runtimeexcept runtim except 
+VARSIG9	except 
+VARSIG8	displayaddon displai add on 
+VARSIG3	processmanagerstatu process manag statu newstatu statu 
+VARSIG2	processmanagerstatu process manag statu oldstatu statu 
+VARSIG5	databaselisten databas listen listen 
+VARSIG4	processmanagerstatu process manag statu newstatu statu 
+COMMENTS	implement link dbremodelservic dbre model servic time start listen databas simpli call regist listen discov databas listen miss startup event share thei onlin safe mode avoid tell databas separ thei command schema set fallback comput file load note chang schema field getter side free cach copi dbre xml file sourc version forc grab safe mode earlier assert determin schema store schema schema call happen schema read roo dbre xml file schema deseri disk databas cach don chang notifi leav work store store time load roo thei aeroplan fly sydnei san francisco don databas todo detect gp coordin thei syd sfo lastli let listen write databas xml note xml file store databas databas serial disk requir read databas schema xml note xml file store databas databas schema pars unavail reason read databas xml note xml file store databas databas pars unavail reason requir properti ignor element 
+VARSIG19	forcereadfromdatabas forc read databas 
+VARSIG1	componentcontext compon context context 
+VARSIG18	schema schema 
+VARSIG0	componentcontext compon context context 
+VARSIG17	set excludet exclud tabl 
+VARSIG12	schema schema 
+VARSIG11	except 
+VARSIG10	displayaddon displai add on 
+VARSIG16	set includet includ tabl 
+VARSIG15	view 
+VARSIG14	schema schema 
+VARSIG13	schema schema 
+MTHSIG17	serializedatabasemetadatatofil serial databas metadata file databas databas 
+MTHSIG18	deserializeschemametadataifposs deseri schema metadata 
+MTHSIG15	getdatabas databas schema schema forcereadfromdatabas forc read databas safemod safe mode 
+MTHSIG16	publishtolisten publish listen databas databas 
+MTHSIG13	setincludet set includ tabl set includet includ tabl 
+MTHSIG14	setexcludet set exclud tabl set excludet exclud tabl 
+MTHSIG11	refreshdatabasesaf refresh databas safe schema schema 
+MTHSIG12	setview set view view 
+MTHSIG19	deserializedatabasemetadataifposs deseri databas metadata 
+MTHSIG10	refreshdatabas refresh databas schema schema 
+VARIABLES	context context oldstatu statu newstatu statu newstatu statu listen listen displayaddon displai add on displayaddon displai add on schema schema schema view includet includ tabl excludet exclud tabl schema forcereadfromdatabas forc read databas safemod safe mode databas listen ignoreandmoveon ignor move databas displayaddon displai add on propertyel properti element propfileoper prop file oper pathresolv path resolv filemanag file manag connectionprovid connect provid processmanagerstatusprovid process manag statu provid cachedintrospect cach introspect lastschema schema view includet includ tabl excludet exclud tabl listen startupcomplet startup complet databas connect databasemetadata databas meta data schematerm schema term connect introspector databas connect introspector databas path outputstream output stream dbrexmlpath dbre xml path filedetail file detail inputstream input stream dbrexmlpath dbre xml path filedetail file detail inputstream input stream connectionproperti connect properti connectionproperti connect properti persistencexmlpath persist xml path filedetail file detail document builder propertyel properti element properti kei 

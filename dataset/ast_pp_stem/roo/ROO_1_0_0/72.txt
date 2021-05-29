@@ -1,0 +1,25 @@
+VARSIG7	flownam flow 
+VARSIG6	jspoper jsp oper jspoper jsp oper 
+VARSIG9	except 
+VARSIG8	except 
+VARSIG3	projectoper project oper projectoper project oper 
+VARSIG2	metadataservic metadata servic metadataservic metadata servic 
+VARSIG5	webmvcoper web mvc oper webmvcoper web mvc oper 
+VARSIG4	menuoper menu oper menuoper menu oper 
+COMMENTS	web flow configur oper flownam flow defin sampl flow directori clean lead requir adjust mvc config accommod spring web flow instal flow directori add creat menu item 
+VARSIG1	pathresolv path resolv pathresolv path resolv 
+VARSIG0	filemanag file manag filemanag file manag 
+MTHSIG4	updatedepend updat depend 
+VARSIG12	except 
+MTHSIG5	getpathresolv path resolv 
+VARSIG11	ioexcept except 
+VARSIG10	ioexcept except 
+MTHSIG0	webflowoper web flow oper filemanag file manag filemanag file manag pathresolv path resolv pathresolv path resolv metadataservic metadata servic metadataservic metadata servic projectoper project oper projectoper project oper menuoper menu oper menuoper menu oper webmvcoper web mvc oper webmvcoper web mvc oper jspoper jsp oper jspoper jsp oper 
+MTHSIG1	isinstallwebflowavail instal web flow 
+PACKAGE	springframework roo addon web flow 
+MTHSIG2	ismanagewebflowavail manag web flow 
+MTHSIG3	installwebflow instal web flow flownam flow 
+VARSIG13	element depend 
+CLASSES	webflowoper web flow oper 
+METHODS	webflowoper web flow oper isinstallwebflowavail instal web flow ismanagewebflowavail manag web flow installwebflow instal web flow updatedepend updat depend getpathresolv path resolv 
+VARIABLES	filemanag file manag pathresolv path resolv metadataservic metadata servic projectoper project oper menuoper menu oper webmvcoper web mvc oper jspoper jsp oper flownam flow depend logger filemanag file manag pathresolv path resolv metadataservic metadata servic projectoper project oper menuoper menu oper webmvcoper web mvc oper jspoper jsp oper mvccontextpath mvc context path mvccontextmutablefil mvc context mutabl file mvcappctx mvc app ctx root importswf swf flowdirectoryid flow directori flowdirectori flow directori flowconfig flow config tilesoper tile oper templateinputstream templat input stream dependencydoc depend doc dependenciesel depend element springdepend spring depend projectmetadata project metadata 

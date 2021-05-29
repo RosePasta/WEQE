@@ -1,0 +1,61 @@
+MTHSIG4	isautomatictrust automat trust 
+VARSIG34	inputstream input stream signatur 
+MTHSIG5	setautomatictrust set automat trust automatictrust automat trust 
+VARSIG33	inputstream input stream resourc 
+MTHSIG6	gettrustedkei trust 
+VARSIG32	pgppublickeyr pgp kei ring keyr kei ring 
+MTHSIG7	trust pgpkeyid pgp kei keyid kei 
+VARSIG31	except 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	trustdefaultkeysifrequir trust requir 
+PACKAGE	springframework roo felix pgp 
+MTHSIG2	trustdefaultkei trust 
+VARSIG36	pgppublickeyr pgp kei ring keyr kei ring 
+MTHSIG3	getkeystorephysicalloc kei store physic locat 
+VARSIG35	except 
+MTHSIG8	trust pgppublickeyr pgp kei ring keyr kei ring 
+VARSIG30	inputstream input stream signatur 
+MTHSIG9	untrust pgpkeyid pgp kei keyid kei 
+CLASSES	pgpserviceimpl pgp servic impl 
+VARSIG29	malformedurlexcept malform url except 
+VARSIG28	pgpkeyid pgp kei keyid kei 
+METHODS	activ trustdefaultkeysifrequir trust requir trustdefaultkei trust getkeystorephysicalloc kei store physic locat isautomatictrust automat trust setautomatictrust set automat trust gettrustedkei trust trust trust untrust refresh getpublickei kei getpublickei kei getkeyserverurltoretrievekeyid kei server url retriev kei getkeyserverurltoretrievekeyinform kei server url retriev kei issignatureaccept signatur accept isresourcesignedbysignatur resourc sign signatur getdiscoveredkeyid discov kei id rememberkei rememb kei 
+VARSIG23	ioexcept except 
+VARSIG22	except 
+VARSIG21	pgpkeyid pgp kei keyid kei 
+VARSIG20	ioexcept except ignor 
+VARSIG27	malformedurlexcept malform url except 
+VARSIG26	pgpkeyid pgp kei keyid kei 
+VARSIG25	except 
+VARSIG24	inputstream input stream 
+VARSIG7	except 
+VARSIG6	automatictrust automat trust 
+VARSIG9	pgpkeyid pgp kei keyid kei 
+VARSIG8	ioexcept except ignor 
+VARSIG3	url url 
+VARSIG2	url 
+VARSIG5	ioexcept except 
+VARSIG4	ioexcept except ignor 
+COMMENTS	implement link pgpservic pgp servic store user user pgp spring roo pgp bpg file kei file consid trust user expir time ship roo file automat file disk implement verifi detach armor signatur produc file gpg armor detach sign file sign ext keyserv url http pgpkei pca dfn pk lookup search seed discov databas setup trust automat user doesn pgp file trust store kei revok trust write disk trust build list trust end locat element remov record write disk trust build list refresh locat element remov record refresh can retriev store kei revok write disk obtain url download kei kei server kei upload keyid kei hex encod kei download requir url special store kei valid loop user trust kei don approv signatur user told verifi sign content simpli store kei link discoveredkeyid discov kei id refer kei id link pgppublickeyr pgp kei ring ensur input valid kei locat kei id sign kei note link discoveredkeyid discov kei id kei function simpli user conveni keyr kei ring kei store requir 
+VARSIG19	except 
+VARSIG1	url 
+VARSIG18	except 
+VARSIG0	componentcontext compon context context 
+VARSIG17	pgppublickeyr pgp kei ring candid 
+VARSIG12	ioexcept except ignor 
+VARSIG11	except 
+VARSIG10	pgppublickeyr pgp kei ring keyr kei ring 
+VARSIG16	ioexcept except ignor 
+VARSIG15	except 
+VARSIG14	pgppublickeyr pgp kei ring candid 
+VARSIG13	pgpkeyid pgp kei keyid kei 
+MTHSIG17	getdiscoveredkeyid discov kei id 
+MTHSIG18	rememberkei rememb kei pgppublickeyr pgp kei ring keyr kei ring 
+MTHSIG15	issignatureaccept signatur accept inputstream input stream signatur 
+MTHSIG16	isresourcesignedbysignatur resourc sign signatur inputstream input stream resourc inputstream input stream signatur 
+MTHSIG13	getkeyserverurltoretrievekeyid kei server url retriev kei pgpkeyid pgp kei keyid kei 
+MTHSIG14	getkeyserverurltoretrievekeyinform kei server url retriev kei pgpkeyid pgp kei keyid kei 
+MTHSIG11	getpublickei kei pgpkeyid pgp kei keyid kei 
+MTHSIG12	getpublickei kei inputstream input stream 
+MTHSIG10	refresh 
+VARIABLES	context url ignor automatictrust automat trust ignor keyid kei keyr kei ring ignor keyid kei candid ignor candid ignor keyid kei keyid kei keyid kei signatur keyr kei ring resourc signatur keyr kei ring urlinputstreamservic url input stream servic automatictrust automat trust context roo pgp file keyserv url buffer size discoveredkeyid discov kei id url sortedurl sort url kei result fi pubr pub ring rit pgppub pgp pub keyr kei ring trust fo newcollect collect trust stilltrust trust remov stilltrust trust pgpkei pgp kei candidatekeyid candid kei fo newcollect collect result trust stilltrust trust firstkei kei candidatekeyid candid kei newkeyr kei ring fo newcollect collect lookup obj pgpfact pgp fact keyr kei ring keyurl kei url keyindexurl kei url factori obj pgpsignatur pgp signatur keyidinhex kei hex signatureaccept signatur accept candid publickei kei pgpsignatur pgp signatur keyr kei ring buff chunk kei keyid kei useriditer user iter userid user signatureiter signatur iter signatur signaturekeyid signatur kei 

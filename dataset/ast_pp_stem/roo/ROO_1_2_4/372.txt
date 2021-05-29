@@ -1,0 +1,31 @@
+VARSIG7	clioption cli option kei mandatori appli annot javatyp type interfacetyp type 
+VARSIG6	clioption cli option kei usexmlconfigur xml configur mandatori spring roo configur servic xml behavior servic gae usexmlconfigur xml configur 
+VARSIG9	clioption cli option kei entiti unspecifieddefaultvalu unspecifi optioncontext option context project mandatori domain entiti servic expos javatyp type domaintyp domain type 
+VARSIG8	clioption cli option kei mandatori implement javatyp type classtyp type 
+VARSIG3	clioption cli option kei usexmlconfigur xml configur mandatori spring roo configur servic xml usexmlconfigur xml configur 
+VARSIG2	clioption cli option kei entiti unspecifieddefaultvalu unspecifi optioncontext option context project mandatori domain entiti servic expos javatyp type domaintyp domain type 
+VARSIG5	clioption cli option kei classpackag mandatori implement class interfac javapackag classpackag 
+VARSIG4	clioption cli option kei interfacepackag mandatori javapackag interfacepackag 
+COMMENTS	shell command creat domain servic 
+VARSIG19	clioption cli option kei usexmlconfigur xml configur mandatori spring roo configur servic xml usexmlconfigur xml configur 
+VARSIG1	clioption cli option kei mandatori implement javatyp type classtyp type 
+VARSIG18	clioption cli option kei usepermissionevalu permiss evalu unspecifieddefaultvalu unspecifi specifieddefaultvalu mandatori permissionevalu permiss evalu usepermissionevalu permiss evalu 
+VARSIG0	clioption cli option kei mandatori appli annot javatyp type interfacetyp type 
+VARSIG17	clioption cli option kei authorizedrol author role mandatori role author method servic addit role creation role 
+MTHSIG4	secureservic secur servic javatyp type interfacetyp type javatyp type classtyp type javatyp type domaintyp domain type requireauthent requir authent role usepermissionevalu permiss evalu usexmlconfigur xml configur 
+VARSIG12	clioption cli option kei usepermissionevalu permiss evalu unspecifieddefaultvalu unspecifi specifieddefaultvalu mandatori permissionevalu permiss evalu usepermissionevalu permiss evalu 
+MTHSIG5	secureserviceal secur servic javapackag interfacepackag javapackag classpackag requireauthent requir authent role usepermissionevalu permiss evalu usexmlconfigur xml configur 
+VARSIG11	clioption cli option kei authorizedrol author role mandatori role author method servic role 
+VARSIG10	clioption cli option kei requireauthent requir authent unspecifieddefaultvalu unspecifi specifieddefaultvalu ture mandatori user authent servic requireauthent requir authent 
+MTHSIG0	isservicecommandavail servic command 
+VARSIG16	clioption cli option kei requireauthent requir authent unspecifieddefaultvalu unspecifi specifieddefaultvalu mandatori user authent servic requireauthent requir authent 
+MTHSIG1	issecureservicecommandavail secur servic command 
+VARSIG15	clioption cli option kei classpackag mandatori implement class interfac javapackag classpackag 
+PACKAGE	springframework roo addon layer servic 
+MTHSIG2	servic javatyp type interfacetyp type javatyp type classtyp type javatyp type domaintyp domain type usexmlconfigur xml configur 
+VARSIG14	clioption cli option kei interfacepackag mandatori javapackag interfacepackag 
+MTHSIG3	servic javapackag interfacepackag javapackag classpackag usexmlconfigur xml configur 
+VARSIG13	clioption cli option kei usexmlconfigur xml configur mandatori spring roo configur servic xml usexmlconfigur xml configur 
+CLASSES	servicecommand servic command 
+METHODS	isservicecommandavail servic command issecureservicecommandavail secur servic command servic servic secureservic secur servic secureserviceal secur servic 
+VARIABLES	interfacetyp type classtyp type domaintyp domain type usexmlconfigur xml configur interfacepackag classpackag usexmlconfigur xml configur interfacetyp type classtyp type domaintyp domain type requireauthent requir authent role usepermissionevalu permiss evalu usexmlconfigur xml configur interfacepackag classpackag requireauthent requir authent role usepermissionevalu permiss evalu usexmlconfigur xml configur serviceoper servic oper projectoper project oper 

@@ -1,0 +1,105 @@
+MTHSIG28	shallowcopyfieldstate shallow copy field object src object dest
+MTHSIG26	rethrowruntimeexception rethrow runtime exception throwable
+MTHSIG27	setfield set field field field object target object
+MTHSIG24	makeaccessible accessible
+MTHSIG25	rethrowexception rethrow exception throwable
+MTHSIG22	makeaccessible accessible constructor ctor
+MTHSIG23	makeaccessible accessible field field
+MTHSIG4	dowithmethods methods targetclass target methodcallback callback methodfilter filter
+MTHSIG5	findfield find field clazz
+MTHSIG6	findfield find field clazz type
+MTHSIG7	findmethod find clazz
+MTHSIG0	declaresexception declares exception exceptiontype exception type
+MTHSIG1	dowithfields fields targetclass target fieldcallback field callback
+MTHSIG2	dowithfields fields targetclass target fieldcallback field callback fieldfilter field filter
+MTHSIG3	dowithmethods methods targetclass target methodcallback callback
+MTHSIG20	ispublicstaticfinal field field
+VARSIG70	field field
+MTHSIG21	istostringmethod
+MTHSIG8	findmethod find clazz parametertypes parameter types
+MTHSIG9	getalldeclaredmethods declared methods leafclass leaf
+METHODS	declaresexception declares exception dowithfields fields dowithfields fields dowithmethods methods dowithmethods methods findfield find field findfield find field findmethod find findmethod find getalldeclaredmethods declared methods getfield field handleinvocationtargetexception handle invocation target exception handlereflectionexception handle reflection exception handleunexpectedexception handle unexpected exception invokejdbcmethod invoke jdbc invokejdbcmethod invoke jdbc invokemethod invoke invokemethod invoke isequalsmethod equals ishashcodemethod hash code ispublicstaticfinal istostringmethod makeaccessible accessible makeaccessible accessible makeaccessible accessible rethrowexception rethrow exception rethrowruntimeexception rethrow runtime exception setfield set field shallowcopyfieldstate shallow copy field
+VARSIG67	illegalaccessexception illegal access exception
+VARSIG66	object
+VARSIG65	object target
+VARSIG64	field field
+VARSIG69	object dest
+VARSIG68	object src
+VARSIG63	throwable
+VARSIG62	throwable
+VARSIG61	
+VARSIG60	field field
+COMMENTS	simple utility working reflection api handling reflection exceptions intended internal callback invoked field hierarchy perform operation field field field operate callback optionally filter fields operated field callback determine field matches field field check action perform operation operate callback optionally fields operated callback determine matches check pre built fieldfilter field filter matches fields determine explicitly declares exception superclasses exception type propagated reflective invocation declaring exceptiontype exception type exception exception thrown wrapped invoke callback fields target hierarchy declared fields targetclass target target analyze callback invoke field invoke callback fields target hierarchy declared fields targetclass target target analyze callback invoke field filter determines fields apply callback backing inheritance hierarchy copy field declared file skip fields perform callback operation matching methods superclasses named occurring subclass superclass excluded link methodfilter filter targetclass target start callback invoke dowithmethods methods methodcallback callback methodfilter filter perform callback operation matching methods superclasses named occurring subclass superclass excluded link methodfilter filter targetclass target start callback invoke filter determines methods apply callback backing inheritance hierarchy attempt find link field field supplied link supplied searches superclasses link object clazz introspect field field object attempt find link field field supplied link supplied link type searches superclasses link object clazz introspect field type type type field field object attempt find link supplied supplied parameters searches superclasses object returns link clazz introspect object attempt find link supplied supplied parameter types searches superclasses object returns link clazz introspect parametertypes parameter types parameter types signature object declared methods leaf superclasses leaf methods included field represented supplied link field field object link object target object link field object semantics returned automatically wrapped underlying field primitive type thrown exceptions handled call link handlereflectionexception handle reflection exception exception field field target target object field field field current handle invocation target exception called checked exception expected thrown target underlying runtimeexception runtime exception error root illegalstateexception illegal exception invocation target exception handle handle reflection exception called checked exception expected thrown target underlying runtimeexception runtime exception error invocationtargetexception invocation target exception root illegalstateexception illegal exception message reflection exception handle illegalstateexception illegal exception exception root unexpected exception invoke jdbc api link supplied target object arguments invoke target target object invoke invocation result sqlexception sql exception jdbc api sqlexception sql exception rethrow invokejdbcmethod invoke jdbc lang reflect object object invoke jdbc api link supplied target object supplied arguments invoke target target object invoke invocation arguments invocation result sqlexception sql exception jdbc api sqlexception sql exception rethrow invokemethod invoke lang reflect object object invoke link supplied target object arguments target object invoking link thrown exceptions handled call link handlereflectionexception handle reflection exception invoke target target object invoke invocation result invokemethod invoke lang reflect object object invoke link supplied target object supplied arguments target object invoking link thrown exceptions handled call link handlereflectionexception handle reflection exception invoke target target object invoke invocation arguments invocation result determine equals lang object equals determine hashcode hash code lang object hashcode hash code determine field constant field field check determine tostring lang object tostring constructor accessible explicitly setting accessible setaccessible set accessible called avoid unnecessary conflicts jvm securitymanager security manager active ctor constructor accessible lang reflect constructor setaccessible set accessible field accessible explicitly setting accessible setaccessible set accessible called avoid unnecessary conflicts jvm securitymanager security manager active field field accessible lang reflect field setaccessible set accessible accessible explicitly setting accessible setaccessible set accessible called avoid unnecessary conflicts jvm securitymanager security manager active accessible lang reflect setaccessible set accessible rethrow link throwable exception target exception link invocationtargetexception invocation target exception called checked exception expected thrown target rethrows underlying exception link exception link error link illegalstateexception illegal exception exception rethrow exception rethrown exception checked exception rethrow link throwable exception target exception link invocationtargetexception invocation target exception called checked exception expected thrown target rethrows underlying exception link runtimeexception runtime exception link error link illegalstateexception illegal exception exception rethrow runtimeexception runtime exception rethrown exception set field represented supplied link field field object link object target object link field set object object semantics automatically unwrapped underlying field primitive type thrown exceptions handled call link handlereflectionexception handle reflection exception exception field field set target target object set field set source object destination subclass copy fields including inherited fields designed work objects arg constructors illegalargumentexception illegal argument exception arguments incompatible
+VARSIG19	methodfilter filter
+VARSIG18	methodcallback callback
+VARSIG17	targetclass target
+VARSIG12	fieldfilter field filter
+VARSIG11	fieldcallback field callback
+VARSIG10	targetclass target
+VARSIG16	methodcallback callback
+VARSIG15	targetclass target
+VARSIG14	illegalaccessexception illegal access exception
+VARSIG13	field field
+MTHSIG17	invokemethod invoke object target object
+MTHSIG18	isequalsmethod equals
+MTHSIG15	invokejdbcmethod invoke jdbc object target object
+MTHSIG16	invokemethod invoke object target
+MTHSIG13	handleunexpectedexception handle unexpected exception throwable
+MTHSIG14	invokejdbcmethod invoke jdbc object target
+MTHSIG11	handleinvocationtargetexception handle invocation target exception invocationtargetexception invocation target exception
+MTHSIG12	handlereflectionexception handle reflection exception exception
+MTHSIG19	ishashcodemethod hash code
+MTHSIG10	getfield field field field object target
+VARIABLES	field field field exceptiontype exception type declaredexception declared exception targetclass target targetclass target field targetclass target targetclass target clazz clazz type field clazz clazz parametertypes parameter types leafclass leaf field target target target target target field ctor field field target src dest field copyable fields declaredexceptions declared exceptions fields methods searchtype search type fields searchtype search type methods methods parametertypes parameter types modifiers srcvalue src
+VARSIG39	invocationtargetexception invocation target exception
+VARSIG34	leafclass leaf
+VARSIG33	
+VARSIG32	parametertypes parameter types
+VARSIG31	
+VARSIG38	illegalaccessexception illegal access exception
+VARSIG37	object target
+PACKAGE	springframework roo support util
+VARSIG36	field field
+VARSIG35	
+VARSIG30	clazz
+CLASSES	reflectionutils reflection utils
+VARSIG29	
+VARSIG28	clazz
+VARSIG23	
+VARSIG22	clazz
+VARSIG21	illegalaccessexception illegal access exception
+VARSIG20	
+VARSIG27	field field
+VARSIG26	type
+VARSIG25	
+VARSIG24	clazz
+VARSIG7	declaredexception declared exception
+VARSIG6	exceptiontype exception type
+VARSIG9	fieldcallback field callback
+VARSIG8	targetclass target
+VARSIG3	
+VARSIG2	
+VARSIG5	
+VARSIG4	field field
+VARSIG1	field field
+VARSIG0	field field
+VARSIG56	
+VARSIG55	
+VARSIG54	exception
+VARSIG53	object
+VARSIG59	constructor ctor
+VARSIG58	
+VARSIG57	field field
+VARSIG52	object target
+VARSIG51	
+VARSIG50	object target
+VARSIG45	object target
+VARSIG44	
+VARSIG43	object target
+VARSIG42	
+VARSIG49	
+VARSIG48	invocationtargetexception invocation target exception
+VARSIG47	illegalaccessexception illegal access exception
+VARSIG46	object
+VARSIG41	throwable
+VARSIG40	exception

@@ -1,0 +1,102 @@
+MTHSIG28	addpluginrepositori add plugin repositori list repositori repositori 
+MTHSIG29	addpluginrepositori add plugin repositori repositori repositori 
+MTHSIG26	addrepositori add repositori repositori repositori 
+MTHSIG27	removerepositori remov repositori repositori repositori 
+MTHSIG24	removedepend remov depend groupid group artifactid artifact version 
+MTHSIG25	addrepositori add repositori list repositori repositori 
+MTHSIG22	removedepend remov depend depend depend 
+MTHSIG23	removedepend remov depend groupid group artifactid artifact version classifi 
+MTHSIG4	removedependencylisten remov depend listen dependencylisten depend listen listen 
+MTHSIG5	addrepositorylisten add repositori listen repositorylisten repositori listen listen 
+MTHSIG6	removerepositorylisten remov repositori listen repositorylisten repositori listen listen 
+MTHSIG7	addpluginrepositorylisten add plugin repositori listen repositorylisten repositori listen listen 
+MTHSIG0	isprojectavail project 
+MTHSIG1	getprojectmetadata project metadata 
+MTHSIG2	getpathresolv path resolv 
+MTHSIG3	adddependencylisten add depend listen dependencylisten depend listen listen 
+MTHSIG20	adddepend add depend groupid group artifactid artifact version 
+MTHSIG21	removedepend remov depend list depend depend 
+MTHSIG8	removepluginrepositorylisten remov plugin repositori listen repositorylisten repositori listen listen 
+MTHSIG9	addpluginlisten add plugin listen pluginlisten plugin listen listen 
+MTHSIG39	addfilt add filter filter filter 
+MTHSIG37	addproperti add properti properti properti 
+MTHSIG38	removeproperti remov properti properti properti 
+MTHSIG35	updatebuildplugin updat build plugin plugin plugin 
+MTHSIG36	buildpluginupd build plugin updat plugin plugin 
+MTHSIG33	removebuildplugin remov build plugin list plugin plugin 
+MTHSIG34	removebuildplugin remov build plugin plugin plugin 
+METHODS	isprojectavail project getprojectmetadata project metadata getpathresolv path resolv adddependencylisten add depend listen removedependencylisten remov depend listen addrepositorylisten add repositori listen removerepositorylisten remov repositori listen addpluginrepositorylisten add plugin repositori listen removepluginrepositorylisten remov plugin repositori listen addpluginlisten add plugin listen removepluginlisten remov plugin listen addpropertylisten add properti listen removepropertylisten remov properti listen addfilterlisten add filter listen removefilterlisten remov filter listen updateprojecttyp updat project type adddepend add depend adddepend add depend adddepend add depend adddepend add depend adddepend add depend removedepend remov depend removedepend remov depend removedepend remov depend removedepend remov depend addrepositori add repositori addrepositori add repositori removerepositori remov repositori addpluginrepositori add plugin repositori addpluginrepositori add plugin repositori removepluginrepositori remov plugin repositori addbuildplugin add build plugin addbuildplugin add build plugin removebuildplugin remov build plugin removebuildplugin remov build plugin updatebuildplugin updat build plugin buildpluginupd build plugin updat addproperti add properti removeproperti remov properti addfilt add filter removefilt remov filter addresourc add resourc removeresourc remov resourc 
+MTHSIG31	addbuildplugin add build plugin list plugin plugin 
+MTHSIG32	addbuildplugin add build plugin plugin plugin 
+MTHSIG30	removepluginrepositori remov plugin repositori repositori repositori 
+COMMENTS	specifi method project oper determin project project exist return link projectmetadata project metadata project link projectmetadata project metadata object conveni link pathresolv path resolv project project link projectmetadata project metadata link pathresolv path resolv project unavail regist listen track build depend listen dependencylisten depend listen regist remov depend listen chang track listen dependencylisten depend listen remov regist listen track repositori listen repositorylisten repositori listen regist remov repositori listen chang track listen repositorylisten repositori listen remov regist listen track plugin repositori listen repositorylisten repositori listen regist remov plugin repositori listen chang track listen repositorylisten repositori listen remov regist listen track build plugin listen pluginlisten plugin listen regist remov build plugin listen chang track listen pluginlisten plugin listen remov regist listen track pom properti remov properti listen chang track listen propertylisten properti listen remov regist listen track pom filter listen filterlisten filter listen regist remov filter listen chang track listen filterlisten filter listen remov updat project type projecttyp project type projecttyp project type updat addit jar depend pom conveni parti instruct user cli add support project requir user manual edit pom xml write add depend list depend add requir addit jar depend pom conveni parti instruct user cli add support project requir user manual edit pom xml write add depend depend add requir addit jar depend pom conveni parti instruct user cli add support project requir user manual edit pom xml write add groupid group group depend requir artifactid artifact artifact depend requir version version depend requir scope scope depend classifi classifi depend addit jar depend pom conveni parti instruct user cli add support project requir user manual edit pom xml write add groupid group group depend requir artifactid artifact artifact depend requir version version depend requir scope scope depend addit jar depend pom conveni parti instruct user cli add support project requir user manual edit pom xml write add groupid group group depend requir artifactid artifact artifact depend requir version version depend requir remov jar depend pom conveni parti instruct user cli add support project requir user manual edit pom xml write add depend list depend remov requir remov jar depend pom conveni parti instruct user cli remov unwant depend project requir user manual edit pom xml write add depend depend remov requir remov exist jar depend pom conveni parti instruct user cli remov unwant depend project requir user manual edit pom xml write add groupid group group depend requir artifactid artifact artifact depend requir version version depend requir classifi classifi depend remov exist jar depend pom conveni parti instruct user cli remov unwant depend project requir user manual edit pom xml write add groupid group group depend requir artifactid artifact artifact depend requir version version depend requir addit repositori pom conveni parti instruct user cli add support project requir user manual edit pom xml write add repositori list repositori add requir addit repositori pom conveni parti instruct user cli add support project requir user manual edit pom xml write add repositori repositori add requir remov exist repositori pom conveni parti instruct user cli remov unwant repositori project requir user manual edit pom xml write add repositori repositori remov requir addit plugin repositori pom conveni parti instruct user cli add support project requir user manual edit pom xml write add repositori list plugin repositori add requir addit plugin repositori pom conveni parti instruct user cli add support project requir user manual edit pom xml write add repositori plugin repositori add requir remov exist plugin repositori pom conveni parti instruct user cli remov unwant plugin repositori project requir user manual edit pom xml write add repositori plugin repositori remov requir addit build plugin pom conveni parti instruct user cli add build capabl project requir user manual edit pom xml write add plugin list build plugin add requir addit build plugin pom conveni parti instruct user cli add build capabl project requir user manual edit pom xml write add plugin build plugin add requir remov exist build plugin pom conveni parti instruct user cli remov unwant build plugin project requir user manual edit pom xml write add plugin list build plugin remov requir removal exist build plugin pom conveni parti instruct user cli remov unwant build plugin project requir user manual edit pom xml write add plugin build plugin remov requir verifi build plugin silent return remov build plugin match link projectmetadata project metadata getbuildpluginsexcludingvers build plugin exclud version plugin add present plugin plugin build plugin updat requir verifi build plugin silent return remov build plugin match link projectmetadata project metadata getbuildpluginsexcludingvers build plugin exclud version plugin add present plugin deprec link updatebuildplugin updat build plugin plugin plugin build plugin updat requir addit properti pom conveni parti instruct user cli add support project requir user manual edit pom xml write add properti pom properti add requir remov exist properti pom conveni parti instruct user cli remov unwant properti project requir user manual edit pom xml write add properti pom properti remov requir addit filter pom conveni parti instruct user cli add support project requir user manual edit pom xml write add filter filter add requir remov exist filter pom conveni parti instruct user cli remov unwant filter project requir user manual edit pom xml write add filter filter remov requir addit resourc pom conveni parti instruct user cli add support project requir user manual edit pom xml write add resourc resourc add requir remov exist resourc pom conveni parti instruct user cli remov unwant resourc project requir user manual edit pom xml write add resourc resourc remov requir 
+VARSIG19	classifi 
+VARSIG18	dependencyscop depend scope scope 
+VARSIG17	version 
+VARSIG12	projecttyp project type projecttyp project type 
+VARSIG11	filterlisten filter listen listen 
+VARSIG10	filterlisten filter listen listen 
+VARSIG16	artifactid artifact 
+VARSIG15	groupid group 
+VARSIG14	depend depend 
+VARSIG13	list depend depend 
+MTHSIG17	adddepend add depend depend depend 
+MTHSIG18	adddepend add depend groupid group artifactid artifact version dependencyscop depend scope scope classifi 
+MTHSIG15	updateprojecttyp updat project type projecttyp project type projecttyp project type 
+MTHSIG16	adddepend add depend list depend depend 
+MTHSIG13	addfilterlisten add filter listen filterlisten filter listen listen 
+MTHSIG14	removefilterlisten remov filter listen filterlisten filter listen listen 
+MTHSIG11	addpropertylisten add properti listen propertylisten properti listen listen 
+MTHSIG12	removepropertylisten remov properti listen propertylisten properti listen listen 
+MTHSIG19	adddepend add depend groupid group artifactid artifact version dependencyscop depend scope scope 
+MTHSIG10	removepluginlisten remov plugin listen pluginlisten plugin listen listen 
+VARIABLES	listen listen listen listen listen listen listen listen listen listen listen listen projecttyp project type depend depend groupid group artifactid artifact version scope classifi groupid group artifactid artifact version scope groupid group artifactid artifact version depend depend groupid group artifactid artifact version classifi groupid group artifactid artifact version repositori repositori repositori repositori repositori repositori plugin plugin plugin plugin plugin plugin properti properti filter filter resourc resourc 
+VARSIG39	list repositori repositori 
+VARSIG34	artifactid artifact 
+VARSIG33	groupid group 
+VARSIG32	classifi 
+VARSIG31	version 
+VARSIG38	repositori repositori 
+VARSIG37	repositori repositori 
+PACKAGE	springframework roo project 
+VARSIG36	list repositori repositori 
+VARSIG35	version 
+VARSIG30	artifactid artifact 
+CLASSES	projectoper project oper 
+VARSIG29	groupid group 
+VARSIG28	depend depend 
+VARSIG23	dependencyscop depend scope scope 
+VARSIG22	version 
+VARSIG21	artifactid artifact 
+VARSIG20	groupid group 
+VARSIG27	list depend depend 
+VARSIG26	version 
+VARSIG25	artifactid artifact 
+VARSIG24	groupid group 
+VARSIG7	pluginlisten plugin listen listen 
+VARSIG6	pluginlisten plugin listen listen 
+VARSIG9	propertylisten properti listen listen 
+VARSIG8	propertylisten properti listen listen 
+VARSIG3	repositorylisten repositori listen listen 
+VARSIG2	repositorylisten repositori listen listen 
+VARSIG5	repositorylisten repositori listen listen 
+VARSIG4	repositorylisten repositori listen listen 
+VARSIG1	dependencylisten depend listen listen 
+VARSIG0	dependencylisten depend listen listen 
+VARSIG53	resourc resourc 
+MTHSIG42	removeresourc remov resourc resourc resourc 
+MTHSIG40	removefilt remov filter filter filter 
+MTHSIG41	addresourc add resourc resourc resourc 
+VARSIG52	resourc resourc 
+VARSIG51	filter filter 
+VARSIG50	filter filter 
+VARSIG45	plugin plugin 
+VARSIG44	list plugin plugin 
+VARSIG43	plugin plugin 
+VARSIG42	list plugin plugin 
+VARSIG49	properti properti 
+VARSIG48	properti properti 
+VARSIG47	plugin plugin 
+VARSIG46	plugin plugin 
+VARSIG41	repositori repositori 
+VARSIG40	repositori repositori 

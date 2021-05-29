@@ -1,0 +1,38 @@
+VARSIG7	metadataidentificationstring metadata identification
+VARSIG6	itdfilename filename
+VARSIG9	javatype type controller
+VARSIG8	set javatype type controllers
+VARSIG3	metadataidentificationstring metadata identification
+VARSIG2	upstreamdependency upstream dependency
+VARSIG5	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+VARSIG4	javatype type aspectname aspect
+COMMENTS	metadata provider link conversionservicemetadata conversion service metadata monitors notifications link rooconversionservice roo conversion service link roowebscaffold roo web scaffold annotated types listens scaffolded domain types domain types stores mid accepted conversionservicemetadataprovider conversion service metadata provider application wide conversion service webscaffoldmetadata web scaffold metadata upstream mid changed time don mid javatype type wasn webscaffoldmetadata web scaffold metadata superclass handle expected physicaltypeidentifier physical type identifier notification that registered receive governor applicationconversionservicefactorybean application conversion service factory bean let create track interested accessors interested methods accessors persistence version fields exclude collections arrays exclude references domain objects verbose exclude values meaningful presentation interested embedded types
+VARSIG19	path path
+VARSIG1	componentcontext component context context
+VARSIG18	javatype type javatype type
+VARSIG0	componentcontext component context context
+VARSIG17	memberdetails member details memberdetails member details
+MTHSIG4	finddomaintypesrequiringaconverter find domain types requiring converter metadataidentificationstring metadata identification set javatype type controllers
+VARSIG12	javatype type controller
+MTHSIG5	findcompositeprimarykeytypesrequiringaconverter find composite primary key types requiring converter metadataidentificationstring metadata identification set javatype type controllers
+VARSIG11	set javatype type controllers
+MTHSIG6	findrelevanttypes find relevant types javatype type type metadataidentificationstring metadata identification
+VARSIG10	metadataidentificationstring metadata identification
+MTHSIG7	ismethodofinterest interest methodmetadata metadata memberdetails member details memberdetails member details
+MTHSIG0	activate componentcontext component context context
+VARSIG16	methodmetadata metadata
+MTHSIG1	deactivate componentcontext component context context
+VARSIG15	methodmetadata metadata
+PACKAGE	springframework roo addon web mvc controller converter
+MTHSIG2	resolvedownstreamdependencyidentifier resolve downstream dependency identifier upstreamdependency upstream dependency
+VARSIG14	metadataidentificationstring metadata identification
+MTHSIG3	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+VARSIG13	javatype type type
+MTHSIG8	getitduniquenessfilenamesuffix uniqueness filename suffix
+MTHSIG9	getprovidestype type
+MTHSIG11	getgovernorphysicaltypeidentifier governor physical type identifier metadataid metadata
+CLASSES	conversionservicemetadataprovider conversion service metadata provider
+METHODS	activate deactivate resolvedownstreamdependencyidentifier resolve downstream dependency identifier getmetadata metadata finddomaintypesrequiringaconverter find domain types requiring converter findcompositeprimarykeytypesrequiringaconverter find composite primary key types requiring converter findrelevanttypes find relevant types ismethodofinterest interest getitduniquenessfilenamesuffix uniqueness filename suffix getprovidestype type createlocalidentifier create local identifier getgovernorphysicaltypeidentifier governor physical type identifier
+VARSIG20	metadataid metadata
+MTHSIG10	createlocalidentifier create local identifier javatype type javatype type path path
+VARIABLES	context context upstreamdependency upstream dependency metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename metadataidentificationstring metadata identification controllers controller metadataidentificationstring metadata identification controllers controller type metadataidentificationstring metadata identification memberdetails member details javatype type path metadataid metadata typelocationservice type location service webmetadataservice web metadata service applicationconversionservicefactorybeanmid application conversion service factory bean mid controllers relevantdomaintypes relevant domain types compositeprimarykeytypes composite primary key types relevantdomaintypes relevant domain types physicaltypemetadata physical type metadata webscaffoldannotationvalues web scaffold annotation values relevanttypes relevant types types physicaltypemetadata physical type metadata webscaffoldannotationvalues web scaffold annotation values formbackingobject form backing object memberdetails member details embeddedidfields embedded fields jsonmethodnames json names fieldmemberdetails field member details fromjsonmethod json tojsonmethod json memberdetails member details types locatedaccessors located accessors counter field fieldtype field type javatype type path

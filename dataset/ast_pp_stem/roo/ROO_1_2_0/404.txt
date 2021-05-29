@@ -1,0 +1,77 @@
+VARSIG39	object kei 
+MTHSIG4	changeproperti chang properti logicalpath logic path propertyfilepath properti file path propertyfilenam properti filenam kei 
+VARSIG34	kei 
+MTHSIG5	changeproperti chang properti logicalpath logic path propertyfilepath properti file path propertyfilenam properti filenam kei sort 
+VARSIG33	propertyfilenam properti filenam 
+MTHSIG6	manageproperti manag properti logicalpath logic path propertyfilepath properti file path propertyfilenam properti filenam map properti sort changeexist chang exist 
+VARSIG32	logicalpath logic path propertyfilepath properti file path 
+MTHSIG7	removeproperti remov properti logicalpath logic path propertyfilepath properti file path propertyfilenam properti filenam kei 
+VARSIG31	kei 
+MTHSIG0	ispropertiescommandavail properti command 
+VARSIG38	ioexcept except ioe 
+MTHSIG1	addproperti add properti logicalpath logic path propertyfilepath properti file path propertyfilenam properti filenam map properti sort changeexist chang exist 
+VARSIG37	includevalu includ valu 
+PACKAGE	springframework roo addon propfil 
+MTHSIG2	addpropertyifnotexist add properti exist logicalpath logic path propertyfilepath properti file path propertyfilenam properti filenam kei 
+VARSIG36	propertyfilenam properti filenam 
+MTHSIG3	addpropertyifnotexist add properti exist logicalpath logic path propertyfilepath properti file path propertyfilenam properti filenam kei sort 
+VARSIG35	logicalpath logic path propertyfilepath properti file path 
+MTHSIG8	getproperti properti logicalpath logic path propertyfilepath properti file path propertyfilenam properti filenam kei 
+VARSIG30	propertyfilenam properti filenam 
+MTHSIG9	getpropertykei properti logicalpath logic path propertyfilepath properti file path propertyfilenam properti filenam includevalu includ valu 
+CLASSES	propfileoperationsimpl prop file oper impl 
+VARSIG29	logicalpath logic path propertyfilepath properti file path 
+VARSIG28	entri entri 
+METHODS	ispropertiescommandavail properti command addproperti add properti addpropertyifnotexist add properti exist addpropertyifnotexist add properti exist changeproperti chang properti changeproperti chang properti manageproperti manag properti removeproperti remov properti getproperti properti getpropertykei properti getproperti properti loadproperti load properti loadproperti load properti asmap map storeprop store prop loadproperti load properti 
+VARSIG23	logicalpath logic path propertyfilepath properti file path 
+VARSIG22	sort 
+VARSIG21	 
+VARSIG20	kei 
+VARSIG27	changeexist chang exist 
+VARSIG26	sort 
+VARSIG25	map properti 
+VARSIG24	propertyfilenam properti filenam 
+VARSIG7	kei 
+VARSIG6	propertyfilenam properti filenam 
+VARSIG9	logicalpath logic path propertyfilepath properti file path 
+VARSIG8	 
+VARSIG3	sort 
+VARSIG2	map properti 
+VARSIG5	logicalpath logic path propertyfilepath properti file path 
+VARSIG4	changeexist chang exist 
+COMMENTS	properti file configur oper constant field overrid order alphabet unabl find file let creat 
+VARSIG19	propertyfilenam properti filenam 
+VARSIG1	propertyfilenam properti filenam 
+VARSIG18	logicalpath logic path propertyfilepath properti file path 
+VARSIG0	logicalpath logic path propertyfilepath properti file path 
+VARSIG17	 
+VARSIG12	 
+VARSIG11	kei 
+VARSIG55	loadingclass load 
+VARSIG10	propertyfilenam properti filenam 
+VARSIG54	filenam 
+VARSIG53	ioexcept except 
+VARSIG16	kei 
+VARSIG15	propertyfilenam properti filenam 
+VARSIG14	logicalpath logic path propertyfilepath properti file path 
+VARSIG13	sort 
+VARSIG52	comment 
+VARSIG51	outputstream output stream outputstream output stream 
+VARSIG50	properti prop 
+MTHSIG15	loadproperti load properti filenam loadingclass load 
+MTHSIG13	asmap map kei 
+MTHSIG14	storeprop store prop properti prop outputstream output stream outputstream output stream comment 
+MTHSIG11	loadproperti load properti inputstream input stream inputstream input stream 
+MTHSIG12	loadproperti load properti properti prop inputstream input stream inputstream input stream 
+VARSIG45	properti prop 
+VARSIG44	inputstream input stream inputstream input stream 
+VARSIG43	object kei 
+VARSIG42	ioexcept except ioe 
+VARSIG49	 
+VARSIG48	kei 
+VARSIG47	ioexcept except 
+VARSIG46	inputstream input stream inputstream input stream 
+MTHSIG10	getproperti properti logicalpath logic path propertyfilepath properti file path propertyfilenam properti filenam 
+VARIABLES	propertyfilepath properti file path propertyfilenam properti filenam properti sort changeexist chang exist propertyfilepath properti file path propertyfilenam properti filenam kei propertyfilepath properti file path propertyfilenam properti filenam kei sort propertyfilepath properti file path propertyfilenam properti filenam kei propertyfilepath properti file path propertyfilenam properti filenam kei sort propertyfilepath properti file path propertyfilenam properti filenam properti sort changeexist chang exist entri propertyfilepath properti file path propertyfilenam properti filenam kei propertyfilepath properti file path propertyfilenam properti filenam kei propertyfilepath properti file path propertyfilenam properti filenam includevalu includ valu ioe kei propertyfilepath properti file path propertyfilenam properti filenam ioe kei inputstream input stream prop inputstream input stream kei prop outputstream output stream comment filenam loadingclass load sort chang exist filemanag file manag projectoper project oper filepath file path mutablefil mutabl file prop serialversionuid serial version uid saveneed save need kei newvalu existingvalu exist filepath file path mutablefil mutabl file prop filepath file path mutablefil mutabl file prop filepath file path prop result info filepath file path prop result properti properti 
+VARSIG41	propertyfilenam properti filenam 
+VARSIG40	logicalpath logic path propertyfilepath properti file path 

@@ -1,0 +1,38 @@
+VARSIG7	metadataidentificationstring metadata identification
+VARSIG6	javatype type entity
+VARSIG9	javatype type aspectname aspect
+VARSIG8	metadataidentificationstring metadata identification
+VARSIG3	componentcontext component context context
+VARSIG2	logicalpath logical path path
+VARSIG5	classorinterfacetypedetails type details dodtype dod type
+VARSIG4	javatype type entity
+COMMENTS	implementation link integrationtestmetadataprovider integration test metadata provider integration test classes configurable dod classes provide relationships returns link javatype type entity entity data demand entity entity dod type type exist check existing type standard dod naming convention dod annotated classes entity entity existing dod entity parse annotation expect informed dependent metadata informed dependent metadata order handle switching gae jpa produced mids remembered regenerated jpa gae maintain list entities tested entities produce metadata changed refresh metadata handles change explicit downstream dependency physical type physicaltype physical type type changed required handles change explicit downstream dependency project metadata determine persistence changed comparing current
+VARSIG1	javatype type javatype type
+VARSIG18	upstreamdependency upstream dependency
+VARSIG0	componentcontext component context context
+VARSIG17	producedmid produced mid
+MTHSIG4	getentitysuperclass entity superclass javatype type entity
+VARSIG12	javatype type physicaltype physical type
+MTHSIG5	getgovernorphysicaltypeidentifier governor physical type identifier metadataidentificationstring metadata identification
+VARSIG11	itdfilename filename
+MTHSIG6	getitduniquenessfilenamesuffix uniqueness filename suffix
+VARSIG10	physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata
+MTHSIG7	getmetadata metadata metadataidentificationstring metadata identification javatype type aspectname aspect physicaltypemetadata physical type metadata governorphysicaltypemetadata governor physical type metadata itdfilename filename
+MTHSIG0	activate componentcontext component context context
+VARSIG16	modulename module
+MTHSIG1	createlocalidentifier create local identifier javatype type javatype type logicalpath logical path path
+VARSIG15	javatype type physicaltype physical type
+PACKAGE	springframework roo addon test
+MTHSIG2	deactivate componentcontext component context context
+VARSIG14	javatype type physicaltype physical type
+MTHSIG3	getdataondemandtype data demand type javatype type entity
+VARSIG13	javatype type type
+MTHSIG8	getprovidestype type
+MTHSIG9	handlechangestolayeringfortestedentities handle layering tested entities javatype type physicaltype physical type
+MTHSIG13	notifyforgenericlistener notify listener upstreamdependency upstream dependency
+MTHSIG11	handlegenericchangetophysicaltype handle change physical type javatype type physicaltype physical type
+MTHSIG12	handlegenericchangetoproject handle change project modulename module
+CLASSES	integrationtestmetadataproviderimpl integration test metadata provider impl
+METHODS	activate createlocalidentifier create local identifier deactivate getdataondemandtype data demand type getentitysuperclass entity superclass getgovernorphysicaltypeidentifier governor physical type identifier getitduniquenessfilenamesuffix uniqueness filename suffix getmetadata metadata getprovidestype type handlechangestolayeringfortestedentities handle layering tested entities handlechangestotestedentities handle tested entities handlegenericchangetophysicaltype handle change physical type handlegenericchangetoproject handle change project notifyforgenericlistener notify listener
+MTHSIG10	handlechangestotestedentities handle tested entities javatype type physicaltype physical type
+VARIABLES	context javatype type path context entity dodtype dod type entity metadataidentificationstring metadata identification metadataidentificationstring metadata identification aspectname aspect governorphysicaltypemetadata governor physical type metadata itdfilename filename physicaltype physical type type physicaltype physical type physicaltype physical type modulename module producedmid produced mid upstreamdependency upstream dependency layer position transaction manager attribute configurablemetadataprovider configurable metadata provider layerservice layer service projectoperations project operations managedentitytypes managed entity types producedmids produced mids wasgaeenabled gae enabled defaultdodtype dod type dodannotation dod annotation physicaltypeidentifier physical type identifier ptm ptd cid javatype type path annotationvalues annotation values entity dataondemandtype data demand type dataondemandmetadatakey data demand metadata key dataondemandmetadata data demand metadata identifiertype identifier type memberdetails member details persistencememberholdingtypedetails persistence member holding type details firstresultparameter result parameter maxresultsparameter max parameter identifieraccessormethod identifier accessor versionaccessormethod version accessor countmethodadditions count additions findmethodadditions find additions findallmethodadditions find additions findentriesmethod find entries entityparameter entity parameter flushmethodadditions flush additions mergemethodadditions merge additions persistmethodadditions persist additions removemethodadditions remove additions transactionmanager transaction manager jpaactiverecordannotation jpa active record annotation transactionmanagerattr transaction manager attr hasembeddedidentifier embedded identifier entityhassuperclass entity superclass modulename module isgaeenabled gae enabled memberholdingtypedetails member holding type details localmid local mid projectmetadata project metadata isgaeenabled gae enabled hasgaestatechanged gae changed

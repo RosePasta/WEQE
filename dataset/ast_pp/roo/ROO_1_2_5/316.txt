@@ -1,0 +1,29 @@
+VARSIG7	missingresourceexception missing resource exception
+VARSIG6	object params
+VARSIG9	messageid message
+VARSIG8	missingresourceexception missing resource exception
+VARSIG3	object params
+VARSIG2	facesmessage faces message severity severity
+VARSIG5	messageid message
+VARSIG4	locale locale
+COMMENTS	noop
+VARSIG1	messageid message
+VARSIG0	locale locale
+MTHSIG4	getmessage message messageid message object params
+VARSIG12	messageid message
+MTHSIG5	getformattedtext formatted text locale locale message object params
+VARSIG11	object params
+MTHSIG6	getlocale locale
+VARSIG10	facesmessage faces message severity severity
+MTHSIG0	messagefactory message factory
+VARSIG16	object params
+MTHSIG1	getmessage message locale locale messageid message facesmessage faces message severity severity object params
+VARSIG15	message
+PACKAGE	
+MTHSIG2	getmessage message locale locale messageid message object params
+VARSIG14	locale locale
+MTHSIG3	getmessage message messageid message facesmessage faces message severity severity object params
+VARSIG13	object params
+CLASSES	messagefactory message factory
+METHODS	messagefactory message factory getmessage message getmessage message getmessage message getmessage message getformattedtext formatted text getlocale locale
+VARIABLES	locale messageid message severity params locale messageid message params messageid message severity params messageid message params locale message params detail suffix facesmessage faces message summary detail context bundle facesmessage faces message messageformat message format locale facescontext faces context

@@ -1,0 +1,18 @@
+VARSIG3	list javasymbolnam symbol parameternam paramet name 
+VARSIG2	list annotatedjavatyp annot type paramet 
+VARSIG5	bodi 
+VARSIG4	list annotationmetadata annot metadata annot 
+COMMENTS	implement link invocablemembermetadata invoc member metadata 
+CLASSES	abstractinvocablemembermetadata invoc member metadata 
+VARSIG1	modifi 
+VARSIG0	declaredbymetadataid declar metadata 
+METHODS	abstractinvocablemembermetadata invoc member metadata getdeclaredbymetadataid declar metadata getannot annot getparameternam paramet name getparametertyp paramet type getmodifi modifi getbodi bodi 
+MTHSIG4	getparametertyp paramet type 
+MTHSIG5	getmodifi modifi 
+MTHSIG6	getbodi bodi 
+MTHSIG0	abstractinvocablemembermetadata invoc member metadata declaredbymetadataid declar metadata modifi list annotatedjavatyp annot type paramet list javasymbolnam symbol parameternam paramet name list annotationmetadata annot metadata annot bodi 
+MTHSIG1	getdeclaredbymetadataid declar metadata 
+PACKAGE	springframework roo classpath detail 
+MTHSIG2	getannot annot 
+MTHSIG3	getparameternam paramet name 
+VARIABLES	declaredbymetadataid declar metadata modifi paramet parameternam paramet name annot bodi annot parameternam paramet name paramet bodi declaredbymetadataid declar metadata modifi 

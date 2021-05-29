@@ -1,0 +1,22 @@
+VARSIG6	object obj
+VARSIG3	columnsize column size
+VARSIG2	columnname column
+VARSIG5	columndefinition column definition
+VARSIG4	scale
+COMMENTS	represents entity identifier
+CLASSES	identifier
+VARSIG1	javatype type fieldtype field type
+VARSIG0	javasymbolname symbol fieldname field
+METHODS	identifier getfieldname field getfieldtype field type getcolumnname column getcolumnsize column size getscale scale getcolumndefinition column definition hashcode hash code equals tostring
+MTHSIG4	getcolumnsize column size
+MTHSIG5	getscale scale
+MTHSIG6	getcolumndefinition column definition
+MTHSIG7	hashcode hash code
+MTHSIG0	identifier javasymbolname symbol fieldname field javatype type fieldtype field type columnname column columnsize column size scale columndefinition column definition
+MTHSIG1	getfieldname field
+PACKAGE	springframework roo addon entity
+MTHSIG2	getfieldtype field type
+MTHSIG3	getcolumnname column
+VARIABLES	fieldname field fieldtype field type columnname column columnsize column size scale columndefinition column definition obj fieldname field fieldtype field type columnname column columnsize column size scale columndefinition column definition prime result
+MTHSIG8	equals object obj
+MTHSIG9	tostring

@@ -1,0 +1,54 @@
+MTHSIG22	tostring
+MTHSIG4	ispluginrepositoryregistered plugin repository registered repository repository
+MTHSIG5	isbuildpluginregistered build plugin registered plugin plugin
+MTHSIG6	ispropertyregistered property registered property property
+MTHSIG7	isfilterregistered filter registered filter filter
+MTHSIG0	projectmetadata project metadata javapackage toplevelpackage top level projectname project set dependency dependencies set plugin buildplugins build plugins set repository repositories set repository pluginrepositories plugin repositories set property pomproperties pom properties set filter filters set resource resources pathresolver path resolver pathresolver path resolver
+MTHSIG1	getprojectidentifier project identifier
+PACKAGE	springframework roo project
+MTHSIG2	isdependencyregistered dependency registered dependency dependency
+MTHSIG3	isrepositoryregistered repository registered repository repository
+MTHSIG20	isdatanucleusenabled data nucleus enabled
+MTHSIG21	isvmforceenabled mforce enabled
+MTHSIG8	isresourceregistered resource registered resource resource
+MTHSIG9	gettoplevelpackage top level
+CLASSES	projectmetadata project metadata
+METHODS	projectmetadata project metadata getprojectidentifier project identifier isdependencyregistered dependency registered isrepositoryregistered repository registered ispluginrepositoryregistered plugin repository registered isbuildpluginregistered build plugin registered ispropertyregistered property registered isfilterregistered filter registered isresourceregistered resource registered gettoplevelpackage top level getprojectname project getpathresolver path resolver getdependencies dependencies getdependenciesexcludingversion dependencies excluding version getbuildplugins build plugins getbuildpluginsexcludingversion build plugins excluding version getpropertiesexcludingvalue properties excluding getfilters filters getresources resources isgaeenabled gae enabled isdatanucleusenabled data nucleus enabled isvmforceenabled mforce enabled tostring
+VARSIG23	plugin buildplugin build plugin
+VARSIG22	property
+VARSIG21	property property
+VARSIG20	plugin
+VARSIG25	dependency dependency
+VARSIG24	plugin buildplugin build plugin
+VARSIG7	set filter filters
+VARSIG6	set property pomproperties pom properties
+VARSIG9	pathresolver path resolver pathresolver path resolver
+VARSIG8	set resource resources
+VARSIG3	set plugin buildplugins build plugins
+VARSIG2	set dependency dependencies
+VARSIG5	set repository pluginrepositories plugin repositories
+VARSIG4	set repository repositories
+COMMENTS	represents project roo instance single project active time project add ons expected subclass link projectmetadata project metadata implement methods link projectmetadata project metadata offers convenience methods acquiring project top level project registered dependencies path resolution services concrete subclasses register correct dependencies project build system requires read files change subclasses provide valid link pathresolver path resolver implementation understands target project layout mid springframework roo project projectmetadata project metadata project convenience determining dependency registered dependency check required dependency registered convenience determining repository registered repository check required repository registered convenience determining plugin repository registered repository repository check required plugin repository registered convenience determining build plugin registered plugin check required build plugin registered convenience determining pom property registered property check required property registered convenience determining filter registered filter check required filter registered convenience determining resource registered resource check required resource registered unmodifiable representation dependencies empty locates dependencies match presented dependency excluding version number upgrade cases locate dependencies group artifact type identifications removed dependency locate required note version number comparisons matching dependencies returns empty link set unmodifiable collection build plugins empty locates build plugins match presented plugin excluding version number upgrade cases locate build plugins group artifact identifications removed plugin locate required note version number comparisons matching plugins returns empty link set locates properties match presented property excluding upgrade cases locate properties removed property locate required note comparisons matching properties returns empty link set unmodifiable representation filters empty unmodifiable representation resources empty determines google app engine maven plugin exists pom maven gae plugin pom xml determines datanucleus data nucleus maven plugin exists pom maven datanucleus plugin pom xml determines vmforce mforce maven dependency exists pom salesforce sdk persistence pom xml
+VARSIG19	plugin plugin
+VARSIG1	projectname project
+VARSIG18	dependency
+VARSIG0	javapackage toplevelpackage top level
+VARSIG17	dependency dependency
+VARSIG12	repository repository
+VARSIG11	repository repository
+VARSIG10	dependency dependency
+VARSIG16	resource resource
+VARSIG15	filter filter
+VARSIG14	property property
+VARSIG13	plugin plugin
+MTHSIG17	getfilters filters
+MTHSIG18	getresources resources
+MTHSIG15	getbuildpluginsexcludingversion build plugins excluding version plugin plugin
+MTHSIG16	getpropertiesexcludingvalue properties excluding property property
+MTHSIG13	getdependenciesexcludingversion dependencies excluding version dependency dependency
+MTHSIG14	getbuildplugins build plugins
+MTHSIG11	getpathresolver path resolver
+MTHSIG12	getdependencies dependencies
+MTHSIG19	isgaeenabled gae enabled
+MTHSIG10	getprojectname project
+VARIABLES	toplevelpackage top level projectname project dependencies buildplugins build plugins repositories pluginrepositories plugin repositories pomproperties pom properties filters resources pathresolver path resolver dependency repository repository plugin property filter resource dependency plugin property buildplugin build plugin buildplugin build plugin dependency project identifier toplevelpackage top level projectname project dependencies buildplugins build plugins repositories pluginrepositories plugin repositories pomproperties pom properties filters resources pathresolver path resolver result result result tsc

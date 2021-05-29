@@ -1,0 +1,14 @@
+VARSIG7	requirescommand requires command
+VARSIG6	compatibleonly compatible
+VARSIG3	linesperresult lines result
+VARSIG2	refresh
+VARSIG5	trustedonly trusted
+VARSIG4	maxresults max
+COMMENTS	defining add search service included support module roo roo core infrastructure modules require add search capabilities search add ons presently roo instance including add ons downloaded installed user optionally emitted console link logger info showfeedback feedback output messages console required searchterms search terms comma separated list search terms required refresh attempt fresh download roobot xml optional linesperresult lines result maximum number lines add optional maxresults max maximum number display optional trustedonly trusted display trusted add ons search optional compatibleonly compatible display compatible add ons search optional requirescommand requires command display add ons offer command optional total number matches displayed maxresults max add list unavailable reason network problems
+CLASSES	addonsearch add search
+VARSIG1	searchterms search terms
+VARSIG0	showfeedback feedback
+METHODS	searchaddons search add ons
+MTHSIG0	searchaddons search add ons showfeedback feedback searchterms search terms refresh linesperresult lines result maxresults max trustedonly trusted compatibleonly compatible requirescommand requires command
+PACKAGE	springframework roo support api
+VARIABLES	showfeedback feedback searchterms search terms refresh linesperresult lines result maxresults max trustedonly trusted compatibleonly compatible requirescommand requires command

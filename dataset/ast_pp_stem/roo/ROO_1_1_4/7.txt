@@ -1,0 +1,90 @@
+MTHSIG28	updateapplicationnam updat applic name 
+MTHSIG29	updateprovisionedservic updat provis servic 
+MTHSIG26	crypt input opmod 
+MTHSIG27	getciph cipher opmod 
+MTHSIG24	encodeloginprefentri encod login pref entri list entri 
+MTHSIG25	decodeloginprefentri decod login pref entri entri 
+MTHSIG22	encodeloginprefentri encod login pref entri email password cloudcontrollerurl cloud control url 
+MTHSIG23	decodeloginprefentri decod login pref entri encodedentri encod entri 
+VARSIG39	except 
+MTHSIG4	login email password cloudcontrollerurl cloud control url 
+VARSIG34	list entri 
+MTHSIG5	putprefer prefer prefkei pref kei prefvalu pref 
+VARSIG33	ioexcept except 
+MTHSIG6	getprefer prefer prefkei pref kei 
+VARSIG32	encodedfield encod field 
+MTHSIG7	getclient client 
+VARSIG31	encodedentri encod entri 
+MTHSIG0	deactiv componentcontext compon context 
+VARSIG38	opmod 
+MTHSIG1	activ componentcontext compon context context 
+VARSIG37	input 
+PACKAGE	springframework roo addon cloud foundri 
+MTHSIG2	beforetransmiss transmiss transmissiontyp transmiss type type 
+VARSIG36	encodedentri encod entri 
+MTHSIG3	aftertransmiss transmiss transmissiontyp transmiss type type success 
+VARSIG35	entri 
+MTHSIG20	getstoredmatch store match valuekei kei datakei data kei 
+MTHSIG21	getstoredloginpref store login pref 
+MTHSIG8	getapplicationnam applic name 
+VARSIG30	cloudcontrollerurl cloud control url 
+MTHSIG9	getprovisionedservic provis servic 
+MTHSIG33	getpreferencesfor prefer clazz 
+CLASSES	cloudfoundrysessionimpl cloud foundri session impl 
+VARSIG29	password 
+VARSIG28	email 
+METHODS	deactiv activ beforetransmiss transmiss aftertransmiss transmiss login putprefer prefer getprefer prefer getclient client getapplicationnam applic name getprovisionedservic provis servic getboundurlmap bound url map getapplicationmemoryopt applic memori option getprovisionedservic provis servic getservic servic getservicetyp servic type getstoredemail store email getstoredurl store url getstoreddata store data getstoredurlsforemail store url email getstoredemailsforurl store email url getstoredmatch store match getstoredloginpref store login pref encodeloginprefentri encod login pref entri decodeloginprefentri decod login pref entri encodeloginprefentri encod login pref entri decodeloginprefentri decod login pref entri crypt getciph cipher updateapplicationnam updat applic name updateprovisionedservic updat provis servic updateservicetyp updat servic type updateurlmap updat url map updatememoryopt updat memori option getpreferencesfor prefer 
+VARSIG23	url 
+VARSIG22	email 
+VARSIG21	map map 
+VARSIG20	kei 
+VARSIG27	map map 
+VARSIG26	datakei data kei 
+VARSIG25	valuekei kei 
+VARSIG24	 
+MTHSIG31	updateurlmap updat url map 
+MTHSIG32	updatememoryopt updat memori option 
+MTHSIG30	updateservicetyp updat servic type 
+VARSIG7	password 
+VARSIG6	email 
+VARSIG9	map map 
+VARSIG8	cloudcontrollerurl cloud control url 
+VARSIG3	transmissiontyp transmiss type type 
+VARSIG2	componentcontext compon context context 
+VARSIG5	success 
+VARSIG4	transmissiontyp transmiss type type 
+COMMENTS	todo replac call versionhelp version helper getproductfromdictionari product dictionari uaa set url store url todo uaa uaa preferencesutil prefer util wait uaa uaa earlier creat prefer object suppress creat user prefer directori messag prefer directori 
+VARSIG19	serviceconfigur servic configur serviceconfigur servic configur 
+VARSIG1	backingstoreexcept back store except 
+VARSIG18	servicevendor servic vendor 
+VARSIG0	componentcontext compon context 
+VARSIG17	provisionedservicenam provis servic 
+VARSIG12	malformedurlexcept malform url except 
+VARSIG11	except 
+VARSIG10	map map 
+VARSIG16	unsupportedencodingexcept unsupport encod except 
+VARSIG15	prefkei pref kei 
+VARSIG14	prefvalu pref 
+VARSIG13	prefkei pref kei 
+VARSIG50	clazz 
+MTHSIG17	getstoreddata store data kei 
+MTHSIG18	getstoredurlsforemail store url email email 
+MTHSIG15	getstoredemail store email 
+MTHSIG16	getstoredurl store url 
+MTHSIG13	getservic servic servicevendor servic vendor 
+MTHSIG14	getservicetyp servic type 
+MTHSIG11	getapplicationmemoryopt applic memori option 
+MTHSIG12	getprovisionedservic provis servic provisionedservicenam provis servic 
+MTHSIG19	getstoredemailsforurl store email url url 
+VARSIG45	cloudappl cloud applic app 
+VARSIG44	invalidkeyexcept invalid kei except 
+VARSIG43	nosuchalgorithmexcept algorithm except 
+VARSIG42	nosuchpaddingexcept pad except 
+VARSIG49	memoryopt memori option 
+VARSIG48	cloudappl cloud applic app 
+VARSIG47	serviceconfigur servic configur servicetyp servic type 
+VARSIG46	cloudservic cloud servic provisionedservic provis servic 
+MTHSIG10	getboundurlmap bound url map 
+VARIABLES	context type type success email password cloudcontrollerurl cloud control url map map prefkei pref kei prefvalu pref prefkei pref kei provisionedservicenam provis servic servicevendor servic vendor serviceconfigur servic configur kei map email url valuekei kei datakei data kei map email password cloudcontrollerurl cloud control url encodedentri encod entri encodedfield encod field entri entri encodedentri encod entri input opmod opmod app provisionedservic provis servic servicetyp servic type app memoryopt memori option clazz logger empti email kei password kei url kei roo kei vcloud kei uaaservic uaa servic prefer product client appnam app name provisionedservic provis servic servicetyp servic type boundurlmap bound url map memoryopt memori option bundlevers bundl version gitcommithash git commit hash storecredenti store credenti urlmatch url match emailmatch email match list vcloudurl cloud url simplefactori simpl factori list entri storeddata store data list list match encodedpref encod pref encodedemail encod email encodedpassword encod password encodedurl encod url map encodedfield encod field valuepair pair encodedentri encod entri list cipher keyspec kei spec keyfactori kei factori skei cipher boundurlmap bound url map origin 
+VARSIG41	invalidkeyspecexcept invalid kei spec except 
+VARSIG40	opmod 

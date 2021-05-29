@@ -1,0 +1,24 @@
+VARSIG7	componentcontext component context context
+VARSIG6	downstreamdependency downstream dependency
+VARSIG9	javatype type javatype type
+VARSIG8	componentcontext component context context
+VARSIG3	classorinterfacetypedetails type details governortypedetails governor type details
+VARSIG2	classorinterfacetypedetails type details details
+VARSIG5	upstreamdependency upstream dependency
+VARSIG4	entitymetadata entity metadata entitymetadata entity metadata
+COMMENTS	monitors types creates updates deletes gwt files maintained mirror compatible object find list mirror compatible objects link mirrortype mirror type rooentity roo entity instances mirror compatible roo add ons provider aims expose contents files link gwtmetadata gwt metadata attempts avoiding writing disk separate type monitors creation deletion aforementioned files maintain global indexes abort early can start converting mid concept governor mid refers governor abort file source path abort file gwt directories governor governor let handle proxy produce modify delete applicable governor lookup existing proxy type verify mapped governor mid detect collisions abort deleting verify don delete create delete type collisions key presently exists sanity check read original type let verify expecting excellent uniqueness care let metadata discover fields enums handle governor deleted unavailable suitable mirroring delete key trigger listener delete general strategy instantiate gwtmetadata gwt metadata offers conceptual representation key specific types comparisons write disk needed output type details determine canonical filename create modify file support enums won bikeshed sample doesn physical type changed determine local metadata identification proceed downstream dependency relationship registered registered event delivered instance specific downstream dependency processed
+CLASSES	gwtmetadataprovider gwt metadata provider
+VARSIG1	gwtpath gwt path path
+VARSIG0	metadataidentificationstring metadata identification
+METHODS	ismappable mappable notify getprojectmetadata project metadata activate deactivate createlocalidentifier create local identifier getprovidestype type
+MTHSIG4	activate componentcontext component context context
+MTHSIG5	deactivate componentcontext component context context
+MTHSIG6	createlocalidentifier create local identifier javatype type javatype type path path
+VARSIG10	path path
+MTHSIG7	getprovidestype type
+MTHSIG0	metadataidentificationstring metadata identification
+MTHSIG1	ismappable mappable classorinterfacetypedetails type details governortypedetails governor type details entitymetadata entity metadata entitymetadata entity metadata
+PACKAGE	springframework roo addon gwt
+MTHSIG2	notify upstreamdependency upstream dependency downstreamdependency downstream dependency
+MTHSIG3	getprojectmetadata project metadata
+VARIABLES	metadataidentificationstring metadata identification path details governortypedetails governor type details entitymetadata entity metadata upstreamdependency upstream dependency downstreamdependency downstream dependency context context javatype type path metadatadependencyregistry metadata dependency registry filemanager file manager metadataservice metadata service mirrortypenamingstrategy mirror type naming strategy classpathoperations classpath operations physicaltypemetadataprovider physical type metadata provider projectmetadata project metadata governortypename governor type governortypepath governor type path governorphysicaltypemetadata governor physical type metadata governortypedetails governor type details keytypename key type keytypepath key type path keyphysicaltypemetadata key physical type metadata cid roogwtannotation roo gwt annotation actualvalue actual beaninfometadata bean info metadata entitymetadata entity metadata keypath key path gwtmetadata gwt metadata physicallocationcanonicalpath physical location canonical path tocreate create projectmetadata project metadata typename type typepath type path

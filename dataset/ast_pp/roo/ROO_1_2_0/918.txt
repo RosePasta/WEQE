@@ -1,0 +1,9 @@
+MTHSIG0	setup set
+MTHSIG1	getprovider provider
+PACKAGE	springframework roo project packaging
+MTHSIG2	testidisnotblank test blank
+MTHSIG3	testtemplateexists test template exists
+COMMENTS	convenient superclass writing tests concrete link packagingprovider packaging provider implementations fixture subclasses instance provider tested instance set invoke check
+CLASSES	packagingprovidertestcase packaging provider test
+VARIABLES	provider pomtemplate pom template pomtemplateurl pom template url
+METHODS	setup set getprovider provider testidisnotblank test blank testtemplateexists test template exists

@@ -1,0 +1,21 @@
+VARSIG7	physicaltypemetadata physic type metadata governorphysicaltyp governor physic type 
+VARSIG6	javatyp type aspectnam aspect 
+VARSIG8	itdfilenam filenam 
+VARSIG3	componentcontext compon context context 
+VARSIG2	logicalpath logic path path 
+VARSIG5	metadataidentificationstr metadata identif 
+VARSIG4	metadataidentificationstr metadata identif 
+COMMENTS	implement link mongoentitymetadataprovid mongo entiti metadata provid governor governor member detail parent type don proce superclass annot roomongoent roo mongo entiti trigger annot pretti don proce 
+CLASSES	mongoentitymetadataproviderimpl mongo entiti metadata provid impl 
+VARSIG1	javatyp type javatyp type 
+VARSIG0	componentcontext compon context context 
+METHODS	activ createlocalidentifi creat local identifi deactiv getgovernorphysicaltypeidentifi governor physic type identifi getitduniquenessfilenamesuffix uniqu filenam suffix getmetadata metadata getprovidestyp type 
+MTHSIG4	getitduniquenessfilenamesuffix uniqu filenam suffix 
+MTHSIG5	getmetadata metadata metadataidentificationstr metadata identif javatyp type aspectnam aspect physicaltypemetadata physic type metadata governorphysicaltyp governor physic type itdfilenam filenam 
+MTHSIG6	getprovidestyp type 
+MTHSIG0	activ componentcontext compon context context 
+MTHSIG1	createlocalidentifi creat local identifi javatyp type javatyp type logicalpath logic path path 
+PACKAGE	springframework roo addon layer repositori mongo 
+MTHSIG2	deactiv componentcontext compon context context 
+MTHSIG3	getgovernorphysicaltypeidentifi governor physic type identifi metadataidentificationstr metadata identif 
+VARIABLES	context javatyp type path context metadataidentificationstr metadata identif metadataidentificationstr metadata identif aspectnam aspect governorphysicaltyp governor physic type itdfilenam filenam field matcher accessor matcher mutat matcher persist type matcher customdatakeydecor custom data kei decor javatyp type path annotationvalu annot valu identifiertyp identifi type memberdetail member detail parent 

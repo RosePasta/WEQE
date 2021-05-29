@@ -1,0 +1,34 @@
+VARSIG7	usexmlconfiguration xml configuration
+VARSIG6	usepermissionevaluator permission evaluator
+VARSIG9	javatype type classtype type
+VARSIG8	javatype type interfacetype type
+VARSIG3	javatype type domaintype domain type
+VARSIG2	javatype type interfacetype type
+VARSIG5	role
+VARSIG4	requireauthentication require authentication
+COMMENTS	link serviceoperations service operations implementation type exists type exists verify security installed verify permissionevaluator permission evaluator created
+VARSIG19	usepermissionevaluator permission evaluator
+VARSIG1	javatype type classtype type
+VARSIG18	role
+VARSIG0	javatype type interfacetype type
+VARSIG17	requireauthentication require authentication
+MTHSIG4	issecureserviceinstallationpossible secure service installation
+VARSIG12	role
+MTHSIG5	setupservice setup service javatype type interfacetype type javatype type classtype type javatype type domaintype domain type requireauthentication require authentication role usepermissionevaluator permission evaluator usexmlconfiguration xml configuration
+VARSIG11	requireauthentication require authentication
+MTHSIG6	setupallservices setup services javapackage interfacepackage javapackage classpackage requireauthentication require authentication role usepermissionevaluator permission evaluator usexmlconfiguration xml configuration
+VARSIG10	javatype type domaintype domain type
+MTHSIG0	createserviceclass create service javatype type interfacetype type javatype type classtype type
+VARSIG16	javapackage classpackage
+MTHSIG1	createserviceinterface create service javatype type interfacetype type javatype type domaintype domain type requireauthentication require authentication role usepermissionevaluator permission evaluator usexmlconfiguration xml configuration
+VARSIG15	javapackage interfacepackage
+PACKAGE	springframework roo addon layers service
+MTHSIG2	ispermissionevaluatorinstalled permission evaluator installed
+VARSIG14	usexmlconfiguration xml configuration
+MTHSIG3	isserviceinstallationpossible service installation
+VARSIG13	usepermissionevaluator permission evaluator
+CLASSES	serviceoperationsimpl service operations impl
+METHODS	createserviceclass create service createserviceinterface create service ispermissionevaluatorinstalled permission evaluator installed isserviceinstallationpossible service installation issecureserviceinstallationpossible secure service installation setupservice setup service setupallservices setup services
+VARSIG21	classorinterfacetypedetails type details domaintype domain type
+VARSIG20	usexmlconfiguration xml configuration
+VARIABLES	interfacetype type classtype type interfacetype type domaintype domain type requireauthentication require authentication role usepermissionevaluator permission evaluator usexmlconfiguration xml configuration interfacetype type classtype type domaintype domain type requireauthentication require authentication role usepermissionevaluator permission evaluator usexmlconfiguration xml configuration interfacepackage classpackage requireauthentication require authentication role usepermissionevaluator permission evaluator usexmlconfiguration xml configuration domaintype domain type filemanager file manager pathresolver path resolver projectoperations project operations typemanagementservice type management service typelocationservice type location service classidentifier identifier classmid mid classtypebuilder type builder interfaceidentifier identifier interfaceannotationmetadata annotation metadata interfacemid mid interfacetypebuilder type builder types interfacetype type classtype type

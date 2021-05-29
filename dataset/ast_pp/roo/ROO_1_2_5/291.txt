@@ -1,0 +1,15 @@
+VARSIG3	filename
+VARSIG2	expectedcontents expected contents
+COMMENTS	unit test link jpaoperationsimpl jpa operations impl fixture creates link inputstream input stream time read spring application context pom application context xml required fresh stream creates link inputstream input stream time read pom pom pom xml required fresh stream mocks object test hard ugly mock set existing persistence xml invoke check set existing persistence xml invoke check verifies mock link filemanager file manager asked write contents file expectedcontents expected contents contents expect written filename file expect written replace dummy terminator platform specific applied xmlutils xml utils nodetostring node
+CLASSES	jpaoperationsimpltest jpa operations impl test
+VARSIG1	pom
+VARSIG0	appcontext app context
+METHODS	getappcontextinputstream app context input stream getpominputstream pom input stream setup set testconfigurejpaforh inmemoryandhibernateandjndifornewproject test configure jpa memory hibernate jndi project testconfigurejpaforh inmemoryandhibernatefornewproject test configure jpa memory hibernate project verifyfileupdate verify file update
+MTHSIG4	testconfigurejpaforh inmemoryandhibernatefornewproject test configure jpa memory hibernate project
+MTHSIG5	verifyfileupdate verify file update expectedcontents expected contents filename
+MTHSIG0	getappcontextinputstream app context input stream appcontext app context
+MTHSIG1	getpominputstream pom input stream pom
+PACKAGE	springframework roo addon jpa
+MTHSIG2	setup set
+MTHSIG3	testconfigurejpaforh inmemoryandhibernateandjndifornewproject test configure jpa memory hibernate jndi project
+VARIABLES	appcontext app context pom expectedcontents expected contents filename app context application context path dialect host jndi password user expected application context expected jndi application context expected persistence xml memory hibernate persistence path persistence unit pom pom path transaction manager dialects jpaoperations jpa operations mockfilemanager mock file manager mockpathresolver mock path resolver mockprojectoperations mock project operations mockpropfileoperations mock prop file operations ormprovider orm provider jdbcdatabase jdbc database ormprovider orm provider jdbcdatabase jdbc database textcaptor text captor normalisedcontents normalised contents
