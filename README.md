@@ -11,3 +11,9 @@ Misoo Kim, Youngkyoung Kim, Eunseok Lee, "[A Novel Automatic Query Expansion wit
 - **./results/** : AQE results and expanded queries
 - **./rose_util/** : Util files
 - **./weqe.py** : Main file
+
+
+# Contributor
+  - Misoo Kim (misoo12@skku.edu, hanul1546@gmail.com)
+  - Youngkyoung Kim (agnes66@skku.edu)
+  - Eunseok Lee (leees@skku.edu)
